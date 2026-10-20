@@ -1,0 +1,172 @@
+Digital Omnibus 
+Call for Feedback
+Apple response
+
+February 2026
+Ref. Ares(2026)2208880 - 27/02/2026
+
+ 
+As outlined in our response to the European Commission’s consultation on the Consumer 
+Agenda 2025-2030, Apple is committed to continuing to help foster a digital economy that 1
+supports meaningful and safe experiences for European consumers. We support the 
+European Commission’s ambition to simplify and streamline regulations with the Digital 
+Omnibus proposal, while ensuring it maintains the highest standards of fundamental rights 
+and privacy. We believe the proposal provides a meaningful opportunity to incentivize 
+privacy-preserving innovation.  
+In this submission, based on our privacy track record, we make targeted recommendations 
+to help achieve this goal while ensuring legal clarity. We look forward to working with the 
+European Commission, Parliament, and Council as they review the Digital Omnibus 
+proposal.  
+ For an overview of Apple’s approach to user protection, see Apple’s submission to the EU Consumer 1
+Agenda 2025-30 - “Empowering users in the digital economy” , August 2025 - link
+Digital Omnibus Call for Feedback  
+Apple Response - February 2026 2
+At Apple, our mission is to create technology that empowers people and enriches their lives. 
+We put our users at the centre of everything we do, from how we design our products, 
+services, and software to the policies we support. 
+We believe privacy is a fundamental human right. We design all of our products with a 
+relentless focus on privacy, innovating to provide seamless user experiences that set the 
+industry standard for privacy, security, and safety.  
+Unlike many companies, Apple believes in collecting only the personal data required to 
+deliver what users need. Whenever possible, we process and analyze personal data on-
+device — and in instances where specific personal data is necessary, we minimize the 
+amount we use to provide the intended service. Apple’s web browser, Safari, also includes 
+state-of-the-art privacy features designed to help stop websites and data-collection 
+companies from profiling users based on their browsing activity. 
+The Digital Omnibus is an opportunity to incentivize privacy-preserving innovation 
+while streamlining the regulatory framework. In this submission, Apple provides concrete 
+recommendations to achieve this goal, including: 
+‣Update the ePrivacy consent requirement to ensure more consistency between the 
+treatment of personal and non-personal data. This will incentivize companies deliver 
+innovative, privacy-by-design features, including on-device processing.  
+‣Ensure that existing best practices, such as browser based by-default efforts to block 
+user profiling, are recognized alongside efforts to simplify cookie consents.
+Delivering a simpler regulatory environment which incentivizes privacy 
+innovation 
+Apple has long publicly supported the GDPR and ePrivacy legal frameworks. For years, 
+these frameworks have served as a compass for legislators worldwide — demonstrating 
+how to create an effective system of individual rights that is adaptable to the dynamism of 
+data flows and the digital economy. In addition, we have been one of few companies to 
+support modernizing the outdated ePrivacy regime to reflect technological advances. We 
+welcome that the EU Omnibus legislation seeks to reignite those discussions. 
+Apple supports the Digital Omnibus proposal’s regulatory simplification objectives. We 
+believe the EU should maintain a streamlined, coherent regulatory environment that 
+encourages innovation, provided that it maintains high standards for privacy and data 
+protection. Reducing unnecessary complexity will create a more predictable environment 
+that benefits European users and businesses alike, allowing us to focus resources on 
+delivering innovative, secure and privacy-first products and services. 
+The Digital Omnibus proposal introduces a number of positive measures, which can lead 
+to simplification for organizations without lowering the privacy and security of personal and 
+other data. These include: 
+‣Efforts to introduce a single entry point for incident reporting. This acknowledges the 
+need to streamline the current process, particularly as the Cyber Resilience Act vastly 
+broadens the scope of potential reporting. 
+‣Removing consent obligations for strictly limited non-intrusive audience measurement by 
+first-party online service providers could reduce disruptive cookie consents. However, 
+ensuring continued consent requirements for more intrusive tracking must remain in 
+place to protect fundamental rights.   
+However, the proposal as it stands would benefit from additional clarity to meet its 
+simplification objectives while protecting user privacy. Most notably: 
+‣Singling out audience measurement is limited. The law should also incentivize other types 
+of non-intrusive first-party activities, including specific efforts to collect data that cannot 
+be rendered identifiable, anonymization, and other privacy-enhancing practices such as 
+the use of homomorphic encryption for data processing.  
+‣Proposals allowing users to grant consent through automated digital signals, which must 
+be respected by controllers, would advance simplification and enhance users’ control 
+over their data. However, it is essential that these proposals are compatible with browser 
+providers that continue to offer privacy-protecting default settings and allow other means 
+of granting permission centrally. 
+Digital Omnibus Call for Feedback  
+Apple Response - February 2026 3
+We also invite legislators to ensure more consistency between the treatment of 
+personal and non-personal data, with the aim of incentivizing privacy-preserving 
+innovation. The GDPR was designed specifically to help safeguard personal data, reflecting 
+the centrality of such data to user privacy and security. By contrast, in its approach to 
+accessing data on terminal equipment in Article 88a, the Digital Omnibus proposal would 
+impose a stricter standard for non-personal data than personal data. We believe this would 
+encourage off-device, large-scale processing of personal data, which is inconsistent with 
+the EU’s commitment to data minimization. This is a missed opportunity to incentivize 
+further investment in privacy innovations that seek to minimize personal data processing.  
+Additionally, the current proposal would add further complexity to an already fragmented 
+legal regime, where access to personal data is regulated consistently across Europe under 
+GDPR while access to non-personal data remains inconsistently regulated under local 
+implementations of ePrivacy Directive, even for different data flows within the same service. 
+This complexity is further exacerbated by the proposed Article 3.1, under which  
+pseudonymous data is not always considered personal data, creating new opportunities for 
+companies to seek and exploit loopholes. 
+Concrete solutions 
+The EU’s regulatory simplification efforts and high privacy standards can be mutually 
+reinforcing. The EU Omnibus legislation is an opportunity to incentivize good privacy 
+practices by rewarding such practices with regulatory simplification, which would create a 
+virtuous cycle. We therefore invite the European Commission, Parliament and Council of the 
+EU to take on board the following recommendations. 
+Simplifying conditions to gain access to data stored on or to store data on terminal 
+equipment - Article 5(3) 
+At Apple, we design our products so that as much data processing as possible occurs 
+directly on the user’s device. By performing computations locally, we help minimize the 
+amount of data that needs to be shared with Apple or third parties. Some advanced features 
+require processing capabilities that cannot always be delivered on a device alone, 
+necessitating access to global knowledge hosted on servers. In those cases, we use a 
+combination of technologies, such as homomorphic encryption, to help ensure these server 
+lookups are private, efficient, and scalable. 
+While data protection authorities have long recognized the benefits of decentralized and 
+on-device processing, the current proposal would disincentivize these core privacy-by-2
+ T ech brief on Federated Learning, European Data Protection Supervisor, 2025 - link2
+Digital Omnibus Call for Feedback  
+Apple Response - February 2026 4
+design elements. In particular, Article 88a would establish less stringent requirements for 
+accessing personal data on terminal equipment than for accessing non-personal data. This 
+dual standard risks weakening overall privacy protections and would risk leading to 
+inconsistent regulatory oversight for different data flows within the same service. 
+Privacy-by-Default for Browsers - Article 88b 
+Apple believes users should be able to control who can access their data and how that data 
+is used. Since the early years of the web, a variety of technologies have been developed 
+that enable companies to track users’ activity across websites and apps for advertising 
+purposes. This tracking is pervasive: in some cases, individual web pages include more than 
+100 trackers from different companies seeking to profile users, often without their 
+knowledge or consent.  3
+T o address this issue, Apple has developed Safari-based features such as Intelligent 
+Tracking Prevention (ITP) and fingerprinting defense. Apple has expanded these protections 
+against applications that track and collect data from users across other apps and websites 4
+with our App Tracking Transparency (ATT) framework. These features are designed 
+specifically to prevent users from being tracked and profiled across the web, either by 
+blocking outright or requiring app developers to obtain consent before collecting data 
+intended to be shared with third parties for the purpose of tracking users across apps and 
+websites. Importantly, these protections are enabled by default to prioritize best privacy 
+outcomes, reducing the need for users to navigate complex permission systems or rely on 
+third-party intermediaries. This approach reflects another longstanding privacy-by-design 
+ Safari Privacy Overview, 2019 - link3
+ For more information - Mobile Advertising and the Impact of Apple’s App Tracking Transparency, 4
+Policy Kinshuk Jerath, Ph.D., Columbia Business School, 2022 - link
+Digital Omnibus Call for Feedback  
+Apple Response - February 2026 5
+Recommendation 
+‣Ensure equal treatment in relation to the storing or accessing of personal and non-
+personal data on terminal equipment. The processing of non-personal data should not be 
+subject to higher protection standards than personal data. 
+‣Align the Digital Omnibus with GDPR and ePrivacy to ensure all related activities are 
+subject to same rules. Incentivize alternatives to data-intensive processing through 
+specific provisions that allow access to terminal equipment for the purpose of 
+implementing privacy-enhancing and data minimization measures.
+principle, ensuring protection from the outset rather than depending on users to opt-out or 
+manage consent across multiple services. 
+Article 88b of the proposal would require browsers to implement machine-readable and 
+automated consent signals. While we understand the intention behind this provision, similar 
+initiatives in the past — such as "Do Not Track" and global consent frameworks — have 
+largely failed due to inconsistent adoption, widespread non-compliance, and a lack of 
+enforcement. The ad tech industry is incentivized to continue finding ways of bypassing 
+restrictions and tracking users. Without a robust legal framework and effective enforcement 
+across the entire ecosystem, Article 88b risks creating an illusion of privacy. This is why it is 
+essential that browsers are able to continue offering strong privacy default settings that 
+protect users from unwanted tracking. 
+Digital Omnibus Call for Feedback  
+Apple Response - February 2026 6
+Recommendation 
+‣Provide clarity to Article 88b that any obligation to support consent signals should not 
+prejudice the ability to provide privacy default settings that block tracking technologies.
+Digital Omnibus Call for Feedback  
+Apple Response - February 2026 7
+© 2026 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple Inc., 
+registered in the U.S. and other countries. 
+Other product and company names mentioned herein may be trademarks of their respective companies.
+

@@ -1,0 +1,786 @@
+Siemens AG Status: 2025-10-10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digital Omnibus – Call for Evidence (16/09/2025) 
+Siemens’ views and recommendations 
+ 
+ 
+Intro  
+· The immense regulatory burden stifles competitiveness and pace of innovation of 
+European tech companies: every day, we are losing ground to the USA and China!  
+· The growing patchwork of digital regulation (AI Act, Data Act, Cyber Resilience Act) 
+imposes significant and costly implementation efforts on European operators. 
+· This Call for Evidence on the “Digital Omnibus” completely lacks the ambition European 
+companies urgently need: less bureaucracy, clear and simple rules, and targeted political 
+support. This is being addressed  in the political discourse of the Commission leadership  
+but is not reflected here. 
+· Today, over-regulation creates tangible competitive disadvantages for the European  tech 
+ecosystem (compared to the USA or China):  
+· The Data Act does not achieve its objective to make more data available. It only 
+creates massive implementation efforts and bureaucracy. 
+· Even an EU Commission study on AI (2021) admits: the AI Act increases cost of AI 
+systems by 17%, adding to compliance costs for reporting, due diligence (CSRD, 
+CSDDD, etc.) and other digital acts (Data Act, CRA)  
+ 
+Our key demands – what we need: 
+· The Commission must now spearhead this Digital Omnibus package jointly with Member 
+States to withdraw provisions harmful for European tech champions . Many Member 
+States have already flagged their full support for swift action and regulatory relief for their 
+local industries. 
+· The Digital Omnibus package must address all relevant shortcomings and withdraw 
+harmful provisions in the Data Act, AI Act and the CRA  because in their current version 
+these acts are negatively affecting the competitiveness of our European players on global 
+markets.  
+· Our detailed described key demands for these acts - that we expect to be included in this 
+planned Digital Omnibus package - are illustrated with industry examples  and can be 
+found in the annexes. 
+Ref. Ares(2025)8607531 - 10/10/2025
+
+ 
+2 
+ 
+Siemens AG Status: 2025-10-10 
+ 
+ 
+ 
+ 
+ 
+· We ask the Commission to 
+· Repeal the Data Act or at least exempt B2B cases from the Data Act,  
+· Exempt industrial AI applications from the AI Act,  
+· It is now absolutely crucial to swiftly:  
+· establish a meaningful Digital Omnibus package, including the (partial) withdrawal 
+of B2B-related provisions of the Data Act, AI Act and the CRA,, 
+· eliminate overlaps within existing regulation s, e.g., CRA and NIS2 , AI Act and 
+Machinery Regulation, 
+· ensure realistic implementation timelines that reflect standard -setting processes. 
+Push back the current deadlines by: CRA = 36 months, AI Act = 24 months. 
+ 
+Examples: 
+ 
+Data Act: Respect contractual freedom – remove B2B cases  
+ 
+Massive implementation effort that unnecessarily ties up resources: 
+· The Data Act requires companies to document each individual data point to determine whether 
+and to what extent 
+à it currently falls within the scope of the regulation, and 
+à it could potentially be made accessible.  
+· Example: A modern commuter train from Siemens is a rolling computer with thousands of 
+sensors. It measures passenger numbers, energy consumption, brake wear, door functions, and 
+climate data. This intelligent data collection enables more punctual trains, predictive 
+maintenance, and optimized energy consumption.  
+à Under the Data Act, each of these data points would have to be individually classified and 
+checked for trade secrets – for every train anew, as they are usually built to customer 
+specifications. 
+à The likely consequence: Manufacturers have no incentive to build 'smart' trains – with more 
+sensors and more data. 
+ 
+There is no market failure in B2B which would require regulation:  
+· The market has been governing data exchange independently and without bureaucracy for years. 
+· If two business partners agree, there’s no need for regulation. B2B contracts are negotiated on 
+equal terms (unlike in B2C contracts). 
+· The Data Act distorts a functioning market and hinders contractual freedom and thereby stifles 
+innovation.  
+· Example: A modern office building using DesigoCC knows when which rooms need to be heated, 
+who opens which doors and when, and how, the lighting is optimally adjusted. 
+à According to the Data Act, Siemens would have to share this data with any external 
+maintenance company, which leads to a dilemma: the data also contains information about 
+which employee uses which room and when – personal data protected by the General Data 
+Protection Regulation (GDPR). 
+à The technical effort to separate this data is enormous, especially for smaller companies. 
+Providers of building management systems would rather forgo (additional) smart functions 
+than be torn between the Data Act and data protection. 
+à Result: This doesn't make our buildings smarter, but dumber. 
+ 
+3 
+ 
+Siemens AG Status: 2025-10-10 
+ 
+ 
+ 
+ 
+ 
+Switching of “Data Processing services” severely affects cloud offerings: 
+•  The Data Act stipulates that customers of data processing services can easily and quickly 
+(within 2-4 months, depending on the individual case) switch providers and take their data 
+with them.  
+•  This chapter was originally intended only for the hyperscalers (Infrastructure as a Service, 
+Platform as a Service). However, the term "data processing service" is very vaguely defined, 
+potentially covering also SaaS offerings which were originally not “in scope”. This is mainly 
+problematic in B2B offerings as they are often integrated into a larger / complex environment. 
+For example: Switching of a cloud-based ERP system requires a huge transformational project 
+beyond the pure switching, addressing processes, IT interdependencies, staff training, etc. 
+Such projects usually require much more lead time than 2-4 months.    
+•  From a customer perspective, the switch between services does not become easier, while the 
+provider has a massive additional administrative and technical burden. Technical measures for 
+the switch must be implemented by the provider and extensive contractual regulations must 
+be agreed with customers in advance – the EU model clauses for this purpose comprise 
+almost 100 pages (unproportionally to and even longer than a usual SaaS contract). 
+•  The Data Act even provides a possibility for customers of data processing services to exit from 
+contracts before the end of the agreed contractual term. This represents, at least in B2B 
+environments, a significant intervention with contractual freedom, leads to revenue 
+uncertainty and impairs investment recovery as providers of innovative offerings cannot be 
+certain whether they can amortize high initial investments over the agreed contract period if 
+the customer can switch prematurely.  
+ 
+à All combined, this hinders innovation.  
+ 
+ 
+AI Act: Exempt industrial AI from the AI Act  
+ 
+AI in Manufacturing 
+An industrial robot in one of our manufacturing facilities uses an AI-powered camera to detect 
+that a person is entering its work area. The AI recognizes the danger and immediately stops the 
+robot. The Machinery Regulation already ensures the safety of the autonomous robot for the 
+environment.  
+à The AI Act imposes new obligations on top of the Machinery Regulation to achieve the same 
+goal – safety in machinery environments – which are often neither necessary nor effective: 
+risk management, documentation, technical specifications. 
+à The result: double bureaucracy instead of double safety. 
+ 
+Medium Voltage Grid Example 
+· Stability and resilience are paramount for Europe’s transmission grid. In Norway, Siemens tested 
+an AI system that detects faults in transmission lines which conventional monitoring cannot see 
+(for example, a tree falling on a line). The AI sends an alarm immediately, allowing the operator to 
+act before a local fault would cascade into a large-scale blackout. 
+· Operators asked whether the AI could also disconnect a line automatically in such emergencies. 
+This would prevent delays caused by manual intervention and make the grid even safer. 
+à However, the moment the AI is allowed to act autonomously in the grid, it is classified as a 
+“high-risk” application under the AI Act. This imposes additional obligations, risk management 
+systems, extensive documentation, and the application of technical standards that do not yet 
+exist. 
+ 
+4  
+Siemens AG Status: 2025-10-10 
+ 
+ 
+ 
+I 
+à The result: companies hesitate to roll out such innovations. Instead of reinforcing Europe’s 
+energy security and technological leadership, the AI Act risks slowing down deployment.  
+ 
+Cyber Resilience Act  
+ 
+Legacy product problem in (infrastructure) systems: 
+CRA-compliant products may not be compatible with previous versions (for example due to 
+change in communication protocols).  
+à Consequence: If the asset owner wants to extend the system, the asset owner will be forced 
+to exchange substantial parts of the installed base, resulting in significant costs without any 
+security benefit.  
+à Concrete examples include: onboard units on a new train that need to interact with existing 
+ETCS lines, a new station on a Metro line, and an extension of a power distribution grid with 
+additional elements. 
+ 
+Example: Spare product challenge:  
+A plant outage costs an average of EUR 10,000 per minute. To minimize the duration and costs of 
+such outages, customers expect reliable product replacement solutions. This is usually handled 
+through identical replacement products and contractual agreements that provide 1:1 product 
+replacement for at least 10 years.  
+à If suppliers are no longer permitted to replace a defective product because the identical 
+replacement no longer complies with EU CRA requirements, serious delays may occur. This can 
+lead to long plant outages, as well as high costs for repair, reengineering, and recertification. 
+à For regulated plants, outage times can be even longer – lasting weeks or months - as operating 
+licenses expire if no identical products are available.  
+à It is not always possible to develop a compatible successor product. In these cases, suppliers 
+must be allowed to deliver predecessor products as replacements to avoid long outages of 
+customer plants. Almost every critical infrastructure and manufacturing industry will be 
+affected by this provision, including thousands of plants in the areas of energy, water and 
+wastewater, food and beverage.
+ 
+ 
+More details and additional examples can be found in the annexes of this document. 
+ 
+Contact: 
+ 
+Johannes Nitschke 
+Dr. Eddy Roelants 
+ 
+Siemens AG 
+Government Affairs 
+Montoyer 47 
+1000 Brussels 
+1 Siemens AG Status: 2025-07-07  I 
+· We request to “Stop-the-clock” and move the respective application deadlines of the EU AI
+Act by at least 2 years and of the Cyber Resilience Act (CRA) by at least 3 years. Because
+o the necessary standards for the timely implementation of the AI Act and the CRA are
+already 1-1.5 year in delay and far from finalized.
+o an extended transition period will benefit the entire ecosystem by providing
+companies and national authorities with the necessary time to prepare and adapt to
+the new regulations
+· Repeal the Data Act because
+o it is counterproductive regarding industrial data sharing and no clear benefit for
+innovation in the broader industry can be proven
+· All Digital regulations must clearly distinguish between B2B (Business to Business) and B2C
+(Business to Consumers) because
+o the level of required protection, the need for details and standards and the coverage
+o
+f already existing legal framework is different
+· Ongoing activities to add additional legal obligations on companies in the field of AI, like the AI
+Liability Directive, need to be stopped immediately because
+o where there is already a (general) act or legislative framework covering the targeted
+risks, no new digital acts are needed (e.g. Product Liability Act already covers AI liability
+risks)
+D
+igital Omnibus: Call for simplification & 
+moratorium of Digital regulations 
+Overall background for a digital omnibus 
+· Siemens welcomes the announcement from EVP Commissioner Virkkunen of a simplification
+package for digital regulation, the so -called “Digital Omnibus”. This initiative aims to simplify EU
+regulations to allow European companies to stay competitive and relevant. Already the Draghi
+r
+eport on “The future of European competitiveness” 1 suggested that the European Commissio n
+s
+hould streamline and harmonize digital regulations to foster a more conducive environment for
+tech companies to scale up.2
+· The planned “Omnibus” on digital regulations must “stop the clock” on certain legislative acts ,
+repeal unnecessary regulation and use the additional timeframe to drastically simplify the digital
+regulation landscape.
+1 https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en#paragraph_47059 
+2 https://www.lawfaremedia.org/article/is-europe-about-to-slow-the-pace-on-digital-regulations 
+ANNEX
+2 
+ 
+Siemens AG Status: 2025-07-07  I 
+Why? 
+Innovative digital products and technologies must too often comply with several horizontal & 
+sectorial legislation - like GDPR, Machinery Regulation (MR), Medical Device Regulation 
+(MDR), Radio Equipment Directive (RED), Interoperability Directive, AI Act, Cyber Resilience 
+Act (CRA), Network & Information Security Directive (NIS-2) Data Act (...) etc. 
+Depending on the use case, these regulations interplay and/or sometimes overlap or even 
+contradict with each other on specific (technical) aspects. 
+• Innovation and Growth: 
+• Extending the transition period will provide European companies with the necessary 
+time to adapt to the new regulations without stifling innovation. 
+• This will enable them to continue developing cutting-edge technologies and maintain 
+their competitive edge in the global market. 
+• Economic Stability: 
+• A prolonged transition period will help mitigate the financial strain on companies, 
+allowing them to allocate resources more effectively and ensure economic stability. 
+This is crucial for the overall health of the European economy. 
+• Global Competitiveness: 
+• By providing additional time for compliance, European companies can better 
+compete with international firms that are not subject to the same regulatory 
+pressures and enforcement. 
+• This will help maintain Europe's position as a leader in technology and innovation. 
+ 
+ 
+ 
+3 
+ 
+Siemens AG Status: 2025-07-07  I 
+ 
+1. “Stop the clock” 
+o The AI Act enforcement dates for GPAI3 models and related CoPs4 need to 
+be extended by 24 months (to 08/2027). 
+o The enforcement dates for High-Risk AI Systems in Annex III and for High-Risk 
+AI Systems in scope of existing Union legislation – Annex I need to be 
+extended by 24 months 
+Alternative: enforcement starts earliest 15 months after the moment the 
+required harmonized standards are available. 
+2. Siemens calls for simplification of the GPAI model related obligations. 
+3. AI systems that already have safety & security rules in sectorial legislative 
+frameworks should be excluded from the scope of the AI Act (i.e. exclude Annex I). 
+4. Overall, make a clear distinction for the requirements of B2B applications versus 
+B2C applications. 
+ 
+ 
+ 
+ 
+ 
+ 
+AI Act: Call for moratorium & simplification 
+ 
+ 
+Our key demands 
+ 
+ 
+Why? (Reasoning behind) 
+Harmonized European standards for high-risk AI & CoPs4 for GPAI3 models are key elements 
+for the implementation of the AI Act because they serve as basis for presumption of 
+conformity. 
+· “Stop the Clock” for the AI Act enforcement dates for GPAI models and related CoPs. 
+These need to be extended by 24 months (to 08/2027) as industry and all affected 
+stakeholders need more time to prepare because: 
+· lack of simple, clear and consistent GPAI model CoPs, delays innovation & 
+complicates collaboration in the AI value chain 
+· the actual quality & practical usability of the CoPs drafts for GPAI are 
+compromised and they even go beyond AI Act requirements 
+· they are being developed under extreme time pressure 
+ 
+3 General Purpose AI (e.g. LLMs) 
+4 Codes of Practice
+4 
+ 
+Siemens AG Status: 2025-07-07  I 
+· the CoP drafting involves a multistakeholder process with > 800 “experts”: 
+primarily academics, but also NGO’s and single citizens, with limited industrial 
+practitioner input (Annex 2) 
+· Further simplification (with clear implementing guidelines) of the AIA in relation to 
+obligations following fine-tuning of GPAI models is required to avoid legal uncertainty. 
+When a provider fine-tunes/modifies a GPAI model with systemic risk (e.g., GPT-4) to 
+serve a limited, specialized function using domain-specific data (e.g., specific industrial 
+data), the AI Act lacks clarity on the provider's obligations. Narrowing down the functions 
+of an existing GPAI model - with or without systemic risks - must not lead to the 
+comprehensive obligations for GPAI models with systemic risk, neither for the provider of 
+the fine-tuned GPAI models nor for an AI system provider deploying such fine-tuned GPAI 
+model in an application. 
+ 
+· “Stop the clock” for the enforcement dates for High-Risk AI Systems 
+· Harmonized Standards (hENs) for high-risk AI are still under development and 
+should become available at 08/25 but substantial delays are foreseeable already 
+today. 
+· Currently the AI Act Standardization looks to be delayed by at least 1-1.5 
+year. Industry and the national notified bodies (who perform conformity 
+assessments) require a lead time of minimum 12-36 months (sector 
+dependent) when the standards are ready. 
+· Market entrance barriers are likely for high-risk AI if hENs are not available or 
+only in low quality (e.g. high-risk AI might be stopped due to uncertainties in 
+conformity assessment) 
+· For already regulated sector systems (Annex I) the AI Act rules should not apply when 
+AI related provisions are integrated in already existing sectorial frameworks (MDR, 
+machinery, rail, etc.). Otherwise, AI Act obligations must be 100% aligned with 
+vertical/sectorial directives to avoid inconsistency and legal uncertainty. Excluding these 
+already regulated sector systems from the High-risk AI Act system’s scope to avoid 
+duplication with existing sectoral legislation is the most efficient solution. The already 
+existing exemption for rolling stock must be made more flexible to align with the 
+specific requirements of the rail sector.
+ 
+· Overall, a clear distinction between the requirements of B2B applications versus B2C 
+application is necessary. Because the majority of trustworthy B2B industrial AI use cases 
+make use of data generated by industrial assets (like machines, devices, trains, 
+buildings, etc.…) in contrast to most AI applications in the consumer (B2C) world that 
+use person-related data. 
+  
+5 
+ 
+Siemens AG Status: 2025-07-07  I 
+Further background & improvement potential illustrated with examples for each key 
+demand 
+CoPs for GPAI Models and GPAI related AIA obligations  
+ 
+Context 
+ 
+• The aim of the CoPs for GPAI is to define technical requirements of the AI Act for GPAI models 
+on transparency, copyright, security and risk management 
+• In the future, CoP will be supplemented by harmonized European Standards (hEN). It is likely 
+that these hEN’s are based on the CoPs. 
+ 
+Recommendations / Demand  
+ 
+• In regards of key demand 1, also the last Draft version of the CoPs for GPAI models illustrate 
+the necessity for taking more time (Stop the clock) because: 
+• the quality & practical usability of the CoPs for GPAI is still poor 
+• the CoP proposed measures and required industry commitment even go beyond AI Act 
+requirements 
+• they are being developed under extreme time pressure (despite high complexity). E.g. 
+CoP version 2 (66 Pages) – ca 10 working days and CoP version 3 (84 pages) – ca 13 
+working days to analyze and comment! 
+• CoP drafting involves a multistakeholder process with > 800 “experts”: primarily 
+academics, but also NGO’s and single citizens, with limited industrial practitioner input  
+· Siemens Recommendation : Lack of simple, clear and consistent GPAI model CoPs delay 
+innovation & complicate collaboration in the AI value chain, therefore we request more 
+time and require a “Stop-the-Clock” 
+ 
+• In addition to key demand 2, we also call for Simplification of duties along the value chain : 
+providers of AI systems with (inhouse) fine-tuned AI models must be out of the CoPs’ scope.  
+• In case a Co -Pilot provider is fine -tuning a GPAI model with systemic risks (e.g. GPT -4), this 
+provider would be required to fulfil the comprehensive transparency and safety obligations for 
+GPAI models with systemic risks (Article 55 and 56) . A clarification for GPAI models with 
+systemic risk is missing. 
+• In consequence, when finetuning a GPAI models with systemic risk, the provider of the 
+modified/fine-tuned model will fully be subject to the obligations, e.g. Articles 53, 55 
+and the comprehensive obligations under the codes of practices in Art. 56 
+• Scenario: Domain-specific industrial data is used to finetune GPT -4 model to improve 
+the overall performance. In such a scenario, it remains unclear how the comprehensive 
+transparency obligations of Article 53, 55 and 56 can and should be addressed.  
+Siemens Recommendation: Recitals 97, 109 should clarify that GPAI Model without AND with 
+systemic risk (including Open Source) can be modified and finetuned into new models without 
+triggering the obligations in Article 55 and the comprehensive obligations under the codes of 
+practices in Art. 56.  
+ 
+  
+6 
+ 
+Siemens AG Status: 2025-07-07  I 
+· We advise also making use of international standards as these enable international alignment 
+and reduce trade barriers. In ISO/IEC JTC1/SC 42 for AI, about 80 projects are finished or under 
+preparation. The standards within the ISO/IEC 42001 ecosystem receive a lot of attention and 
+participation and seem of appropriate quality.
+ 
+· The international common denominator for Quality Management Systems (QMS) is ISO 9001 with 
+more than 1 million certified organizations. It is reasonable to adapt ISO 9001 to get an AI Act 
+compliant QMS. 
+ 
+Avoiding overlap/conflicts with already regulated sectors (under NLF) and improving flexibility for 
+the railway sector 
+ 
+Context 
+· The overall goal is to ensure that AIA obligations are in line with other union harmonization 
+legislation to improve legal certainty. For instance, the safety component definition differs in the 
+AI Act and the Machinery Regulation leading to uncertainty in practice. 
+· In addition, it needs to be ensured that industrial domains that comply with high safety standards 
+for AI in their specific harmonization legislation (under NLF) are confronted with feasible 
+bureaucratic efforts to enable innovation without compromising safety. Additional requirements 
+that are neither appropriate to increase the safety level (additional documentation obligations) or 
+that are not fit for purpose for the industrial domain should be minimized.  
+· As horizontal legislation, the AI Act is addressing risk sources in the area of consumer AI in the 
+same way as industrial AI. This leads to an unproportional additional layer of AI Act related 
+requirements on top of the existing union harmonization legislation, for instance the Machine 
+Regulation. 
+· Although the AI Act includes an exemption for the part of the railway sector subject to the 
+Interoperability Directive, the high-risk requirements – as in the area of consumer AI – must be 
+taken into account when adopting Delegated/Implementing Acts. Therefore, there is the risk 
+that the AI Act introduces its high-risk requirements into railway products, without addressing the 
+requirements of the different applications in the railway sector to the necessary extent.  
+E.g. excluding unnecessary requirements could be interpreted as contradictory to the wording to 
+take all of the requirements into account. 
+Practical Examples 
+· An AI-based object detection mechanism that autonomously detects operators that are making 
+adaptations at the production facility is a critical safety component of a machine. To ensure 
+safety in this scenario, these AI Systems are subject to the Machinery Regulation and in this 
+respect need to fulfil high reliability and robustness standards when detecting objects in critical 
+areas (avoid false positive or false negative classifications). In addition, in case people are 
+detected in critical areas, the Machine moves into a safe state, i.e. by stopping the movement, by 
+changing direction, etc.  
+· This example shows that the high safety standards in industrial areas, such as machinery, 
+request AI system to demonstrate reliability and robustness. The compliance with the high 
+number of requirements of the AIA Article 8 to 15 (and further obligations, e.g. Art. 17 AIA) 
+would in such a scenario be too comprehensive and/or redundant as only a small subset of 
+7 
+ 
+Siemens AG Status: 2025-07-07  I 
+AIA requirements (reliability and robustness) would be relevant to ensure safety in this 
+industrial setting.  
+· The Machinery Regulation requires a strong safety argumentation in which all potential 
+hazardous situations are analyzed in detailed and identified critical risk sources are 
+mitigated.  
+· People detection assistant for remote control operating system in crane projects à “double 
+effort”, e.g. fulfillment of EU AI Act and EU Machinery Regulation 
+· Assisted and driverless train operation, incl. vehicle-mounted and infrastructure-based obstacle 
+detection -> double efforts, e.g. fulfillment of EU AI Act, MD, RED, and Interoperability Directive 
+2016/797 
+ 
+Siemens Recommendations:  
+· Overall, make a clear distinction for the requirements of B2B applications versus B2C 
+application. Because the majority of trustworthy B2B industrial AI use cases make use of data 
+generated by industrial assets (like machines, devices, trains, buildings,…) in contrast to most 
+AI applications in the consumer (B2C) world that use person-related data. 
+· In Appendix I, the Directive 2006/42/EC should be removed from Part A  
+· To effectively address the specific requirements for railway products, a clarification of Art. 106 
+AI Act is needed, indicating the necessary flexibility, e.g. by adding: “(...) [shall be taken into 
+account] to the extent necessary for the specific application”. 
+ 
+8 
+ 
+Siemens AG Status: 2025-07-07  I 
+CE GA EU support 
+Dr Eddy Roelants 
+Siemens AG 
+Status: 2025-03-xx 
+ 
+ 
+1. We call for extending the transitional period for the application of the CRA by 36 
+months, moving the deadline to Dec. 11, 2030. 
+2. We call for an explicit exemption of “compatible system extensions”5 from the 
+CRA’s scope. 
+3. We call for simplification of the CRA by eliminating any overlaps of the CRA with 
+other regulations and by introducing clearer terms and definitions which are 
+aligned with industry practices. 
+ 
+ 
+ 
+ 
+ 
+ 
+Cyber Resilience Act (CRA): Call for moratorium & 
+simplification 
+ 
+Our key demands 
+ 
+ 
+Why? (Reasoning behind) 
+1. In the industrial B2B sector, entire and complex supply chains will need to implement time - 
+consuming and costly measures to become “CRA-ready”. Securing the entire supply chain, both 
+upstream and downstream, requires significant time and effort: 
+o Upstream (Siemens as a customer) 
+Many of products rely on components from suppliers, which may fall under the scope of the 
+CRA. Thus, to ensure end to end security, it would  be valuable that  the suppliers ensure 
+these components conform with the CRA first, and after this is ensured the conformity of 
+the final product is assessed. 
+o Downstream (Siemens as a supplier) 
+Our products are used by various stakeholders, such as OEMs and integrators. We must 
+ensure the conformity of our products with the CRA before these stakeholders can verify the 
+CRA-conformity of their solutions that incorporate our products. 
+Additionally, innovation cycles  in certain industries, such as critical infrastructure or industrial 
+production lines, trains, rail infrastructure and electrical grids, are significantly longer compared to 
+the rapid cycles in consumer electronics, often exceeding 10 years. 
+Finally, most, if not all, of the harmonized standards (hENs) for the important and critical products 
+with digital elements (PDEs) are likely not to be ready by the current CRA date of applicability. Hence, 
+it is important that the date of applicability is adjusted to ensure the availability
+9 
+ 
+Siemens AG Status: 2025-07-07  I 
+of cited harmonized standards, which are essential to raise the security bar and ensure an adequate 
+level playing field in the EU market. 
+ 
+2. Excluding “compatible system extensions”5 from the CRA’s scope  
+Extensions to existing major infrastructure projects, such as rail or grid systems, should be feasible 
+without the need of a complete replacement or upgrade of the current infrastructure. This is 
+particularly relevant for installations in professional settings, industrial environments, or critical 
+infrastructures, which typically have an expected lifespan of several decades. The compliance costs for 
+system owners and operators would be disproportionate compared to the achievable security 
+objectives, making such upgrades economically unviable. Referencing Article 13(4) sentence 3 of the 
+CRA (non -applicability of certain requirements) and Recital of the 55 CRA (interoperability 
+requirements), an additional exemption should be provided for compatible system extensions through 
+an amendment to Article 2 (scope). 
+Manufacturers shall address the associated risks through alternative means, such as limiting the 
+intended purpose of the extension to trusted environments, minimizing the product’s exposure within 
+the system, or implementing compensating countermeasures (e.g., threat detection, physical 
+protection, etc.). Customers shall be adequately informed about these risks. Manufacturers of such 
+large-scale infrastructure systems must ensure that no new security risks are introduced with the 
+extension and that no new functionalities are added to the existing system. 
+ 
+3. The current legislative framework presents overlaps between horizontal regulations, such as the 
+CRA, and vertical legislations, including the EU Radio Equipment Directive (RED) and the EU 
+Machinery Regulation (MR). It is essential that the CRA horizontally regulates the cybersecurity of 
+all covered products. It should be implemented in a way that ensures existing, product -specific 
+legislations do not take precedence according to the “lex specialis” principle. Similarly, it is critical 
+that the RED Delegated Regulation is repealed by the date of applicability of the CRA to avoid 
+unnecessary regulatory burden. 
+ 
+Furthermore, the regulation regarding the exclusion of certain spare parts from the CRA’s scope (Art 
+2(6) CRA), should be extended and aligned with industry common practices  to also include spare 
+products in a complex system . For instance, when products are part of a complex system at the 
+customer's site, the customer will need to replace the entire system if the original product breaks 
+down and the supplier is not allowed to supply a replacement product. 
+ 
+ 
+5 A ‘compatible system extension’ refers to new products that are integrated into and interact with an existing infrastructure system. 
+Examples of ‘compatible system extensions’ could be the extension of a metro line with one new station or expanding an energy distribution 
+grid to an additional city. These extensions are designed to be interoperable and compatible with the existing infrastructure (e.g., through 
+external interfaces), ensuring the entire system functions as intended without the need for a complete system replacement, which would be 
+economically unfeasible. Compatible system extensions do not introduce new functionalities or new security risks to the existing system.  
+10 
+ 
+Siemens AG Status: 2025-07-07  I 
+Further background & improvement potential illustrated with examples for each key 
+demand 
+Practical examples: 
+ 
+1. Transition time shall enable entire value chain to adopt necessary changes: This gives manufacturers 
+the time to re-design and provide CRA-compliant products (36 months) and provides an additional 12 -
+24 months for OEMs (in particular machine builders) to build compliant machines based on the 
+products and 24 months for system integrators and industrial end customers to test and implement 
+these re-designed products into their systems and environments along the downstream value chain. 
+Not to mention that the development of harmonized standards, the basis for the conformity 
+assessment of critical products, also requires time.  
+ 
+2. Example for the exemption of compatible system extensions 
+Problem: CRA-compliant products might not be compatible with previous versions (for example due to 
+change of communication protocol). Consequence: If the asset owner wants to extend the site, the 
+asset owner will be forced to exchange substantial part of the installed base which is associated with 
+huge cost  and without bringing security advantage  (compensating measures are typically already in 
+place). Specific examples could be: 
+· New coach in a train 
+· New Eurobalise on an ETCS line 
+· Onboard unit on a new train that needs to interact with existing ETCS line 
+· New station in a Metro line 
+· Extension of a power distribution grid with additional elements 
+ 
+3. Example for Spare Product topic:  
+A plant outage costs an average of EUR 10,000.00 per minute. To reduce the duration and costs of a 
+plant outage, customers expect product replacement solutions. This is usually handled with identical 
+replacement products and contractual agreements that provide 1:1 product replacement for typically 
+at least 10 years. 
+If suppliers are no longer permitted to replace a defective product installed in a plant because the 
+identical replacement product, developed before the application of the EU CRA but placed on the 
+market afterwards, does not meet the requirements of the EU CRA, this can lead to a very long plant 
+outage and significant costs for repair, reconfiguration, reengineering, recommissioning, and 
+recertification. For regulated plants, outage times can be even longer (weeks and months) as operating 
+licenses expire if no identical products are available. 
+This critical situation can sometimes be mitigated by a compatible successor product. However, it is not 
+always possible to develop a compatible successor product. In these cases, suppliers must be 
+permitted to deliver a predecessor product as replacement to avoid long outages of customer plants, 
+which often last days, weeks, or even months. 
+Almost every critical infrastructure and every manufacturing sector will be affected by this, including 
+thousands of plants in the areas of energy, water and wastewater, food and beverages, 
+pharmaceuticals, oil and gas, mining, automobile industry, airports, and more. 
+ 
+ 
+The are currently overlaps between the CRA and the following legislations:  
+   
+o With the EU Machinery Regulation (MR) 
+The MR contains cybersecurity -related requirements (measures against corruption). Compliance with the CRA 
+requirements reasonably cover the cybersecurity -related aspects of the MR. However, since the CRA is not a 
+true lex specialis, manufacturers and economic operators must still demonstrate compliance with the 
+cybersecurity-related requirements of the MR as part of the dedicated MR compliance process and technical 
+documentation. A CRA conformity assessment should suffice to demonstrate compliance with the 
+11 
+ 
+Siemens AG Status: 2025-07-07  I 
+cybersecurity-related requirements of the MR is met. Therefore, Article 2(4) of the CRA should be modified to 
+ensure that conformity with the CRA results in conformity with other existing and upcoming legislations 
+regulating cybersecurity.   
+  
+o With the EU AI Act 
+The AI Act contains cybersecurity -related requirements, such as accuracy, robustness, and cybersecurity. For 
+products that fall within the scope of both the AI Act and the CRA, compliance with the CRA requirements 
+should reasonably cover the cybersecurity-related parts of the AI Act. Similar to the MR, Article 2(4) of the CRA 
+should be modified to ensure that conformity with the CRA results in conformity with the cybersecurity-related 
+requirements of the AI Act, thereby avoiding the need for double conformity assessments.  
+  
+o With the EU Radio Equipment Directive (RED) 
+The RED Delegated Regulation (RED DR), which covers cybersecurity elements of internet- connected radio 
+equipment (Articles 3.3(d,e,f) of the RED, must be repealed by December 11, 2027 to prevent unnecessary 
+regulatory and administrative burdens. Compliance would otherwise need to be demonstrated for two 
+overlapping pieces of legislation. The CRA encompasses more products than the RED DR and has more 
+ambitious security objectives, making the repeal of the RED DR necessary.   
+Moreover, the RED DR harmonized standards (EN 18031 series) have proven their appropriateness and provide 
+legal effects since their citation in the Official Journal of the EU. The technical approach taken by the RED 
+standards should be supported by the European Commission in the CRA standardization work (e.g., security 
+mechanisms, assessment criteria). It is also recommended that the European Commission cites the CRA 
+harmonized standards more swiftly, as the delay between the publication of the standards and their citation 
+(six months in the case of the RED DR) creates market uncertainty, impacting investment in Europe.   
+ 
+o With the EU NIS 2 Directive (NIS 2)  
+The overlaps between NIS 2 and the CRA make their implementation challenging, particularly regarding the 
+reporting obligations and cloud solutions (qualifying as remote data processing solutions).   
+For reporting obligations, it is recommended to harmonize definitions (e.g., incident, “becoming aware”) and 
+better align the reporting processes and interfaces so that a single incident reporting process can fulfil the 
+requirements of both legislations.   
+ 
+For certain cloud solutions, both NIS 2 and the CRA may be applicable. The NIS 2 and CRA requirements differ 
+significantly in nature, making the implementation challenging. The lack of certainty regarding the interplay 
+between these two major legislations undermines potential new developments and innovation in cloud -based 
+services and operations due to the lack of visibility on the investments required for compliance. This lack of 
+clarity also hampers the development of horizontal harmonized standards, as it is unclear how the essential 
+requirements apply to remote data processing solutions. Remote data processing solutions should be excluded 
+from the CRA’s scope, at least within its initial phase, to allow stakeholders to better understand the 
+implications of including remote data processing solutions (e.g., what is covered by the product’s functions? 
+Why are certain remote data processing solutions excluded while others are included, simply because they are 
+accessible via a product with digital elements developed by the same manufacturer?). Alternatively, the 
+European Commission should clearly specify the services within the scope of the CRA and which elements of 
+these services must comply with the CRA requirements (i.e., the data processing/operations only, or also the 
+software layer, the platform layer, the infrastructure layer?) to ensure the highest level of legal certainty.  
+  
+o Simplification should extend to implementing and delegated acts 
+A significant number of implementing and delegated acts are expected to be developed around the CRA. While 
+these acts are useful for clarifying the requirements of the law, they should not introduce additional 
+requirements or bureaucracy.  
+Finally, it must be ensured that  implementing and delegated acts  do not introduce new requirements or 
+bureaucracy.  
+12 
+ 
+Siemens AG Status: 2025-07-07  I 
+ 
+ 
+1. Call for REPEAL 
+Observations from the implementation of the Data Act indicate that it will not 
+enhance the data economy as legislators intended. Instead, it might incentivize 
+companies to reduce data sharing while simultaneously imposing substantial 
+administrative burdens on affected organizations. 
+ 
+ 
+ 
+ 
+ 
+Data Act: Call for repeal  
+ 
+ 
+ 
+Our key demands 
+ 
+ 
+Why? (Reasoning behind) 
+ 
+The Data Act (DA) aims to improve user access to data and compensate the imbalance between  
+manufacturers and customers. This aim might apply for the B2C business, where end customers often 
+need to accept extensive data usage rights defined by manufacturers. 
+· Considering B2B business, there is already today a balance between manufacturers and 
+customers when it comes to data. Customers are often specifying their own data usage rights 
+in tenders which will be negotiated on an equal footing between the involved parties. In some 
+industries, e.g. rail or energy industry, customers are even determining non -negotiable data 
+usage rights within their tenders which need to be accepted by manufactures to be able to 
+bid. 
+· In industrial B2B business areas of application, the DA might  lead to devices being designed 
+with less data to provide, due to high barriers for excluding trade secret relevant data and the 
+unclear definition of processed data. Consequently, there will be fewer data- generating 
+devices being used overall or less data being generated in devices. 
+· In economic terms, the DA has the exact opposite effect to its original intention of promoting 
+a European data economy. 
+· It is thus proving to be a massive obstacle to the emergence of a European data economy in 
+relevant industry segments and a heavy burden on competitiveness in international 
+competition. 
+  
+13 
+ 
+Siemens AG Status: 2025-07-07  I 
+Extra effort required with little, or no value added 
+· The practical implementation of the requirements of the DA is significantly more complex 
+than initially anticipated. 
+· The DA creates legal uncertainty due to its often -unclear terminology and requirements. 
+According to the IW (IW 2022) 6, this reinforces the main obstacle to greater entrepreneurial 
+investment in data. 
+· The DA generates massive implementation costs (especially for additional documentation)  
+that cannot be channeled into R&D and innovation activities, thus also hampering the 
+development of data-driven innovations in Europe. 
+Disadvantageous innovation and marketing conditions 
+· Caused by more flexible and vendor -friendly data sharing schemes in other economic 
+regions, the unilateral opening of data markets in the EU will lead to non-reciprocity in 
+international business partnerships, i.e. the user can request data free of charge and 
+compensation for data transfer to third parties is limited by guidelines. 
+· Manufacturers of industrial goods will be getting into disadvantageous competition w/ non-EU 
+vendors, as different data sharing obligations might be exploited against the vendor with 
+place of business in the EU. 
+· Both will lead to a disbalance in advantage for non-EU vendors. 
+Conclusion 
+· The DA will dampen the beginning dynamics of industry-grade data-based businesses in the 
+B2B domain. Administrative and bureaucratic effort come on top. 
+ 
+Practical examples: 
+Example 1: Data generated in a commuter train 
+· A commuter train got several thousands of data points. Some of the data generated are 
+transferred to landside, others are not transferred. All these data must be analyzed regarding 
+data type (raw data, metadata, pre-processed data, processed data), security relevance, trade-
+secret relevance to determine which of these data points needs to be shared and which can be 
+excluded, causing a high administrative burden. 
+· Since commuter trains are often customized based on specific customer requirements, this 
+analysis must be done for almost every train.  
+· Enforcing open data access and sharing could result in a revised design that provides less data 
+to prevent unwanted data flow and associated information and loss of trade secrets. 
+ 
+Example 2: SaaS
+7 offerings  
+· At SaaS based services for advanced analytics of production processes, raw data are used that 
+are made available by customers. Despite the data already being available to customers, under 
+the DA, Siemens might have to supply this raw data to random third parties designated by 
+customers. 
+· This requires lengthy data-sharing agreements with companies with which Siemens does not 
+have a business relationship. The existing MCT8 and its annexes already exceed 100 pages, 
+possibly making these agreements longer than the original customer contracts. Finalizing and 
+implementing these agreements will consume significant resources (commercial, technical, 
+legal).  
+· Depending on the interpretation of the term data processing service, the service might also fall 
+ 
+6 https://www.iwkoeln.de/fileadmin/user_upload/Studien/policy_papers/PDF/2022/IW-Policy-Paper_2022-Data_Act.pdf 
+7 Software as a Service 
+8 Model Contractual Terms 
+14 
+ 
+Siemens AG Status: 2025-07-07  I 
+under Chapter VI of the DA, leading to additional obligations for providers. Providers must 
+integrate extensive switching clauses in their contracts, with MCT over 60 pages long.  
+· Customers may interpret the DA as allowing contract termination with two months' notice, 
+resulting in pricing strategies based on flat recurring fees and high-cost amortization. Early 
+termination could make these models unfeasible, preventing attractive offerings in markets. 
+Consequently, the DA prevents customers from benefiting of attractive pricing models in 
+exchange for long-term contracts.
+ 
+ 
+ 

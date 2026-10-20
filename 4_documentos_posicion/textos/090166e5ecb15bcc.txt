@@ -1,0 +1,373 @@
+  
+ 
+BSA | The Software Alliance 
+Position Paper Supporting the EU Commission’s Public Consultation On The 
+Cybersecurity of Digital Products and Ancillary Services 
+ 
+25 May 2022 
+ 
+BSA | The Software Alliance (“BSA”) 1 welcomes the opportunity to provide input to the European 
+Commission’s public consultation on the cybersecurity of digital products and ancillary services (“the 
+consultation”).  
+ 
+BSA is the leading advocate for the global software industry. BSA members are at the forefront of 
+software-enabled innovation that is fueling global economic growth and digital transformation by 
+helping enterprises in every sector of the economy operate more efficiently, securely and in a privacy-
+protective way. BSA’s members are enterprise software companies that offer technology services that 
+other organizations use —such as cloud storage services, customer relationship management 
+software, and workplace collaboration software —to make their own operations more efficient, 
+innovative, and successful.  
+ 
+The public consultation raises the issue, in question 16, of the “responsib[ility]” of the “software 
+developer”, “for the full life cycle of a digital product (such as by being required to provide updates)”. 
+BSA and its members support the EU Commission’s efforts to enhance  the cyber security in digital 
+products and mitigate the risk of incidents or attacks that can affect an entire organization or a whole 
+supply-chain. Managing security risks involves shared responsibility among all businesses and 
+customers in the ecosystem. We  strongly believe that  responsibility should take into account the 
+various places in which negligence can arise. Certainly software developers have an important 
+obligation to employ practices designed to account for foreseeable risk . But even with securely 
+developed software, risks will remain, which is why a fact -specific inquiry is needed for assigning 
+liability is the appropriate framework. 
+ 
+In BSA’s view, high standards and due diligence in software development, deployment, and use, 
+throughout its lifecycle, is best adapted to ensure cybersecurity in digital products. Such standards 
+and due diligence are developed through the software community’s best practices that help software 
+developers address important aspects of software security. 
+ 
+ 
+ 
+***
+ 
+1 BSA | The Software Alliance ( www.bsa.org) is the leading advocate for the global software industry. Its members are among the world’s 
+most innovative companies, creating software solutions that help businesses of all sizes in every part of the economy to modernize and 
+grow. With headquarters in Washington, DC, and operations in more than 30 countries, BSA pioneers compliance programs that promote 
+legal software use and advocates for public policies that foster technology innovation and drive growth in the digital econom y. BSA’s 
+members include: Adobe, Akamai, Atlassian, Autodesk, Bentley Systems, BlackBerry, Box, Cloudflare, CNC/Mastercam, D ocuSign, Dropbox, 
+IBM, Informatica, Intel, Intuit, MathWorks, McAfee, Microsoft, Okta, Oracle, PTC, Salesforce, ServiceNow, Siemens Industry Software Inc., 
+Slack, Splunk, Trend Micro, Trimble Solutions Corporation, Twilio, Workday, and Zoom. 
+Ref. Ares(2022)3961369 - 26/05/2022
+  
+I. A Strict Liability Regime for Software Will Undermine EU Cybersecurity   
+ 
+The rules governing product liability at EU level assume that the manufacturer of a product is best 
+positioned to mitigate harms that might arise before it is placed on the market. - This is indeed mainly 
+the case for “tangible products” (i.e. as cars, TV, etc.) which are designed for a specific use. Unlike the 
+consumer goods that typically are subject to product liability rules, software is deployed into complex 
+operating environments over which vendors or developers have little control or foresight once it 
+reaches the end-users, and in ways that create unpredictable potential risks. Software is typically 
+installed by end- users into general -purpose computing environments with diverse hardware 
+configurations and numerous other software titles. Unpredictable compatibility issues arising from 
+unique combinations of software and hardware can lead to system failures.  
+ 
+When a software is licensed to a customer (business or consumer), vendors or developers have limited 
+control on how their software are deployed, used, maintained by end-users as well as the environment 
+in which they operate. Certainly, software developers have an important obligation to employ 
+reasonable coding practices that are designed to account for the foreseeable risks that end-users 
+might encounter. However, securely coded software is no guarantee against system failure s or 
+security breaches, which often arise due to  “improper program installation or maintenance by 
+corporate IT staff, careless password protected by end users, and improper security procedures by 
+internet access providers. Even if the software supplier provides a secure program, any one of the 
+other involved parties can open a program or system to attack.”
+2 Similarly, software companies have 
+no control over the workforce that uses its software and whether or how they are skilled or trained 
+on managing cybersecurity risks. In a corporate setting, even if vendors  or developers ship software 
+with enabled security features or provide patches, administrators may not follow through.  
+ 
+Proposals for strict liability on software developers also lose sight of the fact that the vast majority of 
+damages arising from security incidents results from malicious activity by criminal actors. Botnets, 
+spear phishing and ransomware are just a few of the many methods of software compromise that can 
+adversely affect enterprises and, ultimately, end-users. While developers have an obligation to protect 
+their software against foreseeable threats, a strict liability framework is ill- equipped to allocate the 
+costs that derive largely from criminal interventions.  
+Moreover, a strict liability regime could create perverse incentives that could actually undermine 
+cybersecurity. Even the most robust and secure information systems are only as secure as their use . 
+Most security breaches are not a result of vulnerable software or questionable coding, but rather 
+because of an incorrect use of the software (e.g. user unawareness, incorrect installation or non -
+application of security updates, the use of insecure passw ords, opening unsolicited e-mails, etc .). 
+These can all result in cybersecurity breaches of information systems. A strict liability regime that 
+places responsibility solely on software developers could have the unintended effect of discouraging 
+end-users from mitigating risks that they are best positioned to address.  
+Moreover, e xposing developers to liability without regard to fault for harms that are largely 
+unforeseeable, often beyond their control, and frequently the result of criminal intervention will 
+imperil their ability to bring cutting -edge software to market. The softwa re development process is 
+strongly democratized. Today’s software is the result of a collaborative process that relies on the 
+sharing of tools, technologies, and components. Indeed, the internet has given rise to a software 
+development ecosystem that enables companies to share both open source and proprietary “software 
+libraries” on agreed upon terms. These software libraries are core components that enable developers 
+ 
+2 Robert W. Hahn and Anne Layne-Farrar, The Law and Economics of Software Security, 30 Harvard Journal of Law & Public Policy 283, 329 
+(2006).   
+3 
+ 
+to add general-purpose functionality to their programs without having to reinvent the wheel. The use 
+of such components not only reduces the costs of innovation, but also “contributes to overall software 
+product safety: programmers with interests in highly specific areas create components addressing 
+those areas, and the functionality and reliab ility of the component is consequentially quite rich.” 1 
+Extending strict products liability to software could grind this type of collaboration to a halt. 
+Developers of software libraries would be less willing to share their code if they could be held liabl e 
+for damages arising from software in which their code is an underlying component. 
+ 
+ 
+II. Strict liability for software developers is inconsistent with EU harmonization 
+ 
+Currently, the liability of a software (stand -alone or embedded) developer derives from the general 
+EU framework, namely: 
+1. Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and  
+administrative provisions of the Member States concerning liability for defective products;  
+2. Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain 
+aspects concerning contracts for the supply of digital content and digital services; a s well as  
+3.  Directive (EU) 2019/2161 of the European Parliament and of the Council of 27 November 2019 
+amending Council Directive 93/13/EEC and Directives 98/6/EC, 2005/29/EC and 2011/83/EU of 
+the European Parliament and of the Council as regards the better enforcement and modernisation 
+of Union consumer protection rules. 
+ 
+These legislations, and the principles of liability they entail, are well established: they have been in 
+place (some revised, in the meantime) for a long time and offer an efficient, predictable, safe and 
+entrusted legal framework to EU businesses, consumers and citizens. Indeed, the current negligence-
+based liability regime for software defects is working, and there is no evidence that EU consumers are 
+being injured by defective software (stand-alone or embedded) for which they cannot recover or seek 
+redress for. Moreover, i mposing heightened liability standards on software suppliers will chill 
+innovation into software offerings that have the potential to improve consumer welfare considerably. 
+ 
+Moreover, several existing EU sectorial legislations address software (either stand- alone or 
+embedded), in particular: 
+1. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on 
+medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and R egulation 
+(EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC  i ncludes 
+“software” in the definition of a medical device (embedded software) . Moreover, s oftware, “or 
+software that are devices in themselves” , should apply “ minimum requirements concerning 
+hardware, IT networks characteristics and IT security measures, including protection against 
+unauthorised access, necessary to run the software as intended”. 
+2. Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the 
+harmonisation of the laws of the Member States relating to the making available on the market 
+of radio equipment and repealing Dir ective 1999/5/EC w hich regulate, via delegated acts, stand -
+alone software uploaded in connected products that communicate via certain radio modules. This 
+Directive requires that specific classes or categories of radio equipment support features ensuring 
+that the compliance of that equipment is not compromised when software is uploaded. 
+3. Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on 
+machinery, and amending Directive 95/16/EC (recast)  re quires that a fault in the software of the 
+control system does not lead to hazardous situations. 
+ 
+Finally, recently, a number of ongoing EU initiatives also include references to software, and liability 
+in particular, namely: 
+4 
+ 
+1. The 2021 EU public consultation on “Civil liability – adapting liability rules to the digital age and 
+artificial intelligence” which could lead, in particular, to potential revisions to extend strict liability 
+rules to cover intangible products that cause physical or material damage (e.g. software and digital 
+content), address defects resulting from changes to products after they have been put into 
+circulation (e.g. software updates or circular economy activities like product refurbishments), 
+defects resulting from interactions with other products and services (e.g. IoT). 
+2. The current review of the EU General Product Safety Directive  where several political groups of 
+the EU Parliament have tabled amendments to include software ( stand-alone or embedded) in 
+the definition of “product”, thereby including software in the scope of the Directive and its 
+provisions. 
+3. The current review of the Directive on security of networks and information systems  (NIS 2) 
+introduces “technical, operational and organizational” risk management measures for high -risk 
+software. This obligation will apply equally to  the software operated by a regulated customer, or 
+by the product manufacturer (as the latter also qualifies as an “ essential service” operator under 
+the inclusion of Software as a Service - SaaS- in Annex I) , and also covers embedded software. 
+Moreover, s ome cybersecurity services, like managed detection and response (externalized 
+security operations), also fall under the scope of NIS 2. 
+ 
+Software liability is included in a broad range of different legislations , the potential future legislation 
+on cybersecurity requirement for digital products initiated by this public consultation being the last 
+one to date. The multiplication of legislations, and the various scopes and understandings of software 
+(stand-alone or embedded) as well as the liability covered create legal uncertainty and run essentially 
+against the EU efforts towards harmonization. Such discrepancies create burdens not only to 
+businesses, in particular SMEs, to ensure that they abide by the different requirements of the different 
+legislations but also to EU consumers and citizens who will be face with different redress mechanisms 
+depending on the type of legislation applying to their specific case, creating financial burdens and 
+lengthy resolution periods. 
+ 
+Therefore, and in order to ensure legal clarity and certainty, both for businesses and consumers , we 
+would urge the EU Commission not to contribute to further  fragmentation of the rules and work 
+towards its existing goal of harmonization. As stated above, it has been shown that the current Union 
+product safety legislations efficiently take into account the safety risks stemming from software, either 
+stand-alone or embedded, and that there is no evidence that EU consumers are being injured by 
+defective software (stand -alone or embedded) for which they cannot recover or seek redress for.  
+Therefore, we believe such existing legal framework should be retained. 
+ 
+ 
+III. Software Community Best Practices & BSA Framework for Secure Software 
+ 
+However, from within the software community, best practices are emerging that help software 
+developers address important aspects of software security, including security -by-design principles, 
+secure development lifecycle processes, and internationally recognized standards for key security 
+elements such as identity management, encryption, and secure coding. Although attention to each 
+specific security consideration can achieve marginal security gains, effective security requires a 
+comprehensive and risk -informed approach that combines individual considerations into a holistic, 
+lifecycle-long framework. Moreover, a comprehensive approach must be tailored to address the 
+nuanced, diverse, and evolving challenges associated with different types of software and connected 
+devices. 
+ 
+Building on best practices pioneered by many of its  members, BSA | The Software Alliance has 
+developed a software security framework to bring consistency to these  complex challenges. The BSA 
+5 
+ 
+Framework for Secure Software3 is intended to establish an approach to software  security that is 
+flexible, adaptable, outcome-focused, risk based, cost-effective, and repeatable. Avoiding a one size-
+fits-all solution, this voluntary framework will provide a common organization and structure to capture 
+multiple approaches to software security by identifying standards,  guidelines, and practices that can 
+help software development organizations achieve desired security outcomes while accounting for the 
+wide spectrum of intended uses, risk p rofiles, and technological solutions  among software products 
+and services. 
+ 
+Designing a horizontal cybersecurity policy framework like the Cyber-Resilience Act is a complex task 
+and will greatly benefit from active and structural consultation and collabora tion across th e 
+stakeholders involved in building up the cybersecurity ecosystem. BSA strongly believes that structural 
+cooperation between the public and private sectors is key to ensure the cybersecurity of digital 
+products and ancillary services. Therefore, we would recommend setting up a dedicated framework 
+in the upcoming Cyber -Resilience Act to ensure such public/private cooperation so that public 
+authorities can rely on the private sector to provide industrial and practical expertise in policy 
+developments in the matter. As cybersecurity policy is growing and becoming more complex, we also 
+welcome more cross -institutional collaboration in the E U Commission to ensure as more holistic 
+approach to policymaking. We especially believe that , in the process of designing security -related 
+horizontal legislation, it is important to conduct cross-consultation and take into account the aspects 
+of other policies, such as sustainability, to ensure their overall alignment. 
+ 
+We would therefore encourag e the European Commission to focus on an outcome-focused, 
+standards-based risk management tool to help stakeholders in the software industry – developers, 
+vendors, customers, policymakers, and others – communicate and evaluate security outcomes 
+associated with specific software products and services.  
+ 
+ 
+IV. EU Cybersecurity Certification: voluntary, harmonized at EU level, and  aligned with 
+international standards 
+ 
+The public consultation’s question 23 refers, in one of the statement to quantify, to “Further voluntary 
+European cybersecurity certification schemes for digital products and services”, though merely with 
+regards the costs for an organization. 
+ 
+With regard s cybersecurity certification in general, we welcome the reference to the “voluntary” 
+nature of the certification mentioned in the public consultation.  
+ 
+We strongly support the E uropean cybersecurity certification approach to remain voluntary, while 
+enabling self-assessment as the default conformity assessment procedure,  to be aligned with 
+international standards and to replace, not add to, national certification schemes
+4. 
+ 
+Moreover, for the purpose of legal clarity and harmonization at EU level, we also s upport the 
+alignment of the EU cybersecurity certification in all related current and upcoming EU cybersecurity 
+legislations (The EU Cybersecurity Act, the current Directive on security of networks and information 
+systems-NIS as well as its  ongoing review- NIS2, etc.) in order to avoid possible conflicts or overlaps.  
+ 
+3 https://www.bsa.org/files/reports/bsa_framework_secure_software_update_2020.pdf 
+4 BSA feedback to ENISA on the European Union Cybersecurity Certification Scheme on Cloud Services (EUCS) 
+https://www.bsa.org/policy-filings/eu-bsa-feedback-to-enisa-on-the-european-union-cybersecurity-certification-scheme-
+on-cloud-services-eucs 
+6 
+ 
+Finally, to this day, no certification scheme has been finalized or implemented under the CSA or NIS2. 
+Any mandatory certification obligations in this legislation would therefore be overly prescriptive and 
+premature in the current context. 
+ 
+ 
+V. Promote the development and use of internationally recognized standards 
+ 
+Another key issue with regards cybersecurity requirements for digital products is the need to 
+harmonize such cybersecurity requirements with international standards.  
+ 
+The public consultation’s question 22 alludes to common standards but merely for the specific case of 
+“dual-use items”. We strongly believe that such harmonized cybersecurity requirements based 
+international standards should apply to all digital products. These standards are developed in open, 
+transparent, consensus-based processes, and are widely adopted in the international marketplace. 
+Internationally recognized standards leverage global security expertise from governments, industry, 
+and academia. For example, ISO 27001 “specifies the requirements for establishing, implementing, 
+maintaining and continually improving an information security management system within the 
+context of an organization” and ISO 27017 provides “guidelines for information security controls 
+applicable to the provision and use of cloud services.” 
+ 
+Regional, national, or local standards fragment this landscape and increase the costs to customers 
+(including government customers) and decrease both the ability to provide innovative solutions and 
+the number of players competing for business thereby ultimately not only limiting consumer choice 
+but harming the entire cybersecurity ecosystem.  
+ 
+In contrast to regional , national, and local standards, laws and policies based on internationally 
+recognized standards enable international interoperability, allow governments and businesses to 
+better communicate at the technical level, have a track record of being developed and updated more 
+efficiently than laws, increase competitiveness, incentivize innovation, and account for how 
+technology is evolving. Ultimately, internationally recognized standards result in digital products that 
+are more effective, efficient, safe and innovative, while also being less expensive. This would 
+ultimately provide a more secure cybersecurity environment for digital products. By participating in, 
+and adopting, international standards, the EU could raise and address the cybersecurity concerns with 
+regards digital products without passing costs to consumers, hampering innovation, or limiting 
+competition. 
+ 
+This is particularly relevant when it comes to the issue, absent from the public consultation, of 
+enforcement. Indeed, future rules including harmonized European standards that are based on 
+requirements such as conformity self-assessment by default (including the possibility to have third 
+party assessments for a certain category of high-risk products) would be an appropriate policy option. 
+However, the public consultation does not mention which type of information is necessary to assess 
+whether digital products and ancillary services fall under the category of “high-risk”. Moreover, there 
+is also no mention of which entity will ultimately make the as sessment that a digital product falls or 
+not under the “high-risk” category nor based upon which information (e.g. threat/risk assessment). 
+We would welcome additional clarity on the EU Commission’s part on this point.  
+We would welcome additional clarity on the EU Commission’s part on this point. Therefore, BSA 
+therefore recommends a clear common approach to categorizing the digital products falling into scope 
+into low, medium and high -risk levels. We would therefore welcome the development of a clear 
+mechanism at the EU level for such categorization to ensure alignment and harmonization across the 
+EU single market and avoid fragmented approaches where one product is categorized as low risk in 
+one Member State and as high risk in another Member State. We also support close cooperation 
+7 
+ 
+between the EU institutions and the national competent authorities to ensure harmonized 
+implementation and enforcement of the future CRA. 
+ 
+ 
+VI. Recognizing Software Bills of Materials (SBOMs) as a promising but so far limited tool 
+ 
+The public consultation’s question 17 on approaches to contribute to the cybersecurity of digital 
+products notably mentions, as one of the options, the software bills of materials (SBOMs). 
+ 
+We should explicitly recognize the limitations of SBOMs as an emerging technique to manage supply 
+chain and cybersecurity risk. An SBOM can provide useful information to a customer but, without 
+additional context, can also be misleading and result in suboptimal action. For instance, an SBOM may 
+identify a vulnerable component that cannot be exploited as used but may nonetheless lead an 
+organization to compel a software developer to addresses that unexploitable vulnerability. 
+Alternatively, even if an SBOM identifies a vulnerability that is exploitable, an SBOM may 
+inappropriately prioritize the use of cybersecurity resources as there may be more effective ways to 
+address the vulnerability or otherwise improve the security of the product or service. Moreover, while 
+an SBOM is valuable to a developer during the development process and can provide point -in-time 
+information to a customer, an SBOM can also provide a roadmap for a criminal  actor, and like any 
+tool, an SBOM can and will be used for both noble and nefarious ends. 
+ 
+We believe  an SBOM is one of the many  pieces of a broader cybersecurity risk management 
+ecosystem. Because SBOMs are an emerging tool, with strong limitations as exposed above, the EU 
+Commission should be explicit that they are intended to provide supplemental information and do not 
+themselves provide sufficient information on which an organization can measure either the 
+cybersecurity risk or quality of the software they describe, nor do they identify the most effective use 
+of cybersecurity resources.  
+ 
+ 
+ 
+*  *  *  *  * 
+ 
+  
+BSA and its members support the EU Commission’s efforts to ensure the cyber  security in digital 
+products and to prevent cybersecurity incidents or attacks that can affect an entire organization or a 
+whole supply -chain. However, we strongly believe that such efforts would not be met by the 
+introduction of a strict software vendor or developer responsibility for the full life cycle of the digital 
+product but that responsibility should take into account the various places in which negligence can 
+arise. Certainly software developers have an important obligation to employ practices designed to 
+account for foreseeable risk. But even with securely developed software, risks will remain, which is 
+why a fact-specific inquiry is needed for assigning liability is the appropriate framework. 
+ 
+Rather, BSA strongly believes that high standards and due diligence in software development, 
+deployment, and use, throughout its lifecycle, is best adapted to ensure cybersecurity in digital 
+products. Such standards and due diligence are developed through the software community’s best 
+practices that help software developers address important aspects of software security. 
+ 
+We would therefore encourage the European Commission to focus on an outcome-focused, 
+standards-based risk management tool to help stakeholders in the software industry – developers, 
+vendors, customer s, policymakers, and others – communicate and evaluate security outcomes 
+associated with specific software products and services.  
+ 
+*** 
+ 
+For further information, please contact: 
+Thomas Boué, Director General, Policy – EMEA 
+thomasb@bsa.org
+ or +32.2.274.1315 
+ 
+ 

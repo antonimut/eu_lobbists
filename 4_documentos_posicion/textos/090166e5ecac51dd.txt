@@ -1,0 +1,437 @@
+ 
+ 
+ 
+ 
+  
+ 
+CONTRIBUTION TO THE 
+DISCUSSION ON A HORIZONTAL 
+REGULATION FOR CYBERSECURITY 
+UNDER THE NEW LEGILSLATIVE 
+FRAMEWORK (NLF) 
+for a possible Annex I the “Essential Requirements” 
+ 
+ 
+ 
+   
+ 
+An initiative by the Presidial Committee FOCUS.ICT of        
+ 
+The contribution was developed with respect to the position paper “EU-wide Cybersecurity 
+Requirements” of the Federation of German Industries (BDI), German Institute for 
+Standardization (DIN) and German Commission for Electrical, Electronic & Information 
+Technologies of DIN and VDE (DKE) from February 1st 2021. It addresses the core of such a 
+regulation in particular a proposal for an Annex I – the “Essential Requirements.”  
+ 
+2021-05-20 
+Ref. Ares(2022)3951767 - 25/05/2022
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+1 / 9 
+PREFACE  
+The European Union has to regulate the cybersecurity  of products for the European Market. We see 
+this as common understanding of politics and industry. The regulation needs to be drafted with great 
+care because it will have a massive impact on the European Economic Area and its competitiveness.  
+Digitalization changes nearly every sector. IT is part of a rapidly increasing number of products. And 
+digital developments are progressing extremely fast. Moreover, IT is the basis of important innovative 
+developments shaping our future  (like Industry 4.0, smart cit ies or green mobility). All this makes it 
+necessary for the regulation to allow innovation and  a wide variety of different technical solutions 
+when setting cybersecurity requirements.  
+The New Legislative Framework (NLF) was designed to address exactly these needs: Under the NLF,  
+essential requirements are set in a high-level and technology-neutral manner, resulting in a sustainable 
+and stable regulation, while the evolution of the state of the art is reflected in harmonized standards  
+developed by the relevant stakeholders incl. governmental authorities.  
+On this basis, the position paper “EU-wide Cybersecurity Requirements” of the Federation of German 
+Industries (BDI), German Institute for Standardization ( DIN) and German Commission for Electrical, 
+Electronic & Information Technologies of DIN and VDE (DKE) published on February 1st 2021 calls for 
+a horizontal regulation adhering to the NLF. The NLF in Decision 768/2008/EC stipulate so-called 
+reference provisions, which have to be used when drafting EU product regulations. The essential 
+requirements, typically the Annex I, are the core of such a regulation and need to be drafted 
+individually for each regulation. With the following paper we want to contribute to the development 
+of this centerpiece.    
+Between August 2020 and May 2021 in an open working group initiated by the Presidial Committee 
+FOCUS.ICT of DIN, over 30 experts in particular from the cybersecurity addressing working groups of 
+BITKOM, ZVEI und VDMA  developed this contribution. The work of the group was characterized by 
+humbleness concerning the complexity and conscientiousness considering the assumed expectations 
+from the different parties.  
+The paper is structured in three parts: 
+A) PRELIMINARY REMARKS AND GUIDING PRINCIPLES 
+which we see necessary to consider when developing a cybersecurity regulation and to 
+understand the approach taken in part B) 
+ 
+B) ESSENTIAL REQUIREMENTS 
+which are the central proposal of this document: a draft for an Annex 1 in a horizontal 
+cybersecurity regulation under the NLF  
+ 
+C) ADDITIONAL CONSIDERATIONS 
+which need to be considered in the NLF cybersecurity regulation, but, due to their character, 
+would not fit well into the essential requirements section of that regulation 
+ 
+This paper does not claim to be a closing position  or concluded consensus of all involved players in 
+every detail. Rather, it shall help to find consensus in the European discussion . We believe that the 
+contribution would be a consistent and robust starting point.  
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+2 / 9 
+ 
+TABLE OF CONTENTS 
+A) PRELIMINARY REMARKS AND GUIDING PRINCIPLES 3 
+ESSENTIAL REQUIREMENTS FOR A REGULATION UNDER THE NLF 3 
+FOCUS ON RESILIENCE 3 
+FOCUS ON MANUFACTURERS’ MEASURES 4 
+B) ESSENTIAL REQUIREMENTS (ANNEX I) 5 
+1. GENERAL PRINCIPLES AND MEASURES 5 
+2. PRODUCT REQUIREMENTS 6 
+2.1 ESSENTIAL PRODUCT REQUIREMENTS 6 
+2.2 SPECIFIC PRODUCT REQUIREMENTS 6 
+2.3 INSTRUCTIONS AND USER INFORMATION 7 
+C) ADDITIONAL CONSIDERATIONS 8 
+ 
+ 
+ 
+ 
+ 
+ 
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+3 / 9 
+A) PRELIMINARY REMARKS AND GUIDING PRINCIPLES 
+Essential requirements for a regulation under the NLF 
+The requirements in section B) are formulated as essential requirements for a horizontal EU regulation 
+on cybersecurity under the NLF. Thus, they stipulate the "resilience -objective" without any reference 
+to certain technologies and it is left to harmonize d European standards to elaborate more detailed 
+technical requirements  and security measures reflecting the state of the art.  The essential 
+requirements will focus on the objective to be attained and therefore on purpose do  not provide a 
+security engineering layout. This way the regulation does not have to be revised repeatedly as the state 
+of the art evolves. The regulation remains technology neutral, is future proof and innovation friendly. 
+With the essential requirements covering all key aspects of cybersecurity, the EU Commission can issue 
+open standardization requests, which specify only strategic objectives based on the essential product 
+requirements. Based on such open standardization request s, the European Standardisation 
+Organisations (ESOs) should, in a timely manner,  develop the necessary standards which specify the 
+details, e.g. security measures, to substantiate the essential requirements. A modular standardization 
+system that consists of basic standards (phenomenon-related) as well as product and/or product group 
+standards (product -related, refer to basic standards) supports the uniformity of the phenomenon -
+related requirements. In order to foster international marketability as well as the availability of 
+products and components from outside the EU, all harmonized EN standards (hENs) should largely be 
+based on or align with international standards. 
+Focus on resilience 
+The product requirements are formulated with a focus on cyber -resilience. Resilience is the ability to 
+withstand attacks and recover into a defined mode of operation after an attack. It consists of technical 
+(e.g. in design) as well as organizational (e.g. in operations) measures.  
+Adequate protection shall be provided for a defined and/or agreed time. A product must provide 
+adequate resilience against cyber-attacks. Adequate resilience means that the measures implemented 
+or foreseen correspond to the state of the art for the given product and its intended use as well as the 
+resulting “t hreat environment”.  Then a product can be considered as compliant to  the product 
+regulation even if its protection is overcome by an illegally acting attacker utilizing tremendous efforts 
+or when new vulnerabilities are discovered.  
+The ability to achieve a higher level of security, or the availab ility of other products that present a 
+lower risk, is not a sufficient reason to consider a product to be insecure or that its resilience is 
+insufficient to meet essential requirements. 
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+4 / 9 
+Focus on manufacturers’ measures 
+Cybersecurity cannot be achieved only by setting and verifying product requirements. They must be 
+complemented by measures taken during  development and operation as well as  organizational 
+measures like clear responsibilities. Therefore, the essential requi rements contain not only product 
+requirements but also requirements with respect to measures (actions) taken by manufacturers. 
+The manufacturers’ measures include measures in the manufacturing process to ensure compliance of 
+the manufactured products with the essential requirements. However, since manufacturing is already 
+sufficiently addressed in the NLF conformity assessment procedures ( e.g. internal production control 
+in Annex II of NLF Decision No 768/2008/EC), there is no need for additional manufacturing provisions 
+in the essential requirements.  
+When prescribing the manufacturers’ measures, the objective is that the manufacturer really 
+implement the relevant measures for a given product rather than merely prescribing that a process for 
+the measures exist s. Consequently, we emphasize in section B) 1 that for the given product, the 
+manufacturer documents the results of the measures  carried out. The requirement to document the 
+outcome of the se measures in the technical documentation of a given product will also facilitate 
+market surveillance of products. 
+Same as the product requirements, the requirements for these measures are described on a high level 
+rather than in detail. Any details, where necessary, could be elaborated in harmonized standards which 
+are based on existing standards like the EN IEC 62443 “Industrial communication networks – Network 
+and system security ” series of standards, the EN ISO/IEC 2700X “ Information Security Management 
+Systems” family of standards or the upcoming standard for automotive ISO/SAE 21434. 
+The measures which we address in the essential requirements are furthermore limited to those 
+measures, that are to be taken by the manufacturer. We understand that cybersecurity can at last only 
+be achieved if users and operators of products also act responsibly, e.g. by using products as intended 
+and making use of updates and user information provided by manufacturers. However, for the sake of 
+clarity of the regulation and for consistency in the NLF, operator obligations should not be regulated 
+in a horizontal NLF regulation. Where necessary, such operator obligations could for sake of 
+consistency be addressed on EU level in existing regulations focusing on op erators, like  the 
+occupational health and safety regulations.  
+ 
+ 
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+5 / 9 
+B) ESSENTIAL REQUIREMENTS (Annex I) 
+1. General principles and measures 
+(1) The manufacturer or his authorised representative must ensure that a security risk 
+assessment is carried out in order to determine product requirements referred to in section 
+2. which apply to the product. The requirements determined in this way are binding for the 
+product. The requirement to provide instructions and information referred to in section 2.3 
+applies in any case. The product must be designed and provided with security measures 
+taking into account the results of the risk assessment.  
+ 
+This comprises the following elements: 
+a. Threat and risk analysis 
+where the manufacturer  
+i. determines the limits of the product, which include its intended use, its scope and 
+its environment, the assets to be protected, over the whole lifecycle of the 
+product (development, production, installation, operation, maintenance and 
+decommissioning), 
+ii. performs a threat modelling (e.g. attacker capabilities, local or remote attacker, 
+exposure, potential value for attackers etc.), 
+iii. assesses the identified risks, 
+iv. determines based on above i.-iii. which of the product requirements referred to in 
+section 2. apply to the product. 
+ 
+b. Definition of specific security measures  
+where the manufacturer, based on the threat and risk analysis, defines specific security 
+measures according to the state of the art for the product and its environment in order 
+to fulfill the applicable product requirements referred to in section 2. 
+c. Security implementation 
+where the manufacturer implements the specific security measures and ensures that no 
+new risks are introduced through the implementation. 
+d. Verification and validation of the specific security measures 
+where the manufacturer verifies and validates that the secure implementation fulfills 
+the specific security measures by using best practices like security guidelines, design 
+review, unit testing, static code analysis, vulnerability scans and pen testing, etc. 
+The results of the elements above (a. - d.) shall be documented. 
+ 
+(2) The manufacturer shall observe the following order of priority when selecting security 
+measures: 
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+6 / 9 
+a. eliminating or minimizing risks by the way the product is designed, i.e., integrating 
+cybersecurity into the design 
+b. implementing the necessary security measures against risks that cannot be eliminated 
+by design (e.g. measures during installation, initial commissioning or during operation); 
+c. informing users of the residual risks due to any shortcomings of the security measures 
+adopted. 
+ 
+(3) The security measures taken by the manufacturer to meet the requirements identified in 
+(1) shall correspond to the state of the art, taking into account the product’s intended use. 
+2. Product requirements 
+2.1 Essential product requirements 
+Products must be designed and manufactured in consideration of the risk and the state of the art such 
+that, when used and maintained as intended in accordance with the instructions, they: 
+(1) provide adequate resilience to anticipated cybersecurity threats (e.g. attacks affecting the 
+integrity, availability and confidentiality) without significant impairment of the essential 
+functions of the products; 
+(2) do not significantly compromise or impair the cybersecurity of other connectable products; 
+(3) do not pose a threat to networks or other communications infrastructure. 
+ 
+2.2 Specific product requirements  
+These product requirements can be broken down into more specific requirements . This means that 
+products shall be designed and manufactured as such that: 
+(1) unauthorized access is denied (e.g. through access control);  
+(2) resilience against denial of service attacks is provided (e.g. through validation and recovery 
+design);  
+(3) confidentiality of data, commands and programs is protected (e.g. through encryption, data 
+and communication security);  
+(4) external interfaces are protected (e.g. through input validation and access control); 
+(5) they are protected against physical attacks (e.g. through physical protection or hardening 
+and hardware protection); 
+(6) integrity of data, commands or programs is protected (e.g. through integrity protection);  
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+7 / 9 
+(7) access to or modification of data, commands or programs can be noticed (e.g. through 
+logging and monitoring);  
+(8) default settings provide a secure and privacy-friendly configuration (e.g. through security-
+by-default design); 
+(9) security support can be received (e.g. through supportive measures or security updates). 
+ 
+The individual applicability and level of resilience of these specific requirements are determined by the 
+threat and risk analysis (see above 1. (1)).  
+ 
+2.3 Instructions and user information 
+The product must be provided with instructions and information in an electronic or physical format 
+which allow the relevant stakeholders (end users or manufacturers of products or solutions into which 
+the product in question will be integrated ) a secure installation, operation and usage of the product. 
+This includes information about: 
+(1) the correct identification of the version of the product and the corresponding instruction 
+and user information, 
+(2) the intended use including the security environment foreseen by the manufacturer as well 
+as the product’s essential functionalities,  
+(3) the necessary measures during initial commissioning, secure configuration, 
+(4) the installation of security-relevant updates, 
+(5) the type of support offered by the manufacturer and how long it will be provided  
+(6) the necessary product maintenance for secure operation,  
+(7) the point of contact where information about cybersecurity-vulnerabilities of the product 
+can be reported and received, 
+(8) the secure decommissioning of the product, e.g. secure removal of user data and 
+credentials 
+ 
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+8 / 9 
+C) ADDITIONAL CONSIDERATIONS 
+When developing the above draft for essential requirements we found aspects, which due to their 
+character, would not fit into the essential requirements section of the NLF cybersecurity regulation but 
+should be further discussed within the course of developing the regulation.  
+These aspects are: 
+- Interface to other EU (NLF) product legislation: This interface must be designed to ensure 
+coherence, legal certainty, appropriate conformity assessment procedures and efficient 
+implementation on manufacturer and enforcement side.  
+Whenever the NLF cybersecurity regulation makes cybersecurity requirements in other 
+product legislation obsolete (like the delegated acts under the RED), those cybersecurity 
+requirements should be withdrawn.  
+- Acceptable level of security:  Security is not safety.  Safety focusses on accident avoidance 
+and security  mainly on crime prevention. Safety  primarily addresses the danger of the 
+product itself for the user and the environment. Therefore it is a generic task for the 
+manufacturer. Security risk instead originate from a 3rd person. It usually addresses an attack 
+on the product , through which the product might be dangerous for the user or the 
+environment. The practice shows that influences cannot be foreseen, due to the creativity of 
+attackers or mathematicians finding efficient ways to overcome security measure s or do 
+cryptanalysis. Taking this into account, security must be considered in a different way  than 
+safety. It is obvious that it is less the task of the manufacturer than safety. Moreover, it is in 
+the nature of this issue, that criminal energy can be higher than the state-of-the art 
+prevention measures at any time.  
+Nevertheless, and that is the common sense behind this paper , the manufacturing of 
+connected products should anticipate typical environment al risks. For example, there are  
+viruses in the physical world and viruses in the virtual/connected world. When designing this 
+legislation it has to be considered, that the level of security, with which the manufacturer at 
+least participates in “crime prevention”, has to be chose n wisely. There is never absolute 
+security.   
+- Successful attacks on compliant products does not lead to non -compliance: Even state-of-
+the-art security measures cannot ensure 100% security. Therefore, a successful attack on  a 
+product does not  necessarily imply non-compliance with the NLF cybersecurity regulation 
+(see also “focus on resilience” described in part A) of this paper). 
+- Security support is part of the manufacturer’s obligations: Cybersecurity is a moving target. 
+Therefore, manufacturers have to provide security support for their products e.g. in form of 
+updates. The essential requirements drafted above already set the obligation to inform about 
+the type and period of this support. However, the actual obligation to provide support would 
+better fit into the section “manufacturer obligations” which  is foreseen in reference 
+provisions of the NLF Decision No 768/2008/EC. 
+ 
+  
+CONTRIBUTION TO THE DISUSSION ON A HORIZONTAL REGULATION 
+FOR CYBERSECURITY UNDER THE NLF   |   2021-05-20 
+     
+9 / 9 
+Bitkom - Federal Association for Information Technology, Telecommunications and New Media represents more than 2,700 companies of the digital 
+economy, including 2,000 direct members. Through IT- and communication services alone, our members generate a domestic annual turnover of 190 
+billion Euros, including 50 billion Euros in exports. The members of Bitkom employ more than 2 million people in Germany. Among these members are 
+1,000 small and medium-sized businesses, over 500 startups and almost all global players. They offer a wide range of software technologies, IT-services, 
+and telecommunications or internet services, produce hardware and consumer electronics, operate in the digital media sector or are in other ways affiliated 
+with the digital economy. 80 percent of the members’ headquarters are located in Germany with an additional 8 percent both in the EU and the USA, as 
+well as 4 percent in other regions of the world.  Bitkom promotes the digital transformation of the German economy, as well as of German society at 
+large, enabling citizens to benefit from digitalisation.  A strong European digital policy and a fully integrated digital single market are at the heart of 
+Bitkom’s concerns, as well as establishing Germany as a key driver of digital change in Europe and globally. 
+ 
+Bitkom 
+(Federal Association  
+for Information Technology, 
+Telecommunications and 
+New Media)  
+ 
+Bundesverband Informationswirtschaft, 
+Telekommunikation  
+und Neue Medien e. V.  
+Albrechtstraße 10 
+10117 Berlin 
+Germany 
+Dr. Katharina Eylers  
+Industry 4.0 & 
+Technical Regulation 
+T +49 30 27576-0 
+k.eylers@bitkom.org  
+  -------------------------------------------------------------------------------------------------------------------------------------- 
+VDMA - Mechanical Engineering Industry Association represents the economic, technical and scientific interests of around 3300 German and European 
+mechanical and plant engineering companies. The industry stands for innovation, export orientation, medium-sized businesses and employs around four 
+million people in Europe, more than one million of them in Germany alone. Mechanica l and plant engineering provides solutions for many of the 
+challenges of our time. The spectrum is broad and covers all areas of life: from drive technologies for tomorrow's mobility, innovations for greater energy 
+efficiency and resource protection, to food and recycling machines, to cutting-edge technology in medicine. 
+ 
+VDMA 
+(Mechanical Engineering 
+Industry Association) 
+Verband Deutscher Maschinen-  
+und Anlagenbau e. V.  
+Lyoner Str. 18 
+60528 Frankfurt am Main 
+Germany 
+Thomas Kraus  
+Technology, Environment 
+and Sustainability 
+T +49 69 6603-1602 
+thomas.kraus@vdma.org 
+ 
+ 
+-------------------------------------------------------------------------------------------------------------------------------------- 
+ZVEI - German Electrical and Electronic Manufacturers’ Association’ promotes the industry’s joint economic, technological and environmental policy 
+interests on a national, European and global level. The sector has round about 873,000 employees in Germany plus 790,000 employees all over the world. 
+In 2020 the turnover was Euro 180 billion. The electrical and electronics indus try is the most innovative industry sector in Germany. One -third of the 
+industries sales are based on new products. Every third innovation in Germany´s manufacturing sector stems from solutions of this sector. More than 20 
+percent of all industrial R+D spending comes from this industry. Every year, the industry spends 20 billion euros on R+D, more than 6 billion euros on 
+investments and two billion euros on training and further education. 
+ 
+ZVEI 
+(German Electrical and Electronic 
+Manufacturers' Association) 
+ 
+ 
+Zentralverband Elektrotechnik-  
+und Elektronikindustrie e. V. 
+Lyoner Straße 9 
+60528 Frankfurt am Main 
+Germany 
+ 
+Marcel Hug  
+Manager Cyber Security  
+& Strategy 
+T +49 69 6302-432 
+marcel.hug@zvei.org 
+ -------------------------------------------------------------------------------------------------------------------------------------- 
+FOCUS.ICT - Presidial Committee of DIN, the Strategy Committee on Standardization in Information and Communication Technology, is one of the five 
+Presidial Committees of the German Institute for Standardization, and supports the Presidial Board in its various activities.  High-profile experts from 
+business, politics, research and society analyze relevant ICT developments and give advice on standardization needs and redundances. They ini tiate 
+necessary measures such as coordinating and corrective actions - at national level as well as via the relevant partners CEN/C ENELEC/ETSI, ISO/IEC/ITU 
+and industry consortia at European and international level. FOCUS.ICT focuses on complex projects with a cross-body character and pursues the goal of 
+using the potential of standardization in ICT even more effectively for the development of Germany as a business location. The Chairs of the Committee 
+are Prof. Dr. Dieter Wegener (SIEMENS) and Dr. Jochen Friedrich (IBM).  
+ 
+FOCUS.ICT 
+Presidial Committee FOCUS.ICT of  
+DIN (German Institute for Standardization) 
+ 
+ 
+ 
+FOCUS.ICT im DIN 
+DIN e. V. 
+Saatwinkler Damm 42/43 
+13627 Berlin 
+Germany 
+ 
+Dr. Stefan Weisgerber 
+Managing Director  
+T +49 30 2601-2411 
+stefan.weisgerber@din.de   
+  -------------------------------------------------------------------------------------------------------------------------------------- 
+Chair of the FOCUS.ICT Working Group  
+Markus Werthschulte 
+Festo SE & Co. KG 
+Corporate Product Compliance 
+T +49 711 347-52778 
+markus.werthschulte@festo.com  
+ 
+ 
+Coordinator of the FOCUS.ICT Initiative 
+Johannes Benjamin Helfritz 
+DIN e. V. 
+External Relations – Digital Platforms 
+Project Coordinator 
+T +49 30 2601-2791 
+benjamin.helfritz@din.de  
+Image cover sheet: pixabay.com  

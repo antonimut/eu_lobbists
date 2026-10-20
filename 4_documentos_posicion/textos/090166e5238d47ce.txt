@@ -1,0 +1,205 @@
+ 
+ 
+ 
+ 
+Position on the Digital Omnibus (cybersecurity 
+simplification) 
+ 
+Introduction 
+ 
+Trellix welcomes the European Commission's Digital Omnibus initiative as a timely and 
+essential step towards ensuring the EU’s digital rulebook is both effective and efficient. As a 
+leading global cybersecurity company dedicated to protecting European enterprises and 
+public institutions, we strongly support the stated goal of reducing administrative burdens 
+without compromising the Union's high security and privacy standards. 
+ 
+This position paper offers specific, actionable recommendations focused on the 
+cybersecurity aspects of the simplification package. We believe that by focusing on four 
+core pillars, the Commission can achieve its simplification goals while strengthening 
+Europe's overall security posture: 
+1. Streamlining incident reporting: harmonising rules, implementing a ‘report once, 
+inform all’ system and ensure legal clarity thanks to liability clause. 
+2. Harmonizing legal definitions: Creating a common lexicon across regulations to 
+provide legal clarity and reduce confusion. 
+3. Promoting compliance efficiency: Establishing mechanisms for the mutual 
+recognition of compliance efforts to eliminate duplicative work. 
+4. Ensuring a Pragmatic Implementation of New Rules: Adjusting the timeline for the 
+Cyber Resilience Act to align with the development of necessary technical standards. 
+ 
+ 
+1. Streamlining incident reporting 
+ 
+Timely incident reporting is vital for digital resilience, but the current EU framework 
+complicates this with overlapping and conflicting requirements that draw resources away 
+from response. We support harmonizing reporting rules, implementing a "report once, 
+inform all" system, and ensuring legal certainty through a liability clause to encourage 
+transparency. 
+ 
+Harmonize reporting obligations rules across EU framework 
+Organisations operating in Europe today face a patchwork of cybersecurity reporting 
+requirements across multiple laws including NIS2, the Cyber Resilience Act, DORA, and the 
+GDPR. Each of these instruments establishes distinct incident notification processes 
+with different triggers, timelines, competent authorities, and information 
+requirements. This proliferation of overlapping obligations creates significant administrative 
+burdens without a commensurate security benefit. 
+ 
+For example, a single cyber incident might require notification under NIS2 (to national 
+CSIRTs or authorities within hours), under the CRA (to ENISA’s platform within 24 hours for 
+actively exploited vulnerabilities), under DORA (to financial supervisors), and possibly under 
+GDPR if personal data is involved each with different content and format. Trellix strongly 
+supports efforts in the digital omnibus to simplify and harmonise cybersecurity reporting 
+obligations across the EU’s regulatory landscape.  
+ 
+Ref. Ares(2025)8738108 - 14/10/2025
+
+ 
+ 
+A “Report once, inform all” mechanism should be created 
+A key improvement would be to implement a “report once, inform all” principle via a single 
+reporting platform managed by ENISA. Organisations should be able to submit a single 
+comprehensive incident report that satisfies multiple legal requirements, rather than 
+duplicating work, while ensuring that the relevant reports are transmitted to the right 
+authority.  
+ 
+Moreover, due to the fast implementation of cybersecurity laws, while the Commission and 
+ENISA work on single European reporting platforms, national reporting should be simplified 
+with the creation of national single reporting entry points. 
+ 
+Increase legal clarity with liability clause 
+To foster this transparency, it is vital to integrate liability clauses within the reporting 
+framework. Incorporating liability protections into the reporting structure offers legal 
+clarity and assurance for organisations. This increased certainty is likely to promote more 
+prompt and comprehensive reporting, thereby strengthening situational awareness and 
+response capabilities throughout the EU. 
+ 
+ 
+2. Harmonize key definitions and threshold for legal clarity 
+ 
+A major obstacle to unified cybersecurity reporting is inconsistent terminology across 
+regulations, which causes confusion and administrative burden. For example, terms like 
+"incident," "significant incident," and "becomes aware" have varying definitions in directives 
+such as NIS2 and GDPR, requiring organizations to create separate assessment and 
+reporting processes. Definitions of "main establishment" also differ, complicating cross-
+border compliance. 
+ 
+Another example is that determining the exact moment of "awareness" is challenging, as 
+initial investigative findings are often incomplete. Premature reporting may lead to confusion 
+and reputational damage without benefiting authorities. 
+ 
+To solve this, the EU should adopt harmonized definitions for key cybersecurity terms 
+through an omnibus, either by creating a shared glossary or amending existing legislation. 
+Essential terms for alignment include: 
+• Cybersecurity incident 
+• Significant incident 
+• Become aware of an incident 
+• Main establishment 
+ 
+Consistent terminology would clarify obligations and streamline incident reporting for 
+organizations. 
+ 
+Furthermore, Trellix is pleased with the development of the EU Vulnerability Database 
+(EU-VD) and strongly supports ongoing efforts to align its methodology with the US National 
+Vulnerability Database (NVD). We also welcome the adoption of the CVSS score within the 
+EU-VD, as it promotes consistent and effective vulnerability assessment across jurisdictions. 
+ 
+3. Reciprocity and mutual recognition of compliance efforts 
+ 
+Beyond incident reporting, the broader compliance workload could be eased by recognizing 
+equivalence between different regimes. For example, risk assessments, audits, and 
+penetration testing conducted for one regulatory framework (say DORA in finance) could 
+also satisfy similar requirements in another (such as NIS2) to the extent the objectives 
+
+ 
+ 
+overlap. The Omnibus should encourage the use of reciprocity mechanisms so that 
+entities are not double-audited or required to maintain duplicate documentation for 
+similar cybersecurity controls. 
+ 
+We recommend the Commission work with ENISA to map overlaps and issue guidance or 
+amendments enabling legislative cross-recognition. This would maintain high cybersecurity 
+standards while eliminating duplicative efforts. In summary, greater harmonisation of terms 
+and consolidation of processes will reduce the regulatory maze that companies navigate, 
+freeing up resources to focus on actual security improvements. 
+ 
+4. Improving implementation timeline of the Cyber Resilience Act 
+ 
+The Cyber Resilience Act (CRA) is set to introduce landmark cybersecurity requirements for 
+products with digital elements. Trellix supports the CRA’s objective, but we caution that a 
+rushed implementation will create unnecessary legal uncertainty and compliance 
+burdens, undermining the very principle of this simplification package. 
+ 
+Currently, the CRA’s timeline appears overly ambitious considering the preparatory work still 
+needed. The harmonised European standards that manufacturers will rely on for CRA 
+compliance are not expected to be ready until late 2027 for many product categories. In 
+other words, the CRA will begin to apply and mandate compliance before the detailed 
+technical standards (developed CEN/CENELEC or ETSI) are in place. It is well known that 
+standardisation processes often face delays, and indeed key product security 
+certification and standards (including those aligning CRA requirements with the forthcoming 
+EUCC certification scheme) are envisaged but not planned yet. Imposing hard CRA 
+compliance deadlines on industry without available standards or approved certification 
+schemes would risk a situation where manufacturers are unsure how to demonstrate 
+conformity. 
+ 
+Therefore, we recommend that the Digital Omnibus explicitly adjusts the CRA’s 
+implementation timeline to account for these realities. This could mean providing 
+additional transitional periods or a phased enforcement that kicks in only after corresponding 
+standards are published. 
+ 
+Additionally, Mutual Recognition Agreements (MRAs) could substantially accelerate the 
+implementation process, enabling the timely and efficient recognition of equivalent 
+international standards. Such agreements would alleviate bottlenecks associated with 
+standardisation delays, reduce compliance uncertainty for manufacturers, and expedite the 
+overall deployment of secure products across Europe. 
+ 
+Conclusion 
+ 
+The forthcoming Digital Omnibus is a crucial opportunity to bolster Europe’s competitiveness 
+by reducing unnecessary complexity for businesses and ensuring its digital rulebook is fit for 
+purpose. By focusing on pragmatic reforms in reporting, legal harmonisation, and 
+implementation, the Commission can reinforce the EU’s cyber resilience in a balanced and 
+effective manner. 
+ 
+Specifically, we urge the Commission to: 
+1. Establish a “report once, inform all” system via a single EU entry point, supported 
+by national platforms in the interim, to allow companies to devote more resources to 
+active defence and recovery. 
+2. Harmonize key legal definitions across all cybersecurity legislation to eliminate 
+ambiguity and ensure consistent interpretation of obligations. 
+ 
+ 
+3. Introduce reciprocity mechanisms to allow compliance with one regulatory 
+framework to satisfy similar requirements in another, eliminating duplicative audits 
+and documentation. 
+4. Adjust the implementation timeline of the Cyber Resilience Act to ensure its 
+requirements are realistic, workable, and supported by available technical standards 
+before they become mandatory. 
+ 
+These reforms require strong coordination and commitment. We agree with the Commission 
+that simplification efforts must not compromise security effectiveness; rather, they should 
+eliminate redundant bureaucracy that diverts resources from actual cyber defence. Trellix is 
+grateful for the opportunity to contribute to this consultation and remains committed to 
+supporting a secure and resilient Europe through constructive public-private collaboration. 
+ 
+About Trellix  
+ 
+Trellix is a global cybersecurity company formed in 2021 through the merger of McAfee 
+Enterprise and FireEye Products. With over 40,000 customers, 4,000 employees, and nearly 
+$2 billion in revenue, Trellix is a market leader delivering enterprise and government security 
+solutions. 
+ 
+Our open and native extended detection and response (XDR) platform helps organisations 
+address advanced threats by enhancing protection, resilience, and operational confidence. 
+The platform integrates security tools across endpoints, infrastructure, applications, and the 
+cloud into a unified, adaptive system. 
+ 
+Combining machine learning, automation, and expert insight, Trellix enables faster threat 
+detection, response, and recovery throughout the cyber defence lifecycle, supporting a 
+cloud-first, ecosystem-based approach to digital security. 
+https://www.trellix.com/en-us/index.html  
+ 
+For further information please contact:  
+Chris Hutchins  
+Managing Director Public Policy  
+Chris.Hutchins@trellix.com 
+Transparency Register n°848399332282-85 
+ 

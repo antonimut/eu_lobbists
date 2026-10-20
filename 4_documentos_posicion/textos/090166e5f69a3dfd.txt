@@ -1,0 +1,405 @@
+ 
+ 
+ 
+1 
+ 
+Siemens Healthineers’ feedback to the European Commission’s proposal for  
+a Regulation on horizontal cybersecurity requirements for products with digital elements and 
+amending Regulation (EU) 2019/1020 (Cyber Resilience Act) 
+ 
+Siemens Healthineers welcomes the  European Commission ’s initiative to introduce horizontal 
+cybersecurity requirements for products with digital elements . We believe that cybersecurity by 
+design is crucial for the security of EU citizens, in particular for patients in Europe, as well as for safe 
+and responsible innovation in healthcare.  
+ 
+Cybersecurity readiness is an integral part of the Siemens Healthineers company culture: we 
+implement a security framework for development and design, we support security-aware 
+deployment, and we apply post-market surveillance continuously. We strive to constantly improve 
+our systems and processes , and train our teams in cybersecurity matters, so that high cyberthreat 
+awareness remains high priority.  
+ 
+This position paper  aims to bring specific concerns and proposals  to the attention of  legislators to 
+support the creation of a well-suited framework for better secured hardware and software products 
+in the  European Union. We look forward to participating in the ongoing discussions on the Cyber 
+Resilience Ac t (CRA) by sharing our expertise , in partic ular regarding products from the Siemens 
+Healthineers portfolio that are in the scope of the CRA proposal . We stand ready to work with 
+policymakers to ensure an effective and successful strengthening of cyber resilience in the European 
+Union. 
+ 
+Against this background, we would like to highlight the following key suggestions before providing 
+a more detailed analysis: 
+ 
+BUILD ON ESTABLISHED SECTORIAL FRAMEWORKS 
+The European Commission's proposal takes into account the different phases of the lifecycle of a 
+digital product. Thereby, the Cyber Resilience Act (CRA) will contribute to a significant increase in cyber 
+resilience in the European Union . The approach of the CRA towards  products with digital elements 
+that are within the scope of Regulation EU 2017/745 and 2017/746 (Medical Devices Regulation and 
+In Vitro Diagnostic Medical Devices Regulation, abbreviated as MDR and IVDR) is reasonable: both 
+MDR and IVDR are robust, comprehensive, and up -to-date regulations for the medical technologies 
+industry that ensure legal certainty to all market players and society at large. Building on the success 
+of the MDR/IVDR, the legislators should  enable the reus e of certain healthcare sector specific 
+processes for applications and products that are covered by the CRA and are intended to be used in 
+the environment of a healthcare provider and its value chain. 
+ 
+RECOGNIZE SHARED RESPONSIBILITY 
+We believe that a high cybersecurity resilience can only be achieved by shared responsibilities  of all 
+stakeholders that are impacted by a product with digital elements during its lifecycle. F or the 
+healthcare sector these stakeholders can be manufacturers, suppliers, healthcare providers, patients, 
+integrators, operators, and regulators . We support the explanation by the Medical Device 
+Ref. Ares(2023)449659 - 20/01/2023
+ 
+ 
+ 
+2 
+ 
+Coordination Group (MDCG 2019-16 rev. 1, p. 12), which highlights the joint responsibilities of various 
+actors for ensuring a secured environment for the benefit of patients’ safety , for example when 
+managing devices in an IT-network. 
+ 
+ALLOW FOR PRODUCT-SPECIFIC DIFFERENTIATION 
+The CRA proposal has a wide scope across sectors, heterogenous products and for both business-to-
+consumer (“B2C”) and business-to-business (“B2B”) transactions. We believe that the proposal as it 
+stands does not yet provide proportionate regulation for all cases. The CRA should follow a risk-based 
+approach, including appropriate and commercially reasonable measures  depending on the specific 
+product with digital elements and its intended use. The manufacturer’s post-market obligations need 
+to be clearly differentiated from a greatly ext ended warranty period, and maintenance services 
+(including patches, updates, upgrades) may be fee -based – at least in connection with business -to-
+business transactions. 
+ 
+EXTEND THE TRANSITION PERIOD 
+Since the scope of the proposed law is very broad and encompasses a wide range of also physical 
+products, we believe that the proposed transition period of 24 months  is too short  and should be 
+prolonged. We also suggest that the European Commission starts the standardization request for the 
+CRA as soon as possible, to ensure that standards for the implementation of the CRA are ready before 
+the CRA becomes effective, so to avoid uncertainty during product development. The implementation 
+of measures shall be based on  technical consensus established by standards . Further more, the 
+transition period should be extended based on the criticality of the product, which in turn should be 
+based on the device-specific intended environment of use. 
+ 
+AVOID DUPLICATE REGULATION 
+Due to the upcoming NIS 2 Directive many companies in the EU will be considered important entities 
+or even essential entities and as such must establish further cybersecurity measures or  become 
+indirectly affected if being a supplier to those entities.  It will be important to ensure consistency 
+between the requirements of NIS2 and CRA to avoid legal uncertainty and additional red tape.  
+ 
+MAKE REPORTING OBLIGATIONS PRACTICABLE 
+The period for reporting should consider that cyberattacks are often complex and require the 
+resource-intensive investigation of experts. Therefore we suggest that the period should be at least 
+72 hours , corresponding to the reporting period for a data breach under the GDPR. With shorter 
+reporting periods, a flood of unnecessary, over -cautious incident reports is likely to happen  – 
+therefore it is important to start counting towards the reporting deadline only when the manufacturer 
+has become aware of  a significant incident based on thresholds  which need to be specified . The 
+general public should only be informed if such a notification is necessary to handle  the incident or 
+prevent further incidents.  
+ 
+MAKE SANCTIONS PROPORTIONATE 
+Administrative fines based on the worldwide turnover subject to Article 53, must be proportionate to 
+the concrete event and the level of n egligence/misconduct, and in any case should not apply  in case 
+ 
+ 
+ 
+3 
+ 
+of only “non-essential” incompliance. The calculation of penalties should be based only on the amount 
+of the turnover that corresponds to the relevant product that is incompliant , and double sanctions 
+must be prevented, with regards to both, multiple punishment by the authorities of separate Member 
+States, as well as additional fines under other regimes due to the same event (e.g. GDPR). 
+ 
+ 
+In the following chapters, we would like to take the opportunity to comment on the Cyber Resilience 
+Act proposal in more detail: 
+ 
+I. Scope and definitions 
+We consider the approach of the CRA’s towards the products with digital elements within the scope 
+of Regulation EU 2017/745 and 2017/746 (Medical Devices Regulation and In Vitro Diagnostic Medical 
+Devices Regulation, abbreviated as MDR and IVDR respectively) as justified and considerate. MDR and 
+IVDR are robust, comprehensive and up-to-date regulations that ensure legal certainty to all market 
+players and society at large , further specified by additional guidance on cybersecurity ( MDCG 2019-
+16 rev. 1 ). We believe that the MDR/IVDR c ould be further ext ended by the EU Commission via 
+additional standards or common specifications , as already intended in Article 8 and Article 9. We 
+hereby suggest that the co-legislators enable the reuse of certain healthcare sector specific processes 
+for applications and products that are covered by the CRA and are intended to be used in the 
+environment of a healthcare provider and its value chain.  This could be achieved durin g the 
+standardization process. 
+MDR/IVDR address the entire cycle of the medical product from development to placement on the 
+market, and continuous monitoring throughout its life cycle . As a result of the latest revision of the 
+Medical Devices Regulations,  as of 2017 almost all medical software is subject to scrutiny by the 
+Notified Bodies designated under MDR and IVDR. It is the only  NLF sectorial legislation to date that 
+also requires CE marking of a product which is merely a stand-alone software – to be affixed upon a 
+successful third-part conformity assessment. The regulatory framework for medical devices follows a 
+risk-based approach by placing each medical device – either a  hardware device with or without 
+embedded software, or a stand-alone software device – into one of four categories: the higher a risk 
+class the stricter the requirements. Three of such classes – IIa, IIb, and III of medical devices and B, C, 
+and D of in vitro devices – are subject to external oversight by Notified Bodies, which account for an 
+estimated 90  - 95 % of all medical devices. Beyond the legal framework, Siemens Healthineers 
+acknowledges its part of  the responsibility towards end -users, especially patients, including placing 
+safe and highly performing products on the European market.  
+ 
+Furthermore, we propose that the processes for medical devices, including quality management, risk 
+management, change management, product lifecycle management, market surveillance 
+management, as well as harmonized standards complying with the regulatory framework for medical 
+devices should be presumed to comply with the requirements of the CRA with regard to products with 
+digital elements that do not fulfil the definition of a medical device but are used in the healthcare 
+sector (e.g., Radiation Dose Management, Billing Software, Device Training Software, Clinical Research 
+Applications, Medical Image Viewers). In addition, in the healthcare sector there are internationally 
+accepted standards, such as the HIMSS/NEMA MDS² (Manufacturer Disclosure Statement for Medical 
+ 
+ 
+ 
+4 
+ 
+Device Security )1, that have been established as best practice for information sharing between  
+manufacturers and hospitals , which should be presumed to comply with information sharing 
+requirements under the CRA.  
+ 
+Software as a Service (SaaS) should be generally excluded from the CRA’s scope. In the definition of 
+“products with digital element” remote data processing solutions should be excluded and regulated 
+only under NIS 2, in order to achieve legal clarity and certainty. The interplay with NIS 2, for example 
+regarding reporting obligations, needs to be clarified.  
+ 
+II. Technical Requirements / Lifecycle 
+From an overarching perspective, it is important to acknowledge that cybersecurity is a result of 
+responsible design, manufacturing and use of a product. We want to underline that cybersecurity is 
+not a static product feature. The intended use of digitally connectable products, may lead to misuse – 
+therefore we consider cybersecurity as a capability of the processes employed pre- and post-market. 
+To maintain high levels of cybersecu rity, standards and labelling should rather focus on  secure 
+processes than on (volatile) technological features. Siemens Healthineers suggests that the CRA 
+focusses on implementing processes and existing certification schemes – and avoids double 
+certification towards schemes that do not reflect application needs (like e.g. Common Criteria). 
+ 
+Siemens Healthineers in principle welcomes that products with digital elements shall be made only 
+available on the market if they comply with a list of essential requirements, and if the manufacturer 
+has put in place vulnerability handling procedures according to Annex I.  However, Siemens 
+Healthineers proposes several adaptations: 
+• As it is impossible for manufactures to ensure that complex products are co mpletely 
+invulnerable to cyberattacks, the obligations under the CRA should not exceed commercially 
+reasonable effort s, taking into account the state of the art, the costs and 
+advantages/disadvantages of implementation and the intended use of the product with digital 
+elements as well as the related risk of varying likelihood and severity (cf. Article 32 GDPR). As 
+the CRA is intended to cover a wide range of heterogeneous products (e.g., kitchenware as 
+well as Industrial Automation & Control Systems), it should be recognized that the extent of 
+what is commercially reasonable will not always be the same for all products covered by the 
+CRA. For example, the protection of (any) data on the digital product in question should be 
+subject to a risk-based approach after the corresponding data has been classified instead of 
+requesting encryption by default for any data as requested in Annex I (1 (3)(c)). Furthermore, 
+there might be safety or performance reasons conflicting with encryption depending on the 
+specific case. 
+• It should be recognized that the design of serial products cannot always be changed 
+immediately by a manufacturer without entailing excessive costs and effort, including 
+development, testing and validation effort and the time for the approval process. Therefore, 
+new knowledge, techniques or standards that were not available when a product was 
+designed, may be considered by the manufacturer for the design of subsequent product 
+ 
+1 e.g. as published by NEMA or Alliance for Cybersecurity in Germany . 
+ 
+ 
+ 
+5 
+ 
+generations. Overall, we  strongly advocate for a risk-based appr oach so that effort for 
+investigation, maintenance, and updates are proportionate to  the potential impact of 
+vulnerabilities and incidents to users. 
+• A product should not be considered becoming incompliant for the sole reason that a better 
+product is subsequently placed on the market 2. There need to be differentiated and 
+proportionate regulations in case a product becomes incompliant as result of changes after it 
+was placed on the market. The reaction required from the manufacturer in such case should 
+be commercially reasonable. Depending on the individual case, the manufacturer should also 
+be allowed to take actions to reasonably reduce risks, for example by warning  and advising 
+customers, implementing controls or mitigations, or offering paid -for sof tware/hardware 
+patches, updates or upgrades. 
+• The use of technical terms, in particular in Annex 1, should be more accurate (e.g., “exploitable 
+vulnerability known to the manufacturer ” instead of “vulnerability”). There need to be 
+reasonable periods for vulnerability handling also allowing to test and validate updates. 
+• We believe that a high cybersecurity resilience can only be achieved by shared responsibilities. 
+For the healthcare sector, we support the following explanation by the Medical Device 
+Coordination Group: “While the MDR and the IVDR provide legal obligations only with regard 
+to manufacturers, however it should be noted that for the provision of secured healthcare 
+services, it is important to recognise the roles and expectations of all stakehol ders, such as 
+manufacturers, suppliers, healthcare providers, patients, integrators, operators and 
+regulators. All of these actors share responsibilities for ensuring a secured environment for the 
+benefit of patients’ safety.” (MDCG 2019-16 rev. 1, p. 12). For example, a secure configuration 
+(Annex I(3)(a)) can be achieved in complex scenarios only in a close collaboration with the 
+operator and/or user  and therefore should not be an essential requirement of a product. 
+Sometimes default configuration as desi gned by the manufacturer cannot be applied by the 
+operator due to the need to connect certain legacy devices. In such cases the operator might 
+choose alternative measures to protect their device. Furthermore, the required possibility to 
+reset the product to its original state leads to uncertainty from the view of the operator since 
+the original state is undefined as soon as the device i s in operation mode and might change 
+as soon as user data is generated or patches, updates or upgrades have been performed in-
+between. 
+• It is not clear what would be required under “effective and regular tests and reviews” (Annex 
+I, Section 2 (3)) in addition to the vulnerability monitoring set forth in Annex 1, Section 2. We 
+propose that the described vulnerability handling process should be sufficient to regularly 
+monitor the security of the product with digital elements. 
+ 
+III. Fee-based maintenance 
+The manufacturer and other providers of products with digital elements should be free to request 
+prices for maintenance services. I.e., at least  for business-to-business transactions, fee -based 
+maintenance contracts with customers are customary because providing maintenance services incurs 
+ 
+2 cf. Article 6 (2) of Council Directive 85/374/EEC, and Article 6 (2) of the new PLD proposal as of 28th 
+September 2022. 
+ 
+ 
+ 
+6 
+ 
+substantial costs, including but not limited to individual software maintenance and installation of 
+updates by service technicians at a customer site. 
+ 
+IV. Reporting and communication 
+Excessive reporting obligations should be  avoided and only relevant incidents should be reported, 
+which may be subject to certain thresholds.  Again, we strongly advocate for a risk -based approach 
+that takes into accoun t proportionality, considering the potential impact of vulnerabilities and 
+incidents to users and patients. 
+ 
+Since a notification s hall happen “without delay ” – to be more accurate, the wording should be 
+“without undue delay” – it shall be possible to provide more  details (corrective or mitigation 
+measures) of the vulnerability subsequently. 
+ 
+The period for reporting should consider that cyberattacks are often complex and require the 
+investigation of experts. The period should be at least 72 hours corresponding to the reporting period 
+for a data breach under the GDP R. With shorter reporting periods, a flood of unnecessary, over -
+cautious incident reports is likely to happen – therefore it is important to start the reporting deadline 
+only when the manufacturer has become aware of a significant incident has happened. The general 
+public should only be informed if such a notification is necessary to handle the incident or prevent 
+further incidents. Unrestricted public disclosure may increase security risks as also potential attackers 
+will be informed , users may be inadequately alarmed and reputation of manufacturers may be 
+inadequately harmed. 
+ 
+The obligation to provide “clear, understandable, intelligible and legible” information (Article 10 (10)) 
+should consider the relevant address ee (e.g., IT administrator in business -to-business transactions). 
+Sharing SBOM (Software Bill of Material s) and CSAF (Common Security Advisory Framework) 
+documents makes only sense in the context of industry and professional users. For the definition of 
+the SBOM and CSAF formats, international alignment (e.g., NTIA and CISA) could help to reduce double 
+effort for manufacturers operating at global scale. 
+ 
+Since cybersecurity is a global challenge and to avoid isolated EU solutions, we would appreciate if the 
+EU Commission can align the reporting timeline within the European market and with the 
+international partners. This could reduce the regulatory burden for all parties. Furthermore, it would 
+be beneficial if only one authority (e.g., the sectoral authority) needs to be informed and all other 
+parties are to be indirectly informed by the authorities. 
+ 
+As already mentioned, we see cybersecurity as a shared responsibility. Therefore , we would like to 
+suggest to the co-legislators to apply the same rules to the EU authority and all member states to vice-
+versa notify the manufacture r of any exploitable vulnerability or weakness unknown to the 
+manufacturer. For critical vulnerabilities we would like to propose a coordinated  vulnerability 
+disclosure procedure agreed with the manufacturer. 
+ 
+ 
+ 
+ 
+7 
+ 
+The requirement to app oint an authorised re presentative should be only fulfilled  after the first 
+product has been released, placed on the market and put into service. 
+ 
+V. Liability 
+It should be recognized that the concept of “strict liability” irrespective of fault under general product 
+liability law as set forth in Recital 16 shall not be applicable within the scope of the CRA. As no 
+manufacturer can ensure invulnerability to cybera ttacks, liability of the manufacturer for damages 
+caused by such an attack shall only apply depending on fault. 
+ 
+Where third party components are sourced, it should be clarified that a manufacturer is neither 
+responsible nor liable for the fault of the respective third party, provided that the manufacturer 
+exercised due care when integrating components sourced in acc ordance with the first sentence of 
+Article 10 (4). 
+ 
+VI. Sanctions and Powers of Authorities 
+Administrative fines based on the worldwide turnover subject to Article 53 must be proportionate to 
+the concrete event and the level of negligence/misconduct and in any  case should not apply in case 
+of only “non -essential” in -compliance. The calculation of penalties should be based only on the 
+amount of the turnover that corresponds to the relevant product that is incompliant.  The margin in 
+connection with the turnover should be considered for the calculation of penalties. 
+ 
+The jurisdiction of the authorities of the Member States in cross -border cases appears unclear; 
+multiple punishment must be excluded. Multiple punishment shall also be excluded with regard to 
+fines under other regimes due to the same event (e.g. GDPR). The surveillance authorities should not 
+be authorized to intervene without cause (e.g., Article 17). 
+ 
+Any admin istrative fines shall not be enforced as long as no harmoni zed standards have been 
+published in the EU Journal (OJEU) or common specification have been implemented.  
+ 
+In several  new legislations, EU legislators are significantly increasing sanctions. We would like to 
+encourage the European Commission to consider other ways or to strengthen investment in more 
+cybersecurity through incentives and funding. 
+ 
+VII. Standardization 
+Currently industrial standards of the series such as IEC 62443 are not harmonised under EU  NLF. 
+Furthermore, the international standards such as ISO 27001 and ISO 22301 which are used for the 
+Management Systems are not harmonized by EU bodies but can serve as a valuable baseline to handle 
+processes in the context of cybersecurity and resilience mana gement. Vulnerability and Disclosure 
+Policies (ISO 29147) and Vulnerability Handling standards like ISO 30111 could serve as a good baseline 
+too, similarly to ETSI EN 303 645 for consumer devices.  
+ 
+Siemens Healthineers might also release products which di rectly fall under the scope of the CRA 
+legislation. We would like to motivate the European Commission to specify and reuse standards which 
+ 
+ 
+ 
+8 
+ 
+make it possible for manufacturers to reuse well -established processes established in the past years 
+within the medic al domain. Examples are Quality Management (ISO 1348 5), Risk Management (ISO 
+14971), Usability Engineering (IEC 62366-1), (Software Lifecycle) IEC 62304, (Health Software General 
+Requirements) IEC 82304-1, (Security Lifecycle) IEC 81001-5-1, Security Capabilities (e.g. IEC TR 60601-
+4-5, IEC TR 80001-2-2), (Medical Equipment) IEC 60601-1 and General Lifecycle Concepts (ISO 81001-
+1). This could be achieved during the standardization process, e.g., by clarifying that such standards 
+applicable for the cybersecurity of medical devices may also be applied as harmonized standards for 
+healthcare products within the scope of the CRA. We also propose that a recital is added to clarify that 
+sector-specific harmonized standards addressing cybersecurity should be used as harmonized 
+standards also for the purpose of the CRA for such specific sector.  
+ 
+In hospitals the typical used risk assessment methodology follows ISO 31000 and ISO 27005 for office 
+assets and should consider EN 80001 -1 to address risk management before, during and after the 
+connection of Health IT systems (includ ing medical devices) with the health IT infrastructure, by 
+addressing the protection goals safety, effectivenes s and security whilst engaging appropriate 
+stakeholders (compare with IEC 80001 -1). Manufacturer support the integration with best practice 
+information as such published in the HIMSS/NEMA MDS² 2019 standard or IEC TR 80001-2-2/-8.  
+ 
+We encourage the Commission to ensure high compatibility for devices not falling under MDR/IVDR 
+but which have the intended use to be operated by healthcare providers and their value chains , for 
+example Electronic Health Record (EHR) systems which are planned to be regulated under European 
+Health Data Space (EHDS). It will be important to avoid additional red tape, overlapping provisions and 
+requirements with the EHDS and therefore co-legislators need to clarify the definition of EHR systems 
+under the EHDS3 as well as the interaction between CRA and EHDS. 
+ 
+VIII. Transition Period 
+The transition period should be adapted to enable harmonized standards or common specification 
+beforehand, to apply once  the notified bodies are designated and accredited to assess conformity. 
+Implementation of measures can only be achieved  based on technical consensus established by 
+standards. The request for standardization shall be initiated as soon as possible and the delegated acts 
+should be published as soon as possible to make  the classification scheme  under the CRA more 
+transparent to all stakeholders.  Additionally, the transition period should be adapted to empower 
+notified bodies to ensure the availability of sufficient cybersecurity experts/expertise to prevent time 
+to market blocks of innovation. 
+ 
+Products with digital elements that have already been placed on the market before the CRA enters 
+into force  should not fall under the scope of the CRA, even if the manufacturer  provides 
+updates/upgrades or other improvements that may constitute a “substantial modification” (Article 55 
+ 
+3 An overly broad definition of EHR systems being proposed under the EHDS  is yet unclear as to what such a 
+definition would mean for medical technologies regulated under MDR and IVDR. Many of medical devices may 
+inadvertently fall into this definition, and will be brought into scope of the CRA by extension. This approach risks 
+introducing unnecessary legal uncertainty. 
+ 
+ 
+ 
+9 
+ 
+(2)). It should be clarified that s elling refurbished products with digital elements will not constitute 
+new “placing on the market”. 
+ 
+IX. Spare Parts and Upgrades 
+Only a modification of the intended use should lead to a substantial modification. Therefore recital 24 
+needs to be clarified: It should not be a substantial modification, for example, if functionalities are 
+changed or extended without changing the intende d use, or if compliance with cybersecurity 
+requirements is ensured, not only by providing patches or updates, but also by providing upgrades for 
+products that have been placed on the market. 
+ 
+In addition, it should be clarified that providing spare parts for products that have been placed on the 
+market will not be regarded as separate placing on the market of spare parts. 
+ 
+ 
+We are looking forward to engaging with the European institutions in the upcoming dialogue on this 
+legislative initiative and stand ready to provide any necessary expertise. 

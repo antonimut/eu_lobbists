@@ -1,0 +1,160 @@
+ 
+Bundesdruckerei | Statement on the Evaluation of the eIDAS Regulation                                                                                                                                       
+Page 1/4 
+Statement on the Evaluation of the eIDAS Regulation 
+ 
+General Information 
+In Germany, the eIDAS Regulation is widely unknown and has not yet been transposed 
+appropriately into German law. As a result, eIDAS eID and Trust Services are rarely used and 
+are simply circumvented in practice (an overview of the transposition of the eIDAS Regulation 
+Trust Services in Germany is provided in Bundesdruckerei's study "Vertrauensraum in der 
+Digitalisierung"1). The second EU Payment Services Directive (PSD 2) shows how compulsory 
+use can be achieved: it is a good example of how the eIDAS Regulation Trust Services have 
+been effectively integrated into legal text and how an extension to the private sector has been 
+made possible. A similar approach should be adopted in other sectors, like transport, energy, 
+or justice. Here, regulatory obligations and incentives for companies in particular can lead to 
+greater use of the eIDAS eID and Trust Services. In addition, all national laws containing 
+identification and authentication procedures should require the use of eIDAS means. This 
+leads to the following overarching recommendations: 
+ 
+ Promote eIDAS eID and  Trust Services in additional sectors through legal 
+requirements (see PSD-2 directive for reference) or incentives 
+ National legal requirements for identification and authentication procedures must 
+respect eIDAS eID and Trust Services. 
+ 
+ 
+1) Extend use of national eIDs in the private sector and use hardware 
+security modules as a technical basis for EU-wide digital application 
+The eIDAS Regulation should be developed further to provide a usable, secure and 
+interoperable digital identity for public and private online interactions in the European Union. 
+Revisions aimed at improving the coherence, consistency and interoperability of the existing 
+eIDAS framework, for example through guidelines on liability principles or through simplifying 
+the notification procedures for Member States, should be pursued in accordance with this. 
+More private use cases in a wide range of services can generally strengthen the use of national 
+eIDs. In this context, the use of national eIDs can be further promoted through incentives 
+that encourage a wider voluntary acceptance of national eIDs by companies. Mandatory use 
+in some areas could also be envisaged. Meanwhile, the concrete design of the national eID 
+systems should continue to be left exclusively to the Member States which must assume 
+liability for the authenticity of an identity and validate the national eID.  In addition, 
+Bundesdruckerei suggests establishing common rules for the use of hardware security 
+modules (either in the form of Universal Integrated Circuit Cards (eUICCs), also known as 
+                                                      
+1 Available (in German) at: https://www.bundesdruckerei.de/system/files/dokumente/pdf/Studie -Vertrauensraum-in-der-
+Digitalisierung.pdf 
+ 
+Ref. Ares(2020)5207944 - 04/10/2020
+ 
+Bundesdruckerei | Statement on the Evaluation of the eIDAS Regulation                                                                                                                                       
+Page 2/4 
+eSIM, or embedded secure elements, also known as eSEs). Modern smartphones are equipped 
+with these modules, which are perfectly suited to support digital applications, e. g. for digital 
+identities in a secure and trustworthy way. The a im should be to establish a union -wide 
+technical minimum standard for hardware security modules that harmonizes basic security 
+mechanisms while giving Member States discretion with the implementation of country -
+specific solutions. Therefore, Bundesdruckerei urgently recommends to standardize the access 
+of eSE and eSIM and to oblige Original Equipment Manufacturers (OEMs), respectively the 
+Mobile Network Operators (MNOs) to open their hardware security modules for third parties. 
+This uniform standard would be a big step for digital sovereignty within the European digital 
+single market demonstrating the security and trustworthiness of mobile ID solutions, while 
+helping to make the topic more transparent and comprehensible for citizens and service 
+providers alike. In this context, the OPTIMOS 2.0 project initiated by the German Federal 
+Ministry for Economic Affairs and Energy is a promising approach that could be used 
+throughout the EU. It  creates the basis for reliable, unambiguous identification and 
+authentication in the digital world while complying with the highest security and data 
+protection standards, thereby providing  preconditions for further digital applications.  
+Recommendations are as follows: 
+ 
+ Increasing the number of use cases by incentivising the use of national eIDs in the 
+private sector 
+ Concrete design of the national eID systems should continue to be left exclusively to 
+the Member States  
+ Establishing technical minimum standards for the use of hardware security modules  
+ Obliging original equipment manufacturers, respectively mobile network operators to 
+open their hardware security modules for use of ID applications  
+ 
+2) Greater Commitment to eIDAS Trust Services Usage 
+To increase confidence in the European IT infrastructure, commitment should be created 
+at national level. All public institutions at national and European level should therefore be 
+required to protect their websites with a Qualified Website Authentication Certificate  
+(QWAC). The QWAC is a European standard used to verify and transparently display 
+website operator identities for consumers. All browsers currently ignore this standard, as 
+their interfaces do not contain references to QWAC s. Browsers should be required  to 
+publicly display a QWAC, accept it as a European standard, and support the widespread 
+use of the EU-Trusted List. For websites of public interest, the imprint obligation (website 
+provider identification) should be complemented by the use of QWACs, as these already 
+provide the means for identification. To ensure the interoperable use of Trust Services in 
+software products, the European Commission should also be able to issue regulations on 
+applications (such as operating systems or browsers) if they use  eIDAS Trust Services. 
+Furthermore, the validity of signatures, seals , and time stamps is currently defined 
+exclusively through a technical check. To date, there is no legal statement as to when a 
+ 
+Bundesdruckerei | Statement on the Evaluation of the eIDAS Regulation                                                                                                                                       
+Page 3/4 
+certificate is considered “valid.” Such a legal statement could be achieved by naming sets 
+of minimum attributes ( requirements) for qualified certificates for signing, sealing or 
+timestamping purposes, and implementing a mandatory check against the EU Trusted List. 
+Additional certificate co ntent or additional requirements would then be optional, but 
+should not hinder validity.  Finally, a binding and regular coordination between  the 
+respective supervisory authorities in the member states can promote the binding nature 
+of the entire legal basis. Recommendations are as follows: 
+ 
+ Use of QWACs should be mandatory for all public institutions 
+ Require browsers to visually display QWACs  
+ Require browsers to comply with European standards 
+ Specify minimum requirements for the validity of  qualified certificates for signing, 
+sealing or timestamping purposes 
+ Introduce binding coordination between supervisory authorities 
+ 
+ 
+3) Stronger Harmonisation 
+To avoid competitive disadvantages within the EU, greater harmonisation of certification and 
+audit requirements for Trust Services is needed. To this end, all references to national 
+regulations should be removed from the eIDAS Regulation. Conformity Assessment Bodies 
+accreditation as well as Conformity Assessment Body (CAB) work with the Supervisory Bodies 
+and Trust Service Providers (TSPs) should be carried out uniformly throughout the EU. For 
+example, the requirements for TSPs set up by the national supervisory authorities with regard 
+to audit procedures and documentation vary among Member States and should be harmonised.  
+For example, audit procedures can take varying amounts of time and depth depending on the 
+Member State they are conducted in. The working methods of the assessment and supervisory 
+bodies should also be harmonised. In order to prevent disadvantages for individual market 
+players in the EU, further harmonisation of means of identification and identification features 
+or identification attributes is necessary. This applies in particular to video-based identification 
+on the “substantial” level that can be achieved by harmonising the application of Article 24 
+(1).  At the same time, storage periods for certificates and identity data need to be defined in 
+concrete terms. This could be ten years after the end of the certificate validity. Such a 
+regulation can be achieved by clarifying the scope of Article 24 (2)a. In this case, exceptions 
+may be regulated by national legislation. Lastly, a uniform catalogue of algorithms for the 
+generation and validating of Trust Services can counteract the current wide scope for 
+interpretation. Recommendations are as follows: 
+ 
+ Remove references to possible national schemes 
+ Harmonise approval of Trust Service Providers (TSPs)  
+ Harmonise the requirements of Supervisory Bodies for TSPs 
+ Harmonise audits of TSPs 
+ 
+Bundesdruckerei | Statement on the Evaluation of the eIDAS Regulation                                                                                                                                       
+Page 4/4 
+ Recognize video ID procedures as a means of identification throughout the EU 
+ Introduce a binding algorithm catalogue  
+ 
+ 
+ 
+4) Further Remarks 
+Implementing acts are a method for making use of eIDAS Trust Services mandatory and 
+of achieving the necessary harmonisation. In general, we welcome the introduction of as 
+many implementing acts as possible to create a level playing field in the market.  In the 
+case of the current Protection Profile (CEN EN 419 241 -2 - Trustworthy Systems 
+Supporting Server Signing Part2: Protection Profile for QSCD for Server Signing) on the 
+subject of remote signatures,  no implementing act  should be introduced. Most current 
+implementations of remote signatures do not support this architectural design.  The 
+integration of this Protection Profile into an implementing act would lead to large 
+investments by trust service providers  and threaten the small, emerging market for 
+remote signatures.  Furthermore, during the technical transposition of the PSD  2, it 
+became clear that a reference EU Trusted List would have greatly accelerated technical 
+implementation for the financial market. Usually, reference environments are repeatedly 
+created in the private sector to test changes or extensions. For this reason , a reference 
+EU Trusted List should be provided  by the same institutions , similar to the previously 
+productive EU Trusted List. Recommendations are as follows: 
+ 
+ No consideration of Protection Profile CEN EN 419 241-2 
+ Provide a reference EU Trusted List for a better testing environment 

@@ -1,0 +1,217 @@
+    
+ 
+ 
+        New procedure of NOx emission test (AU) in a future Periodic Technical In-spection (PTI)     Graz, Wien, 23.02.2021        
+ 
+  Forschungsgesellschaft für Ver-brennungs-kraftmaschinen und Thermodynamik mbh  
+            
+Ref. Ares(2023)957630 - 09/02/2023
+ 
+2  
+                               Author: DI Silke Lipp (FVT) DI Dr. Jürgen Blassnegger (ÖAMTC)      New procedure of NOx emission test (AU) in a future Peri-odic Technical Inspection (PTI) Datum 23.02.2021 Report No.: FVT-015/21/SL EM 20/11/6790 Customer: ÖAMTC Quote -  This report must be published in its entirety without any additions or modifications. No extracts may be published or reprinted without the written consent of the author.  Forschungsgesellschaft für Verbrennungskraftmaschinen und Thermodynamik mbH Inffeldgasse 19, A-8010 Graz, Austria http://fvt.tugraz.at Tel.: +43 (316) 873-30001  Fax: +43 (316) 873-30002     
+ISO 9001 zertifiziert 
+ 
+ 
+ 3 
+CONTENT 1 Scope of Work ..................................................................................................... 5 2 Method ................................................................................................................. 5 2.1 Chassis Dyno Measurements ........................................................................ 5 2.2 RDE Measurement ........................................................................................ 8 3 Results ............................................................................................................... 10 3.1 Data evaluation for threshold value ............................................................. 10 3.2 Emission Measurements - Chassis Dynamometer ...................................... 12 3.3 Real World Driving Emissions ..................................................................... 16 4 Conclusion ........................................................................................................ 17 5 Annex ................................................................................................................. 19 Measurement Technology Used ............................................................................ 19 Chassis dynamometer ............................................................................................ 19 MAHA PEMS .......................................................................................................... 19    
+ 
+4  
+Abbreviations CO …….. Carbon monoxide/Kohlenmonoxid CoC …….. Certificate of Conformity CO2 …….. Carbon dioxide/Kohlendioxid CVS …….. Constant Volume Sampling DIN …….. German Institute for Standardization/Deutsches Institut für Normung EGR …….. Exhaust Gas Recirculation ERMES …….. European Research group on Mobile Emission Sources FC …….. Fuel Consumption FVT …….. Forschungsgesellschaft für Verbrennungskraftmaschinen und Thermodynamik m.b.H. FTIR ……... Fourier Transform Infrared Spectrometer NO …….. Nitrogen monoxide/Stickstoffmonoxid NO2 …….. Nitrogen dioxide/Stickstoffdioxid NOx …….. Nitrogen oxide/Stickoxide OBD …….. On-Board-Diagnose PEMS …….. Portable Emissions Measurement System PN QNOx …….. …….. Particle Number ratio between CO2 and NOx emissions R0, R1 ……... Rolling resistance factors RDE …….. Real Driving Emissions SCR ……... Selective Catalytic Reduction Temp …….. Temperature TU Graz/ TUG …….. University of Technology Graz WLTC …….. Worldwide harmonized Light vehicles Test Cycle    
+ 
+ 
+ 5 
+1 Scope of Work In Europe all registered vehicles must be periodically tested for safety on the road and adherence to traffic safety and emission regulations.  When checking the exhaust gases, the change for diesel vehicles in the particle meas-urement from turbidity to number measurement is already announced at the beginning of the year 2021. Nitrogen oxide measurement is additionally illuminated as an im-portant additional parameter. A representative NOx measurement is only possible with the appropriate measurement technology. In addition, the preconditioning of the NOx-reducing exhaust aftertreatment has a major influence on the measurement results. The main goal of the project was to analyze test procedures of NOx emission test in a future Periodic Technical Inspection (PTI) and to develop a new concept for future AU-NEW.  With the sensors available in modern cars it is possible to determine end of tailpipe NOx emissions. CO2 emissions can be calculated out of the fuel consumption.  If the efficiency of after treatment systems of conventionally driven cars are insufficient, the NOx-emissions increase and the ratio between CO2 and NOx emissions (𝑄!"#=$	&'($	!'# ) decreases. This ratio can be measured during real world operation and stored on the vehicle in a suitable way. If a defined QNOx-limit is often fallen below, a manda-tory entry in the error memory can be required and the Malfunction Indicator Light (MIL) has to be activated. 2 Method As a first step threshold values for the ratio gram CO2 to gram NOx-emission had to be found. Therefore already existing data from five EURO 6d TEMP diesel, four EURO 6d TEMP petrol, one EURO 6d petrol, five EURO 5 diesel, three EURO 5 petrol and two EURO 4 petrol cars were evaluated. It can be assumed that a EURO 6d vehicle with an insufficient after treatment system, i.e. almost zero NOx conversion, has roughly the same emission behaviour as a EURO 4/5 standard vehicle.  For the verification of the results gained from the existing data on-road and lab tests were performed with four EURO 6d TEMP diesel cars. The measurements were done with SCR & EGR (Selective Catalytic Reduction & Exhaust Gas Recirculation) off, SCR off, EGR off and standard settings. The results consequently represent emission levels with these different malfunctions and the emissions with proper exhaust control. 2.1 Chassis Dyno Measurements Testcar 01 with an EURO 6d TEMP diesel engine with SCR and EGR was measured with a PEMS on the street and in the laboratory on the chassis dynamometer. Fehler! Verweisquelle konnte nicht gefunden werden. shows the technical specifi-cations of the tested vehicle. 
+ 
+6  
+Table 1: Technical specifications of vehicle No. 01 
+  * …DIN weight is the mass of the vehicle in running order without driver  Two driving cycles were measured on the test bench, the WLTC (Worldwide harmo-nized Light vehicles Test Cycle) and ERMES.  WLTC:  Figure 1 shows the speed profile of the WLTC. The WLTC is the current test cycle for the certification process form passenger cars and light commercial vehicles. The entire cycle lasts 1800 s and includes a “low-speed”-, a “middle-speed”-, a “high-speed”- and an “extra-high-speed”-phase. The speed profile of the WLTC should represent realistic driving for the emission measurements on the chassis dynamometer.  
+ Figure 1: speed profile WLTC  ERMES:  The second driving cycle measured on the test bench is the ERMES driving cycle, shown in Figure 2. The ERMES cycles was designed in a way to get enough data to fill the entire engine map of a car by measuring a short cycle on the test bench. The first 300 s represent city driving used as a pre-conditioning. This low load phase is 
+
+ 
+ 
+ 7 
+followed by driving in urban, rural and motorway are. The ERMES cycle includes ac-celeration ramps under full load. 
+ Figure 2 speed profile ERMES The measurement technology used is described in more detail in the annex.   Table 2 shows an overview of the measured cycles on the chassis dynamometer. As a pre-conditioning of the car a WLTC was driven on the test bench before the first WLTC cold was measured.   Table 2: Measured Cycles on the chassis dynamometer Cycle Starting Cond. Cycle Duration in s Settings WLTC cold 1800 SCR & EGR off WLTC hot 1800 SCR on & EGR off WLTC hot 1800 SCR off & EGR on WLTC hot 1800 Regular (SCR and EGR on) ERMES V9 hot 1193 SCR off & EGR on ERMES V9 hot 1193 SCR off & EGR on  The driving resistance factors (R0 and R1) were determined by using the tire label according to regulation no 1222/2009 for the efficiency class, the resistance parame-ters R1 and R2 were taken from a data base from TUG for the vehicle segment. For the vehicle mass the WLTC mass for the vehicle was used for all measurements on the dynamometer. Table 3 shows the settings used for the measurements on the test bench.    Table 3: Vehicle settings on the test bench Parameter Unit Value Test mass  kg 1457 R0 N 99.5 R1 Ns/m 0.74 R2 Ns²/m² 0.371    
+
+ 
+8  
+    2.2 RDE Measurement In addition, RDE measurements were carried out with four Euro 6d TEMP vehicles. These tests were done once with functioning exhaust gas aftertreatment and then with a deactivated SCR System. For this, the AdBlue dosage was deactivated.  The most important technical data of the test vehicle are summarized in Table 4.  
+  Table 4: Technical data of RDE test vehicles All the RDE measurements were carried out on the "ÖAMTC Ebreichsdorf" RDE route. This route complies with the requirements of the current RDE-legislation. The total length is 85 km and the individual sections are divided up as follows: • Urban: 28,63 km – 33,42% • Rural: 29,53 km – 34,46% • Motorway: 27,51 km – 32,11%  
+  
+
+ 
+ 
+ 9 
+Figure 3: RDE route „ÖAMTC Ebreichsdorf“ After finishing the chassis dyno measurements and the RDE measurements the QNOx factors were calculated for the test-runs with functioning exhaust gas aftertreatment and for the tests with deactivated NOx after treatment system.   (𝑄!"#=$	&'($	!'# )  Equation 1: QNOx-factor The calculated factors were used to check whether it was possible to identify the ve-hicles with defective exhaust gas aftertreatment. In case of defective exhaust gas control systems the QNOx-factor must be below a threshold value which is defined later in this report based on the test results.   
+ 
+10  
+3 Results  3.1 Data evaluation for threshold value   The CO2/emission ratios from the measured RWC (Real Word Cycle)-data from 20 cars (10 EURO 6, 10 EURO 4 & 5) were calculated. The following tables show the data set used.  Table 5: Data set EURO 6d Temp and EURO 6d cars diesel and petrol 
+  
+PN CO2 CONO NOx
+#/km
+1 8.22E-101480.852306.262154.031.9E+11153.050.1030.070.07
+2 3.36E-092556.082238.532261.184.0E+10132.840.0520.060.06
+3 4.43E-103334.842607.242607.243.2E+11143.400.0430.060.06
+1 7.59E-10814.661334.351155.112.0E+11154.790.190.120.13
+2 6.27E-091496.847035.156700.142.2E+10140.700.0940.020.02
+3 5.57E-083397.407510.056485.952.6E+09142.690.0420.020.02
+1 5.56E-084675.7612228.9217664.002.9E+09158.980.0340.010.01
+2 6.76E-082374.1614676.6426907.172.4E+09161.440.0680.010.01
+3 3.73E-104368.775875.245496.194.6E+11170.380.0390.030.03
+1 5.93E-083104.764389.483743.972.1E+09127.300.0410.030.03
+2 8.56E-082765.943151.882657.471.6E+09135.530.0490.040.05
+3 4.01E-102900.791497.181406.443.5E+11139.240.0480.090.10
+1 1.67E-083386.1630475.4038094.259.1E+09152.380.0450.010.00
+2 6.54E-08-10788.2130207.0021576.432.3E+09151.04-0.010.010.01
+3 5.03E-0812278.7119100.2224557.433.4E+09171.900.0140.010.01
+1 5.77E-101451.53523.41527.332.4E+11140.800.0970.270.27
+2 5.33E-101791.23968.59975.822.5E+11130.760.0730.140.13
+3 6.73E-101660.101074.981074.981.9E+11131.150.0790.120.12
+1 1.01E-09291.1586179.50172359.001.7E+11172.360.5920.000.00
+2 5.57E-10349.6117053.0015347.702.8E+11153.480.4390.010.01
+3 5.19E-10425.7313015.1411388.253.5E+11182.210.4280.010.02
+1 4.17E-10475.1914255.5813159.004.1E+11171.070.360.010.01
+2 4.56E-10556.1812749.4612749.463.6E+11165.740.2980.010.01
+3 2.82E-10910.3414285.3113264.936.6E+11185.710.2040.010.01
+1 7.66E-10875.3217349.2015450.951.6E+11125.940.1440.010.01
+2 6.71E-101532.1119696.1217147.461.8E+11120.430.0790.010.01
+3 1.24E-091519.9612537.1711829.401.1E+11135.180.0890.010.01
+1 1.40E-10779.4215786.3916513.501.0E+12140.020.180.010.01
+2 1.16E-101136.609960.898547.411.3E+12149.630.1320.020.02
+3 8.10E-11653.1519850.5317335.272.0E+12161.160.2470.010.01
+10
+EURO 6d Temp & EURO 6d
+Diesel
+Petrol
+5
+6
+7
+8
+9
+Veh.Nr.Engine gCO2/gNOxRWC cycle
+1
+gCO2/#PNgCO2/gCOgCO2/gNO g/km
+2
+3
+4
+ 
+ 
+ 11 
+Table 6: Data set EURO 4 and EURO 5 cars diesel and petrol 
+  Figure 4 shows the ratio between measured CO2 and NOx for the analysed EURO 6 and EURO 4 and 5 cars. “D” stands for the diesel and “P” for the petrol driven cars. The trend shows, that the ratio for EURO 6 cars lies above the EURO 4,5 values. 
+ Figure 4: gCO2/gNOx ratio for data set cars The average value for CO2 in g/km is about 149 g/km for the gasoline and 151 g/km for the diesel cars. For EURO 6d and 6d Temp cars the regulated NOx-emission-limit for RDE is a CF (Conformity Factor) multiplied with the NOx-emission-limit for the WLTC. Using a CF from 2.1 for EURO 6d Temp and 1.5 for EURO 6d cars leads to a RDE-NOx-limit-value from 168 mg/km (EURO 6d Temp) and 120 mg/km (EURO 6d d) 
+PN CO2 CO NO NOx
+#/km1 5.95E-111588.04145.7093.702.1E+12123.200.08 0.85 1.312 1.19E-081764.27139.2698.281.1E+10131.240.07 0.94 1.34
+1 - 1904.58158.07126.22- 254.100.13 1.61 2.012 - 1906.54193.37149.82- 268.090.14 1.39 1.793 - 8412.84135.21104.50- 283.310.03 2.10 2.71
+1 - 3055.70210.33167.83- 254.100.13 1.61 2.012 - 2286.40189.60155.16- 268.090.14 1.39 1.793 - 2236.64385.81304.81- 283.310.03 2.10 2.71
+1 3.80E-091882.79179.90144.833.6E+10137.440.07 0.76 0.952 7.59E-081476.89211.70175.221.6E+09124.060.08 0.59 0.713 3.37E-092784.90344.60265.494.0E+10136.460.05 0.40 0.51
+1 5.95E-111588.04145.7093.702.1E+12123.200.08 0.85 1.312 1.19E-081764.27139.2698.281.1E+10131.240.07 0.94 1.34
+1 8.34E-1064.1112938.6813864.831.6E+11129.392.02 0.01 0.012 8.98E-1064.5112398.1213131.171.4E+11129.062.00 0.01 0.01
+1 1.03E-11282.92990.99448.871.7E+13174.030.62 0.18 0.392 1.74E-11232.75967.58526.411.0E+13174.010.75 0.18 0.33
+1 3.60E-11274.385677.843475.155.2E+12187.270.68 0.03 0.052 2.83E-11354.103750.712770.276.6E+12186.370.53 0.05 0.07
+1 1.50E-11421.0717438.8110583.461.0E+13155.730.37 0.01 0.012 1.41E-11587.6412620.575479.391.1E+13156.040.27 0.01 0.03
+1 1.04E-10126.0413147.929737.661.6E+12165.761.32 0.01 0.022 1.05E-10141.509351.305257.551.6E+12165.721.17 0.02 0.03
+Petrol
+16
+17
+18
+19
+20
+Diesel
+11
+12
+13
+14
+15
+EURO 4 & EURO 5
+EngineVeh.Nr.RWC cyclegCO2/#PNgCO2/gCOgCO2/gNOgCO2/gNOx g/km
+
+ 
+12  
+for the diesel cars. For petrol driven cars the NOx-emission limit for road tests is 126 mg/km (EURO 6d Temp) and 90 mg/km (EURO 6d).  For calculating a possible threshold value the NOx-emission limits for RDE-tests for EURO 6d Temp and EURO 6d diesel cars was divided by the average CO2-emissions from these cars. To get one threshold value of the ratio between CO2 and NOx the average of both values (6d Temp and 6d) was build and this results to a threshold ratio of 1100 gCO2/gNOx. Due to the effect that the gCO2/gNOx ratio of the petrol cars in the data set doesn’t show critical values, in the following only the diesel cars are consid-ered.  
+ Figure 5: gCO2/gNOx ratio for diesel cars including threshold value  Figure 5 shows that for a threshold value of 1100 gCO2/gNOx no EURO 6 car (blue dot in diagram) lies under this threshold line. None of the measured EURO 6 cars had malfunctions in the exhaust control indicated. So this threshold value for detecting an insufficient working after treatment system from a EURO 6 car can be used for further investigations. The same elaborations for the ratios gCO2/gCO, gCO2/gNO and gCO2/#PN were done. 3.2 Emission Measurements - Chassis Dynamometer Table 7 shows the measured results for CO2, NOx, NO and PN on the chassis dyna-mometer with the VW Golf. 
+
+ 
+ 
+ 13 
+Table 7: Measured results chassis dynamometer 
+  Different settings concerning the after treatment system (SCR and EGR) lead to differ-ent emission results. Figure 6 and Figure 7 show the CO2- and NOx-emissions in g/km for the measured WLTCs for different vehicle settings.  
+ Figure 6: Measured CO2 in g/km for the WLTC with different vehicle settings The measured CO2 for the WLTC with SCR & EGR off has the highest CO2 value. The effect of a not working SCR and EGR shouldn’t primarily effect the measured CO2 from the car but rather the measured NOx. So the higher CO2 for this WLTC is most likely caused by the fact that this driving cycle was measured with a cold engine and the following WLTCs with a hot engine. In the CoC (Certificate of Compliance) paper of the VW Golf a CO2 of 110 g/km for the WLTC is specified.  In Figure 7 the measured NOx-emissions in g/km for the WLTC-measurements on the test bench are shown. 
+Cycle duration CO2 NOx NO FC PN
+[s] [l/100km][#/km]
+WLTC cold 1800 SCR & EGR off 102.521.260.763.905.32E+09
+WLTC hot 1800 SCR on & EGR off 100.130.410.363.819.28E+09
+WLTC hot 1800 SCR off & EGR on 100.740.050.053.836.12E+09
+WLTC hot 1800 Regular (SCR and EGR on)100.690.020.023.831.84E+10
+ERMES hot 1193 SCR off & EGR on 104.890.020.023.993.95E+09
+ERMES hot 1193 SCR off & EGR on 105.150.110.084.009.26E+09
+Cycle Starting 
+Cond. Settings [g/km]
+
+ 
+14  
+ Figure 7: Measured NOx in g/km for the WLTC with different vehicle settings For a EURO 6d TEMP diesel car the regulated NOx emission limit for the WTLC meas-ured on the chassis dynamometer is 80 mg/km. The first measured WLTC (cold and no working after treatment system) shows the highest measured NOx on the test bench with approximately 1259 mg/km. So this cycle would exceed the regulated emission limit by about 16 times. The measured NOx for the WLTC with a working SCR and a not working EGR shows higher values than the WLTC with a working EGR and a not working SCR (both tests started with hot engine). It would be assumed that a not work-ing SCR system causes higher NOx-emissions than a not working EGR, but for the WLTC this assumption is not right. Possibly the higher engine out emissions caused by the deactivated EGR were not compensated by a higher AdBlue dosing in the SCR system and thus these extra emis-sions passed the SCR system without conversion. On the other hand, in the tests with deactivated SCR still NH3 may have been stored in the SCR which lead to still ongoing NOx conversion in the test. This thesis is supported by the results in the ERMES cycle described below.  The regular measured WLTC with a working SCR- and EGR-system shows NOx-emis-sions of about 21 mg/km and is clearly within the regulated limit. Figure 8 shows the measured NOx-emissions for two ERMES cycles where the SCR system was turned off. The first ERMES shows about 15 mg/km NOx and the second one about 106 mg/km. So the difference between the measured NOx in both ERMES cycles is rather high. The SCR system was turned off by closing the dosing valve for the Ad Blue for the SCR-system. For the first measured ERMES (follow up cycle form a regular measured WLTC) obviously a sufficient mass Ad Blue was stored in the cat-alyst to maintain a high NOx-reduction during almost the complete cycle. For the sec-ond cycle, the SCR-system was nearly empty and so the NOx-emissions couldn’t be reduced by the SCR.  
+
+ 
+ 
+ 15 
+ Figure 8: NOx emissions in two consecutive EMRES cycles after deactivation of the AdBlue dosing with EGR on   
+
+ 
+16  
+3.3 Real World Driving Emissions  As described, the RDE measurements were carried out with four EURO 6d TEMP ve-hicles.  For vehicles V01, V02 and V04, the CO2 emissions in the test-runs with functioning exhaust gas after treatment were lower than those in the runs without SCR. The dif-ference was between -5 and -15%. At vehicle V03 the CO2 emissions increases at the test run without SCR System. A detailed examination of the measurement data showed that the DPF regenerated during the test drive. The regeneration started dur-ing Test phase “extra urban” und last until the end of the test-run.  Table 8 gives an overview of the measurement data.  Table 8: Results of Real World Driving Emission measurements 
+  At all test-runs with standard series conditions the NOx emissions were clearly below the RDE NOx emission limit of 0,126 g/km.  With the deactivated SCR system, the NOx values were at least one order of magni-tude above the limit value. The calculation of the QNOx values shows that the test-runs with the deactivated SCR system could be clearly identified. At these test-runs the QNOx value lies below the proposed threshold value. 
+Average 
+speed
+Average 
+temperatureCO2 NOx QNOx
+RDE NOx 
+emission limit 
+(CF 2,1)
+PN
+Vehicle / Cycle No. cycle km/h °C g/km g/km gCO2/gNOxg/km #/km
+V01 RDE Wien53,56 28 116,530,02075629 1,33E+12
+V01 after deactivation 
+AdBlue dosingRDE Wien53,64 26 99,9280,1434 697 2,10E+08
+V02 RDE Wien53,86 19 147,330,05352755 2,39E+09
+V02 after deactivation 
+AdBlue dosingRDE Wien56,51 18 125,131,2030 104 3,45E+08
+V03 RDE Wien54,05 20 153,7210,05532781 9,26E+08
+V03 after deactivation 
+AdBlue dosingRDE Wien54,54 22 164,290,3855 426 7,40E+11
+V04 RDE Wien54,67 28 210,7870,014414597 9,27E+10
+V04 after deactivation 
+AdBlue dosingRDE Wien54,88 19 200,0050,3246 616 2,22E+10
+0,168
+ 
+ 
+ 17 
+  Figure 9: QNOx Factors at the RDE test-runs   The analysis proves that defective exhaust systems can be identified with the QNOx method with a high probability.  An open issue is the definition of a proper test length and also test conditions (e.g. hot after treatment system) for a robust determination of QNOx.  In addition, the method for defining the threshold values should be further developed. 4 Conclusion  OBM and OBD represent useful instruments to monitor the compliance of tailpipe emis-sions over the lifetime of a vehicle. Additionally, these instruments could be used for PTI. This can be done by simple linking of existing information within the vehicles (by a simple software adaption). For this task a simple indicator for possible malfunctions in the NOx emission control system was elaborated which does not need any new sensors.  A not properly working exhaust gas control system (especially SCR and EGR for con-ventionally driven diesel cars) leads to high measured NOx-emissions without signifi-cant increase in CO2 emissions. Thus the ratio between g CO2 and g NOx de-creases. To get a representative threshold value of this ratio (QNOx = g CO2 / g NOx) a dataset of measured EURO 4,5, 6d Temp & 6d (diesel & petrol) was used with the assumption that a not working aftertreatment system of EURO 6d Temp & 6d cars leads to a similar emission behaviour like EURO 4,5 standard vehicles.  To verify the method, measurements with four EURO 6d Temp diesel cars were done on the street with an installed PEMS. Vehicle 01 was also tested on the chassis dy-namotor in the laboratory. The WLTC- and the ERMES-driving-cycle with different settings for the after treatment system were measured on the test bench. The tests showed, that preconditioning has a big impact for measured emissions.  
+
+ 
+18  
+The measured WLTC with a not working emission control system (AdBlue dosing & EGR off) showed, as expected, the highest NOx-emissions. Two ERMES cycles with a deactivated AdBlue dosing to the SCR- but a working EGR-system of the car were measured after a WLTC with standard settings (AdBlue dosing & EGR on). The measured NOx-emissions for the first following up ERMES were quiet low, although the AdBlue dosing didn’t work during this measurement, the NH3 stored in the catalyst still leads to a conversion of NOx. The second ERMES cy-cle with the same settings for SCR- and EGR-system was measured afterwards and the NOx-emissions were about 7 times higher compared to the first ERMES cycle while the measured CO2 for both cycles was nearly the same.  Thus, a defect of the AdBlue dosing system can be detected by exhaust gas tests only after several kilometres of driving. However, with continuous on board monitor-ing of the the QNOx ratio such a delay is tolerable.   During the RDE test-runs, the vehicles with the deactivated SCR system could be clearly identified by the QNOx method. These QNOx factors were below the QNOx threshold value only for the vehicle settings with simulated defects in the exhaust gas control.  To define the time window for the QNOx determination at real driving further develop-ment would be necessary, also to define the threshold values.  One more open issue is the definition of “undershot thresholds”. That means the number of QNOx factors per trip or per week etc. below the limit until the MIL is acti-vated.  Advantages of implementation of QNOx measurement: § NOx emissions can be normalized to the vehicle’s CO2 emissions  § QNOx monitoring can guarantee compliance of NOx tailpipe emissions over the lifetime of a vehicle § NOx emissions can be monitored at different load profiles during real-world op-eration of vehicles  § The results of the QNOx calculation could be used for detection of relevant de-fects / to activate the malfunction indicator.  To avoid uncertainties if this system will work reliable over the whole lifetime of the vehicle, regularly checks have to be applied which can be included into the periodical technical inspection: § To ensure the QNOx functionality, the vehicle internal NOx sensor has to be checked regularly within PTI  § In such a check, the vehicle internal NOx sensor must deliver the same level via OBD / OBM as the NOx tailpipe exhaust value, measured with an external de-vice at idle speed   
+ 
+ 
+ 19 
+5  Annex  Measurement Technology Used Chassis dynamometer  For the measurements in the laboratory a chassis dynamometer of the FVT at TU Graz was used. This test bench is designed as a single axis driven test bench. The driving resistances are dependent on the speed applied by an asynchronous machine. The mass inertia is also controlled by the asynchronous machine. Maintenance of the test bench is done annually or every half year for certain components. Technical data for the test bench: - Brake:    200 kW asynchronous motor - Max. Speed:   200 km/h - Temperature:  -30°C up to +40°C - Vehicle mass:  up to 3500 kg - CVS flow rate:  6, 10 or 20m³/min - Speed controlled airflow -  The test bench can be run in steady-state and transient operation for braking and tow-ing mode.  Stationary operation mode: In this operating mode a control at constant braking force or at constant driving speed is done.  Transient operation mode: In this operating mode the roller braking force is controlled by using the current speed and acceleration of the vehicle according to the specified vehicle data (rolling re-sistance factors, mass, drag coefficient). In this operation mode certification measure-ments and real world cycle measurements are done. Individual driving cycles with var-iable gradient-profiles can be measured.  Emission measurement on the test bench: Emissions are measured using a CVS (Constant Volume Sampling) system and ex-haust gas analysers from AVL (AMA I60). The emissions are recorded in both way, per bag and over time (max. 3 Hz). The particle measurement system complies with PMP-specifications (dilution system with heating and secondary dilution with CPC 3010 or CPC 3040 and if required also DMA 3081 to detect PN size distribution. Additional non-limited exhaust gas components are measured with a so called FTIR (Fourier Transform Infrared Spectrometer). MAHA PEMS  The AIP PEMS (Portable Emission Measurement System), is used for the determina-tion of the gaseous components CO, CO2, NOx (NO + NO2) and the particle number concentration PN of vehicle exhaust in real driving operations. The PEMS meets the requirements of Regulation (EU) 2017/1151 with amendments 2017/1154, 2017/1347 and Regulation (EU) 2018/1832. It is possible to calibrate the AIP PEMS PN according to ISO 17025. 
+ 
+20  
+ The analyzers are integrated in a housing with passive cooling and is self-sufficient supplied with Li-ion batteries.  The carrier is conveniently attached to the trailer hitch with a tension lever. All other systems and sensors (GPS sensor, weather station, OBD, sampling, PC connection) are connected via connectors.   
+  Figure 10: AIP PEMS  The gaseous pollutants are detected by a non-dispersive infrared sensor (CO and CO2), chemiluminescence detector (NO) and photoacoustic sensor (NO2).  In particle number determination, particles with an electrical mobility diameter of 23 nm to about       2.5 μm are detected. The measuring system was developed on the basis of the PMP protocol, which is the basis of the current legislation for the determination of the particle number concentration at the exhaust gas roller test bench. The system consists of a first dilution stage (PND1), an evaporation tube (ET), a second dilution stage (PND2) and a condensation particle counter (CPC). The 50 % counting efficiency of the mobile CPC is 23 nm. Sample is taken through heated hoses directly from the exhaust pipe or via sampling probes from the Exhaust Flow Meter (EFM). When taken for gas analysis, the gas is cleaned with a heated filter and fed via a heated sample gas line to the gas cooler.   
+  Table 9: General technical data oft he AIP PEMS General technical data: Dimensions (DxWxH): 292x714x492 mm Weight: approx. 30 kg (PEMS with 2 Li-Ion batteries) approx. 50 kg (PEMS with 2 Li-Ion batteries EFM (2“) and carrier) Ambient temperature range: -10 °C – +40 °C (0–100 %, RH) Ambient pressure range: 650 – 1.200 mbar Electrical supply: 24 – 29 V DC Power supply via adapter or 2 Li-Ion batteries 
+
+ 
+ 
+ 21 
+Power Input: Max. 230 W incl. heated line gas (+80 °C) and PN (+100 °C)   ~180 W at 23 °C Max. permissible operating speed: ≤ 160 km/h Sample gas lines: Input pressure: atmosphere ±50 hPa Dew point: < +60 °C Flow rate: 1.3 slm (gas) or 2.5 slm (PN) Interfaces: 1x energy supply + calibration unit 1x Ethernet (TCP/IP) 1x T und RH – sensor 1x EFM 2x heating lines Additional equipment High purity 2-Propanol (Isopropanol ≥ 99.5 %) molecular sieve A4 (0.4 nm, 4 Å) activated carbon Technical data gas analyzer:  CO CO2 NO NO2 N2O Princi-ple: NDIR NDIR CLD PAS NDIR Meas-urement range: 0 – 5  Vol.-% 0 – 20  Vol.-% 0 – 2.500 ppm 0 – 1.000 ppm 0 – 10.000 ppm 
+Preci-sion: < 0,3 % of the full scale value < 0,3 % of the full scale value < 1 % of the full scale value < 0,5 % of the full scale value  < 0,3 % of the full scale value Noise:  < 0,3 % of the full scale value < 0,2 % of the full scale value < 0,4 % of the full scale value < 0,06 % of the full scale value < 0,3 % of the full scale value Zero drift (8h): ≤ 20 ppm  ≤ 500 ppm  ≤ 0,5 ppm ≤ 0,5 ppm ≤ 50 ppm 
+Span drift (8h): ≤ 2 % of the measured value  or ≤ 20 ppm whichever is larger 
+≤ 2 % of the measured value  er ≤ 500 ppm whichever is larger 
+≤ 2 % of the measured value  or ≤ 5 ppm whichever is larger 
+≤ 2 % of the measured value  or ≤ 5 ppm whichever is larger 
+≤ 2 % of the measured value  or ≤ 50 ppm whichever is larger Accu-racy: ±2 % of the measured value  or ±0,3 % of the full scale value of the measur-ing range, whichever is larger Linear-ity: pitch: 0,99 - 1,01 coefficient of determination r²: ≥ 0,998 Standard deviations SEE: ≤ 1 % v. E. intercept:  ≤ 0,5 v. E.   Technical data PN analyzer: Principle: Condensation Particle Counter (CPC) 
+ 
+22  
+Particle diameter : Dp: (10 nm) / 23 nm ≤ Dp ≤ 2,5 µm Measurement range : 1 cm-3 ≤ cP ≤ 1x105 cm-3 Dilution/ PCRF: ~100, according to PMP protocol Linearity: slope: 0.85-1.15 coefficient of determination r²: ≥0.95 standard deviation SEE: ≤10 % FS intercept: ≤5 % FS  
+ 

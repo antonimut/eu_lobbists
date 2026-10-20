@@ -1,0 +1,511 @@
+ 
+ 
+ 
+ 
+ 
+EBF response to European Commission’s public consultation on instant payments  
+ 
+23 June 2021 
+ 
+The EBF welcomes the opportunity to respond to the Commission’s public consultation on instant payments. 
+We are providing comments mainly on the part targeting Payment Service Providers but also propose some 
+general views on end-user preferences.  
+ 
+Consumer preferences 
+ 
+2. Please rate the importance of the reasons/conditions listed below, which would 
+incentivise you as consumer to opt for an instant credit transfer: 
+ 
+Even if the question has the aim to collect information directly from the consumers on their 
+preferences, we would like to give the point of view of the banking industry on this topic, as follows: 
+• consumers expect to have the option of ever easier and faster services so they really appreciate 
+the opportunities to transfer money immediately and 24/7/365. The opportunity to pay in a 
+convenient way in lots of person-to-person and person-to-business situations where cash and 
+cheques are currently widely used is also enjoyed as well as the familiarity with the user 
+experience of this service;  
+• regular SCT should not to be considered as a suitable comparator for SCT Inst costs. The 
+comparison should be made by use case, so that in some cases (B2C, B2B payments, invoicing) 
+the closest comparison could be SCT, and in other use cases (C2B/POS payments, P2P, C2smallB) 
+would be card payments or existing mobile payment schemes;  
+• additional services that can increase security to customers, reducing operational/fraud risks, are 
+important and different market driven initiatives are already available or being developed to 
+address these issues. These initiatives require significant investments also in terms of 
+technologies to be implemented and a sustainable business model. With particular regard to the 
+IBAN verification service, other aspects should be verified and addressed such as its perimeter of 
+application, reachability measures, data to be shared, obligations, rights and liabilities of each 
+PSP involved and related contractual agreements in relation to the current PSD2 framework. A 
+SEPA-wide IBAN verification service could be extremely difficult to implement from an 
+operational and legal perspective, and it should be ensured that any such measures would not 
+actually end up hindering the take-up of instant payments instead of supporting it. From our 
+perspective these services and related analysis should remain market driven. Further in depth 
+discussion between the Commission and the market after this consultation would be welcome.  
+• The Consumer Rights Directive can protect the consumer for sale of faulty goods and services etc.  
+and can cover all payment types and not just SEPA Instant Credits.  Sustainable economic, 
+technical and governance models would be necessary to support any SEPA Instant Credit trade 
+disputes model.   
+ 
+Ref. Ares(2021)4329106 - 02/07/2021
+ 
+ 
+Merchant preferences 
+ 
+6. As merchant, please rate the importance of each of the factors below when deciding on 
+whether to offer customers the possibility to pay with instant credit transfers at ‘point of 
+interaction’. Please explain. 
+ 
+As for question 2, even if the aim here is to collect information directly from the merchants, we 
+would like to provide the following considerations. 
+Generally, merchants need a variety of payment methods that ensure that purchases are 
+finalised, therefore all solutions (card, SCT, SCT Inst, direct debit etc) should be considered 
+relevant. Convenience, choice, customer experience, price, etc are all relevant factors for 
+merchant’ choice of payment methods offered. 
+From a merchant's perspective, new payment solutions are welcome if they can capitalize the 
+investments already done (cost of equipment, software integration, …). A convenient payment 
+method should simplify the post-sale activities (reconciliation, claims management, ...), increase 
+efficiency (time/costs) and mitigate risks (e.g. cash management at the point of sale incl. 
+robberies, counting and checking out banknotes, …). The ability to provide value added services 
+would be key. A new payment method would have an important basic element in Digital ID. The 
+same platform used to authenticate payments should be used to identify the customer in order to 
+ease the online onboarding. All the above factors are key to allow a smooth and seamless 
+payment process and to provide a better service to merchants. 
+ 
+ 
+Corporate user preferences 
+ 
+7. As corporate user, what benefits do you see in using instant credit transfers? Please rate 
+the importance of the type of benefits listed below: 
+ 
+The comments we provided to question n. 6 are applicable to corporates too. 
+ 
+9. Please explain the potential impact on your internal operations arising from adapting them 
+to instant credit transfers.  
+ 
+ 
+With regard to corporate clients, a key point is payment notification and reporting, with the 
+need of adapting the internal processes to cope with immediate availability of funds and 
+complete instantly the underlying transaction (instant invoicing, instant warehouse 
+unloading). 
+ 
+We do not believe that treasury management will become 24/7/365 but that SCT Inst could 
+remove unnecessary stress of payroll or dividend payments, it could be also used for late or 
+scheduled on fix day supplier payments. SCT Inst is also valuable  for B2C area where the 
+reimbursement in real time can have great commercial impact on the relationship  with 
+customers. 
+ 
+ 
+10. In your view, is the fact that euro instant credit transfers under the SCT Inst. Scheme are 
+currently capped at EUR 100,000 an obstacle to their use by corporates? 
+ 
+a. Yes (please explain) 
+b. No (please explain) 
+c. No opinion 
+d. Not applicable 
+ 
+ 
+10.2 Please indicate at what level the cap should be. Please explain: 
+ 
+Currently the SEPA Inst. standard has an amount limit of 100,000 Euro for an instant payment 
+transaction. We think this limit would be adequate at present for retail customers. Corporate 
+customers may require higher limits in the future. In our opinion, before raising the amount 
+limit it would be necessary to gain sufficient experience over an adequate period of time about 
+how the settlement of instant payments has been done  in order to avoid problems with e.g. 
+liquidity management.  Any step forward must be taken gradually. 
+ 
+ 
+11. Would the availability of batch processing of instant credit transfers (for multiple payment 
+transactions bundled together), as opposed to the processing per each individual 
+transaction, make the use of instant credit transfers more attractive to corporate users? 
+ 
+a. Yes (please explain) 
+b. No (please explain) 
+c. No opinion 
+d. Not applicable 
+ 
+Under the SCT Inst scheme, payment end-users already have the possibility to submit bundled SCT 
+Inst instructions to their PSPs. Reference is made to the SCT Inst Scheme Customer-to-PSP 
+Implementation Guidelines. The described pain.001 message used by payment end-users caters for 
+bulk and single payment instructions.  
+ 
+ 
+ 
+13. What type of value added services would make instant credit transfers more useful from 
+your perspective (e.g. Request to Pay, e-invoicing)? Please explain. 
+ 
+Several initiatives aimed at supporting the take-off of instant payments exist across the EU. 
+Amongst these, we think that the development of the new "Request to pay" scheme is an important 
+element that will help streamline the end-to-end payment experience in a broad range of use cases. 
+The harmonization and interoperability between solutions that allow initiating payments from a 
+mobile device and/or paying at the POI will fuel the growth of IP. Nevertheless, we believe value 
+added services should respond to users’ demand and be led by market forces, as this will ensure a 
+wider support, a faster adoption of any standard and the future evolution of the standard, not 
+subject to regulatory constraints.  
+ 
+ 
+ 
+ 
+Payment Service Provider (PSP) perspective 
+ 
+15. If you are a PSP providing and maintaining payment accounts for payers, have you 
+adhered to an instant credit transfer scheme. Please explain your answers  
+ 
+Market adoption of SCT Inst has progressed well in terms of technical and process development.  In 
+terms of adherence to the SCTInst scheme, a s of April 2021, the scheme includes 2,310 payment 
+service providers from 23 countries in Europe (58 percent of the total number of  participants in  and 
+over 68 percent of the total number of  participants in the euro area). The volume of transactions in 
+the fourth quarter of 2020 represented almost  eight percent  of the total volume of  SCT and 
+SCTInst transactions in SEPA.   
+We call upon EU banks to adhere on a voluntary basis to the SCT Inst scheme, which forms one of the 
+major building blocks of a future pan-European solution. If adherence were to be mandated through 
+legislation, PSPs must be given a sufficiently lengthy rollout period due to technical build and 
+consumer considerations. The Commission should also carefully consider the needs and costs of SCT 
+Inst for non -eurozone markets and PSPs. Moreover, it is important to take into consideration that 
+some PSPs have very specific or ‘niche’ customers who do not need instant payments and therefore 
+it would not be proportionate to mandate these PSPs to adhere to SCT Inst. We would also emphasize 
+the importance of resolving issues around sanctions screening as the current situation  can present 
+an obstacle to some PSPs wanting to adhere.   
+ 
+ 
+ 
+16. What benefits do you see, as PSP, in offering instant credit transfers? (please rate the 
+importance of the benefits listed below): 
+ 
+ 
+ (unimpo 
+rtant) 
+(somew 
+hat 
+unimpor 
+tant) 
+(neutral 
+) 
+(somew 
+hat 
+importa 
+nt) 
+(import 
+ant) 
+No 
+opinion 
+Not 
+applicab 
+le 
+New 
+source of 
+revenue 
+  x     
+Attract a 
+larger 
+customer 
+base 
+   x    
+Preserve 
+the 
+existing 
+customer 
+base 
+    x   
+Save costs
+  in 
+other 
+areas of 
+operation 
+s (e.g. 
+cash 
+manage 
+ment and 
+distributi 
+on, ATM 
+maintena 
+nce, 
+security 
+costs) 
+  x     
+Ability to 
+(cross) sell 
+other 
+services 
+   x    
+Provide 
+an 
+alternativ 
+e to other 
+widely 
+used 
+means of 
+payment 
+such as 
+cards and 
+therefore 
+generate 
+cost 
+savings 
+and 
+become 
+more 
+independ 
+ent from 
+other 
+providers 
+  x     
+Other 
+(please 
+specify) 
+       
+ 
+ 
+ 
+• We agree with the European Commission and the ECB on the importance of building homegrown 
+pan-European payment solutions, based on existing infrastructures. This will enlarge the choice of 
+payments instruments for users - in particular for consumers, because instant payments can propose 
+an alternative to cash and debit card transactions. Pan-European instant payments can contribute to 
+achieving a more integrated Single Market in retail payments. For this to fully materialize, European 
+market actors should be able to launch pan-European solutions that can successfully compete with 
+incumbent and future non-European providers.  
+• However, we consider of the utmost importance that the EU Commission clarifies as soon as possible 
+its overall vision of a future EU payments landscape , where there is widespread use of instant credit 
+transfers (and therefore not only PSP but for instance also merchants will have invested to make that 
+widespread use a reality) and at the same time a d igital euro could be  issued, as the latter could 
+displace the benefits of instant payments entirely and multiply the investment required. 
+ 
+ 
+• Although instant payments can be used in a number of use cases, they will mainly compete with card-
+based payments, a long-standing payment means with different features offered by a number of 
+schemes, leveraging a highly expanded acceptance network and with proved business models. The 
+challenges of creating instant payment-based solutions that can compete with such card systems 
+should not be underestimated. Therefore it is important that the right incentives are in place to make 
+instant payments competitive over time vis-à-vis other payment means, in particular: 
+ 
+o Allow the possibility of charging merchants and/or payment users for the provision of instant 
+payments, depending on the relevant business model. 
+o Leave to the market the level of fees that can be charged, because this would be positive to 
+promote competition in the market. Regulating the level of fees risks introducing inadequate 
+incentives for competition and innovation and biases in favour of certain payment means to 
+the detriment of others. 
+o Solutions to deal with fraud and consumer protection should be market-lead. 
+o Regulatory stability over time regarding payment-related topics is essential, in particular 
+during the period required to consolidate the emergence of pan-European instant payment 
+schemes. 
+• Notwithstanding our support for the development of instant payments, it is important that the 
+expectation is not that all current SCT transactions would be replaced by SCT Inst. It is not necessary  
+or purposeful to strive for such outcome. The different actors in the payment chain are not currently 
+ready for such a change, therefore the focus should be first on the areas where instant payments can 
+really add value.  
+• It is also important to assess instant payments as a new, separate payment instrument with its own 
+characteristics and use cases, without a one-to-one comparison with any existing payment 
+instrument or method. Instant payments will have characteristics of regular credit transfers, card 
+payments or even direct debits depending on the use case. Therefore, when reflecting on the different 
+enabling factors (solutions for sanctions screening, fraud prevention tools, pricing, consumer 
+protection etc), it is important to assess any measures in light of the different use cases and not at the 
+instrument level.  
+ 
+17. In your opinion, could instant credit transfers aggravate bank runs and thus contribute 
+to bank failures? 
+ 
+a. Yes 
+b. No 
+c. Don’t know / no opinion / not applicable 
+ 
+ 
+17.1. If so, which of the following mechanisms or tools would you consider as useful 
+in addressing this type of intense liquidity outflows? 
+ 
+  
+Yes 
+ 
+No 
+ 
+I don’t know Not 
+Applicable 
+A daily limit as 
+regards the 
+amount which 
+could be 
+transferred via 
+instant credit 
+transfers? 
+ 
+   
+A 
+discretionary 
+power allowing 
+competent 
+authorities to 
+suspend instant 
+payment 
+obligations of 
+the financial 
+institution 
+concerned for a 
+certain period 
+of time? 
+ 
+ 
+  
+Other 
+mechanisms 
+that may be 
+available to 
+either PSPs or 
+competent 
+authorities 
+(please 
+    
+ 
+ 
+European Banking Federation aisbl 
+ 
+Brussels / Avenue des Arts 56, 1000 Brussels, Belgium / +32 2 508 3711 / info@ebf.eu 
+Frankfurt / Weißfrauenstraße 12-16, 60311 Frankfurt, Germany 
+EU Transparency Register / ID number: 4722660838-23 
+ 
+8 
+ 
+ 
+  
+ 
+ 
+www.ebf.eu 
+ 
+ 
+specify)     
+ 
+We consider that whilst the current restrictions continue to apply and volume does not increase 
+exponentially that instant credit transfers are not likely to aggravate bank runs and thus contribute to 
+bank failures. However,  this could poten tially change if present conditions alter dramatically . An 
+example could be if instant payments account for a much larger proportion of the existing RTGS 
+market.  
+Within the current SCT Inst scheme conditions and limitations, we do not see a potential risk of 
+aggravating bank runs. We refer to the current pre -funding SCT Inst settlement model ASI model 6 
+Real-Time, which offers PSPs an instrument to limit their exposure. However, when promoting further 
+use of instant payments, it is important to ensure that instant payment solutions - whether facilitated 
+by an ACH or through TIPS - has adequate features to ensure robust, reliable, and flexible liquidity 
+management du ring e.g., weekends and bank holidays when central bank RTGS -system are 
+closed.  Such a setup should ensure that customers will not experience unexpected interruption of 
+instant payments, as well as ensuring that clearing participants receives warnings if transaction 
+volumes and liquidity needs are different than expected. This way the clearing participant will be able 
+to allocate more liquidity if needed or otherwise stop liquidity outflow if a bank run is occurring.  
+Additionally, although instant credit transfers are not by themselves aggravating bank runs, there can 
+be extraordinary circumstances such as unf ounded rumors where the customers might want their 
+deposits to be reimbursed and instant credit transfers might be the easiest and quic kest way to do it, 
+with an extraordinary effect on the liquidity outflow.  Risk mitigation measures could also be 
+incorporated through regulation to allow banks under certain stress -conditions, including fraud 
+suspicion and those that could eventually aggravate bank runs and thus contribute to bank failures, to 
+propose alternative redirection of instant payments into other ordinary payments always with the 
+customer’s consent or transparent information prior to the execution of the service. That could avoid 
+transaction failures or refusals to execute payment orders. 
+Having said that, and with a view to having a shared vision of the future therefore ensuring there is no 
+credit risk between the clearing participants, it is crucial that all instant payments are  guaranteed 
+(/backed) by central bank money and/or funds deposited at the central banks.  
+Furthermore, SCT Inst scheme participants already apply limits (e.g., an aggregated daily value limit 
+and/or a transaction limit) for their customers to make SCT Inst transactions. Such limits can be 
+adapted very fast to react on such situations. These schem e participants also apply daily ATM 
+withdrawal limits. These limitations are set for several reasons incl. to protect their customers in case 
+of e.g., fraud . However, before focusing on the amount limit it would be necessary to solve other 
+problems (i.e  AML) and gain experience about the impact on the liquidity management over an 
+adequate period of time. 
+ 
+ 
+ 
+ 
+ 
+ 
+9  
+www.ebf.eu 
+ 
+Technical standardisation 
+ 
+18. In your view, should a single European QR code standard for instant credit 
+transfers be available? Please explain. 
+ 
+a. Yes, it should be developed by market participants 
+b. Yes, it should be developed by the European standardisation organisations 
+c. Yes, for other reasons 
+d. No, I don’t believe there should be a single EU QR code standard, because 
+I think that the same objective could be achieved through the 
+interoperability of existing QR codes 
+e. No, I don’t believe there should be a single EU QR code standard, 
+because other technologies (e.g. Near Field Communication) are safer 
+and/or more convenient 
+f. No, for other reasons (please specify) 
+ 
+Horizontal aspects 
+ 
+19. Do you believe that the widespread use of instant credit transfers could trigger 
+risks that could negatively affect operations of a particular financial sector or pose 
+broader societal costs (e.g., in terms of privacy)? 
+ 
+a. Yes (please explain) 
+b. No 
+c. Don’t know / no opinion 
+ 
+Although we may not fully understand the background of this question, we do not think that 
+the SCT Inst payment instrument causes a higher negative impact compared to other electronic 
+payment instruments.  
+The SCT instrument in use since January 2008 forme d the basis to develop the SCT Inst 
+instrument. The SCT scheme has not created any negative impact that this question refers to. 
+Apart of the different execution timeline, the two credit transfer instruments from the EPC are 
+very similar. This being said, there are of course aspects that require increased attention when 
+it comes to SCTInst (such as effective and efficient fraud prevention).   
+ 
+20. Do you consider that instant payments could bring broader societal benefits 
+ 
+The SCT Inst scheme offers PSPs the opportunity to meet consumer expectations in terms of 
+availability of fast and reliable payment in all contexts: purchases on-line and physical shops, 
+payments between individuals, corporate payments, national and cross-border payment 
+transactions). 
+ 
+We consider that instant payments can bring wider benefits in several areas, included those 
+mentioned in the table above.   
+ 
+ 
+For more information contact: 
+ 
+Alexandra Maniati 
+Director – Innovation and 
+Cybersecurity 
+a.maniati@ebf.eu 
+ 
+Anni Mykkänen 
+Senior Policy Adviser - Payments and 
+Innovation 
+a.mykkanen@ebf.eu 
+ 
+ 
+About EBF 
+The European Banking Federation is 
+the voice of the European banking 
+sector, uniting 32 national banking 
+associations in Europe that together 
+represent some 4,500 banks - large 
+and small, wholesale and retail, local 
+and international - employing about 
+2.1 million people. EBF members 
+represent banks that make available 
+loans to the European economy in 
+excess of €20 trillion and that securely 
+handle more than 300 million 
+payment transa ctions per day. 
+Launched in 1960, the EBF is 
+committed to creating a single market 
+for financial services in the European 
+Union and to supporting policies that 
+foster economic growth. 
+ 
+www.ebf.eu  @EBFeu    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

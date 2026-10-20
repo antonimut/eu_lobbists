@@ -1,0 +1,182 @@
+ 
+ 
+ 
+88 Colin P Kelly Jr Street 
+San Francisco, CA 94107 
+United States of America 
+May 25, 2022 
+ 
+Re: Cyber Resilience Act – new cybersecurity rules for digital products 
+and ancillary services – Public consultation  
+ 
+ 
+GitHub is the largest code repository and home to the largest developer 
+community in the world with 83+ million developers, 4+ million organizations, 
+and 200+ million repositories on our platform. GitHub is where most of the 
+world’s software development happens, and as such, we are uniquely 
+positioned to help secure the open source software ecosystem. We welcome 
+the opportunity to share our expertise with the European Commission as it 
+drafts the forthcoming Cyber Resilience Act (CRA).  
+ 
+Protecting open source software 
+ 
+We commend the European Commission for considering a range of 
+mechanisms to improve software security. Without taking a position on which 
+regulatory mechanisms are best suited for the aims of the CRA, we outline here 
+the practices of the open source software community so that they may be 
+appropriately protected in any forthcoming regulation.  
+ 
+Today, 99% of codebases contain or depend on open source. Many of the 
+services and technology we all rely on, from banking to healthcare, depend on 
+open source software – and open source, like all software, can have 
+vulnerabilities. Open source software is often developed on a voluntary basis 
+and individual project maintainers do not always have the same resources or 
+dedicated security teams as the businesses that rely on their code. This 
+voluntary production of public goods has been hugely impactful: as seen in a 
+2021 European Commission published study, open source software contributes 
+between €65 and €95 billion to GDP in the single market.  
+ 
+Proposed regulation should acknowledge that open source developers’ work is 
+often done on a voluntary basis. Individuals may create a software package 
+because it is useful for themselves, and subsequently find that by sharing it, the 
+package is also useful for many others, including for businesses. These 
+individual projects are rarely themselves products; instead they are small 
+components that perform narrow computing tasks which may be useful in 
+numerous products. Imposing burdens on voluntary contributors and 
+maintainers of individual software projects risks disincentivizing open source 
+creation, with significant detrimental effect. Indeed, most popular open source 
+software licenses today explicitly disclaim warranty and liability for the free 
+software openly provided.  
+Ref. Ares(2022)3963121 - 26/05/2022
+ 
+ 
+Responsibility to address cybersecurity risks should fall on those who stand to 
+profit from providing digital products. That is, the software integrator or product 
+vendor, which creates a product which may use numerous software package 
+components and then places it on the market, should ensure that their product 
+is secure. This is best achieved by working with upstream open source software 
+contributors and maintainers to those constituent packages to use best 
+practices, audit for vulnerabilities, and rapidly address vulnerabilities as they are 
+discovered. Such cooperation could be incentivized by placing obligations on 
+software vendors that integrate open source software projects. However, 
+leading companies are already taking proactive measures to identify critical 
+software projects in need of attention and support with the Open Source 
+Security Foundation (OpenSSF), of which GitHub is a founding member.  
+ 
+Empowering developers with training, funding, and tooling 
+ 
+GitHub helps developers and maintainers realize improved security outcomes, 
+understanding that their work is often done on a voluntary basis. We do this 
+through building tools and promoting best practices that support developers to 
+code securely throughout the entire software development lifecycle and by 
+continuing to invest in building security functionality into the platform. Below we 
+share our activities so that the European Commission may consider existing 
+best practices being used in the single market to provide software developers 
+access to training, funding, and tooling that help secure open source software: 
+ 
+Training 
+GitHub Security Lab offers free security training and educational materials to 
+developers on subjects including tooling (CodeQL, Fuzzing), defensive 
+programing, and security best practices. Security Lab researchers also audit 
+open source projects for free and partner with project maintainers to help them 
+fix security vulnerabilities. 
+ 
+Tooling 
+To scale the security of open source, developers must be able to prevent 
+security vulnerabilities before they happen. That is why GitHub builds security 
+features and tools into developer workflows so that security is addressed earlier 
+in the development process. For developers, and particularly those with limited 
+security experience, these tools reduce friction and lower the barrier to entry, 
+enhancing the security of the overall ecosystem. Our tools and features help 
+address: 
+• Securing dependencies. The most common security vulnerabilities in 
+most apps are the result of using vulnerable open source dependencies. 
+GitHub provides a comprehensive suite of features that monitor the U.S. 
+National Vulnerability Database for vulnerabilities, alert developers to 
+ 
+ 
+vulnerable dependencies, and automate remediation, resulting in higher 
+remediation rates in less time. 
+• Securing new code. GitHub provides a static analysis solution called 
+CodeQL which can detect vulnerabilities in first-party code as it’s 
+created. CodeQL does this using an open source set of queries that find 
+vulnerable coding patterns. 
+• Credential leaks. One of the most frequent security mistakes we see is 
+the accidental inclusion of credentials into source code. GitHub secret 
+scanning protects developers by scanning, notifying, and automatically 
+revoking leaked credentials before they can be used maliciously. 
+ 
+Preventing and addressing malicious attacks 
+ 
+The previous section addresses issues related to vulnerabilities in code that 
+may be integrated into digital products – 99.8% of which are introduced by 
+accident by well-intentioned maintainers. While malicious attacks make up just 
+0.2% of the vulnerabilities GitHub found in our customers’ dependencies, they 
+grab outsized attention. 
+ 
+To minimize the probability of these malicious attacks, GitHub adheres to and 
+contributes to rapidly evolving best practices for security in software 
+development. The CRA should be careful to foster the continued evolution of 
+best practices and not prematurely lock-in existing practices for ongoing open 
+source software development, in contrast to digital products made available on 
+the market.  
+ 
+Malicious attacks on open source security usually occur when an attacker 
+deliberately introduces code that they intend to exploit, generally through some 
+form of account takeover. Hardening account and code security is critical to 
+prevent these attacks. Strong authentication, including the use of two-factor 
+authentication (2FA), as well as commit signing and package immutability are 
+essential to protecting the software supply chain and securing the software 
+development ecosystems. Industry funding and engagement has a meaningful 
+impact, particularly for package registries that run on a voluntary basis. GitHub 
+is committed to protecting developers and their projects with usable, strong 
+authentication options and we are requiring 2FA for all users who contribute 
+code on the platform by the end of 2023. 
+ 
+The role of government in securing open source software 
+ 
+Like businesses and the developer community, the government also has an 
+important role to play in securing the open source ecosystem. To that end, we 
+share the following thoughts on areas where the government can contribute: 
+ 
+ 
+• Identify the open source software that is critical to the public sector and 
+member states’ critical infrastructure, and prioritize resources to 
+safeguard the security and resilience of open source software and its 
+supply chains. This investment could be made in partnership with open 
+source foundations, such as OpenSSF, that specifically focuses on open 
+source security. The German government’s recent funding of a 
+Sovereign Technology Fund to this end is an encouraging development 
+for government innovation that the European Commission should closely 
+follow and consider emulating at the EU level. 
+• Engage the open source community (including open source foundations, 
+platforms supporting open source, open source projects, and users of 
+open source) in the development and review of secure development and 
+supply chain risk management guidance and standards. Such 
+engagement would help ensure that guidance and standards can be 
+adopted equally by proprietary and open source software. In addition, 
+European Union research projects could use guidelines on how to 
+create sustainable open source communities that outlive their original 
+research grant. 
+• Review member states’ Coordinated Vulnerability Disclosure (CVD) 
+policies in light of the CRA, and in close relation to the NIS2 Directive 
+that also addresses CVD, and make recommendations to improve 
+support for automation (e.g. incorporating structured software identifiers 
+such as package-url), improve actionability (e.g. incorporate 
+exploitability data such as VEX), and investigate integration with 
+Software Bills of Materials (SBOM). 
+• Make cybersecurity education on secure software development 
+fundamentals broadly available, either through EU funding mechanism, 
+the new Cybersecurity Competence Center Network, or via the EU 
+Agency for Cybersecurity (ENISA). This should be incorporated in 
+broader efforts to improve cybersecurity education and training for all IT 
+professionals. 
+ 
+At GitHub, we believe that the security of open source is critical to the security 
+of all software. As the home to the world's largest open source developer 
+community, GitHub is uniquely positioned and committed to helping developers 
+advance the security of their code, and we take this responsibility seriously. We 
+look forward to working with the European Commission to advance this 
+important work. 
+ 
+ 

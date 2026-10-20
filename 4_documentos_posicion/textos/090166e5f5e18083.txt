@@ -1,0 +1,175 @@
+Stellungnahme 
+Seite 1 von 4 
+Kevin Hackl  
+Bereichsleiter Digital 
+Banking & Financial 
+Services 
+ 
+T +49 30 27576-109 
+k.hackl@bitkom.org 
+ 
+ 
+Lukas Marschallek  
+Referent Digital Banking & 
+Financial Services 
+ 
+T +49 30 27576-551 
+l.marschallek@bitkom.org 
+ 
+ 
+Albrechtstraße 10 
+10117 Berlin 
+ 
+ 
+Legislativvorschlag der Europäischen Kommission über 
+Echtzeitüberweisungen in Euro  
+25. November 2022 
+Einleitung 
+Der Bitkom und seine Mitglieder begrüßen den bereits erwarteten 
+Verordnungsentwurf der EU-Kommission zu Echtzeitüberweisungen. Wir bedanken 
+uns für die frühzeitige Einbindung der Marktakteure. Die nachstehenden Darlegungen 
+spiegeln einen ersten fortgeschrittenen Diskussionsstand der Bitkom-Mitglieder wider, 
+aber noch nicht notwendigerweise die finale Position. 
+Der vorliegende Entwurf ist grundsätzlich zu begrüßen. Derzeit stehen 
+Echtzeitüberweisungen nicht flächendeckend für Endkunden innerhalb Europas zur 
+Verfügung. Ende 2021 waren nur 11% der Banküberweisungen 
+Echtzeitüberweisungen. Eine Verpflichtung für das Empfangen aber auch Senden von 
+Echtzeitüberweisungen kann dieser – im internationalen Vergleich – 
+unterdurchschnittlichen Marktdurchdringung Abhilfe verschaffen.   
+Zeitgleich gilt es zu berücksichtigen, dass die Orientierung respektive Limitierung auf 
+eine einzige Zahlungs- oder Settlementmethode – Instant Payments as new normal – 
+nicht dem vielseitigen Angebot an Zahlungsmethoden gerecht wird. Daher gilt es, das 
+Entwicklungspotenzial von Instant Payments bspw. auch im Kontext von Open 
+Banking und der Genese eines Digitalen Euros (CBDC) ausgewogen im Sinne eines 
+breiten Bezahlmix zu betrachten.  
+Weiter gilt es aus verbraucherschutzpolitischer Perspektive, Vorteile (insbesondere 
+neue Anwendungspotenziale) und Risiken miteinander abzuwägen und die 
+Herausforderungen im Bereich Betrugsprävention bei der Implementierung einer 
+flächendeckenden Instant Payments Infrastruktur zu berücksichtigen.  
+In Summe scheint eine Verordnung über Echtzeitüberweisungen konsequent und 
+richtig und stellt eine Chance dar, um weitere Innovation im Zahlungsverkehr 
+Ref. Ares(2023)26538 - 03/01/2023
+ 
+Seite 2 von 4 
+anzustoßen. Für die Weiterentwicklung des Drafts möchte der Bitkom die 
+nachstehenden Aspekte anregen.   
+Anregungen zur Umsetzung einer Verordnung über 
+Echtzeitüberweisungen  
+Scope – Flächendeckender Zugang zu 
+Echtzeitüberweisungen in der Umsetzung  
+ 
+Wie eingangs angedeutet hinkt die Europäische Infrastruktur für 
+Echtzeitüberweisungen global betrachtet hinterher. Für Deutschland kann man 
+festhalten, dass zwar die Infrastruktur für das Empfangen weit vorangeschritten aber 
+das Senden nur eingeschränkt verfügbar ist. Diese hohe Variabilität steht einer 
+verlässlichen Nutzung entgegen. Daher unterstützt der Bitkom grundsätzlich 
+regulatorische Schritte der EU-Kommission, welche die Schaffung einer 
+flächendeckend, europaweit verfügbaren Instant-Payments-Infrastruktur begünstigen. 
+Diese ermöglicht die Entwicklung neuer Anwendungsfälle, was wiederum zu einer 
+stärkeren Verbreitung und Nutzung von bestehenden und neuen Angeboten, wie z.B. 
+Open Banking, führen kann. 
+Bei der Umsetzung bedarf es jedoch auch Klarstellungen des Anwendungsbereichs: 
+ Überprüfung der Anwendungsbereiche: Die Vorgabe zur verpflichtenden 
+Einführung von Echtzeitzahlungen (Empfangen und Senden) sollte auf 
+Praktikabilität der Anwendungsfälle geprüft werden; dies gilt auch für die 
+Verfügbarmachung von Schnittstellen. Insbesondere sollte aus der Definition „PSU-
+Interface“ die Variante „paper-based“ und „in any other way on the premises of the 
+PSP“ gestrichen werden, weil hier die Abwicklungszeit von 10 Sekunden ab 
+Empfang des Zahlungsauftrags nur schwer durchführbar erscheint (s.u. insbes. SB-
+Terminals; Ähnliches gilt bei physischer Übergabe eines handschriftlich 
+ausgefüllten Überweisungsbelegs in einer Filiale). Weitere Kanäle und 
+Schnittstellen können freiwillig zugänglich gemacht werden. Eine solche dedizierte 
+Schnittstelle nach PSD2 muss für eine verlässliche Handhabbarkeit auch für TPPs 
+einfach zugänglich gemacht werden. Die Schnittstelle wird vom TPP bspw. genutzt, 
+wenn der Zahler die Zahlungsservices des TPPs nutzt. 
+ Darüber hinaus sind Batch-Überweisungen im Firmenkundengeschäft in vielerlei 
+Hinsicht komplex und individuell in ihrer Beauftragung und Abwicklung. 
+Dispositions- und Überprüfungsprozesse der einzelnen Zahlungsaufträge sind nicht 
+für eine Ausführung in Echtzeit geeignet. Eine Einbeziehung in die gesetzliche 
+Verpflichtung sollte daher geprüft werden. 
+ 
+Seite 3 von 4 
+ Für eine praktikable Umsetzung von Echtzeitüberweidungen innerhalb des 
+Ökosystems und seiner Marktteilnehmer sind auch Anpassungen der PSD2 
+notwendig, z.B.: Um Echtzeitüberweisungen auch im Rahmen von Open Banking 
+optimal nutzen zu können, sollten PISPs von den ASPSPs über den Zahlungsstatus 
+informiert werden. 
+ 
+Pricing & Kosten 
+ 
+Auf der einen Seite ist sowohl das Aufsetzen als auch das Betreiben einer Instant 
+Payments Infrastruktur mit zusätzlichen Kosten verbunden, verglichen zu Standard 
+SEPA Überweisungen (Betrugsbekämpfung, Liquiditätssteuerung, Risikomanagement, 
+etc.). Auf der anderen Seite ergeben sich potenzielle Erleichterungen, da etwa die 
+“Maßnahmen zur Betrugsbekämpfung”, die die Kommission vorschlägt, ein tägliches 
+Abgleichen mit Sanktionslisten vorsieht. Der Bitkom und seine Mitglieder haben sich 
+aufgrund der Komplexität dieses Themas und der kurzen Beratungsfrist noch kein 
+finales Urteil gebildet. Erste grundsätzliche Linien lassen sich allerdings bereits 
+bestimmen, die wir für die gemeinsame Beratung mit dem nationalen und 
+europäischen Regulator mitgeben wollen:  
+ Für Retail Endkonsument:innen sollen keine zusätzliche Kosten am PoS bzw. PoT 
+(Point of Transaction) entstehen. „Send“ für den „privaten payer“ soll also 
+kostenneutral bleiben, um kein Ungleichgewicht zu anderen Bezahllösungen 
+herzustellen. Firmenkunden, also „corporate payer“ genießen im Regelfall ein 
+breiteres Service Spektrum, in das auch Kosten von SCT Inst einfließen könnten. 
+ Bereits heute bieten einzelne Marktteilnehmer Echtzeitüberweisungen zu den 
+gleichen Konditionen wie normale SEPA Überweisungen an, was ein Indiz für eine 
+ausreichend marktgetriebene Preisgestaltung sein kann. Mit einer 
+Überprüfungsklausel für den Review-Prozess könnte die Frage nach dem Pricing auf 
+einen Zeitpunkt verschoben werden, wo eine flächendeckende SCT Inst 
+Infrastruktur aufgebaut und im Einsatz ist.  
+ Grundsätzlich plädiert der Bitkom dafür, Preis- und Gebührendebatten betreffend 
+den Zahlungsverkehr ganzheitlich zu betrachten: Unterschiedliche Bezahlmethoden 
+sowie unterschiedlich regulierte Marktteilnehmer müssen im Gesamtkontext eines 
+modernen Zahlungsverkehr-Ökosystems betrachtet werden. Das heißt, auch nicht-
+klassische Intermediäre Berücksichtigung finden müssen.  
+ 
+Betrugsprävention: IBAN Name Checking 
+ 
+Verbraucherschutz und Betrugsprävention sind wesentliche Aspekte, wenn man über 
+eine flächendeckende Einführung von Echtzeitüberweisungen spricht. Durch die 
+Unmittelbarkeit des Bezahlvorgangs entstehen neue Herausforderungen. Ein 
+wiederkehrendes Problem, mit dem die Verbraucher bei der Ausführung von 
+Echtzeitüberweisungen konfrontiert werden, ist das Risiko, dass die Gelder an den 
+ 
+Seite 4 von 4 
+falschen Empfänger geschickt werden. Wir möchten daran erinnern, dass ein IBAN 
+Name Checking bzw. die „Confirmation of Payee (CoP)“ dazu beitragen kann, diese 
+fehlgeleiteten Zahlungen wesentlich zu minimieren. Hier wäre es zudem vorteilhaft 
+klarzustellen, dass die Prüfung der Abweichung von Name und Kundenkennung noch 
+keine Annahme des Zahlungsauftrags i.S.d. Art. 2(1a) (a) IPR darstellt. Außerdem wäre 
+es unserer Meinung nach essenziell, die Haftungsregelung für den IBAN-
+Namensprüfungsdienst in den Fällen zu klären, in denen ein Payment Service User 
+(„payer“) einen Zahlungsvorgang trotz einer festgestellten Diskrepanz genehmigt. 
+Wir sprechen uns dafür aus, dass eine angemessene Daten- und 
+Kommunikationsinfrastruktur für den IBAN-Namensabgleich aufgebaut und 
+eingeführt wird. Der Zugriff auf eine Verifizierungs-Schnittstelle für 
+Zahlungsdienstleister sollte als Möglichkeit für einen einfachen und schnellen 
+Abgleich zwischen Empfängerdaten gesehen werden. Der Zugang sollte für TPPs und 
+Zahlungsdienste in Hinblick auf regulatorische Anforderungen, technische 
+Komplexität oder Kosten nicht künstlich erschwert werden. 
+ 
+Ausnahme für Bezahlungen mit PISPs: Im Falle einer Zahlung eines Endkunden an ein 
+Unternehmen, das bereits vom Anbieter aufgenommen bzw. überprüft wurde bzw. wo 
+die Daten des Zahlungsempfängers bereits vorab vom PISP eingetragen wurden, sollte 
+die Pflicht zur CoP/IBAN-Prüfung beim Bezahlvorgang entfallen. Eine entsprechende 
+Überprüfung des Zahlungsempfängers wurde in diesem Szenario bereits vorab 
+durchgeführt und es besteht kein Risiko für den Endkunden aufgrund einer 
+Falscheingabe die Zahlung an einen inkorrekten Empfänger zu übersenden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bitkom vertritt mehr als 2.000 Mitgliedsunternehmen aus der digitalen Wirtschaft. Sie erzielen all ein mit IT- 
+und Telekommunikationsleistungen jährlich Umsätze von 190 Milliarden Euro, darunter Exporte in Höhe von 50 
+Milliarden Euro. Die Bitkom-Mitglieder beschäftigen in Deutschland mehr als 2 Millionen Mitarbeiterinnen und 
+Mitarbeiter. Zu den Mitgliedern zählen mehr als 1.000 Mittelständler, über 500 Startups und nahezu alle Global 
+Player. Sie bieten Software, IT-Services, Telekommunikations- oder Internetdienste an, stellen Geräte und 
+Bauteile her, sind im Bereich der digitalen Medien tätig oder in an derer Weise Teil der digitalen Wirtschaft. 80 
+Prozent der Unternehmen haben ihren Hauptsitz in Deutschland, jeweils 8 Prozent kommen aus Europa und 
+den USA, 4 Prozent aus anderen Regionen. Bitkom fördert und treibt die digitale Transformation der deutschen  
+Wirtschaft und setzt sich für eine breite gesellschaftliche Teilhabe an den digitalen Entwicklungen ein. Ziel ist 
+es, Deutschland zu einem weltweit führenden Digitalstandort zu machen . 

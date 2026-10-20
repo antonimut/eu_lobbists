@@ -1,0 +1,219 @@
+Apple Response to the EU Proposal for a Cyber Resilience Act 
+Brussels, January 2023 
+Apple designs security into every product and service, creating industry-leading security architectures that address the 
+unique requirements of mobile, watch, desktop and home. Importantly, the Cyber Resilience Act focuses on increasing 
+security for everyone, and Apple is pleased to see it adopt certain concepts we have long championed.   
+Apple welcomes the Cyber Resilience Act’s focus on product security because we are committed to offering our uses the 
+best data security in the world and we recognize the importance and role of strong product security in strengthening the 
+EU’s overall cyber-resilience. Mobile devices are a gateway for European citizens to interact with the world, from making 
+financial transactions and using public transport, to exercising, proving vaccination status, and identifying themselves 
+digitally. Mobile devices are used to connect with friends and family, access public services and banking, and engage in 
+e-Commerce. They also are relied on by users to store highly personal and sensitive data, including photos, videos, 
+heath data and financial information. 
+The proliferation of data has been accompanied by a dramatic rise in digital attacks. Globally, the total number of data 
+breaches have increased fourfold between 2013 and 2021. More specifically, as mobile devices become tools for an 12
+ever-increasing array of purposes, they have also progressively become targets for bad actors to exploit — from cyber-
+criminals to state sponsored groups. With highly sophisticated methods on the rise, they target mobile devices as a 
+means for propagating cyber intrusions. ENISA’s threat intelligence reports show a significant increase in malware 
+infections and Nokia’s 2020 Threat Intelligence Report indicated that mobile platforms which do not centralize and 
+manage the access of third party software are particularly vulnerable to attacks. 
+Cybercrime puts all stakeholders in the mobile ecosystem at risk — and while consumers are often the primary targets, 
+malware attacks on mobile devices can harm developers, online advertisers, and businesses that are not even direct 
+participants in the mobile app ecosystem. The rise of corporate data breaches reflects a fundamental change in the 
+digital landscape. In 2017, one in five interactions between consumers and companies took place online. By 2020, that 
+percentage had skyrocketed to more than half. Whilst people clearly benefit from the ability to interact with businesses 3
+online, this rapid shift in behavior has created even more opportunities for criminals to target consumers’ personal data. 
+Criminals are increasingly using social engineering techniques to go after corporations to steal data or target them in 
+ransomware attacks. The economic incentives are significant, with corporate login credentials of administrators selling 
+for as much as $120,000 on the dark web. The damage caused by these types of attacks are not just limited to 4
+companies themselves, but can be devastating for consumers as well. For example, between 2020 and 2021 
+ransomware attacks against healthcare organizations nearly doubled. Many of these cyber intrusions to date have 5
+occurred on networks, computers, or whatever technology platform has exposed and easily exploitable vulnerabilities, 
+but as foreign adversaries improve their attack capabilities, the risks to mobile devices will grow. 
+As such, maintaining security and privacy on mobile devices is of critical importance, and providing a framework that 
+allows for a secure mobile eco-system is essential for Europe’s overall cyber-resilience.  
+It is also why Apple is committed to developing leading security technologies — designed to safeguard personal 
+information of the individual user, and in so doing, helping to protect the broader eco-system in which the products are 
+ “Data Breach Investigation Report,” Verizon, 2014-20211
+ “2022 Data Breach Investigations Report,” Verizon2
+ “How COVID-19 has pushed companies over the technology tipping point - and transformed business forever,” McKinsey & Company, 3
+October 5, 2020
+  “15 billion usernames and passwords for internet services including bank and social media accounts on offer to cyber criminals, finds 4
+new research from Digital Shadows,” Cision PR Newswire, July 8, 2020
+ “The State of Ransomware in Healthcare 2022,” SOPHOS, May 20225
+Ref. Ares(2023)512776 - 23/01/2023
+used. Security protections are built into the design of Apple products and services from the onset. Building on the 
+experience of creating the world’s most advanced mobile operating system, Apple has designed security platforms that 
+address key requirements of mobile, watch, desktop and home. As a result, Apple is widely recognized as having the 
+most secure consumer hardware on the market, and in particular secure mobile devices, whilst setting industry-leading 
+standards for user security. Indeed, it is a testament to Apple’s robust security protections that there has never been a 
+widespread malware attack on iPhone.  
+The Cyber Resilience Act’s emphasis on ensuring the security of digital products (or products with “digital elements”) 
+and ancillary services in the EU market is both appropriate and commendable. We encourage the European Commission 
+to continue to focus on comprehensive approaches to mobile security and believe that there are important improvements 
+deserving of additional consideration. Therefore, with this paper, we want to I) share Apple’s experience with taking a 
+comprehensive approach to mobile security, and II) highlight certain key areas of the proposed Cyber Resilience Act that 
+would benefit from further development. 
+I. Apple’s Experience with Taking a Comprehensive Approach to Mobile Security 
+Apple strongly supports the main objectives of the Cyber Resilience Act.  
+Every Apple mobile device combines hardware, software and services to achieve greater security. For example, Apple-
+designed silicon and security hardware powers critical security features. Software protections work to keep the operating 
+system and third-party apps protected and services provide a mechanism for secure and timely software updates, power 
+a protected app ecosystem and facilitate secure communications and payments. The result is a secure platform that not 
+only protects devices and their data, but the entire ecosystem including what users do locally, on networks and with key 
+internet services.  
+In keeping with the Act’s first two objectives, our approach to security covers the entire lifecycle of our products and 
+services and across our entire platform.  
+  
+A comprehensive overview of Apple’s approach to platform security can be found in our May 2022 Apple Platform 
+Security Guide. 
+System Security 
+We also support the Act’s second main objective; to ensure a coherent cybersecurity framework, facilitating compliance 
+for hardware and software producers.  
+We are a hardware and software producer, of course, and so we can offer system security for controlling access to 
+system resources in Apple devices without compromising usability. System security encompasses the boot-up process, 
+software updates and protection of computer system resources such as CPU, memory, disk, software programs and 
+stored data. 
+An important part of Apple security is secure boot, which protects the system from malware infection at boot time. 
+Secure boot begins in hardware and builds a chain of trust through software, where each step is designed to ensure that 
+the next is functioning properly before handing over control. This security model supports not only the default boot of 
+Apple devices but also the various modes for recovery and timely updates on Apple devices.  
+Subcomponents like Secure Enclave also perform their own secure boot to help ensure they only boot known-good code 
+from Apple. The update system is designed to prevent downgrade attacks, so that devices can’t be rolled back to an 
+older version of the operating system (which an attacker knows how to compromise) as a method of stealing user data. 
+In addition to secure boot, Apple devices include boot and runtime protections so that they maintain their integrity during 
+ongoing operation. Apple-designed silicon on iPhone, iPad, Apple Watch, Apple TV, HomePod and a Mac with Apple 
+silicon provide a common architecture for protecting operating system integrity. 
+App Security  
+We further promote security through our approach to apps. 
+Today, providing for secure use of apps is among the most critical purposes of a security architecture. Even as apps 
+provide amazing productivity benefits for users, they also have the potential to negatively impact system security, 
+stability and user data if not handled properly. 
+To mitigate risks associated with apps, Apple has implemented various layers of protection to help ensure that apps are 
+free of known malware and tampering and that app access to user data is carefully mediated. These security controls 
+facilitate a stable, secure platform for apps, in turn enabling thousands of developers to securely deliver hundreds of 
+thousands, if not millions, of apps for iOS, iPadOS, and macOS — all without impacting system integrity. Users can also 6
+access these apps on their Apple devices without fear of viruses, malware, or unauthorized attacks. 
+The protections on the iPhone and iPad are especially robust because all apps are obtained from the App Store—and all 
+apps are sandboxed—to provide the tightest controls. 
+A key part of our approach to app security involves and requires transparency with respect to security properties, 
+consistent with the Act’s third main objective. Every app and every update submitted to the App Store is closely reviewed 
+by both automated systems and human experts against technical content and design criteria described in the publicly 
+available App Store Review Guidelines. Areas of review include ensuring that apps do not unnecessarily request access 7
+to sensitive permissions or data and that they do not make misleading or false claims in marketing materials or 
+otherwise. The App Review process is critical to device security. 
+Sandboxing is another tool that protects user data from unauthorized access by preventing apps from gathering or 
+modifying information stored by other apps. More specifically each app has a protected directory for its files that only the 
+app itself can access. A third-party app can only access user information it wasn’t given first-party access to by using 
+services explicitly provided by iOS and iPadOS, which are designed to prevent unauthorized data access across apps. 
+Apple also provides an array of additional protections, including those against phishing, by implementing the  common 
+FIDO alliance and World Wide Web Consortium passwordless sign-in standard, which allows websites and apps to offer 
+an end-to-end passwordless option.  8
+Data Security 
+The secure boot chain, system security and app security capabilities all help to verify that only trusted code and apps 
+run on a device. Apple devices have additional encryption features to safeguard user data, even when other parts of the 
+security infrastructure have been compromised (for example, if a device is lost or is running untrusted code). All of these 
+features benefit both users and IT administrators, protecting personal and corporate information and providing methods 
+for instant and complete remote wipe in the case of device theft or loss. 
+iOS, iPadOS, and Macs with Apple silicon use a file encryption methodology called Data Protection. Data on an Intel-
+based Mac is protected with a volume encryption technology called FileVault. In all current Apple devices, cryptographic 
+key hierarchies are rooted in the dedicated silicon of the Secure Enclave, and a dedicated AES Engine supports line-
+speed encryption and helps ensure that long-lived encryption keys aren’t exposed to the kernel operating system or 
+CPU, where they could be compromised. In addition to using Data Protection and FileVault to help prevent unauthorized 
+access to data, Apple uses operating system kernels to enforce protection and security. The kernel places apps in a 
+sandbox, which restricts what they can do on the system, and a mechanism called Data Vaults restricts which apps are 
+allowed to access certain sensitive information. 
+Network Security  
+In addition to the built-in safeguards Apple uses to protect data stored on Apple devices, there are many measures 
+organizations can take to keep information secure as it travels to and from a device. All of these safeguards and 
+measures fall under network security. In keeping with the Act’s fourth and over-arching purposes, these measures – and 
+all of the security measures we build into our products and services – enable businesses and consumers to use products 
+with digital elements securely. 
+Because users must be able to access corporate networks from anywhere in the world, it’s important to help ensure that 
+they are authorized and that their data is protected during transmission. To accomplish these security objectives, iOS, 
+iPadOS, and macOS integrate proven technologies and the latest standards for both Wi-Fi and cellular data network 
+connections. That’s why our operating systems use — and provide developer access to — standard networking 
+protocols for authenticated, authorized and encrypted communications. 
+Adapting to an Evolving Threat Landscape  
+Finally, we understand that cybersecurity and cyber resilience is an ongoing process requiring constant innovation and 
+effort -- a journey rather than a destination.  
+ “Building a Trusted Ecosystem for Millions of Apps” Apple https://www.apple.com/privacy/docs/6
+Building_a_Trusted_Ecosystem_for_Millions_of_Apps.pdf
+ https://developer.apple.com/app-store/review/guidelines/ 7
+ https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/8
+Apple is committed to strengthening both device and cloud security and to adding new protections over time, in its 
+ongoing effort to provide users with even stronger ways to protect their data — against the backdrop of an increasingly 
+sophisticated and complex threat landscape. In particular, hackers are evolving their attack methods by not just going 
+after vulnerabilities, but increasingly by targeting users directly and tricking them into revealing passwords or providing 
+access to sensitive device functionalities through sophisticated phishing and social engineering attacks. Consequently, 
+even organizations with the strongest possible security practices are vulnerable to these types of threats. A recent study 
+found that over half of organizations surveyed suffered some form of ransomware attack. 9
+Apple’s ongoing adaptation to the evolving threat landscape is evidenced by, among other things, its recent 
+announcement of three advanced security features focused on protecting users against threats to their data.  10
+First, Apple’s iMessage Contact Key verification will allow users to verify they are communicating only with those whom 
+they intend. Second, new Security Keys for Apple ID provide users with the option of requiring a physical security key to 
+sign in to their Apple ID account. Finally, Advanced Data Protection is Apple’s highest level of cloud data security, giving 
+users the choice to protect the vast majority of their most sensitive iCloud data with end-to-end encryption so that it can 
+only be decrypted on their trusted devices. In addition, with iOS 16 and macOS Ventura Apple announced Rapid Security 
+Response, an additional capability for applying urgent security fixes. Rapid Security Responses for iPhone, iPad, and Mac 
+deliver important security improvements between regular software updates. 
+These new features demonstrate Apple’s unwavering commitment to provide our users with the best data security in the 
+world — constantly identifying and mitigating emerging threats to their personal data on devices (including developing 
+very targeted solutions - for the very few users who, because of who they are or what they do, may be personally 
+targeted by some of the most sophisticated digital threats - such as Lockdown Mode) and in the cloud, ensuring users 11
+have the tools to further protect their most sensitive data and communications. 
+II. Key Areas of the Proposed Cyber Resilience Act That Would Benefit from Further Development 
+As discussed above, Apple is fully committed to the objectives the CRA is aiming to achieve, and supports the proposal’s 
+ambition to improve the overall security of products sold on the EU market. However, for the proposal to truly deliver and 
+become a successful framework, we encourage co-legislators to ensure it reflects the entire threat landscape; that it 
+does not unintentionally create new security vulnerabilities; and that it fully reflects the best security practices available 
+today. To strengthen the proposal, we’ve identified certain areas we believe should be addressed during the co-decision 
+legislative scrutiny process, including those highlighted below. 
+Essential Cybersecurity Requirements 
+We encourage the co-legislators to build on the essential security requirements listed in Annex I. In particular, as the 
+proposal seeks to improve the overall security standards for mobile products, there is merit in looking at the entire threat 
+landscape. Whilst vulnerabilities are a large source of security issues, increasingly attackers target users directly to 
+compromise the security of their products, systems and data. Attackers use sophisticated phishing or social engineering 
+techniques, e.g. clicking on links or downloading unvetted software, as a means to gain access to users’ devices. They 
+frequently do this not by exploiting a vulnerability, but by tricking users into revealing passwords and other credentials 
+and using them as means to steal data, ransom or attack networks. The risks to enterprises is heightened as employers 
+are increasingly adopting Bring Your Own Device (BYOD) policies that encourage employees to use their personal 
+devices on corporate networks. This provides bad actors a direct route into corporate networks, which has led to an 
+increase in threats targeting mobile devices. Therefore, depending on an assessment of risk, manufacturers should 
+design products - or have policies in place - to mitigate against such forms of attacks, including controls or vetting 
+processes on how third party code can access key functionalities of a device. 
+Manufacturer Vulnerability Disclosures 
+Section 1 of Article 11 requires manufacturers to report any “actively exploited vulnerability” to ENISA within 24 hours. 
+This requirement poses a serious security risk because it encompasses reporting vulnerabilities that have not been 
+patched or remedied. More specifically, requiring the disclosure of information on active vulnerabilities risks information 
+leaking, especially if the purpose of reporting to ENISA is that ENISA will disclose the information to others. When 
+information leaks, malicious attackers could weaponize the vulnerabilities against users in hours. Users will then be left 
+ “The State of Ransomware 2022,” SOPHOS, April 2022. (For further information also see “The Rising Threat to Consumer Data in the 9
+Cloud” by Professor Stuart E. Madnick, Ph.D. https://www.apple.com/newsroom/pdfs/The-Rising-Threat-to-Consumer-Data-in-the-
+Cloud.pdf)
+ https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/10
+ https://support.apple.com/en-gb/HT21265011
+unable to protect themselves, since without a patch there is little users can do. In addition, ENISA would become a target 
+for well-funded and very sophisticated malicious private and state actors eager to obtain and exploit active 
+vulnerabilities. The proposed 24-hour reporting window also is itself untenable because it does not allow manufacturers 
+to confirm alleged vulnerabilities and discern their severity, thereby degrading the reliability of reported vulnerabilities. 
+Moreover, the 24-hour reporting window undermines the ability of manufacturers to make coordinated disclosures since 
+there would be insufficient time for adequate coordination. Therefore, we propose requiring disclosure of a vulnerability 
+to occur within 24 hours after that vulnerability has been patched or remedied. This is in line with ISO Standard ISO/IEC 
+29147, which requires disclosing a vulnerability only after the development and deployment of remediation. The 
+approach also is recognized by the recently adopted NIS2 legislative framework, and the upcoming EUCC candidate 
+scheme (a candidate cybersecurity certification scheme to serve as a successor to the existing SOG-IS). 
+Manufacturer Incident Disclosures 
+Section 2 of Article 11 requires manufacturers to report “any incident having impact on the security of the product with 
+digital elements” within 24 hours. The 24 hour notification period is very short and fails to consider that cyberattacks are 
+often complex and require the investigation of experts to confirm and assess the impact of the incident, which must take 
+priority. Furthermore obligation  does not consider the significance or the severity of an incident which would lead to the 
+disclosure of numerous immaterial incidents, making it harder for cybersecurity practitioners and government authorities 
+to focus on critical security issues. We strongly recommend policy makers to reconsider this approach and align with 
+other legal frameworks such as the GDPR and NIS 2.   
+We thank the European Commission for the opportunity to comment on the draft CRA, and we look forward to continuing 
+our participation in the process as appropriate. 
+***
+Apple Inc. Apple Apple Park,Cupertino, CA 95014  
+Square de Meeûs 38-40, 1000 Brussels, Belgium 
+EU Transparency Register ID number: 588327811384-96

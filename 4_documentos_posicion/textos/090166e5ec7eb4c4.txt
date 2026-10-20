@@ -1,0 +1,196 @@
+ 
+1 
+ 
+Date 
+May 20, 2022 
+Submitted by 
+EHIMA, European Hearing Instrument Manufacturers Association AISBL 
+Technical Committee 
+523 Avenue Louise, 1050 Brussels, Belgium 
+www.ehima.com 
+ 
+Response to the European Commission’s 
+public consultation on a new “Cyber 
+Resilience Act” regulation for digital 
+products and ancillary services 
+ 
+Dear Sir or Madam, 
+The European Hearing Instrument Manufacturers Association (EHIMA) welcomes the opportunity to 
+respond to the Public consultation of the European Commission on the Cyber Resilience Act (CRA), which 
+aims to establish a regulation for digital products and ancillary services on the European market. Our 
+specific comments and views are provided below. 
+Introduction 
+A new European Cyber Resilience Act aims to introduce essential Cybersecurity requirements for 
+manufacturers and vendors of tangible wireless and wired digital products (e.g., end devices such as 
+sensors and cameras, smart cards, mobile devices, or network devices such as routers and switches), 
+intangible digital products (e.g., non-embedded software) and ancillary services. 
+• ‘Digital product’ covers both hardware and software products, including software that can be made 
+available without hardware (non-embedded software).                      
+o A ‘hardware product’ is defined as any device or group of interconnected or related 
+devices, one or more of which, using a program, perform automatic processing of digital 
+data. 
+o A ‘software product’ is defined as an intangible good that processes digital data, stored, 
+retrieved or transmitted by a hardware device. 
+• ‘Ancillary service’ means a (digital) service, the absence of which would prevent the tangible 
+product from performing its functions. 
+Ref. Ares(2022)3850618 - 21/05/2022
+ 
+2 
+ 
+The current EU framework does not cover all types of digital products (e.g., hardware not falling under the 
+MDR (Medical Device Regulation), non-embedded software products).  
+About EHIMA 
+EHIMA represents the major European hearing instrument manufacturers, offering smart hearing aid and 
+implant solutions for people hard of hearing. 
+EHIMA was founded in 1985 and its members are among the world’s largest and most advanced hearing 
+instrument manufacturers, producing up to 90% of the hearing instruments manufactured in Europe. 
+Members of EHIMA develop, manufacture and market hearing instruments on a large scale in one or more 
+countries in Europe as well as exporting their products worldwide. 
+In September 2021, the EHIMA Cybersecurity Working Group published a new whitepaper about best 
+practices for secure fitting of hearing devices to strengthen security and resilience of the entire hearing 
+care ecosystem. The whitepaper can be found on EHIMA’s webpage under “Technical Documents”: 
+https://www.ehima.com/wp-content/uploads/2021/09/EHIMA_Cybersecurity-FSW-Security-
+Whitepaper_v1-Sep2021.pdf. 
+Current state of cybersecurity in the medical device industry  
+Medical device manufacturers operate in a highly regulated industry. The importance of cybersecurity in 
+the medical device domain has been recognized by regulators, medical device manufacturers, healthcare 
+delivery organizations, and other relevant stakeholders across the globe. In order to get their medical 
+devices approved by regulators, medical device companies must comply with applicable cybersecurity 
+regulations and maintain compliance. A number of EU regulations, standards and guidelines already 
+address the cybersecurity of medical devices. For example: 
+• Regulations: 
+o Medical Device Regulation (MDR) (i.e., Regulation (EU) 2017/745), 
+o In Vitro Diagnostic Medical Device Regulation (IVDR), 
+• Standards: 
+o IEC 81001-5-1:2021 Health software and health IT systems safety, effectiveness and 
+security – Part 5-1: Security – Activities in the product life cycle, 
+o IEC 80001-1:2021 Application of risk management for IT-networks incorporating medical 
+devices – Part 1: Safety, effectiveness and security in the implementation and use of 
+connected medical devices or connected health software, 
+o IEC 82304-1:2016 Health software – Part 1: General requirements for product safety, 
+• Guidelines: 
+o MDCG 2019-16 Guidance on Cybersecurity for medical devices, 
+o IMDRF Principles and Practices for Medical Device Cybersecurity, 
+o Technical Guideline BSI TR-03161 Security requirements for eHealth applications, Trial Use, 
+ 
+3 
+ 
+o ANSM’S GUIDELINE Cybersecurity of medical devices integrating software during their life 
+cycle, Draft, 
+• Technical (information) reports: 
+o AAMI TIR57:2016/(R)2019 Principles for medical device security – Risk management, 
+o AAMI TIR97:2019, Principles for medical device security – Postmarket risk management for 
+device manufacturers, 
+o IEC TR 60601-4-5:2021 Medical electrical equipment – Part 4-5: Guidance and 
+interpretation – Safety-related technical security specifications, 
+o ISO/TR 80001-2-6:2014 Application of risk management for IT-networks incorporating 
+medical devices – Part 2-6: Application guidance – Guidance for responsibility agreements 
+• Other publications: Playbook for Threat Modeling Medical Devices 
+(https://www.mitre.org/sites/default/files/publications/Playbook-for-Threat-Modeling-Medical-
+Devices.pdf), etc. 
+There are different cybersecurity standards available, each focusing on different aspects. Unfortunately, 
+there is no single standard which a consumer or a medical device manufacturer can rely on. 
+In the EU, Cybersecurity of medical devices falls within the scope of the MDR and covers the total device 
+lifecycle. The MDR requires medical device manufacturers to develop and manufacture their products in 
+accordance with the state of the art considering the principles of risk management, including information 
+security, as well as to set out minimum requirements concerning IT security measures, including protection 
+against unauthorized access. Cybersecurity requirements listed in Annex I of the MDR, deal with both 
+premarket and postmarket aspects. Therefore, our understanding is that medical devices are excluded from 
+the Cyber Resilience Act. 
+Concern of EHIMA 
+As medical device manufacturers, EHIMA members have the following concern with regards of the Cyber 
+Resilience Act: 
+• It is unclear how medical device manufacturers can demonstrate compliance of their non-medical 
+products and services with non-medical regulations such as the Cyber Resilience Act. There is a 
+potential risk that a manufacturer will have to follow different processes for medical and non-
+medical devices, resulting in increased complexity of the processes without additional value for the 
+customer. 
+Explanation of the concern 
+Besides medical devices (such as hearing aids and software applications), EHIMA members bring into the 
+market also non-medical ICT products, software and services. Essential cybersecurity requirements for 
+medical devices are covered by Medical Device Regulation (EU) 2017/745 (MDR). Our understanding is that 
+EU Commission intends to impose essential cybersecurity requirements on non-medical ICT products 
+through the Cyber Resilience Act. That would imply that EHIMA members (and likely many other medical 
+device manufactures) would have to demonstrate compliance to both regulations, which may mean for 
+ 
+4 
+ 
+EHIMA members undesirable relations between the regulations as described below. From EHIMA’s point of 
+view it appears to be important how such a double compliance will be implemented.  
+Undesirable relations between the essential cybersecurity requirements imposed by the two regulations 
+are shown in Figures 1 and 2 below.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Figures 3 and 4 show desirable relationships between the essential cybersecurity requirements imposed by 
+CRA and MDR. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MDR 
+requirements 
+CRA 
+requirements 
+MDR 
+requirements 
+CRA 
+requirements 
+MDR 
+requirements 
+CRA 
+requirements 
+Harmonized  
+(CRA = MDR) 
+“horizontal” requirements 
+Figure 1: No common requirements at all. 
+Figure 2: A subset of requirements is the same, but there are 
+some CRA requirements which are not equivalent to MDR 
+requirements. They represent additional burden on medical 
+device manufacturers marketing also non-medical ICT products. 
+Figure 3: The most desirable relation between CRA and MDR: CRA 
+requirements are fully covered by (is a subset of) MDR 
+requirements. In other words, MDR requirements complement CRA 
+requirements. 
+Figure 4: Another acceptable option: Same common requirements 
+for all medical and non-medical ICT products. I.e. CRA requirements 
+are the same as MDR requirements. A risk-based approach is used 
+to ensure compliance with cyber security requirements. 
+ 
+5 
+ 
+ 
+Proposals 
+Medical device manufacturers have established quality management systems to help ensure that their 
+medical devices and related services meet applicable requirements and specifications. ISO 13485 standard 
+is the basis for quality management systems in the medical device industry. Since cybersecurity is a process 
+which is integrated into a quality management system, the quality management system ensures that 
+cybersecurity has been addressed for all products and services. An additional compliance imposed by the 
+Cyber Resilience Act shall not interfere with the existing MDR legislation.  
+IEC 82304-1 standard addresses the safety and security of health software products designed to operate on 
+general computing platforms and intended to be placed on the market without dedicated hardware. 
+Software as part of a medical device is addressed by IEC 62304 standard. Security of software as part of 
+specific health hardware can be addressed by integrating security activities into the product life cycle as 
+recommended by IEC 81001-5-1 standard. 
+General comments 
+We would like to bring to your attention that the cybersecurity industry is facing an ongoing shortage of 
+qualified cybersecurity personnel in Europe and beyond. Any initiatives on the European market that 
+address these challenges are highly welcome. 
+ 
+ 
+Sincerely, 
+EHIMA Technical Committee 
+ 

@@ -1,0 +1,279 @@
+ 
+ 
+ 
+BSI Group The Netherlands B.V.  +31 (0)20 346 0780   
+Say Building, John M. Keynesplein 9  info.nl@bsigroup.com 
+1066 EP Amsterdam 
+The Netherlands   
+bsigroup.com 
+ 
+ 
+BSI. All rights reserved. © 2024 
+ 
+BSI GROUP RECOMMENDATIONS FOR THE AI OMNIBUS 
+ 
+ 
+Introduction 
+BSI Group is providing this position paper in response to the European Commission’s AI Omnibus proposal. 
+Our objective is to highlight potential impacts on the operations, capacity, and effectiveness of notified 
+bodies, and to provide constructive recommendations to ensure that the AI Act remains workable, consistent, 
+and aligned with existing regulatory frameworks. 
+BSI Group is a global organisation providing independent conformity assessment, testing, certification, and 
+regulatory services to support safe and compliant market access worldwide. With over 30 years of experience 
+as a full-scope EU Notified Body, UK Approved Body, MDSAP Auditing Organisation, ISO 13485 Certification 
+Body, and Registered Certification Body for the PMDA, BSI supports conformity assessment in more than 12 
+countries. Through its Notified Body (NB 2797), BSI delivers rigorous third-party assessments across multiple 
+regulated sectors. 
+Removal of dataset testing for Annex I Section A products 
+The AI Omnibus amends Article 43 (3) on how high-risk AI systems that are part of products regulated under 
+existing Union harmonisation legislation (Annex I, Section A) are assessed. Under the revised text, these 
+systems continue to follow the conformity assessment procedures of the relevant sectoral legislation, while 
+also applying the AI Act requirements. The assessment of the AI Act quality management system under 
+Article 17 and Annex VII still applies. 
+However, the Omnibus removes the references to points 4.3., 4.4., 4.5. and the fifth paragraph of point 4.6 
+of Annex VII related to the assessment of training, validation and testing datasets. As a result, notified bodies 
+assessing Annex I Section A products will no longer be allowed to review or test datasets as part of the 
+conformity assessment.  
+This change means that independent third-party oversight of dataset-related risks for these Annex I Section 
+A high-risk AI systems will be more limited. Without the possibility for notified bodies to review and 
+test datasets there is a risk that systemic issues such as bias, data gaps or inappropriate data 
+use may go undetected, particularly in sectors where AI outputs can directly affect health, 
+safety or fundamental rights. Maintaining an appropriate level of third-party scrutiny over dataset-related 
+risks is therefore essential to preserve trust and ensure that AI Act safeguards remain effective in practice. 
+Recommendation:  
+- Restore in Article 43(3) the references to points 4.3, 4.4, 4.5 and the fifth paragraph of point 4.6 
+of Annex VII, so that notified bodies can assess the training, validation and testing datasets for 
+Annex I Section A high-risk AI systems. 
+ 
+Ref. Ares(2026)2599907 - 10/03/2026
+
+ 
+BSI Group The Netherlands B.V.  +31 (0)20 346 0780   
+Say Building, John M. Keynesplein 9  info.nl@bsigroup.com 
+1066 EP Amsterdam 
+The Netherlands   
+bsigroup.com 
+ 
+BSI. All rights reserved. © 2024 
+ 
+2 
+Single application and assessment procedure for notified bodies 
+Article 28(8) aims to simplify the designation process for notified bodies by allowing a single application and 
+a single assessment for designation under both the AI Act and sectoral legislation listed in Annex I, Section 
+A (such as medical devices, in vitro diagnostics, machinery, or radio equipment). This objective is welcome, 
+as it could reduce duplication, shorten designation timelines, and support a faster build -up of notified body 
+capacity for AI systems. 
+Article (28) also states the possibility to submit a single application for designation “where the relevant Union 
+harmonisation legislation provides for such single application  and single assessment procedure”. However, 
+in some of the sectorial legislations covered in AI Act Annex I section A, there is no such option. For example, 
+the Medical Devices Regulation’s  Article 38(2) clearly states that in the application for designation “shall 
+specify the conformity assessment activities as defined in this Regulation”. 
+While the proposal allows notified bodies to reuse existing designation documentation and certificates 
+obtained under sectoral legislation (Article 29(4)), in practice this reuse may  be limited for the following 
+reasons: 
+- Conformity assessment under the AI Act , found in Annex VII,  differs significantly from routes to 
+conformity under sectoral laws. AI conformity assessments focus on issues such as datasets testing 
+and validation, data governance, bias, AI logs, human oversight, post -market monitoring during the 
+AI lifecycle etc., areas not fully addressed under existing sectoral  designations. As a result, notified 
+bodies must demonstrate new competences, procedures, and capabilities specific to AI. 
+- AI Act Article 31 introduces additional requirements to n otified bodies, not to be found in other 
+sectorial legislations. Some of the additional requirements dictated in AI Act are: Article 31(11) on 
+competence of personnel , including legal personnel, Art icle 31(12) coordination activities, Article 
+31(2) cybersecurity requirements, and testing capabilities (Annex VII, points 4.3, 4.4, 4.5 and fifth 
+paragraph of point 4.6) 
+Therefore, to ensure harmonisation of notified bodies  designated under the AI Act, it is important to 
+emphasise that the single application and reuse of documents and certificates (Article 29, par. 4 of Omnibus 
+proposal), should not override the AI Act requirements for notified bodies. Article 29, paragraph 4, in the last 
+paragraph supports this argument by stating “monitor and verify continuous compliance with all the 
+requirements laid down in Article 31”. However, the emphasis is on already designated notified bodies under 
+other Union harmonisation legislation, and reference to Article 31 excludes Annex VII requirements as stated 
+in Annex VII section 4.4 : “the notified body shall itself directly carry out adequate tests, as 
+appropriate”. 
+Article 43(3) second paragraph, states that notified bodies already designated under sectoral legislation shall 
+assess high-risk AI systems if their compliance with Article 31(4) independence, (5) impartiality, (10) integrity 
+and (11) competent personnel has been assessed in the context of sectoral notification. For independence, 
+impartiality and integrity, sectoral requirements are similar and have been already assessed. However, Article 
+31(11) on competent personnel raises practical questions. For example, an MDR notified body was assessed 
+ 
+BSI Group The Netherlands B.V.  +31 (0)20 346 0780   
+Say Building, John M. Keynesplein 9  info.nl@bsigroup.com 
+1066 EP Amsterdam 
+The Netherlands   
+bsigroup.com 
+ 
+BSI. All rights reserved. © 2024 
+ 
+3 
+for staff competent to assess medical devices, not AI -specific risks or systems . The AI Act introduces new 
+competences that were not part of the original sectoral designation, because AI Act did not exist at the time.  
+At the same time, the AI Omnibus introduces a requirement in Article 43(3) for those notified bodies to apply 
+for designation under the AI Act within 18 months. However, the text does not clearly specify which activities 
+sectoral notified bodies may perform during those 18 months, nor whether authorities may still require a full 
+AI Act designation even within the 18 months' timeframe.  
+More broadly, imposing a fixed deadline for AI Act designation may limit the ability of notified bodies to plan 
+their activities based on actual demand, capacity and strategic priorities. Notified bodies need sufficient 
+flexibility to build AI-specific expertise without being forced into premature or rushed designation processes 
+that could strain resources and affect assessment quality. 
+BSI Group recognises that notified bodies designated under sectorial law will ultimately need to be designated 
+under the AI Act in order to carry out AI Act conformity assessments. However, this designation should 
+be treated as scope extension, not as a full re -designation. Existing notified bodies have already 
+demonstrated compliance with core requirements such as independence, impartiality , integrity, governance 
+and documented procedures , and have long -standing experience in complex conformity assessment 
+activities. These elements should be recognised as a baseline. 
+AI Act designation should therefore focus on demonstrating AI-specific competences, including the 
+relevant competency codes introduced by the AI Omnibus in Annex XIV and the ability assess training, 
+validation and testing datasets in line with Annex VII. Assessing only these additional elements would avoid 
+unnecessary duplication, reduce administrative burden for notifying authorities and notified bodies, and 
+support a faster and more consistent build-up of notified body capacity under the AI Act. 
+ 
+Recommendations: 
+- Clarify how under Articles 28(8) and 29(4) the notified bodies  designated under the Union 
+harmonisation legislation listed in Section A of Annex I, can apply for designation with existing 
+documentation, while satisfying AI Act Article 31 and Annex VII requirements on testing datasets 
+and AI models. 
+- Clarify how Article 28(8) and Article 43(3) should operate in practice, including what activities 
+sectoral notified bodies may perform during the 18-month period prior to AI Act designation. 
+- Treat AI Act designation for already -notified sectoral bodies as a scope extension, not a full re -
+designation. 
+- Provide clear guidance to notifying authorities to ensure consistent application across Member 
+States and avoid duplication. 
+- Ensure sufficient flexibility in designation timelines to allow notified bodies to build AI expertise in 
+a structured and sustainable way. 
+ 
+ 
+ 
+BSI Group The Netherlands B.V.  +31 (0)20 346 0780   
+Say Building, John M. Keynesplein 9  info.nl@bsigroup.com 
+1066 EP Amsterdam 
+The Netherlands   
+bsigroup.com 
+ 
+BSI. All rights reserved. © 2024 
+ 
+4 
+Role of Notified Bodies in GPAI Assessments 
+Article 75.1c proposes to give the AI Office exclusive responsibility for the supervision and enforcement of 
+certain AI systems based on general-purpose AI (GPAI), excluding systems covered in Annex I. The AI Office 
+is also entrusted with this responsibility for AI systems that constitute or that are integrated into a designated 
+very large online platform or very large online search engine.  
+For high -risk AI systems falling under this scope and subject to third- party conformity assessment, the 
+Commission would organise and carry out pre-market conformity assessments and tests. The proposal further 
+states that the AI Office “may entrust” these assessments to notified bodies designated under the AI Act, 
+with notified bodies acting on behalf of the Commission. 
+This provision has the potential to create a new and important role for AI notified bodies. Notified bodies 
+have long -standing experience in performing independent, technical conformity assessments under EU 
+product legislation. They operate under strict requirements of independence and impartiality and have 
+established methodologies for complex technical assessments. Involving notified bodies in GPAI assessments 
+could therefore strengthen oversight, improve scalability, and support consistent enforcement across the EU. 
+However, the proposal lacks clarity on how this mechanism will work in practice.  
+First, the role of notified bodies in this process is not clearly defined. It is unclear whether they would perform 
+a full conformity assessment equivalent to Article 43 procedures, whether they would conduct specific 
+technical tests only, or whether they would act as technical advisors to the AI Office. The legal status of the 
+outcome is also uncertain. It is not specified whether a positive assessment would lead to CE marking, replace 
+or complement an Article 43 certificate, or constitute a separate authorisation decision by the Commission. 
+Second, the proposal does not clarify how notified bodies would be selected when entrusted with 
+assessments. Given that multiple notified bodies may be designated under the AI Act across different Member 
+States and sectors, transparent criteria and procedu res for selection will be necessary to ensure equal 
+treatment, avoid fragmentation, and preserve trust in the system. 
+Third, Article 75.1c refers to pre-market conformity assessments for high -risk AI systems, which appear to 
+verify compliance before placing the system on the market. This raises important questions regarding the 
+interaction with Article 43, which already establishes conformity  assessment procedures for high -risk AI 
+systems. Without clarification, there is a risk of duplication, parallel assessments, or inconsistent outcomes 
+between Commission-led procedures and notified body conformity assessments under Article 43. 
+The proposal also raises questions about capacity and resourcing. The AI Office is still in the process of 
+becoming fully operational. Adding direct responsibility for pre -market conformity assessments of complex 
+and highly technical GPAI systems will require significant additional expertise and resources. A structured 
+and predictable involvement of notified bodies could mitigate the risk of bottlenecks, delays, and legal 
+uncertainty for providers. 
+A clearer and more structured model is therefore needed. Third-party conformity assessment should not be 
+treated as an ad hoc option, but as a core part of GPAI oversight. Notified bodies should carry out 
+independent technical conformity assessments, while the AI Office focuses on coordination, 
+ 
+BSI Group The Netherlands B.V.  +31 (0)20 346 0780   
+Say Building, John M. Keynesplein 9  info.nl@bsigroup.com 
+1066 EP Amsterdam 
+The Netherlands   
+bsigroup.com 
+ 
+BSI. All rights reserved. © 2024 
+ 
+5 
+consistency, and enforcement oversight. This separation of roles would strengthen checks and balances 
+and enhance legal certainty. 
+ 
+Recommendations: 
+- Clearly define the role of notified bodies under Article 75(1c), including whether they perform full 
+conformity assessments, specific testing activities, or advisory functions.  Clarify the legal status 
+and effect of assessments performed on behalf of the Commission, including their relationship with 
+CE marking and Article 43 conformity assessment certificates. 
+- Establish transparent and objective criteria for selecting notified bodies entrusted with GPAI 
+assessments. 
+- Ensure coherence between Article 75.1c and Article 43 to avoid duplication or parallel conformity 
+assessment procedures. 
+- Embed notified body involvement as a structured and predictable element of GPAI governance, 
+rather than a discretionary or ad hoc option. 
+ 
+Harmonised standards and application dates 
+BSI Group is concerned about the proposal to link the applicability of AI Act obligations to the availability of 
+harmonised standards. The use of harmonised standards is voluntary, and their development timelines are 
+uncertain. Making the application of legal obligations conditional on their availability risks creating significant 
+legal and operational uncertainty for providers, authorities and notified bodies. While we recognise the real 
+implementation challenges faced by Member States, any postponement of  the AI Act should remain strictly 
+limited in time and clearly defined. Open- ended or conditional delays risk prolonging uncertainty and 
+weakening confidence in the regulatory framework. 
+Delaying the application of the AI Act also delays the implementation of essential safeguards for high-risk AI 
+systems. As a result, consumers and users remain exposed for longer to risks related to transparency, 
+accountability and fundamental rights, without the protections foreseen by the AI Act. 
+Delayed applicability also slows the effective mobilisation of notified body capacity. BSI Group is  already 
+investing in AI expertise, procedures and technical capabilities to support compliance with the AI Act. 
+Prolonged uncertainty about when obligations apply risks discouraging investment, fragmenting 
+preparedness across Member States, and ultimately delaying the availability of notified bodies when the AI 
+Act becomes applicable. 
+BSI Group therefore supports the introduction of clear “hard backstops” for the application of high- risk 
+requirements. Fixed dates provide a common planning horizon, enable investment decisions, and allow 
+notified bodies to scale capacity in a predictable way. 
+ 
+ 
+ 
+BSI Group The Netherlands B.V.  +31 (0)20 346 0780   
+Say Building, John M. Keynesplein 9  info.nl@bsigroup.com 
+1066 EP Amsterdam 
+The Netherlands   
+bsigroup.com 
+ 
+BSI. All rights reserved. © 2024 
+ 
+6 
+Recommendations: 
+- Do not link the applicability of AI Act obligations to the availability or application of harmonised 
+standards, given their voluntary nature and uncertain timelines. Standards should support 
+compliance, not delay it. 
+- Keep any postponement of AI Act obligations strictly limited in time and clearly defined, avoiding 
+open-ended or conditional delays. 
+ 
+Integrity of Annex I and the New Legislative Framework 
+BSI Group notes that proposals have been tabled in the European Parliament to move the legislations listed 
+in Annex I Section A to Section B of the AI Act. Such a change was not part of the AI Omnibus proposal but 
+originates from discussions in the context of the MDR/IVDR simplification. Transferring these legislations to 
+Section B would fundamentally alter the horizontal logic of the AI Act and weaken its alignment with the New 
+Legislative Framework. In particular, it would reduce the role of harmonised st andards and notified bodies, 
+increase reliance on future sector-specific amendments by the Commission, and risk regulatory fragmentation 
+and legal uncertainty. BSI therefore considers that the structure of Annex I should remain 
+unchanged to preserve coherence, predictability, and the integrity of the existing conformity 
+assessment system. 
+Recommendation:  
+- Maintain the current structure of Annex I and refrain from moving Section A legislations to 
+Section B, in order to preserve the horizontal nature of the AI Act.  
+ 
+Conclusion 
+BSI Group welcomes the AI Act’s objectives to ensure safe and trustworthy AI but stresses that notified 
+bodies play a critical role in delivering independent, technical oversight. To safeguard legal certainty, 
+scalability, and effective implementation, BSI  recommends clarifying the role of notified bodies, preserving 
+assessment of training, validation and testing datasets, maintaining existing Annex I structures, and avoiding 
+conditional delays tied to harmonised standards. These measures will strengthen AI  governance, protect 
+end-users, and enable notified bodies to contribute effectively to the regulatory framework. 
+ 
+ 
+ 
+ 
+ 

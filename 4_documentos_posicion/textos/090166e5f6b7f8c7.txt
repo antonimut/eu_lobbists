@@ -1,0 +1,104 @@
+Cyber Resilience ActproposalCSA PSWG Feedback
+Product Security Working Group (CSA PSWG)
+Draft:Version 1.0.0Last Updated:January 18, 2023
+Ref. Ares(2023)513214 - 23/01/2023
+Table of Contents
+INTRODUCTION
+3WHOWEARE
+, WHATWEDO
+3WHATWEARETHRILLEDFOR
+3
+THE
+CRAPROPOSAL
+5RECITAL
+(15): DELEGATED
+REGULATION
+(EU) 2022/30 5ARTICLE
+7: GENERALPRODUCTSAFETY
+5ARTICLE
+18: PRESUMPTIONOFCONFORMITY
+5ARTICLE
+18.3: CYBER
+SECURITY
+ACTAS EVIDENCEOFCONFORMANCE
+5ARTICLE
+10: OBLIGATIONSOFMANUFACTURERS
+6ARTICLE
+10.3 6ARTICLE
+10.4 6ARTICLE
+11: REPORTINGOBLIGATIONSOFMANUFACTURERS
+7ARTICLE
+24: CONFORMITYASSESSMENTPROCEDURESFORPRODUCTSWITHDIGITALELEMENTS
+7ANNEX I: ESSENTIAL CYBERSECURITY REQUIREMENTS 81. SECURITY
+REQUIREMENTS
+RELATING
+TO
+THE
+PROPERTIES
+OF
+PRODUCTS
+WITH
+DIGITAL
+ELEMENTS
+82. VULNERABILITY
+HANDLING
+REQUIREMENTS
+8ANNEX
+III: CRITICAL
+PRODUCTS
+WITH
+DIGITAL
+ELEMENTS
+9
+Page2of9
+Introduction
+Who we are, what we do
+The Connectivity Standards Alliance, formerly the Zigbee Alliance, is the foundation andfuture of the Internet of Things (IoT). The international community of more than 550technology companies committed to open standards for the Internet of Things.Established in 2002, its wide-ranging global membership collaborates to create andevolve universal open standards for the products transforming the way we live, workand play. With its Members’ deep and diverse expertise, robust certification programs,and a full suite of open IoT solutions the Alliance is leading the movement toward amore intuitive, imaginative, and useful world. The Connectivity Standards Alliance boardof directors is comprised of executives fromAmazon,Apple, ASSA ABLOY, Comcast,Google, Huawei, IKEA, Infineon, The Kroger Co., LEEDARSON, Legrand, LutronElectronics, NXP Semiconductors, OPPO, Resideo, Schneider Electric, Signify(formerly Philips Lighting),Silicon Labs, SmartThings,Somfy, STMicroelectronics, TexasInstruments, Tuya, and Wulian. Find out more aboutthe Alliance atCSA-iot.org.
+Security in the Internet of Things is a critical priority, and one the Alliance and itsmembers continually work on and evolve as a main component of our standards andconsumer protection. We believe security is the “enabler” of the IoT and must addressuser concerns adequately to protect and safeguard networks, and privacy and providepeace of mind when deploying products. The best-laid path is through open and securemethods, and we embrace that approach even more as our organization grows instandards and IoT experiences delivered around the globe.
+The Connectivity Standards Alliance announced in October 2022 the release of theMatter 1.0 specification and the opening of the Matter certification program. Membercompanies that make up all facets of the IoT now have a complete program for bringingthe next generation of interoperable products that work across brands and platforms tomarket with greater privacy, security, and simplicity for consumers.
+What we are thrilled for
+Back in 1970, leading environmentalists around the world banded together to drawattention to topics like pollution and their impacts on society. Today that global effort tobe kinder to the planet is reinforced in more than 190 countries on Earth Day. Fast forward to 2022, and we have another global problem with the potential to impactnearly every human on the planet: IoT Cybersecurity. October is recognized in abouttwo dozen countries as Cybersecurity Awareness Month. But, given the growth in theInternet of Things (IoT) and the billions of connected devices around the world, we needto broaden our spotlight from laptops, desktops, and servers to the rapidly growingmarket of IoT products and services. In a recent analyst report from IoT Analytics
+1
+, there
+1
+Global IoT Market Forecast, IOT ANALYTICS, May 2022https://iot-analytics.com/number-connected-iot-devices/
+Page3of9
+was an 8 percent increase in global IoT connections in 2021, and in 2022 it is expectedto grow an additional 18 percent to more than 14 billion active connections.
+Without solid cybersecurity, IoT products can endanger their users by being potentiallycompromised leading to data theft, malfunction, or an invasion of privacy. CompromisedIoT devices can even cause major disruptions on a greater level by joining “botnets” thatswarm websites or internet infrastructure.
+The Connectivity Standards Alliance, Product Security Working Group (CSA PSWG)wants to acknowledge the effort made by the European Commission aiming to build amore cyber resilience society. In particular with regards to the Proposal for aREGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL onhorizontal cybersecurity requirements for products with digital elements and amendingRegulation (EU) 2019/1020, or “CRA” (Cyber Resilience Act) proposal in the context ofthis document, the CSA PSWG wants to highlight the following points:
+● Risk-based approach for product categories proposed by the CRA is a positivestep addressing State-Of-The-Art (SOTA), as fit-for-purpose, contextual securityimplementations specific to product use cases● Complementary regulation rather than overregulation, in the spirit of the EUCommission's “Better Regulation” approach, reduces the burden formanufacturers to comply with the cyber security regulation compliance stack.● Cyber Security Act schemes adoption as evidence of conformance, as anexample of the intention to apply efficiently both, regulations and standardsalready available to show conformance with the future CRA requirements.● Potential MRAs with other countries is one of the most welcome additions,considering one major obstacle to adoption is fragmentation, and in that regard,there is a large fragmentation of regulatory compliance requirements in the areaof IoT security.
+Page4of9
+The CRA proposal
+Recital (15): Delegated Regulation (EU) 2022/30
+The short life of RED harmonized standards under development by the EuropeanStandardisation Organizations, it’s a matter of concern for the industry. While the CRAproposal aims to utilize the current work from ESOs in the CRA harmonized standardscreation, the fact is that those are not taken into account now. An example of this is theessential requirements laid down by the CRA proposal includes all the elements of theessential requirements referred to in Article 3(3), points (d), (e), (f), and(i)of Directive2014/53/EU. While Article3.3(i)is not activatedand not clear if it will be activated aheadof the CRA implementation.
+Furthermore, the creation of harmonized standards has shown a development cycle ofmore than a year. Considering the large number of products under the scope of CRA,this will add more complexity to the developments from ESOs. For this reason, CSAPWG recommends the commission address ESOs as early as possible to work on theharmonized standards for CRA and when possible, to consider them under the currentactivities by RED to reduce the risk.
+Article 7: General product safety
+CSA PSWG recommends the commission generate interoperability guidance to supportmanufacturers to address the intersection areas of regulation. Moreover, beyond theGeneral Product Safety regulation, this guidance should consider interoperabilitybetween CRA and regulations like the Ecodesign for Sustainable Products Regulationand the proposed liability act since in all those cases, CRA plays a key role for everyproduct with digital elements on the scope of the other regulations.
+Article 18: Presumption of conformity
+Article 18.3: Cyber Security Act as evidence of conformanceAs indicated in the introduction, CSA PSWG welcomes the applicability of cybersecuritycertifications as evidence of conformance to the CRA essential cybersecurityrequirements. Additionally, CSA PSWG wants to bring to the attention of thecommission the following points:● Levels of assurance and Class products: Guidance is required for matchingequivalences between the levels of assurance as per the Cyber Security Act(CSA) and the CRA since there is a gap in the interpretation between levels ofHigh, Substantial, and Basic from CSA versus the Classes defined by CRA.● Certification map against conformance: While the CRA indicates “shall bepresumed to conform with the essential requirements set out in Annex I in so faras the EU statement of conformity or cybersecurity certificate, or parts thereof,cover those requirements.”, CSA PSWG recommends thecommission the
+Page5of9
+generation of guidance by ESO’s, ENISA or expert ad-hoc groups, to which CSAPSWG gladly contribute.● Lack of specific IoT schemes: Approved in 2019, by the end of 2022 the CSA hastwo scheme candidates from where one applies to the CRA objectives, EUCC.Moreover, EUCC is well suited for critical and highly critical products but notnecessarily for products in Class 0, Class I, and even Class II. Additionally, thecreation of schemes under CSA has proven to take more than 2 years and allthis combined creates a vacuum in the CRA implementation utilizing CSAschemes. CSA PSWG recommends the commission revise the Union RollingWorking Plan (URWP) addressing the need for specific CSA schemes in the areaof IoT devices, particularly for basic and substantial CSA levels.
+Article 10: Obligations of manufacturers
+Article 10.3Given the state of affairs in the industry, where manufacturers are in the process ofbuilding the digital maturity for addressing cyber security of their products, a veryimportant element of guidance. This is particularly relevant for manufacturers ofnon-critical products, sometimes referred to as Class 0 products. As thosemanufacturers might have never been exposed to this kind of activities, CSA PSWGrecommends the creation of guidance for self-assessments for manufacturers ofproducts from Class 0 through ESOs, ENISA of ad-hoc groups where CSA PSWG willgladly contribute.Article 10.4This article, as well as the recital (37) and the definition of ‘product with digital elements’from Article 3.1, acknowledge that some products with digital elements can becomposed out of individual hardware and software components. Some of thosecomponents are cataloged as ‘products with digital elements’ as per the examples fromAnnex III. One scenario could be a smart bulb, composed of components like anoperating system and a microcontroller.
+Under this scenario, it’s important to acknowledge some important elements:● For devices, like the smart bulb in the example above, the security capabilities ofthe device are the inheritance of the security functionality of the components.Meaning, that the reusability of the evidence of the security capabilities of thecomponents can serve as evidence of conformance to the security requirementsof the device. This is called composition.● The risk model is different between components that can be used across a largenumber of devices from different manufacturers, versus the risk model ofindividual products from single vendors.● Requiring device manufacturers who rely on the security capabilities formcomponents to show conformance represents technical, economic, and businessburdens that could be addressed utilizing smart composition.
+It’s for the above reasons that CSA PSWG recommends the commission to (a)acknowledge the existence and value of composition and (b) indicate smart compositionas means of conformance to be considered in the development of harmonized
+Page6of9
+standards, or by re-utilization of security evidence from scheme certifications from CSAfor components.
+Article 11: Reporting obligations of manufacturers
+Article 11.1 requires manufacturers to report to ENISA within 24 hours. CSA PSWGproposes the commission revise this requirement and consider instead 72 hours underthe following rationale:● The NIS2 Directive, working on the area of critical infrastructure, overlapping withthe CSA for critical and highly critical products, leaves this reporting time in thehands of delegated acts. Meaning, that not oven highly critical products withdigital elements have to report in 24 hours as standards● The GDPR uses 72 hours for reporting data breaches and considering somecyber incidents can fall under this category, it’s advisable to align the reportingtime as GDPR will apply to all products under the CRA scope.● It’s important to acknowledge the market dynamics. When the vulnerability isreported of a component, as it’s part of the CRA scope, the end devicemanufacturer will first study it, analyze it and take action to address the potentialvulnerability caused by the component in the device. 24 hours won’t be enoughtime for any of this resulting in a continuous failure to comply even with bestefforts.
+Article 22: Rules and conditions for affixing the CE markingVisibility of the actual security and state of security is required beyond what the CEmarking can communicate to the market. Besides, there is a risk to deliver the wrongmessage as the use of CE marking is the same security for products, regardless of itsrisk or Class category, security functionality, use case, or strength of the securityimplementations.
+CSA PSWG recommends the commission consider a complementary security label,next to the CE marking, for purposes of identification, communication, and education tothe market about the resilience of the security capabilities of products with digitalelements.
+Article 24: Conformity assessment procedures for productswith digital elements
+Based on the experiences on the development of harmonized standards, like in thecase of the Delegated Act for RED Article 3(3), points (d), (e), and (f), as well thedevelopment of Security Certification Schemes under the CSA like the EUCC, CSAPSWG suggest the commission to consider the utilization of private certificationschemes, with the proper rationale, as evidence of conformance for the CSA essentialrequirements. This provides an additional benefit and incentive for manufacturers toperform such assessments because the alternative will be to perform similar activitiesTWICE, once for conformance with CRA and the other specific to the verticalrequirements of the industry.
+Page7of9
+ANNEX I: ESSENTIAL CYBERSECURITY REQUIREMENTS
+1. Security Requirements Relating To The Properties Of Products With DigitalElements1. (3)(c), (b), and (e) address elements related to privacy and under the context of theGDPR concerning the protection of data at rest, at transit, and encryption. CSA PSWGrecommends an alignment with the European Data Protection Board (EDPB)concerning the applicability of the CRA implementation for evidence of conformancewith GDPR technical requirements and alignment among those regulations in this area.
+1. (1) Refers to the “appropriate level of cybersecurity”.CSA PSWG recommendsdocumenting, providing guidance, and explicitly indicating in the harmonized standardsthe criteria to be applied. While there are already best practices in the industry toidentify the “appropriate level of cybersecurity”,in its current form is open tointerpretation and therefore it’s not clear for a manufacturer.
+1. (2) requires “Products with digital elements shallbe delivered without any knownexploitable vulnerabilities”. This calls for two pointsof attention:● It’s important to acknowledge the impact of this requirement on the supply chainof products as reflected in Articles 10, 11, 12, 13, and 14. The enforcement ofthis requirement will bring to a standstill the commercial operation if avulnerability is discovered once the product is on the field. CSA PSWGrecommends changing the language to acknowledge (a) the goal is to preventproducts to be placed in the market if there is a known vulnerability, (b) once theproduct is in the field, the manufacturer’s obligation is to address the vulnerabilityaccording to 2. (2) (see additional comments below) and (c) products with remoteupdate capabilities will be to address this requirement at different points of thelife cycle and therefore the product could be updated even if they are deliveredwith vulnerabilities not detected at the time of manufacturing, but in a later stagelike at distribution or the retailer's shelf.● The definition of “known exploitable vulnerabilities”should be put in the context ofthe source of knowledge. CSA PSWG recommends linking this requirement tothe text from the recital (34), making the future European vulnerability databaseestablished under NIS2 and managed by ENISA the source of truth.
+1. (3)(a) Indicates products to “be delivered witha secure by default configuration,including the possibility to reset the product to its original state”. CSA PSWG invites torevise the text, preventing roll-back scenarios when in fact the product configurationneeds to be back to its original factory settings without having to revert to old softwareversions that might contain vulnerabilities.
+2. Vulnerability Handling Requirements2. (1) addresses the Software Bill Of Materials as a requirement that while it has value,by itself can be the cause of confusion, false positives, and additional effort frommanufacturers and suppliers. To better assess the impact of this requirement, CSAPSWG recommends clarifying the scope by defining the “top-level dependencies of theproduct”
+Page8of9
+2. (2) Requirement “remediate vulnerabilities withoutdelay” is open to interpretation andwhile its objective is clear, the actual implementation can bring additional burden to theindustry. CSA PSWG recommends replacing this text with “remediate vulnerabilitiesfollowing the vulnerability handling processes put in place by the manufacturer” asindicated by Annex V, 2(b).
+Annex III: Critical Products With Digital Elements
+CSA PSWG recommends the commission revise the product classification, following arisk-based approach, defining a taxonomy that helps manufacturers to identify the Classwhere their product belongs and to reduce ambiguity as much as possible.
+Page9of9

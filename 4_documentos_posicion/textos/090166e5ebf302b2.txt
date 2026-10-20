@@ -1,0 +1,168 @@
+1 
+Note de présentation du projet MOSAIC 3DS 
+(MOdular Scalable AI Component - 3D Sovereign) 
+ 
+ 
+Illustration des a touts que permettent les  technologies reprogrammables et hétérogènes pour 
+renforcer l’autonomie stratégique de l’UE en matière de semi-conducteurs.  
+ 
+La société française MENTA  SAS est spécialisée dans les technologies de semi -conducteurs 
+reprogrammables et propose des blocs de propriété intellectuelle basés sur la technologie des circuits 
+FPGA. 
+Cette capacité de reprogrammation apporte une valeur ajoutée substantielle, en ce qu’ell e permet, 
+après la production d’un semi-conducteur, d’en modifier le fonctionnement : correction de failles de 
+sécurité nouvellement découvertes ou renforcement de la sécurité par anticipation, adaptation à de 
+nouvelles fonctionnalités requises par le client, adaptation à une évolution des normes décidée par la 
+puissance publique, etc.  
+Cette technologie permet d’augmenter la résilience ou  de retarder l’obsolescence de s objets du 
+quotidien dont le fonctionnement nécessite un semi-conducteur. Cette technologie est donc appelée 
+à se développer très rapidement et massivement, comme en témoigne le récent rachat en 2022, du 
+premier fabricant et inventeur des FPGA, Xilinx, par AMD deuxième concepteur de puces pour 
+ordinateurs du monde. 
+En effet, nombre de ces objets du quotidien dépendent d’une puce et les FPGA permettront, pour les 
+marchés de masse, une reprogrammation complète ou une mise à jour des semi-conducteurs utilisés 
+dans les frigidaires, les micro-ondes, les grille-pains, mais aussi les  voitures, les avions, les systèmes 
+de télécommunication, ... en passant par des systèmes d’armement.  
+Le savoir-faire de MENTA s’appuie sur une technologie issue de la recherche française développée par 
+le LIRMM (Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier).  
+La société collabore également avec le Commissariat à l’Énergie Atomique et aux Énergies Alternatives 
+(CEA), qui est aujourd’hui le plus grand dépositaire de brevets sur les semi-conducteurs au monde.  
+  
+Ref. Ares(2022)3528749 - 09/05/2022
+2 
+1. Le projet MOSAIC -3DS ( MOdular Scalable AI Component - 3D Sovereign), issu de cette 
+collaboration, combine les technologies des semi -conducteurs reprogrammables, 
+hétérogènes et conçus sur des architectures 3D pour atteindre deux objectifs : la modularité 
+et la flexibilité en matière de semi-conducteurs.  
+ 
+MOSAIC-3DS est actuellement engagé dans le cadre d’un appel d’offres publié par le ministère français 
+de l’Économie, des Finances et de la Relance , qui rassemble des acteurs privés et publics  : Valeo, le 
+CEA et MENTA, qui assure la conduite du projet.  
+Le coût total de développement du projet est estimé à 60 millions d’euros et devrait générer à 
+l’horizon 20 30, un chiffre d’affaires de l’ordre  d’un milliard d’euros et la création de plus de 200 
+emplois directs hautement qualifiés en Europe. Pour financer ce développement, MENTA bénéficie 
+d’un soutien de la Banque Européenne d’Investissement (BEI) à concurrence de 7.5 M€ maximum. 
+Les technologies mise en œuvre dans ce programme permettent la création d’un interposeur universel 
+(châssis) dans le cadre d’un système « multi-puces » basé sur des chiplets.  
+Ce « châssis » universel s’appuie sur la technologie d’interposeur modulaire développée par le CEA, 
+qui, combinée aux blocs de propriété intellectuelle de MENTA le rend universel.  
+C’est cette addition d’une modularité et d’une flexibilité au sein d’une même puce 3D qui caractérise 
+l’originalité du projet MOSAIC 3DS en comparaison des acteurs mondiaux qui ne proposent à ce stade 
+que des solutions modulaires. Il faut également souligner que l es technologies utilisées dans la 
+conception du projet MOSAIC-3DS sont brevetées au niveau mondial.  
+Ces deux éléments (combinaison de modularité et de flexibilité associé à des brevets) constituent un 
+avantage technologique pour l’UE susceptible de renforcer son autonomie stratégique en matière de 
+conception de semi-conducteurs. 
+Les caractéristiques physiques de cet interposeur (dont MENTA et le  CEA détiennent les brevets au 
+niveau mondial) permettent d’insérer dans le châssis des systèmes de chiplets issus de producteurs 
+différents et conçus grâce à des procédés de fabrication hétérogènes.  
+De plus, l’ensemble du projet est basé sur une architecture 3D, tel que le schéma ci-dessous l’illustre.   
+  
+
+3 
+2. La modularité de cette architecture permettra d’augmenter à court terme les capacités de 
+production déjà existantes sur le continent européen. 
+ 
+Plus le nœud technologique utilisé pour la fabrication de semi-conducteurs est avancé, plus le nombre 
+d’entreprises capables de produire lesdits semi-conducteurs est réduit. 
+Aujourd’hui seules deux entreprises au monde sont capables de produire des semi-conducteurs en 
+utilisant les nœuds les plus avancés (5nm)  : le sud -coréen Samsung et le taiwanais TSMC. Par 
+comparaison, en Europe, l’entreprise disposant des capacités de production les plus avancée s est ST 
+Microelectronics, fonderie franco-italienne produisant avec une finesse de gravure de 28nm.  
+Toutes les autres fonderies européennes sont à ce stade moins avancées. C’est dans ce contexte que 
+la technologie de processeurs multi -puces développée dans le cadre du projet MOSAIC 3DS offre 
+l’opportunité d’augmenter les capacités de productions existantes en Europe.  
+En effet, la technologie modulaire de MOSAIC 3DS permettra l’usage de chiplets pouvant être produits 
+à l’aide de procédés de fabrication moins avancés . Pour certains usages, comme la gestion de 
+l’alimentation électrique de la puce, un procédé de gravure plus fin n’apporte pas d’avantage  ce qui 
+permet de réduire les coûts, de conception et de production, des puces.  
+En s’appuyant sur les technologies proposées par MOSAIC 3DS  ou les technologies similaires , les 
+fonderies européennes seront en capacité de répondre à la demande des semi-conducteurs sur la 
+base d’une offre de chiplets de même qualité mais fabriqués par des fonderies môns avancées sur les 
+nœuds de gravure, i.e. moins chers pour des usages identiques.  
+La capacité des producteurs européens à répondre à la demande de semi-conducteurs sur le continent 
+ne peut donc qu’en être renforcée et, avec elle, l’autonomie stratégique de l’UE en la matière.   
+Sans MOSAIC 3DS ou une technologie similaire associant modularité et flexibilité, ce système n’est pas 
+possible car les processeurs monolithiques actuellement sur le marché nécessitent que l’ensemble de 
+la puce soit conçu sur la base d’une finesse homogène.  
+Ce facteur est aujourd’hui un des plus  limitants pour l’approvisionnement du marché des semi -
+conducteurs par des fonderies européennes.  
+Ce changement de stratégie (basée sur des technologies déjà connues et sur une forte augmentation 
+des capacités de production) des acteurs européens est d’autant plus réaliste et souhaitable que l’UE 
+est un des leaders mondiaux en matière de recherche et développement dans ce domaine, alors que 
+les applications industrielles de ces innovations sont jusqu’ici exploitées par des pays tiers.  
+C’est la raison pour laquelle, la stratégie européenne aurait intérêt à se saisir de cette opportunité dès 
+maintenant. 
+La part de marché de la production en Europe de semi-conducteurs ne représente aujourd’hui que 8% 
+de la production mondiale. Il faut ajouter que dans le domaine de la conception de semi-conducteurs, 
+les part de marché des entreprises européennes baisse, passant de 4 % à 1 % entre 2010 et 2016 , 
+comme le montre le graphique ci-dessous.  
+ 
+ 
+4 
+Ventes de semi-conducteurs par localisation du siège des sociétés ne disposant pas de fonderies 
+(données 2016) 
+ 
+La modularité proposée par le projet MOSAIC 3DS, mais également par l’ensemble des acteurs 
+mondiaux qui disposent des mêmes technologies (ARM, Intel, AMD,…) est donc de nature à renforcer 
+encore le développement des capacité de semi-conducteurs de l’UE. 
+En revanche, seules les technologies brevetées par des acteurs européens tels que MENTA SAS et le 
+CEA sont de nature à permettre de garantir l’autonomie stratégique de l’UE en matière de conception 
+de puce modulaires (ou hétérogènes). 
+ 
+3. La combinaison de la modularité et de la flexibilité constitue une approche innovante dont 
+certains acteurs européens sont les seuls à disposer de brevets déposés au niveau mondial : 
+ 
+Étant donné que l es puces développées dans le cadre du projet  MOSAIC 3DS sont basées sur une 
+architecture modulaire, il est possible, lors du développement d’une nouvelle puce, de ne remplacer 
+qu’un nombre réduit de chiplets.  
+Ajoutons que lorsque  ces chiplets sont associés à un interposeur universel, comme seul le permet 
+MOSAIC 3DS, l’ob ligation d’un nouveau développement e st remplacée par une  reprogrammation 
+permise par les technologies FPGA proposés par MENTA.  
+Ces deux caractéristiques combinées (flexibilité et modularité) permettraient, d’après les estimations 
+de MENTA, de réduire les coûts de conception d’un circuit intégré d’un facteur 10 et le temps requis 
+pour la conception d’un circuit intégré d’un facteur 5 (de 5 à 1 an).  
+Par conséquent, la compétitivité des industries européennes  de semi -conducteurs pourrait, si ces 
+estimations sont exactes, être considérablement augmentée. 
+En effet, les coûts de conception constituent, à l’heure actuelle, une barrière à l’entrée sur le marché 
+des semi-conducteurs de nouveaux acteurs européens. À titre illustratif, la conception d’un semi-
+conducteur coute environ 50 M€ à concevoir en 28nm alors qu’il frôle les 500 M€ sur une technologie 
+5nm.  
+Le schéma suivant illustre cette réalité.  
+ 
+
+5 
+ 
+ 
+Le renforcement, dans la stratégie européenne sur les semi-conducteurs du volet « conception » est, 
+par conséquent , de nature à permettre une accélération de la mi se en place d’un écosystème 
+européen de conception et de production de semi-conducteurs.  
+Il faut ajouter que la combinaison de ces deux technologies permet également de réaliser des 
+économies d’énergie et de matière première , ce qui répond pleinement aux objectifs 
+environnementaux de l’UE.  
+En effet, les perspectives de consommation énergétique requise par le développement de l’économie 
+digitale, sur base des technologies actuelles, suit une courbe e xponentielle, comme le montre le 
+graphique ci-dessous.  
+ 
+Pour illustrer cet aspect complémentaire des atouts du projet MOSAIC 3DS, on peut citer le domaine 
+de l’intelligence artificielle en pleine expansion, particulièrement énergivore du fait des puissances de 
+calcul additionnelles qu’il nécessite, en particulier si l’on utilise des puces généralistes.  
+Pour cette raison , le  développement de l’ intelligence artificielle nécessite l ’usage de circuits 
+spécialisés.  
+Avec une conception telle que celle proposée par MOSAIC 3DS, le développement de ces circuits est 
+facilité et leur production accélérée, tout en optimisant les performances énergétiques des systèmes 
+dédiés à l’IA (Intelligence Artificielle).  
+Coût de conception d’un circuit intégré en fonction du 
+nœud technologique (2019, Semi Engineering) 
+6 
+À titre d’exemple, le premier produit visé par le projet MOSAIC-3DS est un accélérateur d’Intelligence 
+Artificielle, capable de répondre à la demande croissante des  systèmes avancés d'assistance à la 
+conduite (ADAS) et des solutions de conduite autonome pour les véhicules à l'échelle mondiale. 
+Or, selon les calculs de MENTA, l’util isation de ce produit permettra d’atteindre une consommation 
+d’énergie 20 fois moindre que celle des solutions concurrentes existantes. 
+De plus, le recours renforcé aux solutions hétérogènes basées sur des chiplets permettra d’augmenter 
+drastiquement les rendements de fonderies.  
+En effet, le principal critère permettant de prédire le rendement d’une cha îne de semi-conducteurs 
+est la taille de la puce. Les chiplets étant plus petits que les puces conventionnelles, leur fabrication 
+entrainera moins de rebuts et permettra donc des économies à la fois au niveau des ressources et de 
+la consommation énergétique.  

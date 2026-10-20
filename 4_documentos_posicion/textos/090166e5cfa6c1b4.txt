@@ -1,0 +1,353 @@
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+Additional information on questions.
+Question 8:
+Further elaboration:
+BME believes that the relevant technical standards (Regulation (EU) 2017/571) should apply
+with a few adjustments to the following articles:
+ Article 14: Machine readability should not apply to “free of charge and publicly
+available”;
+ Article 15: While a 6 months onboarding period for a new venue is prescribed in Article
+15, no time limited for onboarding of new instruments from already contributing venues
+to the CTP is set. BME proposes to mandate the onboarding of new instruments from
+contributing venues to into a CTP to take no longer than 30 days.
+BME would strongly caution against amending the current consolidated tape framework to
+include pre-trade data (please see response to question 15.1).
+Question 9:
+Further elaboration:
+Inaccuracies in figures provided by market participants to characterise evolutions in market
+data prices
+Lastly, BME would like to provide a number of observations in relation to inaccuracies in the
+figures provided by market participants to characterise evolutions in market data prices. Before
+acting on the recommendations contained in the ESMA report, BME believes that it is important
+for policy makers to take a step back and assess whether figures provided by market participants
+are a fair and accurate representation of the situation.
+Question 15:
+Further elaboration:
+Far from redistributing liquidity during the trading day, a pre-trade data CT could create
+phantom liquidity and systemic price slippage issues and therefore a false sense of liquidity,
+possibly increasing latency arbitrage and front-running practices. Such a CT would show a
+picture of the market delayed in comparison to private feeds, as it would be slower than the
+various feeds that would consolidate. This situation would be detrimental to less informed or
+technologically sophisticated investors. Moreover, orders and prices on a pre-trade data CT
+would not be accessible to all market participants since execution at displayed prices is only
+possible between technically and commercially connected entities. It would also be difficult, if
+not impossible, to reconcile with the correct record sequencing and current clock
+synchronisation requirements that prescribe different levels of timestamping granularity and
+accuracy for different types of execution.
+The fact that there is a consolidated tape for shares in the US that consolidates both pre- and
+post-trade data does not in itself validate or justify taking the same approach in Europe. It is
+important to recognise EU markets are very different to US markets, more fragmented, and it is
+therefore not possible to assume that the practical experience of the tape in the US can be
+Ref. Ares(2020)2722606 - 26/05/2020
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+transposed and result in a success of the tape in the EU. Third country CT models should not
+simply be replicated as their specificities do not apply to European financial markets. In the US,
+there are less contributors of data and more consumers thus allowing for economies of scale. In
+Europe however, there are more contributors to a tape (170+ in EU compared to 17 in the US)
+as well as important geographic constraints which separate market actors and infrastructures
+by thousands of kilometres.
+Overall, BME would advise against the creation of a pre-trade tape and reiterate that a “TOR”
+would be a significantly less complex and costly technical set-up, providing a comprehensive
+overview of overall liquidity within the EU on an instrument level to verify execution quality. In
+any case, a pre-condition for a reliable CT is an improvement of off-venue data quality, covering
+all execution venues which would best meet the needs of users and the market.
+Question 21.
+Referred graph:
+Source: data and from big-xyt, calculations and comments on price formation contribution from FESE
+Question 25.
+Further elaboration:
+SI quotes (and prices) in bonds and securitised derivatives are mainly available using proprietary
+arrangements (if any) and websites of SIs. This conflicts with the aim to increase transparency
+in the traditionally opaque markets in these instruments. Therefore, BME strongly supports
+ESMA’s proposal to define the requirements to be met by SIs in non-equity instruments for
+publishing their quotes and to extend the requirements set out in art. 13 of Regulation 2017/567
+on obligations for SIs to make quotes easily accessible to SIs in non-equity instruments.
+
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+Question 27.
+Further elaboration:
+1. SIs
+BME believes that restricting SI equity trading to above LIS only would be an efficient way to
+incentivise lit trading, ensure the quality and robustness of price formation, in line with the initial
+objective of MiFID II.
+In such a scenario, the LIS threshold would be used as the main tool to delineate lit and dark
+trading. Below LIS trading should be confined to RMs and MTFs exclusively. BME underlines that
+rules applicable to MTFs should continue to apply, specifically operators of MTFs would still be
+prohibited from engaging in prop trading, running bilateral systems and applying discretionary
+and discriminatory rules. These TVs would in principle always be subject to real-time pre- and
+post- trade transparency requirements thus creating a lit space for trades below LIS. There
+would no longer be a need for a DVC mechanism since pre-trade transparency waivers would be
+limited to the LIS and OMF.
+SIs activity would be restricted to above LIS only. Above LIS trading constitutes a legitimate dark
+space in which trades are not subject to pre-trade transparency and would benefit from delayed
+post-trade transparency. This proposal applies to RMs, MTFs and SIs and it would result in an
+appropriate limitation of dark activity and a simplification of the fragmented execution
+landscape. Above LIS, transactions benefit from waivers to avoid market impact. To take away
+from the price formation process is only warranted when the potential market impact is sizable.
+2. Dark/OTC trading
+BME suggests to limit dark trading by reducing the number of waivers to mainly LIS - this includes
+the repeal of the DVC mechanism: The main purpose of the waiver regime is to protect market
+participants from adverse market movements following the execution of large orders.
+OTC would be restricted to trades in shares not subject to the STO. BME also suggests extending
+MMT to all execution venues as well as to OTC transactions under ESMA governance.
+3. RFQs
+MiFID II introduced increased transparency requirements applicable to ETFs however the
+fundamental concern is that the majority of trading – approx. 90% - still takes place on
+alternative trading systems, as opposed to on-exchange lit markets. BME suggests that ESMA
+investigates this liquidity shift from lit order book trading to RFQ trading and assesses its
+potential long-term impact on ETF market structure. ESMA should propose mitigating measures
+if this trend is perceived to be non-compliant with ESMA’s objective to ensure the quality and
+robustness of the ETF price determination mechanism for all investors. BME suggests that RFQ
+systems should only be made available for ETF transactions above the LIS thresholds (1m EUR)
+so that the bulk of trading, i.e. smaller size trades, are executed on transparent trading platforms
+thereby contributing to the price formation process.
+4. STO
+BME proposes to modify the STO regarding its third country dimension, scope, exemptions and
+application to asset classes:
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+i) To address the third country impact of the current scope, the STO should apply to
+those shares with an ISIN starting with a country code corresponding to an EU27
+Member State plus those starting with a non-EU country code but where the issuer
+has its primary (fully-fledged) listing within the EU27;
+ii) The STO should not apply to those shares with an ISIN starting with a country code
+corresponding to an EU27 Member State where the issuer has its exclusive listing in
+a third country;
+iii) In cases where the security is dual-listed on both an EU trading venue and a non-EU
+trading venue at the specific request of the issuer, we propose that the STO should
+still apply but that there is an exception in the provision to allow for trading to take
+place on the non-EU trading venue where the issuer has admitted the security, in
+addition to the EU venues;
+iv) Exemptions should be removed where trades are “non-systematic, ad-hoc, irregular
+and infrequent”, instead exemptions should only apply for those trades that do not
+contribute to price formation based on a clear and consistent list of qualifying non-
+price forming trades.
+The scope of the STO should be extended to ETFs in order to incentivise lit trading and investor
+protection in this asset class. “Listing” in this sense is always made upon the request of the issuer
+and involves various obligations for initial listing and for maintaining a listing.
+5. Midpoint
+Midpoint orders are executed at the expense of participants willing to set or display a price.
+Ultimately, the idea that a midpoint price is fairer is flawed, as pegging can in some
+circumstances act similar to a reference price without being subject to a waiver. BME considers
+that for below LIS orders, midpoint pegging should not be allowed in central limit order books.
+However, midpoint pegging should be available for orders above LIS.
+Question 70.
+Referred graph:
+
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+Further elaboration:
+Cause C:
+V) For some commodity derivatives, the characteristic of the underlying physical market is such
+that an effective hedge can only be achieved by trading a specific number of lots. However, it
+often occurs that such a number cannot be traded without exceeding the limit. Yet, under the
+current MiFID II provisions, the limit cannot be raised without sufficient increase of the open
+interest as the regime does not allow a forward-looking approach to determine the open
+interest on which the position limits should have been set. In other words, most market
+participants back out entirely form the trade to avoid breaching the limits altogether, preventing
+a rise in open interest and subsequent raising of the said limits. In some cases, the biggest
+positions exceeding the lots limit are held by commodity traders located outside of the EU who
+do not hold hedging exemptions.
+In example, the recently launched ICE Futures Europe TD20 West Africa to UK-Continent (Baltic)
+Future has grown significantly over the past few months, reaching over six thousand lots of open
+interest. The contract is a Suezmax crude route, West Africa to UK Continent for tankers sized
+on average 130,000 MT (DWT). The biggest positions exceeding 1.9k lots are held by commodity
+traders, some of which are located outside of the EU and do not hold hedging exemptions.
+Companies with Suezmax types of tankers fleets tend to hedge calendar years forward, fleet
+sizes up to 20 tankers and above.
+To hedge a fleet of ten tankers on a year forward basis - the trade size will be (either as a single
+trade or done in a sequence of multiple smaller trades for the same Calendar Year tenor, keeping
+positions open throughout expiry):
+130 lots * 12months * 10 tankers = 15,600 lots to hedge freight rates exposure for a single
+Calendar year (i.e Cal 2019 trade)
+Since the traders active in TD20 have indicated the business need to hedge multiple calendar
+years forward in TD20 route that would result in tripling trading volumes in the traded volume
+calculation scenario above, with potential volumes amounting to 46,800 lots.
+Question 74.1
+Further elaboration:
+Moreover, these contracts are cash-settled, and it is not possible to squeeze (corner) a market
+link in a physically-delivered derivatives contract. While we acknowledge that regulators and
+legislators might be concerned that the exclusion from the scope might open opportunity for
+loopholes, we suggest again that product design and mechanisms of derivatives on broad-based
+commodity indices - already fulfilling the objectives of the regime - should be taken into
+consideration. The position limits regime does not provide a reasonable measure for increasing
+market integrity but impairs the growth of and demotivates clients’ flow to shift to transparent
+and electronically traded markets. It also limits the capability of liquidity providers to fulfil their
+role and comply with the regulatory requirements, as these are stemming from a mis-
+categorisation into the scope of the regime.
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+Question 75.
+Referred graph:
+Figure 1 Impact of the position limits regime and restricted use of hedging exemption for financial
+counterparties on the development of PEGAS ZTP gas futures market
+Question 76.
+Further elaboration:
+The mentioned results are counterintuitive and imply that the instrument with lower liquidity
+can support higher LIS levels than the high-liquidity instrument – when in fact the opposite is
+true. While the low liquidity instruments typically trade in a higher size, the overall size of this
+market and trade frequency is dwarfed by the higher liquidity of the market.
+Therefore, setting a low LIS for high liquidity markets and a high LIS for low liquidity markets
+based on the standard trade size in either mean, median or mode terms is detrimental for the
+development of low liquidity markets. There is indeed a clear need for a more tailored approach
+or a scaled approach based on variations in distribution.
+In sum, the pre-trade transparency regime could better take into account the fact that non-
+equity markets are fundamentally different from equity markets, and that there are significant
+differences across the underlying non-equity markets themselves. It is, for example, important
+to understand that commodity markets have specific characteristics and hence often suffer from
+a one-size fits all regulatory approach to financial instruments. Therefore, against the
+background of this targeted MiFID II/MiFIR review, we believe that transparency requirements
+need to be balanced and could benefit from a more tailored approach to commodity markets.
+MiFIR rightly recognises that certain exemptions can be granted to trading venues from the
+general requirement to publish pre-trade transparency data to preserve orderly price discovery
+processes and allow in particular illiquid and nascent markets to develop. Though the current
+shortcomings of the regime have sometimes prevented market participants from moving to
+transparent and regulated venues and central clearing. The new methodology has led to niche
+and nascent products being incorrectly classified as liquid, and thus becoming subject to
+significantly broader transparency requirements which were previously reserved for developed
+markets.
+
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+The current calculation methods of the LIS and IL markets waiver are based on insufficiently
+granular sub-asset classes as well as arbitrarily selected parameters, which has resulted in
+disproportionately low LIS thresholds for highly liquid products and overly high thresholds for
+illiquid ones. The regime has proven to be ill-calibrated, for example options are often less liquid
+than futures, yet equity options are generally classified as liquid, which does not reflect market
+reality. Counterintuitively, the LIS for benchmark products is now lower under MiFID II /R than
+what it was under pre-MiFID regimes imposed by trading venues themselves.
+For example, the LIS threshold for highly-liquid ICE Futures Europe Gasoil Futures calculated
+under the current RTS 2 methodology is equal to 10 lots compared to the 100 lots minimum
+block threshold applied before the introduction of MiFIR. In contrast, in far less liquid products
+such as ICE Futures Europe Rotterdam Coal Options, only trades above 50 lots would be
+considered LIS as compared to the 5 lots block threshold pre-MiFIR.
+For commodity derivatives, trading venues and market participants are also challenged by the
+fact that the LIS thresholds are set in Euros instead of lots. Pre-MiFIR, lots were the standard in
+the market for similar threshold calculations. Using historical Euro trade values to determine the
+LIS thresholds - and not the number of traded lots in a particular sub-asset class - can create
+unintended and disproportionate LIS thresholds that ignore the actual underlying trading
+behaviour.
+It should be noted that, compared to other financial instruments, commodity derivatives
+instruments are generally less liquid. In order to achieve execution, market participants often
+trade via brokers organising transaction through a pre-executed agreement, subject to and
+executed under the rules of a specific exchange with immediate clearing at the exchanges’
+respective central counterparty (CCP), rather than in a central order book where a satisfactory
+execution would be less likely. Trades are concluded outside the regulated venues, according to
+exchange rules of the trading venue, subject to being registered and cleared in a dedicated
+venue/clearing house, to ensure maximum transparency for these nascent markets. These pre-
+arranged transactions are often catalysts for volume in the lit order book, especially the case for
+energy markets. For instance, calculations done in the electricity derivatives space clearly show
+that the size of the pre-arranged trades are on average slightly above the average of the order
+book and that the majority of both pre-arranged and order book transactions in nominal value
+are often below the predetermined LIS minimum floor.
+Lastly, another issue concerns trade registration which has been and still is essential to bring
+more volumes to the cleared market under the exchange rules. BME considers that the current
+pre-trade transparency regime is not fit for purpose and cannot be applied to trade registration
+facilities in energy derivatives markets without compromising their vital role in supporting the
+hedging activity of commercial market participants and in mitigating wider systemic risks.
+We believe that a better tailored transparency regime based on specific changes on Level 1 and
+Level 2 as outlined in our response to Q76 would help promote and foster EU commodity
+markets, notably regarding energy markets denominated in Euro, and contribute to the
+international role of the Euro.
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+Question 83.1.
+Elaboration of arguments:
+1. Endanger the CCP – A trading venue (TV) ‘Non-discriminatory’ access to CCPs would
+introduce risks to financial stability (not to mention the risk of legal challenge) arising from
+pooling of open interest of economically equivalent – but not identical – ETD contracts in
+the same CCP as a result of multiple trading venues gaining access to it. It would require
+such contracts to be treated as fungible, despite the fact that the contracts’ legal basis (in
+terms of governing law and jurisdiction), governing authorities (in terms of the trading venue
+creating the contract and its regulator) and the arrangements for taking emergency action,
+e.g. in relation to force majeure and other market events) would differ. This would force
+CCPs to match positions that are not identical but ‘economically equivalent’ which means
+the CCP itself would be liable for any difference, thereby destabilizing the CCP and the ETD
+market it clears. Last but not least, we are particularly concerned by the potential impact of
+open access requests on the default management process and possible recovery of CCPs
+when market participants are spread across different venues.
+2. Break liquidity – A CCP ‘Non-discriminatory’ Access to TVs would inevitably fragment
+liquidity and weaken the resilience of ETD markets as a result of multiple CCPs clearing a
+single TV’s ETDs. If a TV has access arrangements with three CCPs, it would be forced to
+create three separate order books for any given product (as counterparties can only trade
+with those who wish to clear at the same CCP). This would result in an inefficient and costly
+system which would provide a misleading impression of choice while, in reality, fragment
+liquidity. The alternative, i.e. retaining a single order book to which all orders would be
+submitted irrespective of CCP, would be impracticable as users that intend to hold positions
+at different CCPs could not be matched in a single order book, and the trade would
+subsequently need to be reversed to prevent the long and the short being cleared by
+different CCPs.
+3. Undermine price-discovery – Breaking the link between TVs and CCPs and the liquidity of
+ETD markets would disrupt the price discovery process across different exchanges. This
+would have an impact on the broader economy as ETD markets serve as a benchmark for a
+broad range of underlying and related assets (e.g. bonds, shares and commodities), as they
+reflect the market’s expectations of future fluctuations of these underlying markets. For
+example, ETD markets in Europe are used by market participants as benchmarks to manage
+exposures to Euro Area sovereign debts, as the underlying bonds market is too opaque and
+fragmented to carry out this function. The erosion of the price discovery process and the
+resultant weakening of an accurate reference price can ultimately lead to serious financial
+stability risks, such as the creation of asset bubbles or the inability of financial supervisors
+to set accurate capital requirements for market participants such as credit institutions.
+4. Increase concentration – Breaking the link between the TV and its CCPs could lead to a
+situation where the most attractive CCP for one specific ETD or asset class, becomes the
+single place for central clearing across all asset classes. Such a high level of concentration
+would expose the financial system to a single point of failure with potential systemic
+consequences and the impossibility for market participants to efficiently move their
+positions to another CCP in case of failure. Beyond the concentration risk at the CCP level,
+the impact of NDA requests should be also considered at the clearing member level. The
+more links across TVs and CCPs will multiply, the more only a minority of structurally large
+banks will be able to afford the costs linked to maintaining the connectivity links and checks.
+This risk may increase the concentration of Clearing Members and create barriers to grow
+the next generation EU credit institutions that can handle the complexity of interlinkages
+between TVs/CCPs.
+5. Harm competition and innovation – Concentrating all clearing activities into one CCP would
+effectively diminish competition in the EU (the very thing NDA provisions are supposed to
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+bring) and bring down innovation due to increased latency in approving new products and
+services (which would need to be approved by one CCP). For example, both LIFFE (former
+ICE Clear Europe) and LME opted to split from LCH. Clearnet their common clearing house
+due to inhibitions to competition and innovation. The current linkage between the TV and
+the CCP is overwhelmingly the most efficient model for ETD markets in most developed
+jurisdictions, because the integrated service is more efficient for product development,
+leading to a highly responsive industry with faster introduction of new products.
+The scenarios described above could be further aggravated post Brexit as it is unclear how a
+competitive level playing field would be ensured in the event third country infrastructure gains
+access to EU CCPs and TVs. In our view, it would be inappropriate to impose wide scale market
+structure changes in the Exchange-Traded Derivatives markets - which may have significant
+financial stability consequences - while the EU/UK future relationship remains unclear.
+In addition, the third country safeguards around the NDA provisions appear particularly weak.
+Under an equivalence determination limited to Art. 38(3) MiFIR, the 3C CCP is merely required
+to be ‘subject to authorisation and to effective supervision and enforcement on an ongoing
+basis’ and to have similar access provisions. There are no provisions in Art. 38(3) MiFIR to ensure
+a comparable trading environment in the third country, meaning the application of the same
+transparency and market structure requirements.
+BME Annex to EC MiFID II Review Consultation
+Classified as Internal / Clasificado como Interno
+References and footnotes:
+Question 9:
+1 See Guidelines on the assessment of horizontal mergers under the Council Regulation on the control of
+concentrations between undertakings, OJ C 31, 5.2.2004, para. 45. (“It is also easier to coordinate on a price for a
+single, homogeneous product, than on hundreds of prices in a market with many differentiated products ”). See also
+Communication of the Commission - Guidance on the Commission's enforcement priorities in applying Article 82 of
+the EC Treaty to abusive exclusionary conduct by dominant undertakings, OJ C 45 of 24.2.2009, para. 13 (“ the
+Commission will interpret market shares in the light of the relevant market conditions, and in particular of the
+dynamics of the market and of the extent to which products are differentiated.”)
+2 See for example Judgment in AKZO Chemie v Commission , Case C-62/86, ECLI:EU:C:1991:286, paras. 119-120 (“It
+should next be pointed out that there was no abusive policy of discrimination between the individual mills in the Allied
+group and the 'large independents', as these two categories of customers are not comparable”). See also Judgment in
+United Brands v Commission , Case C-27/76, ECLI:EU:C:1978:22, para. 228 (“differences in transport costs, taxation,
+customs duties, the wages of the labour force, the conditions of marketing, the differences in the parity of currencies,
+the density of competition may eventually culminate in different retail selling price levels according to the Member
+States”) and Judgment inClearstream v Commission, Case T-301/04, ECLI:EU:T:2009:317, paras. 172 and 179.
+Question 13:
+3 DEGRYSE, Hans, DE WINNE, Rudy, GRESSE, Carole, et al. High frequency trading and ghost liquidity, 2018
+Question 15.1:
+4 Angel, J.J, 2014. When Finance Meets Physics: The Impact of the Speed of Light on Financial Markets and their
+Regulation, The Financial Review, May 2014, Volume 49, No. 2, 1.202.687.3765
+Question 58.1:
+5 Bingxu, Fang, Hope, Ole-Kristian, Huang, Zhongwei and Moldovan, Rucsandra, Rotman School of Management
+Working Paper, ‘The Effects of MiFID II on Sell-Side Analysts, Buy-Side Analysts and Firms’, 2019.

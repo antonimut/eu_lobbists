@@ -1,0 +1,775 @@
+Toward energy-neutral wastewater treatment: A high-rate contact
+stabilization process to maximally recover sewage organics
+Francis A. Meerburg a, Nico Boon a, Tim Van Winckel a, Jensen A.R. Vercamer a, Ingmar Nopens b,
+Siegfried E. Vlaeminck a,⇑
+a Laboratory of Microbial Ecology and Technology (LabMET), Ghent University, Coupure Links 653, B-9000 Gent, Belgium
+b BIOMATH, Department of Mathematical Modelling, Statistics and Bio-informatics, Ghent University, Coupure Links 653, B-9000 Gent, Belgium
+highlights
+/C15HiCS recovered energy from sewage organics with minimal losses through oxidation.
+/C15Energy recovery was highest at a ratio of contact to stabilization time of 0.14.
+/C15The sludge entered a state of endogenous respiration during stabilization.
+/C15This alternated with fast substrate removal within 5 min in the contact phase.
+article info
+Article history:
+Received 5 November 2014
+Received in revised form 5 December 2014
+Accepted 6 December 2014
+Available online 19 December 2014
+Keywords:
+AB-system
+Bio-ﬂocculation
+F/M ratio
+Mainstream partial nitritation/anammox
+Respirometry
+abstract
+The conventional activated sludge process is widely used for wastewater treatment, but to progress
+toward energy self-sufﬁciency, the wastewater treatment scheme needs to radically improve energy bal-
+ances. We developed a high-rate contact stabilization (HiCS) reactor system at high sludge-speciﬁc load-
+ing rates (>2 kg bCOD kg
+/C01 TSS d/C01) and low sludge retention times (<1.2 d) and demonstrate that it is
+able to recover more chemical energy from wastewater organics than high-rate conventional activated
+sludge (HiCAS) and the low-rate variants of HiCS and HiCAS. The best HiCS system recovered 36% of
+the inﬂuent chemical energy as methane, due to the combined effects of low production of CO
+2, high
+sludge yield, and high methane yield of the produced sludge. The HiCS system imposed a feast-famine
+cycle and a putative selection pressure on the sludge micro-organisms toward substrate adsorption
+and storage. Given further optimization, it is a promising process for energy recovery from wastewater.
+/C2112014 Elsevier Ltd. All rights reserved.
+1. Introduction
+Municipal wastewaters are typically treated through conven-
+tional activated sludge (CAS) processes to remove organic matter
+and nutrients. Beside puriﬁcation, resource recovery is gaining
+importance as a main purpose of wastewater treatment. This
+inspires a search for technologies that not only remove resources
+such as organic carbon, nitrogen and phosphorus from wastewater,
+but make them available for reuse. With respect to energy balance,
+a typical CAS plant requires a net annual energy input in the order
+of 40 kWh per population equivalent ( Zessner et al., 2010 ), even
+though the caloric energy content of raw domestic sewage exceeds
+the electricity demand to operate a CAS plant by at least a factor
+nine ( Shizas and Bagley, 2004 ). It should therefore be possible to
+achieve net energy-neutral or even energy-positive wastewater
+treatment ( Jenicek et al., 2013 ). Conversion of caloric energy from
+wastewater organics to useful forms of energy is most often
+achieved via methane production during anaerobic digestion.
+Recent studies at cold temperatures (<15 /C176C) show preliminary
+yet promising results from direct sewage digestion ( Bowen et al.,
+2014). However, mainstream digestion in moderate climates is
+not yet feasible because of low rates and considerable losses of
+methane dissolved in the efﬂuent ( Verstraete et al., 2009 ). In con-
+trast, a primary treatment stage to pre-concentrate sewage allows
+to produce a more concentrated organic stream as sludge, and
+allows efﬁcient side stream anaerobic digestion ( Verstraete and
+Vlaeminck, 2011 ). To achieve maximal energy recovery, such a
+primary treatment stage should avoid oxidation of organics to
+http://dx.doi.org/10.1016/j.biortech.2014.12.018
+0960-8524//C2112014 Elsevier Ltd. All rights reserved.
+Abbreviations: CAS, conventional activated sludge; CS, contact stabilization;
+HiCAS, high-rate conventional activated sludge; HiCS, high-rate contact stabiliza-
+tion; tc/ts, contact to stabilization time ratio.
+⇑ Corresponding author. Tel.: +32 9 264 59 76; fax: +32 9 264 62 48.
+E-mail address: Siegfried.Vlaeminck@Ugent.be (S.E. Vlaeminck).
+Bioresource Technology 179 (2015) 373–381
+Contents lists available at ScienceDirect
+Bioresource Technology
+journal homepage: www.elsevi er.com/locate/biortech
+Ref. Ares(2021)4881275 - 30/07/2021
+CO2 as much as possible, while subsequent secondary, tertiary and
+side-stream treatment technologies to recover nutrients and com-
+ply with efﬂuent or reuse standards should be designed and oper-
+ated at maximal energy efﬁciency. A number of novel wastewater
+treatment schemes have been proposed to achieve this, including
+processes such as mainstream partial nitritation/anammox,
+reverse osmosis, solids pyrolysis and nitrogen stripping ( Scherson
+and Criddle, 2014; Verstraete and Vlaeminck, 2011 ).
+Concentration of organic matter may be achieved by primary
+sedimentation or by chemically enhanced primary sedimentation
+(CEPT), which achieve a particulate matter removal of typically
+around 60% and 85%, respectively ( Metcalf and Eddy, 2003 ). CEPT,
+followed by anaerobic digestion of the produced sludge, has been
+proposed as a candidate technology to achieve energy-neutral
+wastewater treatment ( Diamantis et al., 2013 ). However, CEPT is
+not optimized for removal of dissolved organic matter, which
+limits the maximum amount that can be recovered and leaves a
+considerable fraction of organics to be treated in subsequent
+stages.
+In recent years, high-rate activated sludge processes have
+gained attention as pre-concentration technologies because of
+their capability to remove particulate, colloidal and dissolved
+organic matter, and produce high amounts of sludge. A well-known
+e x a m p l ei st h eA - s t a g eo ft h eAdsorptions-Belebungsverfahren(AB)
+process ( Böhnke, 1977 ). This process is hereafter named the
+high-rate conventional activated sludge (HiCAS) process, because
+of its reactor conﬁguration similar to CAS: a contact tank or contact
+phase in which return sludge is mixed with inﬂuent under aerobic,
+complete-mix conditions, followed by a settling tank or settling
+phase to separate sludge from the efﬂuent. Short hydraulic
+retention times in the HiCAS process (<30 min) select for rapid
+removal of organics and typical removal efﬁciencies range from
+50% to 70%. Furthermore, this system is operated at sludge-speciﬁc
+loading rates of 2–10 g biodegradable chemical oxygen demand
+(bCOD) per gram volatile suspended solids (VSS) per day, and
+sludge retention times (SRT) between several hours and 2 d
+(Böhnke et al., 1997; Metcalf and Eddy, 2003 ). At such high loading
+rates and short SRT, the observed sludge yield is high due to a min-
+imized loss of biomass by endogenous respiration ( Metcalf and
+Eddy, 2003). Considering that the anaerobic methane yield of acti-
+vated sludge improves with decreasing SRT ( Bolzonella et al.,
+2005), the HiCAS process has a high potential for energy recovery
+via biogas production, and it has been successfully applied to
+approach net energy-neutral wastewater treatment in Strass,
+Austria ( Wett et al., 2007 ). Furthermore, it has been suggested
+that signiﬁcant fractions of organic matter are removed by sorption
+(i.e., bio-ﬂocculation) and storage ( Larrea et al., 2002; Makinia
+et al., 2006 ).
+To advance toward energy-positive wastewater treatment, it is
+necessary to maximize the capture of organic matter, and thus
+increase the relative contribution of sorption and storage of sub-
+strates rather than oxidation or extensive bioconversion processes.
+The contact stabilization (CS) process ( Coombs, 1921 ) may there-
+fore be better suited than CAS to achieve recovery of chemical
+energy, because of the greater contribution of sorption and storage
+to the overall removal of substrate. In the CS system, return sludge
+is aerated in a stabilization phase or separate stabilization tank for
+a period of several hours to regenerate the sludge. Afterwards, the
+sludge is mixed with inﬂuent in a preferably anoxic contact phase
+or contact tank for a relatively short contact time – minutes to
+hours – and substrate is removed. After settling, efﬂuent is dis-
+carded and return sludge is sent back to the stabilization phase.
+As such, a substrate gradient exists between the contact and
+stabilization phases. This subjects the sludge micro-organisms to
+feast-famine conditions and a selective pressure to favor sorption
+and storage of substrate, similar to the related conﬁguration of
+‘selector’ activated sludge systems ( Chudoba et al., 1973; Daigger
+and Grady, 1982 ).
+We theorize that operating a high-rate system in CS conﬁgura-
+tion may be even more efﬁcient than the HiCAS and CS processes in
+recovering chemical energy as biogas. As no unambiguous distinc-
+tion exists between high-rate and low-rate activated sludge sys-
+tems, we propose that a high-rate contact stabilization (HiCS)
+process should be deﬁned as a high-rate system in a contact stabil-
+ization conﬁguration, with a minimal sludge-speciﬁc loading rate
+of 2 g bCOD g /C01 VSS d/C01 and a maximal SRT of 2 d. Such a HiCS pro-
+cess may combine the advantages of high sludge-speciﬁc loading
+rates and low SRT (similar to the HiCAS process) with a selective
+pressure toward sorption and storage (similar to the CS process).
+Fig. 1 compares the reactor conﬁguration of the CAS and CS sys-
+tems and their high-rate variants, the HiCAS and HiCS system.
+For simplicity, none of the presented system conﬁgurations include
+pre- or post-treatment steps of the wastewater.
+A small number of studies have been performed on activated
+sludge processes that can tentatively be identiﬁed as HiCS pro-
+cesses. Huang and Li (2000) found that a high-rate system in con-
+tact stabilization conﬁguration achieves rapid adsorption of
+substrates during the contact phase, and Zhao et al. (2000) sug-
+gested that such a system may perform better than HiCAS in terms
+of substrate removal. However, a systematic comparison is needed
+to evaluate the performance of the HiCS system in terms of energy
+recovery and their perspectives toward implementation in an
+energy-neutral wastewater treatment scheme.
+We operated a HiCS system for comparison with HiCAS, CAS
+and CS systems at laboratory scale. The HiCS system was operated
+at two different ratios of contact to stabilization time ( tc/ts) and the
+HiCAS system was operated at two different SRTs to evaluate the
+importance of these design parameters. Here, we describe the reac-
+tor performances in terms of organic matter removal, sludge pro-
+duction and biogas production during anaerobic digestion of the
+produced sludge. Additional experiments were performed to eluci-
+date process kinetics and explore the potential for further optimi-
+zation of the HiCS system.
+2. Methods
+2.1. Reactor operation
+All reactors were operated in a temperature-controlled room at
+15 /C176C to mimic average wastewater temperatures of Western Eur-
+ope, and automatically controlled at a pH between 7.7 and 8.3
+(Consort, Belgium). Overhead stirring, peristaltic pumping and aer-
+ation were performed mechanically. Reactors were inoculated with
+fresh HiCAS sludge from the full-scale wastewater treatment
+installation of Nieuwveer (Breda, NL).
+The CAS, CS, two HiCAS and two HiCS reactors were operated as
+sequencing batch reactor (SBR) with a volume exchange ratio of
+50% and an inﬂuent ﬂow rate of 4 L d /C01 for the CAS and CS reactors
+and 24 L d /C01 for the HiCAS and HiCS reactors to achieve sludge-
+speciﬁc loading rates within the required ranges, as predeﬁned in
+Fig. 1. The inﬂuent consisted of synthetic wastewater, and was pre-
+pared as described by Aiyuk and Verstraete (2004). Inﬂuent charac-
+teristics are listed in Supplementary Table S1 . The working volume
+of each reactor was 2 L during the react phase and 1 L during the
+stabilization phase. The duration of the reactor phases is given in
+Table 1 . As such, the HiCS reactors were operated at a different
+ratio of contact to stabilization time ( t
+c/ts).
+Additionally, a HiCAS and a HiCS reactor were operated as con-
+tinuous stirred-tank reactor (CSTR) with a recycle ratio of 160%.
+The inﬂuent consisted of diluted black water to evaluate the
+extrapolation of obtained results with synthetic wastewater to real
+374 F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381
+wastewater. The black water was stored at 4 /C176C for a maximum
+period of 2 weeks. Before use, it was sieved (1 mm) and diluted
+with tap water to match the values listed in Table S1 . The HiCAS
+system consisted of a 3 L contactor and 1 L settler; the HiCS system
+consisted of a 1 L contactor, a 1 L settler and a 2 L stabilizer reactor.
+The inﬂuent ﬂow rate was 2.9 L h
+/C01 to obtain a contact time of
+24 min in the HiCAS reactor and a contact time of 8 min and a sta-
+bilization time of 26 min in the HiCS reactor.
+The high-rate as well as the low-rate reactors were operated
+without preceding treatment of the raw inﬂuent. Aeration was per-
+formed during the contact phase of all CAS and HiCAS systems and
+during the stabilization phase of all CS and HiCS systems. Stirring
+was performed in both the contact and stabilization phases. In
+the aerated phases, the dissolved oxygen (DO) concentration was
+kept above 2 mg L /C01. Sludge wasting was performed during the
+react phase in the SBR reactors and from the return stream in the
+continuous reactors. The waste ﬂow rate was adjusted at least
+three times per week to maintain the desired sludge retention time
+(SRT). Samples were taken three times a week during steady-state
+operation of the reactors, which was typically reached after an
+acclimation period of at least two days. The operational details of
+the reactors at steady-state are shown in Table 2 .
+2.2. Biochemical methane potential
+Biochemical methane potential (BMP) experiments were per-
+formed to determine the amount of biogas production by means
+of anaerobic digestion (AD) of the sludge. The tests were performed
+in batch reactors with a total volume of 120 mL. The inoculum con-
+sisted of mesophilic AD sludge from a lab-scale reactor that was
+operated as a CSTR with semi-continuous feeding at 34 /C176C (Innolab,
+Belgium) for the HiCAS sludge and granular mesophilic sludge
+from an upﬂow anaerobic sludge blanket reactor (UASB) treating
+brewery wastewater (Van Steenberge, Belgium) for the CAS, CS
+and HiCS sludge and positive control. Chemical characteristics of
+the anaerobic inocula are given in Table S2 . The inocula were
+stored at 4 /C176C and degased at 34 /C176C for 24 h before use. The sub-
+strate loading ratio was 0.3 g chemical oxygen demand (COD)
+g
+/C01 VSSinoculum. Dilutions were made with tap water until each reactor
+contained 80 mL of test solution at an inoculum concentration of
+10 g VSS L
+/C01. The pH was uncorrected and remained between 7
+and 8.5 throughout the experiments. The reactors were sealed at
+a slight under pressure and shaken under mesophilic conditions
+(34 /C176C). The pressure increase in the headspace was measured with
+a gas pressure tensiometer (UMS, Germany), and the gas composition
+Fig. 1. Schematic representation of the reactor conﬁgurations of the conventional activated sludge (CAS), contact stabilization (CS), high-rate convent ional activated sludge
+(HiCAS) and high-rate contact stabilization (HiCS) systems, together with recommended values of sludge-speciﬁc loading rate (organic loading rat e, OLR) and sludge retention
+time (SRT). Differences in ﬂow rates are qualitatively represented by arrow thickness. (a) Metcalf and Eddy (2003) ; (b) Böhnke et al. (1997) ; (c) this work.
+Table 1
+Duration of the different phases of the SBR reactors. n.a.: not applicable.
+Reactor SRT tc/ts Stabilization Contact Settling Withdrawal Idle
+Fill and react React
+d min min min min min min
+CAS 10 n.a. n.a. 270 45 30 5 10
+CS 12 0.1 285 25 5 30 5 10
+HiCAS 1.31 n.a. n.a. 30 10 15 3 2
+0.41 n.a. n.a. 30 10 15 3 2
+HiCS 1 1.0 20 17 3 15 3 2
+1.1 0.14 35 4 1 15 3 2
+F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381 375
+of the biogas was analyzed at the end of the experiment. Experi-
+ments were terminated when the biogas production curves
+reached a plateau ( Supplementary Fig. S1 ), which was 71 d for
+the HiCAS sludge and 26–34 d for the other treatments. Negative
+controls without substrate were included to correct for residual
+methane production, and a positive control with glucose as
+substrate was added to verify the activity of the inoculum. All
+experiments and controls were performed in triplicate. Speciﬁc
+methane yield was expressed as the amount of methane COD
+(COD
+methane) produced per gram of sludge total solids (TS) fed.
+2.3. Speciﬁc oxygen uptake rate
+Respirometric experiments were performed in a 2 L reactor with
+temperature control at 15 /C176C. The reactor setup was as described by
+Gernaey et al. (2002) . The DO and pH (Mettler Toledo, Switzerland)
+were logged every second with Labview software (National Instru-
+ments, USA). The speciﬁc oxygen uptake rate (SOUR) of the sludge
+of the HiCS systems at tc/ts 1 and 0.14, as well as concentrations
+of colloidal and dissolved substrate, were monitored during three
+consecutive SBR cycles. Operational parameters of the SBR cycles
+were identical to those of the main experiments described in Secr
+an acclimation period of attion 2.1. Prior to the respirometric exper-
+iments, the sludge was aerated overnight to reach an endogenous
+state, and to determine the endogenous respiration rate (OUR
+endo).
+The volumetric gas/liquid mass transfer coefﬁcient ( kLa) was deter-
+mined from three consecutive re-aeration curves as described by
+Bandyopadhyay et al. (2009) . The exogenous respiration rate was
+calculated as OUR exo = kLa(DOeq /C0DO) /C0dDO/dt, where DO eq is
+the equilibrium DO concentration that is reached under aeration
+when only endogenous respiration occurs and dDO/dt is the change
+in the DO level over time. Through division by the sludge concentra-
+tion, the exogenous SOUR (SOUR exo) was calculated.
+2.4. Analytical procedures
+COD was measured using Nanocolor test kits (Macherey-Nagel,
+Germany) according to the manufacturer’s instructions. Five-day
+biochemical oxygen demand (BOD 5), total suspended solids (TSS),
+volatile suspended solids (VSS), total solids (TS), volatile solids
+(VS) and total ammonia nitrogen were determined according to
+standard methods ( Greenberg et al., 1992 ). bCOD was calculated
+as BOD
+5 divided by 65%. To determine the fractions of total
+(CODtot), particulate (COD part), colloidal (COD coll) and dissolved
+(CODdiss) substrate, samples were ﬁltered over a 1.5 lm ﬁlter
+(Grade 934-AH, Whatman, UK) to retain particles, and a 0.45 lm
+ﬁlter (type PA-45/25, Macherey-Nagel, Germany) to retain colloids.
+Handheld meters were used to measure DO (Hach, USA), and con-
+ductivity and pH (Consort, Belgium). Biogas composition was ana-
+lyzed with a Compact GC (Global Analyser Solutions, The
+Netherlands) equipped with a Porabond precolumn and a Molsieve
+SA column. Concentrations of CH
+4,C O 2 and H 2 were determined
+using a thermal conductivity detector with a lower detection limit
+of 1 ppmv for each gas component.
+2.5. Calculations
+The SRT or sludge age was calculated over the entire reactor and
+settler system for all reactors. The removal performance of organic
+matter was addressed in terms of COD, to take into account
+removal of both biodegradable and non-biodegradable substrate
+by the different removal mechanisms involved. The COD balance
+was calculated from the COD fractions leaving the reactor system
+as recovered sludge (i.e., sludge produced by wasting, sampling
+and buildup in the reactor), efﬂuent COD
+part and efﬂuent COD diss,
+summed cumulatively over the entire period of steady-state oper-
+ation. Fractions were expressed as percentage of inﬂuent COD
+tot.
+All COD unaccounted for (i.e., entering but not leaving the system)
+was assumed to be lost by respiration to CO
+2. The observed sludge
+yield was calculated as the daily sludge production (i.e., the
+amount of sludge produced by wasting, sampling, washout into
+the efﬂuent and buildup in the reactor) divided by the daily sub-
+strate removal (i.e., the difference between COD
+tot in the inﬂuent
+and COD diss in the efﬂuent). Thus, it was assumed that particulate
+matter leaving the reactor was sludge, not substrate. Removal per-
+centages of dissolved and colloidal substrate in each reactor phase
+were determined from the substrate concentration proﬁles within
+each phase (for stabilization, settling and withdrawal) and by com-
+paring actual substrate concentrations to the expected concentra-
+tions assuming only incoming substrate and no uptake or
+degradation (for the contact phase).
+2.6. Statistical analyses
+Normality of data residuals was tested using the Shapiro–Wilk
+normality test and homogeneity of variances using Levene’s test.
+In cases where the null hypothesis of normality was rejected (i.e.,
+for COD tot removal rates and sludge yields), multiple comparisons
+were performed using the non-parametric Kruskal–Wallis rank
+sum test and post-hoc pairwise comparisons using the Mann–
+Whitney U test. In other cases (i.e., for COD
+diss removal rates), mul-
+tiple comparisons were performed using the parametric analysis of
+variance (ANOVA) test and post-hoc pairwise comparisons using
+the student’s t-test. Pairwise comparisons were only performed if
+the null hypothesis of equal means was rejected, and p-values were
+adjusted using the Benjamini–Hochberg correction. Calculated
+parameters, for which means and standard deviations but no indi-
+vidual data points were available, were compared using the stu-
+dent’s t-test for equal sample sizes and equal variances (speciﬁc
+methane yield) or unequal sample sizes and equal variances
+(energy recovery), using the Benjamini–Hochberg correction in
+all cases. Differences were considered signiﬁcant at p < 0.05. All
+statistical analyses were performed with the software R version
+3.0.2 for Windows ( R Core Team, 2013 ).
+Table 2
+Overview of reactor operation and sludge characteristics, at steady-state operation. n.a.: not applicable. Standard errors are shown behind value s, where applicable.
+SRT tc/ts Inﬂuent Reactor type Steady-state operation Sludge-speciﬁc loading rate Contactor VSS VSS/TSS ratio
+d Synthetic Diluted black water d g bCOD g /C01 VSS d/C01 gL /C01 –
+CAS 10 n.a. x SBR 18 0.77 ± 0.07 1.64 ± 0.17 0.77 ± 0.03
+CS 12 0.1 x SBR 18 0.62 ± 0.07 1.77 ± 0.18 0.85 ± 0.02
+HiCAS 1.31 n.a. x SBR 16 4.53 ± 0.58 2.21 ± 0.25 0.89 ± 0.02
+1.1 n.a. x CSTR 41 4.30 ± 0.67 2.33 ± 0.56 0.94 ± 0.01
+0.41 n.a. x SBR 16 12.5 ± 1.93 1.45 ± 0.51 0.88 ± 0.05
+HiCS 1 1.0 x SBR 15 6.23 ± 0.75 1.67 ± 0.16 0.96 ± 0.04
+1.2 0.31 x CSTR 41 5.72 ± 0.92 1.28 ± 0.33 0.92 ± 0.04
+1.1 0.14 x SBR 15 2.96 ± 0.23 3.32 ± 0.31 0.89 ± 0.03
+376 F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381
+3. Results and discussion
+Any treatment scheme that aims to recover energy as a resource
+from wastewater should aim to (1) minimize oxidation to CO 2 to
+avoid unnecessary loss of energy-containing organic matter, (2)
+concentrate particulate, colloidal and dissolved organic matter into
+a sludge stream to facilitate subsequent conversion of energy into
+useful forms and (3) minimize plant-wide energy consumption by
+implying energy-efﬁcient technologies with close process control
+throughout the treatment train. This paper addresses the ﬁrst
+two criteria by comparing the chemical energy recovery potential
+of two conﬁgurations for high-rate activated sludge – the better
+known HiCAS and the more novel HiCS conﬁguration – as primary
+treatment processes for domestic sewage.
+3.1. Reactor operation and organic matter removal rates
+COD removal rates were always signiﬁcantly lower in the low-
+rate reactors than in their respective high-rate counterparts. How-
+ever, removal rates did not differ signiﬁcantly among high-rate
+reactors, with the exception of the relatively poor removal rate of
+CODdiss in the HiCS reactor at tc/ts 1( Fig. 2 ).
+Within none of the reactor runs, signiﬁcant differences could be
+observed between COD tot and COD diss removal rates, indicating
+that removal of dissolved COD had a major inﬂuence on overall
+removal efﬁciencies. No differences in removal rates were detected
+between reactors treating synthetic wastewater and reactors treat-
+ing diluted black water. This suggests that differences in their
+respective inﬂuent compositions were not of major inﬂuence on
+the physical and biological phenomena investigated here, and that
+results obtained with synthetic wastewater may be extrapolated to
+real wastewater.
+High COD removal rates in high-rate reactors are partly a con-
+sequence of the high sludge-speciﬁc loading rates applied. On the
+other hand, removal efﬁciencies were relatively low (40–55%;
+Table 3). This may be due to the low SRT and short hydraulic reten-
+tion times, which cause a larger fraction of substrate to be non-
+degradable by high-rate sludge compared to low-rate sludge
+(Haider et al., 2003 ). Any residual COD in the efﬂuent of a high-rate
+activated sludge system may be removed aerobically or anoxically
+in subsequent secondary treatment processes for nitrogen removal
+(De Clippeleir et al., 2013 ). However, in light of energy sustainabil-
+ity, the efﬁciency of the solid/liquid separation should be improved
+to maximize the removal and recovery of COD. Removal efﬁcien-
+cies of inorganic nitrogen and phosphorus species in the high-rate
+reactors were low to negligible (data not shown), and their optimi-
+zation was considered outside the scope of this research, given the
+compatibility of high-rate activated sludge processes with down-
+stream secondary treatments for nutrient management. Future
+work should assess differences in BOD and COD removal, since
+Fig. 2. COD removal rates of the different reactors. Error bars show standard errors (SE). Reactors indicated with asterisk ( ⁄) were operated on diluted black water in CSTR
+mode; all other reactors were operated on synthetic wastewater in SBR mode. Signiﬁcance groups for pairwise comparisons are shown for COD tot (roman letters) and COD diss
+(greek letters) separately; if two bars share the same letter, they do not differ signiﬁcantly ( p > 0.05).
+Table 3
+Summary of COD removal, sludge yield, speciﬁc methane yield and overall energy recovery of the reactors treating
+synthetic wastewater. n.a.: not applicable. Standard errors are shown behind values or as error bars, where
+applicable. Signiﬁcance groups for pairwise comparisons are shown next to the bars; if two bars share the same
+letter, they do not differ signiﬁcantly ( p > 0.05).
+F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381 377
+removal of organic matter by adsorption and ﬂocculation may dif-
+fer between biodegradable and non-biodegradable substrate.
+Moreover, the residual biodegradable organic matter in the high-
+rate stage efﬂuent will inﬂuence the performance of secondary
+treatment options, such as nitrogen removal with partial nitrita-
+tion/anammox.
+3.2. Carbon fractionation and conversion
+To determine the fate of the removed substrate, an overall COD
+balance was made of the steady-state phases of the different reac-
+tors ( Fig. 3 ).
+The extent of substrate oxidation (i.e., the cumulative fraction
+lost to CO 2) was lowest in the HiCS reactors and even approxi-
+mated zero for the reactor at tc/ts 0.14. This indicates that the
+extent of oxidation was very limited in the latter reactor, although
+substrate oxidation was still detected by means of SOUR measure-
+ments (Fig. 5). The cumulative percentage of removed COD (i.e., the
+sum of the fractions going to recovered sludge and CO 2) was high-
+est in the CAS reactor (74%) and lowest in the HiCAS (32–55%) and
+HiCS reactors (32–40%). In contrast, the percentages of COD recov-
+ered as sludge were highest in the HiCS reactor at tc/ts 0.14 (40%).
+Due to non-optimized solid/liquid separation in the settlers, partic-
+ulate fractions in the efﬂuent were still relatively high in all
+reactors, most notably the reactors operated on diluted black water
+(48% of incoming COD leaving as COD
+part for HiCS and 54% for
+HiCAS). Throughout the experiments, variable and high sludge vol-
+ume indices were observed (between 50 to over 300 mL/g). This is
+typical for sludge grown at high sludge-speciﬁc loading rates and
+short SRT ( Liao et al., 2006; Ramalho, 1977 ).
+The inﬂuent consisted of 36% COD part in the synthetic and 41%
+CODpart in the diluted black water. Theoretically, perfect physico-
+chemical solid/liquid separation of the raw inﬂuent would there-
+fore allow an overall COD recovery of only 36% and 41%,
+respectively. This illustrates the advantage of high-rate biological
+processes over purely physicochemical primary treatment technol-
+ogies, such as CEPT. The HiCS reactor at t
+c/ts 0.14 achieved a CODdiss
+removal of 46%. Therefore, assuming optimal solid/liquid separa-
+tion and thus adding the fraction of efﬂuent COD
+part to the fraction
+of recovered COD, the HiCS reactor at tc/ts 0.14 would theoretically
+reach 66% COD recovery. Similarly, the other high-rate reactors
+would reach a recovery of 35–54% while the low-rate reactors
+would reach only 17–32%. This demonstrates the potential of
+high-rate activated sludge processes for maximal energy recovery
+during primary treatment, given further optimization of sludge
+separation.
+Throughout the reactor experiments, a clear trend was observed
+toward a decreasing fraction of COD oxidized to CO 2 with decreas-
+ing SRT. The SRT is known to inﬂuence the extent of substrate min-
+eralization even at the very low SRT that are typically employed in
+high-rate systems ( Faust et al., 2014 ). Further experimental and
+model-based research on the effect of varying SRT on the HiCS sys-
+tem should help determine optimal values of SRT in terms of
+energy recovery.
+3.3. Sludge production
+The observed sludge yield was compared for all reactors. As
+expected, the sludge yield tended to be higher for the high-rate
+reactors compared to the low-rate ones ( Fig. 4 ).
+Remarkably, the observed yield in the HiCS system at tc/ts 0.14
+amounted to 0.71 g VSS g /C01 COD, as recalculated based on the VSS/
+TSS ratio of 0.89 ( Table 2 ). This was higher than the maximum
+yield of 0.4–0.5 g VSS g /C01 COD for aerobic heterotrophic metabo-
+lism, as reported in literature ( Sykes, 1975 ), and suggests the
+involvement of processes of sludge production other than aerobic
+Fig. 3. Cumulative COD balance over the entire steady-state period of the experiments, showing (left) incoming fractions of COD diss and CODpart in the synthetic wastewater
+and diluted black water, and (right) the fate of COD in the different reactors, as fractions recovered as sludge, efﬂuent COD part, efﬂuent COD diss and lost to CO 2. Reactors
+indicated with asterisk ( ⁄) were operated on diluted black water in CSTR mode; all other reactors were operated on synthetic wastewater in SBR mode.
+Fig. 4. Observed sludge yield for the CAS, HiCAS, CS and HiCS reactors. Error bars
+show standard errors (SE). Reactors indicated with asterisk ( ⁄) were operated on
+diluted black water in CSTR mode; all other reactors were operated on synthetic
+wastewater in SBR mode.
+378 F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381
+cell growth in this reactor, such as substrate storage or adsorption
+onto the existing sludge ﬂocs. However, due to high variability
+throughout the reactor runs, differences in yield were found not
+to be statistically signiﬁcant.
+3.4. Energy recovery as methane
+The speciﬁc methane yield was determined for the reactors
+treating synthetic wastewater ( Table 3 ). The highest conversion
+of sludge to methane was obtained in the HiCS reactor at tc/ts
+0.14 and the HiCAS reactors at SRT 0.41 and 1.31 d. Recalculated
+to volumes of methane produced per gram of sludge, the speciﬁc
+methane yield for these reactors amounted to 402, 484 and
+389 mL CH
+4 g/C01 TSsludge fed , respectively. These values were higher
+compared to the low-rate reactors (0.05 > p), but did not signiﬁ-
+cantly differ from one another. By combining the COD removal efﬁ-
+ciency, the sludge yield and the anaerobic methane yield, the
+overall recovery of COD
+inﬂuent as COD CH4 could be derived.
+Whereas the HiCAS reactors performed better in terms of COD
+removal percentage and speciﬁc methane yield, it was found that
+the HiCS reactor at tc/ts 0.14 had the highest overall COD recovery
+percentage, with 34% of the incoming COD recovered as methane.
+This was 33% higher than the energy performance of the second-
+best reactor; the HiCAS system at SRT 0.41 d. Comparison with val-
+ues reported in literature shows that the COD recovery percentage
+of the HiCS system at t
+c/ts 0.14 was comparable to the 35% that was
+obtained in a high-rate membrane bioreactor ( Akanyeti et al.,
+2010) and considerably higher than the typical values of around
+25% in CAS systems ( Cornel et al., 2011; Verstraete et al., 2009 ).
+The difference in energy recovery potential between the two HiCS
+reactors showed that contact and stabilization times have a major
+inﬂuence on the energy recovery of the HiCS system, and that these
+parameters should, together with sludge separation and SRT, be
+further optimized. Due to the variability in the observed yields,
+however, the differences in energy recovery potential between
+the reactors was not signiﬁcant. This indicates that the perfor-
+mance of the HiCS process is at least equivalent to existing high-
+rate systems but, given further optimization, potentially better.
+3.5. Process kinetics of the HiCS system
+Respirometric experiments were performed to improve under-
+standing of the process kinetics of the HiCS system, and provide
+perspectives for further optimization. Fig. 5 presents the evolution
+of the SOUR exo, i.e., a measure of the rate of substrate oxidation to
+CO2, with the COD concentrations during one SBR cycle of the HiCS
+reactors treating synthetic wastewater.
+During stabilization, SOUR exo levels dropped drastically after
+approximately 8 min in the HiCS reactor at tc/ts 0.14 and 12 min
+at tc/ts 1, marking the depletion of reserves of rapidly biodegrad-
+able COD. Only the sludge at tc/ts 0.14 was able to reach a near-
+endogenous state during stabilization, which means that a more
+pronounced substrate gradient was present in this reactor, and
+that selection pressures toward sorption and storage must have
+been considerably higher than at tc/ts 1. In both reactors, DO levels
+dropped to nearly zero after 5 min of contact time because of a fast
+aerobic metabolism. Since the contact phase was not aerated, DO
+levels remained low (<0.07 mg L
+/C01) until aeration was switched
+on in the stabilization phase. For each phase, removal percentages
+of dissolved and colloidal substrate are shown in Table 4 .
+For both HiCS reactors, removal of COD coll occurred mainly in
+the stabilization phase, and was negative in the contact phase, sug-
+gesting a net release of colloidal matter. However, absolute con-
+centrations of COD coll were low, and had only a minor effect on
+the overall removal of COD coll+diss. COD diss removal was more
+evenly distributed between the contact and stabilization phases,
+and was negligible during the settling and withdrawal phases.
+Fig. 5. Kinetic characterization of the different phases of the in the HiCS reactors at
+(A) tc/ts 1 and (B) tc/ts 0.14. Exogenous SOUR is represented on the left axis; COD
+proﬁles on the right axis.
+Table 4
+Removal (%) of COD coll and COD diss during the different phases of the SBR cycle of the HiCS reactors.
+SRT 1.0 d SRT 1.1 d
+tc/ts 1 tc/ts 0.14
+CODcoll CODdiss CODcoll+diss CODcoll CODdiss CODcoll+diss
+Stabilization 73 41 49 94 57 68 %
+Contact /C0188 14 7 /C0214 21 8 %
+Settling and withdrawal 61 /C033 /C025 4 /C01%
+Overall 63 47 48 /C0129 56 45 %
+F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381 379
+Interestingly, the removal percentages in the ﬁve-minute con-
+tact phase of the reactor at tc/ts 0.14 were slightly higher than in
+the twenty-minute contact phase of the reactor at tc/ts 1( Table 4).
+This suggests that removal during the contact phase is governed by
+physicochemical mechanisms such as sorption and ﬂocculation.
+Indeed, it has been demonstrated that ﬂocculation of activated
+sludge is essentially 99% completed within 10 min ( Wahlberg
+et al., 1994 ). Zhao et al. (2000) found that ﬂocculation and adsorp-
+tion are responsible for 38% of the total COD removal in a labora-
+tory-scale HiCS system, while the remaining 62% was mainly due
+to gravitational settling. When designing a HiCS system, a contact
+phase of only a few minutes may therefore be sufﬁcient to reach a
+considerable removal of COD.
+Conversely, stabilization times should be long enough to ensure
+sufﬁcient degradation of slowly biodegradable COD, such as hydro-
+lysable solids, polymers and storage products, and thus select for
+micro-organisms with a high storage and sorption capacity. This
+is in accordance to the ﬁndings of Huang and Li (2000) , who found
+that a minimum stabilization period of 30 min is required to
+ensure a sufﬁcient biosorptive capacity of the sludge, and may
+explain the lower performance of the HiCS reactor at t
+c/ts 1, in
+which the stabilization period lasted only 20 min. No strong sub-
+strate gradient was reached in this reactor, because even though
+the SOUR declined after approximately 12 min of stabilization, pre-
+sumably because of depletion of rapidly biodegradable COD, the
+reactor never reached a state of endogenous respiration.
+Finally, not only the absolute retention times but also the tc/ts
+ratio likely inﬂuences overall removal efﬁciencies. In the low-rate
+CS system, this ratio determines the relative contribution of the
+different physical and biological removal processes in each phase
+(Gujer and Jenkins, 1975 ). Although the contact phase in the HiCS
+reactor at tc/ts 0.14 lasted only 5 min, COD diss removal percentages
+were higher compared to the reactor at tc/ts 1, which suggests that
+an effective selection for micro-organisms capable of rapid sorp-
+tion and storage is responsible for the superior energy recovery
+performance of the HiCS process at t
+c/ts 0.14.
+4. Conclusions
+These experiments demonstrated that the HiCS process com-
+bines the advantages of the high-rate activated sludge process
+(i.e., high sludge yields and low percentages of substrate oxidation)
+with the advantages of the contact stabilization process (i.e., a
+feast-famine regime to select for rapid sorption and storage of sub-
+strates and achieve efﬁcient removal of organic matter at very
+short contact times). Given further optimization of solid/liquid
+separation, SRT and tc/ts ratio, the HiCS process may outperform
+other high-rate activated sludge processes in terms of overall
+energy recovery, and can be considered a promising primary treat-
+ment process to obtain energy self-sufﬁcient wastewater
+treatment.
+Acknowledgements
+F.A.M. and S.E.V. were supported as doctoral candidate (Aspi-
+rant) and as postdoctoral fellow, respectively, from the Research
+Foundation Flanders (FWO-Vlaanderen). We thank Giacomo Bel-
+landi and Tinne De Boeck for the assistance with the respirometric
+experiments, Dries Seuntjens for the provision of sludge inocula, Jo
+De Vrieze for the assistance with the BMP experiments and the
+inspiring scientiﬁc discussions, and José Carvajal-Arroyo and Lars
+Angenent for their feedback on the manuscript.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.biortech.2014.
+12.018.
+References
+Aiyuk, S., Verstraete, W., 2004. Sedimentological evolution in an UASB treating
+SYNTHES, a new representative synthetic sewage, at low loading rates.
+Bioresour. Technol. 93 (3), 269–278 .
+Akanyeti, I., Temmink, H., Remy, M., Zwijnenburg, A., 2010. Feasibility of
+bioﬂocculation in a high-loaded membrane bioreactor for improved energy
+recovery from sewage. Water Sci. Technol. 61 (6), 1433–1439 .
+Bandyopadhyay, B., Humphrey, A.E., Taguchi, H., Rao, G., 2009. Dynamic
+measurement of the volumetric oxygen transfer coefﬁcient in fermentation
+systems. Biotechnol. Bioeng. 104 (5), 841–853
+.
+Böhnke, B., 1977. Das adsorptions-belebungsverfahren. Korrespondenz Abwasser
+24 (2), 33–42 .
+Böhnke, B., Diering, B., Zuckut, S.W., 1997. Cost-effective wastewater treatment
+process for removal of organics and nutrients II. Water Eng. Manage. 144 (7),
+18–21
+.
+Bolzonella, D., Pavan, P., Battistoni, P., Cecchi, F., 2005. Mesophilic anaerobic
+digestion of waste activated sludge: inﬂuence of the solid retention time in the
+wastewater treatment process. Process Biochem. 40 (3–4), 1453–1460 .
+Bowen, E.J., Dolﬁng, J., Davenport, R.J., Read, F.L., Curtis, T.P., 2014. Low-temperature
+limitation of bioreactor sludge in anaerobic treatment of domestic wastewater.
+Water Sci. Technol. 69 (5), 1004–1013
+.
+Chudoba, J., Grau, P., Ottova, V., 1973. Control of activated-sludge ﬁlamentous
+bulking – II. Selection of microorganisms by means of a selector. Water Res. 7
+(10), 1389–1398 .
+Coombs, J.A., 1921. Improvements in or connected with the treatment of sewage
+and other impure liquids, C02F3/12 ed., United Kingdom, pp. 14.
+Cornel, P., Meda, A., Bieker, S., 2011. Wastewater as a source of energy, nutrients
+and service water. In: Wilderer, P. (Ed.), Treatise on Water Science. Elsevier
+Verlag, Oxford, pp. 337–375
+.
+Daigger, G.T., Grady Jr., C.P.L., 1982. The dynamics of microbial growth on soluble
+substrates: a unifying theory. Water Res. 16 (4), 365–382 .
+De Clippeleir, H., Vlaeminck, S.E., De Wilde, F., Daeninck, K., Mosquera, M., Boeckx,
+P., Verstraete, W., Boon, N., 2013. One-stage partial nitritation/anammox at 15
+degrees C on pretreated sewage: feasibility demonstration at lab-scale. Appl.
+Microbiol. Biotechnol. 97 (23), 10199–10210
+.
+Diamantis, V., Verstraete, W., Eftaxias, A., Bundervoet, B., Siegfried, V., Melidis, P.,
+Aivasidis, A., 2013. Sewage pre-concentration for maximum recovery and reuse
+at decentralized level. Water Sci. Technol. 67 (6), 1188–1193
+.
+Faust, L., Temmink, H., Zwijnenburg, A., Kemperman, A.J.B., Rijnaarts, H.H.M., 2014.
+High loaded MBRs for organic matter recovery from sewage: effect of solids
+retention time on bioﬂocculation and on the role of extracellular polymers.
+Water Res. 56, 258–266 .
+Gernaey, K., Petersen, B., Nopens, I., Comeau, Y., Vanrolleghem, P.A., 2002. Modeling
+aerobic carbon source degradation processes using titrimetric data and
+combined respirometric–titrimetric data: experimental data and model
+structure. Biotechnol. Bioeng. 79 (7), 741–753
+.
+Greenberg, A.E., Clesceri, L.S., Eaton, A.D. (Eds.), 1992. Standard Methods for the
+Examination of Water and Wastewater. American Public Health Association
+Publications, Washington .
+Gujer, W., Jenkins, D., 1975. The contact stabilization activated sludge process –
+oxygen utilization, sludge production and efﬁciency. Water Res. 9 (5–6), 553–
+560
+.
+Haider, S., Svardal, K., Vanrolleghem, P.A., Kroiss, H., 2003. The effect of low sludge
+age on wastewater fractionation (S(S), S(I)). Water Sci. Technol. 47 (11), 203–
+209
+.
+Huang, J.-C., Li, L., 2000. An innovative approach to maximize primary treatment
+performance. Water Sci. Technol. 42 (12), 209–222 .
+Jenicek, P., Kutil, J., Benes, O., Todt, V., Zabranska, J., Dohanyos, M., 2013. Energy self-
+sufﬁcient sewage wastewater treatment plants: is optimized anaerobic sludge
+digestion the key? Water Sci. Technol. 68 (8), 1739–1744 .
+Larrea, L., Irizar, I., Hidalgo, M.E., 2002. Improving the predictions of ASM2d through
+modelling in practice. Water Sci. Technol. 45 (6), 199–208 .
+Liao, B.Q., Droppo, I.G., Leppard, G.G., Liss, S.N., 2006. Effect of solids retention time
+on structure and characteristics of sludge ﬂocs in sequencing batch reactors.
+Water Res. 40 (13), 2583–2591
+.
+Makinia, J., Rosenwinkel, K.H., Phan, L.C., 2006. Modiﬁcation of ASM3 for the
+determination of biomass adsorption/storage capacity in bulking sludge
+control. Water Sci. Technol. 53 (3), 91–99
+.
+Metcalf & Eddy, 2003. Wastewater Engineering: Treatment and Reuse, fourth ed.
+McGraw-Hill, New York .
+R Core Team, (2013). R: A language and environment for statistical computing
+<http://www.R-project.org/>.
+Ramalho, R.S., 1977. Chapter 5: secondary treatment: the activated sludge process.
+In: Introduction to Wastewater Treatment Processes. Academic Press, New
+York
+.
+380 F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381
+Scherson, Y.D., Criddle, C.S., 2014. Recovery of freshwater from wastewater:
+upgrading process conﬁgurations to maximize energy recovery and minimize
+residuals. Environ. Sci. Technol. 48 (15), 8420–8432 .
+Shizas, I., Bagley, D.M., 2004. Experimental determination of energy content of
+unknown organics in municipal wastewater streams. J. Energy Eng.-Asce 130
+(2), 45–53 .
+Sykes, R.M., 1975. Theoretical heterotrophic yields. J. Water Pollut. Control Fed. 47
+(3), 591–600 .
+Verstraete, W., de Caveye, P.V., Diamantis, V., 2009. Maximum use of resources
+present in domestic ‘‘used water’’. Bioresour. Technol. 100 (23), 5537–5545 .
+Verstraete, W., Vlaeminck, S.E., 2011. ZeroWasteWater: short-cycling of wastewater
+resources for sustainable cities of the future. Int. J. Sustainable Dev. World 18
+(3), 253–264 .
+Wahlberg, E.J., Keinath, T.M., Parker, D.S., 1994. Inﬂuence of activated sludge
+ﬂocculation time on secondary clariﬁcation. Water Environ. Res. 66 (6), 779–
+786
+.
+Wett, B., Buchauer, K., Fimml, C., 2007. Energy self-sufﬁciency as a feasible concept
+for wastewater treatment systems. In: IWA Leading Edge Technology
+Conference, Sept. 2007, Singapore, pp. 21–24.
+Zessner, M., Lampert, C., Kroiss, H., Lindtner, S., 2010. Cost comparison of
+wastewater treatment in Danubian countries. Water Sci. Technol. 62 (2), 223–
+230
+.
+Zhao, W., Ting, Y.P., Chen, J.P., Xing, C.H., Shi, S.Q., 2000. Advanced primary
+treatment of waste water using a bio-ﬂocculation-adsorption sedimentation
+process. Acta Biotechnol. 20 (1), 53–64
+.
+F.A. Meerburg et al. / Bioresource Technology 179 (2015) 373–381 381

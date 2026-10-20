@@ -1,0 +1,262 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Avenue des Gaulois 9 
+B-1040 Brussels 
+Belgium 
+Tel: +32 2 736 0305 
+TR: 107438267901 
+www.aim.be 
+ 
+ 
+Feedback 
+ 
+ 
+AIM Position on the Digital Omnibus Proposal 
+ 
+ 
+March 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXECUTIVE SUMMARY 
+ 
+ 
+Ref. Ares(2026)2756394 - 13/03/2026
+
+ 
+ 
+ 
+    2 
+ 
+ 
+AIM calls for: 
+• A proportionate, risk-based application of new Article 88a on storing and accessing personal data in 
+terminal equipment, recognising distinctions between low-risk first-party uses and cross-site tracking. 
+• Careful calibration of Article 88b on automated and machine-readable consent signals to ensure 
+technical feasibility, legal certainty and competition neutrality. 
+• Avoidance of default browser-level configurations that could unintentionally disrupt legitimate digital 
+engagement, personalised services and trusted brand-consumer relationships. 
+• Recognition of the distinct role of first-party data in enabling trusted brand–consumer relationships 
+and delivering tailored digital experiences expected by consumers. 
+• Clear guidance, workable standards and sufficient transition periods before obligations under Articles 
+88a and 88b become binding. 
+ 
+ 
+1. Introduction 
+ 
+AIM welcomes the European Commission’s initiative to simplify elements of the digital regulatory framework in 
+the via its Digital Omnibus 
+ 
+AIM – the European Brands Association – represents over 2,500 manufacturers of branded consumer goods 
+operating across the EU. Our members include both small and medium-sized enterprises and large 
+multinational companies producing a wide range of trusted products – from food and beverages to personal 
+care and home care, to apparel, toys and other consumer goods. Built on decades of innovation, quality and 
+responsible business practices, these brands are central to daily life for consumers across Europe.  
+ 
+The fast-moving consumer goods industry is the third-largest manufacturing sector in Europe and a key 
+contributor to growth and jobs. The industry remains a strong supporter of the Single Market, moving €276 
+billion of consumer goods within the EU every year. In addition, €174.8 billion of FMCG products are exported 
+outside the EU (the remaining 39% of FMCG trade)—demonstrating Europe’s global reach and the trust placed 
+in European products. 1 
+ 
+Within this wider sector, AIM’s members represent the branded goods industry, which drives innovation, 
+investment and consumer trust across the Single Market.  
+ 
+Digital engagement plays an increasingly important role in how brands inform, serve and build relationships 
+with consumers. Clear, coherent and proportionate rules governing consent and terminal equipment are 
+therefore essential to support consumer trust, innovation and competitiveness across the Single Market. 
+Increasingly, AI-enabled tools are being explored and deployed across supply chains, product development, 
+forecasting, customer interaction and operational processes. In this context, clear, consiste nt and predictable 
+rules are essential to ensure that companies can innovate responsibly and invest with confidence.  
+ 
+2. Article 88a – Consent Requirement and Lawful Exceptions 
+ 
+Article 88a introduces a clear rule that storing or accessing personal data in terminal equipment requires consent, 
+while providing defined exceptions where such storage or access is lawful without consent.  
+ 
+AIM supports the clarification that certain activities do not require consent, including where storage or access is 
+necessary for transmission of communication, provision of a service explicitly requested by the user, first -party 
+audience measurement for the controller’s own use, and security purposes. 
+ 
+ 
+1 See AIM’s Consumer Goods Industry Barometer 2024 for more information.  
+ 
+ 
+ 
+    3 
+ 
+The explicit recognition of first-party audience measurement carried out solely for the controller’s own use is 
+particularly important. It provides needed legal clarity for legitimate analytics that do not involve cross -site tracking or 
+third-party data sharing. 
+ 
+However, implementation of the consent requirement must reflect a genuinely risk -based approach. First-party data 
+collected by brands in the context of direct interactions with consumers plays an essential role in enabling trusted 
+digital services. When a consumer visits a brand’s website or digital service, the use of first -party cookies and similar 
+technologies allows the brand to provide core functionalities, improve services, measure performance and deliver 
+more relevant and tailored experiences. 
+ 
+These first-party uses differ fundamentally from cross-site tracking by third parties across unrelated services. They 
+form part of a direct and transparent relationship between brands and consumers and are typically limited in scope to 
+that specific interaction. Regulatory implementation should therefore preserve a proportionate and risk -based 
+approach that recognises the distinct nature of first-party data. 
+ 
+A rigid interpretation that does not adequately distinguish between different risk levels could unintentionally restrict 
+legitimate digital practices that enhance user experience and service quality without delivering proportionate privacy 
+gains. 
+ 
+3. Article 88a – Safeguards on Consent Requests 
+ 
+Article 88a also introduces safeguards intended to address consent fatigue, including:  
+ 
+• The requirement that refusal must be possible through a single-click or equivalent means. 
+• The prohibition on repeated consent requests for the same purpose for at least six months where consent 
+has been declined. 
+ 
+AIM recognises the concern about repeated consent prompts and supports measures that improve user experience 
+and reduce unnecessary friction. 
+ 
+At the same time, practical implementation must avoid creating operational rigidity. Digital services evolve frequently, 
+and purposes may be refined or adapted over time. Clear guidance will be needed to define what constitutes the 
+“same purpose” and how the six-month rule should apply in dynamic online environments. 
+ 
+4. Article 88b – Automated and Machine-Readable Indications 
+ 
+Article 88b requires controllers to enable consent and objection through automated and machine -readable means 
+and to respect those signals once standards are developed. It also requires non -SME browser providers to provide the 
+technical means to transmit such signals. 
+ 
+The objective of enabling more seamless and less intrusive consent mechanisms is understandable. However, this new 
+architecture raises several structural considerations. 
+ 
+First, requiring controllers to respect automated signals while obliging major browser providers to transmit them may 
+shift significant influence over consent architecture to browser-level actors. In markets where a small number of 
+providers dominate browser distribution, this raises important questions regarding neutrality, competition and 
+market structure, as consent architecture could effectively be shaped by a limited number of private actors.  
+While browser-level consent mechanisms are often presented as a simpler way for users to manage privacy 
+preferences, they may reduce the precision, transparency and accountability of consent. Browser -level signals are 
+typically generic and binary, making it difficult to reflect the diversity of processing purposes across digital services or 
+to adapt preferences as services evolve over time. At the same time, responsibility for lawful processing remains with 
+the data controller, while the design and interpretation of automated signals may be determined by browser 
+providers that are not themselves accountable for the underlying data processing. This may create compliance risks 
+and reduce transparency for users regarding who processes their data and for what pu rpose. 
+ 
+Second, the technical feasibility of purpose-based granularity remains uncertain. Distinguishing between different 
+processing purposes—such as targeted advertising, personalisation and analytics—through automated signals may 
+ 
+ 
+ 
+    4 
+ 
+prove complex. Without clear and workable standards, implementation risks fragmentation and legal uncertainty 
+across the Single Market. 
+ 
+Third, the question of default settings is critical. If browser-level mechanisms default to refusal for all but strictly 
+necessary storage or access, this could have significant implications for the digital ecosystem. Such a configuration 
+would affect the ability of trusted brands to communicate effectively with consumers, provide personalised and 
+relevant experiences, and understand how their online services are used and improved.  
+ 
+It could also disrupt the use of first-party data within direct brand–consumer relationships. First-party data enables 
+brands to improve digital services, understand how their platforms are used and provide personalised interactions 
+that consumers increasingly expect. Consumers may choose to share data with trusted brands in exchange for more 
+relevant services and improved experiences. Any future consent architecture should therefore preserve this trusted 
+value exchange while ensuring strong privacy safeguards and meaningful user choice. 
+ 
+5. Standards, Presumption of Compliance and Transition 
+ 
+Article 88b foresees that harmonised standards will define how automated signals are interpreted and that 
+conformity with such standards will create a presumption of compliance.  
+AIM supports harmonisation at EU level to prevent fragmentation across Member States. However, standards must 
+be: 
+• Technologically neutral. 
+• Interoperable across different digital environments. 
+• Thoroughly tested before binding application. 
+Clear guidance will also be necessary to explain how automated signals interact with other GDPR legal bases and 
+existing consent management systems. 
+ 
+Given the structural importance of consent mechanisms, sufficient transition periods are essential to allow technical 
+adaptation and consistent implementation across the Single Market.  
+ 
+6. Conclusion 
+ 
+AIM supports the objective of simplifying and modernising the framework governing processing of personal data on 
+and from terminal equipment 
+ 
+However, implementation of Articles 88a and 88b must remain proportionate, technically workable and competition -
+neutral. It should safeguard privacy while enabling trusted brands to continue providing secure, personalised and 
+high-quality digital experiences across the European Single Market. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    5 
+ 
+About AIM 
+ 
+AIM (Association des Industries de Marque) is the European Brands Association, which  represents manufacturers of 
+branded consumer goods in Europe on key issues that affect their ability to design, distribute and market their brands.   
+  
+AIM comprises 2500 businesses ranging from SMEs to multinationals, directly or indirectly through its corporate and 
+national association members. Our members are united in their purpose to build strong, evocative brands, placing the 
+consumer at the heart of everything they do.  
+  
+AIM’s mission is to create for brands an environment of fair and vigorous competition, fostering innovation and 
+guaranteeing maximum value to consumers now and for generations to come.  Building sustainable and trusted brands 
+drives the investment, creativity and innovation needed to meet and exceed consumer expectations.   
+  
+AIM’s corporate members  
+AB InBev • Arla Foods • Bacardi Limited • Barilla   • BIC •  Bolton Group • Carlsberg Group  • Chanel • The Coca -Cola 
+Company • Colgate-Palmolive • Coty • Danone • Diageo • Dr. Oetker • Essity •   Essilor International • Estée Lauder • 
+Ferrero • Freudenberg/Vi leda • Groupe Lactalis •  Haleon • Heineken • Henkel •  HP Inc.  • 
+JDE  • Kenvue • Kellanova • The Kraft Heinz Company • Lavazza Group • The LEGO Group • Lindt & Sprüngli • L’Oréal • 
+LVMH • Mars Inc. •   McCormick • Mondelēz • Nestlé • Nike • Nomad Foods Europ e • Orkla • PepsiCo • Perfetti Van 
+Melle • Pernod Ricard  • Philips •  Procter & Gamble • Puma • Reckitt   • Red Bull  •Savencia Fromage & Dairy • SC 
+Johnson • Sigma  • Signify • Sofidel • The Magnum Ice Cream Company • Unilever  
+  
+AIM’s national association members  
+Austria Markenartikelverband • Belgilux BABM • Czech Republic CSZV  • Denmark MLDK  • Finland FFDIF  • ESVEP – 
+Greek Association of Branded Products Manufacturers • France ILEC • Germany Markenverband • Ireland Food & Drink 
+Federation • Italy Centromarca • Netherlands FNLI  • Norway DLF  • Portugal Centromarca • Spain Promarca • Slovakia 
+SZZV • Sweden DLF • Switzerland Promarca • United Kingdom British Brands Group    
+  
+ 
+EU Transparency register ID no.: 1074382679-01 
+ 

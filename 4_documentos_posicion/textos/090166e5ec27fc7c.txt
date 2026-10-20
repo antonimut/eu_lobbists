@@ -1,0 +1,193 @@
+ 
+ 
+ 
+ 
+HERE Policy paper  
+here.com © HERE 2022 1 | 5 
+ 
+HERE comments to the European Commission’s proposal for a Data Act 
+ 
+About HERE Technologies 
+HERE Technologies is the leading global provider of location data and services, headquartered in the 
+European Union. From high -definition maps for automated driving, to our open B2B Platform, 
+designed to enable data exchange and foster innovation, HERE is a fully data -driven company. Our 
+innovations have led the development and deployment of advanced connected and automated 
+vehicles solutions. Today, 100 million vehicles are equipped with HERE systems (4 out of 5 vehicles on 
+European and North American road s). With HERE, journeys become faster, more efficient and safer; 
+fleets optimize deliveries; supply chains become more predictable; and services become location 
+intelligent. Our vision is to create an autonomous world for everyone, by facilitating the exch ange of 
+data as a critical prerequisite for innovation, future business models, societal well-being and economic 
+growth around the world.  
+Introduction 
+HERE Technologies appreciates the opportunity to provide feedback on the proposed EU Data Act. 
+Enhancing data availability, access and re-use are key prerequisites to develop a fully-fledged EU Data 
+Economy and pave the way for a true EU Digital Sovereignty, that both EU Member States and the 
+European Commission are aiming for.  
+However, we do believe that the text, in its current form, could lead to a high level of legal 
+uncertainty, which we should avoid at all costs if we want to preserve business predictability and 
+innovation in Europe. On top of the questions related to a rather unclear scope and definitions, the 
+challenges posed by including both personal and non-personal data in a same regulation are deemed 
+critical.  
+ 
+1. Scope & definitions 
+ 
+a. Scope of related services & products 
+From the point of view of a third-party automotive supplier and digital map provider, a key question 
+remains around the notion of “related services” which are in scope of this draft regulation. As we 
+understand that a “related service” actually enhances th e functionality of the product at sale, we 
+would conclude that embedded navigation services may fall into the scope of “related services”. At 
+the same time, Recital 15 of the proposal introduces exemptions, i.e products which are not in scope 
+Ref. Ares(2022)3656544 - 13/05/2022
+ 
+ 
+ 
+ 
+HERE Policy paper  
+here.com © HERE 2022 2 | 5 
+of the regulation such as smartphones and related content e.g digital maps. This de facto creates an 
+unfair situation where any raw input data from embedded services would have to be shared to any 
+user requesting it whether it being a consumer or a business competitor,  whereas data originating 
+from an app on a smartphone, used for precisely the same guidance and routing purposes as the 
+embedded services, would fall out of scope. 
+In order to avoid any unfair competition scenario, we suggest narrowing the scope of product 
+functions to core functions only and the scope of “related services” to services that enhance the core 
+functionality of the product.  
+b. Definition of Data holder 
+When looking at the definition of “data holder”, i.e  a legal or natural person, who has , through 
+control of the technical design of the product and related services, the ability, to make available 
+certain data, it appears that in order to qualify as a data holder, an entity must be responsible for 
+both the technical design of the IoT hardware product AND its related services. Therefore, third-party 
+service providers would not be considered as data holders per this regulation and would not be 
+subject to the requirements of Articles 4 and 5. Only the parties that collect s ource data are able to 
+make source data accessible to third parties, not service providers that license such source data to 
+use within their own  services.   We do request the European Commission to provide some clarity 
+regarding this concept of “data holder”, notably because th is regulation covers both personal and 
+non-personal data. There might be scenarios (i.e with non personal data/ anonymised data 
+reidentification) where the role of a data holder is switching to that of a data controller. Therefore, 
+it is of utmost importan ce to clarify the relationships between those different notions and ensure 
+consistency and applicability of both the Data Act and the General Data Protection Regulation. 
+c. Source data vs Service-level data 
+It is necessary to refer to 'source data' which means data directly collected from and by the original 
+source and 'service data' which means source data that has been subject to data refinement and 
+made available as an IT service which can be covered by IP rights if it meets the relevant legal criteria. 
+We therefore recommend restricting data sharing obligations to product manufacturers that collect 
+source data from the original source and not third party service providers that license and aggregate 
+source data. 
+We would like to emphasize that when considering data access and defining obligations for entities 
+to make data accessible and available for re -use, it is cr ucial to correctly and accurately define the 
+various sub-categories of ‘data’. There is no singular concept of data, specifically in a B2B context. It 
+goes through a journey where it starts off as source data and then completes a data refinement 
+process. This involves the process of inspecting, cleansing, transforming, modelling and/or 
+interpreting source data towards forming information. Thereafter, it becomes service data, that has 
+been subject to data refinement and made available as an IT service. These activities require 
+extensive know-how, ressources, and are part of commercial and competitiv e business models that 
+must be preserved. Our concern with the current definitions of “data” in Article 2 and “data 
+ 
+ 
+ 
+ 
+HERE Policy paper  
+here.com © HERE 2022 3 | 5 
+generated” in Article 4 is that they are extremely broad: there is no distinction made between source 
+data and data that has gone through a refinement process. Recital 17 does imply a narrower scope, 
+by excluding data resulting from any software process that calculates derivative data from such data 
+as such software process may be subject to intellectual property rights. If we do recognize the validity 
+of this “derived” vs “intentionally provided” separation, it should be underlined that the notion of 
+“derivative data” remains too vague from our point view. As an example, map editors provide direct 
+feedback e.g “this street is closed”, this information is then derived in the processing chain to reflect 
+the feedback, but the feedback itself is pretty similar to the compiled output. Such legal uncertainties 
+could hamper any collaborative model, which is however paramount for the development of a D ata 
+economy. 
+We therefore request a clarification in the core regulation which better reflects this distinction 
+between raw data and service-level data, i.e data that has been subject to a commercial service.  
+The definition itself of “data” should be revi ewed to ref lect that “ ‘data’ means any digital 
+representation of acts or facts or information and any compilation of such acts or facts or information, 
+including in the form of sound, visual or audiovisual recording, which has not gone through a process 
+of refinement ;  
+Also, it should be made clear that the notion of “generated data” (whose definition is missing) only 
+covers accessible data, which would be requested in a digital and machine-readable format, available 
+at the existing interfaces of the data holder. 
+ 
+2. Technical limitations to making data available to users 
+ 
+As the world leading provider of location data and services, HERE is fully committed to comply with 
+privacy and data protection regulations. In order  to comply with the General Data Protection 
+Regulation (GDPR), our company has to undergo processes to isolate and partition the data into 
+various components., which leads to technical hurdles to trace the data back to the user. The same 
+applies to the pri nciples of anonymization and pseudonymization that we as a company do 
+implement in order to comply with GDPR and related existing regulations. A further complication is 
+that persistent identifiers in our datasets are removed or changed and nearly all data is aggregated 
+prior to further use.   These techniques are applied to reduce the chances of reidentifying the user 
+based on the data and manage the data in a cost-effective manner. With the current wording of the 
+Data Act, we are concer ned that we would need to remove these data protection measures and 
+personalize the data collected, in order to make that data available to users. 
+What constitutes legally effective anonymization and pseudonymization is an important issue, 
+leading to legal  uncertainty and potentially expansion of the existing GDPR -uncertainty to non -
+personal data. 
+ 
+ 
+ 
+ 
+HERE Policy paper  
+here.com © HERE 2022 4 | 5 
+Also, from our perspective, the essential distinction which is completely missing in this draft 
+regulation is the notion of user context versus non -user context, that is however recognized in the 
+GDPR. We do request more alignment between the GDPR and the Data Act on this fundamental 
+distinction. In a navigation context, as we do not want to relate location-based use-cases to any user, 
+there is simply no user conte xt, on purpose. Only the product side has a user context. The service 
+cannot build a user -context that does not exist. Therefore, obligation has to be put on the product 
+when there is a user -context, not on the service that cannot build a user -context that  simply and 
+intentionally does not exist. 
+ 
+3. Conditions for data access, sharing and re-use 
+ 
+Reasonable compensation for data holders should be possible in general in order to  stimulate the 
+data economy and incentivize data sharing. Otherwise, it appears cleat that any new innovative data-
+based service in the IoT world would be jeopardized even before being put on the market. We should 
+also have in mind that increasing complian ce costs might actually as a perverse effect restrict and 
+penalize B2B data sharing.  
+We do welcome the Commission’s proposal under Article 6 to prohibit the third party receiving the 
+data to develop a product that compete with the product from which the accessed data originate or 
+share the data with another third party for that purpose. The prohibition to use the data received 
+from the data holder for the development of a competing product should, in our opinion, not only 
+apply to products, but also to related services. There is no obvious reason to restrict the scope of Art. 
+6 para 2 pt. e to products only while data can also be obtained from related services. It is important 
+to state that a prohibition to compete with the product or related service that t he data originated 
+from does in no way prevent a third party from offering an aftermarket service that may be in 
+competition with a product or related service other than the one the data originated from. Hence, 
+the pro-competitive effect of the Data Act would be preserved. 
+Regarding Article 3 on obligations to make data generated by the use of a product or related services 
+accessible:  in a B2B value-chain, scenarios are much more complex. When a supplier, acting as Tier 
+1 or Tier 2, makes interfaces availa ble to business customers and ultimately OEMs, it is very often 
+the case that, at the end and for technical reasons during product integration, this interface has been 
+modified. Therefore, what is the responsibility of the different actors in a B2B chain i f the data is 
+deemed non accessible or difficult to access? 
+ 
+4. B2G data sharing 
+ 
+ 
+ 
+ 
+ 
+HERE Policy paper  
+here.com © HERE 2022 5 | 5 
+A crucial barrier for B2G data sharing is often the very high costs associated with it. Therefore, putting 
+in place attractive compensation mechanisms or respecting commercial data licensing agreements 
+for companies would be a more efficient way to achieve the desired objective of the Data Act. These 
+incentives could be direct (e.g., monetary) or indirect (e.g., reputational) and actually foster voluntary 
+data sharing. 
+On top of this, the scope of the covered data, the set of scenarios under which mandatory B2G data 
+sharing would be required as well as a proper definition of “public interest” are crucially missing in 
+the proposed text. As it stands, the notion of public interest could cover anything from traffic 
+management to statistics. Also, it should be clarified which responsible government entities could 
+exercise such public interest, i.e the case of entities acting on behalf of a public authority. 
+The interference with existing sectorial regulation, such as the newly revised delegated act on Real 
+Time Traffic Information, should be more closely looked at to avoid any c ontradiction and legal 
+uncertainty. As an example, a clear reference to FRAND principles (such as in RTTI) should be 
+introduced in the Data Act. 
+Such an uncertainty with regards to the data sharing conditions could hinder the effectiveness, both 
+in terms o f quality and timeliness, of the emergency response from a company perspective, which 
+will still have to invest in data processing without any incentive whatsoever in return , and often, as 
+we have seen recently, at a time of crisis.  
+ 
+ 

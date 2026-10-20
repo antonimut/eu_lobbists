@@ -1,0 +1,481 @@
+ 
+PERFORMANCE GUARANTEES AND CLAIMS 
+– Evidence from ICC and GCD  
+1 SUMMARY 
+Members of the International Chamber of Commerce (ICC) who are active in trade finance 
+have collected large scale data on the claim and drawing rates of Performance Guarantees 
+(i.e. Bid, Advance Payment, Performance and Retention)  and Financial Guarantees, showing 
+very low drawing and pay out rates, due to the nature of these products which only pay out 
+when there are failures in the underlying contract/agreement.  
+Members of Global Credit Data (GCD) have collected similar data on the drawing rates of 
+performance bonds and guarantees after the obligor has gone into default.  This data shows 
+higher but similar drawing rates, reflecting that even after a company defaults, most 
+commercial guarantees do not need to be claimed as either the underlying contractual 
+obligations have been carried out to the satisfaction of both parties to the commercial contract 
+or the business ceases and both parties have come to a mutual agreement without a claim 
+under the guarantee being enforced. 
+These data together support an average Credit Conversion Factor (CCF) of less than 10% 
+which in turn supports the maintenance of a 20% downturn EAD when calculating Risk 
+Weighted Assets for capital purposes. 
+2 BACKGROUND 
+The Basel Committee’s position on performance guarantees has been that “the CCF 
+expresses the likelihood of an off-balance sheet position to become on-balance sheet, i.e. it is 
+not related to the riskiness of a counterparty which is expressed by the position’s probability of 
+default.”  
+In 2011, the Basel Committee considered some early data from ICC and suggested that at that 
+time the ICC Trade Register did not provide “sufficient analytical evidence for reducing the 
+CCF in the risk-based approach below 20%.” This paper aims to provide such evidence. 
+3 PERFORMANCE GUARANTEE PRODUCTS EXPLAINED 
+Market Practice is market convention to issue guarantees subject to the provisions of the ICC 
+Uniform Rules for Demand Guarantees (URDG) 2010 (revision, ICC publication 758).  These 
+rules having been endorsed by international organisations, multilateral financial institutions, 
+bank regulators, lawmakers and professional federations. We broadly categorise these types 
+of guarantees. 
+Bid Bond / Tender Bond is an undertaking issued on behalf of the applicant that typically 
+supports the applicants bid on a project for a government entity or public/private partnership.  
+The bid often requires a specific form of Guarantee for a bid to be accepted and so 
+amendments may be very difficult to negotiate.  
+Advance Payment Guarantee / Bond is an undertaking issued on behalf of the applicant to 
+cover receipt of an advance payment for a commercial or trade-related contract and can be 
+claimed if the applicant does not meet its obligations under the terms of the contract. 
+Performance Guarantee / Bond is a Guarantee that assures a performance-based obligation 
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 1  
+Ref. Ares(2020)1329428 - 03/03/2020
+ 
+to deliver some equipment or services on an agreed date. That is, an obligation that is wholly 
+non-financial in nature (or in which the primary obligation is non-financial in nature). An 
+example would be where the client of a bank has contracted with another party to perform a 
+service and asks its bank to provide a Guarantee, which can be called by the other party upon 
+failure of performance. 
+Retention Guarantee / Bond is a Guarantee that is closely linked to performance-based 
+obligations on equipment or services during the warranty period. That is, an obligation that is 
+wholly non-financial in nature (or in which the primary obligation is non-financial in nature).  
+Financial Guarantee / Bond is an undertaking issued on behalf of the applicant that supports 
+a financial obligation of the applicant where no goods are services are exchanged.  
+Lease or Rent Guarantee / Bond is an undertaking issued to secure the obligations of a 
+renter or lessee under a lease of property.  
+Payment Guarantee / Bond is a Guarantee that assures a payment-based obligation. That is, 
+an obligation that is wholly financial in nature (or in which the primary obligation is financial in 
+nature), such as the payment of a money sum 
+The first four of these guarantees are performance related, while the last three, characterised 
+as Financial Bonds, can be regarded as a credit substitute alongside loan guarantees and 
+standby letters of credit to support loan facilities. Performance Guarantees are a special class 
+of contingent liabilities that share the following characteristics: 
+• Not expected to be drawn (unlike letters of credit (L/C)) 
+• Drawing is dependent on a commercial event (e.g. a contract breach) 
+• Not issued in support of loans and other financial obligations  
+3.1 Parties involved: 
+• Issuing Bank: Promises to pay on first demand and receives an indemnity from their 
+customer 
+• Beneficiary/recipient: Receives the guarantee and may claim or not. They may do this 
+through their own bank. 
+• Obligor/customer: Requests issuance of the guarantee and promises to reimburse the 
+Issuing Bank if the Issuing Bank repays the Beneficiary under a valid claim presented 
+by the beneficiary. 
+3.2 Performance Guarantees in a default context 
+Performance guarantees may be claimed by the Beneficiary, regardless of whether the Obligor 
+is in default with their bank or not.  
+No Default: Claim triggered and paid from customers funds with obligor/customer not in 
+default as per Banks internal definition of default, which is also consistent with the regulatory 
+definition of default. Though the customer has sufficient funds, because the claim has been 
+triggered and found to be valid, it has to be paid (i.e. Technical default), however, it does not 
+necessarily translate into a loss. 
+Default: Claim triggered and paid from customer funds with obligor/customer in default as per 
+Banks internal definition of default. As obligor is classified as defaulted customer and as a 
+claim has been triggered the transaction counts as a defaulted transaction, however if 
+customer has sufficient funds no loss may be triggered. Note, there is a strong likelihood that 
+the transaction will incur a loss as the obligor is in default, but the loss may be registered under 
+the overdraft account. 
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 2  
+
+ 
+ 
+4 DRAWING RATE, CCF AND LGD  
+4.1 The post default process 
+The steps process of determining the final outcome of a borrower default is shown as the 
+following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.2 CCF and LGD data required 
+The most relevant pieces of information for banks trying to model CCF and LGD for defaulted 
+loans are as follows: 
+ 
+For cash facilities (loans, overdrafts, etc.) this picture provides the information needed to 
+calculate the needed parameters as follows: 
+Pre-Default 
+ Default 
+ Workout 
+ Closure 
+ 
+, 
+• Limit 
+• Outstandings 
+• Outstandings 
+ • Repayments 
+ • Write off 
+• Loss amount 
+Default 
+Workout Process: 
+Quick 
+ 
+Limit overdraft accounts 
+Demand repayment by 
+ 
+Liquidate collaterals 
+Deal with claims on 
+ 
+Liquidatio
+ 
+Closure 
+*Guarantees issued need to be dealt with by the bank after default.  Each guarantee will be: 
+• claimed, or 
+• never claimed (lapse), or 
+• extended (sometimes multiple times) or 
+• paid 
+until guarantees are dealt with the bank cannot calculate its exposure to the customer. 
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 3  
+
+ 
+• Credit Conversion Factor (CCF) is the factor needed to forecast outstanding at default 
+using limits and outstanding prior to default. 
+• Loss Given Default (LGD) is the percentage of the final loss amount (write off) divided 
+by the outstanding at default. 
+For contingent facilities ((L/C), performance bonds (GTE), etc.) the limit and drawing situation 
+is more complex. For Guarantees it is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The main difficulty arises in the fact that guarantee facilities have two different types of 
+“outstanding”. There is the outstanding represented by the amount of issued guarantee 
+instruments (e.g. the total of all guarantees issued). There is also the claimed outstanding (e.g. 
+drawn guarantees not repaid by the borrower). Even after date of default, during the workout 
+period, the final position of how much cash the borrower owes the bank is still not known until 
+all guarantee instruments are either drawn or lapse without any claims being enforced. 
+4.3 Drawing Rate and example 
+For guarantee facilities, therefore, it is necessary to introduce a concept beyond the simple 
+CCF. This concept is the drawing rate of issued guarantee instruments. For example: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A variety of different calculations of CCF and LGD can be made from this hypothetical case: 
+CCF: 8%, being €2 million claimed divided by €25 million issued amount. With this method the 
+drawn or called cash exposure is divided by the undrawn potential or issued cash exposure.  
+LGD: 50%, being €1 million loss divided by the aggregate amounts of cash outstanding (at the 
+time of default or during workout), being €2 million as above. Note that this excludes 
+Pre-Default 
+• Limit 
+• Issued GTE, 
+outstanding 
+• A CCF factor of 
+20%, 50% or 
+Modelled value is 
+applied to 
+determine EAD on 
+performing portfolio 
+Default 
+• Issued GTE,  
+outstanding 
+• CCF continues 
+to apply till 
+claim / expiry. 
+Workout 
+• Issued GTEs: 
+claimed or 
+extended/expired 
+or cancelled 
+• Repayments  
+of any claimed 
+amo nts  
+• Write off 
+• Loss 
+amount 
+Closure 
+Pre-Default 
+• €30m Limit 
+• €15m Issued 
+GTEs 
+Default 
+• €25m Issued 
+GTEs 
+Workout 
+• €23m GTEs never 
+claimed/drawn 
+• €2m claimed and 
+drawn (cash 
+outstanding) of 
+which €1m paid by 
+cash 
+• €1m Write 
+off as loss 
+amount 
+Closure 
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 4  
+
+ 
+discounting of cash flows. 
+The LGD and CCF are consistent as they both use a basis that the borrower owed the bank €2 
+million. With this LGD method the amount drawn after default is added to the exposure at 
+default. 
+As the data analysis sections show below, the CCF calculated is a reasonable level for 
+contingent trade products after default. 
+5 ICC Data on drawing rates overall 
+ICC organised a special collection of data covering most recent years from 12 of its largest 
+member banks. This resulted in a large number of observations of performance guarantees 
+issued, claimed, paid or extended. To be clear, the transaction types covered were the same 
+as the GCD facility types below, covering both financial and performance guarantees. 
+ 
+The largest data amount is for performance guarantees, as all 12 banks supplied this data, 
+whereas only seven banks supplied data on financial guarantees. The data is set out from left 
+to right in accordance with the process:  guarantees issued, guarantees claimed or extended, 
+guarantees actually paid. The claim rate is inflated with the same guarantee potentially being 
+claimed several times due to the nature of a claim. A claim is usually made by way of a “pay or 
+extend” notice sent by the beneficiary to the issuing bank. This is done in order to put 
+commercial pressure on the customer to settle the financial or commercial matter that is the 
+subject of the guarantee. Issuing banks often extend several times, with an end result of 
+usually not needing to pay. 
+For financial guarantees the claim rate averages 6% over the three years, however only a 
+quarter of those claims are usually paid, bringing the final “ultimate drawing rate” down to 
+1.41%.  Bearing in mind that this data covers both defaulted and non-defaulted borrowers, this 
+data is consistent with a default rate of around 1%, if only defaulted borrowers caused 
+successful claims. 
+For true performance guarantees the situation is very different, with only 1/3rd of the level of 
+claims, at 2%, with only 14% of these being paid out.  This leaves an “ultimate drawing rate” of 
+only 0.25% of issued performance guarantees being paid.  This is higher than the default 
+frequency observed in the ICC Trade Register Report of 2018
+1, consistent with the scenario 
+that not all guarantees paid are connected to defaulted borrowers and not all defaulted 
+borrowers with guarantees issued have them called and paid. 
+1 ICC Trade Register Report 2018 https://iccwbo.org/publication/icc-trade-register-report/ 
+Type of Gtee 
+and year
+Number of 
+gtees Issued
+Number of 
+gtees claimed 
+or extended
+Claim Rate Number of 
+gtees paid out
+Claims Paid 
+Rate
+Number of 
+gtees 
+extended ( not 
+paid)
+Ultimate drawing 
+rate. Number of 
+gttes paid out vs 
+number issued
+Count of 
+lender ID
+Financial 105,740        6,198                6% 1,486                 24% 4,101                  1.41% 7
+2016 36,623           2,002                5% 579                     29% 1,442                  1.58% 7               
+2017 34,544           1,779                5% 455                     26% 1,216                  1.32% 7               
+2018 34,573           2,417                7% 452                     19% 1,443                  1.31% 7               
+Performance 1,254,667     23,145              2% 3,197                 14% 18,475               0.25% 12
+2016 409,731        7,378                2% 846                     11% 6,066                  0.21% 12             
+2017 423,463        7,449                2% 1,009                 14% 5,904                  0.24% 12             
+2018 421,473        8,318                2% 1,342                 16% 6,505                  0.32% 12             
+Grand Total 1,360,407     29,343              2% 4,683                 16% 22,576               0.34% 12             
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 5  
+                                                
+ 
+6 GCD Data analysed  
+6.1 Drawing Rates for common trade related facility types 
+GCD data only covers cases where the borrower has defaulted (using the Basel definition).  
+Drawing rates (or rather their inverse) is shown in the GCD data by the “percentage of facilities 
+never drawn in cash”, see last column below:   
+ 
+Cash lines are normally drawn to some degree (in around 90% of cases) and therefore the 
+“never drawn” rate is low, less than 10%.  For contingent lines, including both performance 
+guarantees and credit substitutes, the “never drawn” rate is very high.  For all contingent 
+facility types over 80% of facilities never experienced a cash drawing after default.  Some few 
+of the cash facilities had no drawings either, but this represents normally 0% to 3% of cases.  
+The mixed facility transactional trade finance, which includes both L/C and cash lines shows a 
+mixed outcome, with 12% of facilities never drawn, probably representing the L/C dominated 
+lines. 
+6.2 Drawing rates for performance guarantees 
+Now we focus in on the actual drawdown rate for only performance guarantees. The three 
+facility types that GCD classes as performance guarantees are 811 (Trade Related Payment 
+Guarantee), 820 (Contract Bonds) and 807 (Trade Finance Bid or Perf Bond).  We examine 
+these in more detail in the table below: 
+ 
+The facilities examined here are only those where the Lender has provided the Issued Amount 
+for the guarantee facility, so comprises about 90% of the data used in the previous table.  
+However, the presence of the Issued Amount allows us to calculate a more accurate 
+drawdown rate where we take into account the amount of the drawings, not just the binary 
+drawn/not drawn marker used above. Overall the drawing rate is around 8%, which industry 
+experts advise is an expected level, based on the low claims proportion as well as the ability of 
+banks to extend the guarantee instead of paying, until the commercial position is resolved, in 
+most cases.  The resulting LGD of these cases is around 32% (before discounting), which is a 
+little above the normal unsecured LGD level seen in other GCD studies. However, not high 
+enough to offset the extreme low drawing rates and hence low CCF rates in the data. 
+Trade Finance Type Risk Type Facility Type
+Number of 
+Defaulted Facilities
+ 
+Defaulted amounts 
+(€)
+Average outstanding 
+at default (€)
+% of facilities never 
+drawn as cash
+Medium Term Trade Finance Cash ECA Export Finance 497 4 689 812 239 9 436 242 2,01%
+mixed Bill accepted by Bank 57 252 014 111 4 421 300 8,77%
+Cash Pre-export Finance 155 841 926 891 5 431 786
+mixed Transactional Trade Finance 379 1 346 596 179 3 553 024 12,40%
+Confirmed Export L/C sight or usance 106 46 428 585 438 006 88,68%
+Import L/C sight or usance 815 174 402 013 213 990 88,59%
+TF Bid or Performance Bond 20 23 329 000 1 166 450 85,00%
+Trade Related Payment Guarantee 212 23 955 357 112 997 81,60%
+Prepayment Finance 8 10 095 217 1 261 902
+Receivables Financing 3 436 6 043 282 529 1 758 813 0,09%
+Structured Inventory Finance 59 291 066 644 4 933 333 3,39%
+Contract Bonds 1 745 2 123 658 174 1 216 996 88,42%
+Payment Guarantee and Stand By LC's 6 298 1 031 368 246 163 761 92,60%
+13 787 16 897 935 186 1 225 643 61,28%Grand Total
+Contingent
+Short Term Trade Finance
+Cash
+Contingent
+Supply Chain Finance
+Trade Finance Type Risk Type Facility Type
+Number of 
+Defaulted 
+Facilities
+Aggregated 
+Defaulted 
+amounts (€)
+Average 
+outstanding at 
+default (€)
+Aggregate 
+Issued 
+Amounts (€)
+Averaged 
+Issued 
+Amount (€)
+average 
+drawdown rate of 
+Issued Amount
+TF Bid or Performance Bond 15 14 152 000 943 467 182 788 911 12 185 927 3,30%
+Trade Related Payment Guarantee 196 23 536 383 120 084 139 547 771 711 978 16,26%
+Supply Chain Finance Contingent Contract Bonds 1 648 147 943 997 89 772 853 041 504 517 622 7,23%
+1 859 185 632 381 99 856 1 175 378 186 632 264 8,15%
+ContingentShort Term Trade Finance
+Grand Total
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 6  
+
+ 
+6.3 LGD for Trade Finance Facilities 
+Based on the discussion of the special nature of contingent facilities in the previous section, 
+we need to be careful when establishing exactly what method and what data to use for 
+calculation of the historical LGD. Note that the LGD calculations are made using GCD 
+standards with discount of cash flows at the risk free rate, see method notes to the 2019 Large 
+Corporate LGD paper. 
+Firstly, to be clear, we are using the calculation method recognised by GCD as “LGD2” where 
+the starting default outstanding amount is increased by any drawings that happen after default.  
+This method is more appropriate for contingent facilities which often have zero cash 
+outstanding at date of default as all risk is in issued instruments which may or may not be 
+drawn at a later date. The alternative method “LGD1”, which nets all post default cashflows, 
+often results in incalculable LGD because the divisor of outstanding at default is zero. 
+Secondly, we have chosen to cap the maximum LGD at 150% and floor it at 0%. There do 
+exist real cases above and below these points, normally smaller size cases, due to legitimate 
+reasons such as workout costs higher than recoveries or payment by the borrower of penalty 
+fees and interest above the discount rate. 
+Thirdly, we need to factor into our averages what we do with the cases where there is no 
+drawing of the contingent instruments. One method is to exclude these cases as they have the 
+same problem of incalculable LGD due to the divisor of outstanding at default being zero.  A 
+second method would be to include these cases as observations of 0% LGD. 
+ 
+The LGD2 results for most of the cash type facilities are well below the 20% average we have 
+seen in our Large Corporate studies. Receivables financing at around 21% is very similar to 
+normal corporate financing, as might be expected, as the recovery of receivables is integral to 
+most liquidation scenarios. The high level of LGD2 for Transactional Traded Finance is 
+unexpected at 38%, however this is a mixed group of both cash and contingent lines, so only 
+the drawn contingents are driving up the LGD here. 
+The results for contingent and mixed cash and contingent facility types differ starkly dependent 
+on whether the never drawn cases are included or not.  For example, when examining only the 
+7.4% of Payment Guarantees and Standby L/Cs, which ever become drawn, then the outcome 
+is a very high 46.8% LGD, however when including the full 100% of these cases the LGD 
+drops to around 3%. 
+For contingent facilities this supports the arguments and data from the ICC Trade Register 
+study.  If the substantial number of undrawn cases are used to support a very low CCF rate, 
+then a normal to high level of LGD results for the remaining cases.  If these undrawn cases are 
+included in the LGD calculation then exceptionally low LGD is observed. Clearly it would be 
+methodologically unsound to use these undrawn cases to calculate both a low CCF and a low 
+LGD at the same time. 
+Trade Finance Type Risk Type Facility Type
+Number of 
+Defaulted Facilities
+Aggregate 
+Defaulted amounts 
+(€)
+% of facilities never 
+drawn as cash
+Average LGD2 excluding 
+undrawn cases
+(with cap and floor)
+Average LGD2 including 
+undrawn cases as 0% 
+(with cap and floor)
+Medium Term Trade Finance Cash ECA Export Finance 497 4 689 812 239 2,01% 7,57% 6,02%
+mixed Bill accepted by Bank 57 252 014 111 8,77% 9,57% 1,85%
+Cash Pre-export Finance 155 841 926 891 4,27% 3,39%
+mixed Transactional Trade Finance 379 1 346 596 179 12,40% 38,14% 27,17%
+Confirmed Export L/C sight or usance 106 46 428 585 88,68% 40,63% 4,22%
+Import L/C sight or usance 815 174 402 013 88,59% 15,19% 1,64%
+TF Bid or Performance Bond 20 23 329 000 85,00% 4,13% 0,41%
+Trade Related Payment Guarantee 212 23 955 357 81,60% 13,77% 2,47%
+Prepayment Finance 8 10 095 217 2,02% 1,77%
+Receivables Financing 3 436 6 043 282 529 0,09% 21,80% 21,57%
+Structured Inventory Finance 59 291 066 644 3,39% 5,35% 2,63%
+Contract Bonds 1 745 2 123 658 174 88,42% 35,38% 3,61%
+Payment Guarantee and Stand By LC's 6 298 1 031 368 246 92,60% 46,80% 3,19%
+13 787 16 897 935 186 61,28% 23,47% 8,48%Grand Total
+Contingent
+Short Term Trade Finance
+Cash
+Contingent
+Supply Chain Finance
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 7  
+
+ 
+7 Conclusion 
+ICC data shows drawing rates for performance guarantees of less than 1%, for the total 
+population of defaulted and non-defaulted borrowers.  
+GCD data shows a higher drawing rate of 8% on the same facility types but only for defaulted 
+borrowers.  Clearly this indicates that there is some connection between the borrower’s default 
+and the claim and drawing of commercial guarantees issued on their behalf. 
+Both data sets support the case that a CCF of 20% is acceptably conservative. 
+ 
+ 
+PERFORMANCE GUARANTEES AND CLAIMS – Evidence from ICC and GCD | 8  

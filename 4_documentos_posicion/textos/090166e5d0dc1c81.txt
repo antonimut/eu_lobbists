@@ -1,0 +1,83 @@
+ 
+          
+          
+1/2  
+ 
+ 
+ 
+ 
+ 
+Position zur Implementierung der ISO 15118  
+ 
+ 
+Hintergrund  
+Die bestmögliche Integration der Elektromobilität in die Energieinfrastrukturen setzt eine intensive Zusammenar-
+beit aller beteiligter Akteure (Hersteller, Betreiber von Ladesäulen und Verteilnetzbetreiber) und einen entspre-
+chenden Austausch von Daten, vor allem an der Schnittstelle Fahrzeug und Ladesäule voraus. Genau diese Kom-
+munikationsschnittstelle beschreibt die Norm ISO 15118.  
+Möglich werden hierdurch neben einem intelligenten Lastmanagement auch Funktionen wie Plug  and Charge 
+(PnC), also eine Authentifizierung/Autorisierung und Start des Ladevorgangs durch einfaches Verbinden des Kabels 
+mit dem Fahrzeug.  Bei perspektivisch immer höheren Elektrifizierungsgraden w ird zudem ein intelligentes Lade-
+management essentiell . Damit wird dies zur wichtigsten Schn ittstelle der Sektorkopplung . Elektroautos können 
+hier als unterstützendes und stabilisierendes Element in dreifacher Hinsicht gesehen werden :  
+▪ als steuerbarer Verbraucher, der bestenfalls vorwiegend  dann Strom bezieht, wenn aus regenerativen 
+erneuerbaren Energiequellen (EE) verfügbar 
+▪ als Speicher für potentiell überschüssigen Strom aus EE,  der möglicherweise sonst abgeregelt werden 
+müsste, und 
+▪ im Rückspeisefall für die Behandlung von Spannungsschwankungen  durch lokale Einspeisung von Blind-
+leistung (perspektivisch). 
+Um den hierfür notwendigen reibungslosen Datenaustausch zu gewährleisten, bedarf es eines solchen gemeinsa-
+mer Kommunikationsstandards, der die Interoperabilität zwischen Ladesäule, Fahrzeug und Mobilitätsanbieter si-
+cherstellt, einen fairen Wettbewerb zwischen allen Marktteilnehmern gewährleistet und dem Kunden ermöglicht, 
+einfach und problemfrei zu laden. Die Herausforderung ist, die Kommunikation diskriminierungsfrei, offen in-
+teroperabel und sicher zwischen allen Marktrollen zu gestalten.  
+Authentifizierungszertifikate direkt in die Fahrzeugelektronik integriert  
+Die technische Umsetzung verlangt eine direkte Integration von Vertragszertifikate im Fahrzeug. RFID-Karten oder 
+das Smartphone sind zum Laden dann nicht mehr nötig  (aber möglich), es muss nur noch das Kabel eingesteckt 
+werden. Die sichere Authentifizierung und Autorisierung des Fahrzeugs für den Ladevorgang, die intelligente La-
+desteuerung sowie die Abrechnung erfolgt dann automatisch. Die dafür notwendige abgesicherte Kommunikation 
+basiert auf digitalen Zertifikaten und Signaturen im Rahmen einer Public -Key-Infrastruktur (PKI).  Diese PKI-
+Infrastruktur muss von einer unabhängigen Stelle erarbeitet und aufgebaut werden.  
+Wahlfreiheit bei Verträgen  
+Für Fahrzeugkäufer und -halter muss Wahlfreiheit bei der Entscheidung für Vertragszertifikate bestehen. Um die 
+für sie bestmögliche Entscheidung treffen zu können, müssen ihnen alle notwendigen Informationen zur Verfü-
+gung stehen. Außerdem sollten sie die Möglichkeit haben, ihre Verträge jederzeit zu wechseln, zu löschen . Oder 
+zwischen mehreren Zertifikaten auszuwählen oder auch PnC zu deaktivieren.  
+Ref. Ares(2020)3367071 - 27/06/2020
+          
+ 
+2/2  
+ 
+ 
+Vermeidung unfairer Wettbewerbsvorteile  
+Unfaire Wettbewerbsvorteile für einige wenige Marktteilnehmer müssen ausgeschlossen werden. Grundsätzlich 
+gilt es zu vermeiden, dass einige Marktteilnehmer durch die Implementierung der ISO 15118 einen Wettbewerbs-
+vorteil bekommen oder andere faktisch vom Wettbewerb ausgeschlossen werden.  
+Position - Empfehlung 
+Wir empfehlen hiermit ausdrücklich, dass die Weiterentwicklung und Implementierung der ISO 15118 , auf Basis 
+des hier dargelegtem,  beschleunigt wird. Bei richtiger und konsequenter Nutzung durch alle relevanten Akteure 
+wird die Kundenfreundlichkeit des Ladens erhöht und damit die Attraktivität der Elektromobilität als Ganzes deut-
+lich gesteigert. Allerdings sehen wir im Hinblick auf die Umsetzung der Norm die Notwendigkeit, bestimmte Vor-
+bedingungen zu definieren, um eine diskriminierungsfreie und faire Zusammenarbeit aller Akteure bei der Umset-
+zung der Elektromobilität zu gewährleisten. Folgende Punkte müssen bei der Implementierung der ISO 15118 da-
+her im Hinblick auf Kundenfreundlichkeit und Wettbewerbsfähigkeit berücksichtigt werden: 
+1. Eine verbindliche Norm wird von allen Automobilherstellern genutzt und umgesetzt   
+2. Prüfung des Rollouts einer entsprechenden Funktion bei Elektrofahrzeugen und Transparenz über Hoch-
+lauf von Elektroautos mit ISO 15118  
+3. Prüfung des Rollouts einer entsprechenden Funktion mit ISO 15118 bei AC - und DC - Ladesäulen unter 
+Berücksichtigung der Mehraufwände dieser Funktionalität bei der weiteren Modifizierung der öffentli-
+chen Förderrichtlinie für Ladeinfrastruktur. 
+4. Freie EMP-Wahl des Kunden beim Erwerb eines Elektroautos beim Automobilhersteller muss gewährleis-
+tet sein   
+5. Einfache und kostenlose EMP -Wechselmöglichkeiten sowie die Hinterlegung mehrerer EMP -Zertifikate 
+für den Kunden. Dies muss diskriminierungsfrei, jederzeit und nutz erfreundlich möglich sein 
+ 
+ 
+ 
+ 
+Kontakt 
+Robert Echtermeyer (E.ON SE) 
+E-Mail: Robert.Echtermeyer@eon.com 
+Phone: + 49 175 219 00 33 
+ 
+ 

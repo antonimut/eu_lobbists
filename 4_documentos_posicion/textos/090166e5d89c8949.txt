@@ -1,0 +1,1910 @@
+BUILDING THE PERFECT BEAST: DESIGNING ADVANCED ALTERNATIVE FUEL POLICY TO WORK 
+ 
+Chris Malins 
+Cerulogy  
+The Mornington Centre, Stanley Street, London. +44 7905 051 671. chris@cerulogy.com 
+ 
+ 
+ABSTRACT: Since the year 2000, grand aspirations have been set for the development of a new advanced alternative 
+fuel industry, but targets have repeatedly been missed and deployment o f new facilities has delivered only a tiny 
+fraction of the fuel production forecast by the most ambitious policies. This paper argues that one of the main reasons 
+for this shortfall between goals and achievement is the use of policy  frameworks that have not been designed to 
+provide long-term value certainty. The setting of energetic targets fo r the supply of advanced alternative fuels was 
+intended to give the market the flexibility to choose the lowest cost solutions. Instead, the value-uncertainty built into 
+such policies as a feature has contributed to an investment environmen t in which high capital expenditure projects 
+using new technologies are profoundly disadvantaged compared to hig h operational expenditure fuel production at 
+first generation plants. The market has thus failed to deliver the best value long-term solutions. An alternative policy 
+framework is proposed in which credits would be awarded for adva nced alternative fuel production, and fuel 
+suppliers would be required to support that production by buying  all available credits at the end of the year at a 
+prescribed price. That price would be fixed up to an annual sup ply target; beyond that annual supply target, the per-
+credit price would be scaled down in proportion to the degree of o ver-achievement in supply, allowing a firm cap to 
+be set on the cost of support to fuel consumers. While the marke t would be able to expand supply until the adjusted 
+credit price reflected marginal production costs, the high levels of price variab ility in existing biofuel credit markets 
+would be avoided. It is argued that such a framework could be m uch more effective at driving investment than a 
+simple mandate, while avoiding excessive costs for fuel suppliers or consumers.  
+Keywords: biofuel; economics; policies; cellulose; second generation. 
+ 
+ 
+1 INTRODUCTION 
+ 
+By some measures, the rise of biofuel mandates as a 
+climate policy tool since the early 2000s has been a 
+renewable energy success story. Between 2000 and 2016, 
+global biofuel production rose from 15 million tonnes 
+(almost entirely ethanol) to 110 million tonnes (80 
+million of ethanol and 30 million of biodiesel), more or 
+less entirely from first generation technologies. This 
+rapid growth in fuel production is illustrated in Fig. 1 and 
+Fig. 2 [1]. The great majority of this growth has occurred 
+under biofuel consumption mandates such as the 
+Renewable Fuel Standard in the U.S. and the Renewable 
+Energy Directive in the EU – as of 2015, some sort of 
+biofuel mandate was in effect in 33 countries [2] . While 
+there are significant questions about whether net 
+environmental benefits have been delivered by expanding 
+the use of some first generation biofuels [3] –[7] and 
+about the impacts of biofuel demand on food markets [8] , 
+there is no question that volumes have dramatically 
+increased, as intended.     
+ 
+0
+20
+40
+60
+80
+2000 2005 2010 2015
+Million tonnes fuel
+Africa Asia & Oceania
+Central & South America Eurasia
+Europe Middle East
+North America
+ 
+ 
+Figure 1: Growth in global ethanol supply since 2000. 
+0
+20
+40
+60
+80
+2000 2005 2010 2015
+Million tonnes fuel
+Africa Asia & Oceania
+Central & South America Eurasia
+Europe Middle East
+North America
+  
+Figure 2: Growth in global biodiesel supply since 2000. 
+ 
+While renewable fuel mandates have been broadly 
+successful in increasing the consumption of first 
+generation biofuels, the same cannot be said about the 
+commercialization and deployment of advanced 
+alternative fuels (henceforth AAFs) (1). In 2016, 
+Bloomberg New Energy Finance reported global 
+cellulosic ethanol capacity of 700 million litres – but little 
+of this capacity was utilized [9]. In 2015, only around 2.0 
+million gallons of cellulosic ethanol and 0.2 million 
+gallons of cellulosic renewable hydrocarbons were 
+produced in the U.S. [10].   
+From an investment viewpoint, the history of 
+cellulosic biofuel production is one of mothballed plants, 
+dropping share value, unresolved bottlenecks and unmet 
+promise [11]. Expectations for algal biofuel production 
+have been drastically dampened over the past decade due 
+to “exorbitant” production costs  [12] and several 
+companies have sought higher value lower volume 
+markets [13] . Power-to-liquids technologies remain 
+limited by high production costs driven by the price of 
+electricity [14]. As shown in 0, to date both voluntary and 
+mandatory targets that have been set for  
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1244
+Ref. Ares(2021)661847 - 27/01/2021
+AAF show no prospect of being met. In 2011, 
+Bloomberg New Energy Finance reported $2.9 billion of 
+investment in next generation biofuels and biochemical – 
+by 2016 this had fallen to $650 million [9].  
+To quote one commentator writing in Nature in 2017, 
+“A ro bust second-generation biofuels industry based on 
+inedible cellulosic biomass available as wood, grass, and 
+various wastes was widely expected to be in place by 
+now,” and, “the biofuels landscape today is a pale 
+shadow of what was imagined a decade ago” [13].  
+ 
+Table I: Targets for advanced alternative fuel 
+deployment. 
+ 
+Name Target Notes  
+Renewable 
+Energy 
+Directive 
+0.5% AAFs 
+in EU 
+transport 
+energy 
+Unlikely to be 
+achieved in most EU 
+countries.  
+Renewable 
+Fuel 
+Standard 
+cellulosic 
+standard 
+16 billion 
+gallons 
+(ethanol 
+equiv.) 
+cellulosic 
+fuel by 2022 
+Original annual 
+targets missed by 
+orders of magnitude, 
+most current supply 
+consists of 
+biomethane, original 
+targets will not be 
+achieved. 
+European 
+advanced 
+biofuels 
+flightpath 
+2 million 
+tonnes of 
+aviation 
+biofuel by 
+2020 
+Very unlikely to be 
+achieved, 
+hydrotreated lipids 
+provide only 
+significant volumes. 
+ 
+In short, the government interventions that have been 
+made over the past two decades with a view to 
+commercializing AAF technologies have failed, at least 
+when compared to the dramatic aspirations for the 
+industry that are evidenced by the cellulosic standard 
+under the Renewable Fuel Standard and other ambitious 
+targets. This paper asks whether the design of the policies 
+that have been rolled out in the hope of kick-starting the 
+AAF industry is partly to blame for its underperformance, 
+and presents a novel proposed policy framework that it is 
+claimed could be more effective in delivering 
+commercialization.  
+ 
+ 
+2 THE CASE FOR ADVANCED ALTERNATIVE 
+FUELS 
+ 
+Given that there is already a large first generation 
+biofuel market, one question that immediately presents 
+itself is why there should policy makers be concern ed 
+with developing AAF technologies? Various answers 
+have been given to this question, and the answer depends 
+somewhat on how one ranks the different potential goals 
+(environmental, social and economic) of biofuel policy.  
+For the purposes of this paper, the primary 
+advantages of AAFs over first generation fuels are 
+considered to be the following: 
+1) The potential to deliver significant GHG 
+emissions reductions through the displacement 
+of fossil fuels (2); 
+2) The long-term potential to be cost competitive 
+with liquid fossil fuels, and less costly than first 
+generation fuels [15]; 
+3) The potential to use materials that have little 
+current value to the ecosystem or economy, and 
+thereby avoid impacts on food and biodiversity 
+[16]; 
+4) The potential to deliver economic value to the 
+rural economy from resources with little 
+current value [17]; 
+5) The potential for some AAF technologies to 
+deliver fuels whose use in existing vehicles and 
+aircraft is not limited by blend walls under fuel 
+quality specifications.  
+It is taken as axiomatic for the purposes of this paper 
+that the potential to produce AAFs that deliver these 
+benefits exists. Other papers have discussed at length the 
+scale of the resource potential, the sustainability concerns 
+associated with using those resources, and the potential 
+cost of converting those resources to alternative fuels – 
+no review of that literature is attempted here. There are 
+legitimate policy questions that can and should be asked 
+about how the benefits of AAF development compare to 
+the costs (to taxpayers, fuel consumers, fuel suppliers and 
+society in general). For the sake of this paper, the case is 
+considered in which a political decision has been taken 
+that AAF commercialization is a policy goal and any 
+associated sustainability requirements on feedstock 
+acquisition have been put in place. The question then 
+becomes: given that there is a policy imperative to 
+develop an AAF industry, how can a policy mechanism 
+be designed to efficiently deliver that goal?  
+ 
+ 
+3 CHALLENGES IN ADVANCED ALTERNATIVE 
+FUEL DEPLOYMENT 
+ 
+In considering what form of policy support might be 
+effective it is important to have an understanding of the 
+barriers that have contributed to the delays in 
+commercializing AAFs to date.  
+ 
+3.1 Technology development 
+In some respects, the most fundamental barrier to 
+wider deployment of AAFs is that the technologies 
+needed are still in development – and, indeed, will only 
+be optimised at commercial scale through experience of 
+operating commercial plants. Many of the constituent 
+technologies required for AAF production processes are 
+already well understood, but the application to 
+commercial scale remains challenging.  
+A good example is gasification of biomass followed 
+by Fischer-Tropsch hydrocarbon synthesis. The Fischer-
+Tropsch process for synthesising hydrocarbons from 
+syngas (CO and H 2) is approaching its hundredth 
+anniversary, and has been applied at commercial scale in 
+the context of coal-to-liquids and gas-to-liquids processes 
+for many decades. Nevertheless, handling the impurities 
+in biomass resources and making the technology cost 
+efficient at a scale appropriate to biomass resources 
+introduce novel challenges to commercial operation. The 
+process for biofuel production has been characterised as 
+at technology readiness level 6- 8 [18], meaning that the 
+necessary technologies have been demonstrated but the 
+full system is yet to be demonstrated, especially in an 
+operational commercial environment. Operational 
+difficulties, materials handling challenges and 
+bottlenecks have beset ‘first of a kind’ AAF facilities, 
+and contributed to their limited fuel production to date.  
+The technological barriers should not be overstated – 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1245
+the technologies have been demonstrated at pilot scale 
+and the wrinkles could be ironed out given time to learn 
+from experience and an adequately supportive policy 
+environment – but they should also not be ignored. Both 
+the reality and perception of technology risk contribute to 
+making it more challenging to finance AAF production 
+facilities, making investors seek high returns from 
+projects compared to ventures considered less risky [11], 
+[15]. 
+One observer has argued that advanced biofuels 
+policies, “were designed assuming that deployment, 
+rather than technology, was the limiting factor” [13], and 
+that this resulted in policy that was not well suited to the 
+reality of commercialising an industry from scratch. The 
+framework of fuel production mandates, that has been so 
+effective in increasing volumes of production for biofuels 
+that have well-understood production costs, has fallen 
+short when applied to novel production processes not yet 
+commercially applied.  
+• Policy hypothesis 1 : AAF policy should be 
+explicitly designed for the context of 
+commercialisation of novel production 
+processes with significant perceived 
+technology risk.  
+ 
+3.2 Capital requirements 
+The cost profiles of AAF production technologies are 
+generally marked out from the cost profile of first 
+generation biofuel processes by lower operational 
+expenditures at the expense of significantly higher capital 
+expenditures [15], [17], [19].  
+The defining difference in operational costs comes 
+due to the use of lower value feedstocks. Biodiesel 
+production, for instance, is reliant on the use of lipids that 
+already have significant value in other markets, even in 
+the case of lipids sometimes characterised as ‘residues’ or 
+‘wastes’ [20]. If nothing else, biodiesel feedstocks could 
+be substituted for fuel oil in heating applications, which 
+sets a minimum price for these feedstocks that is already 
+close to the price of diesel. In contrast, AAF technologies 
+enable the utilization of lower value resources such as 
+cellulosic biomass. In the case of wastes that would 
+otherwise incur disposal costs, such as landfill waste, the 
+cost of feedstock may even be negative. If AAF 
+processes are able to deal with the materials handling 
+challenges that come with these materials, the feedstocks 
+may be available at zero or negative cost [17].  
+The difference in capital cost reflects three related 
+issues. Firstly, AAF production processes are more 
+complex than first generation processes, and thus the 
+industrial equipment required is naturally more 
+expensive, especially for first- of-a-kind plants. Secondly, 
+because of the higher cost of equipment, economies of 
+scale are required to improve cost competitiveness. These 
+economies reduce cost per tonne of output, but further 
+increase the absolute initial investment required for a new 
+plant [21]. Thirdly, the various risks perceived by 
+investors as associated with the sector increase the cost of 
+capital [11]. Project financing therefore becomes a much 
+more fundamental challenge than it is for first generation 
+facilities, especially for first-to-nth of a kind (3) facilities.    
+• Policy hypothesis 2: supporting investor 
+confidence must be at the heart of AAF 
+policy.  
+3.3 Market uncertainty  
+Having managed to raise the capital to construct a 
+new AAF facility, and having dealt with all the 
+technological challenges that are associated with scaling 
+up production at an industrial scale chemicals plant, AAF 
+producers must confront entering an unpredictable fuel 
+market in which they are likely to need two decades of 
+sales at or above production costs in order to recoup 
+investments. Even assuming a firm and long-term policy 
+framework (see next subsection), as with any other 
+business the viability of AAF facilities will be 
+determined by their competitiveness with other market 
+players – in this case a combination of the petroleum 
+industry, the first generation biofuel industry and the rest 
+of the AAF industry.  
+The AAF industry has little prospect of competing 
+directly on price with petroleum in the near term 
+(excluding policy interventions to impose external costs 
+of GHG emissions on petroleum fuels), and thus AAF 
+producers must compete for space in the government-
+supported alternative fuels market [15], [22] . Due to the 
+elevated costs of capital and operations for novel 
+technologies, “at present AAF is likely more expensive 
+than many types of first-generation biofuels and faces the 
+particular challenge of high capital costs. Thus, mandates 
+that treat first-generation fuels and AAF equall y … will 
+be met entirely or almost entirely with first-generation 
+technologies” [23]. It is therefore important to provide 
+bespoke support for AAFs [16], [24].  
+Further, even within a long-term defined mandate 
+that gives preferential status to AAFs over first 
+generation fuels, there is always the risk of being 
+outcompeted by lower-cost technologies. In the long 
+term, it is of course necessary to eliminate inefficient 
+technologies in favour of more efficient ones. In the short 
+term, however, the difficulty of predicting production 
+rates and cost profiles for competitor processes and 
+companies is a further barrier to raising capital, especially 
+if the value of support policy may be very sensitive to the 
+level of AAF production . Given annual volume targets 
+that reflect only a handful of operational plants in the 
+early years of an AAF supply mandate with a credit 
+market, one can easily imagine a situation in which 
+having a large competitor facility open six months ahead 
+of schedule could flood the credit market, temporarily 
+collapsing the value of support. 
+• Policy hypothesis 3: AAF’s ne ed to be 
+given specific support not available to first 
+generation fuels.  
+• Policy hypothesis 4: AAF policy should 
+seek to minimise the sensitivity of the value 
+of policy support to level of supply.   
+ 
+3.4 Policy uncertainty 
+Uncertainty in alternative fuel support frameworks is 
+repeatedly invoked on both sides of the Atlantic by 
+industrial stakeholders to explain the lack of progress in 
+AAF commercialisation. One commentator asserts that, 
+“slow progress can mostly be attributed to the widely 
+gyrating public policy that injected not only a great deal 
+of uncertainty into the marketplace regarding the futur e 
+of cellulosic ethanol, but also elevated financial 
+investment risks for the willing investors” [25]. Long 
+term policy certainty is repeatedly called for in 
+recommendations for effective biofuel policy making 
+[23], [26]–[28].  
+In considering uncertainty, it is important to 
+recognise that it can arise for several quite different 
+reasons. At the most basic level, government may fail to 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1246
+create confidence that a measure has any longevity. For 
+instance, “the most apt example of a policy that fails to 
+provide this long-term certainty is the U.S. tax credit for 
+cellulosic biofuel, which has expired and has been 
+reinstated every 1–2 years since it was first introduced.  
+An investor considering a new cellulosic biofuel 
+facility that will take years just to design and construct 
+will not consider the U.S. tax credit to be reliable enough 
+to support production” [23]. This type of fundamental 
+uncertainty can be alleviated by adopting policies that 
+have defined and ideally long-term duration, and by 
+adopting policies in ways that are robust against political 
+interference – for instance, a support scheme that is in 
+place for a decade and can only be amended through 
+legislative action may be understood as more robust than 
+a support scheme like the aforementioned tax incentive 
+that must be actively reinstated each year.   
+Uncertainty can also arise through political 
+opposition to support policies. For biofuel policies, 
+opposition has come on the one side from environmental 
+campaigners concerned about indirect land use change 
+and other sustainability issues e.g. [29], and on the other 
+from vested industrial interests seeking to avoid having 
+[excessive] costs imposed on them e.g. [30]. While some 
+stakeholders would undoubtedly like to see AAF policies 
+set in stone for 15 years and protected from any political 
+interference, this is not realistic when political opponents 
+have legitimate concerns. If AAF policy were to be 
+demonstrated to have politically unacceptable 
+environmental or social impacts, or to cause politically 
+unacceptable increases in fuel prices, any policy no 
+matter how clearly defined would be vulnerable to 
+amendment. It is the opinion of the author that this type 
+of political uncertainty can best be reduced by setting 
+clear, comprehensive and effective rules governing 
+sustainability of feedstock procurement [27], and by 
+including clear measures from the start to manage the 
+costs of compliance so they remain politically acceptable 
+[31].   
+• Policy hypothesis 5: AAF policy should be 
+set with clear long-term support 
+mechanisms.  
+• Policy hypothesis 6: Potential sustainability 
+issues for supported AAF technologies 
+should be identified in advance and dealt 
+with effectively. 
+• Policy hypothesis 7:  Cost-containment 
+mechanisms should be used to avoid 
+excessive program costs in future market 
+conditions.  
+ 
+3.5 Understanding the value proposition  
+As noted above, the challenge of expanding AAF 
+production can be thought of as primarily a challenge of 
+project financing. There are technology developers out 
+there with technologies demonstrated at least at pilot 
+scale, ready to build facilities if only they could 
+demonstrate a strong enough value proposition to bring in 
+investment. This can be simplified in investment terms to 
+the need to convince investors that a project has a 
+positive net present value, given required rate of returns 
+to investment (4).  
+Given that, at least for first-to-nth AAF facilities, fuel 
+output will not be cost competitive with fossil fuels, 
+showing a positive net present value requires assigning a 
+value to the policy support available in order to bridge 
+the gap between the production cost of the AAF and the 
+price for which that fuel could be sold independent o f 
+policy support (i.e. it’s value as an energy carrier). This 
+is, on one level, an easily framed analytical problem – 
+calculate the value of the support mechanisms available, 
+calculate expected production costs, predict future 
+petroleum prices, and compare the three over the course 
+of the lifetime of the plant. In practice this is a rather 
+difficult calculation. Even ignoring the perennial 
+difficulty of predicting oil prices and of correctly 
+forecasting production costs for new processes, 
+depending on the type of policy the value of the support 
+available may be anything but clear.  
+At one end of the spectrum, some policy mechanisms 
+provide a very clear value proposition. The U.S. Second 
+Generation Biofuel Producer Tax Credit [32] provided a 
+defined incentive of $1.01 per gallon of qualifying fuel 
+supplied. However, this value clarity is undermined by 
+the fact that nobody knew (or knows) how long the credit 
+would be available for, so that while the current value 
+was certain the future value was completely uncertain 
+(and likely to be treated as zero by investors). Providing a 
+potential pathway to value certainty on a longer-term 
+basis, a policy mechanism suggested for AAF 
+commercialisation in California called a ‘contract for 
+difference’ [28], [33] would provide value certainty by 
+guaranteeing to successful bidders that the State of 
+California would provide direct funding for a specified 
+period to close any gap between the expected production 
+cost of AAF and the value of that fuel in the market 
+(including from other policies).  
+At the other end of the value-certainty spectrum, you 
+have programmes that set targets and allow the value of 
+support to be determined by the market. Under the U.S. 
+Renewable Fuel Standard (RFS), for instance, “RIN 
+[renewable identification number] prices are sensitive to 
+a variety of factors, including constraints on feedstock 
+supply (e.g., drought), concerns about ethanol volumes 
+approaching the ethanol blend wall for gasoline, and 
+importantly, policy developments surrounding the future 
+direction of the RFS program ” [28]. In principle, setting 
+an ambitious volume target for cellulosic biofuel under 
+the RFS should have created a guaranteed market in 
+which the value of the D3 or D7 RIN (the AAF credits 
+under the RFS system) would cover the price premium to 
+produce qualifying fuels. In practice, the value of the RIN 
+is variable and is capped by the RFS’s cost containment 
+mechanism, the cellulosic waiver credit [34].  
+Under the EU Renewable Energy Directive (RED), 
+the value of compliance with the AAF target (0.5% of 
+transport energy by 2020, 0) is even harder to parse. 
+Whereas the cellulosic waiver credit under the RFS (cost 
+containment mechanisms are discussed further below) 
+can be thought of as a defined penalty for non-
+compliance with supplier AAF targets, which thereby 
+provides an indication of the value of a RIN [11], the EU 
+has 28 Member States, each of which may have a unique 
+implementations of the 0.5% target, may have 
+implemented a lower target, or may not yet have 
+implemented it. The supply of AAFs is also counted 
+double against overall targets for renewables in transport 
+– but this simply doubles the considerable uncertainty on 
+the value of compliance from single-counted biofuels. In 
+any event, the RFS has a defined compliance schedule 
+only to 2022, and the RED only to 2020, making it 
+essentially impossible to come to a clear prediction of the 
+value of these policies for the operational lifetime of an 
+AAF facility. In short, it is difficult to make a clear case 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1247
+for an investor about how much these policies are worth 
+to future production.  
+• Policy hypothesis 8: AAF support 
+mechanisms should be defined in such a 
+way that producers and investors are able to 
+estimate future value of support.  
+ 
+ 
+4 CHALLENGES IN RENEWABLE SUPPORT 
+POLICY DESIGN 
+ 
+The previous section reviewed some of the 
+challenges faced by AAF technology developers in 
+financing commercial scale projects, and considered the 
+implications of these issues for policy design. This 
+section reviews some of the policy decisions and policy 
+design options that regulators are faced with when 
+developing a new AAF support mechanism.  
+ 
+4.1 Balancing cost with outcomes 
+For any government intervention, one of the most 
+basic questions is how the benefits expected to be 
+delivered compare to the societal costs of 
+implementation. This paper will not attempt to quantify 
+the benefits of AAF deployment and predict the costs, 
+which is left as an exercise for the reader. From a policy 
+design perspective, the basic requirement is for the costs 
+imposed to be proportionate to the benefits sought.  
+In existing biofuel mandates, cost minimisation is 
+approached in two primary ways. Firstly, by avoiding 
+active choices about which specific technologies and 
+feedstocks to use, policy makers seek to allow the market 
+to choose the most cost-effective compliance options 
+[35]. In principle, given flexibility to choose compliance 
+options to meet an overall target, the market should 
+minimise compliance costs. An important caveat on this 
+assumption is that different policy framing will result in 
+different levels of discounting of future costs and benefits 
+in the market. A policy that provides only short-term 
+confidence will favour short-term solutions, i.e. pathways 
+with lower capital expenditures but potentially higher 
+operational expenditures. To put it another way, the 
+market may choose different compliance options to meet 
+20 consecutive one year targets than it would to meet one 
+predictable 20 year target; “The long-term risk associated 
+with commercializing new fuel technologies reduces the 
+effectiveness of existing, shorter-term financial 
+incentives and incentives with an uncertain value 
+proposition” [28]. To put it another way, given the wrong 
+sort of policy the market can be expected to fail to deliver 
+compliance options that deliver the best long-term value.  
+The second standard mechanism to limit costs in 
+biofuel policy is the application of some kind of cost-
+containment mechanism, i.e. a safety valve to allow 
+targets to be unmet if compliance costs cross some 
+threshold, for instance by allowing a defined penalty to 
+be paid as an alternative to supplying qualifying fuel . 
+Such systems, which effectively cap compliance costs, 
+are discussed further below.  
+Any support system that imposes fixed targets 
+without some kind of safety valve makes itself open to 
+accusations of imposing unreasonable costs. For instance, 
+the very high nominal cellulosic biofuel targets under the 
+RFS have never been met, but the use of waivers allowed 
+by the legislation has prevented drastic penalties being 
+imposed on fuel suppliers. While some commentators 
+believe the use of these waivers has undermined the 
+investment signal to AAF producers, without some form 
+of waiver it seems certain that congressional action 
+would have been taken to revise down the over-ambitious 
+volume targets set in the original standard, thus adding to 
+political uncertainty.   
+• Policy hypothesis 9: The maximum 
+potential future costs of an AAF support 
+scheme should be kept well within social 
+tolerance.  
+ 
+4.2 Who pays? Taxpayers vs. consumers 
+In the 90s and early 2000s, most biofuel support in 
+Europe was given through discounts on fuel taxation 
+[36], while in the U.S. the rapid growth of ethanol supply 
+in the mid-2000s was driven by the volumetric ethanol 
+excise tax credit (VEETC), which replaced previous 
+favourable tax treatments for ethanol [37]. Excise ta x 
+exemptions for biofuels in the EU were reported to have 
+reduced tax take by €3 billion in 2006 [36], while 
+VEETC reached a cost to U.S. taxpayers of $6 billion 
+(not including additional tax credits for biodiesel 
+blending) [38]. Under a system of defined tax 
+advantages, the cost to taxpayers increases as supply of 
+eligible fuels increases, and the rising cost to the 
+exchequer of biofuel support in the late 2000s provided 
+the context for a general shift from tax incentives to 
+mandates in both North America and Europe.  
+Under a mandate, fuel suppliers are required to 
+supply a certain amount of alternative fuel each year (or 
+under credit systems to acquire credits to show they 
+supported the supply of alternative fuels) and are subject 
+to penalty if these targets are missed. The cost of 
+compliance is therefore shifted from the taxpayer to the 
+fuel supplier, and is then expected to be passed through to 
+fuel consumers [39] . In general, the companies obligated 
+in such mandates are the companies currently supplying 
+petroleum fuels to consumers, sometimes with 
+exemptions for niche players and small suppliers. There 
+are several potential advantages to a mandate structure 
+rather than tax incentive structure for biofuel policy.  
+Environmentally, the most important of these is that a 
+mandate imposes additional cost on fuel consumers, 
+whereas a tax incentive tends to reduce costs. A tax 
+incentive is therefore likely to increase overall fuel 
+consumption, undermining environmental benefits from 
+the policy [40], [41]. Economically, a tax incentive 
+structure is also arguably more likely to result in over-
+compensation (5) than a mandate, because the value of 
+the tax incentive is set by government rather than by the 
+market. Politically, a mandate has the considerable 
+advantage that the cost to consumers can be hidden 
+within retail fuel prices that are already subject to 
+considerable fluctuation, whereas the budgetary cost of a 
+tax incentive must be explicitly declared [42].  
+• Policy hypothesis 10:  The costs of 
+developing AAF supply should ideally be 
+placed on fuel consumers rather than 
+taxpayers.  
+ 
+4.3 Avoiding over-compensation 
+As noted above, one of the reasons that alternative 
+fuel mandates with market-determined support value 
+have been increasingly favoured over systems with 
+defined levels of support value is that regulators are keen 
+to avoid ‘overcompensation’ of fuel producers.  
+Overcompensation describes the situation when a 
+producer receives significantly more value from a support 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1248
+system than is necessary to make the business viable. The 
+European Commission advises that for renewable energy 
+support schemes, “Under the Environmental aid 
+guidelines, Member States can grant investment and/or 
+operating aid to cover the difference between the 
+production costs and the market price of the energy” [43]. 
+One source suggests in the context of EU renewable 
+energy support that overcompensation has occurred if the 
+internal rate of return of a project is more than 10% 
+higher than a reference level [44] – but regardless of the 
+specific definition taken it is clear that policy is 
+inefficient when it results in large windfall profits to 
+producers.   
+Allowing the market to determine the value of 
+support may reduce the risk of overcompensation, but it 
+does not eliminate it. A review of renewable energy 
+support schemes notes that, “A possible weakness of an 
+obligation system is the overcompensation of low-cost 
+producers. Practical experience to date shows that in 
+Sweden, existing capacity may indeed have received 
+more support than needed from the system” [45]. In the 
+longer term the market should respond to this situation by 
+expanding supply of lower cost fuels bringing the value 
+of support down, and forcing the higher cost producers to 
+become more efficient or close.  
+While avoiding overcompensation is a reasonable 
+policy objective, the social cost of overcompensation is 
+relatively modest for a small (but growing) industry as 
+compared to an established industry. In the context of 
+commercialising new processes with the intention of 
+delivering very aggressive long-term supply growth it 
+may be that it is better to have a degree of tolerance for 
+overcompensation in the short term and thereby allow 
+excess funds to be recycled into new investments, rather 
+than to focus too much on avoiding overcompensation 
+and thereby create support mechanisms that do not 
+generate enough value to spur investment at all.  
+• Policy hypothesis 11: T he desire to avoid 
+overcompensation should not be allowed to 
+stand in the way of adopting effective 
+policies.  
+ 
+4.4 Target setting 
+Within an alternative fuel mandate, or comparable 
+systems such as low carbon fuel standards (equivalent to 
+GHG reduction mandates), setting the level of ambition 
+for targets is crucial to determining the overall benefits 
+delivered and costs incurred by a program, and its impact 
+on investment decisions. Setting very ambitious targets 
+makes compliance harder, and may make the average 
+cost of compliance higher by moving the marginal fuel 
+production opportunities up the cost curve. On the other 
+hand, delivering meaningful GHG reductions to meet 
+international goals requires largescale supply and 
+aggressive growth. It is argued that setting firm and 
+ambitious AAF targets well in advance is crucial because, 
+“Having long -term policy certainty is generally more 
+critical for AAF, for which facilities may require 10 years 
+or more after the project start date to pay back capital 
+loans” [23]. 
+Part of the interest in setting specific volume targets 
+well in advance comes from the desire to provide market 
+certainty, but it is also informed by the need at the 
+jurisdictional level to develop a portfolio of policies that 
+delivers on overall climate change targets. The European 
+Union, for instance, relies on transport renewable fuels to 
+contribute to overall renewable energy targets, and for 
+renewable energy supply to contribute to overall climate 
+targets [46]. Stating a precise level of volume supply 
+requirement for 2030 has the prima facie appeal of 
+precisely defining what those contributions will be.  
+For AAF programmes in particular, the task of target 
+setting is made difficult because of the inherent 
+unpredictability of fuel supply growth. As noted above, 
+existing targets have failed to be matched by supply 
+growth. For an embryonic industry, slightly different 
+assumptions on growth rate can lead to very different 
+supply outcomes a decade or two decades hence [47]. 
+The U.S. EPA has struggled to set achievable 
+cellulosic volume targets one year at a time under the 
+RFS (6), so it should, perhaps, not be surprising when 
+regulators have difficulty pre-empting long term 
+production volumes. The upshot of this is that while there 
+is a strong desire to set firm targets a long way in 
+advance and assume they will be met, experience teaches 
+us that where AAFs are concerned the world is more 
+complicated than that.  
+It is one of the central contentions of this paper that 
+when attempting to develop a new AAF industry more or 
+less from scratch, it is more important to provide fuel 
+producers with confidence about the value of support 
+available than about the size of the future market (7). The 
+value of a large target to a potential AAF producer is that 
+it increases confidence that there will be a future market 
+available for their product at the necessary price. It is 
+argued that such confidence can be better developed by 
+using policy tools that retain a degree of flexibility about 
+AAF supply a decade out.  
+In the case that AAF can be produced sustainably and 
+at a reasonable price, there is a clear case to deliver very 
+large volumes to assist in meeting 2050 climate targets. It 
+would therefore seem to be irrational to purposefully 
+constrain the rate of development should the market start 
+to grow faster and at lower cost than expected. Equally, 
+in the case that the production cost of AAF is higher than 
+expected and fails to reduce in line with predictions, it 
+would seem entirely reasonable to allow the volume of 
+production to expand more slowly (and indeed to reassess 
+the role of AAF technology in meeting climate targets). 
+The novel AAF support mechanism described below is 
+therefore based on the idea of predictable support value 
+and delivering market growth, rather than meeting 
+exactly long-term targets.  
+• Policy hypothesis 12:  Setting exact long-
+term supply targets for fuels that are not yet 
+commercialised creates the conditions for 
+policy failure.  
+ 
+4.5 Credit markets and flexibility mechanisms 
+It is not necessary that a biofuel mandate should be 
+accompanied by a market in tradable credits. In several 
+EU countries, it is incumbent on fuel suppliers to comply 
+with mandates only through supplying fuels, without 
+access to the flexibility provided by credit markets.  
+Nevertheless, in jurisdictions including the U.S. 
+(federal), California and the UK, as well as under the 
+aviation sector’s CORSIA [48] compliance with 
+alternative fuel requirements is to be demonstrated 
+through the redemption of tradable credits, effectively 
+allowing obligated parties to pay other operators to 
+supply alternative fuels for them.  
+The goal of a credit trading option is to provide 
+additional flexibility for the market to determine the most 
+efficient way to meet policy goals. For instance, if the 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1249
+market decides that a large amount of AAF should be 
+supplied in the south of a country and none in the north, 
+then better to allow the inconsistency (subject to fuel 
+quality legislation) than to force suppliers to even out the 
+supply with no net environmental benefit. Similarly, if 
+one obligated fuel supplier is also a market leader in AAF 
+production, it may be more efficient to allow that supplier 
+to generate excess credits and sell them into a credit 
+market, than to try to force all suppliers to make 
+comparable investments. A credit market can also add 
+transparency to the value of AAFs. Within a credit 
+market, the value of a unit volume of AAF can be 
+approximated as the sum of its value as an energy carrier 
+plus the value of one unit of compliance credits. In the 
+absence of a credit trading market, AAF producers may 
+find it more difficult to establish the true market value of 
+their fuels. A credit market can also be combined with a 
+degree of temporal flexibility with a view to reducing 
+overall compliance costs. Under the California Low 
+Carbon Fuel Standard (LCFS), for instance, producers are 
+allowed to bank excess credits earned in years with a 
+higher alternative fuel supply relative to targets, and 
+spend these banked credits to comply in years with a 
+lower alternative fuel supply relative to targets. A similar 
+allowance is made under the UK Renewable Transport 
+Fuel Obligati on (RTFO). Adding flexibility to the 
+compliance market reduces the risk of cost spikes in the 
+event of production bottlenecks, and allows fuel suppliers 
+to seek the most cost effective compliance strategies over 
+the lifetime of a program, rather than only year- on-year 
+[49]. Introducing a credit market may also give AAF 
+producers flexibility to prioritise near-term cashflow over 
+total value. If credits are awarded at the point of fuel 
+supply, fuel producers have the option to either sell them 
+immediately for cash or to bank them in the hope of 
+better returns at a later date.    
+• Policy hypothesis 14 : tradable credit 
+markets add flexibility to AAF support 
+systems that can be valuable to AAF 
+producers.  
+ 
+4.6 Price floors and caps 
+Several existing biofuel mandates include some form 
+of cost-containment mechanism so that obligated fuel-
+suppliers are not subject to prosecution or excessive 
+penalties in the event that the market is unable to supply 
+the required alternative fuel at acceptable prices. An 
+analysis showing the benefit of effective cost 
+containment notes that, “Because most renewable energy 
+mandates rely on advances in new technologies, a 
+binding mandate may lead to situations with exceedingly 
+high short-run compliance costs. As a result, cost 
+containment provisions can play an important role in 
+preventing short-run increases in compliance 
+costs…[and] can substantially increase the efficiency of 
+renewable fuel mandates” [50]. 
+Existing cost-containment mechanisms include the 
+RTFO buy-out price in the UK, the credit clearance 
+market under the LCFS in California, and the cellulosic 
+waiver credit for the cellulosic mandate under the U.S. 
+federal RFS. The RTFO buy-out is a simple mechanism 
+whereby obligated parties can pay to comply as an 
+alternative to supplying renewable fuels [51]. It becomes 
+economically rational for obligated suppliers to pay the 
+buy-out price if the cost of alternative fuels ever rises 
+higher than the cost of fossil fuels plus the buy-out (or if 
+there were structural barriers such as a blend wall 
+preventing available alternative fuels being supplied to 
+the target volumes).    
+The credit clearance market under the LCFS is a 
+slightly more complicated system. Within this system, 
+obligated parties unable to meet their obligations at year 
+end from their own banked credits are required to 
+purchase any available credits from other parties, at or 
+below a prescribed clearance price (8). This provides a 
+guarantee to credit generators that their credits will be 
+bought in the event of a short market. Any compliance 
+obligation that cannot be met after the clearance market is 
+then banked on the obligated supplier’s account as a 
+deficit (subject to interest) and carried into the following 
+year [52], [53].  
+The cellulosic waiver credit system under the RFS is 
+somewhat different in that it effectively allows an 
+obligated supplier to ‘convert’ their cellulosic obligation 
+into an advanced (9) biofuel obligation [34], by 
+purchasing one cellulosic waiver credit from EPA to 
+allow an advanced RIN to substitute for a required 
+cellulosic RIN. The price of the waiver is defined in the 
+statute as whichever is higher between 25 ¢ and $3 minus 
+the price of gasoline. The combination of the waiver 
+provision and the annual shortfalls in cellulosic fuel 
+supply make the price of a cellulosic waiver credit, and 
+therefore marginal value of a gallon of cellulosic fuel 
+over a gallon of advanced fuel, relatively predictable. 
+Some commentators have argued that the waiver 
+provision is a primary reason for the failure of the RFS to 
+drive target levels of AAF investment, “The low waiver 
+price is largely responsible for the failure of the current 
+biofuel policy to stimulate cellulosic ethanol market 
+development” [54]. When the value of the waiver is 
+added to the price of an advanced RIN and added to other 
+incentives for AAF supply, however, it can be 
+demonstrated that given the value from RFS an ethanol 
+equivalent gallon of cellulosic fuel should be worth at 
+least $3 [11]. Add in the value from other U.S. incentives 
+such as the LCFS and the second generation tax credit, 
+and arguably the potential value of a gallon of cellulosic 
+fuel has been over $5 for much of the decade, even with 
+the application of cost containment. If investors had 
+confidence that that price was achievable over the 
+lifetime of an investment, one would have expected to 
+see more capacity come online, so it seems reasonable to 
+conclude that investors haven’t had confidence in the 
+support on offer.  
+One approach that has been mooted in some 
+jurisdictions to provide additional investor certainty is the 
+introduction of a floor price for credits within biofuel 
+mandates. The imposition of a price floor would, in 
+principle, provide investors with an indication of the 
+minimum value that would be provided by a support 
+mechanism, thus significantly reducing downside risk for 
+AAF production. Implementing such a floor, however, is 
+difficult within a biofuel mandate that is designed to 
+allow the market to set credit prices [55] . One option to 
+set a price floor that would be relatively simple would be 
+for the authority implementing a biofuel policy to 
+guarantee to buy credits at a certain price. These could 
+then be retired by the authority, or else banked and 
+offered for later resale to obligated parties at a higher 
+guaranteed price. The former approach would add more 
+tension to the market, but the latter would allow for the 
+system to be potentially self-financing. While such a 
+system is possible, there is generally political resistance 
+to regulators taking on such a role, especially if there is 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1250
+the possibility of significant expenditure commitments. It 
+is difficult, however, to impose a minimum price on 
+transactions between private operators, not least because 
+the price of credits may often be bundled with the value 
+of fuel in private transactions. The situation for biofuel 
+policy is different to the situation for cap and trade 
+policies, where it government can easily set a minimum 
+price on allowances [55]. To date, the author is not aware 
+of a biofuel mandate under which a price floor has been 
+implemented.  
+While price floors are challenging politically and 
+practically, it is clear that there is the potential to improve 
+the value certainty offered in biofuel policy by reducing 
+the risk of very low support value. The novel framework 
+presented in this paper approaches this problem by 
+suggesting a system of defined charges levied on 
+obligated parties with the money raised being recycled to 
+credit holders.  
+• Policy hypothesis 15 : Investment in AAF 
+can be accelerated by reducing downside 
+risk.  
+ 
+ 
+5 CONFIDENCE, UNCERTAINTY AND 
+DISCOUNTING 
+ 
+Existing incentives for AAF production have not 
+delivered the progress desired, but this has not been for 
+want of trying. For instance, a 2013 study noted that the 
+value of U.S. AAF incentives in place at the time , 
+“greatly increases the theoretical market value of an 
+alternative fuel relative to its baseline sale price. In the 
+case of cellulosic ethanol, for example, the combined 
+value of the LCFS credits, RINs, and production tax 
+credits increases the value of a given gallon of cellulosic 
+ethanol to as much as $5 per gallon” [28]. The fact that 
+these incentives failed to deliver a level of investment 
+consistent with their prima facie value was put down to 
+the associated uncertainty regarding the future value of 
+these incentives: “investors discount the nominal value of 
+incentives, and so the de facto value of cellulosic ethanol 
+is much lower for the purposes of investment 
+calculations.”  
+The author is not aware of any published analysis 
+detailing an analytical framework used by investors for 
+valuing future alternative fuel policy, but anecdotal 
+evidence suggests that investors apply aggressive 
+discounting when assessing the value of incentives when 
+assessing net present value of AAF projects. In some 
+cases, such as the second generation biofuel producer tax 
+credit, it is believed that the potential value from AAF 
+support policy is effectively discounted to zero in 
+business case assessment. Mobilising investment is 
+therefore arguably in large part a question of reducing the 
+discount rates explicitly or implicitly applied to the value 
+of biofuel support policy. There is a significant risk of a 
+cognitive dissonance between regulators and investors if 
+policy decisions are based on an assessment of the value 
+of support that does not take into account likely 
+discounting in real investment decision making.  
+This process of discounting of future policy value 
+when taking investment decisions plays a central role in 
+undermining the achievement of true technology 
+neutrality in alternative fuel support policy. Take the U.S. 
+example detailed above, under which the value of 
+cellulosic biofuel production may be as high as $5 per 
+gallon of ethanol. Any facility already operational (such 
+as the biogas facilities that currently generate most 
+cellulosic RINs) has a clear incentive to maximise 
+production, provided this can be done at an operational 
+cost of less than $5 per ethanol gallon equivalent. The 
+production decision can be made based on current value – 
+when the fuel value is above production costs, the plant 
+can run, whereas should the fuel value fall below 
+production costs, production can be reduced. In contrast, 
+an investment in a new high capital expenditure facility 
+will only be made if there is confidence that the value of 
+the output AAF will consistently be higher than 
+production costs, even after discounting the value of 
+policy. A policy framework that provides a $5 per gallon 
+price signal to existing plants may therefore effectively 
+provide only a $2.50 per gallon price signal to 
+investments in new AAF technologies. Because of this 
+discounting, AAF technologies that are potentially 
+cheaper than first generation technologies over the 
+lifetime of an investment may still not be pursued – 
+hardly a technology neutral outcome. To the extent that 
+policy uncertainty drives up required rates of return 
+sought by investors and therefore increases the cost of 
+capital to AAF projects, it also undermines the 
+contribution of AAF deployment to rural development 
+goals. A higher capital cost means that more income from 
+a successful AAF project will be siphoned off to repay 
+investors, leaving less to be return ed into the rural 
+economy.  
+ 
+ 
+6 PRINCIPLES FOR SUCCESSFUL 
+COMMERCIALISATION POLICY DESIGN 
+ 
+Based on a consideration of the issues introduced 
+above, and of policy design principles identified in 
+previous literature, the following is suggested as a list of 
+key principles for designing effective advanced 
+alternative fuel policy.   
+1) Provide a clear value signal [15], [28] 
+2) Provide some form of tradable credits [35] 
+3) Provide long-term support [23], [26]–[28]  
+4) Avoid direct competition with low capex 
+alternative fuel pathways [15], [23] 
+5) Be robust against underachievement of targets 
+[31], [35] 
+6) Be robust against overachievement of targets 
+[35] 
+7) Deal with sustainability issues upfront [23], 
+[27], [35] 
+8) Provide complementary support for technology 
+commercialization [26], [35], [56], [57] 
+ 
+ 
+7 DEFINING THE ADVANCED ALTERNATIVE 
+FUEL SUPPORT OBLIGATION 
+ 
+In the introductory sections of this paper, a range of 
+issues facing AAF development, and afflicting the 
+effectiveness of existing AAF support policies, were 
+discussed. In this section, a novel support framework is 
+proposed, which it is claimed could provide significantly 
+enhanced value confidence to AAF investors and thereby 
+deliver better policy outcomes than simple mandates for 
+the same nominal level of regulatory commitment. This 
+framework is referred to as an Advanced Alternative Fuel 
+Support Obligation, or AAFSO. The precise delineation 
+of which fuels should be counted as AAFs and made 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1251
+eligible for support under an AAFSO is (in part) a 
+political question to be determined by the appropriate 
+authorities in any jurisdiction seeking to introduce an 
+AAFSO. It is intended that an AAFSO would be used 
+specifically to support the deployment of high capital 
+expenditure new technologies in need of 
+commercialisation, and it is hoped that such support 
+would be predicated on appropriate assessment and 
+demonstration of net climate benefit and sustainability.  
+ 
+7.1 Credit award 
+Under the AAFSO, as under existing biofuel 
+mandates, Advanced Alternative Fuel Credits (AAFCs) 
+would be awarded for either the supply or production of 
+eligible AAF fuels. The choice of production or supply as 
+the point of credit generation will depend on 
+administrative considerations. Crediting at the point of 
+fuel supply to market has the advantage of running in 
+parallel with existing excise duty reporting requirements.  
+Crediting at the point of production has the advantage 
+that it awards credit directly to the fuel producer, rather 
+than relying on value pass through from a third party fuel 
+supplier to the AAF producer. The unit of production is 
+similarly an administrative choice – for instance whether 
+to award credits by volume of fuel or by energy content. 
+Fuels such as electricity and hydrogen could readily be 
+included within the AAFSO framework, subject only to 
+setting an appropriate relative credit rate (based for 
+instance on energy content, or potentially energy content 
+modified by drivetrain efficiency).   
+ 
+7.2 The support obligation 
+The value proposition under the AAFSO would 
+derive from an annual obligation on fuel suppliers (10) to 
+support the supply of AAF by purchasing a share of the 
+AAFCs produced in that year proportionate to the amount 
+of obligated fuel they had supplied. 
+ 
+ 
+ 
+For instance, if one single fuel supplier supplied half 
+of all the transport fuel in a jurisdiction, that supplier 
+would incur an obligation to support the production of 
+AAF by purchasing half of the credits available on the 
+market. This provides a slightly different framing to the 
+legal obligation on fuel suppliers in traditional biofuel 
+mandates. Under the AAFSO, the formal obligation is not 
+to deliver a certain amount of AAF, but to provide 
+financial support through credit purchase to producers of 
+AAFs (11).  
+Notice that the obligation to purchase credits is 
+defined not in absolute terms (a volume target for each 
+operator, as in existing biofuel mandates) but as a 
+fraction of credits produced. Under the AAFSO, 
+therefore, all credits must be purchased, regardless of the 
+total number generated. Clearly, such a potentially 
+unlimited credit purchase obligation would be 
+controversial without taking measures to limit the cost 
+burden placed upon fuel suppliers. The obligation on fuel 
+suppliers to buy credits must therefore be associated with 
+an overall annual supply target and an annual target price 
+for credits, both of which should be set by the relevant 
+regulator, ideally well in advance. The combination of 
+this supply target and price target would set a defined cap 
+on the cost of the support obligation to fuel suppliers. 
+7.3 Targets for supply and value 
+The overall annual supply target should reflect the 
+amount of AAF that the regulator intends to be supplied 
+in each year of the obligation. The target price should 
+reflect the cost of support that the regulator considers it 
+appropriate to impose on fuel suppliers, and ideally 
+should be set at a level consistent with making the first 
+generation of cellulosic fuel production financially 
+attractive. In the case that the actual production of AAF 
+was less than or equal to the annual supply target, then 
+fuel suppliers would be obliged to buy all available 
+credits at the target price, on a pro rata basis. However, 
+should the supply of AAF exceed the supply target, the 
+credit purchase price would be scaled down in proportion 
+to the actual level of supply in that year.  
+ 
+ 
+ 
+ 
+The total cost to the fuel suppliers (and hence fuel 
+consumers) of the AAFSO would thus be firmly capped.  
+ 
+  
+ 
+Should the number of credits generated be double the 
+supply target, then the required purchase price would be 
+halved. Regardless of the amount of AAF supplied in the 
+year, the overall program cost could thus not rise above 
+the maximum limit. The market, however, is still given a 
+role – given confidence in the incentive, the supply of 
+AAF can be expected to increase until the credit purchase 
+price reduces to the marginal cost of fuel supply (12 ). 
+The AAFSO thus prioritizes continuing to expand the 
+AAF supply over the possibility to deliver target supply 
+volumes for a marginally reduced cost. The AAFSO is 
+designed so that the value of credits cannot start to fall 
+until the market has developed to such a degree that total 
+available AAF supply exceeds annual targets, i.e. so that 
+there must already be several facilities operating 
+successfully before there could be even a marginal 
+reduction in support value from the policy.   
+ 
+7.4 Enhanced certainty 
+By clearly defining the AAF support payments 
+required from obligated companies, the AAFSO provides 
+a clear value signal to AAF producers. By relating the 
+required purchase price to the total amount of AAF 
+supplied, the AAFSO ensures that the value of the 
+incentive would not collapse in the case that supply 
+grows more quickly than anticipated (an outcome that 
+should be considered a success, but that could be very 
+challenging for AAF producers under a simple mandate 
+structure). By obliging fuel suppliers to support all the 
+AAF produced, rather than making them directly 
+responsible for meeting a target, the AAFSO avoids 
+imposing politically unsustainable penalties on fuel 
+suppliers in the case that industrial deployment is slower 
+than anticipated. By making the total cost of AAF 
+support relatively predictable, the AAFSO allows policy 
+makers to gain a clearer understanding of expected cost 
+vs. benefit for the policy.  
+ 
+7.5 The in-year and end-of-year markets 
+The support obligation would need to be resolved at 
+the end of the compliance year. At that point, some 
+parties would hold credits, and some would have 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1252
+purchase obligations. In some cases, an obligated party 
+may already hold credits as well as having generated a 
+purchase obligation. The simplest way to manage the 
+system would be to have a central automated broker 
+allowing obligated parties to purchase additional credits 
+up to their obligations, and transferring those funds 
+automatically to the parties surrendering credits. Credits 
+already held by obligated parties would be cancelled 
+against their pro-rata obligations. Penalties would be 
+appropriate for late payment of support obligations 
+In addition to the end of year market, it is suggested  
+that credit trading should be permitted through the year to 
+add additional flexibility to the system. This would 
+primarily serve the purpose of allowing fuel producers to 
+achieve positive cashflow up to 12 months earlier than 
+through the end of year market, presumably by selling at 
+a discount. It would also allow obligated parties to 
+negotiate favourable terms for credits with fuel 
+producers, for instance in exchange for offtake 
+agreements. Parties trading during the year would 
+shoulder the risk associated with the possibility of credit 
+values being reduced (or increased) due to a stronger-
+than or weaker-than expected market – but this risk is 
+still much less than that shouldered in more volatile 
+existing credit markets.  
+ 
+ 
+8 COMPARISON OF CHARACTERISTICS OF AAF SUPPORT POLICIES 
+ 
+Table II: Review of characteristics of types of alternative fuel support policy 
+ 
+ Volume mandate Volume mandate with 
+credits and cost 
+containment 
+Tax incentive AAFSO 
+How value of 
+fuel is 
+determined 
+Fuel value + value to 
+obligated party of 
+compliance 
+Fuel value + credit 
+value (up to cap) 
+Government sets value 
+of incentive 
+Government sets target 
+price for credits 
+How 
+compliance/ 
+credit value is 
+determined 
+Obligated parties 
+balance risk of non-
+compliance versus 
+desire to minimise 
+costs. Theoretically, 
+‘compliance premium’ 
+reflects marginal 
+compliance option. 
+If supply is adequate 
+with credits below 
+price cap, same as 
+volume mandate. If 
+supply is limited or 
+marginal cost of 
+compliance high, credit 
+price floats to the cap 
+price.  
+Government sets price 
+at value considered to 
+balance cost against 
+benefit 
+Government sets price 
+at value considered to 
+balance cost against 
+benefit 
+Volume supplied Should match mandate Will match mandate 
+unless cost exceeds cap 
+price, in which case 
+obligated parties will 
+‘buy-out’ instead 
+Unlimited – as much as 
+can be delivered at 
+support value 
+Unlimited – as much as 
+can be delivered under 
+adjusted credit price 
+Cost (borne by 
+consumers/ 
+obligated 
+parties) 
+Unlimited – Whatever 
+is necessary to achieve 
+volume 
+Capped – Up to target 
+volume x credit price 
+cap 
+Unlimited – Volume of 
+fuel produced x value 
+of support  
+Capped – up to annual 
+supply target x target 
+credit price  
+Implication of 
+under-supply 
+Targets are missed. 
+Obligated parties cut 
+off fuel supply or face 
+fines/legal action. 
+Transfer of funds to 
+buy-out. Can be 
+presented as an extra 
+tax on fuel consumers.  
+Reduces both cost and 
+benefits of scheme 
+Reduces both cost and 
+benefits of scheme 
+Implication of 
+over-supply  
+Compliance premium 
+falls towards zero. Fuel 
+must be sold close to or 
+even below value of 
+embedded energy. 
+Producers face losses.  
+Excess credits cannot 
+be sold. Price of credits 
+drops very low. 
+Producers likely face 
+losses. 
+Scheme becomes very 
+expensive. Producers 
+well supported.  
+Scheme delivers added 
+benefits at no increased 
+cost. Producers receive 
+reduced but still 
+significant rate of 
+support.   
+ 
+ 
+9 DIFFERENTIATING SUPPORT IN AN AAFSO 
+ 
+The details of the AAFSO laid out above assume that 
+every unit of eligible fuel is equally rewarded under the 
+scheme, one credit per unit of supply. In this case of an 
+AAFSO with no internal differentiation, all policy 
+judgement about the value of specific production 
+pathways for alternative fuels must be included in the 
+eligibility criteria to identify which fuels are to be 
+counted as AAFs. It may also be desirable to consider a 
+type of AAFSO in which further differentiation between 
+fuels were to be permitted. This might include providing 
+more generous incentives for fuels that are considered to 
+deliver larger GHG emissions, more generous incentives 
+for fuel pathways that involve land rehabilitation, or more 
+generous support for fuel pathways that demonstrably 
+avoid interfering with existing supply chains (i.e. avoid 
+indirect emissions). The precise details of which policy 
+goals could or should be supported through enhanced 
+support are beyond the scope of this paper, but it is 
+possible to suggest mechanisms through which such 
+support could be provided, and two such possibilities are 
+detailed below.  
+ 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1253
+9.1 Differentiated incentives through multiple counting 
+One approach that could be adopted to provide 
+enhanced support for AAF pathways considered more 
+beneficial would be to offer the possibility of generating 
+more than a single credit for such fuels. This approach 
+would be analogous to existing incentives for AAF 
+supply in the European Union under the RED, where 
+fuels produced from cellulosic materials are eligible to be 
+counted twice towards renewable energy targets. Multiple 
+crediting provides considerable flexibility, as the rate of 
+multiple crediting could in principle be readily varied to 
+any level of precision to allow either a very coarse or 
+very granular differentiation of levels of support to 
+different AAF pathways. Multiple counting does not add 
+significant additional complexity to the AAFSO system, 
+as once credits are awarded the in-year market and end-
+of-year processes continue as detailed above. Multiple 
+crediting would not affect total cost of the system to fuel 
+suppliers and consumers. The disadvantage of multiple 
+crediting is that a larger level of pr oduction of the ‘best’ 
+AAFs would result in reductions in the value of each 
+AAFC in the case that the number of AAFCs generated 
+exceeds the annual supply target. In an extreme case, if 
+the full supply target were met using a double counted 
+AAF pathway, it could halve the required purchase price 
+per credit. The value of multiple counting under the 
+existing RED has been questioned by stakeholders [58] , 
+although this criticism may in part reflect the 
+considerable uncertainty associated with future RED 
+compliance, and the idea that multiple counting 
+multiplies value uncertainty.  
+ 
+9.2. Differentiated incentives through variable target   
+price 
+An alternative approach to differentiating support 
+under an AAFSO would be to award different types of 
+credit for different AAFs, each with a separate target 
+credit price, but under a single combined annual supply 
+target. In this approach, during the end- of-year 
+reconciliation process each obligated fuel supplier would 
+acquire a support obligation on a pro rata share of the 
+credits generated in each of the different price categories. 
+This approach has the advantage over the multiple 
+counting approach detailed above that increased supply 
+of the AAF pathways considered best performing would 
+never reduce the purchase price for credits . The flip-side 
+of this advantage is that the use of a split market of this 
+sort would introduce a degree of uncertainty into the 
+overall cost of the program. The maximum cost to fuel 
+suppliers/consumers would now become: 
+ 
+ 
+ 
+To again consider an extreme case, if all AAF was 
+supplied in a category with twice the ‘standard’ target 
+price, the cost of the program would be double what it 
+would be if al AAF was supplied in the standard 
+category. While this additional cost ought by hypothesis 
+to be associated with an additional benefit, cost increases 
+compared to expectations could potentially undermine 
+political support for the programme. Introducing multiple 
+credit categories could also be seen as introducing 
+additional complexity for obligated parties.  
+Whichever approach to value differentiation were to 
+be implemented, creating only a modest differentiation in 
+value would likely be less disruptive to the programme 
+than implementing large differences in target price or 
+crediting rate.   
+ 
+ 
+10 THE ELEPHANT GRASS I N THE ROOM – A 
+NOTE ON FEEDSTOCK SUPPLY 
+ 
+Many AAF technologies require a large supply of 
+cellulosic or ligno-cellulosic material. It is often assumed 
+that use of such materials for bioenergy is intrinsically 
+more sustainable than the use of higher value materials 
+(sugars, starches, oils) from food crops, but this may not 
+always be the case. Growing energy crops has land use 
+implications just as growing food crops does, although it 
+might be expected that associated ILUC emissions may 
+be lower for cellulosic crops [59]. Similarly, removing 
+residues that would otherwise remain in place or that 
+have existing uses can raise sustainability issues [20], 
+[60]. An AAFSO could be implemented without 
+associated sustainability governance rules, but it is 
+strongly recommended, both for minimising negative 
+impacts and for reducing political instability, that any 
+AAFSO should include robust controls on sustainability 
+of feedstock acquisition [61]. 
+ 
+ 
+11 CONCLUSIONS 
+ 
+Despite high hopes, the development of advanced 
+alternative fuels (AAF) technologies, notably cellulosic 
+biofuels, has lagged dramatically behind policy 
+aspirations from a decade ago. This deployment failure 
+reflects a number of external factors, and technology 
+challenges in commercialising new processes, but also 
+reflects policy frameworks that have been ill suited to 
+purpose. Existing mandates and tax incentives have 
+singularly failed to deliver the level of future value 
+certainty that is necessary to allow investment in high 
+capital expenditure facilities that are perceived to be 
+associated with high technology risk, with the result that 
+the expected future value of incentives is significantly 
+discounted when making investment decisions. 
+This paper outlines a novel policy framework for 
+AAF commercialisation support, the Advanced 
+Alternative Fuel Support Obligation, or AAFSO. By 
+setting a defined target price for credits awarded to AAF 
+producers, the value uncertainty of market-based mandate 
+programmes is avoided. Under the AAFSO, there is no 
+possibility of excessive compliance price spikes due to 
+undersupply of AAFs. By allowing the set value of 
+support to be reduced proportionately if more AAF is 
+supplied than the target for a given year, the total cost of 
+the programme to fuel suppliers and consumers is 
+capped, removing a source of political instability in 
+existing tax incentive programmes. By allowing the 
+market to increase the AAF supply past the set annual 
+target without risking a collapse in the value of the 
+incentive, the AAFSO avoids placing arbitrary limitations 
+on the expansion of an industry that government intends 
+to grow dramatically in the longer term. The value 
+proposition to AAF producers is thus made much more 
+predictable than in existing mandate schemes, whether 
+supply targets are under-achieved or over-achieved. It is 
+claimed that such a system has the potential to deliver 
+significantly more rapid commercialisation of AAF 
+supply, at an expected cost to consumers no higher than 
+that of existing programmes.  
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1254
+12 NOTES  
+ 
+(1) The usage of terms such as ‘first generation’, 
+‘second generation’ and ‘advanced’ to describe 
+parts of the biofuel industry is perennially 
+complicated by the lack of any universal 
+convention. Within this paper, ‘first generation’ 
+refers to biofuels produced by conversion of 
+higher-value molecules such as oils, starches and 
+sugars that have alternative uses as food or feed, 
+while the term ‘advanced  alternative fuels ’ is used 
+to refer to alternative fuels (not necessarily limited 
+to biofuels) that are produced using less established 
+technologies from lower value molecules, such as 
+lignocellulose. The main first generation 
+technologies within this terminology are 
+fermentation, transesterification and lipid 
+hydrotreating. Advanced alternative fuel 
+technologies could include (but are not limited to) 
+cellulose hydrolysis for fermentation, pyrolysis 
+with upgrading, gasification with Fischer-Tropsch 
+synthesis, algal biofuel production, carbon 
+monoxide synthesis, power- to-liquids and 
+hydrothermal liquefaction.       
+(2) The question of the GHG emissions benefits 
+delivered by different biofuels, and how AAFs 
+compare to the better performing first generation 
+fuels, is a vexed one that cannot be resolved in this 
+paper, and the GHG intensity of AAF production 
+will be sensitive to production processes and 
+feedstock choices. The central contention is that 
+when feedstock harvesting and processing are dealt 
+with appropriately, it is possible to deliver AAFs 
+with very low GHG intensities, even when 
+considering CO2 emissions associated with carbon 
+stock changes in biomass and soils [62], [63].   
+(3) By ‘first-to-nth of a kind’ plants, we mean the first 
+set of AAF production facilities using a given 
+technology, the successful operation of which will 
+enable operational learning an deficiency 
+improvements for future facilities, and convince 
+future investors that the AAF technology in 
+question has a lower risk profile than previously 
+perceived. ‘nth of a kind’ plants ca n then be built 
+with lower capital and operational expenditures, 
+and lower cost of capital.   
+(4) To focus solely on a concept such as net present 
+value is a simplification, but hopefully a useful one. 
+Real world investment decisions are affected not 
+solely by balance sheet calculations at the project 
+level, but also informed by consideration of broader 
+prospects for the industry and other subjective 
+factors brought to the table by the individual 
+investor or institution. Still, showing a positive 
+prospective balance sheet can be thought of as a 
+sine qua non for mobilising AAF investments.   
+(5) Overcompensation refers to the case that the value 
+of public support for supplying an alternative fuel 
+is disproportionate to the actual marginal cost of 
+supplying that fuel. For example, if a $1 per gallon 
+tax credit is offered for a fuel that has a production 
+cost only $0.50 above the wholesale fossil fuel 
+price, producers of that fuel would arguably be 
+being overcompensated by $0.50. 
+Overcompensation increases the cost of policies to 
+society, and can become a barrier to good policy-
+making by creating a strong and well financed 
+vested interest in favour of preserving excessive 
+incentives to incumbents.    
+(6) It should be noted that while there are obvious 
+advantages to predicting supply one year hence 
+rather than ten years hence, it can also be argued 
+that the very process of annual revisions to the 
+cellulosic standard under RFS has inhibited 
+investment, putting EPA in the unenviable position 
+that setting targets low may prevent the investment 
+needed to meet even a low target, whereas setting 
+targets high will lead to accusations of over-
+optimism and putting excessive costs onto industry.  
+(7) Recognising that these are not independent 
+variables – higher support value will generally 
+contribute to meeting higher targets, while a higher 
+target will generally contribute to a higher value of 
+support.  
+(8) A sale below the clearance price might occur in the 
+case that the obligated supplier was willing to enter 
+into some complementary agreement, for instance 
+for offtake or investment.  
+(9) In the RFS, the term ‘advanced’ biofuel refers to 
+any fuel other than corn-ethanol assessed by EPA 
+as delivering a 50% or better carbon saving, and 
+thus in practice covers almost all biofuels supplied 
+in the U.S. except corn ethanol.  
+(10) The term, ‘fuel suppliers’ is used to refer to the 
+companies putting fossil fuels, and often renewable 
+fuels, into the transport fuel market. The precise 
+mode of definition of a fuel supplier may differ by 
+jurisdiction, for instance under the UK RTFO the 
+party owning transport fuel as it crosses the duty 
+point incurs an obligation. The obligation of each 
+fuel supplier could be made proportional to fossil 
+fuel supply only, or to total supply of all liquid 
+fuels.  
+(11) This might in some jurisdictions introduce 
+complications related to whether the AAFSO has 
+the legal character of a tax. Such administrative 
+issues are of great importance to the effective 
+implementation of a scheme, but are not considered 
+in this paper. 
+ With the caveat that given the relatively long 
+turnaround to bring a new facility into operation, 
+there is a limit to how quickly a growing AAF 
+market can react to market signals.   
+ 
+ 
+13 REFERENCES 
+ 
+[1] EIA, “International Energy Statistics,” 2018. 
+[Online]. Available: 
+https://www.eia.gov/beta/international/data/browser
+/#/?pa=000003g&c=4100000002000060000000000
+000g000200000000000000001&ug=8&tl_id=79-
+A&vs=INTL.79-1-AFRC-
+MT.A&cy=2015&vo=0&v=H&end=2016. 
+[Accessed: 08-May-2018]. 
+[2] J. L. Sawin, K. Seyboth, and F. Sverrisson, 
+Renewables 2016: Global Status Report. IRENA, 
+2016. 
+[3] C. Malins, S. Y. Searle, and A. Baral, A Guide for 
+the Perplexed to the Indirect Effects of Biofuels 
+Production, no. September. International Council 
+on Clean Transportation, 2014. 
+[4] Y. Yang, J. Bae, J. Kim, and S. Suh, “Replacing 
+Gasoline with Corn Ethanol Results in Significant 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1255
+Environmental Problem-Shifting, ” Environ. Sci. 
+Technol., 2012. 
+[5] Committee On Economic And Environmental 
+Impacts Of Increasing Biofuels Production, 
+“Potential Economic and Environmental Effects of 
+U.S. Biofuel Policy,” National Academies Press, 
+Washington D.C., 2011. 
+[6] H. Valin, D. Peters, M. van den Berg, S. Frank, P. 
+Havlík, N. Forsell, and C. Hamelinck, “The land 
+use change impact of biofuels consumed in the EU 
+Quantification of area and greenhouse gas 
+impacts,” p. 261, 2015. 
+[7] D. Rajagopal, G. Hochman, and D. Zilberman, 
+“Indirect fuel use change (IFUC) and the lifecycle 
+environmental impact of biofuel policies,” Energy 
+Policy, vol. 39, no. 1, pp. 228–233, 2011. 
+[8] C. Malins, Thought for Food - A review of the 
+interaction between biofuel consumption and food 
+markets. London: Cerulogy, 2017. 
+[9] L. R. Lynd, “Cellulosic Biofuels: Review, 
+Diagnosis, and Prescription GSB Global 
+Sustainable Bioenergy Drawing a Roadmap to 
+Cellulosic Biofuel Deployment,” in Bioeconomy 
+2017: Drawing a Roadmap to Cellulosic Biofuel 
+Deployment, 2017. 
+[10] A. Schwab, E. Warner, and J. Lewis, “2015 survey 
+of non-starch ethanol and renewable hydrocarbon 
+biofuels producers,” 2016. 
+[11] N. Miller, A. Christensen, J. Park, A. Baral, C. 
+Malins, and S. Y. Searle, “Measuring and 
+addressing investment risk in the second-generation 
+biofuels industry,” 2013. 
+[12] J. Chye, L. Jun, L. Yon, and S. P. Biofuels, 
+“Biofuel production from algal biomass,” in 
+Bioenergy and Biofuels, O. Konur, Ed. CRC Press, 
+2018. 
+[13] L. R. Lynd, “The grand challenge of cellulosic 
+biofuels,” Nat. Biotechnol., 2017. 
+[14] C. Malins, “What role is there for electrofuel 
+technologies in European transp ort’s low carbon 
+future ?,” Cerulogy, London, 2017. 
+[15] D. Peters, S. Alberici, J. Passmore, and C. Malins, 
+“How to advance cellulosic biofuels: Assessment 
+of costs , investment options and policy support,” 
+2016. 
+[16] P. Harrison, C. Malins, S. Y. Searle, A. Baral, D. 
+Turley, and L. Hopwood, Wasted: Europe’s 
+untapped resource. European Climate Foundation, 
+2014. 
+[17] D. Turley, G. Evans, and L. Nattrass, “Use of 
+sustainably-sourced residue and waste streams for 
+advanced biofuel production in the European 
+Union: rural economic impacts and potential for job 
+creation,” 2013. 
+[18] Sustainable Transport Forum sub group on 
+advanced biofuels, Building up the future. Brussels: 
+Sustainable Transport Forum, 2017. 
+[19] J. D. Stephen, W. E. Mabee, and J. N. Saddler, 
+“Will second-generation ethanol be able to compete 
+with first-generation ethanol? Opportunities for 
+cost reduction,” Biofuels, Bioprod. Biorefining , 
+vol. 6, pp. 159–176, 2012. 
+[20] C. Malins, Waste Not, Want Not: Understanding 
+the greenhouse gas implications of diverting waste 
+and residual materials to biofuel production . 
+London: Cerulogy, 2017. 
+[21] H. Boerrigter and I. H. Boerrigter, “Economy of 
+Biomass-to-Liquids (BTL) plants: An engineering 
+assessment,” 2006. 
+[22] Sustainable Transport Forum sub group on 
+advanced biofuels, Building up the future - Cost of 
+Biofuel. Brussels: European Commission, 2017. 
+[23] K. Bitnere and S. Y. Searle, “Effective Policy 
+Design for Promoting Investment in Advanced 
+Alternative Fuels,” 2017. 
+[24] I. Gerasimchuk, R. Bridle, C. Charles, and T. 
+Moerenhout, “Cultivating Governance: Cautionary 
+tales for biofuel policy reformers,” 2012. 
+[25] Irshad Ahmed, “Cellulosic ethanol, what happened, 
+what’s happening? : Biofuels Digest,” Biofuels 
+Digest, 2016. [Online]. Available: 
+http://www.biofuelsdigest.com/bdigest/2016/08/01/
+cellulosic-ethanol-what-happened-whats-
+happening/. [Accessed: 10-May-2018]. 
+[26] UK Transport Energy Taskforce, “Options for 
+transport energy policy to 2030,” 2015. 
+[27] Pete Harrison, Chris Malins, and Stephanie Searle, 
+“Biofrontiers: Responsible innovation for 
+tomorrow’s liquid fuels,” Brussels, 2016. 
+[28] N. Pavlenko, S. Y. Searle, C. Malins, and S. El 
+Takriti, “Development and Analysis of a Durable 
+Low-Carbon Fuel Investment Policy for 
+California,” Washington, D.C., 2016. 
+[29] Transport and Environment, “NGOs call for 
+suspension of biofuels targets,” 2008. [Online]. 
+Available: 
+https://www.transportenvironment.org/press/ngos-
+call-suspension-biofuels-targets. [Accessed: 10-
+May-2018]. 
+[30] Western States Petroleum Association, “California 
+Issues - Western States Petroleum Association,” 
+2018. [Online]. Available: 
+https://www.wspa.org/about/state-issues/california-
+issues/. [Accessed: 10-May-2018]. 
+[31] G. E. Lade, C.-Y. C. L. Lawell, and A. Smith, 
+“Designing Climate Policy: Lessons from the 
+Renewable Fuel Standard and the Blend Wall,” 
+Am. J. Agric. Econ., vol. 100, no. 2, pp. 585 –599, 
+2018. 
+[32] Alternative Fuels Data Center, “Seco nd Generation 
+Biofuel Producer Tax Credit,” 2018. [Online]. 
+Available: 
+https://www.afdc.energy.gov/laws/10515. 
+[Accessed: 10-May-2018]. 
+[33] N. Pavlenko, S. Y. Searle, and B. Nelson, “A 
+comparison of contracts for difference versus 
+traditional financing schemes to support ultralow-
+carbon fuel production in California,” pp. 1– 15, 
+2017. 
+[34] A. Christensen, S. Y. Searle, and C. Malins, “A 
+Conversational Guide to… Renewable 
+Identification Numbers (RINs) in the U.S. 
+Renewable Fuel Standard,” Washington D.C., 
+2014. 
+[35] S. Yeh, D. Sperling, M. Griffin, M. Khanna, and P. 
+Leiby, “National Low Carbon Fuel Standard: 
+Policy Design Recommendations,” 2012. 
+[36] G. Kutas, C. Lindberg, and R. Steenblik, “Biofuels 
+- at what cost? Government support for ethanol and 
+biodiesel in the European Union One of a series of 
+reports addressing subsidies for biofuels in selected 
+OECD countries,” Geneva, 2007. 
+[37] Taxpayers for Common Sense, “The Volumetric 
+Ethanol Excise Tax Credit: History and Current 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1256
+Policy,” Taxpayers for Common Sense, 2011. 
+[Online]. Available: 
+https://www.taxpayer.net/agriculture/the-
+volumetric-ethanol-excise-tax-credit-history-and-
+current-policy/. [Accessed: 10-May-2018]. 
+[38] BioenergyWiki, “Volumetric Ethano l Excise Tax 
+Credit,” BioenergyWiki, 2012. [Online]. Available: 
+http://bioenergywiki.webfactional.com/Volumetric
+_Ethanol_Excise_Tax_Credit. [Accessed: 10-May-
+2018]. 
+[39] H. De Gorter and D. Drabik, “The Distinct 
+Economic Effects of the Ethanol Blend Wall, RIN 
+Prices and Ethanol Price Premium due to the RFS,” 
+2015. 
+[40] C. Malins, S. Searle, and N. Pavlenko, “Assessment 
+of the scale of potential indirect emissions due to 
+higher oil use,” 2015. 
+[41] H. de Gorter, “Policy Update: What is better for the 
+environment: a biofuel tax credit or mandate?,” 
+Biofuels, vol. 1, no. 6, pp. 815–817, Nov. 2010. 
+[42] R. Bryce, “The hidden corn ethanol tax— How 
+much does the Renewable Fuel Standard costs 
+motorists?,” Manhattan Inst. Issues Br., vol. 32, 
+2015. 
+[43] European Comm ission, “Competition - Energy - 
+Energy and Climate Change &gt; specific 
+measures,” 2012. [Online]. Available: 
+http://ec.europa.eu/competition/sectors/energy/mea
+sures_en.html. [Accessed: 10-May-2018]. 
+[44] Norton Rose Fulbright, “European renewable 
+energy incentive guide - Romania,” 2012. 
+[45] N. Van der Linden, M. Uyterlinde, and C. Vrolijk, 
+“Review of international experience with 
+renewable energy obligation support mechanisms,” 
+2005. 
+[46] European Commission, Proposal for a Directive of 
+the European Parliament and of the Council on the 
+promotion of the use of energy from renewable 
+sources, vol. 0382. Brussels: European 
+Commission, 2016. 
+[47] C. Malins, N. P. Lutsey, S. Galarza, Z. Shao, S. Y. 
+Searle, C. Chudziak, and M. van den Berg, 
+“Potential low -carbon fuel supply to the Pacific 
+Coast region of North America,” 2015. 
+[48] S. El Takriti, N. Pavlenko, and S. Searle, 
+“Mitigating international aviation emissions: Risks 
+and opportunities for alternative jet fuels,” 
+Washington D.C., 2017. 
+[49] J. Rubin and P. N . Leiby, “Tradable credits system 
+design and cost savings for a national low carbon 
+fuel standard for road transport, ” Energy Policy , 
+vol. 56, pp. 16–28, 2013. 
+[50] G. E. Lade, C.-Y. C. L. Lawell, J. Bushnell, M. 
+Fowlie, A. Smith, J. Wilen, K. Novan, D. Nixon, J. 
+Courtis, S. Yeh, and J. Witcover, “The Design of 
+Renewable Fuel Policies and Cost Containment 
+Mechanisms,” no. March, 2016. 
+[51] Department for Transport, “RTFO Guidance Part 
+One, Process Guidance: RTFO Year 10,” London, 
+2017. 
+[52] S. Yeh, J. Witcover, G. Lade, D. S.-E. Policy, and  
+undefined 2016, “A review of low carbon fuel 
+policies: Principles, program status and future 
+directions,” Elsevier. 
+[53] C. Miller, S. Mulhauser, B. Shapiro, and J. Seong, 
+“Improving Market Certainty in California’s Low 
+Carbon Fuel Standard,” 2017. 
+[54] S. Galinato, G. Galinato, J. Yoder, and T. Skolrud, 
+“Impacts of federal biofuel policy and market 
+structure on the PNW cellulosic ethanol industry,” 
+2016. 
+[55] G. E. Lade and C.- Y. C. Lin, “A Report on the 
+Economics of Cal ifornia’s Low Carbon Fuel 
+Standard and Cost Containment Mechanisms,” 
+Davis, CA, 2013. 
+[56] S. Smolinski and S. Cox, “Policies to Enable 
+Bioenergy Deployment: Key Considerations and 
+Good Practices,” 2016. 
+[57] G. Mosey and C. Kreycik, “State Clean Energy 
+Practices: Renewable Fuel Standards,” 2008. 
+[58] M. Carus, L. Dammer, A. Hermann, and R. Essel, 
+“Proposals for a Reform of the Renewable Energy 
+Directive to a Renewable Energy and Materials 
+Directive (REMD). nova paper #4 on bio-based 
+economy 2014-05.,” 2014. 
+[59] N. Pavlenko and S. Searle, “A comparison of 
+induced land-use change emissions estimates from 
+energy crops,” Washington D.C., 2018. 
+[60] S. Y. Searle and C. Malins, “Waste and residue 
+availability for advanced biofuel production in EU 
+Member States,” Biomass and Bioenergy, 2015. 
+[61] B. Allen, S. Nanni, D. Baldock, and C. Bowyer, 
+“Developing sustainability criteria for biofuels 
+made from land and non- land based feedstocks,” 
+London, 2016. 
+[62] A. Baral and C. Malins, “Comprehensive carbon 
+accounting for identification of sustainable biomass 
+feedstocks,” no. January, p. 79, 2014. 
+[63] A. Baral and C. Malins, “Assessing the climate 
+mitigation potential of biofuels derived from 
+residues and wastes in the European context, ” Int. 
+Counc. Clean Transp., 2014. 
+ 
+ 
+14 ACKNOWLEDGEMENTS 
+ 
+I am grateful to Stephanie Searle and the ICCT Fuels 
+Team for permission to build in this paper on ideas that 
+were initially developed for the ICCT.    
+I would like to thank those members of the 
+Biofrontiers group of the European Climate Foundation 
+and the UK Transport Energy Task Force, and the team at 
+the National Non-Food Crop Centre, with whom the 
+concept of the AAFSO has been workshopped, discussed 
+and developed. 
+I would like to thank in advance anyone who is 
+interested in funding further work on the ideas in this 
+paper! 
+ 
+ 
+15 LOGO SPACE 
+ 
+ 
+26th European Biomass Conference and Exhibition, 14-17 May 2018, Copenhagen, Denmark
+1257

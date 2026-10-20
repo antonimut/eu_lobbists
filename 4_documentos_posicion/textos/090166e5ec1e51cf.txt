@@ -1,0 +1,283 @@
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page1 of 8 
+ 
+ 
+ 
+Software AG's position on 
+the EU Commission's Data 
+Act-E 
+ 
+Version 2.0   | 12. 05. 2022 
+© 2022 Software AG. All rights reserved.  
+Ref. Ares(2022)3632584 - 12/05/2022
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page2 of 8 
+ 
+General remarks 
+With its draft Data Act (Data Act-E), the EU Commission has presented far-reaching regulations 
+for the access and use of non-personal data in the EU, with the aim of opening up data in 
+Europe for the benefit of companies, consumers, public services and society as a whole. 
+Software AG welcomes this intention. In our view, the Data Act as a horizontal regulation - if 
+done right - offers the opportunity to shape an open and democratic data economy guided by 
+European values, in which there is a fair distribution between those involved in the creation of 
+value.  
+However, we have the impression that no problem analysis was carried out in the run-up to the 
+Data Act, which would have taken its fundamental importance sufficiently into account. In 
+particular, the Commission's explanatory memorandum is largely based on assumptions - which 
+are well-founded and comprehensible - but lacks empirical evidence. Without this, however, the 
+Data Act has feet of clay. Moreover, in our opinion, the complex and multi-layered effects - and 
+above all side effects - of the Data Act have not yet been adequately taken into account. Since 
+the Data Act acts as a horizontal regulation across all industries and sectors, serious collateral 
+damage is to be feared. 
+Software AG is very concerned that the Data Act in its current form is associated with 
+unnecessary effort, costs and legal uncertainties for companies. This risks deterring companies 
+from investing in the development of IoT products and services. As a result, Europe would lose 
+its competitiveness sooner rather than later. In order to prevent this, Software AG would like to 
+contribute to the political debate on the Data Act with concrete proposals and show 
+possibilities of how the - correct and important - goals of the EU Commission can be achieved 
+on the one hand and how the negative (unintended) consequences can be minimized on the 
+other. 
+We are particularly concerned about the regulations on switching between data processing 
+service providers in Chapter 6. We expressly support the EU Commission's goal of facilitating 
+switching between service providers by reducing lock-ins and thus strengthening competition 
+in Europe. However, the proposed regulations on switching go beyond what is technically 
+feasible as well as what makes economic sense in many places. This applies in particular to the: 
+• Notice period of maximum 30 days for terminating the contractual agreement  
+• Transfer of all data, applications and data assets to the new provider 
+• Storage and transfer of all data arising from the use of the service  
+• Ensuring functional equivalence by the original provider 
+• Commitment to port all applications and digital assets to an on-premise system  
+These regulations are so far-reaching or could only be implemented - if at all - with such 
+enormous technical effort that, on the one hand, it would become less attractive for European 
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page3 of 8 
+ 
+companies to develop their own cloud and edge services. On the other hand, the 
+implementation of the proposed regulations would drastically increase the prices for data 
+processing services, especially due to the requirement to store all data generated during their 
+use, including metadata, and to transfer it to the new provider when switching providers. This 
+would unintentionally deprive many applications of economic ground, causing Europe to fall 
+further behind in the use of data processing services. At the same time, this would destroy the 
+industrial development of recent years. Especially in the B2B sector, numerous companies have 
+begun to invest in the still young market. Not only would they have to fear that their customers 
+would switch to another provider within 30 days, but they would also have to spend additional 
+resources to make switching technically possible. The associated uncertainties with regard to 
+the future viability of their own technologies and business models can be absorbed much more 
+easily by established and large cloud providers. This would increase the data gravity towards 
+the larger cloud providers. 
+To mitigate this collateral damage and ensure a fair balance of interests, we propose the 
+following amendments to Data Act E: 
+Chapter 1 - General Provisions 
+Define the term "service model" (Art. 2, No. 13) 
+From Software AG's point of view, a fundamental problem with the Data Act-E is that many 
+important terms are defined either inadequately or not at all. The Data Act-E leaves 
+considerable ambiguity about the scope of application of the regulations. This concerns in 
+particular the regulations on switching between data processing services. For example, the term 
+"service model" is not defined, although it is of central importance for the definition of "service 
+type" in the Data Act. Since there is also no uniform definition of the term "service model" in 
+the IT sector, it can even be interpreted to the extent that it includes business model-dependent 
+service configuration (as in the ITIL standard for IT infrastructure services). 
+Chapter 2 - Business to consumer and business 
+to business data sharing 
+Consider undesirable industrial policy implications (Art. 3 - 7) 
+The data access rights provided in chapter 2 could have undesirable consequences for the 
+European industry. For example, although the data provided by the data holder may not be 
+used for the development of competing products, data-based services are deliberately excluded 
+from this prohibition on competition. We can understand the Commission's intention to 
+strengthen the aftersales market with this regulation, but at the same time we see the danger 
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page4 of 8 
+ 
+that this will lead to unintended effects in terms of industrial policy: The Data Act-E gives third 
+parties access to the machine and factory data of European manufacturers. This previously 
+protected industrial data is Europe's asset in the digital transformation or the data economy. 
+Whereas European industrial companies were previously able to prevent the data originating 
+from their machines and factories from being used against them, this would no longer be 
+possible under the Data Act-E. This is critical above all because digital services are increasingly 
+moving to the centre of the performance and value proposition and competition therefore 
+takes place not at the level of the product but at that of the services. Put simply: for the 
+customer, it becomes irrelevant whether he buys a machine from manufacturer A or 
+manufacturer B, the main thing is that the desired digital service runs on it. The machine would 
+then only be the physical and exchangeable carrier for the digital services - with the 
+corresponding implications for the distribution of value creation. The Data Act-E would 
+encourage this development - to the detriment of European industry. Above all, the Data Act 
+should not intervene in an already functioning system. In the Industry 4.0 environment, for 
+example, questions of data access can already be solved flexibly and fairly for all parties via 
+contracts. 
+ 
+In case of doubt, the Data Act would create new legal uncertainties, weaknesses in the 
+protection of trade secrets and bureaucratic hurdles that prevent companies from investing in 
+innovative business models based on their own data treasure. In order to prevent these 
+unintended effects, the data holder must absolutely be able to keep his trade secrets contained 
+in the data to be provided to himself and not - as provided for in the current draft of the Data 
+Act - have to disclose them in the last resort if they cannot be removed from the data. 
+Nevertheless, not all data may be declared a trade secret by the data holder in order to prevent 
+the provision of data. Therefore, the Data Act should also specify what constitutes trade secrets 
+within the meaning of the regulation.       
+ 
+Furthermore, it is unclear to us what claims for compensation the data holder has against the 
+data recipient in the event of unlawful use of the data, e.g. if the data provided is used to 
+develop a competing product. The draft of the Data Act provides that the data holder may take 
+technical precautions against the misuse of data and, in the event of infringement, demand that 
+the data recipient destroy the data and remove the data, products and services based on it 
+from the market. However, it is silent on the neuralgic question of whether the data holder is 
+also entitled to compensation for lost sales. In our opinion, the Data Act should be amended as 
+a horizontal regulation to include a dedicated liability regime in order to ensure a fair 
+distribution of value creation.        
+  
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page5 of 8 
+ 
+Addressing legal uncertainties in the anonymisation and pseudonymisation of personal 
+data (Art. 3 - 7) 
+In business practice, there is great uncertainty regarding the separation of personal and non-
+personal data. According to a study by the IW Köln, 85 percent of the companies surveyed 
+describe "grey areas under data protection law" as an obstacle to the economic use of data.1  
+Instead of taking this problem into account and reducing uncertainties, the Data Act-E 
+exacerbates them. The regulations threaten new legal uncertainties and demarcation difficulties 
+between personal and non-personal data. In this context, it is particularly urgent to clarify when 
+personal data is considered to be anonymised in a legally secure manner.  
+Chapter 6 - "Switching between data 
+processing services". 
+Restricting the scope of porting applications to another service provider (Art. 23 para. 1c) 
+According to Art. 23(1c), all data, applications and other digital goods of a customer must be 
+portable to another service provider. Since applications are not defined in the Data Act-E, the 
+potential scope of the term “application” is very broad and would also include applications for 
+which the customer only has the right of use. In a PaaS/SaaS environment, customers typically 
+have access to and the right to use many different but generic functions such as dashboards 
+and widgets, identity and access management systems, search and query mechanisms, storage 
+functions etc . Giving the original service provider the responsibility to port all these 
+applications to another service provider ("target service provider") basically means that its entire 
+PaaS/SaaS offering must be transferable to any other service provider, regardless of the 
+intellectual property rights and architectural differences of the services offered. 
+In any case, the term "applications" in a cloud-native PaaS/SaaS environment often no longer 
+make sense, since PaaS/SaaS providers regularly do not provide "applications" in the sense that 
+one or more executable files are specifically executed on a computing node on behalf of a user. 
+Instead, all cloud service providers today offer so-called capabilities, the provision of which is 
+based on a distributed and elastic computing infrastructure. In terms of porting, we propose to 
+replace the term "applications" with the term "functional logic", with the meaning of a 
+connected set of data capable of influencing, amending, or changing the behavior of a data 
+processing service after proper deployment. 
+ 
+ 
+ 
+1 Vgl. IW Köln (2021): Hemmnisse_der_Datenwirtschaft_Studie.pdf 
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page6 of 8 
+ 
+Take technical differences into account (Art. 23ff.) 
+Many of the far-reaching regulations for changing a service provider are technically unfeasible 
+or difficult to implement. According to Art. 23 of the Data Act-E, service providers should be 
+obliged to remove technical obstacles and support customers in porting their data, applications 
+and other digital assets to another service provider. However, data processing services - even if 
+they fulfil the same function - are usually and for good reasons realised in a wide variety of 
+ways, for example in terms of data formats, data semantics, execution environments (Intel 
+processors vs. ARM processors vs. GPUs), functional logics or internal IT architectures. Each of 
+these differences can represent a potential obstacle in the sense of the Data Act-E. For example, 
+if an application is to be ported to another service provider in the PaaS/SaaS environment, it is 
+not sufficient to share the "basic data processing model" according to Art. 2, Para. 13, but the 
+two service providers would have to use one and the same cloud architecture. A similar 
+situation arises with the porting to an on-premise system provided for in Art. 24 (a). This is only 
+realistic if the on-premise system has an almost identical technical architecture to the cloud in 
+which the application to be ported was originally operated. Establishing such technical 
+equivalence between service providers or between cloud and on-premise systems is often not 
+possible in practice - especially if the original service provider is to bear sole responsibility for 
+this. Against this background, it should be defined more precisely what is meant by a technical 
+obstacle, which elements of the IT architecture these affect and how far the supporting 
+measures on the part of the original service provider must go in order to make a change 
+possible. In no case should service providers have to adapt their architectures to the 
+architecture of other service providers for portability reasons. They should continue to have the 
+freedom to develop their applications in the way that is best for them from a technical, 
+economic and strategic point of view.  This freedom of providers also ensures freedom of 
+choice for users. 
+Extend maximum notice period (Art. 23, para. 1a) 
+The maximum notice period of 30 days for terminating a contract would mean that service 
+providers would no longer be able to grant their customers discounts on long-term contracts. 
+This would unnecessarily and dramatically increase costs for all customers - including those who 
+wish to enter into long-term contractual relationships - and severely restrict the development of 
+partnerships, data rooms or other forms of data ecosystems. 
+Limit the amount of data to be ported to a reasonable level (Art. 23 para. 1c) 
+We acknowledge that the need to port data from on service provider to another is of 
+paramount importance for a customer’s capability to effectively switch providers. However, in 
+certain situations – such as IoT/IIoT/Industry 4.0 – the sheer amount of all data generated by 
+the user (i.e., its devices or machines) over the course of the usage of a data processing service 
+may be utterly too large to be continuously stored by the (initial) service provider to be 
+available upon switching. Example: Wind turbines in a wind farm have several thousand sensors 
+that can send sensor readings to a central data processing service (= typically an IoT platform) 
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page7 of 8 
+ 
+hundreds of times per second. Typical European customers produce about 20-50 TB (terabytes) 
+of raw data per month. These are usually analysed and aggregated if necessary, but not stored 
+in the form of raw data. In the course of longer (multi-year) service contracts, however, the 
+service provider would have to store all of this data, i.e. several petabytes (1 PB = 1,000 TB) of 
+usage data, for the entire term of the contract, only due to the Data Act ("to port all data, 
+applications and digital assets generated directly or indirectly by the customer"). As the cost 
+of storing this data - which is normally not stored - is in the range of several million euros per 
+year, European customers of IoT platform providers will not be able to compete with other 
+(foreign) providers as they will be at a huge cost disadvantage. In addition, the storage of such 
+amounts of data generates a high energy input, which should be avoided in the sense of the 
+Green Deal. The specific amount of stored data to be ported should therefore be limited to a 
+reasonable level - unless otherwise contractually agreed. 
+Weaken the requirement for full continuity (Art. 24 para. 1a) 
+Art. 24(1a) requires the original service provider to ensure full continuity in the provision of the 
+respective functions or services in the context of the change of provider. This requirement 
+ignores how migration projects for data or applications work in practice. In a migration project - 
+and this also applies to the cloud - there is either a hard cut and a specific date or time when 
+users move from one service provider to another (this is discontinuous), or some kind of 
+switching gateway has to be deployed at both the original and the future service provider. 
+Depending on the state of migration (or porting), this switching gateway dynamically 
+determines whether a service request from a user should be addressed to the old instance of 
+the service at the original service provider or to the new instance of the service at the new 
+service provider. However, this does not take the form of a simple "switchover", but requires a 
+full-fledged migration project to be set up and funded by someone. In our opinion, it is 
+completely unreasonable - not least in view of the maximum notice period of 30 days - to place 
+this effort on the original service provider. 
+Introduce deadline for implementation of interoperability requirement (Art. 26 para. 3) 
+According to Art. 26 (3), providers of data processing services shall ensure compatibility with 
+European interoperability standards. Since there are currently no such standards, nor are any on 
+the horizon, each service provider must subsequently modify its services and APIs as soon as 
+the standards have come into force. For such an implementation, service providers need 
+sufficient lead time - if only because of the large number of services and APIs.  
+However, the wording in the Data Act-E suggests that service providers must immediately and 
+without delay switch to a completely new (interoperability) standard as soon as it comes into 
+force. This cannot realistically be achieved. Therefore, we suggest that service providers be 
+given a reasonable period of time for implementation. 
+ 
+S o f t w a r e  AG ' s  p o s i t i o n  o n  t h e  E U  C o m m i s s i o n ' s  D a t a  Ac t- E  
+ 
+ 
+© 2022 Software AG. All rights reserved.  Page8 of 8 
+ 
+Chapter 8 - "Interoperability 
+Consider data rooms with multiple operators (Art. 28). 
+The current wording on data room requirements seems to focus solely on data rooms operated 
+by a single operator, who would then have the sole obligation to comply with the requirements. 
+Apart from the fact that the term "operator" is not defined in the Data Act-E, operation by only 
+one operator does not correspond to the set-up of many data rooms. These typically consist of 
+a managing entity that delegates the actual operation of the ecosystem services (e.g. identity 
+and access management services, catalogue services, vocabulary hub services, trust anchor 
+services, etc.) to a third party (sometimes referred to as the technical operator of the data 
+room). In such a typical setup, the managing institution should be responsible, if at all. The 
+proposal also does not consider federated (i.e. there is more than one operator) or 
+decentralised data rooms (i.e. no group of operators can be identified). 
+Do not introduce a declaration of conformity for smart contracts (Art. 30, para. 2) 
+The Data Act should refrain from an EU declaration of conformity. No other type of software 
+has to make such a declaration (not even embedded systems for autonomous driving or AI/ML 
+applications), and it is not clear to us why this would be necessary for smart contracts. The 
+existing laws on product safety and tort law are, in our opinion, quite sufficient. 
+ 

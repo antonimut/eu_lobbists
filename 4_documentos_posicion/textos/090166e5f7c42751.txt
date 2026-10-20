@@ -1,0 +1,491 @@
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 
+ 
+Comparing the cost of solar, 
+wind and biomethane on a 
+dispatchable basis 
+Commissioned by Eurogas 
+ 
+By Jelle Hofstra and Kees van der Leun 
+January 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common Futures Energy Transition Specialists B.V.  
+Lange Viestraat 2b, 3511 BK Utrecht, The Netherlands 
+ 
++31 30 782 0975 
+info@commonfutures.com 
+www.commonfutures.com 
+Ref. Ares(2023)1083642 - 14/02/2023
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 
+Contents 
+Introduction ........................................................................................................................................... 1 
+Comparison of dispatchable power sources ...................................................................................... 2 
+Pathway A: dispatchable biomethane 3 
+Biomethane feedstock and production 3 
+Transport 3 
+Storage 3 
+Gas-fired power plants 4 
+Pathway B: dispatchable power from hydrogen produced by solar and wind  5 
+Electrolysers 5 
+Transport 6 
+Storage 6 
+Turbine 6 
+Pathway C: dispatchable power from batteries produced by solar and wind  7 
+Costs and efficiencies 7 
+Capacity 8 
+Results .................................................................................................................................................... 8 
+Dispatchable power from batteries produced by solar and wind 10 
+Conclusions ......................................................................................................................................... 10 
+ 
+ 
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 1 
+Introduction 
+In the European Climate Law, the EU has agreed to reach net-zero emissions by 2050. The largest 
+share of greenhouse gas emissions comes from energy production for heating, industry, transport 
+and power production. Emission reduction in all of these sectors relies to some extent on gaseous 
+energy carriers, which means that capacity to produce renewable gases needs to increase rapidly to 
+comply with the Climate Law target. Electrification of processes in all sectors and a rapid scale-up of 
+renewable power will play a major role as well, with a large contribution from solar and wind energy. 
+As emission reduction in power generation is relatively straightforward, the power industry can and 
+must be climate neutral well before 2050. For this report, Common Futures considers 2040 as an 
+achievable date for this ambition for the EU-27.  
+In this report, Common Futures compares the costs of power in €/MWh for the dispatchable 
+electricity1 demand in 2040, produced by either combustion of biomethane or combustion of 
+hydrogen from wind and solar electricity. This is complemented by an assessment to indicate the 
+potential of dispatchable power from batteries charged with wind and solar electricity for flexible 
+power supply in 2040. 
+ 
+The levelized cost of electricity (LCOE)2 of wind and solar power has come down to attractive levels: 
+they can supply electricity whenever there’s sufficient demand at costs as low as 20 (solar) or 40 
+(wind) €/MWh. In an electricity system with a high share of solar and wind, there will be a high need 
+for flexibility options to match supply and demand. For short-term balancing, options available are 
+demand response, batteries, and stronger interconnection. However, in the European climate, 
+longer periods of days and weeks with either too little or too much supply of wind and solar 
+electricity will occur, for which a form of dispatchable generation is needed. 
+One of the main questions that is still highly debated, is what the preferred power generation 
+method for dispatchable power in such a climate-neutral power system should be. This is where 
+biomethane is one of the main candidates, as it is storable in any natural gas storage, and it can be 
+used in any gas-fired power plant. 
+ 
+To estimate the dispatchable power demand in EU-27 countries in 2040, the electricity demand and 
+supply prognoses of the TYNDP 2022 scenario report in the distributed energy scenario3 is 
+considered, as it is a very recent and widely accepted 2040 energy scenario. Its estimate is a final 
+electricity demand in 2040 of around 3,500 TWh in all sectors4. In this scenario, it is assumed that 
+dispatchable renewables, excluding hydropower, supply a joint generation of approximately 410 
+TWh5 before transmission and distribution, or 11% of the final electricity consumption.   
+ 
+1 Electricity that can be generated on-demand, contrary intermittent power sources like solar and wind which are dependent on the 
+weather for power generation. 
+2 The net present costs of electricity generation from a certain power source. 
+3 A COP 21 compliant scenario for installed capacities of power generation from 2020 – 2050 in steps of 10 years, simulating a 
+pathway achieving EU-27 carbon neutrality by 2050 and at least 55 % emission reduction in 2030. This scenario is developed in the 
+ENTSOG and ENTSO-E models. 
+4 TYNDP, draft scenario report 2022, October 2021, page 17 
+5 TYNDP page 30 & 31, combining figure 23 & 25 
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 2 
+In this report, Common Futures compares the costs of power in €/MWh for that final 410 TWh, 
+when fully producing it from hydrogen from wind and solar electricity, biomethane or dispatch from 
+batteries charged with wind and solar electricity. 
+ 
+Comparison of dispatchable power sources 
+Three pathways for dispatchable power supply in Europe for 2040 are compared based on their 
+average costs per MWh. Costs for power per MWh from these dispatchable power sources can 
+become very expensive compared to power directly delivered by solar or wind. It should therefore 
+be considered that power from these sources is only used during limited periods of the year, i.e. 
+when power from intermittent sources is insufficient. Dispatchable and intermittent power sources 
+are therefore not competing power sources, but they complement each other. In the average 
+electricity cost, relatively high prices for dispatchable power sources will be compensated by 
+relatively low prices from intermittent power sources. 
+ 
+For all dispatchable options only, feedstock, production, grid injection, storage and conversion 
+technologies are included. Transmission and distribution beyond grid injection are excluded because 
+the infrastructure needed is highly dependent on the final set-up; whether gas production, storage 
+and power generation are clustered or not. That discussion is outside the scope of this assessment. 
+Next to that, it is also difficult to determine the fraction of T&D used for power production and the 
+fraction used for other purposes like industry or transport. 
+Utility-scale installations are considered for this analysis: gas production is clustered in large 
+electrolyser facilities (100 MW) close to wind and/or solar farms or digesters linked to methanisers 
+(5MWth), and storage takes place in large salt caverns, natural gas caverns or battery parks. 
+Figure 1 shows the scope of included capacities and infrastructure for the pathways (A) dispatchable 
+biomethane, (B) dispatchable solar and wind through hydrogen and (C) dispatchable solar and wind 
+through batteries. 
+ 
+ 
+Figure 1: Scope of the assessment  
+ 
+To estimate the costs of released power for each pathway, estimations are made on the installed 
+capacity of the included technologies for secure power supply and the costs of the included 
+technologies. To do so, the findings in the report are based on reports written or commissioned by 
+renowned organisations in the energy sector. 
+
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 3 
+ 
+Pathway A: dispatchable biomethane 
+This chapter analyses the costs of dispatchable power from biomethane, leading to an overall cost of 
+149 €/MWh. Figure 2 shows the prices used to get to this estimation. This chapter further elaborates 
+on the prices and the efficiencies of included technologies. 
+ 
+ 
+Figure 2: prices included for Pathway A 
+ 
+Biomethane feedstock and production 
+Today, the typical production costs of biomethane in an Anaerobic Digester with a methanation unit 
+are 70–90 €/MWh6. Based on information from suppliers, large digesters today can already reach < 
+55 €/MWh. Common Futures believes that these costs can be lower by 2040, assuming that 
+biomethane production happens mainly at large facilities. Also, gasification becomes an ever more 
+interesting biomethane production technology, with projections of 47 €/MWh by 20507. It is 
+therefore expected that costs for biomethane production in 2040 can be reduced to 50 €/MWh. 
+ 
+Transport 
+Transport of biomethane can be divided into production facility-to-grid, grid-to-storage, and storage-
+to-power-plant. For this analysis, only the former is considered. It is assumed that biogas pipelines 
+from a limited number of production facilities to a regional methanation unit and a biomethane 
+pipeline from this unit to the existing methane (natural gas) grid.  
+ 
+The total biomethane network costs in 2050 are estimated to be 9.7 €/MWh of which biogas pipes 
+cover 5.0 €/MWh and grid injection and connection costs add 4.7 €/MWh per year8. Common 
+Futures assumes these indications to be the same in 2040, as this technology is already developed 
+and we expect no innovative updates from 2040 to 2050 that would significantly reduce the costs of 
+this technology.  
+Because the biogas pipelines link the anaerobic digester to the methanation unit, these costs are 
+included in Figure 2 as costs of biomethane ready for grid injection 
+ 
+Storage  
+Biomethane can be stored in natural gas storages since it has the same composition as natural gas. 
+For the inflow of biomethane a constant inflow from anaerobic digesters with upgrading stations is 
+considered, making the inflow predictable and to a large extent comparable to natural gas inflow 
+with constant reservoir extraction plus imports. 
+ 
+ 
+6 Gas for Climate, The optimal role for gas in a net-zero emissions energy system, March 2019, page 14 
+7 Gas for Climate, page 15 
+8 Gas for Climate, page 84 
+
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 4 
+Gas is routinely and cheaply stored in large volumes. Investment costs for creating underground gas 
+storage are around €25 per MWh of storage capacity9. Although the technical lifetime could be very 
+high (>50 years), the depreciation period will likely not exceed 30 years. As many storage facilities 
+are already likely in use, OPEX costs are low, and the total cost is a modest fraction of the total cost 
+for dispatchable power from biomethane, storage costs are simplified to fixed annual costs of 1 € 
+per MWh of storage capacity per year. 
+ 
+For storage capacity, the working gas capacity is considered; the gas that can be extracted. The 
+current ratio of yearly natural gas consumption to storage is used as a proxy for the needed gas 
+storage. This is not a perfect proxy for the needed gas storage capacity, as it also includes strategic 
+reserves, and natural gas for other purposes than power production, for which different levels of 
+flexibility are desired. The proxy excludes gas extracted from natural gas reserves, line packing, and 
+imports. Whereas line packing10 is important for intra-day storage of gasses, it has limited impact on 
+the need for seasonal storage and is therefore excluded from this assessment. Considering the proxy 
+for 2040 also ignores efficiency improvements in generation technologies: with higher efficiencies, a 
+lower storage capacity is needed. 
+This methodology to estimate the need for gas storage was considered by Guidehouse in a study 
+commissioned by GIE11, in co-operation with some of its members operating gas storages, which is 
+why consider it an appropriate estimation method.  
+In EU-27 + UK, there was an average yearly natural gas consumption of 5,724 TWh from 2014-2019, 
+and a working gas storage capacity of 1,168 TWh in 2021. Therefore the desired ratio of 
+consumption-to-storage is 4.9 : 112 is used for this report.  
+ 
+Transport and storage combined, are assumed to have methane losses of 0.18%13. However, even if 
+losses were assumed in the order of 1%, which would have a considerable climate impact, the 
+impact on the economics of dispatchable power generation would be very small. 
+ 
+Gas-fired power plants  
+It is assumed that the necessary turbine capacity equals the peak load minus nuclear baseload and 
+dispatchable hydropower load. This is for hours during winter with almost no sun and wind. Because 
+this assumption is relevant for all three pathways, it has little implications for the outcome of the 
+comparative assessment. 
+Considering the Distributed Energy scenario for 2040 from the TYNDP scenario report for 2022, the 
+average peak demand (the highest single hourly power demand (GW) within a year) will reach 
+approximately 610 GW in 204014. This scenario assumes a hydropower capacity of 174 GW in 2040 
+and a nuclear capacity of approximately 103 GW15, which would mean a turbine capacity of 333 GW. 
+ 
+ 
+9 Gas for Climate, page 218 
+10 Increasing the pressure in the gas grid to store more gas, such that the gas grid functions as storage. 
+11 Guidehouse for Gas Infrastructure Europe, Picturing the value of underground gas storage to the European hydrogen system, 
+June 2021, page 24. 
+12 Guidehouse, page 23. 
+13 Marcogaz, Methane emissions in the European Natural Gas midstream sectors, November 2017, page 2. 
+14 TYNDP, page 18. 
+15 Linearly interpolated from 139GW capacity in 2018, shrunk to 86GW in 2050. 
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 5 
+For power production from biomethane, combustion through a combined cycle gas turbine (CCGT) is 
+considered. The CCGT has an efficiency of 60%, Capital expenditure (CAPEX) costs of 750,000 €/MW, 
+variable operational expenditure (OPEX) costs of 2.7 €/MWh and fixed OPEX of 1.5% CAPEX/year16. 
+This indication is based on the estimated costs for 2050, but Common Futures believes these 
+indications to be compatible with the 2040 scenario, as this technology is already developed and no 
+innovative updates from 2040 to 2050 are expected that would significantly reduce the costs of this 
+technology. 
+ 
+Pathway B: dispatchable power from hydrogen produced by solar and wind  
+This chapter analyses the costs of dispatchable power from hydrogen produced by solar and wind, 
+leading to an overall cost of 143 €/MWh. Figure 3 shows the prices used to get to this estimation. 
+This chapter further elaborates on the prices and efficiencies of included technologies. 
+ 
+ 
+Figure 3: prices included for pathway B 
+ 
+Electrolysers 
+There lies an optimisation challenge behind the desired installed capacity of electrolysers for green 
+hydrogen production, used for power generation: power from green hydrogen is only generated 
+when power generation from solar and wind cannot match supply. If more solar and wind power is 
+installed, there are more hours of overproduction from solar and wind and electrolysers can be run 
+more hours to produce green hydrogen. However, increased shares of wind and solar penetration 
+also reduce the demand for dispatchable power generation. Therefore, for the cost-optimum 
+production of hydrogen, the capacity of electrolysers, solar panels and wind turbines are 
+communicating vessels.  
+For this analysis, hybrid hydrogen production (from solar and wind) with dedicated power for 
+hydrogen production is considered, with a capacity factor of 0.43 and electricity feedstock of 27.50 
+€/MWh17.  
+The lifetime of electrolysers in 2040 is set at 30 years, the efficiency at 76%, the CAPEX at 201,750 
+€/MW, and the fixed OPEX at 5% of the CAPEX per year18. Nowadays, costs are still higher than 1 
+million €/MW. 
+ 
+Based on these inputs, the costs of hydrogen production are 42.35 €/MWh. This is in line, though on 
+the progressive side, with the estimation from the European Hydrogen Backbone 2021 study, which 
+estimates that by 2040 “up to 1,600 TWh of green hydrogen can be produced at 60 €/MWh or less 
+of which up to 500 TWh around 45 €/MWh”.19 
+ 
+16 Gas for Climate, page 217.  
+17 Gas for Climate, page 24 
+18 EHB with Gas for Climate, “Analysing future demand, supply, and transport of hydrogen”, June 2021, page 104 
+19 EHB, page 60 
+
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 6 
+ 
+Transport 
+For this analysis, it is assumed that the hydrogen storage and power generation take place at the 
+same location. The electrolysers are linked to the solar and wind parks, thus the hydrogen has to be 
+transported from these parks to a hydrogen grid (assumed to be in place by 2040), then to the 
+storage and finally, from storage to the power plant. For the scope of this analysis, only the 
+hydrogen transport from the production facilities to the hydrogen grid is included, including 
+compression. 
+ 
+The distance from electrolyser to hydrogen grid is considered to be in the order of 1-10 kilometres 
+and the highest costs are compression and connection costs. Roland Berger estimates that costs for 
+grid injection of hydrogen from a 5 MW electrolyser, including 250 meters of pipeline and 
+compression, are €0.39/kg20. As hydrogen has an energy density (at Lower Heating Value) of 33.33 
+MWh/tonneH2, this corresponds to 11.70 €/MWh. 
+The size of electrolysers considered in this study is considerably larger (100 MW), which brings cost 
+advantages, and should allow for a longer pipeline (1-10 kilometres) at a similar cost. 
+ 
+Storage 
+When wind and/or solar electricity are considered for hydrogen production, the inflow of hydrogen 
+will be intermittent, making its supply more volatile than natural gas supply. 
+For storage of hydrogen, salt caverns are considered, at which hydrogen can be stored for 2.65 
+€/MWh21 by 2050, which Common Futures thinks can already be achieved by 2040; this corresponds 
+to 2.65 €/MWh. 
+ 
+Hydrogen losses in transport and storage are similar to methane losses22 and are thus set at 0.18%. 
+Even assuming losses on the order of 1% would have made little difference in the final economic 
+assessment. 
+ 
+Turbine 
+The turbine capacity is assumed to be the same as in the biomethane pathway because the same 
+peak capacity is needed. Also the same turbine efficiency and costs are considered for a fair 
+comparison. It is already possible to retrofit existing natural gas turbines to hydrogen turbines23, and  
+investment and maintenance costs for these two are expected to be very similar. Assuming that 
+more efficient turbines are also more expensive, turbines with a higher efficiency become more 
+interesting for more expensive feedstock costs. Because feedstock costs of hydrogen and 
+biomethane are fairly similar, it is also reasonable to assume the same turbine type from a cost-
+optimisation perspective. 
+ 
+ 
+ 
+20 Roland Berger commissioned by the Fuel Cells and Hydrogen 2 Joint Undertaking, Development of Business Cases for Fuel Cells 
+and Hydrogen Applications for Regions and Cities, Fall 2017, slide 13 
+21 ETC,  Making the Hydrogen Economy Possible, expressed as 0.10 $/kg,  April 2021, page 42 
+22 Gas for Climate, page 179 
+23 ETC, page 78 
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 7 
+Pathway C: dispatchable power from batteries produced by solar and wind  
+This chapter analyses the costs of dispatchable power from batteries produced by solar and wind. 
+The costs of released power are dictated by the number of times the battery can be unloaded. For a 
+year-round flexible power supply, overall costs would be approximately 758 €/MWh. Batteries 
+become competitive when they can be unloaded more than 40 times per year, for approximately 
+15% of flexible power demand. Figure 4 shows the prices used to get to this estimation. This chapter 
+further elaborates on the prices and the capacities and efficiencies of the battery. 
+ 
+ 
+Figure 4: prices included for Pathway C 
+ 
+When considering batteries for year-round peak-capacity purposes, not so much the peak release 
+capacity, but the storage capacity becomes a limiting factor. The most critical assumption for 
+batteries is the capacity needed for sufficient electricity supply in extended periods of limited wind 
+and sun hours. To the best of our knowledge, there are no studies for Europe that rely on batteries 
+for 100% of their dispatchable capacity, equal to approximately 10 – 15% of the total electricity 
+supply. The PAC scenario used by EEB and CAN Europe24 presents modelling results for 2030, still 
+relying on flexible operation of natural gas-fired power plants, does not provide details of flexibility 
+thereafter; ‘flexible biogas cogeneration’ is mentioned as one of the possible options. 
+Studies for which batteries are considered for flexible power generation consider them for short-
+term intraday flexibility, but not for seasonal flexibility. The power released from batteries can 
+however significantly contribute to the flexible power demand: for example, TYNDP25 estimates that 
+nearly 60TWh of electricity is released from batteries by 2040, or 15% of flexible power demand, and 
+the rest is generated by hydrogen or biomethane fired power plants. 
+ 
+Any estimation on the average price per MWh for electricity released from batteries for year-round 
+flexibility supply will exceed the estimation for dispatchable biomethane or dispatchable solar and 
+wind through hydrogen. The investment costs of batteries are mainly determined by the needed 
+storage capacity, which is very large in a system fully dependent on one source for its dispatchable 
+power, as seen in the biomethane pathway. The marginal capacity26 has a low utilisation rate (<1 
+cycle per year) and thus makes no sense to install from an economic perspective if also dispatchable 
+green gas is available for power generation.  
+ 
+Costs and efficiencies 
+For year-round dispatchable power supply, high ratios of storage capacity to release capacity are 
+preferred, as it slightly reduces the costs of the battery per MWh capacity. Predicting the price 
+development for batteries can be tricky, as it is one of the fastest developing technologies: lithium-
+ 
+24 CAN Europe and EEB, Building a Paris Agreement Compatible (PAC) energy scenario, June 2020, page 38 
+25 TYNDP, page 31 
+26 The Last installed battery 
+
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 8 
+ion battery pack prices dropped from around $1,200 $/kWh in 2010 to 132 $/kWh in 2021 with even 
+lower prices for battery electric vehicle packages27. Large car manufacturers like Renault and Ford 
+have already publicly announced targets of 80 $/kWh in 203028, equivalent to 71 €/kWh. This is in 
+line with estimations from the European technology and innovation platform, which estimates 70 
+€/kWh in 2030, which is used for the 2040 estimation. They estimate that the lifetime of batteries 
+will be 20 years by 2030, with a roundtrip efficiency of >93% and a self-discharge rate of 0.5% per 
+month. Considering seasonal storage, 92% discharge roundtrip efficiency seems a reasonable 
+estimation. Although these numbers relate to 2030, they are considered for this study because 
+technology improvements curves flatten over time and the estimations seem optimistic compared to 
+estimates in other studies, such as by Gas for Climate29 or IEA30. 
+ 
+The batteries for electricity storage are standalone batteries, without the integration of batteries 
+from electric vehicles. Even if batteries from electric vehicles were included, still a large number of 
+incremental batteries with few cycles per year would need to be installed, which are the largest 
+determinant for the price of power dispatched by batteries. 
+The electricity used for filling the batteries is assumed to be mainly curtailed electricity, for an 
+average price of 10 €/MWh. 
+ 
+Capacity 
+Due to the absence of studies estimating the needed battery capacity for covering the entire power 
+flexibility demand, the proxy for the necessary storage capacity needed for biomethane, corrected 
+for the battery efficiency (0.92 compared to 0.6 of the CCGT) is also used to estimate the needed 
+battery capacity for year-round flexibility. Considering the more intermittent inflow of electricity 
+from solar than the production of biomethane – both with a curtailed as well as dedicated power 
+scenario for batteries, this proxy is probably on the lower end of the uncertainty spectrum.  
+ 
+Results 
+With the assumptions mentioned above, and considering an interest rate of 5%, the average costs 
+per MWh to produce or release dispatchable power for the EU-27 countries in 2040 by either 
+biomethane or solar and wind through hydrogen is shown in Table 1.  
+ 
+Table 1: costs per MWh for dispatchable electricity for year-round flexibility supply from biomethane or solar and 
+wind through hydrogen in 2040 for EU-27 
+Dispatchable Power Pathways  €/MWh 
+Biomethane to power 149 
+Solar and wind to power through hydrogen 143 
+ 
+27 Bloomberg NEF, Battery Pack Prices Fall to an Average of $132/kWh, But Rising Commodity Prices Start to Bite, November 
+2021. Retrieved from https://about.bnef.com/blog/battery-pack-prices-fall-to-an-average-of-132-kwh-but-rising-commodity-prices-
+start-to-bite/?utm_medium=Twitter_BNEF&utm_campaign=BNEF&utm_source=Social-o&utm_content=organic&tactic=431831 
+28 Bloomberg NEF 
+29 Gas for Climate, page 217 
+30 https://www.iea.org/commentaries/battery-storage-is-almost-ready-to-play-the-flexibility-game ; 186 USD/kWh (2017) 
+translates to 186 €/kWh in 2021. 
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 9 
+ 
+Figure 5 then shows the costs of components. The price for each component in the power 
+generation mix is multiplied by the efficiencies later in the chain, and can thus be larger than the 
+standalone component. For example, the feedstock electricity for electrolysers costs 27.5 €/MWh 
+but constitutes to 60.4 €/MWh of the electricity due to the efficiencies of the electrolyser (0.76), 
+storage and transport (0.998), and power generation (0.6). 
+ 
+ 
+Figure 5: Cost components of dispatchable power in Pathway A and B in 2040 for EU-27 
+ 
+Figure 5 shows that power from biomethane and dispatchable solar and wind through hydrogen can 
+be produced for very similar average costs per MWh. Based on the results and uncertainties in price 
+developments, one cannot indicate whether one of these technologies would be a preferred 
+technology for dispatchable power generation from a cost perspective. For both pathways, the 
+production price of the gas is the most critical assumption, as the price multiplies for the final power 
+generation due to efficiency losses in the turbine. Price developments of digesters, solar panels, 
+wind turbines and electrolysers will largely determine the real 2040 prices of dispatchable power in 
+these pathways. However, as they are comparable in a price comparison, they can also complement 
+each other in a European energy system: 
+• First, a system with access to a variety of energy sources becomes more resilient.  
+• Second, marginal costs for incremental hydrogen and biomethane production increase when 
+it is assumed that cost-optimal production locations are utilized first: depending on both can 
+reduce the average feedstock production costs.  
+• Third, there is a potential scarcity of available feedstock for biomethane production or 
+locations for solar- and wind parks. Having access to two energy carriers can reduce scarcity 
+risks in renewable gas transition years.  
+
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 10 
+• Fourth, considering two domestic dispatchable energy carriers reduces import dependence, 
+as their combined contribution can be larger than that of either of the two on its own.  
+• Last, no geographical distinction was made in this study. Throughout Europe, there may be 
+regions or countries for which one of the two energy carriers is the preferred solution. 
+ 
+Dispatchable power from batteries produced by solar and wind  
+Considering the estimation of needed storage capacity where the current storage capacity needed 
+for biomethane is used as a proxy, the average costs for power released from batteries would be 758 
+€/MWh. Dispatchable power from solar and wind to power through batteries becomes unreasonably 
+expensive as a year-round flexibility solution due to the low number of average annual cycles of the 
+batteries that need to be installed: batteries considered in this scenario had an average of 7,5 cycles 
+per year. However, if batteries can be installed under the condition that they can be unloaded > 42 
+times per year, batteries can become part of the solution in the flexibility challenge: 
+• At 42 cycles per year, costs from dispatchable power from solar and wind to power through 
+batteries are approximately 144 €/MWh, which makes this solution cost-comparable to the 
+other two pathways.31 
+• When used for peak shaving, average power costs from gaseous energy carriers can be 
+reduced due to smaller installed turbine capacity. 
+The desired capacity for batteries would result from an optimisation study. 
+ 
+Conclusions 
+In this study, Common Futures analysed the costs of released power for three dispatchable power 
+pathways for EU-27 in 2040. Each pathway can be part of the electricity mix, but pathways 
+depending on renewable gasses are cheaper per MWh for year-round flexibility than a pathway 
+depending on batteries. Both dispatchable power from biomethane and from sun and wind through 
+hydrogen can be generated for similar costs of approximately 150 €/MWh. They can complement 
+each other in a renewable energy system: their joint production potentials are higher improving the 
+feasibility of meeting the full demand for dispatchable power, and there is a lower risk of feedstock 
+scarcity. Power from sun and wind through batteries is insufficient for year-round flexibility: high 
+storage capacity is needed for secure power supply, which reduces the annual number of cycles of 
+battery operation to a minimum. However, batteries used for intra-day flexibility can be cost-
+competitive for dispatchable power supply at short time scales. 
+Based on these findings, Common Futures concludes that there is a relevant role for both renewable 
+biomethane as well as green hydrogen in the future energy system, complemented by a small share 
+of batteries. 
+ 
+31 If this were to correspond to 60 TWh of electricity supply, as assumed in the TYNDP report, this indicates a €100 billion 
+investment: 60/42 = 1.43 TWh installed battery capacity, or 1.43 * 109 kWh. 1.43 *109 * 70 €/kWh = €100 billion. 
+ 
+ 
+Comparing the cost of solar, wind and biomethane on a dispatchable basis 11 
+ 
+Together we are 

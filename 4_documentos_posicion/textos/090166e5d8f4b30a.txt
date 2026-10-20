@@ -1,0 +1,2101 @@
+ 
+  
+DIGITALEUROPE  
+Rue de la Science, 14A, B-1040 Brussels 
+T.+32 (0) 2 609 53 10 / www.digitaleurope.org /     @DIGITALEUROPE 
+EU Transparency Register: 64270747023-20 
+3 February 2021 
+DIGITALEUROPE’s recommendations for 
+the European Health Data Space 
+ 
+Please find in due time on our website also our forthcoming Data 
+Governance Act Recommendations. This document compiles 
+recommendations from: 
+4 November 2020 – our paper on Improving lives and managing diseases 
+through a data driven EU healthcare system 
+ 
+23 January 2020 – our paper on how to harness the power of AI in health 
+applications. 
+ Executive Summary 
+The EHDS Inception Impact Assessment sets out ambitious objectives linking 
+together the need for secure and trusted health data sharing for what will be the 
+creation of the first European data space. The EHDS has the potential to be the 
+single market for digital health products and services, and the global centre of 
+development of secure AI powered digital health. Indeed, the EHDS will be a 
+prerequisite for Europe to lead the digital transformation of health and care. 
+DIGITALEUROPE supports these initiatives. We need decisive EU action to 
+harmonise conditions for health data processing for primary and secondary use 
+across Europe, linked to meaningful investment. We would like to highlight the 
+key recommendations from our papers on health data and an increased role for 
+AI in health. 
+ The EHDS requires a robust, secure and interoperable infrastructure 
+with a clear governance framework and defined services. 
+ 
+▪ A well-defined, common data infrastructure is fundamental to 
+facilitate a consistent and secure secondary use of health data. 
+▪ Central health authorities: We support the establishment of a 
+central health data entity at EU level to select standards and 
+profiles for interoperability, as well as a health data entity in each 
+Member State to implement those standards. The role of the 
+national entities should be to provide controlled data services, like 
+healthcare information sharing and analysis. 
+ 
+Ref. Ares(2021)944929 - 03/02/2021
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+▪ EU-level health data entity: The EHDS should establish the legal 
+foundation of both the EU-level health data entity as well as the 
+national health data entities, and mandate national health entities’ 
+adherence to the same set of rules, standards and profiles of 
+standards selected at EU level, and in line with FAIR principles in 
+data sharing and access.1 
+ 
+ We encourage secure and trusted use of the EHDS to build on the 
+creation of an EU Code of Conduct, EDPB guidance on interpreting 
+the GDPR and health data altruism schemes. 
+ 
+▪ Harmonisation. A European Health Data Space requires a 
+harmonised framework of health data privacy in Europe. The 
+GDPR made the sharing and cross-border flow of health data 
+possible by establishing the foundations of a trust framework for 
+patients, consumers and other stakeholders. But its interpretation 
+and implementation still diverge among Member States. COVID-
+19 exacerbated the negative impact from this fragmentation. We 
+need decisive EU action to harmonise conditions for health data 
+processing for primary and secondary use across Europe. 
+ 
+ Common data models, international standards and best practices 
+already used responsibly by industry are key for swift and broad 
+take-up of EHDS initiatives. This should build on: 
+ 
+▪ Common data models: Internationally recognised standards are a 
+critical element to achieve more outcome-based healthcare 
+systems across the EU. 
+▪ Fulfilling the ambitions in the European Electronic Health Record 
+exchange format recommendation.2  
+▪ A Common data classification framework: Data classification 
+should enable the use of all classes of healthcare data with cloud 
+technology, with appropriate levels of security and risk mitigation 
+in place which corresponds with the type of data being processed. 
+ 
+ 
+ 
+1 FAIR stands for Findable, Accessible, Interoperable, Re-usable 
+2 Commission Recommendation (EU) 2019/243 of 6 February 2019 on a European Electronic 
+Health Record exchange format 
+2  
+ 
+ 
+ 
+ 
+ 
+ 
+ In addition to liability as covered by the EHDS Roadmap/ IIA, AI will 
+play an important role in the development of the EHDS. Specifically, 
+as outlined in our AI health paper, we recommend: 
+▪  Avoiding one-size-fits-all approaches for risk assessment in the 
+design of any future AI policy framework for health. Any such 
+framework should also consider existing international standards, 
+legislation and ethical principles. 
+▪ Avoiding regulatory overlap. The EU MDR contains strict 
+requirements, including liability. In case AI specific provisions will 
+still be introduced, it should be done very carefully not to create 
+conflicts or duplications between the various regulations, and new 
+barriers for the development of AI-supported medical devices. 
+▪ Research, training and data availability: We should recognise that 
+developing completely bias-free algorithms will never be possible. 
+However, policymakers can incentivise research, training and 
+increase data availability to tackle and reduce potential unintended 
+or discriminatory bias in AI algorithms. 
+ 
+ 
+  
+3  
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+• Executive Summary ................................................................................................................ 0 
+• A framework of trust and legal clarity ................................................................................... 4 
+Privacy ......................................................................................................................................... 6 
+Data infrastructure ...................................................................................................................... 9 
+Data altruism ............................................................................................................................. 10 
+Transparency and confidentiality ............................................................................................ 11 
+Ethics ......................................................................................................................................... 11 
+Culture ....................................................................................................................................... 11 
+• Interoperability and standardisation ................................................................................... 13 
+Common data models ............................................................................................................... 13 
+European Electronic Health Record exchange format........................................................... 14 
+Common data classification framework.................................................................................. 15 
+• Investments in digital solutions .......................................................................................... 15 
+• Introduction ........................................................................................................................... 20 
+• Definitions ............................................................................................................................. 24 
+• AI applications in health ....................................................................................................... 24 
+• Building trust ........................................................................................................................ 25 
+• Human agency ...................................................................................................................... 27 
+• Safety, accountability and liability ...................................................................................... 27 
+Considerations on the enforcement of the MDR in regard to AI ........................................... 28 
+• Accountability and liability .................................................................................................. 29 
+• Transparency and explainability ......................................................................................... 30 
+• Diversity, non-discrimination and fairness ........................................................................ 31 
+• Data governance in AI for health – availability, access, use and quality ......................... 31 
+Data sharing .............................................................................................................................. 31 
+Data processing ........................................................................................................................ 33 
+• Education and Skills ............................................................................................................. 34 
+• Investments, uptake and regulatory oversight .................................................................. 35 
+Innovation .................................................................................................................................. 36 
+Inclusiveness ............................................................................................................................. 36 
+• Annex I: NHS Health and Social Care Risk Framework for data transfer to the cloud ... 17 
+• Annex II: examples of AI in health ....................................................................................... 37 
+ 
+4  
+ 
+ 
+ 
+ 
+ 
+ 
+Our recommendations on improving lives 
+and managing diseases through a data 
+driven EU healthcare system  
+4 November 2020 – these recommendations have been sourced from our 
+paper on Improving lives and managing diseases through a data driven EU 
+healthcare system 
+ Executive summary 
+Data-fuelled technologies will lead us to a society where better disease 
+prevention, personalised medicines and faster, more accurate diagnoses 
+and therapy become possible in more efficient care processes. The EU 
+needs to leverage them fully across all Member States. COVID-19 has 
+demonstrated that digital technologies can play an important role to 
+enable health workers in combating the virus, ensure remote care for 
+immunodeficient patients, keep communities informed and empowered, 
+support health population management and accelerate research on 
+treatments, vaccines and cures.  
+Ultimately, our goal is to accelerate data flows within the EU for better 
+health outcomes for everyone. Health data makes up 30% of the world's 
+stored data.3 A single patient generates up to 80 megabytes yearly in 
+imaging and EMR data.4 However, such valuable data is often 
+inaccessible, even to the patient, and nationally siloed and shielded. Such 
+non-technology barriers from governments have slowed down the 
+Electronic Health Record (EHR) adoption to 3% in Europe compared to 
+the United States which is 35%.5 Understandably, health data is sensitive, 
+but unlocking this wealth of information based on trust and legal certainty 
+can save and improve lives. For instance, a study has shown that AI – 
+which is fuelled by reliable and secure data – can extend average life 
+expectancy by 0.2 -1.3 years.6  
+ 
+3 EMERJ (2019). Where Healthcare’s Big Data Actually Comes From 
+4 NEJM (2017). Using It or Losing It? The Case for Data Scientists Inside Health Care 
+5 McKinsey (2019). Promoting an overdue digital transformation in healthcare. 
+6 McKinsey Global Institute (2017). Artificial Intelligence: The Next Digital Frontier? 
+5  
+ 
+ 
+ 
+ 
+ 
+ 
+Data driven health innovations are key to saving more lives, which has 
+become ever clearer during the pandemic. Besides the tragic damages 
+from the COVID-19 virus, the disruption this has caused led to 
+unfortunate, yet preventable losses in much needed care everywhere. 
+During the first half of 2020, when the pandemic directly caused half a 
+million deaths in Europe, the block counted 2.7 million new cancer 
+patients – while 1.3 million lost their lives.7 The pandemic challenged 88% 
+of caregivers in providing care and more than half had to reduce their 
+services.8 Patients with non-communicable diseases did not have access 
+to the treatment they needed; Disruptions mounted up to 49% for 
+treatment for diabetes, 42% for cancer treatment, and 31% for 
+cardiovascular emergencies. These disruptions are preventable. Part of 
+the cause was the lack of data, diagnostics and other technologies.9 
+A truly connected, interoperable and sustainable Common European 
+Health Data Space is a precondition to unlock the potential of health data 
+in the EU. It will ensure that Europe’s clinical research and treatments will 
+pivot our society towards value-based healthcare models and systems. 
+For that to happen, the EU should focus on three main areas: 
+ A framework of trust and legal clarity 
+▪ Harmonise the mechanisms by which personal health information 
+can be shared (e.g. a common approach to pseudonymisation 
+and/or anonymisation) in the EU 
+▪ Establish a consistent harmonised model for a central health data 
+authority in each Member State to facilitate the processing of the 
+secondary use of health data for both the private and public 
+research institutions 
+▪ Build on responsible data sharing initiatives driven by industry, like 
+YODA,10 and guarantee private sector participation in the Data 
+Space, while safeguarding Intellectual Property Rights 
+ 
+ 
+ 
+7 JRC (2020). Ireland is the country with the highest cancer incidence in the EU 
+8 ESMO (2020). Covid-19 Pandemic Halts Cancer Care and Damages Oncologists’ Wellbeing 
+9 WHO (2020). COVID-19 significantly impacts health services for noncommunicable diseases 
+10 YODA stands for Yale Open Data Access (YODA) Project. More info here 
+6  
+ 
+ 
+ 
+ 
+ 
+ 
+ Interoperability and standardisation 
+▪ Advance federated data models 
+▪ Foster convergence and acceleration of deployment of Health IT 
+(HIT) interoperability standards such as Fast Healthcare 
+Interoperability Resources (FHIR) building on the Commission 
+Recommendation on a European Electronic Health Record 
+exchange format11 
+▪ Define a common EU health data classification to help 
+organisations categorise identifiable, anonymised and 
+pseudonymised data 
+▪ Confirm appropriate encryption tools and security standards that 
+should be used to process sensitive health data 
+ Increase the potential of digital through investments and ambition   
+▪ Use Next Generation (Recovery and Resilience Facility) funds and 
+the next Multi-Annual Financial Framework (MFF) to radically 
+upgrade the digital capabilities of health systems, including cloud 
+technology, as a secure and economic infrastructure for driving 
+digital transformation 
+▪ Fulfil the ambition and scope lined out in the Commission 
+Recommendation on a European Electronic Health Record 
+exchange format 
+ A framework of trust and legal clarity 
+Trust remains the bedrock to build the Common European Health Data Space.  
+Patients, consumers, healthcare professional s and society will unleash the 
+potential of health data only if there is a clear and comprehensive framework of 
+trust and clarity on how health data should be shared consistently across Member 
+States. Addressing the following aspects is crucial for this framework of trust: 
+Privacy  
+A Common European Health Data Space requires a harmonised framework of 
+health data privacy in Europe.  The GDPR made possible the sharing and cross -
+border flow of health data by establishing the foundations of a trust framework for 
+patients, consumers and other stakeholders . But its interpretation and 
+implementation still diverge among Member States. COVID-19 exacerbated the 
+ 
+11 Accessible here 
+7  
+ 
+ 
+ 
+ 
+ 
+ 
+negative impact from this fragmentation .12 We need decisive EU action to 
+harmonise conditions for health -data processing for primary and secondary use 
+across Europe. We urge to:  
+ Create an EU Code of Conduct (CoC) on the processing of genetic, 
+biometric, or health data. The CoC should accelerate the access to and 
+processing of such data within each, and across all, Member States in 
+cooperation with all key public and private stakeholders. European 
+cooperation to fight diseases and viruses, population health management 
+at scale and support to safe cross-border travel are concrete examples of 
+why we need a CoC. It must entail: 
+▪ Public interest as legal basis for circumstances in Article 9.2 
+of the GDPR. The CoC should also give a common interpretation 
+of what is considered “public interest” by national authorities 
+across the EU. Unjustified, restrictive interpretations by Member 
+States of public interest are preventing hospitals from sharing life-
+saving data with relevant organisations. 
+▪ A consistent legal interpretation of ‘personal data’. The value 
+of data lies in its use and re-use, which strongly depend on the 
+nature of the data involved (personal data vs. non-personal data). 
+Personal data falls under the GDPR and its processing is subject 
+to numerous data protection legal restrictions, which do not apply 
+to non-personal data. Member States, however, do not hold a 
+unique and aligned position on the legal concept of personal and 
+non-personal data. No adequate and recognised standards exist 
+on the anonymisation of personal (health) data. The CoC should 
+fill this gap.  
+▪ A consistent anonymisation model that provides traceability 
+back to the source records without presenting a risk for subject 
+identification, using the concept of k-anonimity based on existing 
+international best practice standards. It would facilitate data 
+sharing from institutions to researchers, between pharmaceutical 
+companies (for example to limit the need for a placebo/standard-
+of-care arm in a clinical trial) as well as from pharmaceutical 
+companies to government-funded research initiatives. Data 
+ 
+12 We also intend to highlight good practices:  
+• The OpenSAFELY platform researched risk factors for death from COVID-19 using an 
+unprecedented scale of Electronic Health Records from 17 million NHS patients, all in a manner 
+compliant with both the GDPR and the UK Data Protection Act of 2018. More info here.  
+• The World Health Organization (WHO) has a COVID-19 interactive map which gives a daily update 
+on the latest global—and country-specific—numbers of COVID-19 cases. This draws on 
+epidemiological data from around the world and relies on automatic web content extraction, data 
+analytics, processing and storage. More info here and here. 
+8  
+ 
+ 
+ 
+ 
+ 
+ 
+Protection Authorities are adopting excessively strict and 
+divergent interpretations of what constitutes anonymous or 
+anonymised data. This hinders health data processing and makes 
+it very difficult for entities to agree on whether and how parties can 
+use the data at issue.  
+▪ An opt-out model for secondary use of data in research fields 
+with higher patient identification sensitivities. This model 
+would suit areas like rare diseases, genomes and personalised 
+medicine, with higher re-identification risks than normal and where 
+complete anonymisation may impact the successful research 
+outcome. A robust ethical and security framework with a strong 
+transparency dimension would build necessary patient trust in this 
+model and guarantee that vital identifiable data for research 
+progress is handled properly. It would entail patient rights to 
+actively object to their data being processed. 
+▪ Practical guidelines which can support practitioners along the 
+healthcare value chain (including patients, physicians, healthcare 
+managers, industry). They should provide a common data 
+classification framework,13 providing clarity on how identifiable, 
+anonymised and pseudonymised data should be categorised and 
+where it can be stored and processed. 
+▪ A reduction of fragmentation of local conditions on data 
+processing for scientific research purposes. The processing of 
+health data for scientific research purposes is authorised by Art. 9 
+(j) of the GDPR. Yet, Art. 9 (4) of the GDPR allows Members 
+states to introduce further conditions and limitations to the 
+processing of health data. This provision has resulted in the 
+introduction of country- and region-specific constraints to the 
+processing of health data for scientific research purposes, such as 
+those around the concept of “public interest of the research”, the 
+“impossibility or disproportionate effort to obtain consent” and the 
+concept of “research institute or body”. The resulting patchwork of 
+different rules across the EU is hindering health research and 
+cross-country collaboration within the EU. The CoC should create 
+consistency on the use of health data for scientific research 
+purposes and pave the way for a harmonisation of the local 
+implementation of the GDPR. 
+ 
+13 See section 2.3 for more details 
+9  
+ 
+ 
+ 
+ 
+ 
+ 
+ Issue European Data Protection Board (EDPB) essential guidance on the 
+GDPR in collaboration with industry, the European Medicines Agency 
+(EMA) and relevant national authorities. It is fundamental to bring 
+harmonisation on: 
+▪ the concept of personal data 
+▪ the use of public interest, scientific or historical research 
+purposes, legitimate interest and consent as legal basis 
+▪ the compatibility of primary and secondary use of data  
+▪ the interaction between the GDPR and local and national 
+regulations affecting health data processing   
+▪ the use of Real-World Data (RWD) for medicine discovery and 
+development. Data collected in real life settings14 can help drive 
+new understandings of value.  
+Data infrastructure  
+The exponential proliferation of data has the potential to transform healthcare 
+and deliver unprecedented levels of quality and efficiency of care. Although 
+multiple initiatives exist across Europe, we observe a lack of coordination and 
+scale, as well as a fragmentation of resources and funding and an abundance of 
+legal and privacy-related boundaries. The Common European Health Data 
+Space requires a robust, secure and interoperable infrastructure with a clear 
+governance framework and defined services. This is key to unlock the potential 
+of health data in Europe.  
+A well-defined, common data infrastructure is fundamental to facilitate the 
+consistent and secure secondary use of health data. The EU should therefore 
+establish a central health data entity at EU level to select standards and profiles 
+for interoperability, as well as a health data entity in each Member State to 
+implement those standards. The role of the national entities should be to provide 
+controlled data services, like healthcare information sharing and analysis. 
+FinData in Finland and France’s Health Data Hub could inspire the creation of 
+the entities in each Member State.    
+The Commission should use the planned legislative governance framework for 
+the European Health Data Space to create this infrastructure. It should establish 
+the legal foundation of both the EU-level health data entity as well as the national 
+health data entities, and mandate national health entities’ adherence to the same 
+set of rules, standards and profiles of standards selected at EU level, and in line 
+ 
+14 RWD can include a range of routinely collected data sources from EHR, hospital databases, 
+electronic registries and insurance claims to wearables, apps, and device-generated data, 
+amongst others. 
+10  
+ 
+ 
+ 
+ 
+ 
+ 
+with FAIR principles in data sharing and access.15  As a core tenet, this entity 
+should exist to promote the frictionless sharing of health data across Europe in a 
+safe, controlled and privacy-preserving environment. 
+A common, pan-European infrastructure as here suggested would help remove 
+health data-sharing obstacles, boost the exchange of cross-border health data 
+across the EU and guarantee health data interoperability, while optimising scale 
+advantages in global supply markets for healthcare IT and medical devices by 
+building on leading, internationally developed standards and profiles. 
+Finally, for such a governance framework to be effective, it is also crucial the 
+Commission institutes a broad definition of what constitutes scientific research. In 
+today’s AI and big data age, a broad range of commercial activities may qualify 
+as scientific research, and European citizens will benefit from their continued 
+activities, utilising European data as appropriate. 
+Data altruism  
+We support health data “altruism” (donation) schemes to give clear, easy and 
+secure ways for citizens to give access to their health data for the public good, in 
+compliance with the GDPR. Control over personal data should remain with the 
+patients/citizens themselves. They should be empowered to access and manage 
+their own health data. Policymakers have an important role in making data 
+donation and altruism a driver for healthcare innovation. We recommend them 
+the following:  
+ For regular or continued data donation, to create GDPR-compliant, 
+European standard forms between data donors and recipients to 
+establish a legal basis and a strong foundation for long-term data 
+processing activities in areas like research. 
+ For one-off donations, to develop a standard, GDPR-compliant European 
+consent form to make the approval process by donors quick and efficient. 
+The form could foresee data portability requests where necessary.  
+ To illustrate data donation use cases for citizen awareness and educate 
+citizens about the benefits of data donation for their health and lives. This 
+is crucial to convey to potential data donors why aggregated data is 
+important to advance research and innovation for society’s benefit. 
+ To encourage data altruism via model contractual clauses or data sharing 
+agreements agreed by individuals.  
+ 
+ 
+15 FAIR stands for Findable, Accessible, Interoperable, Re-usable  
+11  
+ 
+ 
+ 
+ 
+ 
+ 
+Transparency and confidentiality 
+Data transparency contributes to the framework of trust to unlock the potential of 
+health data in the EU. It can advance medicine knowledge and ultimately 
+improve public health.  The biopharmaceutical and medical device industry are 
+playing their part to advance that, by promoting clinical research data sharing 
+that benefits researchers and, ultimately, the healthcare community at large. A 
+relevant example is the Yale Open Data Access (YODA) 16 Project, founded to 
+promote data sharing among the scientific community and develop to advance 
+responsible data sharing. YODA provides increased access to anonymised 
+pharmaceutical and medical device clinical trial data and clinical study reports 
+provided by businesses supporting the initiative. A panel in the project 
+independently reviews and makes final decisions on all requests from qualified 
+researchers, physicians and investigators looking to access such data for the 
+benefit of healthcare innovation.  
+We support industry-driven initiatives such as YODA which enhance 
+transparency while respecting businesses’ rights to data confidentiality.  
+Ethics  
+The Commission, Member States and all relevant key stakeholders (industry, 
+academia, health institutions and patients) should develop ethical principles for 
+healthcare data generation, use, re-use, and curation. They should address 
+security, transparency and privacy based on the Ethics guidelines for trustworthy 
+AI developed by the European Commission AI High-Level Group.17 These ethical 
+principles should recognise that citizens remain in control over their personal 
+data.  
+Culture 
+Trust means also robust data understanding and awareness among officials, 
+payers, practitioners, patients and citizens. As with all technological innovations, 
+including data-driven ones, awareness-raising is key to build acceptance in 
+society. Healthcare stakeholders and policymakers should take a holistic 
+approach to digital health and data literacy. They should create a data culture 
+that encompasses collaboration and partnership amongst healthcare 
+practitioners, payers, patients and citizens. Policymakers should ensure that: 
+ 
+16 Johnson & Johnson, a DIGITALEUROPE member, is a member of YODA. It is currently making 
+clinical trial data for pharmaceutical, medical device, and consumer products available. More info 
+on YODA here 
+17 Available here 
+12  
+ 
+ 
+ 
+ 
+ 
+ 
+ Every citizen has access to digital literacy and skills training. Digital 
+literacy is critical to ensure citizens and patients are empowered to 
+manage their own data and capable of taking informed decisions. This 
+should extend not only to the use of digital health technologies, but also 
+to the ethics, governance and advantages of using healthcare data to 
+benefit all citizens. They should leverage key stakeholder-driven 
+initiatives such as Data Saves Lives.18 There are existing training 
+programs available from industry, many of which can be provided free of 
+charge, which Member States could access.  
+ Health professionals have the necessary skills to unlock the 
+potential of data. ICT specialists are just 1% of healthcare workforce and 
+up to 70% of health professionals do not use digital solutions due to gaps 
+in knowledge and skills in data analytics.19  
+▪ Member States must prepare tomorrow’s healthcare talent 
+with digital-ready university curricula. Data science and 
+artificial intelligence should be at the centre of a major reform of 
+education systems in Europe, supported by the EU. No health 
+system can be resilient without digital literacy and the necessary 
+digital skills among health professionals.  
+▪ The update to the Digital Education Action Plan, Erasmus +, 
+Horizon Europe and the upcoming Pact for Skills should 
+make sure no one is left behind in the healthcare workforce 
+and that practitioners are able to make use of innovative 
+technologies that benefit healthcare. National authorities should 
+design ambitious digital skills programmes tailored to the 
+healthcare workforce.  
+ Local officials become ambassadors and ethical advocates of the 
+digitalisation of healthcare in their communities. This is crucial to 
+raise awareness of digital health innovation at local level across the EU.  
+ 
+ 
+ 
+ 
+ 
+18 More info here 
+19 OECD Health Policy Studies, Health in the 21st Century: Putting Data to Work for Stronger Health 
+Systems, 2019 
+13  
+ 
+ 
+ 
+ 
+ 
+ 
+ Interoperability and standardisation 
+Achieving interoperability among healthcare systems and seamlessly exchanging 
+information and data is critical to improving clinical operations and patient 
+outcomes. 80% of health data remains unstructured and untapped after it is 
+created.20 Health data siloes prevent practitioners, researchers, authorities and 
+businesses from capturing, analysing and applying valuable information to care 
+delivery, improvements and decisions. Fundamentally, a lack of interoperability 
+directly impedes health systems from providing effective care to citizens, and 
+prevents data from being shared even within health systems. The Common 
+European Health Data Space must ensure data systems are interoperable and 
+therefore data sets are exchangeable and interpretable, and citizens have control 
+of their personal data. Patient-generated data, clinical data21 and data from other 
+sources should all be seamlessly accessible and uniformly interpretable through 
+interoperability of devices and systems to unlock the value of digital in this space.  
+Common data models 
+Internationally recognised standards are a critical element to a achieve 
+more outcome-based healthcare systems across the EU. The Commission 
+and Member States should advance federated data models, whose goal is to 
+analyse RWD standardised to common data models. Such models would 
+facilitate interoperability and connectivity while respecting GDPR requirements. 
+Their advantage lies in unlocking access to healthcare data and thus facilitating 
+learning healthcare systems,22 all while ensuring the highest level of protection of 
+personal data and commercial IP. Through a federated model, the different 
+sources of healthcare data act as nodes in a network. Importantly, the data 
+remain in an on site, off site or hybrid cloud, unaltered and uncompromised. It is 
+only the final output of the data analysis that is shared within the framework 
+under secure, legally compliant conditions. Actors can use it to inform research, 
+clinical treatment, hospital planning and payment models, and influence the 
+effectiveness of the overall healthcare demand and supply value chain. EU 
+citizens and patients should be at the core of such a network and remain 
+empowered throughout, so no provider can prevent them from managing or 
+accessing their data. A key example of federated data model projects is the 
+Innovative Medicines Initiative (IMI) initiative EHDEN,23 which builds upon the 
+Observational Medical Outcomes Partnership (OMOP) Common Data Model 
+ 
+20 Kong, Hyoun-Joong. (2019).Managing Unstructured Big Data in Healthcare System. Healthcare 
+Informatics Research. 
+21 Including high-dimensional (e.g. omics) data 
+22 Healthcare systems in which knowledge generation processes are embedded in daily practice to 
+produce continual improve in care 
+23 More info here 
+14  
+ 
+ 
+ 
+ 
+ 
+ 
+(CDM) launched in the US. The OMOP CDM standardises different structures 
+across disparate health data sources into common tables which harmonise 
+structure, field datatypes and conventions. 
+ 
+There are also other projects on common data models focusing minds of policy-
+makers and the health community. The EMA and the Heads of Medicines 
+Agencies (HMA), for example, have called24 for the establishment of DARWIN,25 
+a European network of databases of known quality and content associated by a 
+strong focus on data security. DARWIN’s role would be to extract valuable 
+information from multiple, complimentary RWD databases to support 
+regulatory decision-making. 
+European Electronic Health Record exchange format 
+Fulfilling the ambitions in Recommendation on a European Electronic Health 
+Record exchange format26 should be key for the Commission. Priority should be 
+given to: 
+ The completion by 2022 of the exchange of electronic patient 
+summaries and ePrescriptions between various Member States.   
+ Progress on the other baseline domains identified in the 
+Recommendation. We need profiles providing specifications for 
+interoperability also for laboratory results, medical imaging and reports, 
+and hospital discharge reports. These information domains showed to be 
+vital in the fight against COVID-19 across Europe. The Commission 
+should complete these profiles before 2024 and support their practical 
+implementation to meet clinical needs.   
+ Convergence on specifications selected for data exchanges 
+between health applications. Convergence will provide strong 
+investment incentives for vendors to comply with prioritised specifications 
+and develop them further. One example are the Existing Fast Healthcare 
+Interoperability Resources (FHIR) standards. They are consistent, easy-
+to-implement information models used by all major cloud providers and 
+health technology application developers. They also build on similar 
+specifications in related ICT health solutions. Other examples are the 
+DICOM standards and the IEEE Xplore digital library. 
+ 
+24 More info here 
+25 DARWIN stands for Data Analysis and Real World Interrogation Network. 
+26 Commission Recommendation (EU) 2019/243 of 6 February 2019 on a European Electronic 
+Health Record exchange format 
+15  
+ 
+ 
+ 
+ 
+ 
+ 
+Common data classification framework  
+Europe should encourage a common health data classification framework to help 
+organisations categorise identifiable, anonymised and pseudonymised data. This 
+is especially important as the volume of global healthcare enterprise data is set 
+to grow at a faster rate than the global average data volume.27 Properly 
+managing this growing amount of data becomes crucial as it helps organisations 
+to consistently identify data which belongs to a special category or is potentially 
+high risk for sharing - and take appropriate mitigating actions.  
+A notable focus area for data classification should be to enable the use of 
+all classes of healthcare data with cloud technology, with appropriate 
+levels of security and risk mitigation in place which corresponds with the 
+type of data being processed. The use of cloud computing is growing in 
+important scenarios like global research collaboration, predictive analytics for 
+early disease detection and population health management. We need a more 
+harmonised approach to utilising cloud technology for healthcare workloads. This 
+could be enabled through a commonly adopted risk assessment framework for 
+different types of health data. It would help data controllers to adopt cloud 
+technologies with the appropriate architecture, security and privacy 
+considerations, and ultimately benefit healthcare innovation. We highlight 
+guidance from NHS Digital28 as one among existing good practices and 
+encourage the Commission to also explore others. NHS Digital acknowledges 
+cloud technology’s benefits, including for the use of data analytics environments 
+pooling together anonymised data, which is a similar concept to the upcoming 
+Common European Health Data Space. Other healthcare systems across 
+Europe, Data Protection Authorities and the European Commission should define 
+together similar guidance at European level. In Annex I below, we detail the main 
+elements of the NHS Digital’s Data Risk Assessment guidance to inspire 
+policymakers’ thinking on this issue. We also encourage how the European Open 
+Science Cloud initiative seeks to create a more common understanding of 
+vocabularies and semantic registries to advance data analytics tools in research, 
+including in health. 
+ Investments in digital solutions 
+The EU has well-tested secure digital solutions from across the globe available 
+for it to build capacity for the Common European Health Data Space. These 
+technologies can deliver advanced services and address areas like 
+interoperability of health IT systems, which require ambition from Commission 
+and Member States to fulfil the goals in the 2019 Recommendation on a 
+European Electronic Health Record exchange format. Large volumes of rich and 
+ 
+27 IDC, The Digitization of the World: From Edge to Core, 2018 
+28 NHS Digital is the statutory body in England with responsibility for national information and 
+technology deployment in the health and care system 
+16  
+ 
+ 
+ 
+ 
+ 
+ 
+quality data will enable transformative technology like AI and machine learning to 
+achieve a precise diagnosis, support personalised therapies, draw new patient- 
+and disease-level insights and advance research in vital areas like genome 
+sequencing. They will enable medicines to deliver their full potential with 
+personalised treatments, and ultimately revolutionise medical science.  
+We urge policymakers to:  
+ Recognise Next Generation EU offers an unprecedented opportunity 
+to transform healthcare systems. On average, health sectors in 
+developed economies spend just 10% of total expenditure on software 
+and databases, less than other large sectors like finance and 
+machinery.29 Member States’ Recovery and Resilience Plans should 
+upgrade medical equipment, IT systems and software used in hospitals, 
+medical centres and research labs.  We need a paradigm shift in Europe 
+from investments into legacy infrastructure to investments into future-
+oriented, well-tested technologies capable to project us towards the 
+sustainable, digitalised healthcare systems we need. Data-driven, 
+personalised care requires a strong technology infrastructure as much as 
+a framework of trust and standardised, interoperable systems and 
+devices.  
+ Prioritise resources for setting up EHDS governance. There should 
+be ample funding reserved in the next MFF (i.e. Health Programme) that 
+is dedicated to the setting up of the governance institutions that will be 
+needed for the creation and functioning of the EHDS. Monitoring and 
+coordinating the implementation of common standardisation will demand 
+meaningful investment. This could be realised with an ambitious Health 
+Programme. 
+ Accelerate privacy-preserving machine learning and confidential 
+computing solutions. To run collaborative data analytics exercises that 
+guarantee the privacy of datasets used. Techniques like homomorphic 
+encryption minimise any risk of re-identifying anonymised patient data, 
+allowing for AI computation directly on encrypted data.  
+ Use the Digital Europe Programme (DEP) to establish health-
+focused, world-reference AI testing facilities. Placed across the EU, 
+they should partner with healthcare actors to test AI solutions in real 
+operational environments. This is key for health organisations to nurture 
+the growth of data scientists at the forefront of healthcare innovation.    
+ 
+29 Investment in software and databases as a % of non-residential Gross fixed capital formation 
+(GFCF). GFCF is a measure of spending on fixed assets. Source: Calvino et al. (2018[26]),:”A 
+taxonomy of digital intensive sectors” 
+17  
+ 
+ 
+ 
+ 
+ 
+ 
+ Annex I: NHS Health and Social Care Risk 
+Framework for data transfer to the cloud 
+NHS Digital (the statutory body in England with responsibility for national 
+information and technology deployment in the health and care system) has 
+published a risk framework30 and associated risk model,31 for organisations with 
+health and social care data that wish to make use of public cloud technologies. 
+This guidance acknowledges the benefits of using these technologies, including 
+the use of data analytics environments containing anonymised data: a similar 
+concept to the Common European Health Data Space. It advocates 
+implementing a set of controls which are consistent with the assessed level of 
+risk for processing each dataset.  Whilst organisations can never fully remove the 
+risk of processing data using cloud technology, they can build in appropriate 
+controls which are consistent with the risk associated with the data being 
+processed.  
+Individual organisations retain the responsibility to assess the risk of using public 
+cloud technology with their data. The document provides a high-level overview of 
+the risk classes that should be considered, all of which are relevant to a Health 
+Data Space. The guidance also notes that the construction of the technology 
+solution that is being used to process the data can support the mitigation of some 
+of these risk classes. These risk classes and their description are defined below: 
+Risk Class Description 
+Confidentiality Data may be subject to loss of confidentiality through breach, 
+through unauthorised access, or through unintended or 
+accidental leakage between environments 
+Integrity Data may be subject to loss of integrity through data loss or 
+unintended manipulation 
+Availability Ensuring that access to your data is available when required. 
+Network connectivity to cloud becomes a critical dependency 
+and there is a risk of introducing a Single Point Of Failure 
+(SPOF). Public cloud cannot be assumed to be permanently 
+available; cloud availability and SLA [Service Level Agreement] 
+must match the need. 
+Impact of 
+breach 
+We cannot assume there can never be any breach, so we need 
+to consider the impact of any unintended breach (unauthorised 
+disclosure into an uncontrolled, or less-well-controlled than 
+intended, environment) 
+Public 
+perception 
+There is some degree of public concern over the use of public 
+cloud given that these are widely available, shared, computing 
+environments 
+ 
+30 NHS Digital, Health and social care cloud risk framework, 2018 
+31 NHS Digital, Health and social care data risk model 
+18  
+ 
+ 
+ 
+ 
+ 
+ 
+Lock-in Flexibility may be impacted (resulting in increased levels of 
+lock-in) by: 
+• The adoption of a specific public cloud provider’s 
+unique services 
+• The difficulties involved in migrating large quantities of 
+data may make it difficult, in time and/or cost, to migrate 
+to an alternative in the event of future commercial or 
+service changes 
+• An architecture that is not sufficiently tailored to a public 
+cloud model 
+Table 1. Risk Classes and Descriptions, from NHS Digital Health and Social Care Cloud Risk 
+Framework, p 5. Copyright NHS Digital, 2018 
+The guidance then advises the impact of the risk to be considered in terms of the 
+data type, data scale, and data persistence.  
+ Data type: organisations are advised to classify their data into the following 
+categories32:  
+o publicly available information 
+o synthetic (test) data 
+o aggregate data 
+o already encrypted materials 
+o personal data (including demographic data and personal confidential 
+data) 
+o anonymised data (including reversibly - and irreversibly) 
+o patient account data 
+o data choices 
+o patient meta-data (identifiable and linkable) 
+o personal user account data 
+o audit data 
+o key materials 
+ 
+ Data scale: organisations are also advised to consider the depth and 
+breadth of the data items they are considering, so that the relative impact 
+of a potential breach can be assessed 
+ Data persistence: the extent to which data will be stored for the long-term 
+versus transitioning immediately out of the environment in which it is 
+being processed. Generally, the risk reduces as the persistence of the 
+data reduces 
+Organisations are then encouraged to enter information about their data type, 
+scale and persistence into the associated risk framework tool, which generates 
+an associated Risk Impact Score. These scores are mapped to one of five Risk 
+Profile Levels, which provides organisations with an overall perspective on the 
+ 
+32 More info on the Data classification scheme at page 7 of NHS Digital Health and Social Care 
+Cloud Risk Framework 
+19  
+ 
+ 
+ 
+ 
+ 
+ 
+“degree of risk or contentiousness” of the data they are considering processing in 
+the public cloud. See Appendix C for a description of these risk profiles. 
+As part of implementing controls to support the mitigation of these risks, 
+organisations are then asked to refer to the Health and Social Care Cloud 
+Security Good Practice Guide33 (see table below), which documents specific 
+controls that should be put in place for the different Risk Profile Levels of the data 
+that has been assessed. These controls include principles for:  
+ data in transit protection 
+ asset protection and resilience 
+ separation between users 
+ governance framework 
+ operational security 
+ personnel security 
+ secure development 
+ supply chain security 
+ secure user management 
+ (end user) identity and authentication 
+ external interface protection 
+ secure service administration 
+ audit information for users 
+ secure use of the service  
+Risk Profile Levels 
+Risk Profile 
+Level  
+Governance Expectation  
+Class I  All organisations are expected to be comfortable operating services at 
+this level.  
+Class II  Whilst there may be some concerns over public perception and lock-in, 
+most organisations are expected to be comfortable operating services 
+at this level.  
+Class III  At this level, risks associated with impact of breach become more 
+significant, and the use of services at this level therefore requires 
+specific risk management across all risk classes described in Section 4, 
+requiring approval by CIO / Caldicott Guardian level.  
+Class IV  At this level, it is likely to become more difficult to justify that the 
+benefits of the use of public cloud outweigh the risks. However, this 
+case may still be made, requiring approval by CIO / Caldicott Guardian, 
+and would be required to be made visible to the organisation’s Board. 
+Specific advice and guidance may be provided by NHS Digital on 
+request.  
+Class V  Operating services at this level would require board-level organisational 
+commitment, following specific advice and guidance from NHS Digital.  
+ 
+ 
+33 NHS Digital, Health and social care cloud security - good practice guide 
+20  
+ 
+ 
+ 
+ 
+ 
+ 
+Recommendations from our paper on 
+how to harness the power of AI in health 
+applications 
+23 January 2020 – these recommendations have been sourced from our 
+paper on how to harness the power of AI in health applications. 
+ Executive Summary 
+AI solutions for health will thrive and benefit patients in Europe only through a 
+coherent and ethical strategy that will prepare governments’ health systems and 
+mitigate any unintended consequence of AI use. AI will play an important role as 
+diseases like cancer are expected to rise due to Europe’s ageing population. 
+A study predicts AI alone has the potential to add 0.2–1.3 years onto the average 
+life expectancy.34 AI can improve and accelerate the development of safe and 
+effective medicines, support chronic disease management (such as diabetes), 
+enhance the information available for screening and treatment decisions as well 
+as provide continuous monitoring tools supporting diagnosis or tracking disease 
+progression. They also have the potential to deliver tools to better understand the 
+risk for future diagnoses, stratify patient populations for more precise treatment 
+options and patient management, improve adherence to treatments and 
+ultimately improve clinical and patient outcomes. DIGITALEUROPE calls on 
+relevant policymakers, such as the European Commission, Member States’ 
+governments and elected representatives, to: 
+ Prioritise risk assessments and avoid one-size-fits-all approaches in the 
+design of any future AI policy framework for health. The risk of deploying 
+AI in this domain greatly varies under the specific application considered. 
+Predicting hospital attendance is very different from life-saving AI 
+solutions that diagnose a certain disease. Any future framework should 
+also consider existing international standards, legislation and ethical 
+principles. 
+ 
+ Empower AI development for a health data ecosystem, by earmarking 
+more resources to foster the accessibility and interoperability of health 
+data and addressing its provenance as well as curation. In addition, 
+accelerate health data sharing through FAIR (Findable, Accessible, 
+Interoperable and Reusable) principles. 
+ 
+34 McKinsey Global Institute, Artificial Intelligence: The Next Digital Frontier?, 2017 
+21  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Promote policies that encourage the development of AI solutions for 
+clinicians integrating Electronic Health Records (EHRs). 
+ 
+ Tackle the creeping fragmentation and regulatory divergences of health 
+data-processing across the EU, while accelerating the creation of a 
+European health data space. Even if the GDPR allows each Member 
+State to introduce further data-processing conditions for genetic and 
+health data, the Commission and national data protection authorities 
+should strive for a harmonised framework of rules. 
+ 
+ Foster the adoption of initiatives on the secondary use of health data for 
+AI research. They should be deployed at scale across the EU. 
+ 
+ Commit sufficient resources to the development, adoption and 
+implementation of AI in health applications. 
+ 
+ Recognise the benefits of all AI applications for health systems and 
+society. The technology holds potential in a variety of patient treatment 
+solutions. It is equally helpful in areas beyond pure patient care. For 
+example, Natural Language Processing, a branch of AI, can free up 
+precious time for practitioners by dramatically speeding up EHR 
+documentation, one of the most time-consuming tasks in today’s health 
+care context. 
+ 
+ Adjust the implementation of the EU health regulatory framework to allow 
+new emerging AI solutions on the market. The overall objective and 
+requirements of existing legislation are generally fit for purpose to cover 
+existing AI products and services in health. The Medical Device 
+Regulation and subsequent guidance will require market assessment 
+bodies who are enforcing the regulation to be regularly trained to 
+understand thoroughly the inner workings of AI, including new mHealth 
+solutions in the EU. Training should also clarify how to exploit the self-
+learning capabilities of AI systems in health. If practitioners, patients and 
+society are to benefit from AI fully, our regulatory approach to health 
+technology must move in parallel to market innovation. 
+ 
+ Proportionality is the key in the discussion on the explainability of AI 
+decisions specifically with respect to the intended use of the technology, 
+and the corresponding potential risk for the patient. Explaining how the 
+algorithm works should be understood as an occasion for the user to 
+obtain meaningful information. It should not be about sharing source code 
+or training data. 
+ 
+ 
+22  
+ 
+ 
+ 
+ 
+ 
+ 
+ Recognise that developing completely bias-free algorithms will never be 
+possible. However, policymakers can incentivise research, training and 
+increase data availability to tackle and reduce potential unintended or 
+discriminatory bias in AI algorithms. 
+ 
+ Advance ambitious upskilling and reskilling programmes tailored to the 
+specific needs of all relevant health stakeholders, be them patients, 
+doctors or health market authorities certifying AI technology. Training 
+should be complemented by awareness raising campaigns on the role of 
+AI in health. 
+ 
+ Firmly consider cybersecurity as an essential element for trust in AI in 
+health. We reiterate our support to strengthen cybersecurity across the 
+EU through a framework for the development of voluntary cybersecurity 
+certification schemes based on already internationally recognised 
+schemes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23  
+ 
+ 
+ 
+ 
+ 
+ 
+ Introduction 
+Artificial Intelligence (AI) in health has the potential to bring vast benefits to 
+Europe. If properly harnessed, AI will lead to improved patient outcomes, 
+empowered health practitioners, formidable organisational efficiencies, more 
+productive R&D as well as more sustainable learning health systems. A study 
+predicts AI alone has the potential to add 0.2–1.3 years onto the average life 
+expectancy.35 Turning these predictions into reality will require the commitment of 
+a multitude of stakeholders, including industry, authorities and health 
+professionals, to address challenges and opportunities in the technology.  
+As an important prerequisite, we need to expand access to health data across 
+Europe — creating an ambitious “common health data space” — to enable a 
+better development and a more effective use of AI systems, all while at the same 
+time increasing patients’ protection through transparency measures and 
+concerted stakeholders’ actions. Policymakers also need to clarify the existing 
+EU regulatory framework as these technologies mature and become increasingly 
+adopted. For instance, legislation such as the Medical Device Regulation (MDR) 
+guarantees trust in the safety and performance of AI technology where risk-
+assessment is a primary principle. The success of AI in health will ultimately 
+require the EU to develop a coherent strategy in this domain. This document 
+builds upon the work of the High-Level Expert Group on Artificial Intelligence set 
+up by the European Commission. It shows the way forward for authorities across 
+Europe to maximise the benefits of AI in health and, at the same time, minimise 
+its potential risks. The recommendations in this paper have been prepared on the 
+basis of requirements for a trustworthy AI36 which the High-level Expert Group 
+identified as critical for ethical, secure and cutting-edge AI made in Europe.  
+The technology is poised to be a boon for good patient care, the viability of future 
+public healthcare budgets and prevention. Now it is up to Europe to exploit its 
+capabilities with big investments, ambitious innovation policies and a cautious 
+and nimble regulatory approach that keeps pace with evolving digital health 
+technologies. 
+ 
+ 
+ 
+ 
+ 
+ 
+35 McKinsey Global Institute, Artificial Intelligence: The Next Digital Frontier?, 2017 
+36 High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI, 2019 
+24  
+ 
+ 
+ 
+ 
+ 
+ 
+ Definitions 
+As DIGITALEUROPE explained in its Recommendations on AI Policy37, AI is not 
+a single technology, nor a specific product or service. It should rather be 
+understood as an indication of the extensive processing capabilities of a 
+machine, robot or indeed software. Its applications can range from performing a 
+very narrow task to conducting a whole set of different activities all at the same 
+time. Specific technology uses have emerged in the health sector, where a form 
+of AI called “augmented intelligence’’ is particularly prevalent. Augmented 
+intelligence focuses on assisting human operations thereby augmenting, as the 
+name suggests, humans’ performance in a certain task. Importantly, there is no 
+replacement of human input in this form of AI. 
+ AI applications in health 
+AI-based solutions in health are used in a variety of contexts. They can improve 
+and accelerate the development of safe and effective medicines, support chronic 
+disease management (such as diabetes), enhance the information available for 
+screening and treatment decisions as well as provide continuous monitoring tools 
+supporting diagnosis or tracking disease progression. They also have the 
+potential to deliver tools to better understand the risk for future diagnoses, stratify 
+patient populations for more precise treatment options and patient management, 
+improve adherence to treatments and ultimately improve clinical and patient 
+outcomes. 
+As an example in medical imaging, AI speeds up the process from image 
+acquisition to patient care by helping to detect diseases like cancer much earlier 
+than conventional technology. Patients, health practitioners and researchers all 
+stand to gain from AI-driven medical imaging, not the least because it will 
+accelerate disease prevention, speed up patient recovery times and ultimately 
+save lives. Other relevant uses of AI in health are in genomics processing, a field 
+of molecular biology investigating on all aspects of a genome, drug and therapy 
+discovery as well as adoption for more personalised patient treatment. Crucially, 
+AI does not deliver only benefits for the patient. The savings these and other 
+similar AI applications allow in budgets should not be overlooked either. The 
+UK’s National Health Service (NHS) predicts using AI models for preventive care 
+could lead to up to £ 3.3 billion savings, as costs on nonelective hospital 
+admissions would be slashed.38 As demographic trends exert a growing pressure 
+on government health expenditure, the cost-optimisation potential of AI becomes 
+incredibly relevant. What is more, the technology is also a formidable tool in 
+fraud-detection, a less research-intensive but equally important aspect in health. 
+ 
+37 DIGITALEUROPE, DIGITALEUROPE Recommendations on AI Policy: Towards a sustainable & 
+innovation-friendly approach, 2018 
+38 European Commission, Harnessing the economic benefits of Artificial Intelligence, 2017 
+25  
+ 
+ 
+ 
+ 
+ 
+ 
+By sifting through huge datasets, it can help to strengthen oversight of hospital 
+expenditure and identify cases of corruption. It can prevent, too, burnout felt by 
+health professionals. A survey revealed one in four physicians reported episodes 
+of burnout due to the increasing computerisation of their tasks.39 Natural 
+Language Processing (NLP), a branch of AI, can streamline electronic health 
+records (EHRs) systems, limiting the time health professionals spend away from 
+direct patient interactions. In a nutshell, AI will leave more time for human 
+connection that can enable improved doctor-patient communication and more 
+personalised care, which is known to improve patient outcomes. 
+ Building trust 
+One of the most relevant topics in the public debate on health-based AI is the 
+uncertainty or lack of clarity about its specific applications. Under the assumption 
+that AI is at least partially capable of self-learning and reasoning, some have 
+raised concerns about the safety and effectiveness of decisions or 
+recommendations induced by the technology. Their focus has mainly been on the 
+role of health professionals in an AI-influenced environment, the privacy and 
+security of patient’s health data, as well as the overall impact of the technology 
+on the patient. Trust is consequently key in driving the uptake of AI systems in 
+health and allowing many solution providers, including SMEs, to scale in this 
+market. As AI will progress, the importance of autonomous decisions made by 
+algorithms will grow. A health-specific AI ethical approach would allay these 
+concerns. It should maintain transparency and diagnostic reasoning, especially 
+when applications help determine the course of patient care. Integral to this 
+framework is the critical impact that education will have on building trust. 
+Upskilling the healthcare community will be important to ensure that those 
+engaging with AI technology can maintain a healthy level of scepticism/critical 
+thinking when embedding AI outputs into decision workflows. More automation in 
+decision-making must not come at the expenses of lower safety or protection 
+standards in Europe. 
+Having said that, DIGITALEUROPE also urges to draw sufficient attention 
+to all different use-cases of AI in this domain.  
+As shown earlier, several existing applications are deployed far from the strictly 
+research-intensive or patient care operations that generate concerns among 
+some. AI models that predict hospital attendance40 or advance drug discovery41 
+are arguably very different from life-saving AI solutions that diagnose a certain 
+disease or recommend a certain course of therapy. Though more mundane or 
+distant from the lab they may be, these uses are similarly beneficial. Adding to 
+ 
+39 Advisory Board, Physician burnout in 2019, charted, 2019 
+40 Nature, Predicting scheduled hospital attendance with artificial intelligence, 2019 
+41 Nature, How artificial intelligence is changing drug discovery, 2018 
+26  
+ 
+ 
+ 
+ 
+ 
+ 
+that, the software into which they are embedded must already meet highly 
+stringent requirements in terms of functionality, reliability, usability and efficiency, 
+just as any other patient-treating software product. It is therefore important to 
+always adopt a risk-based approach to governing the use of AI.  
+DIGITALEUROPE underlines the following in the debate on trust in health-
+based AI: 
+ Health is one of the most highly regulated sectors in Europe. In an 
+overwhelming variety of cases, there are specific requirements which AI-
+based solutions must observe. The MDR,42 recently amended, is one of 
+the main examples in this respect (see below in the Chapter on Safety, 
+Accountability and Liability). It guarantees trust in the safety and 
+performance of AI systems that will be deployed. 
+ A risk-based approach should always be prioritised by policymakers when 
+designing policy frameworks for health-based AI. Should new regulatory 
+measures be examined, it is crucial to always consider that the level of 
+risk of AI health applications will vary, and that very different 
+considerations will be needed from a policy perspective, in accordance 
+with the specific product or service in question. Descriptive, predictive and 
+prescriptive analytics arguably imply different levels of risk. Diagnostic 
+software, where all the information needed by a doctor is present in the 
+immediate dataset, has a different risk profile than, say, predictive 
+analytics where patient treatment solutions are suggested based on EHR 
+data, which at times can be inaccurate or incomplete. In addition, 
+policymakers should also give appropriate attention to existing legislation, 
+standards and ethical principles. 
+ Emerging health AI applications need to maintain sufficient transparency 
+(i.e. diagnostic reasoning), flexibility and demonstrate clear improvements 
+over the standard of care in orderto reach scale in the EU. AI has the 
+potential to develop decision tools facilitating clinical treatment decision-
+making. This would boost the growing discipline of precision medicine, 
+where clinicians are required to identify/predict which patients will 
+respond to particular treatments in areas such as cancer care. 
+ 
+ 
+ 
+42 Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on 
+medical 
+devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 
+1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC 
+27  
+ 
+ 
+ 
+ 
+ 
+ 
+ Providing clinicians with EHRs-integrated AI systems allows for guidance 
+that is personalised to the individual characteristics of the patient. As 
+these AI systems facilitate patient-clinician communication and support 
+shared clinician-patient decision making, they increase the likelihood of 
+patients fully engaging and committing to treatment plans. This can 
+contribute to increased trust between such actors, and therefore foster 
+greater confidence in the use of AI and other digital solutions. 
+ Trust is a core aspect promoted by initiatives on the secondary use of 
+health data for AI research, some of which are conducted in Europe. They 
+boost research opportunities while making data usage more secure. 
+There would be significant gains if such projects are deployed at scale. 
+ Cybersecurity remains a critical aspect in generating trust in health AI 
+solutions. DIGITALEUROPE reiterates its support for the EU’s efforts on 
+strengthening cybersecurity across the Union through the creation of a 
+framework that will pave the way for voluntary cybersecurity certification 
+schemes based on already internationally recognised schemes. 
+ Human agency 
+Augmented intelligence, as mentioned above, is one of the most common forms 
+of AI in the health domain. It can, for example, spot abnormal looking cells in an 
+image of a patient’s tissue sample that escaped detection by a specialist doctor, 
+therefore enhancing the cognitive performance of the health service provider. In 
+this way, augmented intelligence contributes to high-quality care without 
+replacing humans in strategic patient-related decisions. AI algorithms are not 
+infallible and every stakeholder in the industry has a responsibility to remain 
+critical of its use and application to the decision-making process, regardless of 
+the question being asked and considering the high-stakes nature of the sector. 
+More of such AI forms will come as the technology continues to improve and be 
+employed for new applications, even beyond the hospital. Lifestyle and diet will 
+indeed be among these. Progress on AI will gradually lead to personalised digital 
+health services; users will be able to take sound health-related decisions based 
+on the recommendations from, say, new diagnostics apps. This being said, more 
+sophisticated usages will continue to be intermediated by a healthcare 
+professional, depending on the purpose. 
+ Safety, accountability and liability 
+Safety is a primary driver for the successful adoption of the technology in the 
+health domain. This is indeed the case also for AI software that has an intended 
+medical purpose, which in the EU must comply with the MDR. This critical piece 
+of legislation details a series of robust essential requirements which ultimately 
+28  
+ 
+ 
+ 
+ 
+ 
+ 
+provide a very high level of safety and performance during technology 
+deployment. Suppliers of AI solutions must obtain a valid certification from a 
+relevant conformity assessment body if they are to introduce such solutions on 
+the EU market. 
+Obtaining it is a sophisticated process. Certifying AI software against the MDR 
+criteria requires the AI solution provider to demonstrate that the software’s 
+clinical and analytical nature is safe enough. In the case of image recognition 
+software, certification includes direct comparisons between the algorithm’s 
+performance and the radiologist’s in, say, lung disease detection. Final results on 
+the safety and validity of the AI system are drawn only after the analysis of many 
+samples. 
+Considerations on the enforcement of the MDR in regard to 
+AI 
+The implementation of the existing EU regulatory framework will need to catch up 
+with the progresses of AI in health. Concretely, the EU should put in place a 
+more agile, innovation-oriented certification framework for AI healthcare devices, 
+capable of approving more powerful AI systems without eroding trust in their use. 
+As an example, AI systems today used in the sector are “locked”, meaning that 
+once certified for the EU single market, they are prevented from exploiting their 
+inherent self-learning capabilities. This translates, potentially, into huge lost 
+opportunities to improve patient-treatment in the future. As diseases like cancer 
+are expected to rise due to Europe’s ageing population,43 tackling this serious 
+innovation barrier will be crucial in the future. 
+Other jurisdictions are taking steps in this direction. For example, the US FDA 
+published a discussion paper titled “Proposed Regulatory Framework for 
+Modifications to Artificial Intelligence/Machine Learning (AI/ML)-Based Software 
+as a Medical Device (SaMD)’’ to address the iterative improvement power of AI 
+and machine learning based software as a medical device, while assuring patient 
+safety.44 
+ We invite the European Commission to provide guidance on these issues 
+through the existing initiative of the Medical Devices Coordination Group 
+(MDCG). This will be key to further address the regulatory aspects of 
+health AI in Europe, and to facilitate communication and collaboration 
+between data scientists, health technology experts in academia and 
+private sector, as well as patient organisations. 
+ 
+43 European Commission, EU Action on Cancer, 2015 
+44 The FDA discussion paper is available here 
+29  
+ 
+ 
+ 
+ 
+ 
+ 
+ We also invite Member States to dedicate sufficient resources to train 
+notified bodies responsible for the conformity of medical devices placed 
+on the EU market. It is key that market assessment bodies enforcing the 
+MDR properly understand the inner workings of AI technology. 
+ Accountability and liability 
+Businesses firmly embed accountability and liability considerations into the 
+development of AI systems for health applications. Industry has prepared product 
+development lifecycles which include impact assessments and balancing tests to 
+measure privacy and security risks in AI. Ethical principles feed into a growing 
+number of businesses’ impact assessments. Fittingly, new technologies occupy 
+more and more time of the discussions in ethics councils and firms’ ethical review 
+boards. DIGITALEUROPE warmly welcomes organisations that embrace risk-
+based accountability approaches and put in place technical or organisational risk-
+minimisation measures. 
+Adding to that, we underline the robust and balanced EU regulatory framework 
+for liability and safety in new products and technology. Two pieces of legislation 
+in particular, the Product Liability Directive45 and the Machinery Directive46, prove 
+to offer a comprehensive coverage of AI accountability and liability aspects. They 
+are both currently subjects of review by the European Commission. 
+DIGITALEUROPE is following these discussions closely while noting the liability, 
+negligence, fault, risk attribution and accountability provisions they contain are 
+part of a complex ecosystem and value chain. Additional evidence-based studies 
+are needed before drawing conclusions, particularly when addressing emerging 
+technologies, including those in health. Policymakers should conduct analyses in 
+an informed manner and primarily seek to answer if existing provisions 
+adequately address risk mitigation and minimisation. 
+ 
+ 
+ 
+ 
+ 
+ 
+45 Council Directive of 25 July 1985 on the approximation of the laws, regulations and 
+administrative provisions of the Member States concerning liability for defective products 
+46 Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on 
+machinery, and amending Directive 95/16/EC (recast) 
+30  
+ 
+ 
+ 
+ 
+ 
+ 
+ Transparency and explainability 
+As the technology matures, new AI uses will be accepted in the health sector. 
+Together with an emphasis on safety and effectiveness, adequate levels of 
+transparency will facilitate users’ understanding of AI applications and their 
+boundaries. Algorithmic explainability will be crucial, especially when the causal 
+relationship between data and AI decision is not immediately apparent. 
+Industry fully recognises the need to provide meaningful information and facilitate 
+the interpretation of health-based AI. In particular, DIGITALEUROPE would like 
+to emphasise that: 
+ For medical devices, including software, extensive testing procedures are 
+conducted prior to introducing these solutions on the market. Whenever 
+these tests demonstrate that an AI medical device is safe as well as 
+clinically and analytically valid, their results are and will continue to be, 
+themselves, strong reassurances for the user. Professional education 
+would, in any case, remain key for health practitioners to understand the 
+functioning as well as the inputs and outputs of the AI system. This will 
+help deploy AI effectively and safely, and support clinicians to 
+appropriately explain the technology, its risks and limitations to patients. 
+ Proportionality is key. The extent of AI explainability should be in respect 
+to the intended use of the technology and the corresponding potential risk 
+for the patient. Explaining how the algorithm works should be understood 
+as an occasion for the user to obtain meaningful information. It should not 
+be about sharing source code or AI training data, which are crucial 
+elements for security, integrity and IP protection. 
+ There is still a lot of space for innovation. For example, DIGITALEUROPE 
+points out that ‘’reverse-engineering’’ an AI decision, that is 
+understanding how the algorithm reached a certain result, greatly 
+depends on the specific AI technique adopted. Explainability of AI 
+processes is an exciting area for businesses and academia to develop 
+techniques aiming to give more contextual and background information 
+behind AI-driven decisions. Principles and guidance are being produced 
+to assist developers in making AI systems auditable right from the 
+moment they are created. 
+ 
+ 
+ 
+ 
+31  
+ 
+ 
+ 
+ 
+ 
+ 
+ Diversity, non-discrimination and fairness 
+It is essential that AI and data processes are in line with European social norms. 
+For AI to benefit society at large, we must therefore ensure that AI systems are 
+not skewed by bias hidden in data. This can originate from using inadequate 
+datasets that are incomplete, outdated or not diverse enough. Unwanted 
+discriminatory bias can also be the result of unconscious or historical behaviours 
+and patterns. Just removing sensitive data may not be enough, as the AI model 
+could pick up on or recognise patterns between other proxies. 
+AI models may never be completely free of unfair bias, as bias permeates our 
+society. However, we can minimise the problem and constantly improve models. 
+Developers and deployers can take action to identify and avoid bias in data, 
+including through analysis and building common criteria and data quality 
+standards. By increasing the quality of input data, paired with thorough scrutiny 
+and diversity of sources, we can greatly improve the output as well. 
+Furthermore, it is worth nothing that many AI application, including in the health 
+space, are designed to serve a specific population – i.e. a specific disease area, 
+personalised medicine, etc. The design process may require in those instances 
+some level of conscious discrimination to achieve the right result. 
+Many companies have already set in place constant re-evaluation processes, to 
+detect divergences and anomalies, and to quickly correct these flaws. This also 
+requires diversity across input and high-quality datasets, and among designers 
+and software engineers for assessing and interpreting the output. It is also 
+important to ensure appropriate training for data scientists and software 
+engineers, so they can acknowledge and address their own biases. 
+ Data governance in AI for health – availability, 
+access, use and quality 
+Data sharing 
+Data is the building block of health knowledge. Studies estimate the volume of 
+healthcare data will reach 2.134 exabytes by 2020, on the back of growth rates of 
+about 48 percent year-on-year.47 In the era of AI and precision medicine, access 
+to quality data has promptly taken a central stage in the debate. As the 
+availability of data increases, so does the potential to provide better services and 
+more effective therapies and treatments. 
+Important as it is, the digitalisation of patient records can only be considered as 
+one part of the story. The type of data effectively stored its format and possible 
+reusability all are other important factors to enable a real data-based ecosystem. 
+ 
+47 PwC, Sherlock in Health: How artificial intelligence may improve quality and efficiency, whilst 
+reducing healthcare costs in Europe 
+32  
+ 
+ 
+ 
+ 
+ 
+ 
+They would all play an instrumental role in better disease understanding and 
+prevention, improved personalised health research, as well as better diagnosis 
+and treatment. Evidence shows there is already appetite for such an ambitious 
+health data ecosystem among citizens. In a 2017 European Commission’s 
+survey48, 80% of respondents said they would agree to share their health data if 
+privacy and security aspects were considered. However, despite citizens’ 
+enthusiasm for data-sharing to serve clinical and research purposes, the 
+European Commission and other stakeholders recognise data-sharing 
+mechanisms still fail to materialise in Europe.49 The reasons for this are multiple. 
+They include format and accessibility issues, lack of sustained political focus on 
+health data, heterogeneous and time-consuming patient consent frameworks, 
+limited technical interoperability and suboptimal level of digital literacy among 
+health workforce and the general public. On AI research specifically, for example, 
+AI algorithms that mimic the diagnostic or other decisions of a clinician require 
+training on EHR data, which are often incomplete, inaccurate and lack 
+interoperability. The lack of digitalisation of the full healthcare journey remains a 
+critical barrier to implementing AI successfully in healthcare workflows. It will 
+require going beyond diagnostic or other problems of image recognition and 
+classification, where all the information you need to make a decision (e.g. about 
+whether a breast tissue sample has malignant cells or not) is present in the 
+immediate data set. Finally, digitising the healthcare system will also need to 
+consider issues of temporality in decision making and inherent biases within the 
+data. 
+In this discussion, DIGITALEUROPE emphasises the importance of building a 
+health data ecosystem by guaranteeing FAIR50 principles in any health data 
+governance architecture: 
+ The principles of Findable, Accessible, Interoperable and Reusable 
+(FAIR). data should be encouraged in the health space. This includes 
+storage according to widely accepted standards to facilitate its search, 
+secure accessibility through technical and organisational measures, 
+interoperability based on standard formats (namely FHIR51) and widely 
+agreed metrics, as well as proper attribution to incentivise and reward 
+data-sharing practices. 
+ 
+ 
+ 
+48 European Commission, Transformation of Health and Care in the Digital Single Market, 2019 
+49 A 2018 European Commission’s Staff Working Document concludes that “it is widely shared 
+among the stakeholders that access to varied data-sets located across different Member States 
+remains difficult or inexistent, the data is subject to different taxonomies and standards and 
+therefore scientific research invariably builds on relatively limited population cohorts” 
+50 Nature, The FAIR Guiding Principles for scientific data management and stewardship, 2016 
+51 Commission Recommendation (EU) 2019/243 of 6 February 2019 on a European Electronic 
+Health Record exchange format 
+33  
+ 
+ 
+ 
+ 
+ 
+ 
+We also point out the significance of crafting policies that encourage the use of 
+AI in laboratories. As the volume of health data, already large today, is estimated 
+to double every two years,52 there are tremendous benefits in deploying AI for 
+real-world data analysis. In its Communication on Digital Transformation of 
+Health and Care,53 the European Commission included real-world data among 
+pilot areas where to dedicate EU funding for testing cross-border health data 
+exchanges for research purposes.54 It should continue to step up efforts to tackle 
+the lack of standardised data collection, representative databases and data 
+quality standards, the latter being particular important to leverage EHR. These 
+are among the barriers that hinder today the potential of real-world data and AI in 
+the health domain. 
+Getting rid of them will lead to better research findings and ultimately improve 
+patient treatment outcome. 
+Data processing 
+Health data processing is regulated by the General Data Protection Regulation 
+(GDPR).55 As the European ecosystem for health data develops, so will data 
+collection, collaboration amongst stakeholders and new opportunities for data 
+processing. Privacy and data protection issues will remain equally relevant. 
+DIGITALEUROPE recommends to EU policymakers the following in order to 
+improve health data governance and advance the health data-processing debate: 
+ Promote EU-wide Codes of Conduct as powerful tools to address data-
+processing issues in health applications. Codes of Conduct help to 
+ensure the proper application of the GDPR and inject trust in health data-
+processing. They would contribute, for example, to network effects. More 
+and more endorsement of the Code by stakeholders would lower the 
+barriers to entry into large-scale collaborative health research, thereby 
+triggering a virtuous circle of initiatives. 
+ 
+ Tackle the creeping fragmentation of health data-processing across the 
+EU while accelerating the creation of a European health data space. The 
+GDPR remains an EU-wide provision, but it does not completely 
+harmonise data protection rules across the EU. Member States are 
+interpreting the regulation differently, hindering opportunities for better 
+health outcomes through de-identified patient level data. Even if the 
+GDPR allows each Member State to introduce further data-processing 
+ 
+52 PwC, Sherlock in Health: How artificial intelligence may improve quality and efficiency, whilst 
+reducing healthcare costs in Europe 
+53 European Commission, on enabling the digital transformation of health and care in the Digital 
+Single Market; empowering citizens and building a healthier society, 2018 
+54 European Commission, Real-world data, 2018 
+55 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the 
+protection of natural persons with regard to the processing of personal data and on the free 
+movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) 
+34  
+ 
+ 
+ 
+ 
+ 
+ 
+conditions for genetic and health data, the Commission and national data 
+protection authorities should strive for a harmonised framework of rules. It 
+is very important that Member States and the European Commission 
+eliminate or at least minimise regulatory divergences on health data to 
+avoid fragmentation in the Single Market. 
+ 
+ Implement policy approaches that maximise the value of the secondary 
+use of health data. The European Commission and Member States 
+should also ascertain ways in which data can be pooled and made 
+available to improve patients’ outcomes while safeguarding patient 
+privacy. A useful example to address this issue comes from Finland.56 
+ 
+ Introduce guidance by the European Medicine Agency (EMA) and the 
+Heads of Medicines Agencies (HMA) network on real-world evidence and 
+the use of data sources for regulatory purposes. A framework with 
+guidance on factors to be considered and addressed in a regulatory 
+submission should also be developed. It would encourage exploration by 
+industry of alternative approaches to real world evidence generation. 
+ 
+ Promote a secure, privacy-preserving, access to health data by promoting 
+an EU-level data space where health-focused AI can move forward. 
+ 
+ Strive for a complete digitalisation of health data by 2024 by 
+strengthening data interoperability, facilitating secure data-sharing across 
+multiple data sources and allowing easy and secure access to health data 
+by patients. 
+ Education and Skills 
+No AI model can be adopted without experts developing and testing it 
+successfully. This holds true for the health domain as well, which shares with 
+other sectors a dire need for AI talent, heavily demanded but in short supply. 
+What distinguishes health from other sectors is its inherent relationship with key 
+public policy objectives. Ensuring a high level of human health protection is 
+indeed a principle enshrined into the EU Treaties.57 
+ 
+56 Finland’s Act on the Secondary Use of Health and Social Data addresses the secondary use of 
+health and social data. It establishes a “one-stop shop” - the Data Permit Authority – to grant data 
+permits for health and social data in a centralised manner, namely when a data enquiry requires 
+collection from several data repositories managed by different organisations. An operating 
+environment with robust cyber security controls will be created in which the data disclosed can be 
+processed in accordance to the permit, although processing in other environments is also 
+foreseen. 
+57 Consolidated version of the Treaty on the Functioning of the European Union – Part Three: 
+Union Policies and Internal Actions - Title XIV: Public Health - Article 168 (ex Article 152 TEC). 
+35  
+ 
+ 
+ 
+ 
+ 
+ 
+This makes it fundamental to craft ambitious educational policies that guarantee 
+Europe’s future ability in deploying cutting-edge AI for the benefit of public health. 
+Prioritising STEM education at all levels will be key to encourage more 
+individuals flocking to AI’s development. 
+However, these efforts alone will fall short of expectations if not complemented 
+by AI-based training for all other stakeholders interacting with the technology. 
+Health practitioners will need to assess when to use AI systems and to what 
+extent to capture input from augmented intelligence solutions. They will need to 
+maintain a healthy level of scepticism and critical thinking when integrating AI 
+outputs into decision workflows, and be in the position to accurately explain AI’s 
+benefits, limitations and risks to patients, which is a core tenet of building trust in 
+the technology. Regulators will need, too, to comprehensively grasp the 
+technology’s inner workings and decide, for instance, about the certification of 
+complex AI devices in highly regulated environments. All this calls for strong 
+upskilling and re-skilling programmes tailored to the specific needs of all relevant 
+health stakeholders. 
+ Investments, uptake and regulatory oversight 
+AI solutions for health will thrive in Europe only through a coherent strategy that 
+will prepare governments’ health systems and mitigate any unintended 
+consequence of AI’s use. Industry and regulators will need to strengthen 
+dialogue on whether the current regulatory framework will soon be able to keep 
+up with the pace of innovation. They will need to consider future regulatory 
+models that will provide a more streamlined and efficient regulatory oversight of 
+software-based medical devices.58 Digitalisation entails a myriad of new 
+opportunities for the health sector. But market authorities across the EU will need 
+to overcome excessive risk aversion in the certification of new digital health 
+solutions if society is to benefit from these. 
+Together with a supportive regulatory framework, ambitious policies fostering 
+innovation, investments and inclusiveness should be the other pillar for the EU’s 
+strategy. 
+ 
+ 
+ 
+ 
+ 
+ 
+58 The FDA Pre-cert program is an example of such regulatory reflection. More information here 
+36  
+ 
+ 
+ 
+ 
+ 
+ 
+Innovation 
+Innovation should be at the core of all measures taken to boost the uptake of 
+health AI. We call on the EU institutions to: 
+ Commit sufficient resources to the development, adoption and 
+implementation of AI in health applications. To truly unlock all its benefits 
+for European citizens, Member States and the European Commission 
+should also pour more investments into close-tomarket research on 
+health-focused aspects of the technology. Programmes where safely test 
+innovative AI models would clearly boost innovation. 
+ 
+ Deliver on the creation of a European health data space following in the 
+footsteps of the Commission’s Communication on digital transformation in 
+health and care59 and Commission’s recommendations to Member States 
+on complete and personal health records across the EU.60 Tackling health 
+data fragmentation in Europe now needs the strong political leadership of 
+EU governments. They should take stock of these positive developments 
+and launch ambitious health data digitalisation plans where safe, agile 
+mechanisms for data-sharing are outlined. Patients will be the first in line 
+to reap the advantages of more widely available data, in the form of ever-
+more accurate AI and thus effective therapies. 
+Inclusiveness 
+As AI deployment in health expands, its benefits should remain firmly accessible 
+to all. This is why embracing AI responsibly will be essential. For that to happen, 
+industry, government and health practitioners must maintain a regular dialogue 
+on inclusivity in the development and implementation of AI technologies in this 
+context. AI solutions must be designed in way that cater for a heterogeneous 
+population and do not widen, but reduce existing disparities in access to care. 
+Organising training and education activities for patients, health practitioners, 
+organisations and authorities will also prove positive. It is important all groups of 
+stakeholders are reached by initiatives that raise awareness on the technology, 
+illustrate its positive impact in the health domain and address any potential 
+concern. 
+ 
+ 
+59 European Commission, Communication from the Commission to the European Parliament, the 
+Council, the European Economic and Social Committee and the Committee of the Regions on 
+enabling the digital transformation of health and care in the Digital Single Market; empowering 
+citizens and building a healthier society, 2018 
+60 European Commission, Commission makes it easier for citizens to access health data securely 
+across borders, 2019 
+37  
+ 
+ 
+ 
+ 
+ 
+ 
+ Annex II: examples of AI in health 
+This section aims to show the variety of AI and machine learning applications 
+across different dimensions of the health domain. 
+Case Study: Intel Transforming Clinical Trials with AI 
+The effectiveness of clinical trials in drug development is directly dependent on 
+the quality of the data generated. Ideally, a trial would continuously collect 
+objective data about a patient’s response to a drug. But this is often not practical 
+using traditional approaches. Many diseases are monitored sporadically and rely 
+on subjective physician ratings of disease status. For instance, diseases like 
+multiple sclerosis and Parkinson’s disease are scored by clinicians roughly two to 
+five times per year, despite the fact that a patient’s disease state fluctuates daily 
+or even hourly. 
+Intel has developed a solution, the Intel® Pharma Analytics Platform, which 
+captures new kinds of data from clinical trial subjects and uses AI technologies to 
+analyse the data. Collecting data from multiple sensors, the platform helps 
+develop objective measures for assessing symptoms and quantifying the impact 
+of therapies, and provide a broader understanding of patient health across a wide 
+spectrum of needs. Working with leading pharmaceutical companies, medical 
+centres and research institutions, this AI –based solution has been used in 
+dozens of trials, comprising more than 1.5 million hours of data collection with 
+over 1,000 patients. 
+By producing high-quality data and reducing the dropout rate, trial leaders may 
+be able to conduct shorter trials with fewer enrolled participants. With AI and 
+larger, more diverse data sources, analysts can generate more robust evidence 
+for regulatory agencies. Overall, the solution allows for more efficient and 
+productive trials, which can get the latest treatments to patients sooner and more 
+cost-effectively. 
+Read more: https://www.intel.com/content/www/us/en/healthcareit/transforming-
+clinical-trials-with-ai-article.html  
+Case study: MSD - AI to Automate Chest Radiograph Interpretation for 
+paediatric pneumonia disease burden studies 
+Current biological methods to detect bacterial pathogens in nonbacteremic/non-
+invasive paediatric pneumonia (NBPP) are extremely limited. Diagnostic 
+challenges have limited surveillance of NBPP incidence. Many vaccine impact or 
+disease burden studies have relied on identifying pneumonia outpatient visits or 
+hospitalisations through a range of pneumococcal-specific and non-specific ICD 
+(International Classification of Diseases) codes in administrative healthcare 
+38  
+ 
+ 
+ 
+ 
+ 
+ 
+databases. Both pneumococcal pneumonia and all-cause pneumonia are 
+typically included as outcome measures. However, it is well recognised that 
+pneumococcal pneumonia is under-coded in clinical practice and more likely to 
+represent invasive disease, while the use of non-specific outcomes such as all-
+cause pneumonia may increase the bias in the estimation of vaccine impact. 
+Chest radiograph (CXR) on the other hand is a valuable diagnostic tool. The 
+World Health Organisation has developed a standardised methodology for the 
+interpretation of paediatric CXRs, designed to optimise the identification of visual 
+patterns caused by infections related to vaccine-preventable pathogens such as 
+Streptococcus pneumoniae and Haemophilus influenza type b (Hib). However 
+due to the difficulty of interpretation, inter-viewer concordance rates are typically 
+low and experienced radiologists are needed to adjudicate and validate the 
+interpretation. This makes the CXR approach time consuming and expensive and 
+sometimes infeasible in resource poor areas. 
+Development in deep learning for image classification has the potential to 
+overcome the resource barrier in carrying out the CXR approach for disease 
+burden estimation. MSD has been trying to automate the image interpretation 
+using deep learning. We trained our neural network based on WHO standardised 
+criteria using retrospective chest x-ray images. The model/algorithm currently 
+achieves an accuracy between 92% - 96% depending on the datasets. The 
+computer-interpreted classification of chest x-ray images may provide a cost-
+efficient method of determining more accurate disease burden estimates, 
+especially when paediatrician and radiologist-led surveillance cannot be 
+conducted. 
+Read more: https://www.ispor.org/heor-
+resources/presentationsdatabase/presentation/intl2019-1479/89378  
+Case study: Philips – AI in clinics and hospitals 
+With the clinical introduction of digital pathology, pioneered by Philips, it has 
+become possible to implement more efficient pathology diagnostic workflows. 
+This can help pathologists to streamline diagnostic processes, connect a team, 
+even remotely, to enhance competencies and maximise use of resources, unify 
+patient data for informed decision-making, and gain new insights by turning data 
+into knowledge. Philips is working with PathAI to build deep learning applications. 
+By analysing massive pathology data sets, we are developing algorithms aimed 
+at supporting the detection of specific types of cancer and that inform treatment 
+decisions. 
+Read more: 
+https://www.philips.com/aw/about/news/archive/standard/news/press/2017/20170
+329-philips-andpathai-team-up-to-improve-breast-cancer-diagnosis.html  
+39  
+ 
+ 
+ 
+ 
+ 
+ 
+Further, AI and machine learning for adaptive intelligence can also support quick 
+action to address patient needs at the bedside. Manual patient health audits used 
+to be time-consuming, putting a strain on general ward staff. Nurses need to 
+juggle a range of responsibilities: from quality of care to compliance with hospital 
+standards. Information about the patient’s health was scattered across various 
+records, making it even harder for nurses to focus their attention and take the 
+right actions. Philips monitoring and notification systems assist nurses to detect a 
+patient’s deterioration much quicker. All patient vital signs are automatically 
+captured in one place to provide an Early Warning Score (EWS). 
+Read more: https://www.philips.com/a-
+w/about/news/archive/casestudies/20180315-early-warning-score-reduces-
+incidence-of-seriousevents-in-general-ward.html  
+Case study: Microsoft – Machine learning for tumour detection and genome 
+research 
+Microsoft’s Project InnerEye developed machine learning techniques for the 
+automatic delineation of tumours as well as healthy anatomy in 3D radiological 
+images. This technology helps to enable fast radiotherapy planning and precise 
+surgery planning and navigation. Project InnerEye builds upon many years of 
+research in computer vision and machine learning. The software learned how to 
+mark organs and tumours up by training on a robust data set of images for 
+patients that had been seen by experienced consultants. 
+The current process of marking organs and tumours on radiological images is 
+done by medical practitioners and is very time consuming and expensive. 
+Further, the process is a bottleneck to treatment – the tumour and healthy tissues 
+must be delineated before treatment can begin. The InnerEye technology 
+performs this task much more quickly than when done by hand by clinicians, 
+reducing burdens on personnel and speeding up treatment. 
+The technology, however, does not replace the expertise of medical practitioners; 
+it is designed to assist them and reduce the time needed for the task. The 
+delineation provided by the technology is designed to be readily refined and 
+adjusted by expert clinicians until completely satisfied with the results. Doctors 
+maintain full control of the results at all times. 
+Further, Microsoft has partnered with St. Jude Children’s Research Hospital and 
+DNANexus to develop a genomics platform that provides a database to enable 
+researchers to identify how genomes differ. Researchers can inspect the data by 
+disease, publication, gene mutation and also upload and test their own data 
+using the bioinformatics tools. Researchers can progress their projects much 
+faster and more costefficiently because the data and analysis run in the cloud, 
+powered by rapid computing capabilities that do not require downloading 
+anything. 
+40  
+ 
+ 
+ 
+ 
+ 
+ 
+Read more: https://www.microsoft.com/en-us/research/lab/microsoftresearch-
+cambridge/  
+Case study: Hitachi & Vironova – AI for safe and effective therapies for 
+genetic disorders 
+Biological drugs employ a wide range of substances of biological origin. They 
+include gene therapies, vaccines, recombinant antibodies and biological 
+molecules. They have in common the fact that the drugs themselves are large 
+molecules, far larger than the small chemicals traditionally used. The diversity 
+and heterogeneity of their structure as wellas the interaction with the human body 
+and the diversity of all individuals is therefore and extremely complex task to 
+understand and control. The safety and efficacy of a biologic therapy when 
+scaled up depends heavily on the purity and integrity of the large molecules. The 
+possible heterogeneity of a successful therapy exceeds the limits of traditional 
+data analysis, as well as the limits of human cognition. This introduces higher 
+needs for data capacity and computing power for the understanding of the 
+topology of the data, and causal patterns.  
+Hitachi High-Technologies and Vironova AB initiated a research collaboration to 
+contribute to the efficient development of new biological drugs. Vironova, is an 
+established provider of electron microscopy to the pharmaceutical industry and 
+has developed software and methodologies for transmission electron microscopy 
+systems control and data analysis. Using electron microscopy, the 
+macromolecules and unwanted constituents can be visualised and the 
+morphological data can be extracted and further analysed. 
+By combining the collected experience and expertise from the biologic field, 
+narrow AI to automate and check the validity of hypotheses of constituents and 
+their morphology and biologic effect with general AI which helps to sort out 
+diversities and variations that is not detectable by human it is possible to 
+accelerate the introduction of biologic precision medicines to a broader public. 
+Read more: https://www.hitachi.com/rev/archive/2019/r2019_01/gir/index.html  
+https://www.linkedin.com/pulse/co-creation-case-sweden-how-makeelectron-
+microscopy-tom-christensen  
+Case study: NVIDIA – Using AI to accelerate drug discovery while 
+protecting data 
+Bringing a drug to market takes on average 13 years and close to €2 billion. The 
+more data researchers have at their disposal, the better equipped they are to 
+accelerate the drug discovery process. However, pharmaceutical companies 
+have traditionally been reluctant to share data for fear of compromising 
+intellectual property. Pooling the sensitive medical data needed to train AI 
+models also raises concerns about patient privacy. 
+41  
+ 
+ 
+ 
+ 
+ 
+ 
+MELLODDY, a new drug-discovery consortium, aims to demonstrate how an AI 
+technique called federated learning could achieve the best of both worlds: the 
+ability to leverage the world’s largest collaborative drug compound dataset for AI 
+training without sacrificing data privacy. Federated learning is a method of 
+decentralised machine learning in which training data doesn’t have to be pooled 
+into a single aggregating server, allowing organisations to keep datasets within 
+their own secure infrastructure. 
+MELLODDY (Machine Learning Ledger Orchestration for Drug Discovery) brings 
+together 17 partners: 10 pharmaceutical companies, including Amgen, Bayer, 
+GSK, Janssen Pharmaceutica (a company of Johnson & Johnson) and Novartis; 
+universities KU Leuven and the Budapest University of Technology and 
+Economics; four startups; and NVIDIA’s AI computing platform. 
+Each pharmaceutical partner will use NVIDIA V100 Tensor Core GPUs hosted 
+on Amazon Web Services. MELLODDY developers will create a distributed deep 
+learning model that can travel among these distinct cloud clusters, training on 
+annotated data for an unprecedented 10 million chemical compounds. As part of 
+the data security mission of MELLODDY, each organisation will keep its research 
+projects confidential. MELLODDY will also employ a blockchain ledger system so 
+pharmaceutical partners can maintain visibility and control over the use of their 
+datasets. By enabling companies to learn from each other’s findings without 
+providing competitors direct access to proprietary datasets, the consortium aims 
+to improve the predictive performance of AI-based drug discovery. The $20 
+million project will run for three years, at which point the consortium will share 
+learnings with the public. 
+Read more: https://blogs.nvidia.com/blog/2019/08/08/pharma-melloddy-aidrug-
+discovery-consortium/  
+Case study: Curelator Inc. – Developing AI to advance personalised, 
+evidence-based medicine 
+Curelator, based in Barcelona and Cambridge, MA, is actively developing and 
+testing analytical tools and approaches for advancement of personalised, 
+evidence-based medicine. Current clinical analytics favour the use of data 
+typically aggregated from large populations of patients - resulting in “one-size-
+fits-all” therapies - optimally suitable for only the average patient. In contrast, 
+Curelator captures and preserves the integrity of individual data during the 
+analytical process. The objective is to allow each patient to understand the 
+complex interplay that medications and lifestyle factors have on them as 
+individuals and armed with personalised, actionable information, modify the 
+course of their disease. In our N of 1 strategy, we are applying machine learning 
+and other AI approaches to cluster patients and understand (and eventually 
+predict) optimised individual therapeutic response of tailored treatment pathways 
+- the ultimate goal of personalised, evidence-based medicine. 
+42  
+ 
+ 
+ 
+ 
+ 
+ 
+Read more: https://n1-headache.com/  
+Case study: Bristol-Myers Squibb & Concerto – Advancing real world 
+evidence with AI for regulatory purposes 
+Bristol-Myers Squibb and Concerto HealthAI, a market leader in oncologyspecific 
+Real-World Data (RWD) and advanced Artificial Intelligence (AI)- enabled insight 
+solutions for Real-World Evidence (RWE) generation, have a multi-year strategic 
+agreement that will cover a diverse range of cancers, integrate multiple data 
+sources, and apply AI and machine learning to accelerate clinical trials, enable 
+robust protocol design and generate insights for precision treatment and 
+improved patient outcomes. 
+Bristol-Myers Squibb will use Concerto HealthAI’s Real-World Data and novel AI 
+insights platform, eurekaHealth™, to accelerate insights through novel health 
+economic outcomes and clinical development synthetic control arm studies. With 
+this agreement, the companies will advance the use of RWE for regulatory 
+purposes, validate clinical application of AI solutions and execute clinical studies 
+to advance patient care. With the increasing importance of Real-World Data and 
+Real-World Evidence, healthcare providers and regulators need to have 
+confidence in the credibility and accuracy of the data sources and methods of 
+evidence generation, it is not just a tool for generating insights into the current 
+standard of care, but a field in its own right that can lead to optimisation of 
+current treatments and new therapeutic innovations. This kind of collaboration 
+supports AI solutions for precision oncology – reinforces our commitment to 
+pursue data science to accelerate disease insights, advance novel study 
+concepts and achieve precision in treatment, with the goal of improving patient 
+outcomes. 
+Read more: https://concertohealthai.com/press-releases/bristol-myerssquibb-
+and-concerto-healthai-announce-strategic-agreement/  
+Case study: Johnson & Johnson – Smarter insights to treat complex 
+arrythmias 
+Biosense Webster, part of Johnson & Johnson family of companies, has 
+developed CARTOSEG™ in partnership with Siemens AG, which is a Computed 
+Tomography (CT) Segmentation Module using machine learning technology to 
+segment automatically in a few seconds the heart chambers including the 
+Coronary Arteries. This module is part of an integrated solution, the CARTO® 3 
+System. The CARTO® 3 System is a 3-D mapping system with the integration, 
+scalability and insights to help electrophysiologists make optimal treatment 
+decisions. Advanced 3-D mapping modules integrate multiple data sets and 
+images into one resource for highly detailed, real-time information. The 
+CARTOSEG™ CT Segmentation Module automates the CT segmentation 
+process, providing detailed anatomic 3D image integration in the CARTO® 3 
+43  
+ 
+ 
+ 
+ 
+ 
+ 
+System while highlighting discrete anatomic structures. This module 
+automatically segments all four chambers including papillary muscles and 
+trabeculations and semi-automatically segments the coronary sinus, coronary 
+arteries and esophagus. Having improved accuracy and segmentation of all heart 
+chambers helps electrophysiologists make optimal treatment decisions, which is 
+the main purpose of this AI platform. 
+Using the machine learning technology in CARTOSEG™ CT Segmentation 
+Module has helped to achieve very accurate results for heart chambers of 1-
+2mm, which received a high clinical acceptance in the evaluation by physicians. 
+Ultimately, the solution is helping electro physicians to efficiently plan ablation 
+strategies when treating complex arrhythmias. 
+Read more: https://www.biosensewebster.com/products/carto-3/cartosegct-
+module.aspx  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44  
+ 
+ 
+ 
+ 
+ 
+ 
+FOR MORE INFORMATION, PLEASE CONTACT: 
+ Ray Pinto 
+Digital Transformation Policy Director 
+ray.pinto@digitaleurope.org / +32 472 55 84 02 
+ 
+ Vincenzo Renda 
+Senior Policy Manager for Digital Industrial Transformation 
+vincenzo.renda@digitaleurope.org / +32 490 11 42 15 
+ 
+ Thomas Hellebrand 
+Policy Officer Digital Transformation 
+thomas.hellebrand@digitaleurope.org / +32 492 46 78 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About DIGITALEUROPE 
+DIGITALEUROPE represents the digital technology industry in Europe. Our members include 
+some of the world’s largest IT, telecoms and consumer electronics companies and national 
+associations from every part of Europe. DIGITALEUROPE wants European businesses and 
+citizens to benefit fully from digital technologies and for Europe to grow, attract and sustain the 
+world’s best digital technology companies. DIGITALEUROPE ensures industry participation in 
+the development and implementation of EU policies.  
+ 
+DIGITALEUROPE Membership  
+ 
+Corporate Members  
+Accenture, Airbus, Amazon, AMD, Apple, Arçelik, Autodesk, Bayer, Bidao , Bosch, Bose, Bristol -Myers 
+Squibb, Brother, Canon, Cisco, DATEV, Dell, Dropbox, Eli Lilly and Company, Epson, Ericsson, Facebook, 
+Fujitsu, GlaxoSmithKline, Google, Graphcore, Hewlett Packard Enterprise, Hitachi, HP Inc., HSBC, Huawei, 
+Intel, Johnson & Johnson, JVC Kenwood Group, Konica Minolta, Kyocera, Lenovo, Lexmark, LG Electronics, 
+Mastercard, Microsoft, Mitsubishi Electric Europe, Motorola Solutions, MSD Europe Inc., NEC, NetApp, 
+Nokia, Nvidia Ltd., Oki, OPPO, Oracle, Palo Alto Networks, Panasonic Europe, Philips, Pioneer, Qualcomm, 
+Red Hat, Ricoh, Roche, Rockwell Automation, Samsung, SAP, SAS, Schneider Electric, Sharp Electronics, 
+Siemens, Siemens Healthineers, Sony, Swatch Group, Technicolor, Texas Instruments, Toshiba, TP Vision, 
+UnitedHealth Group, Visa, VMware, Workday, Xerox. 
+National Trade Associations  
+Austria: IOÖ 
+Belarus: INFOPARK 
+Belgium: AGORIA 
+Croatia: Croatian  
+Chamber of Economy 
+Cyprus: CITEA 
+Denmark: DI Digital, IT 
+BRANCHEN, Dansk Erhverv 
+Estonia: ITL 
+Finland: TIF 
+France: AFNUM, SECIMAVI,  
+Syntec Numérique, Tech in France  
+Germany: BITKOM, ZVEI 
+Greece: SEPE 
+Hungary: IVSZ 
+Ireland: Technology Ireland 
+Italy: Anitec-Assinform 
+Lithuania: INFOBALT 
+Luxembourg: APSI 
+Netherlands: NLdigital, FIAR 
+Norway: Abelia  
+Poland: KIGEIT, PIIT, ZIPSEE 
+Portugal: AGEFE 
+ 
+Romania: ANIS 
+Slovakia: ITAS 
+Slovenia: ICT Association of 
+Slovenia at CCIS 
+Spain: AMETIC 
+Sweden: Teknikföretagen,  
+IT&Telekomföretagen 
+Switzerland: SWICO 
+Turkey: Digital Turkey Platform, 
+ECID 
+United Kingdom: techUK 
+ 

@@ -1,0 +1,1099 @@
+ 
+  
+ 
+1 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TELEFÓNICA’S POSITION PAPER Feedback on 
+the Proposal for a Regulation of the European 
+Parliament and of the Council as regards the 
+simplification of Digital Omnibus (Data Acquis). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2026.  
+LOGO CLIENTE 
+(Tamaño máximo 4,68x1,23cm) 
+Ref. Ares(2026)1784236 - 17/02/2026
+
+ 
+  
+ 
+2 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+INDEX. 
+ 
+Executive Summary…………………………………………………………………………. .p.3 
+1. Comments to the Proposal for a Regulation amending the Data Acquis…p.5 
+1.1 Amendments to Regulation (EU) 2023/ 2854 – the Data Act……………………..p.5 
+ 1.2 Amendments to Regulation (EU) 2016/ 679 (GDPR) and Directive 2002/58/EC(e-
+Privacy Directive)……………………………………………………………………………………p.12 
+  1.3. Single-Entry Point (SEP) for Incident Reporting …………………………………….p.20 
+ 
+  
+ 
+  
+ 
+3 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+EXECUTIVE SUMMARY 
+1. Proposal for a Regulation amending the Data Acquis. 
+Telefónica supports the core objective of the Digital Omnibus: simplifying 
+Europe’s digital regulatory environment. To achieve this ambition, the company 
+urges the co -legislators to refine key provisions of the Data Act, clarify critical 
+aspects of the GDPR, clarify some aspects of the functioning of the Single Point 
+of Entry and fully repeal the outdated ePrivacy Directive. Ensuring harmonised, 
+proportionate, and techn ically feasible rules will be essential for delivering a 
+coherent, innovation -friendly framework that strengthens Europe’s digital 
+leadership, accelerates investment, and enhances the resilience of its digital 
+infrastructure. 
+What Telefónica believes should be improved: 
+1. Retain simplification as the guiding principle 
+Telefónica warns that the current draft: 
+• broadens obligations unnecessarily, 
+• increases administrative burden, 
+• and fails to address outdated or inconsistent provisions—particularly ePrivacy. 
+2. Data Act – Key Concerns 
+Data holder definition 
+• The proposed redefinition (“use or make available data”) is:  
+o unjustified, 
+o operationally unworkable, 
+o and creates legal uncertainty, especially for telecom operators. 
+ 
+B2G data sharing 
+• Requests:  
+o clearer boundaries for metadata disclosure, 
+o compensation for responding to emergency requests and 
+anonymisation, 
+o reinstatement of the option for public authorities to acquire 
+non-personal data at market rates. 
+ 
+Trade secrets framework 
+• Calls for clear EU -level criteria to define “third countries with lower 
+protection” . 
+B2B exceptions & pre-contractual requirements 
+ 
+  
+ 
+4 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+• Advocates for targeted B2B exemptions to avoid discouraging data 
+generation and innovation. 
+• Calls for substantial simplification of extensive pre -contractual information 
+obligations. 
+ 
+Cloud switching 
+• Highlights that several provisions (e.g., “custom -made services”) are 
+unworkable. 
+• Requests removal or major redrafting to avoid:  
+o retroactive impacts, 
+o technical infeasibility, 
+o market disruption. 
+ 
+Timeline alignment 
+• Direct access obligations (Article 3 Data Act) must be aligned with the 
+availability of interoperability standards (expected end 2026/early 2027). 
+ 
+3. GDPR – Further Clarifications Needed 
+Telefónica asks for: 
+• clear guidance on controller vs. processor roles in pseudonymisation, 
+• guidance on “reasonable expectations of the data subject” , 
+• exclusions for technical non-identifiable data, 
+• a broader derogation beyond solely AI to cover future technological 
+innovation, 
+• a risk -based framework for international data transfers to address 
+post-Schrems II barriers. 
+4. ePrivacy Directive – Strong Position for Full Repeal 
+• ePrivacy is outdated, fragmented, and inconsistent with the modern EU 
+digital acquis. Telefónica advocates repealing the entire ePrivacy 
+Directive and replacing it with a unified horizontal framework under the 
+GDPR. 
+• Partial integration into GDPR via Article 88a leads to a “dual regime” that 
+increases complexity. 
+5. Single-Entry Point for Incident Reporting. 
+While supportive, Telefónica requests national-level anchoring for initial operational 
+notifications, prevention of duplicated reporting at EU and national levels,  
+harmonisation of definitions, thresholds, and templates, realistic timelines (current 
+deadlines are too ambitious), significantly more resources for ENISA, clear rules on 
+confidentiality, liability, audit trails and fallback mechanisms. 
+ 
+ 
+  
+ 
+5 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+1. Proposal for a Regulation on Data Acquis  
+1.1. Amendments to Regulation (EU) 2023/ 2854 – the Data 
+Act. 
+• Data holder concept (Article 2. (b). 13 Data Act).  
+Telefónica is concerned that the Digital Omnibus proposal to redefine the concept 
+of data holder, from entities that “ use and make available data ” to those that “use 
+or make available data” , significantly broadens the scope of the Data Act in a way 
+that is neither justified nor operationally viable . We understand this change is 
+due to the integration of other legislative texts. However, t his amendment risks 
+classifying as data holder organisations that merely use data internally, without 
+engaging in any form of data-sharing activity, thereby imposing obligations that were 
+never intended for infrastructure operators or service providers whose functions are 
+limited to proc essing data on behalf of users. Such an expansion creates legal 
+uncertainty, particularly for telecommunications providers, whose internal 
+operations, including network management, security and fraud detection, 
+could be wrongly interpreted as activities triggering data -holder duties. 
+Additionally, this proposal increases intervention and fails to simplify the legal 
+framework as intended. 
+• Business-to-Government Requests (B2G) (Article 15 Data Act). 
+Telefónica welcomes the Commission’s decision to refine the Business -to-
+Government (B2G) data -access regime by limiting mandatory disclosures under 
+Chapter V of the Data Act strictly to public emergencies, thereby eliminating the 
+overly broad and ambiguous notion of “exceptional need” . Telefónica also supports 
+the proposal  to prioritize the sharing of non -personal data in such 
+circumstances, recognizing that this approach appropriately  minimizes regulatory, 
+operational and confidentiality risks.  
+However, we do not support the shift in the nature of the article. The transition from 
+Article 15 to Article 15a transforms an exceptional, safeguard-driven framework 
+into a direct and enforceable obligation for data holders . This change reduces 
+legal certainty and erodes the careful balance originally  established between the 
+public interest and the protection of data holders’ legitimate interests.  
+Additionally, several elements of the revised B2G framework remain problematic 
+and require further reconsideration:  
+- The obligation to  provide metadata  raises substantial concerns, particularly 
+where such metadata may expose commercially sensitive information, 
+network intelligence or operational vulnerabilities. The concept of metadata 
+under the Data Act is broad and not clearly delimited , which may lead to 
+ 
+  
+ 
+6 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+disproportionate or overly intrusive disclosure requests , undermining 
+operators’ competitive position and network security.  
+- The proposal  retains the requirement that data be provided free of charge in 
+cases of public emergency.  For operators managing large -scale and 
+technically complex infrastructures , responding to emergency -driven data 
+requests entails significant  organizational, technical and human -resource 
+costs. Requiring such contributions without compensation is inconsistent with 
+the Data Act’s  objective of proportionality and fair  remuneration and risks 
+diverting resources away from essential resilience and recovery operations 
+during crisis events.  
+- The lack of compensation for anonymisation  in the context of public -
+emergency requests and official statistics is equally problematic. High-quality 
+anonymisation imposes substantial technical and compliance burdens, and 
+errors in execution expose data holders to regulatory and legal risk. A system that 
+mandates anonymisation while simultaneously  disallowing compensation is 
+neither sustainable nor aligned with the principle of equitable cost allocation.  
+- The removal of the possibility for public authorities to acquire non-personal 
+data at market rates  eliminates a pragmatic , market -based alternative to 
+compulsory disclosure. This weakens the incentive structure embedded in 
+the original Data Act  and increases the likelihood of reliance on mandatory 
+access mechanisms, even where commercial acquisition would be more 
+proportionate, transparent and economically efficient.  
+• Protection of Trade Secrets (Article 4.8 Data Act). 
+While we welcome the extension of rejection rights in situations where there is a 
+heightened risk that trade secrets may be exposed to third countries with lower 
+levels of protection (this safeguard is especially important in sectors such as 
+telecommunications, where requiring disclosure could compromise network 
+security, expose performance indicators or information on network architecture), 
+we respectfully submit that the criteria for identifying such “third countries with 
+lower levels of protection” require significantly greater clarity. At present, it remains 
+uncertain on which concrete benchmarks or legal standards companies are 
+expected to base their assessment of whether such a risk exists. We note that the 
+revised wording of Article 4(8) DA -allowing the refusal of data access where a “high 
+risk” of disclosure to third countries exists - carries the potential to introduce 
+significant new uncertainties and misuse.  
+To avoid inconsistent interpretations across the Union and to prevent 
+disproportionate compliance burdens, it would be highly beneficial for companies 
+(especially SMCs and SMEs), if the Commission undertakes this assessment 
+centrally providing authoritativ e guidance or a definitive list. In addition, 
+it remains unclear how this safeguard interacts with obligations under the Data 
+ 
+  
+ 
+7 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+Act’s B2B and B2G regimes, and whether assessments must be carried out on a 
+case-by-case basis or may be based on broader jurisdictional risk evaluations, such 
+as documented exposure to extraterritorial access laws.    
+In addition, companies  may deny access to data environments based  on the  
+nationality of stakeholders  that control the activity, without any requirement to 
+demonstrate concrete technical or organizational security threats. Such an 
+approach could result in de facto commercial exclusion of certain market 
+participants who are lawfully established  within the European Union and fully 
+subject to, and compliant with, the European legal framework.  
+We consider it essential to clarify and apply the concept of “effective control” and 
+“decisive influence” in order to classify the third parties as “trusted parties” , in 
+particular for  companies headquartered and operating in the EU, and adhering 
+to the Union’s regulatory standards  whose control is exercised by European 
+entities.. The decisive factors should be verifiable, and objective security criteria. 
+• B2B exceptions for Chapter II and III Data Act. 
+The Commission has rightly recognised that the ICT sector, generating EUR 791 
+billion in turnover across the European Union, constitutes a cornerstone of the 
+Union’s overall economic competitiveness. However, from an industry perspective 
+- especially the manufacturing side - a counterproductive trend is emerging:  in order 
+to comply with the increasingly complex and often indeterminate obligations, 
+manufacturers are deliberately limiting the amount of operational and usage data 
+collected by their devices. S uch a reduction in data generation cannot be in the  
+interest of the market , as it directly undermines the objective of strengthening 
+Europe’s data-driven economy and risks widening the technological gap between 
+the European Union and its global competitors.  
+Against this background, we believe that narrowly tailored exemptions for B2B 
+constellations should be introduced in the legislative process to ensure that the 
+regulatory framework supports - rather than constrains – and simplifies, the 
+innovative capacity and competitiveness of Europe’s manufacturing and ICT 
+sectors. It is therefore essential that the provisions of chapter II and III of the D ata 
+Act be further clarified  and, in particular, recalibrated in the context of B2B 
+relationships, where contractual  freedom and well -established commercial 
+practice already provide for balanced and mutually agreed mechanisms of data 
+exchange.  
+• Pre-contractual information requirements (Article 3.2, 3 Data Act). 
+Regarding pre-contractual information obligations, we believe a substantial 
+simplification of the current framework has not yet been considered . The 
+existing, highly extensive catalogues of mandatory disclosures risk overwhelming 
+users with excessive information while simultaneously imposing significant 
+administrative burdens on companies. 
+ 
+  
+ 
+8 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+• Use of non-personal data. Art. 4 (13 y 14). 
+A comprehensive possibility for consent-based use of non-personal data should be 
+permitted without the imposition of additional purpose limitations ; and 
+paragraphs 13 and 14 should be consolidated into a single, clearly structured 
+provision. Such an approach would simplify the regulatory framework, enhance 
+legal certainty, and more accurately reflect the operational realities of modern 
+digital business models. 
+ 
+• Possibility of imposing higher fees and specific conditions on very 
+large enterprises. 
+Further clarification is required with respect to (i) ensuring uniform application 
+across Member States, (ii) establishing objective and transparent criteria for 
+differentiated fees and conditions, and (iii) delineating the relationship between 
+these measures and existing competition law instruments. 
+Moreover, we emphasize that differentiated fee models for the re-use of public-
+sector data by very large enterprises may have significant implications for 
+Europe’s attractiveness and capacity for innovation . Companies that are 
+research-intensive or heavily dependent on data for AI development rely critically 
+on access to comprehensive public datasets. Increased fees in this context may 
+operate as a de facto innovation surcharge, with the potential to influen ce 
+investment decisions to the detriment of the Eu ropean digital ecosystem. Against 
+this background, we encourage the Commission to carefully consider the broader 
+effects of these rules on international R&D investment patterns and on the global 
+competitiveness of Europe as a digital and technological hub. 
+•  Definition “data processing service” 
+We call for a clear and unambiguous definition in the Data Act specifying that a 
+digital service, in and of itself, must cumulatively fulfil all characteristics set out in 
+the definition in order to qualify as a data processing service. The clarification 
+provided by the European Commission in  its FAQ should be explicitly reflected in 
+the legal text. At a minimum, the recitals should be amended accordingly in order to 
+eliminate this significant legal ambiguity and to close a critical loophole for the 
+industry. 
+ 
+• Cloud Switching 
+The targeted exemption for certain customer-specific individual developments is, in 
+principle, understandable. However, further regulatory clarification is required, in 
+particular with regard to the proposed distinction between “custom-built” services 
+and the newly introduced category of “custom -made services” pursuant to new 
+Article 31(1a) DA -Draft, the interaction of this provision with existing contractual 
+arrangements, and the practical scope of the remaining obligations under Chapter 
+VI, such as interoperability requirements. 
+ 
+  
+ 
+9 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+With respect to new Article 31(1a) DA -Draft, while the underlying legislative 
+intention is acknowledged, the provision is fundamentally flawed and should 
+therefore be removed. Although it is positive that the legislator recognizes the lack 
+of clear rules o n retroactive application of Chapter VI, the current drafting 
+exacerbates rather than resolves this issue. First, it fails to address retroactivity in a 
+general, proportionate and legally coherent manner, for example by introducing 
+appropriate transitional  periods comparable to those provided elsewhere in the 
+Data Act. Second, it introduces a new category of “custom -made services” that 
+conflicts with the definition of “data processing services” in Article 2(8) DA. As 
+currently formulated, this category woul d effectively neutralize the requirement of 
+minimal service provider interaction and thereby undermine the conceptual 
+coherence of the data processing services framework. If the genuine objective is to 
+address retroactivity, a more coherent and legally sound approach would be either 
+to exclude Chapters VI and VIII entirely from retroactive application, which would be 
+the preferred option, or alternatively to introduce a proportionate transitional regime 
+aligned with the existing mechanisms governing the ent ry into application of the 
+Data Act, in particular Article 50(5) and (6) DA. Either approach would be consistent 
+with the established jurisprudence of the European Court of Justice on retroactivity 
+and would preserve the integrity of the concept of data processing services. 
+More fundamentally, new Article 31(1a) DA-Draft does not mitigate the detrimental 
+impact of Chapters VI and VIII on European enterprise SaaS providers and entails a 
+significant risk of market disruption for European industry. In particular, the cloud 
+switching requirements as currently designed are not technically achievable for 
+complex B2B SaaS solutions. Without further correction, these provisions risk 
+undermining legal certainty, investment incentives and innovation within the 
+European digital ecosystem.  
+In this context, we welcome the exemption of “customer-specific” services from the 
+cloud switching rules for contracts concluded on or before 12 September 2025. This 
+approach is broadly consistent with the European Commission’s clarification in FAQ 
+58a, according to which Chapter VI applies only to data processing services that can 
+be provisioned, modified or released quickly, with minimal administrative effort and 
+minimal interaction by the service provider. By contrast, customized services 
+typically requi re extensive preparatory work by customers, lengthy contractual 
+negotiations and close technical coordination with service providers, followed by 
+individual technical adaptations. These characteristics render rapid provision or 
+switching infeasible. Importantly, the same considerations apply not only to existing 
+contracts but also to digital services based on contracts concluded after 12 
+September 2025. To ensure legal certainty, safeguard the pro -competitive 
+objectives of the Data Act and avoid unintended negative effects on European 
+innovation and enterprise SaaS providers, a coherent overall approach is required. 
+This approach should focus cloud switching and interoperability obligations on 
+technically feasible outcomes at the resource layer, clearly dist inguish between 
+ 
+  
+ 
+10 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+resource layer portability and application layer business logic, and avoid imposing 
+obligations that would necessitate bespoke re-engineering of complex application-
+layer processes. 
+• Data intermediation.  
+With respect to voluntary data intermediation, the shift toward a voluntary 
+registration and labelling system constitutes a fruitful change in the underlying 
+regulatory architecture.  
+In our view, this transition necessitates further clarification, particularly regarding (i) 
+the future reliability and credibility of the trust framework for data intermediation, 
+(ii) the implications of lowering organizational safeguards and protective 
+obligations, and (iii) the potential effects on competition and overall market 
+structure.  
+Without clear guidance on these points, there is a risk that the voluntary system may 
+create uneven incentives, foster uncertainty for compliant intermediaries, and 
+weaken the coherence and stability of the emerging European data ecosystem. 
+• Guidelines for compensation and cost orientation. 
+Telefonica calls for clear guidelines on (i ) the compensation for making the data 
+available under article 9, (ii) the fair compensation for making the data available 
+under article 20 and (iii) cost orientation for the switching charges under article 29.  
+Clear regulatory guidelines on the implementation of fair compensation and cost -
+oriented pricing obligations would enhance legal certainty and predictability for all 
+parties, while reducing the risk of disputes and inconsistent practices. By providing 
+a co mmon reference framework, such guidance can facilitate smoother 
+negotiations, lower transaction costs, and help avoid unnecessary conflicts, 
+without imposing rigid formulas or excessive administrative burdens. If designed as 
+a simple and flexible system, these guidelines would support compliance and trust 
+in the framework, rather than becoming a barrier to data sharing or an obstacle to 
+efficient and timely implementation. 
+• Further changes required. 
+ 
+With regard to the entry into application of the Data Act and its impact on existing 
+contractual relationships, there is an urgent need for clarification and adjustment, 
+in particular concerning the transitional provisions set out in Article 50 DA and the 
+issue of retroactive application. It should be clearly specified when each individual 
+obligation under Chapters VI to VIII becomes applicable, and proportionate, phased 
+transition periods should be introduced for existing deployments. In relation to 
+legacy contracts, it must be clarified whether the relevant obligations apply 
+exclusively t o contracts concluded after 12 September 2025, or, alternatively, a 
+clear and legally certain transitional regime should be established for pre -existing 
+ 
+  
+ 
+11 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+contracts, including renewals, extensions and material amendments.  Further 
+clarification is also required with respect to the interaction between the short 
+termination notice periods and switching windows provided for in Chapter VI. In 
+particular, the legislator should define how these timelines interrelate, ensure that 
+they are technically feasible in practice, and preserve an appropriate degree of 
+contractual freedom, including the possibility of justified extensions in the case of 
+complex migration scena rios. Moreover, in order to safeguard legitimate 
+expectations and avoid forced re-engineering of complex SaaS solutions, it should 
+be explicitly confirmed that Chapters VI to VIII do not apply retroactively to legacy 
+contracts concluded on or before 12 September 2025. Should full non-retroactivity 
+not be adopted, a transitional mechanism must be introduced that adequately 
+addresses these concerns. In addition, it should be clarified that harmonized 
+standards and common specifications developed under Chapters VI and VIII remain 
+voluntary instruments, providing a presumption of conformity where applied, but 
+not constituting mandatory requirements. The interpretation of Article 29(2) DA in 
+conjunction with Article 50 DA likewise requires further clarification to ensure legal 
+certainty. 
+With respect to the temporal scope of application of Chapters II and III 
+concerning access to data generated by connected products and related 
+services, the current regulatory framework entails significant implementation risks, 
+substantial retrofitting costs and considerable investment uncertainty for 
+manufacturers and data holders. In particular, the timeline for the application of the 
+direct access obligation under Article 3(1) DA, which is currently scheduled to apply 
+from September 2026, should be recon sidered. At that point in time, essential 
+interoperability and data format standards required for the effective implementation 
+of direct access are still under development and are not expected to be finalized 
+before the end of 2026 / beginning of 2027. 
+These standards are indispensable to enable the provision of data in a structured, 
+interoperable and scalable manner and to realize the intended economic and 
+societal benefits of the Data Act. At the same time, their implementation will 
+necessitate significant technical and organizational efforts by affected companies. 
+Requiring compliance with Article 3(1) DA before such standards are available 
+would be disproportionate and would significantly increase legal and operational 
+risks. Even following the public ation of the relevant standards, companies will 
+require an adequate transition period, estimated at approximately twelve months, 
+to assess, implement and operationalize them across their product portfolios and 
+data infrastructures. 
+Absent an adjustment of the applicability timeline, manufacturers may be 
+compelled to implement interim solutions and subsequently re -engineer their 
+systems once harmonized standards become available, resulting in duplicated 
+efforts, avoidable costs and in efficient use of resources. This risk persists even 
+where standards are formally non -binding, as they may nonetheless be 
+ 
+  
+ 
+12 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+incorporated into contractual requirements by customers or business partners. 
+Against this background, Telefónica recommends aligning the applicability of the 
+direct access obligation under Article 3(1) DA with the availability of the relevant 
+interoperability standards and providing for a sufficient implementation period 
+thereafter. A clearer sequencing of regulator y obligations and standardization 
+processes is essential to ensure legal certainty, proportionality and the effective 
+implementation of the Data Act. 
+1.2. Amendments to Regulation (EU) 2016/ 679 (GDPR) and 
+Directive 2002/58/EC (e-Privacy Directive). 
+1.2.1.  GDPR provisions:  
+ 
+• Definition of “Personal Data” (Article 4.1 GDPR). 
+Telefónica strongly welcomes the Commission’s proposal to revise Article 4(1) 
+GDPR and introduce a new Recital 27, finally incorporating the CJEU’s nuanced, 
+contextual approach to identifiability. The clarification that information  does not 
+constitute personal data for a controller who lacks  reasonably available  means 
+of identification and does not become personal data merely because another actor 
+may have such means,  represents a decisive step towa rd restoring legal certainty 
+and proportionality. Anchoring  the definition in  Breyer, Nowak and 
+the Scania/Endemol line of jurisprudence will significantly reduce 
+interpretative divergences across Member States and strengthen the role 
+of pseudonymisation as a foundational Privacy -Enhancing Technology, enabling 
+responsible data reuse, AI development, network  optimisation and cybersecurity 
+analytics while maintaining high protection standards.  
+However, to ensure that this reform delivers consistent and operational results, 
+Telefónica encourages the co -legislators to clarify several points 
+that remain uncertain in practice:  
+- Specify how the revised definition applies depending on the role of the recipient, 
+particularly distinguishing between controllers and processors . Regarding 
+such roles and relations between parties, Telefonica considers that when a data 
+controller makes available previously de-identified and/or pseudonymous data 
+to third parties not having reasonable like means to reidentify a data subject, 
+such sharing should not be considered as a sharing of personal data, neither 
+from the perspective of the originator no r from the recipient. Therefore, this 
+clarification should be introduced in the GDPR to avoid inconsistent 
+interpretation in the EU. 
+- Clarify how the “ reasonable expectations of the data subject ” should be 
+balanced against the controller’s actual ability to  identify an individual . 
+Current jurisprudence does not specify how these subjective expectations 
+ 
+  
+ 
+13 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+interact with the controller -specific test set out in  SRB and Scania, creating a 
+risk of inconsistent interpretations across the EU. Telefónica therefore considers 
+it essential to confirm that expectations alone 
+cannot render information personal where the controller has no reasonable 
+means of reidentification. In this regard, Telefonica considers that the concept 
+of “means reasonably likely” should be interpreted broadly and not only covering 
+the actual technical ability to identify a data subject, but also other factors such 
+as the existence of statutory or contractual obligations that prevent a given actor 
+from reidentifying a given data subject.   
+- Provide clarifications or examples that exclude specific non -identifiable 
+technical data from the definition of personal data . This clarification will 
+be very useful in the telecommunications sector  where operators routinely 
+process large volumes of purely functional identifiers, such as transient routing 
+parameters, or IP addresses exchanged during interconnection where only the 
+originating operator can associa te them with a subscriber. These data points 
+enable the provision,  optimisation and security of electronic communications 
+services but do not allow the operator to  identify any natural person, nor is 
+reidentification reasonably feasible given the absence o f auxiliary data and the 
+technical architecture of network operations.  
+• Use of Special Categories of Personal Data in AI Development 
+(Article 9.2 k) and Article 9.5 GDPR). 
+Telefónica welcomes the Commission’s proposal to introduce Articles 9.2 k), and 
+Article 9.5 GDPR, establishing a narrowly defined derogation that allows the limited 
+processing of special -category data when necessary for the development and 
+operation of AI systems and models under Article 3.1 of the AI Act. Modern AI 
+systems, particularly large-scale models, must be trained and tested on broad and 
+representative datasets to avoid bias, ensure fairness and prevent discriminatory 
+outputs. In many cases, this requires the ability to detect, control for, or 
+algorithmically mitigate the presence of sensitive attributes. Telefónica therefore 
+considers it appropriate that the incidental appearance of special -category 
+data, despite the controller’s adoption of effective technical and organisational 
+measures, should not automatically prohibit processing , provided that such 
+data are removed or rendered ineffective as soon as identified.  
+It should also be minded that the processing of special categories of data in the 
+context of artificial intelligence systems is specifically regulated under the AI Act 
+proposal. It is therefore essential to ensure proper coordination between both 
+legal frameworks and to avoid situations in which the same conduct could be 
+subject to parallel enforcement or sanctions under both the AI Act and the 
+GDPR, in accordance with the principles of legal certainty, proportionality and ne 
+bis in idem. 
+ 
+  
+ 
+14 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+Notwithstanding the above, Telefonica considers that article 9 derogations may be 
+too narrowly focused on AI Development and it may be better to introduce a broad 
+and future-proof derogation for general technological developments.  
+In this regard, Telefonica considers that fundamental reason for such derogations is 
+to balance the fundamental right to data protection with innovation.  
+However, whereas currently AI Development may be a main source of innovation or 
+technological development, that may not be the case in the future. In that situation 
+we may face again an outdated and unbalanced relationship between fundamental 
+rights and innovation which could have been easily addressed here.  
+• Processing biometric data for verification (Article 9.2 l) GDPR). 
+The Commission’s proposal to introduce a specific exemption allowing the 
+processing of biometric data strictly for identity verification  is strongly supported 
+by Telefónica.  This targeted clarification  constitutes a proportionate and much -
+needed adjustment to Article 9 GDPR. In practical terms, this amendment enables 
+the deployment of robust and privacy-preserving authentication solutions, such as 
+device-based biometrics or secure enrolment flows,  that enhance user security, 
+reduce fraud risk and support th e development of trusted digital services across 
+sectors including telecommunications.  
+In third regard, it should be noted that the current ePrivacy framework also impedes 
+and prevent the telecommunications sector from innovating and providing other 
+alternative identify verification solutions based on traffic data. Therefore, if such an 
+exemption is allowed for special categories of personal data, Tel efonica considers 
+that it must be also extended to much less challenging data categories, such as is 
+the case of traffic data.  
+• Right of access (Article 12.5 GDPR). 
+Telefónica supports the Commission’s proposed amendment to Article 12(5) 
+GDPR as a necessary and proportionate clarification, as it introduces a new and 
+explicit criterion enabling controllers to consider requests under Article 15 
+manifestly unfounded or excessive where the r ight of access is exercised for 
+purposes unrelated to the protection of personal data. Experience shows, however, 
+that in practice it is often difficult to  determine when a data subject is 
+pursuing objectives that are distinct from data  protection, leading to legal 
+uncertainty and divergent interpretations among controllers. For this reason, and in 
+order to  effectively complement the proposed amendment, Telefónica supports 
+the development of clear and practical guidelines to  assist controllers 
+in identifying and assessing such situations, thereby  facilitating consistent, 
+legally certain and proportionate application in line with the objectives of the GDPR. 
+• Exemption from information obligations (Article 13.4 GDPR). 
+ 
+  
+ 
+15 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+ The Commission’s proposal to expand the exemption in Article 13(4) GDPR is a 
+welcomed step, as it has the potential to reduce information fatigue for individuals 
+and streamline compliance efforts for  organizations. In many cases, repeatedly 
+providing information that the data subject already reasonably  possesses offers 
+limited added value, while  generating unnecessary friction and administrative 
+burden. The measure also aligns with a risk -based approach, ensuring that 
+transparency obligations correspond to the actual impact and sensitivity of the 
+processing. Telefónica therefore supports the inte ntion behind this proposal and 
+encourages the Commission to ensure that the final wording provides sufficient 
+clarity to allow controllers to rely on it confidently in a  harmonized and predictable 
+manner across the Union.  
+• Automated decision making (Article 22 GDPR). 
+The proposal’s clarification of the contractual -necessity condition is a welcome 
+improvement, as it confirms that controllers are not required to demonstrate that a 
+decision “could only” be taken through automated means in order to rely on Article 
+22.2. a) GDPR. This removes an interpretative rigidity that has generated 
+uncertainty for years and provides a more practical and  innovation-friendly 
+reading of the provision . At the same time, the requirement to choose the least 
+intrusive automated solution where several equally effective options exist ensures 
+that the proportionality principle is preserved.  
+• Data Breach notification (Article 33 GDPR). 
+Telefónica positively welcomes the Commission’s proposal to amend Article 33 
+GDPR, particularly the extension and rationalization of breach -notification 
+obligations. The current 72 -hour deadline has frequently proven operationally 
+challenging, especially in complex environments like telecommunications, where 
+the full scope, impact, and forensic details of a security incident cannot reasonably 
+be established within such a short timeframe.  
+Telefónica also strongly supports the incorporation of the principle that only 
+high-risk personal data breaches must be notified to supervisory authorities, as 
+this firmly anchors the GDPR’s breach -notification system in a genuine risk -based 
+approach and ensures that controllers and regulators can focus their attention and 
+resources on the breaches that actually pose a real risk to affected individuals. 
+We also encourage the Commission to extend this model of consolidation and 
+clarity to all categories of incidents covered by relevant digital legislation, as a 
+unified procedure would further enhance legal certainty, reduce duplicative effort, 
+and allow bu siness to allocate their resources more effectively toward resilience, 
+innovation and strategic development.  
+• Access to terminal equipment (Article 88a) GDPR). 
+ 
+  
+ 
+16 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+Telefónica support the introduction of Article 88a GDPR as a lex specialis  that 
+consolidates and clarifies the rules on accessing or storing personal data in 
+terminal equipment, replacing the fragmented regime previously governed by 
+ePrivacy Article 5(3) and establishing a more coherent, risk -based framework. 
+Additionally, the coexistence of the new Article 88a with the still -applicable 
+national transposition of ePrivacy Article 5 -3 creates a temporary dual 
+regulatory regime, generating uncertainty  as to which rule governs device -level 
+access during the transition period. For example, the current art. 5.3 framework still 
+applies to legal persons, although the technical solutions impacted may be shared 
+for both natural and legal persons. Regarding natural persons, the newly introduced 
+subparagraph in art. 5.3 may also generate inco nsistent interpretations across the 
+EU, particularly regarding what may be interpreted as “information […] leading to the 
+processing of personal data” . Therefore, we consider that a better approach 
+should be to derogate art. 5.3 and focus solely on natural persons.  
+Finally, we also consider that further exemptions should be included in art. 88a (3), 
+particularly exemptions to allow processing of personal data in terminal equipment 
+for anti-fraud and fraud prevention purposes (not only for security-related ones). In 
+that regard, it should be noted that art. 88a (3) introduces consent exemptions that 
+have been long requested by the electronic communication sector regarding traffic 
+data processing. In that regard, we consider that traffic data processing and storing 
+or accessing data from/to the terminal equipment should be treated equally and be 
+subject to the same consent exemptions. 
+Therefore, the same reasons to enable such consent exemption under art. 5.3/88 a 
+(3), should also be applicable under art. 5.1, 6 and 9 of the ePrivacy Directive.  
+Telefonica is concerned regarding the current regulatory tendency to implement a 
+different regulatory framework solely applicable to traffic data processing, whereas 
+other actors benefit from less strict rules under equivalent data categories. In that 
+regard, we consider that art. 88a should, at least, be extended as well to traffic data 
+to ensure that the EU telecommunications sector can remain competitive in order 
+to offer innovation solutions and services to their customers.  
+• Development and operation of AI systems based on legitimate 
+interest (Article 88c) GDPR). 
+Telefónica welcomes the Commission’s proposal to explicitly recognise  
+legitimate interest as a possible legal basis for the development and operation of AI 
+systems in Article 88c and its accompanying recitals. This clarification is both 
+necessary and timely, as it provides an important signal of legal certainty to support 
+responsible innovation and the development of AI technologies within the EU, while 
+remaining fully aligned with the principles of the GDPR.  By acknowledging that AI 
+development and deployment may, under appropriate conditions, rely on Article 
+6(1)(f) GDPR , the proposal contributes to a more realistic and innovation -friendly 
+application of the data protection framework.  
+ 
+  
+ 
+17 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+To ensure the effective and consistent application of this provision in practice, 
+Telefónica would support the development of complementary guidelines aimed at 
+assisting controllers in carrying out legitimate interest assessments in the context 
+of AI . In  particular, practical guidance on how to assess necessity, conduct 
+balancing tests, and implement appropriate safeguards in complex, large -
+scale and multi -phase AI development scenarios  would help controllers apply 
+Article 88c with greater clarity and legal certainty. 
+As stated above regarding art. 9, Telefonica considers that such legitimate interest 
+should be further extended to include any type of processing of personal data 
+performed to develop any type of technologies (not just AI), since the real nature 
+of such legitimate interest is to balance data protection rights with innovation.  
+Any approach solely focused on AI Develop carries the risk of not being future-proof, 
+and although currently AI Development may be an important source of innovation, 
+that may not be the case in the future. In that case we may face again an outdated 
+and unb alanced relationship between fundamental rights and innovation which 
+could have been easily addressed here.  
+• Risk-based approach in international data transfers. 
+After the “Schrems II” Decision, it has been demonstrated that is not practicable to 
+work with a lot of countries outside the EU/EEA. On top, huge workload and budget 
+needs to be spent to conduct transfer impact assessment where the legal 
+landscape and the rule of law in the country of choice needs to be assessed.  
+Furthermore, it blocks sub-processing of companies even with very high security 
+standards and absolute minimum access to personal data. If all possible security 
+measures are in place a transfer to / access from third countries should be possible.  
+Therefore, Telefónica considers it essential that the Digital Omnibus explicitly 
+incorporate a risk -based and proportionate approach to international data 
+transfers, extending the logic already embedded in other parts of the GDPR. Recent 
+practice by several Data Protection Authorities and the EDPB has resulted in an 
+overly rigid interpretation of Articles 44 –50, effectively precluding the use of 
+legitimate transfer t ools, such as Standard Contractual Clauses, by rejecting any 
+role for proportionality or con textual risk assessment, even in cases involving low -
+risk technical data. This stance is inconsistent with EU primary law, which requires 
+all regulatory action to respect the principle of proportionality (Article 5.4 TEU), the 
+balanced protection of fundam ental rights under the Charter, and the GDPR’s 
+recognition in Recital 4 and Article 24 that data protection must be applied in a risk-
+aware manner. Telefónica therefore believes that the current approach is legally 
+unsustainable and creates significant and  unnecessary barriers for European 
+companies operating globally. To restore legal certainty and ensure a coherent and 
+workable transfer framework, Telefónica proposes that the co-legislators introduce 
+a clarifying recital following Recital 108, such as a new Recital 108 bis, expressly 
+ 
+  
+ 
+18 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+confirming that controllers may rely on a proportionate, context-dependent risk 
+assessment when implementing transfer mechanisms under Chapter V . Such 
+clarification would reduce administrative burden, improve resource allocation and 
+better position EU industry to innovate and compete internationally, without 
+weakening the level of protection afforded to personal data. 
+ 
+ 
+• Scope and delimitation of special categories of personal data.  
+Telefónica considers that the proposal represents a missed opportunity to 
+introduce a clearer and more precise criterion linking special categories of 
+personal data directly to the nature of the data itself, that is, to data that explicitly 
+reveals sensitive attributes such as health, religion, political opinions or sexual 
+orientation.   
+In its current form, the continued inclusion of data that may indirectly relate to a 
+data subject, or that may merely allow the inference or deduction of special 
+categories of data, maintains a broad and indeterminate scope. This is particularly 
+problematic in the case of certain types of data, such as location or behavioural 
+data, which do not in themselves constitute special category data but may, under 
+certain circumstances, enable probabilistic inferences about health status, 
+religious beliefs or other sensitive characteristics. Processing such data as 
+equivalent to data that directly reveals special categories risks extending the 
+enhanced protection regime beyond what is strictly necessary and proportionate 
+under the GDPR.  
+Introducing an approach whereby special categories of personal data are limited to 
+data that, by their own nature, directly reveal sensitive attributes, and excluding data 
+that merely enables indirect or hypothetical inferences, would have contributed to 
+a more balanced and legally certain framework. 
+1.2. Amendments to the Directive 2002/58/EC (e-Privacy 
+Directive). 
+In general terms, the e -Privacy Directive represents an unnecessary and 
+disproportionate barrier to innovation in European digital services, especially when 
+compared to the GDPR framework. The e -Privacy imposes restrictions that hinder 
+the adoption of secu rity & anti -fraud measures and the implementation of 
+innovative services such as authentication APIs in initiatives like Open Gateway or 
+anti-spam filters. Furthermore, it fails to achieve either a level playing field or 
+technological neutrality, maintaini ng stricter rules solely for communications 
+providers than for other sectors. Telefonica advocates repealing the e -Privacy 
+framework as a whole and relying on  a horizontal privacy regulation that would 
+ 
+  
+ 
+19 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+foster innovation and better protect personal data. In the meantime, it proposes 
+issuing guidelines to address the immediate challenges faced by the industry. 
+• Access to terminal equipment (Article 5.3 e-Privacy Directive) 
+From Telefónica’s perspective, the Digital Omnibus confirms a long -standing 
+structural problem: the ePrivacy Directive is no longer fit for purpose  and 
+incremental fixes around Articles 5(3) and 88a/88b risk increasing complexity 
+instead of delivering a coherent, modern framework.  
+Even though there is the ambition to include regulations from the ePrivacy Directive 
+into the GDPR, a fragmentation of privacy laws remains (in contrary to the ambition 
+to have only one Data Act). If e -Privacy Directive principles shall remain, further 
+harmonisation of Article 5.3 e -Privacy Directive, and Article 88a GDPR would be 
+required as previously explained (personal data vs. information; only end devices of 
+natural persons covered so far).  
+In any case, t here are several converging reasons why  repeal of ePrivacy, with 
+integration of its core protections into a unified legislative instrument, is the more 
+rational option:  
+• ePrivacy is technologically outdated and structurally misaligned with 
+the current EU digital acquis, a fact that has been confirmed by the 
+former Working Party 29.  
+- It was conceived for a 2002 environment of linear communications and basic 
+terminal equipment, and cannot natively accommodate today’s multi-channel, 
+cross-platform, cloud -based and AI -driven communication models. In the 
+meantime, the GDPR, the Digital Ser vices Act, the Data Act and the AI Act have 
+created a horizontal, risk-based architecture that is far better suited to regulating 
+data and digital services. Keeping  ePrivacy alongside this modern layer 
+perpetuates a dual regime that is conceptually inconsi stent and difficult 
+to operate. Instead of solving this issue, the recent approach has been to neither 
+derogate nor modify the ePrivacy Directive (leading to EC’s decision to withdraw 
+the ePrivacy Regulation proposal) but rather introduce narrow derogations and 
+exemptions by means of other acts and legislative measures (CSAM, eEvidence, 
+art. 88a, PSD3, etc.) . This approach is no longer sustainable, and it is actually 
+impeding the EU telco sector from competing and offering solutions that could 
+address EU citizen problems, such as anti-spam filters, cyber thread defense or 
+anti-fraud measures. This also leads to regulatory fragmentation, since many EU 
+Member States have to pass national legislative acts to address such problems 
+(e.g., irregular traffic laws, calling identification and call blocking regulations..) 
+- ePrivacy’s device-access logic is being partially “rewired” into the GDPR 
+anyway, but in a way that increases legal fragmentation. The Digital Omnibus 
+introduces Article 88a GDPR as  a lex  specialis for access to and storage 
+of personal data  in terminal equipment, while a residual Article 5 .3 of the e-
+ 
+  
+ 
+20 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+Privacy remains for non-personal data. This produces an inverted and counter -
+intuitive situation: a more permissive, risk -based GDPR regime applies to 
+personal data, while the stricter, old  article 5.3 ePrivacy logic survives 
+for non-personal data . This creates awkward borderline cases (e.g.  fraud 
+prevention, A/B testing, processor -based analytics , etc. ) and  risks narrowing 
+or destabilising national exceptions that had been accepted under the 
+current e-Privacy interpretation. Instead of simplifying, the coexistence of 
+Article 88a and  truncated Article 5 .3 multiplies interpretative questions 
+and enforcement uncertainty. Likewise, the more permissive and risk -based 
+GDPR approach is solely implemented in relation to  the processing of personal 
+data in the terminal of natural persons, but not in relation to traffic data, although 
+both processing was regulated similarly under the ePrivacy Directive. This leads 
+to the EU telco sector being the only sector still subject t o the more restrictive 
+and unfair approach set out the ePrivacy Directive and cannot benefit from the 
+simplification efforts pretended by the European Commission.  
+- Third, there remains a risk of fragmentation during the transitional period : 
+Article 5(3) remains fully operational in national laws until amended, while 
+Article 88a will apply directly under the GDPR, potentially exposing controllers 
+to overlapping or contradictory obligations. 
+1.3. Single-Entry Point (SEP) for Incident Reporting (Articles 3 (8), 
+5 to 9 and 11 of the Digital Omnibus proposal) 
+Through Articles  3 (8) , 5 to 9  and 11 , the Digital Omnibus Regulation 2025/0360 
+introduces a proposal for a single-entry point at European level  through which 
+entities would be able to fulfil their incident-reporting obligations under multiple 
+legal acts (GDPR (EU) 2016/679; NIS2 (EU) 2022/2555; eIDAS (EU) 910/2014; DORA 
+(EU) 2022/2554 ; CER (EU) 2022/2557 ). Based on the “report once, share many” 
+principle, this single-entry point is intended to reduce the administrative burden 
+while ensuring the effective and secure flow of information on security incidents to 
+the existing recipients designated under the respective legislation. 
+The proposal requires ENISA to develop the European single entry point, taking into 
+account the vulnerability reporting platform established under Regulation (EU) 
+2024/2847 (CRA), and to implement appropriate technical, operational, and 
+organisational meas ures to manage risks, while ensuring interoperability and 
+compatibility with the European Business Wallets, which are expected to be rolled 
+out in late 2026 and must be accepted by regulated industries by December 2027 
+pursuant to Regulation (EU) 2024/1183 (eIDAS2).  
+It mandates the development of common templates for each relevant act, to be 
+defined within 9 months by means of implementing acts. The proposal further 
+provides that the platform and the pilot phases shall apply 18 months after the 
+Regulation’s entry into  force and, irrespective of whether the platform ensures 
+ 
+  
+ 
+21 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+proper functioning, reliability, integrity, or confidentiality, shall in any event apply no 
+later than 24 months thereafter. 
+• On the single-entry point (SEP) for incident reporting 
+Telefónica has been asking for a single-entry point (SEP) at national level for incident 
+reporting (“report once, share many”) and welcomes the Commission’s initiative, 
+as this measure has the potential to streamline compliance, if done correctly.    
+However, we consider that, where such a mechanism exists at national level, the 
+initial operational notification and coordination should remain anchored 
+nationally, considering the practical realities of incident management and security. 
+These include confidentiality and integrity requirements, nationally anchored risk 
+management frameworks, the sensitivity of the data involved, language 
+considerations, the need to ensure platform availability and clear liability 
+arrangements, the existence of secondary not ification or consultation channels, 
+and the relatively limited number of genuinely multinational incidents. As provided 
+for under the CRA, a mechanism could be envisaged enabling stakeholders to report 
+incidents affecting multiple locations via the nationa l single entry -point, which 
+would subsequently relay them to a European platform and to the competent 
+authorities of other Member States. 
+Where a national single-entry point does not exist, the European platform could, 
+at the Member State’s discretion, serve national CSIRTs and competent authorities 
+where a Member State chooses not to establish its own single-entry point; however, 
+this would require carefully designed safeguards. 
+Above all, preventing duplication in incident reporting and management at 
+national and European levels is essential, as any overlap or duplication would 
+compromise the core objective of streamlining and simplifying the incident 
+reporting process. Where a national entry point is in place, it could remain the 
+preferred solution. 
+• On harmonising templates and procedural standards at EU level 
+Each law (or even national adaptation) regime applies different definitions, 
+timelines, granularity and recipients. While the Digital Omnibus aims to preserve 
+the underlying legal obligations, the operational impact is non -trivial: a single 
+interface cannot reduce inherent legal complexity unle ss (a) guidance is 
+harmonised, and (b) templates and taxonomies become truly interoperable  
+between acts . Otherwise, the single entry -point risks becoming an additional 
+process step for fragmented requirements rather than a simplification mechanism. 
+It will therefore be essential to harmonise incident definitions and reporting 
+thresholds across all relevant acts -ensuring that they are operationally applicable, 
+proportionate, and risk and cost based - before putting in place the single -entry 
+point. In developing the templates, it will be crucial to take into account the views 
+ 
+  
+ 
+22 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+of stakeholders responsible for reporting incidents and to ensure interoperability 
+across legislative acts, in order to avoid duplicative reporting of almost the same 
+information under slightly different approaches. 
+A key challenge will be addressing additional or divergent national perspectives, 
+including in the context of repealing or withdrawing existing directives or articles. 
+The European Commission should ensure that national legislation transposing 
+Union law (s uch as NIS2, CER, and ePrivacy) effectively repeals overlapping 
+sector-specific provisions in national laws,  including those implementing 
+Articles 40 and 41 of the EECC, as well as any other national requirements relating 
+to quality or resilience. To this end, the EU should provide formal guidance, require 
+a risk and cost–benefit analysis for any provisions proposed to be retained or newly 
+introduced at national level, and publish a roadmap with clear timelines to achieve 
+simplification, rationalisation of overlaps, and the reduction of duplicative reporting 
+or disproportionate obligations. 
+We welcome the proposed withdrawal, in Article 5, of Article 4 of Directive 
+2002/58/EC (ePrivacy) relating to incident reporting, as such reporting is already 
+covered under GDPR or NIS2. However, as previously mentioned, we consider that 
+the ePrivacy Directive should be repealed in its entirety. Maintaining the directive 
+perpetuates sector -specific obligations that apply only to telecommunications 
+providers, in parallel with the GDPR, even as provisions on cookies are revised and 
+transferred into the GDPR f ramework. Repealing the Directive, would represent a 
+more coherent and future-proof approach. 
+And, as previously noted, with regard to Article 3(8) and the proposed amendment 
+to Article 33 of GDPR, Telefónica welcomes the Commission’s proposal, in 
+particular the extension of the notification deadline to 96 hours and the 
+rationalisation of breach -notification obligations. The current 72 -hour deadline 
+has often proven operationally challenging. Telefónica also strongly supports 
+limiting notifications to personal data breaches that pose a high -risk to data 
+subjects, thereby reinforcing a genuinely risk -based approach and allowing both 
+controllers and supervisory authorities to focus resources on the most significant 
+incidents.  
+More broadly, we encourage the Commission to extend this risk-based approach to 
+all relevant digital legislation, to enhance legal certainty, reduce duplicative or non-
+relevant reporting, and enable businesses to focus resources on resilience, 
+innovation, and strategic development. 
+In summary, a single-entry point will deliver real simplification if incident definitions, 
+thresholds, guidance, and templates are harmonised, interoperable, and genuinely 
+risk and cost-based across all relevant EU acts and national transpositions or laws. 
+The Commission should ensure the removal of overlapping national and sectoral 
+obligations, provide clear guidance and a roadmap, and extend a consolidated, risk-
+ 
+  
+ 
+23 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+based notification approach  across the digital acquis to reduce duplication and 
+improve legal certainty. 
+• On timelines and resources. 
+The proposed timelines appear overly ambitious and difficult to achieve. This is not 
+the first time that legislation has set ambitious deadlines that later prove unrealistic. 
+The proposal would therefore benefit from incorporating flexibility to allow for 
+possible delays, without requiring the adoption of a separate legislative act to 
+amend it.  
+In this regard, it is surprising that the development of the platform and the 
+completion of pilot phases are envisaged within a timeframe of less than 18 months, 
+while nine months are allocated for the development of templates  (which could 
+come later), and the potential use of European Business Wallets is considered, even 
+though many are unlikely to be fully operational before well into 2027. 
+Moreover, ENISA’s already limited resources would need to be substantially 
+increased to assume this new responsibility - not only to develop and propose 
+coherent templates for each legislative act, but also to establish and secure the 
+platform, and to ensu re its 24/7 accessibility in multiple languages, including 
+handling accessibility-related incidents and inquiries. The European Commission 
+estimates that “ maintaining the single -entry point would require 8 FTEs within 
+ENISA”1 which seems inadequate given the need to support all Member States, five 
+legal acts, 24 languages, and the numerous authorities and stakeholders across the 
+EU. 
+Again, it is essential to provide stakeholders with certainty on timelines, 
+assurances regarding operational reliability and confidentiality -where trust is 
+fundamental- and mechanisms that prevent duplicative notifications across 
+multiple platforms or channels, including during pilot phases. 
+• On the Implementation of the Single -Entry Point (SEP): key 
+considerations. 
+In addition to the previous comments - particularly regarding timelines and the need 
+to avoid duplicative incident reporting - the implementation of the Single-entry point 
+requires: 
+• Ensure harmonisation of incident definitions, thresholds, and scopes, as well 
+as streamlined and coherent reporting across all applicable acts . There is 
+misalignment of impact metrics and definitions: “Service degradation, ” 
+“availability loss, ” “breach of confidentiality, ” and “critical service interruption” 
+are assessed differently across regimes. Enterprises will need unified internal 
+ 
+1 https://www.telefonica.com/en/communication-room/blog/regulatory-simplification-digital-omnibus-package-step/ 
+ 
+  
+ 
+24 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+classification models to avoid inconsistent filings. (E.g. "Significant incidents" in 
+NIS2, whereas CRA is about "actively exploited vulnerabilities”) 
+There could be h igh volume of security signals and cross -dependency of 
+services triggering several sector -specific reporting duties (e.g. Electricity 
+outage may lead to reporting of communications for outage of network). A single 
+entry-point must avoid duplicated reporting while still allowing sector 
+authorities to parse out relevant information. 
+• Provide multilingual instructions and templates and ensure dedicated 
+support for platform access issues.  Templates should be made available for 
+download. 
+• Ensure full legal clarity regarding liability and the evidentiary value  of 
+platform-generated confirmations , including an acknowledgment (ACK) 
+receipt to the notifying entity confirming that the competent authority has 
+received and processed the information. In short there should be: 
+• Audit trail integrity : entities must obtain legally reliable, timestamped 
+confirmation that each relevant authority has received the report 
+• Liability allocation : If the entry -point fails, delays forwarding, or 
+misroutes a report, the entity must not be held liable for late or 
+incomplete notification 
+• Versioning and corrections: multi-regime updates (initial, intermediate, 
+final reports) must be traceable and non-redundant 
+• Establish operational SLAs for ENISA , reflecting the criticality of the reporting 
+workflow for regulated entities. 
+• Mandate a secure, audit -proof API  as a core requirement, not an optional 
+enhancement. 
+• Provide checkboxes to streamline reporting to different authorities or countries 
+(in case), with language options to be assessed on international reporting. 
+• Ensure strict confidentiality controls  -including who can access information 
+and when -and implement sector -grade sensitivity classification within the 
+platform. The proposal makes ENISA a central processor of multi -regime 
+incident data. Expectations around handling trade secrets, network topology 
+information, and security-relevant internal logs must be explicitly clarified. The 
+current draft does not detail access  controls at a level sufficient for highly 
+sensitive sectors.  
+• Publish national routing rules  to ensure transparency regarding which 
+authority receives which information . Information must be protected and 
+shared only with the entities (and their authorised representatives) to which 
+ 
+  
+ 
+25 
+ 
+*** Clasificado CORPORATIVO por TELEFÓNICA. *** Classified CORPORATE by TELEFÓNICA. 
+*** Classificado como CORPORATIVO pela TELEFÓNICA. *** Von TELEFÓNICA als UNTERNEHMENSINTERN eingestuft. 
+reports were submitted . The proposal lacks clarity regarding the scope of 
+information to which ENISA would have access. 
+• Ensure verification of the reporting entity’s identity  through certificates or 
+other technical means that safeguard against identity spoofing and protect 
+message integrity, while allowing operational flexibility. When using Business 
+Wallets, validated wallets already in place should be prioritised, so that entities 
+are not required to implement new mechanisms at critical moments. 
+• Alternative means : Provide publicly available and operational alternative 
+reporting channels for use when the platform is unavailable or inaccessible, 
+using the same templates, which should be downloadable. 
+In summary, e ffective implementation of the Single-Entry Point requires prior 
+streamlining of incident definitions, thresholds, and reporting scopes across acts to 
+prevent duplication and inconsistent filings, while enabling sector authorities to 
+access relevant information. The SEP must also ensure legal certa inty, 
+confidentiality, operational reliability, multilingual support, clear liability rules, 
+secure and auditable technical mechanisms, and resilient fallback channels to 
+function as a true simplification tool rather than an added compliance layer. 
+ 
+ 

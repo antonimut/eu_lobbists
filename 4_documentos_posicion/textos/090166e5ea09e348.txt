@@ -1,0 +1,2201 @@
+ 
+ 
+  
+ 
+EUROPEAN COMMITTEE FOR STANDARDIZATION  
+COMITÉ EUROPÉEN DE NORMALISATIO N  
+EUROPÄISCHES KOMITEE FÜR NORMUN G  
+ 
+ 
+CEN-CENELEC Management Centre:  Rue de la Science 23,  B-1040 Brussels 
+© 2019 CEN All rights of exploitation in any form and by any means reserved worldwide for CEN national Members. 
+ 
+ 
+Ref. No.:CWA 17493:2019 E 
+CEN  
+WORKSHOP  
+AGREEMENT 
+ 
+  
+ CWA 17493 
+ 
+ December 2019 
+  
+  
+ICS 01.140.40 
+English version 
+ 
+ Journalism Trust Initiative  
+This CEN Workshop Agreement has been drafted and approved by a Workshop of representatives of interested parties, the 
+constitution of which is indicated in the foreword of this Workshop Agreement. 
+ 
+The formal process followed by the Workshop in the development of this Workshop Agreement has been endorsed by the 
+National Members of CEN but neither the National Members of CEN nor the CEN-CENELEC Management Centre can be held 
+accountable for the technical content of this CEN Workshop Agreement or possible conflicts with standards or legislation. 
+ 
+This CEN Workshop Agreement can in no way be held as being an official standard developed by CEN and its Members. 
+ 
+This CEN Workshop Agreement is publicly available as a reference document from the CEN Members National Standard Bodies. 
+ 
+CEN members are the national standards bodies of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, 
+Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Republic of North 
+Macedonia, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey and United Kingdom. 
+ 
+Ref. Ares(2022)2124794 - 23/03/2022
+CWA 17493:2019 (E) 
+ 
+ 
+2 
+Foreword 
+CWA 17493:2019 Journalism Trust Initiative was developed in accordance with CEN -CENELEC Guide 29 
+“CEN/CENELEC Workshop Agreements – The way to rapid agreement” and with the relevant provisions of 
+CEN/CENELEC Internal Regu lations - Part 2. It was agreed on 2019 -11-22 in a Workshop by 
+representatives of interested parties, approved and supported by CEN following a public call for 
+participation made on 2018-04-26. It does not necessarily reflect the views of all stakeholders that might 
+have an interest in its subject matter.  
+ 
+The final text of CWA 17493 was submitted to CEN for publication on 2019-12-10, following its adoption 
+on 2019-11-22 at the 4 th and final workshop plenary meeting. The following organizations and experts 
+registered as participants and contributed to the development of this document. 
+ 
+• AFNOR LANNOY Fanny 
+• AFP- AGENCE FRANCE PRESSE RAYNAUD Anne 
+• AGENCIA EFE GARCIA Desirée 
+• AGENCIA EFE PONS Rosario 
+• AGENCIA EFE RUBIO Enrique 
+• ANEC GIOVANNINI Chiara 
+• ARTICLE 19 DOCQUIR Pierre-François 
+• ASSOCIATION OF JOURNALISTS OF SERBIA BAZDULJ Muharem 
+• ATHENSLIVE MORFIS Anastasios 
+• ATJ - ASSOCIATION OF TAIWAN JOURNALISTS CHEN Ian 
+• AUTORITA PER LE GARANZIE NELLE COMUNICAZIONI DELMASTRO Marco 
+• BBC NEWS MONTGOMERY James 
+• BOOKS POSTEL-VINAY Olivier 
+• BROADCASTING COMMISSION GREEN Cordel 
+• CENTER FOR INTERNATIONAL MEDIA ASSISTANCE NELSON Mark 
+• CENTER FOR MEDIA DATA AND SOCIETY DRAGOMIR Marius 
+• CIVIL MEDIA SCHILLER Vivian 
+• COPEAM CAPPON Claudio 
+• CRAIG NEWMARK GRADUATE SCHOOL OF JOURNALISM JARVIS Jeff 
+• CREDIBILITY COHALITION SEHAT Connie Moon 
+• CSA - CONSEIL SUPERIEUR DE L'AUDIOVISUEL MICHEL Anne 
+• CSA - CONSEIL SUPERIEUR DE L'AUDIOVISUEL MIGNET Fabien 
+• DER TAGESSPEGEL - INVESTIGATE EUROPE SIMANTKE Elisa 
+• DISINFORMATION INDEX LTD FAGAN Craig 
+• DISINFORMATION INDEX LTD MELFORD Clare 
+• DISINFORMATION INDEX LTD MOUSAVIZADEH Alexandra 
+• DISINFORMATION INDEX LTD ROGERS Danny 
+• DISTRIPRESS JONES Tracy 
+• DISTRIPRESS NEVEJANS Carine 
+• DUTCH ASSOCIATION JOURNALISTS BRUNING Thomas 
+• ECONOMEDIA JSCO PROKOPIEV Ivo 
+• EMBASSY OF THE RUSSIAN FEDERATION IN France DEMURIN Dimitri 
+• ESTONIAN ASSOCIATION OF JOURNALISTS TIIKMAA Helle 
+• ETHICAL JOURNALISM NETWORK WHITE Aidan 
+• EUROPEAN BROADCASTING UNION (EBU) KURCZABINSKA Justyna 
+• EUROPEAN BROADCASTING UNION (EBU) MULHALL Edward 
+• EUROPEAN UNIVERSITY INSTITUTE LUCA Stefan 
+• FACEBOOK BAIN Julia 
+• FEDERAL GOVERNMENT COMMISSIONER FOR CULTURE AND THE MEDIA BRAUN Luisa 
+CWA 17493:2019 (E) 
+ 
+ 
+3 
+• FEDERAL GOVERNMENT COMMISSIONER FOR CULTURE AND THE MEDIA HENTSCHEL 
+Kristin 
+• FONDATION HIRONDELLE VUILLEMIN Caroline 
+• FOREIGN DESK LTD SPELLIUS Alex 
+• FOUNDATION RADOSTINA KONSTANTINOVA RIZOVA Luba 
+• FRANCE TELEVISIONS  BRUSINI Herve 
+• FREE PRESS UNLIMITED VISSER Maarten 
+• FREE PRESS UNLIMITED WIJKSTRA Evelien 
+• GAZETA WYBORCZA SOBCZAK Aleksandra 
+• GESTE - GROUPEMENT EDITEURS SERVICES EN LIGNE DE LATAILLADE Laure 
+• GESTE - GROUPEMENT EDITEURS SERVICES EN LIGNE DELAHAIE Amelien 
+• GLOBAL FORUM FOR MEDIA DEVELOPMENT HAMMER Anne-Marie 
+• GOOGLE FRANCE DIEUDONNE David 
+• HAWKEWORKS LLC HAWKE Sandro 
+• IMPRESS HEAWOOD Jonathan 
+• INDEPENDENT PRESS STANDARDS ORGANISATION URWIN Charlotte 
+• INTERNEWS BRUCE Daniel 
+• INTERNEWS GIACOBINO Laurent 
+• INTERNEWS PARKYN Rosie 
+• IPI - INTERNATIONAL PRESS INSTITUTE GRIFFEN Scott 
+• JOURNALISTS ASSOCIATION OF KOREA DONGKI Kim 
+• JOURNALISTS ASSOCIATION OF KOREA JUNG Kyu Sung 
+• JOURNALISTS ASSOCIATION OF KOREA LIM Hyunwoo 
+• JOURNALISTS ASSOCIATION OF KOREA SIWOO Lee 
+• LINE TAIWAN LIMITED HSU Crystal 
+• LOGICALLY JAIN Lyric 
+• MEEDAN  AN Mina 
+• MEEDAN  BICE Ed 
+• MEEDAN  LEE Jennifer 
+• METAMORPHOSIS JASHARI Bardhyl 
+• NEVA LABS CREEVY Shane 
+• NEWSGUARD TECHNOLOGIES HARLING Anna-Sophie 
+• NORSK RIKSKRINGKASTING KALBAKK Per Arne 
+• PRESSPASS PILHOFER Aron 
+• PUBLICO CABELLO Luisa 
+• PUBLICO PEREZ ALONSO Virginia 
+• REPORTERS SANS FRONTIERES DELOIRE Christophe 
+• REPORTERS SANS FRONTIERES STEENFADT Olaf 
+• RESPECT ZONE COEN Philippe 
+• RESPECT ZONE DOUKA-PETSOPOULOU Christina 
+• RESPECT ZONE MAUSS Laura-Blu 
+• ROG - REPORTER OHNE GRENZEN KRETSCHMER Lisa-Maria 
+• ROG - REPORTER OHNE GRENZEN MOSSBRUCKER Daniel 
+• RSF EAST ASIA TANG Hsiang-yi 
+• RSF SWEDEN BARKMAN Clas 
+• RT - RUSSIA TODAY BELKINA Anna 
+• RT FRANCE BONNET Jerome 
+• RT FRANCE BUSHINA Diana 
+• RT FRANCE RUBLEVA Ekatarina 
+• RTL GROUP EVANS Mark 
+• RTP - RADIO TELEVISION PORTUGAISE DENTINHO Paulo 
+• RTP - RADIO TELEVISION PORTUGAISE GONCALVES Vitor 
+• RTP - RADIO TELEVISION PORTUGAISE LOPES DE ARAUJO Jose 
+CWA 17493:2019 (E) 
+ 
+ 
+4 
+• RTP - RADIO TELEVISION PORTUGAISE RAMOS Joao 
+• RTP - RADIO TELEVISION PORTUGAISE SALGUEIRO Rosario 
+• RTP - RADIO TELEVISION PORTUGAISE TEIXEIRA Antonio Jose 
+• RTP - RADIO TELEVISION PORTUGAISE VAZ Luisa 
+• RTS - RADIO TELEVISION SUISSE CRETTENAND André 
+• RTS - RADIO TELEVISION SUISSE MATTER Virginie 
+• SAM - SOCIAL ASSET MANAGEMENT TIERNEY Louise 
+• SCOTT YATES YATES Scott 
+• SOCIETY OF PROFESSIONAL JOURNALISTS TARQUINIO Alex 
+• SWI BECHTEL Dale 
+• SYNPICS KASSE Ahmadou Bamba 
+• TAMEDIA PLATTNER Titus 
+• THE ASSOCIATED PRESS CHARLTON Angela 
+• THE CANADIAN JOURNALISM FOUNDATION CORMIER Michel 
+• THE FOUNDATION OF EXCELLENT JOURNALISM AWARD CHIU Eve 
+• THE GUARDIAN FOUNDATION FOGE JENSEN Kirstine 
+• THE SWISS PRESS COUNCIL BUHRER Michel 
+• THE THOMSON FOUNDATION EL NAGAR Hosam 
+• THE THOMSON FOUNDATION KELLY Deborah 
+• THE WHOLE STORY PUBLICATIONS SA XENAKIS Dimitris 
+• TT NYHETSBYRAN AHLKVIST Pontus 
+• UNI MOCCHIO Elena 
+• UNIVERSITE PARIS 7 DIDEROT BRONNER Gerald 
+• UNIVERSITY OF LINCOLN WILSON DAVID Deborah 
+• USAGM - US AGENCY FOR GLOBAL MEDIA POWERS Shawn 
+• WIKIMEDIA DIMITROV Dimitar 
+• YOUARHERE QUESTER-SEMEON Sacha 
+   
+ 
+OBSERVERS: 
+ 
+• UNESCO LUKOSIUNAS Marius 
+• UNESCO HULIN Adeline 
+• COUNCIL OF EUROPE UMEK Urška  
+ 
+It is possible that some elements of CWA 17493 Journalism Trust Initiative may be subject to patent rights. 
+The CEN -CENELEC policy on patent rights is set out in CEN -CENELEC Guide 8 “Guidelines for 
+Implementation of the Common IPR Policy on Patents (and other statutory intellectual property rights 
+based on inventions)”. CEN shall not be held responsible for identifying any or all such patent rights.  
+ 
+The Workshop participants have made every effort to ensure the reliability and accuracy of the technical 
+and non-technical content of CWA 17493 Journalism Trust Initiative, but this does not guarantee, either 
+explicitly or implicitly, its correctness. Users of CWA 17493 Journalism Trust Initiative should be aware 
+that neither the Workshop participants, nor CEN can be held liable for damages or losses of an y kind 
+whatsoever which may arise from its application. Users of CWA 17493 Journalism Trust Initiative do so on 
+their own responsibility and at their own risk. 
+  
+CWA 17493:2019 (E) 
+ 
+ 
+5 
+I. Introduction 
+Quoted from the approved JTI Project Plan: 
+ 
+The ultimate goal of the “Journalism Trust Initiative” (JTI) is to support the universal, individual 
+freedom of opinion through access to information and independent, pluralistic media. By 
+safeguarding professional standards, a healthier digital media landscape should emerge, from 
+which each citizen and media worker, but also societies at large, could benefit. 
+In our digital age, it has become increasingly difficult to distinguish information shaped by vested 
+interests from that produced by independent and fair news professionals. An open and honest 
+public debate, aimed at informing the general public, is more and more difficult to sustain, 
+especially when propaganda and ‘fake news’ seem on the rise and trust in institutions and the 
+media is declining. 
+To face those challenges, in line with the fight for freedom of information, this Initiative aims at 
+concretely enhancing and safeguarding journalism worthy of this name, complying with ethical 
+rules, approved journalistic methods, and guarantees of independence. In a context of growing 
+distrust towards the media, we consider it important to set up a transparent framework to 
+promote principles of ethical journalism, both to provide guidance to the public and to encourage 
+news providers to raise their professional norms and practices. 
+We put the term “trust” at the centre of JTI because it signifies the level of credibility that 
+journalism enjoys – or the lack thereof. This trust has of course to be earned. Journalists work in 
+the public interest only if they act as “trusted third parties,” spreading information that enables 
+people to be aware of, and fully comprehend, the challenges they face in their environment, and to 
+form their own opinion. 
+Trust is deeply intertwined with transparency, responsibility, and accountability. 
+We believe in self-regulation of journalism, which requires agreed norms, standards or 
+equivalents that function as a verifiable set of rules and benchmarks, and that define the best 
+practice of our profession. This is what JTI aims to provide. 
+ 
+It also means implementation through tangible benefits to incentivise compliance.  
+CWA 17493:2019 (E) 
+ 
+ 
+6 
+II. Preamble 
+This introductory declaration reflects the spirit and philosophy upon which the document was 
+drafted by the consensus of a broad coalition of media companies, professional bodies and media 
+development organisations. In this preamble the authors and stakeholders of the process wish to 
+express their mutual understanding of the ethical dimension of journalistic activity as follows in this 
+preamble.  
+Acknowledging the fact that values are not always objectively measurable, it is considered even 
+more important to state them clearly. 
+Wherever possible, these principles are further detailed and translated into verifiable criteria in The 
+Standard found in Chapter V. 
+Compliance with this CEN Workshop Agreement requires a pledge and an explicit commitment to 
+both the principles outlined in the following preamble and to the Standard that implements them.  
+ 
+Declaration on Ethical and Professional Journalism 
+We define Journalism as the gathering, production and dissemination of information in a 
+framework of ethical values. Its purpose is to provide citizens with information that 
+empowers them to fully participate in society. 
+Acts of journalism may be performed by individuals or collectively organised through news 
+media. 
+We commit ourselves to four primary indicators of ethical quality in journalistic work: 
+ethical practice in editorial activity; good governance in the ownership and management of 
+news media; respect for principles of self-regulation and active engagement with the public. 
+ 
+A. Ethical Practice 
+We practice journalism according to the following key principles:  
+• Accuracy and fact-based communication; 
+• Independence from political, corporate or other centres of power; 
+• Due impartiality in a systematic approach to reporting and editing; 
+• Fairness, respect and consideration of the impact of journalism on the lives of others; 
+• Transparency to facilitate accountability and responsibility to the public.  
+We implement these principles through a code of conduct or mission statement, enhanced 
+through Editorial Guidelines, which provide practical guidance on ethical challenges that 
+might arise.  
+B. Good Governance 
+We strive to reflect high levels of good governance that protect editorial independence by 
+showing transparency of ownership and management, whether public or private. 
+We demonstrate commitment to recognised and essential principles of internal transparency 
+and accountability to the public.  
+We agree that good governance, which includes respect for recognised norms of human 
+rights, equality, and contractual obligations, may be identified and monitored through 
+periodic reflection and auditing of internal systems and rules designed to strengthen ethics 
+and management of Media Outlets. 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+7 
+C. Self-regulation 
+We work to develop systems to strengthen awareness of core values of editorial practice 
+through codes of conduct and editorial ethical guidelines. We also work to provide 
+mechanisms for internal self-regulation, including dealing with complaints and comments 
+from the public through the appointment of readers’ editors or ombudspersons or a 
+designated editorial manager. We further demonstrate respect for self-regulation through 
+attachment to industry-wide or national bodies, for example press councils or press 
+associations, established to promote ethical journalism and to deal with complaints from the 
+public. 
+ 
+D. Engagement with the Public 
+Building public trust in journalism requires active engagement with the public at large. We 
+provide opportunities for our audience to comment, to respond, and to suggest 
+improvements to the editorial process. We implement accessible and transparent systems to 
+deal with complaints from the public and, where appropriate, to provide remedies. 
+  
+CWA 17493:2019 (E) 
+ 
+ 
+8 
+III. The Scope 
+The JTI Standard that begin below in Chapter V have two main sections: “Identity and 
+Transparency” [Section A] and “Professionalism and Accountability” [Section B]. 
+This chapter describes those two sections. 
+ 
+A. Identity and Transparency 
+The first section (A) has been drafted to define standards of “Identity and Transparency”. 
+The JTI promotes the disclosure of information regarding: 
+• The persons or organisations involved in the activity of the media (“Identity”); 
+• Owners who control the media and the sources of revenue (“Transparency”). 
+It could be understood as “Tell us who you are”. The more transparent news Media 
+Outlets are about their direct and/or indirect ownership, the more trustworthy they are 
+likely to be in the eyes of the public. 
+Faced with the proliferation of online information sources, the public needs access to 
+trustworthy information revealing basic identity data (name, activity, contact details, etc.) 
+as well as all relevant information on ownership and sources of revenue of news media 
+organisations.  
+Such information can reduce levels of scepticism among readers and viewers caused by 
+potential media concentration and conflicts of interests, and can reinforce public 
+attachment to and respect for high-quality news media that are characterized by, if not 
+financial, at least editorial, independence.  
+All news providers, old or new, print or digital, big or small, including individual media, 
+should be interested in engaging in this process: the traditional media will take a better 
+look at themselves, and new media players will be encouraged to be clear about their 
+business models. In both cases, it will help increase their credibility. 
+This section contains relevant indicators about the identity and transparency status of a 
+content provider, and requires Media Outlets to list information such as names, contact 
+details, founding date, activity, location, ownership, sources of revenue, means of 
+distribution, etc. 
+B. Professionalism and Accountability 
+The second section (B) has been drafted to define standards of “Accountability and 
+Professionalism". 
+This section could be understood as “Tell us how you work”. It focuses on the professional 
+and enabling environment of editorial work and journalistic production at the 
+organisational level. It consists of agreed criteria and organisational benchmarks to secure 
+best practice in professional working methods, as well as upholding principles of ethical 
+journalism and promoting public accountability. These include, in particular, the existence 
+and functioning of complaints and correction mechanisms, the presence and 
+implementation of Editorial Guidelines as well as the organisation of management and 
+newsroom structures.  
+This section contains indicators on accountability and professionalism in the activities of a 
+Media Outlet that facilitate the provision of trusted and pluralistic journalism. They are 
+meant to ensure that news media operate according to criteria that promote transparency 
+and accountability and are thereby deserving of public trust.  
+CWA 17493:2019 (E) 
+ 
+ 
+9 
+IV. Terms and Definitions 
+This chapter includes a definition of mandatory and optional clauses, indicating the respective 
+wording and tags used. 
+An additional glossary is to be found as Annex C. 
+ 
+ 
+Language (ISO standards) and Format 
+In order to be clear about what is mandatory and what is not, and to facilitate machine-
+readability, we use different verbal forms and respective tags in the questionnaire in {braces}, as 
+defined in the ISO/IEC Directives, Part 2, 2018 : 
+ 
+Mandatory requirements: shall, shall not {M} 
+A requirement is defined as an "expression, in the content of a document that conveys objectively 
+verifiable criteria to be fulfilled and from which no deviation is permitted if conformance with the 
+document is to be claimed". 
+ 
+Optional recommendations: should, should not {O} 
+A recommendation is defined as an"expression, in the content of a document that conveys a 
+suggested possible choice or course of action deemed to be particularly suitable without necessarily 
+mentioning or excluding others". 
+ 
+Permission: may, need not 
+A permission is defined as an "expression, in the content of a document that conveys consent or 
+liberty (or opportunity) to do something". 
+ 
+Possibility and capability: can, cannot 
+A possibility is defined as an "expression, in the content of a document that conveys expected or 
+conceivable material, physical or causal outcome". 
+A capability is defined as an "expression, in the content of a document that conveys the ability, 
+fitness, or quality necessary to do or achieve a specified thing". 
+ 
+The format of the question response is indicated in [brackets]. 
+Answers that are dependent on a previous answer are indicated with {D}. 
+“N/A” means “Not Applicable” and is an acceptable answer when shown.   
+CWA 17493:2019 (E) 
+ 
+ 
+10 
+‘Media Outlet’ - the Conforming Entity 
+We put Media Outlets at the centre of this process as the Conforming Entity. 
+Irrespective of size or legal form, a Media Outlet is defined as an entity, composed by means, 
+procedures and individuals, which produces and disseminates journalistic content. As a legal 
+entity or through its legal representatives or staff, it carries operational editorial responsibility 
+for such content. The objective of this definition is to allow for a variety of entry points to 
+achieving conformity with this Standard. A Media Outlet can be a single individual (e.g. a blogger), 
+one team or department within a larger media organisation (e.g. a certain radio channel, a 
+newsroom, a show, website or paper) or a whole media organisation with many outlets and 
+brands. 
+Regardless of the organisational structure of an entity, working with this document and the 
+subsequent conformity assessment should always start where the editorial decisions are being 
+made on a day-to-day basis. 
+In case they exist, additional layers above – such as a combined media organisation, owners, 
+shareholders – and ‘downstream’ below – like brands and products – are then defined according 
+to their relationship with the entity conforming to this Standard. 
+In other words, the applicant decides what the entities are that will follow this Standard, and then 
+those entities are responsible for conforming with it. 
+ 
+Individual journalist and Small Enterprises 
+We believe that professional standards should be alike for all types and sizes of media. At the 
+same time we understand that a certain level of differentiation is needed as large, well-resourced 
+organisations might be better positioned to comply with the clauses of this document, simply 
+because of management capacity to handle such a process. 
+In addition, some clauses might not apply to certain types of Media Outlets. 
+In order to not disadvantage small entities, but rather encourage them to conform with this 
+Standard, it includes special clauses for individual journalists, one-person enterprises and very 
+small Media Outlets. Disclosure rules are specified for different types of media and some clauses 
+may not apply. 
+ 
+Editorial Guidelines 
+According to the Preamble, the implementation of transparent Editorial Guidelines is 
+fundamental to the ethical performance of a Media Outlet. These guidelines can be self-sourced or 
+adopted by subscribing to existing ones (of which one model is referenced in chapter VII), but 
+shall at least include the minimal requirements of the Standard in Chapter V.  
+ 
+Safety Concerns 
+Safety of news media staff and freelancers is paramount. We understand that full transparency, 
+although desirable in principle, can in certain conditions create unacceptable levels of risk to 
+Media Outlets and journalists. Legitimate reasons exist not to disclose a physical address, a name 
+or phone number. However, in those exceptional cases, the reasons shall be stated and explained 
+to the fullest extent possible. Safety concerns shall not be misused to refrain from disclosure for 
+other reasons. 
+The protection of journalistic sources is considered to be a separate issue and is dealt with 
+separately in this document. 
+CWA 17493:2019 (E) 
+ 
+ 
+11 
+V. The JTI Standard – Clauses 
+ 
+Section A: Identity and Transparency 
+ 
+1. Basic Requirements on Media’s Identity 
+1.1. Legal Entity Name 
+The Media Outlet, as Conforming Entity, shall provide the name designating the Legal 
+Entity or entities under which it is conducting business. In some cases, this will be the 
+company or public entity (branch of government, parliament, legally authorised state 
+institution, etc.) that has ultimate legal ownership of the Media Outlet. This usually is the 
+body that would be held liable in a court case. It is the body that enters into transactions 
+such as paying employees and suppliers or receiving funds from readers, viewers, 
+customers, advertisers and other sources of funding. 
+1.2. Contact Details and Identifiers 
+The contact details that shall be provided are the postal address and both a general 
+telephone number and email address for the Legal Entity or entities designated in clause 
+1.1 “Legal Entity Name”, as well as existing identifiers. 
+Clarification: This should be the contact details for the Legal Entity. Elsewhere in this 
+document, means of contact for reader, viewer or listener enquiries, editorial input and 
+other purposes are required. 
+1.3. Description of Media Outlet 
+The Conforming Entity shall list all brand names, titles, publication names, etc. under 
+which its Content is published, broadcast, printed or otherwise disseminated to the public 
+or customers. These will be known for this document and this process collectively as the 
+Media Outlet. It is that Media Outlet that will conform with this Journalism Trust Initiative 
+Standard. This is the Conforming Entity. These include all names used on website URLs 
+and on social media accounts, etc. 
+1.4. Distribution Channels and URLs 
+The Media Outlet shall list all URLs on which it publishes. If broadcast or audiovisual, the 
+Media Outlet shall list all terrestrial frequencies, satellite, cable, streaming and other 
+platforms on which it is distributed. 
+1.5. Safety Concerns 
+The Media Outlet shall at all times keep the safety (including digital safety and 
+cybersecurity) of staff, contributors and owners as a primary concern. If full transparency 
+of contact details or other information might endanger individuals, the Media Outlet shall 
+describe what it can about the legitimate reasons for a lack of disclosure or use of 
+pseudonyms for that purpose. Safety concerns shall not be misused to refrain from 
+disclosure.  
+CWA 17493:2019 (E) 
+ 
+ 
+12 
+1.6. Location 
+The Media Outlet shall provide the physical address of the headquarters of the legal entity 
+referred to above in 1.1 Legal Entity Name. 
+Clarification: This is necessary in cases where the address listed in the Contact Details clause 
+(1.2) does not specify a physical location, or where the location designated by the contact 
+details referred to in 1.2 is not the same location as the headquarters. Clause 1.5, Safety 
+Concerns, may be applied. 
+1.7. Founding Date 
+The founding date of the Legal Entity referred to in clause 1.1 “Legal Entity Name” shall be 
+specified. If the Media Outlet designated in clause 1.3 “Media Outlet” has a different 
+founding date, the history of former legal entities and their founding dates shall be listed. 
+ 
+2. Editorial Mission 
+2.1. Editorial Mission Statement 
+The Media Outlet shall disclose its editorial mission statement which shall be consistent with the 
+fundamental ethical principles of trustworthy journalism, and, as described in the Preamble, 
+should incorporate principles of: ethical practice, good governance, self-regulation and 
+Engagement with the public. A Media Outlet shall set out how it proposes to uphold these 
+journalism principles through its Editorial Guidelines and processes which shall include 
+arrangements in relation to internal accountability and of appropriate external accountability (see 
+clauses 9 – 15). Best practice is to have these arrangements codified and made available  publicly.  
+ 
+3. Public Service Media 
+3.1. Public Service Media Mission, Governance and Independence  
+The Media Outlet shall describe its public service mission and the legal instrument on which it is 
+based. It shall describe its governance structure, including the role of all relevant governance 
+bodies or organisations (for example, regulator, supervisory board, government/parliament role). 
+It shall state how its financial income is generated and what proportion of its financial resources 
+are totally or partially provided by public funds. It shall state if both external and internal 
+governance measures guarantee its editorial independence.  
+ 
+4. Disclosure of Type of Ownership 
+4.1. Privately held 
+The Media Outlet shall declare its legal status clarifying what type of company it is 
+registered as. For example, if it is a limited or incorporated company. It should use the 
+legal definition used in its country of registration and provide the relevant registration 
+information. 
+4.2. State or Publicly Owned 
+The Media Outlet shall state clearly if it is fully or partly owned by the government, a state 
+institution, or other public body, providing information on the specific department, entity, 
+or body that exercises that ownership and its relationship with the government.  
+4.3. Publicly Traded Company 
+The Media Outlet shall indicate if it is a publicly traded company and where it is legally 
+registered and where its shares are traded. The company shall also provide its share 
+name and indicate what proportion of its ownership is publicly traded. 
+CWA 17493:2019 (E) 
+ 
+ 
+13 
+4.4. Other 
+If the ownership of the Media Outlet is different from the above, for example if the 
+organisation is a co-operative or member-owned, the Media Outlet shall indicate its form 
+of ownership and provide links to local legal definitions of the type of ownership.  
+If the ownership of the Media Outlet is made up of a combination of the above types of 
+ownership, then it shall provide a breakdown of the ownership indicating clearly which 
+share is which ownership type. 
+ 
+5. Requirements on Owners’ Identity 
+The identity of owners shall be disclosed: including direct owners, indirect or beneficial owners, 
+shareholders, indirect or beneficial shareholders. Information on any type of influence and/or 
+conflict of interest should be provided and monitored internally. The information shall be 
+updated on an annual basis and easy to access, preferably online. If the Outlet has no website, the 
+information should be published or communicated clearly in all its publications or transmissions. 
+5.1. Names of Owners and Board Members 
+The names of direct, indirect, controlling or beneficial owners shall be disclosed. If any of 
+these is also the beneficial owner of another company, the name and main activities of 
+that company shall be clearly stated. The business sectors in which these other companies 
+are operating shall also be indicated. The names of the members of supervisory 
+structures, like the board, shall also be disclosed. If any of these persons is an active 
+member of a political party or movement, holder of an elected office, or a candidate to a 
+political election, the name of that party or movement shall be clearly stated.  
+5.2. Contact Details of Direct and Indirect Owners  
+The contact details of direct and indirect owners shall be disclosed, preferably online, 
+along with the contact details of the members of the board of directors.  
+5.3. Names of Shareholders 
+The names of direct and beneficial majority or controlling shareholders shall be disclosed. 
+If the shareholder is a company, the name and main activities of that company shall be 
+clearly stated. The business sector in which this company is operating shall also be 
+indicated.  
+5.4. Percentage of Shareholdings 
+The percentage of the controlling shareholdings should be disclosed, regardless of the 
+percentage. 
+5.5. Exception for Member-owned Media Outlets 
+The names and contact information for all owners is not required to be disclosed, but it is 
+required for the leadership, e. g. the Board of Directors according to clauses 5.1 and 5.2. 
+ 
+6. Disclosure of Identity of the Management Team and its Location 
+The organisational structure of the Media Outlet shall be publicly available with up-to-date 
+information on the names, positions and contact details of the people in charge. The address, 
+usually the headquarters, shall be clearly indicated. If the company has several offices based in 
+different places, their addresses shall also be disclosed. If the physical address cannot be stated 
+for security concerns a correspondence address shall be provided. 
+6.1. Management Directory 
+Chief executive officer, managing director, directors, all the people holding responsibility 
+in the company shall clearly be identified. Their name, position and professional contact 
+details shall be disclosed.  
+CWA 17493:2019 (E) 
+ 
+ 
+14 
+6.2. Location of Branches and Offices 
+The location of the headquarters, main branches and offices of the Media Outlet shall be 
+disclosed, including the full address, a contact phone number and email address. 
+ 
+7. Disclosure of Editorial Contact Details 
+7.1. Social Media 
+The Media Outlet shall provide the contact details of the professional social media 
+accounts of those responsible for interacting with and responding to public queries about 
+the organisation’s editorial content. This can be management, senior editorial staff, the 
+ombudsperson, readers editor or equivalent.  
+7.2. Newsroom Contact Details 
+The Media Outlet shall provide public contact details that will facilitate communication 
+with the newsroom(s). The editorial staff, when informed of the public's queries, should 
+be able to communicate back to the public. 
+7.3. Customer Service Contact Details 
+The Media Outlet shall provide all available contact details: telephone numbers, email 
+addresses, and correspondence address of its customer service. If the organisation does 
+not have a department, a contact should be provided for readers or other stakeholders to 
+be able to get in touch with the Media Outlet. 
+ 
+8. Disclosure of Revenue Sources and Data Collection  
+The aim of disclosure is to be able to assess potential conflicts of interests. Media Outlets are 
+encouraged to exceed the financial disclosure requirements mandated by their national laws in 
+order to achieve this goal. In cases where the requirements cannot be met, a justification for non-
+compliance should be published. 
+8.1. Sources of Revenue 
+The Media Outlet shall disclose a list of its sources of revenue, ranked from largest to 
+smallest. These may include subscriptions, advertising, major donors and donations, 
+subsidies, fees, sales, memberships, sponsorships, events, etc. 
+Organisations obliged to publish or make public their financial information shall provide a 
+reference to the source where the data is accessible. 
+The Media Outlet may disclose its revenue and/or the categories of its sources of revenue, 
+including the respective ratios. 
+A Media Outlet owned by the state or the government, or financed with public money, 
+shall disclose the nature of its source(s) of revenue: license fees, government budget, 
+partnerships, public subscriptions, grants, commercial advertising, or other. 
+Where a media entity deems itself precluded from disclosure of information due to safety 
+and security concerns as outlined in the Terms and Definitions section, these shall be 
+explained. 
+8.2. Data Collection Disclosure 
+Where a Media Outlet processes personal data from its audiences, on its own or by 
+engaging with third parties, that shall be disclosed. 
+The Media Outlet shall describe what personal data is processed, by which methods and 
+for what purpose. 
+CWA 17493:2019 (E) 
+ 
+ 
+15 
+Section B: Professionalism and Accountability 
+ 
+9. Accountability for Journalism Principles 
+9.1. Editorial Guidelines 
+A Media Outlet shall produce a set of Editorial Guidelines or adhere to an external set of 
+guidelines (for example the Model Editorial Guidelines provided as a reference document 
+to this Standard), to which its journalistic operations comply. They should govern 
+meaningful principles of journalistic content, dissemination and conduct. These 
+guidelines, and the identity of the person or group of persons with ultimate responsibility 
+for them within its organisation, shall be made available to the public in a readily 
+accessible and understandable form. Best practice is to have these guidelines available 
+publicly rather than on request.  
+9.2. Purpose of Guidelines 
+A Media Outlet shall ensure that these Editorial Guidelines set clear expectations of the 
+behaviour it requires from its own staff, its contractors and from all other contributors to 
+its editorial content. It should also set out the structure of responsibility within the 
+organisation, making sure it is clear who is accountable for each stage of the process that 
+leads to publication. 
+9.3. Guidelines and Journalism Principles 
+A Media Outlet shall ensure that these Editorial Guidelines embody the core ethical 
+principles of journalism. The Editorial Guidelines may impose specific requirements in 
+addition to these core ethical principles; but any additional requirements shall not 
+compromise these core ethical principles as described in the Preamble of this document. 
+9.4. Conflicts of Interest 
+Editorial Guidelines shall ensure that there are no conflicts of interests – real, potential or 
+perceived – damaging the integrity of the story or the editorial independence of those 
+working on it. They should have guidance on how to deal with conflicts related to 
+political, business and personal interests. Editorial structures should protect the 
+journalism from any undue influence by the Media Outlet’s executive management or 
+ownership authorities outside the formal editorial process and from any external 
+interests, commercial, social or political.  
+ 
+10. Accuracy  
+10.1. Processes for Ensuring Accuracy 
+The Media Outlet shall have internal rules with a systematic editorial process to make 
+sure that the content is accurate and the Editorial Guidelines are adhered to. This may 
+include the verification process for the content and the role of editorial oversight. 
+10.2. Process Review 
+There shall be a mechanism for the periodic review of the editorial processes to ensure 
+that they are in compliance with the Editorial Guidelines and that the accountability 
+processes are effective and being used to support them. 
+10.3. Statistics and External Content 
+Statistics and external photographs/video/audio content should be sourced and verified. 
+10.4. Identification of Journalists, Agencies 
+Principle and secondary authors should be identified, or if not, then recorded via 
+publishing mechanisms, so that this information can be accessed if there is a query. This 
+includes any news agency material subscribed to by the Media Outlet. Any details of 
+individuals should be subject to the legal requirements of data protection and security 
+considerations. 
+CWA 17493:2019 (E) 
+ 
+ 
+16 
+10.5. Location Reporting 
+In news reporting, it should be clear to any reader or audience where a report is being 
+written from, and if it includes location reporting. Where location reporting is constrained 
+due to the mechanism or conditions of the facilitation this should be identified, e.g. an 
+embed with an official army or independent travel with local militias. This may also 
+include occasions where the reporting has been facilitated by a commercial, NGO or 
+governmental organisation and labelling is necessary for transparency.  
+10.6. Automatically Generated Content 
+News content generated, wholly or partly, automatically by means of algorithmic 
+processes (such as but not limited to text generating systems, bots or artificial 
+intelligence) shall be clearly indicated. 
+10.7. Algorithmic Dissemination and Curation 
+A Media Outlet shall indicate its policy on the use of algorithms for news content 
+dissemination or curation and its adherence to best practice requirements from 
+regulatory or advisory bodies.  
+10.8. Treatment of Explicit Content 
+Editorial processes shall ensure the ethically appropriate treatment of violent and explicit 
+content, of content which features children or other vulnerable people, and of live 
+content. 
+ 
+11. Responsibility for Content Provided by the General Public  
+11.1. User Generated Content/Eyewitness News 
+A Media Outlet shall ensure that the same principles of checking for accuracy, legal, and 
+ethical compliance are applied to journalistic content sourced from the general public 
+(UGC or Eyewitness News content) as with all content it publishes. 
+11.2. Editorial Guidelines for UGC/Eyewitness News 
+There should be specific categories within the Media Outlet’s Editorial Guidelines for 
+dealing with User Generated Content (UGC) or Eyewitness News and these should be 
+publicly accessible. 
+In relation to this type of content the guidelines shall indicate the verification process to 
+be used, how the content should be published with any labelling required and include 
+guidance on dealing with the content providers in a responsible manner. 
+11.3. Opinion Guidelines 
+In relation to opinion or comment pieces the guidelines should set clear requirements of 
+the ethical principles expected which may include but is not limited to prohibition of 
+comment due to defamation, privacy, hate speech and harassment. The Media Outlet 
+should make clear its policy on the moderation of such content, whether it is pre or post 
+publication, and its policy on take-down, notice and appeal provisions. 
+ 
+12. Responsibility for Sources 
+A Media Outlet shall ensure that the sources used for its journalism are dealt with responsibly 
+and their anonymity protected when justified. 
+12.1. Anonymity 
+The procedures for granting anonymity to sources shall be covered by the Editorial 
+Guidelines. The reason for anonymity should be clarified for the public. 
+12.2. Privacy Rights 
+Editorial guidelines should protect the privacy rights of individuals and their safety. 
+CWA 17493:2019 (E) 
+ 
+ 
+17 
+12.3. Independence and Sources 
+There should be guidelines on establishing relations with sources which protect the 
+independence of the journalism. 
+12.4. Diversity of Sources 
+Editorial guidelines should ensure that a diversity of sources are consulted in producing 
+journalistic content with adequate time for response.  
+ 
+13. Professionalism for Affiliations  
+13.1. Sponsored Content Policies 
+Professional journalism principles shall have clear and distinct editorial practices in 
+distinguishing advertising and sponsored content, commercial or commissioned, from 
+editorial content independently produced by the Media Outlet. 
+13.2. Sponsored Content Indicators 
+In Media Outlets, sponsored content shall be clearly identified with the words content 
+'sponsored by’, ‘paid by’ or other explicit and easy to understand terms. Particular care 
+should be taken in distinguishing so called ‘native’ content (where the item is sponsored 
+but is published or broadcast next to ordinary editorial content) from its surrounding 
+material. 
+13.3. Separation of News and Opinion 
+Editorial Guidelines shall ensure that there is a clear distinction between news content 
+and opinion and between news content and other content provided by an external non-
+journalistic body by requiring labelling or an equivalent mechanism. 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+18 
+14. Internal Accountability  
+14.1. Dealing with Inaccuracies 
+There shall be a systematic editorial structure in the Media Outlet to ensure that any 
+inaccuracies in its content are corrected in a timely and transparent manner. This shall 
+include a clear process to allow potential errors to be communicated to the Media Outlet 
+by the public and those with knowledge of the story and for assessing and dealing with 
+the claims.  
+14.2. Publishing Corrections 
+In particular, in relation to inaccuracies, a Media Outlet shall adopt good practice for 
+correcting inaccuracies, such as making a clear indication of the correction in a similarly 
+prominent place and manner as the original version, such as the same URL or in similar 
+time and format of broadcast. 
+14.3. Contact and Process for Complaints 
+A Media Outlet shall have a designated person and/or contact information in place for 
+complaints. A process shall exist for members of the public to open a dialogue with the 
+organisation in the event of potential breaches of its journalism principles or Editorial 
+Guidelines. This information shall be easily available. 
+14.4. Internal Process for Complaints 
+The Media Outlet shall have a clear procedure in place to ensure that all staff are aware of 
+the process that must be followed when such a complaint is received. For example in 
+larger Media Outlets, it must be known and accepted that the creator of a piece of 
+journalism that is subject to such a complaint must escalate the issue to a designated third 
+person. A Media Outlet shall ensure that complaints are addressed within the Media 
+Outlet in a fair, reasonable and timely manner. 
+14.5. Independence of Ombudsperson 
+Where a Media Outlet’s internal accountability mechanism takes the form of an 
+ombudsperson, that person may be appointed by the Media Outlet; but in this case there 
+shall be a transparent process for his/her appointment and the ombudsperson’s 
+independence shall be protected to ensure that he/she cannot be removed from the 
+position simply for challenging journalistic or editorial decisions or actions. 
+14.6. Powers of Ombudsperson 
+Where a Media Outlet’s internal accountability mechanism takes the form of an internal 
+or external ombudsperson or equivalent, it should take steps to ensure that this person 
+has powers to remedy any breaches of its Editorial Guidelines, provide redress to affected 
+parties, deter future guidelines’ breaches and provide an opportunity for its decisions to 
+be appealed or reviewed. 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+19 
+15. External Accountability 
+15.1. External Oversight 
+Trust in the Media Outlet is enhanced if it is subject to a form of external accountability 
+that is effective and independent. To this end where appropriate, a Media Outlet may wish 
+to commit to an independent and effective form of external accountability for its 
+journalism principles, which may take the form of an external ombudsperson, press or 
+media council or statutory regulator. 
+15.2. Compliance with External Accountability  
+Where a Media Outlet commits to a form of external accountability, it shall comply with 
+any guidance, structures or best practice directions issued by that body. 
+15.3. Absence of External Oversight  
+External accountability is not always possible due to the absence of such mechanisms in 
+many countries or a lack of confidence in the efficacy, independence or trustworthiness of 
+existing mechanisms. Where this is the case it may be helpful for the Media Outlet to state 
+the reasons for non-compliance, taking into account the legal requirements applicable to 
+particular media. The Media Outlet may in certain cases align with other media entities to 
+participate in a more appropriate mechanism.  
+15.4. Contact Details of External Accountability Bodies 
+Where a Media Outlet commits to a form of external accountability, it shall publicise the 
+process by which the public can contact that body to complain about potential breaches of 
+its Editorial Guidelines in a manner that is easily accessible for all. 
+15.5. Other Associations 
+The Media Outlet may publicly list its membership of all bodies that require members to 
+adhere to published guidelines, standards or norms to maintain status in that 
+organisation. Best practice is to publish which associations a Media Outlet is a member of, 
+listing the names and contact details.  
+ 
+16. Professionalism in the Media Outlet 
+16.1. Recruitment and Training 
+There shall be professional guidelines for the recruitment and training of editorial staff. 
+This includes responsibilities for implementing diversity policy and staff welfare. 
+Recruitment policy, (use of open competition etc.) and staff welfare principles should be 
+publicly available. 
+16.2. Working Conditions, Contract Policy and Labour Relations 
+Journalistic principles and practice should be supported by the organisational 
+environment including protection for journalistic integrity through adherence to labour 
+laws and regulations, transparency of contract policy and freedom to organise. The 
+duration or nature of the contract should not inhibit a journalist from operating in an 
+ethical manner and the organisation structure should protect that principle. 
+16.3. Staff Welfare  
+Responsibility for the welfare of staff and those contracted on a freelance basis should be 
+an important part of a Media Outlet’s role. Organisational Editorial Guidelines should be 
+protective against any form of discrimination and supportive of equality of opportunity. It 
+should ensure safety at work and in the working environment (including remote and 
+online) and have guidelines, which support staff who have been exposed to material of a 
+sensitive or upsetting nature or have suffered physical or psychological harm in the 
+course of their work. 
+ 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+20 
+17. Training 
+17.1. Training in Editorial Guidelines 
+A Media Outlet should have a structured mechanism to ensure that its employees or 
+operators have full training in journalism principles, Editorial Guidelines and the 
+demands laid down by legal and ethical compliance. 
+17.2. Continuous Training 
+Its training process should be continuous to ensure content creators, including technical 
+staff developing new editorial tools, are fully acquainted with changes in relevant laws or 
+ethical requirements. 
+17.3. Support and Advice 
+A Media Outlet should provide a support structure to ensure all its employees feel they 
+can seek expert advice when necessary, for example when reporting court or legal 
+proceedings. 
+ 
+18. Publication of Self-Assessment 
+18.1. General Public 
+After conducting a self-assessment according to this Standard, a Media Outlet should 
+publish the results in ways visible to the public, preferably online. Best practice is to 
+publish the full text of the questions and answers on an “about” or similar page on the 
+website of the Media Outlet.  
+18.2. Machine-readability 
+A Media Outlet should publish the answers from the self-assessment in a format making it 
+easily visible to machine readers employed by advertisers, social media and related 
+platforms, researchers and others.  
+ 
+ 
+ 
+ 
+VI. The Annexes 
+A. Guidelines: Principles and Potential Usage of JTI by External Parties 
+B. Questionnaire 
+C. Glossary 
+CWA 17493:2019 (E) 
+ 
+ 
+21 
+Annex A – Guidelines 
+Principles and Potential Usage of JTI by External Parties 
+ 
+A. Preamble 
+Trustworthy journalism requires an enabling environment to thrive. External parties such as 
+regulatory authorities and governments, the private sector, civil society and NGOs as well as 
+advertisers have an impact upon and therefore a responsibility to shape this environment. To that 
+end, the Journalism Trust Initiative Standard (JTI) can provide a useful instrument for enabling 
+trustworthy journalism if it is implemented according to its intended aims. 
+At the same time any misuse must be prevented. Non-compliance or non-participation with JTI 
+shall not be treated as a single indicator of non-trustworthy journalism. A media site’s non-
+compliance or non-participation shall never be used to justify any violations of its freedom of 
+expression or justify penalties against it.  
+The authors of this document wish to encourage those entities and individuals to make use of the 
+JTI in order to advance its goal: to support the universal, individual freedom of opinion through 
+access to information and independent, pluralistic media (see Chapter I, Introduction).  
+The principles of Annex A address different parties wishing to support trustworthy journalism 
+through the application of the JTI mechanism or through data that JTI provides. Any reference or 
+use of the JTI Standard should always be in accordance with the principles outlined in this 
+document.  
+ 
+B. Principles 
+1. Nature 
+JTI is a voluntary self-regulatory instrument and should be applied accordingly. 
+JTI requires as well as contributes to contexts based upon the rule-of-law and democracy. 
+Respect and fulfilment of these principles should be the guiding force in using the JTI Standard. 
+2. Attribution 
+Whoever makes use of JTI should publicly commit to its goals and reference the Standard. 
+3. Transparency 
+The JTI Standard should be applied and implemented in a transparent manner. For example, the 
+JTI Standard should be explained appropriately and proactively to all those it affects, including 
+the general public. 
+4. Benefits 
+All JTI compliant entities should be eligible for any related benefits by external parties using JTI, 
+based on their adherence to the Standard. These benefits should be made available to all JTI 
+compliant entities in an equal manner, following a transparent and due process. 
+5. Impact 
+Those who use JTI should self-monitor and self-evaluate its impact, in order to identify and 
+address any unintended issues that might arise as part of JTI’s use. 
+6. Feedback 
+Feedback and findings from those who implement JTI should be publicly accessible to one 
+another – for example through regular reports – in order to share knowledge, learn from 
+experiences, and stimulate debate. 
+CWA 17493:2019 (E) 
+ 
+ 
+22 
+C. External Parties and their Potential Usage of JTI 
+The application of JTI might include, but is not limited to the following external parties and ways of 
+usage. 
+ 
+1. Regulatory and self-regulatory Entities (“regulators”) 
+All media regulators could: 
+• use JTI as a tool for media and information literacy (MIL); 
+• use JTI to identify the media actors that value the production of reliable information as their 
+core mission.  
+Independent regulatory authorities could:  
+• use the JTI information relating to transparency of media ownership to establish or update a 
+map of ownership of the media landscape, and to analyse and promote pluralism in the 
+media market; 
+• use JTI as an indicator that media have complied with certain legal requirements related to 
+the production of reliable and accurate information recognising that JTI cannot be the sole 
+basis of a legal justification of their decisions; where it is in charge of allocating public 
+subsidies, the regulator could use JTI to verify if certain criteria or conditions for allocation of 
+public subsidies are met by media actors; 
+• promote the benefits of JTI to their discussion partners such as Media Outlets or platforms 
+and to the public.  
+ 
+Self-regulatory entities could: 
+• use JTI to raise awareness about the importance for media to abide by external media 
+accountability mechanisms and thereby increase the visibility and outreach of their work; 
+• use JTI to encourage Media Outlets to voluntarily join press and media councils in the 
+country where they exist, in particular small online media or bloggers; 
+• use JTI to encourage the creation of external media accountability systems where they do not 
+yet exist.  
+ 
+2. Entities using Algorithmic Systems (“information intermediaries”) 
+Entities using algorithmic systems that automatically structure results or recommendations 
+related to news could apply the JTI Standard as an indicator of trustworthy journalism to:  
+• use it to support the principle of surfacing (or locating) authoritative sources of 
+information online for the benefit of societies; 
+• use it in support of the important efforts to develop and make available a rich sense of 
+enhanced and visible signals and cues that publishers and others can employ to convey 
+how a particular piece of content originates within the context of commonly accepted 
+principles of journalistic practice; 
+• use it to benefit from a Standard and interoperable ways of locating and ingesting 
+information related to journalistic transparency; 
+• use it to support the principle that no single authority should determine what is or 
+what isn’t trustworthy journalism.  
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+23 
+3. Entities Supporting the Development of the Media (“media development organisations” and 
+“donors”) could: 
+• use the JTI Standard as part of their media assessment framework to help for example more 
+easily determine stakeholders’ training needs or identify potential recipients of support 
+efforts; 
+• use JTI as a framework for training or as a goal to be achieved by media as an end in itself or 
+as part of a desired target or impact including the use of JTI compliance as a measurement of 
+impact. 
+ 
+4. Advertisers and Sponsors 
+Entities supporting Media Outlets financially, directly or indirectly, including their assigned 
+service providers and industry associations, could: 
+• use JTI in order to responsibly allocate funds recognising the potential impact on the 
+information ecosystems at large; 
+• use JTI to identify and financially support those media that uphold norms of trustworthy 
+journalism in order to achieve their quest to preserve ‘brand safety’; 
+• actively engage in exploring both individual and industry-wide advertising and sponsoring 
+best practices, including ‘ad trust’ initiatives, with JTI indicators. 
+CWA 17493:2019 (E) 
+ 
+ 
+24 
+Annex B – Questionnaire 
+ 
+1. Basic Requirements on Media’s Identity 
+1.1. Legal Entity Name 
+1. What is the Legal Entity Name? [long text field] {M} 
+1.2.  Contact Details and Identifiers 
+2. What is the postal address for the Legal Entity? [long text field] {M} 
+3. What is the general telephone number for the Legal Entity? [short text field] {M} 
+4. What is the email address for the Legal Entity? [short text field] {M} 
+5. Is the Legal Entity required to have a Tax ID, a Registration ID, a DUNS number and/or 
+other identifiers? [Y/N] {O} 
+a. /Y{D} What are these IDs for the Legal Entity? [long text field] {O} 
+6. Are there any other governmental or other identifiers that a certification body could use 
+to verify the identity of the Legal Entity? [Y/N] {O} 
+a. /Y{D} What are those identifiers? [long text field] {O} 
+1.3.  Description of Media Outlet 
+7. What Brand Name(s), titles, publication names, etc. do you use to publish Content? [long 
+text field] {M} 
+1.4.  Distribution Channels and URLs 
+8. Does the Media Outlet publish on any URLs? [Y/N] {M} 
+a. /Y{D} On what URLs do you publish? [long text field] {O}  
+9. Does the Media Outlet publish any content on any social media? [Y/N] {M}  
+a. /Y{D} What are the social media URLs, handles, addresses or names that you use to 
+publish? [long text field] {O}  
+10. Does the Media Outlet publish any content by broadcasting and/or streaming? [Y/N] {M}  
+a. /Y{D} What are the terrestrial frequencies, channels, satellite identifiers, other 
+platforms or applications that you use to publish? [long text field] {O} 
+1.5.  Safety Concerns 
+11. Do the Media Outlet’s Editorial Guidelines state that the safety of all journalists shall be 
+treated as a primary concern? [Y/N] {M} 
+12. Are there any reasons that the Media Outlet has for withholding information on any of the 
+questions as part of this JTI Standard process? [Y/N] {M} 
+a. /Y{D} What are the reasons? [long text field] {O} 
+1.6. Location 
+13. Is the physical address of the Legal Entity different from the postal address according to 
+question no. 2? [long text field] {M} 
+a. /Y{D} What is the physical address of the Legal Entity? [long text field] {M} 
+14. Do you have a safety-related reason for not providing it? [Y/N] {M}  
+a. /Y{D} What is the reason for not disclosing it? [long text field] {O} 
+1.7. Founding Date 
+CWA 17493:2019 (E) 
+ 
+ 
+25 
+15. What is the founding date of the Legal Entity? [short text field] {M} 
+16. Is the founding date of the Media Outlet (as in clause 1.3 question no. 7) different from 
+that of the Legal Entity (as in clause 1.1 question no. 1)? [Y/N] {M} 
+a. /Y{D} Provide a history of previous/former Legal Entities and their founding dates. 
+[long text field] {M} 
+ 
+2. Editorial Mission  
+2.1. Editorial Mission Statement 
+17. Does your Media Outlet have an editorial mission statement, or stated set of principles or 
+editorial values? [Y/N] {M} 
+a. /Y{D} Provide that statement here. [long text field] {M} 
+18. Is that statement posted online? [Y/N] {O} 
+a. /Y{D} What is the URL where it is published? [validated URL field] {O} 
+ 
+3. Public Service Media 
+3.1. Public Service Media Mission, Governance and Independence 
+19. Is the Media Outlet a Public Service Media? [Y/N] {M} 
+a. /Y{D} What is the public service mission for which it is responsible? [long text field] 
+{M}  
+b. /Y{D} Is this governed by legislation? [Y/N] {M}  
+c. /Y{D} What law or legal instrument specifies its role and responsibilities? [long text 
+field] {M} 
+d. /Y{D} Provide a reference URL here. [long text field] {O}  
+e. /Y{D} What are the stakeholders with which it has formal relations, and what is the 
+nature of the relationship? [long text field] {M}  
+f. /Y{D} How is income generated? [long text field] {M}  
+g. /Y{D} What portion of income is public funds? [long text field] {M}  
+h. /Y{D} Does the governance guarantee editorial independence? [Y/N] {M}  
+i. /Y{D} State here in what way. [long text field] {M}  
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+26 
+4. Disclosure of Type of Ownership 
+4.1. Privately held 
+20. Is the Media Outlet or the Legal Entity privately owned? [Y/N] {M} 
+a. /Y{D} What is the form and status of the Media Outlet or Legal Entity according to 
+the legal definition in the country of registration? [long text field] {M} 
+4.2. State or Publicly owned 
+21. Is the Media Outlet or the Legal Entity owned by the state, a unit of the government or any 
+other public entity? [Y/N] {M} 
+a. /Y{D} What specific department, entity or governmental body has ownership? [long 
+text field] {M} 
+b. /Y{D} Describe the status of the Media Outlet or Legal Entity and its relationship 
+with this body. [long text field] {O} 
+4.3. Publicly Traded Company 
+22. Is the Media Outlet or the Legal Entity publicly traded? [Y/N] {M} 
+a. /Y{D} Where is the Media Outlet or Legal Entity registered? [short text field] {M} 
+b. /Y{D} On what exchange(s) are the shares traded? [short text field] {M} 
+c. /Y{D} What is the trading name and/or ticker symbol? [short text field] {M} 
+d. /Y{D} What percent of the ownership of the Legal Entity is publicly traded? [short 
+text field] {M} 
+4.4. Other 
+23. Is the ownership of the Media Outlet or the Legal Entity different from the three previous 
+clauses in this section? For example, is it a co-operative or member-owned? [Y/N] {M} 
+a. /Y{D} What is the form of ownership? [long text field] {M} 
+b. /Y{D} If there is a combination, explain that here along with a breakdown by 
+ownership type. [long text field] {M} 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+27 
+5. Requirements on Owners’ Identity 
+5.1. Names of Owners and Board Members 
+24. What are the names of all direct, indirect or beneficial owners? [long text field] {M} 
+25. Are the names of the owners in the previous question available online? [Y/N] {M} 
+a. /Y{D} What is the URL that contains the names of the owners, or, if not available 
+online, please indicate where that information can be obtained? [long text 
+field] {O} 
+26. What are the names of the members of supervisory boards? [long text field] {M} 
+27. Are the names of the members of the supervisory board members in the previous 
+question available online? [Y/N] {M} 
+a. /Y{D} What is the URL of the page that contains the names of the people in the 
+previous question? [validated URL field] {O} 
+28. Are the listed owners also founders or owners of other companies? [Y/N] {M} 
+a. /Y{D} State here the names and main activities of those companies. [long text field] 
+{M} 
+b. /Y{D} What are the business sectors for the companies listed in the previous 
+question? [long text field] {M} 
+29. Are any of the owners active members of a political party or movement or candidates in a 
+political election or current office holders? [Y/N] {M} 
+a. /Y{D} What are the names of the parties, movements or offices the listed owners are 
+affiliated with. [long text field] {M} 
+5.2. Contact Details of Direct and Indirect Owners  
+30. What is the contact information for all direct and indirect owners? [long text field] {M} 
+31. Is the contact information in the previous question available online? [Y/N] {M} 
+a. /Y{D} What is the URL with the contact information from the previous question? 
+[validated URL field] {O} 
+32. What is the contact information for the members of the board of directors? [long text 
+field] {M} 
+33. Is the contact information in the previous question available online? [Y/N] {M} 
+a. /Y{D} What is the URL with the contact information from the previous question? 
+[validated URL field] {O} 
+5.3. Names of Shareholders 
+34. What are the names of the direct, majority or controlling shareholders? (If shareholders 
+are companies, list the main activity and business sector of that company along with the 
+name.) [long text field] {M} 
+5.4. Percentage of Shareholdings 
+35. List the shareholders and the percentage of the holdings. [long text field] {O} 
+5.5. Exception for Member-owned Media Outlets 
+36. Is the Media Outlet member-owned? [Y/N] {O}  
+a. /Y{D} List the names and contact information for the Board of Directors or whatever 
+form of leadership the Media Outlet has. [long text field] {O}  
+CWA 17493:2019 (E) 
+ 
+ 
+28 
+ 
+6. Disclosure of Identity of the Management Team and its Location 
+6.1. Management Directory 
+37. What are the names, positions, and contact details of all members of management for the 
+Media Outlet? [long text field] {M} 
+6.2. Location of Branches and Offices 
+38. What is the physical address, phone number and email address of the headquarters of the 
+Media Outlet? [long text field] {M} 
+39. Does the Media Outlet have other main branches and offices? [Y/N] {O} 
+a. /Y{D} What are the physical addresses, including phone numbers and email 
+addresses, of those other main branches and offices? [long text field] {O} 
+40. Do you have a safety-related reason for not providing it? [Y/N] {M}  
+a. /Y{D} What is the reason for not disclosing it? [long text field] {O} 
+ 
+7. Disclosure of editorial contact details 
+7.1. Social Media 
+41. Does the Media Outlet have social media accounts for the public to use to make queries or 
+respond to Content? [Y/N] {M} 
+a. /Y{D} What are the URLs or other identification of all social media accounts used by 
+members of the public to contact the Media Outlet? [long text field] {M} 
+7.2. Newsroom Contact Details 
+42. Does the Media Outlet have a person responsible for dealing with communication from 
+the public regarding the Content? [Y/N] {M} 
+43. Is the method for contacting that person or others at the Media Outlet clearly visible to the 
+public? [Y/N] {M} 
+44. In what ways does the staff of the Media Outlet responsible for the Content communicate 
+back to the public results of queries, concerns, etc.? [long text field] {O} 
+7.3. Customer Service Contact Details 
+45. Does the Media Outlet have a department or a single person who is responsible for 
+customer service? [Y/N] {M} 
+a. /Y{D} What are the contact details, including telephone numbers, email addresses, 
+correspondence addresses, for customer service or the equivalent within the 
+Media Outlet? [long text field] {M} 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+29 
+8. Disclosure of Revenue Sources and Data Collection  
+8.1. Sources of Revenue 
+46. What are the categories of sources of revenue for the Media Outlet, ranked from largest to 
+smallest? These may include subscriptions, advertising, major donors, donations, 
+subsidies, fees, sales, memberships, sponsorships, events, etc. [long text field] {M} 
+47. Is the Media Outlet required to make financial disclosures? [Y/N] {M} 
+a. /Y{D} Are those disclosures visible to the public? [Y/N/NA] {M} 
+i. /Y{D} What is the URL for those disclosures? [validated URL field] {M} 
+48. What is the revenue of the Media Outlet? [long text field] {O} 
+49. What is the ratio of the categories of revenue sources (as in question no. 46) {O} [long text 
+field] 
+[21.] If Media Outlet is state- or publicly owned (as of question no. 21) – 
+a. /Y{D} What is the nature of the government sources of revenue? (For example, 
+license fees, government budget, partnerships, grants, etc.?) [long text field] 
+{M} 
+50. Is there any reason for safety and security that you have given incomplete data in this 
+section? [Y/N] {M} 
+a. /Y{D} What is the reason? [long text box] {M} 
+8.2. Data collection disclosure 
+51. Does your Media Outlet process any personal information from online visitors on its own 
+or with third parties? [Y/N] {M}  
+a. /Y{D} What information is processed? [long text field] {M} 
+b. /Y{D} What is the purpose for gathering that information? [short text field] {M} 
+c. /Y{D} By what methods is the information processed? [long text field] {M} 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+30 
+9. Accountability for Journalism Principles 
+9.1. Editorial Guidelines 
+52. Does your Media Outlet have a set of guidelines, or adhere to an external set of guidelines, 
+for journalistic content, distribution and conduct to which its journalistic operations 
+comply? [Y/N] {M} 
+a. /Y{D} Are they made available to the public in a readily accessible form? [Y/N] {M} 
+i. /Y{D} What is the URL? [validated URL field] {O} 
+53. Is there a person or a group of persons responsible for these guidelines clearly identified? 
+[Y/N] {M} 
+a. /Y{D} Is that identification visible on the page with the guidelines? [Y/N] {O} 
+i. /N{D} Why not? [long text field] {O} 
+9.2. Purpose of Guidelines 
+54. Do the guidelines referred to in the section on Editorial Guidelines set clear expectations 
+for the behaviour for all the contributors, including editorial staff (journalists, editors) and 
+all other contributors? [Y/N] {M} 
+55. Do the guidelines referred to in the section on Editorial Guidelines make clear the 
+structure of editorial responsibility for each stage of the publication process within the 
+organisation? [Y/N] {O}  
+9.3. Guidelines and Journalism Principles 
+56. Do your Editorial Guidelines include requirements for Accuracy (as prescribed in the 
+Preamble WITH LINK IF POSSIBLE) in your output? [Y/N] {M} 
+57. Do they include requirements for Independence (as prescribed in the Preamble WITH 
+LINK IF POSSIBLE) of editorial decision making? [Y/N] {M} 
+58. Do they include requirements of Fairness (as prescribed in the Preamble WITH LINK IF 
+POSSIBLE) in the practice of journalism? [Y/N] {M} 
+59. Do they include requirements for Accountability (as prescribed in the Preamble WITH 
+LINK IF POSSIBLE) in the practice of its journalism? [Y/N] {M} 
+9.4. Conflicts of Interest 
+60. Do your Editorial Guidelines include protections against real, potential, or perceived 
+conflicts of interest? [Y/N] {M} 
+61. Do the guidelines include guidance on how to deal with conflicts related to business? 
+[Y/N] {O} 
+62. Do the guidelines include guidance on how to deal with conflicts related to political 
+interests? [Y/N] {O} 
+63. Do the guidelines include guidance on how to deal with conflicts related to personal 
+interests? [Y/N] {O} 
+64. Does the Media Outlet’s structure protect the editorial processes from any undue 
+influence from within or without? [Y/N] {O} 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+31 
+10. Accuracy  
+10.1. Processes for Ensuring Accuracy 
+65. Do you have internal rules and a systematic editorial process to ensure the accuracy of 
+your content? [Y/N] {M} 
+66. Do you have internal rules and a systematic editorial process to ensure that the Editorial 
+Guidelines are adhered to? [Y/N] {M} 
+67. Do you have a verification process for content and the role of editorial oversight? [Y/N] 
+{O} 
+10.2. Process Review 
+68. Do you have a mechanism for periodic review of the effectiveness of the implementation 
+of your Editorial Guidelines in your editorial processes? [Y/N/na] {M} 
+69. Is your accountability mechanism (internal or external) subject to periodic review? 
+[Y/N/na] {M} 
+10.3. Statistics and External Content 
+70. Do your Editorial Guidelines require that statistics should be sourced and verified? 
+[Y/N/na] {O} 
+71. Do your Editorial Guidelines require that external photographs/video/audio content 
+should be sourced and verified? [Y/N/na] {O}  
+10.4. Identification of Journalists, Agencies 
+72. Are the Individual Journalists (including external sources) identified, for example through 
+a byline, or recorded in publishing mechanism so that this information can be accessed? 
+[Y/N/na] {O} 
+73. Is all News Agency material used by the Media Outlet recorded and tracked? [Y/N/na] {O} 
+10.5. Location Reporting 
+74. Is location reporting identified in your content? [Y/N/na] {O} 
+75. Do your Editorial Guidelines ensure that any constraint on location reporting be explained 
+in the report or in the context of its publication? [Y/N/na] {O} 
+76. Do your Editorial Guidelines require transparency where a location report has been 
+facilitated by an external body? [Y/N/na] {O} 
+10.6. Automatically Generated Content 
+77. Do you publish any content that is automatically generated? [Y/N] {M} 
+a. /Y{D} Is it in the Editorial Guidelines of your Media Outlet to clearly indicate content 
+generated, wholly or partly, by means of AI or algorithmic processes? [Y/N] 
+{M} 
+10.7. Algorithmic Dissemination and Curation 
+78. Do you use any algorithms for the dissemination or curation of content? [Y/N] {M} 
+a. /Y{D} Do you clearly indicate your policy on your use of algorithms for the 
+dissemination and curation of news content? [Y/N/na] {M} 
+b. /Y{D} Does the Media Outlet adhere to best practice requirements from a regulatory 
+or advisory body? [Y/N/na] {M} 
+CWA 17493:2019 (E) 
+ 
+ 
+32 
+10.8. Treatment of Explicit Content 
+79. Do your Editorial Guidelines ensure the ethically appropriate treatment of violent and 
+explicit content? [Y/N] {M} 
+80. Do your Editorial Guidelines ensure the ethically appropriate treatment of content which 
+features children or other vulnerable people? [Y/N] {M} 
+81. Do your Editorial Guidelines ensure the ethically appropriate handling of live content? 
+[Y/N] {M} 
+ 
+11. Responsibility for Content Provided by the General Public  
+11.1. User Generated Content/Eyewitness News 
+82. Does your Media Outlet publish any content that comes not from staff or freelancers but 
+from external sources such as readers/viewers? [Y/N] {M} 
+a. /Y{D} Does your Media Outlet have set structures to ensure the checking of 
+externally sourced material undergoes the same principles as that created 
+entirely by its own journalists? [Y/N] {M}  
+11.2. Editorial Guidelines for UGC/Eyewitness News 
+b. /Y{D} Do your Editorial Guidelines also include provisions for externally-submitted 
+material? [Y/N] {O}  
+c. /Y{D} Are there Editorial Guidelines dealing with UGC/eyewitness news content? 
+[Y/N] {M}  
+d. /Y{D} Do they include details on the verification processes to be used for this 
+content? [Y/N] {M} 
+e. /Y{D} Do they include guidance on the appropriate labelling of such content? [Y/N] 
+{M} 
+f. /Y{D} Do they include guidance on dealing with the providers of such content in a 
+responsible and ethical manner? [Y/N] {M} 
+11.3. Opinion Guidelines 
+83. Do your Editorial Guidelines also include provision for ensuring comment material is free 
+from defamation? [Y/N] {O}  
+84. Do your Editorial Guidelines also include provision for ensuring comment material is free 
+from invasions of privacy? [Y/N] {O}  
+85. Do your Editorial Guidelines also include provision for ensuring comment material is free 
+from hate speech? [Y/N] {O}  
+86. Do your Editorial Guidelines also include provision for ensuring comment material is free 
+from harassment? [Y/N] {O}  
+87. Is it clear to the public whether your Media Outlet’s moderation of such comment is pre- 
+or post-publication? [Y/N] {O} 
+88. Does this policy allow for the removal of offending material? [Y/N] {O} 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+33 
+12. Responsibility for Sources 
+12.1.  Anonymity 
+89. Are there guidelines on the procedures to be followed for granting anonymity to sources? 
+[Y/N] {M} 
+90. Are the reasons for granting anonymity made clear to the public? [Y/N] {O} 
+12.2. Privacy Rights 
+91. Are there guidelines to ensure that the privacy rights and safety of individuals are 
+protected in your journalistic activity? [Y/N] {O} 
+12.3. Independence and Sources 
+92. Are there guidelines to ensure the independence of journalism relative to the sources for 
+content? [Y/N] {O} 
+12.4. Diversity of Sources 
+93. Do the guidelines ensure that a diversity of sources is used in the production of your 
+journalistic content? [Y/N] {O} 
+ 
+13. Professionalism for Affiliations  
+13.1. Sponsored Content Policies 
+94. Do your Editorial Guidelines have specific policies for distinguishing commercial or 
+sponsored content? [Y/N] {M} 
+13.2. Sponsored Content Indicators 
+95. Do you publish any sponsored content? [Y/N] {M} 
+a. /Y{D} Do your Editorial Guidelines require all sponsored content to be clearly 
+labelled or otherwise made clear? [Y/N] {M} 
+b. /Y{D} Do your Editorial Guidelines require sponsored content to be labelled and 
+made clearly distinguishable from your own content? [Y/N] {M} 
+13.3. Separation of News and Opinion 
+96. Do your Editorial Guidelines require a clear distinction to be made between news content 
+and opinion content? [Y/N] {M} 
+97. Do your Editorial Guidelines require a clear distinction to be made between news content 
+and commercial content? [Y/N] {M} 
+98. Do you in editorial practice or in Editorial Guidelines require a clear distinction to be 
+made between news content and content supplied by an external non-journalistic body? 
+[Y/N] {M}  
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+34 
+14. Internal Accountability  
+14.1. Dealing with Inaccuracies 
+99. Do you have a clear process to allow potential errors to be communicated to the Media 
+Outlet by the public? [Y/N] {M} 
+a. /Y{D} Do you publish that process? [Y/N] {O} 
+i. /Y{D} What is the URL where it can be seen? Or, where is it seen next to 
+each bit of Content? [long text field] {O} 
+100. Do you have a clear process to allow potential errors to be communicated to the Media 
+Outlet by those with direct involvement in the story? [Y/N] {M} 
+a. /Y{D} Do you have a clear process for assessing and dealing with the claims? [Y/N] 
+{M} 
+101. Is there a systematic editorial structure in the Media Outlet to ensure that any 
+inaccuracies in its content are corrected in a timely and transparent manner? [Y/N] {M}  
+14.2. Publishing Corrections 
+102. Does your Media Outlet guarantee the publication of the correction of all significant 
+inaccuracies and errors in a similar place and manner as the original version, such as the 
+same URL or in similar time and format of broadcast? [Y/N] {M}  
+14.3. Contact and Process for Complaints 
+103. Does your organisation have a designated contact in the event of complaints about 
+potential breaches of its journalism principles or Editorial Guidelines? [Y/N] {M}  
+104. Does your organisation have a designated process for the public to open a dialogue with 
+you regarding potential breaches of its journalism principles or Editorial Guidelines? 
+(These may follow the Uniform Correction or Clarification act adopted by most U.S. 
+States.) [Y/N] {M}  
+a. /Y{D} Is that information clearly available? [Y/N] {M} 
+i. /Y{D} What is the URL of where this information is available? If it is not 
+on a single page, describe where people can find it. [long text 
+field] {M} 
+14.4.  Internal Process for Complaints 
+105. Are your staff (Employees and Freelance) aware of the process that must be followed in 
+the event of such complaints? [Y/N] {M} 
+106. Are they aware that all such complaints must be brought to the attention of a senior 
+member of staff (of organisations large enough to have a staff) not directly connected with 
+the creation of the story? [Y/N] {M} 
+107. Is your Media Outlet committed to the resolution of any such complaints in a fair, 
+reasonable and timely manner? [Y/N] {M} 
+14.5. Independence of Ombudsperson 
+108. Does the Media Outlet have an Ombudsperson? [Y/N/na] {M} 
+a. /Y{D} Is the Ombudsperson appointed by the Media Outlet? [Y/N] {O} 
+b. /Y{D} Is there a transparent process for their appointment and is their 
+independence protected? [Y/N] {M} 
+CWA 17493:2019 (E) 
+ 
+ 
+35 
+14.6. Powers of Ombudsperson 
+c. /Y{D} Does that person have full power to remedy any breaches of the 
+organisation’s Editorial Guidelines? [Y/N] {O} 
+d. /Y{D} Does that person have full power to provide redress to affected parties? [Y/N] 
+{O} 
+e. /Y{D} Does that person have full power to deter future breaches? [Y/N] {O} 
+f. /Y{D} Does that person have full power to provide opportunity for any decisions to 
+be reviewed or appealed? [Y/N] {O} 
+ 
+15. External Accountability 
+15.1. External Oversight 
+109. Have you committed to a system or systems of external accountability for your editorial 
+content? [Y/N] {O} 
+a. /Y{D} What are they? [long text field] {O} 
+b. /Y{D} What are the URLs? [long text field] {O} 
+15.2. Compliance with External Accountability  
+110. Is your Media Outlet committed to comply with any directions or guidance issued by the 
+external accountability body to which you subscribe? [Y/N/na] {M}  
+15.3. Absence of external oversight  
+111. Is your Media Outlet subject to an external regulatory mechanism for content that you find 
+it not possible to comply with? [Y/N] {O} 
+a. /Y{D} State here your reason for non-compliance. [long text field] {O} 
+b. /Y{D} Do you participate in any alternative national or international oversight 
+mechanisms or networks? [Y/N] {O} 
+i. /Y{D} Which ones? [long text field] {O} 
+15.4. Contact Details of External Accountability Bodies 
+112. Are the mechanisms for the public to complain about breaches of your Editorial 
+Guidelines to an external body publicly available? [Y/N/na] {M} 
+a. /Y{D} What is the link? [validated URL field] {O} 
+15.5. Other Associations 
+113. Do you belong to any other bodies that require members to adhere to published 
+guidelines, standards or norms to maintain status in that organisation? [Y/N/na] {O} 
+a. /Y{D} What are they? [long text field] {O} 
+b. /Y{D} Do you publish those associations, and their contact details? [Y/N/na] {O} 
+CWA 17493:2019 (E) 
+ 
+ 
+36 
+16. Professionalism in the Media Outlet 
+16.1. Recruitment and Training 
+114. Do you have guidelines for the recruitment and training of editorial staff? [Y/N] {M} 
+a. /Y{D} Do those guidelines contain a diversity policy? [Y/N] {M} 
+b. /Y{D} Do those guidelines cover staff welfare? [Y/N] {M} 
+c. /Y{D} Are they publicly available? [Y/N] {M} 
+i. /Y{D} What is the URL? [validated URL field] {O} 
+16.2. Working Conditions, Contract Policy and Labour Relations 
+115. Do the regulations and guidelines for the employment of staff and engagement of contract 
+journalists protect their editorial independence? [Y/N/na] {O} 
+116. Are your employees (including freelance) covered by legal contracts and insurance? 
+[Y/N/na] {O} 
+117. Does your staff have the freedom to organise? [Y/N/na] {O} 
+118. Do you have an existing structure for social dialogue including a collective bargaining 
+arrangement with appropriate trade unions? [Y/N/na] {O} 
+119. Are there guidelines for contracts of engagement with freelance journalists? [Y/N/na] {O} 
+a. /Y{D} Do these guidelines ensure the ability of freelancers to adhere to the editorial 
+principles? [Y/N/na] {O} 
+16.3. Staff Welfare  
+120. Does your Media Outlet’s rules and procedures protect against discrimination in the 
+workplace? [Y/N/na] {O} 
+121. Does your Media Outlet’s rules and procedures support equality of opportunity? [Y/N/na] 
+{O} 
+122. Does your Media Outlet have a safety at work policy, which includes specific protection for 
+journalists working in hostile environments? [Y/N/na] {O} 
+123. Does your Media Outlet have guidelines to support editorial staff who have been exposed 
+to material of a sensitive or upsetting nature? [Y/N/na] {O} 
+124. Does your Media Outlet have guidelines to support editorial staff who suffered physical or 
+psychological harm in the course of their work? [Y/N/na] {O} 
+ 
+17. Training 
+17.1. Training in Editorial Guidelines 
+125. Does your Media Outlet have a training programme for editorial staff that includes 
+sections on the Editorial Guidelines and other legal and ethical issues? [Y/N/na] {O} 
+17.2. Continuous Training 
+126. Is there refresher training available for significant changes in the law or guidelines? 
+[Y/N/na] {O} 
+17.3. Support and Advice 
+127. Does your staff have expert advice available for consultation when dealing with legal and 
+compliance issues? [Y/N/na] {O} 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+37 
+18. Publication of Self-Assessment 
+18.1. General Public 
+128. Does your Media Outlet publish your answers to this self-assessment based on the JTI 
+Standard? [Y/N] {O} 
+a. /Y{D} Is it available to readers? [Y/N] {O} 
+i. /Y{D} What is the URL? [validated URL field] {O} 
+18.2. Machine-Readability 
+129. Does your Media Outlet publish your answers in a machine-readable format? [Y/N] {O} 
+a. /Y{D} What is the URL? [validated URL field] {O} 
+  
+CWA 17493:2019 (E) 
+ 
+ 
+38 
+Annex C – Glossary 
+This annex to the Journalism Trust Initiative CEN Workshop Agreement is informative only; nothing in this 
+glossary is a requirement in complying with any of the Standards clauses. 
+ 
+Accountability The act of the Media Outlet declaring its governing principles 
+and how it is to be held responsible for adhering to them. (see 
+Preamble for more about the key principles of ethical 
+journalism) 
+Advertiser An entity paying a Media Outlet for publication of commercial 
+messages designed to drive consumer activity. 
+Advertising Any commercial messages provided by an advertiser designed 
+to reach an audience to drive consumer activity. 
+Anonymity In journalism, the process of granting to a person who is 
+known to the Media Outlet or a journalist the ability to 
+provide information without revealing the identity of that 
+person publicly or to a third pary. 
+Audience Those people who do, or could potentially, read, watch, listen 
+or otherwise consume the content of a Media Outlet. 
+Best Practices A document for employees of a Media Outlet to illustrate for 
+them the steps, methods, and processes of producing content. 
+Brand Name A publication identifier meant to be used by Media Outlets as 
+the way of signifying the origin of the content to the content 
+consumer. 
+Board of Directors The group of people who manage a legal entity with the 
+authority given to them by the larger group of direct owners. 
+Complaint The message of a comment from someone in the audience of a 
+Media Outlet wishing to voice a concern, correction or other 
+possible change to any content. 
+Conflicts of Interest Any situation where a person or an organisation has financial, 
+political or other motivations that may be either helped or 
+harmed by their involvement with another person or 
+organisation. For this document, the concern is most 
+specifically with motivations of anyone involved in the 
+ownership of a Media Outlet or in the production of any 
+content. 
+Conforming Entities For all of the Journalism Trust Initiative, the Media Outlet. 
+(See “IV. Terms and Definitions” in the section “‘Media Outlet’ - 
+the Conforming Entity”.) 
+Content All information published by a Media Outlet that is not 
+Advertising. This may include articles, audio or video 
+recordings, etc.  
+Data Collection The act of a website gathering data on members of an 
+audience. 
+Direct Owner A person or corporation that has possession of all or part of a 
+Legal Entity. This may be through direct corporate ownership, 
+stock ownership, or any other means. 
+CWA 17493:2019 (E) 
+ 
+ 
+39 
+Disclosure The publication of information that may not typically be made 
+public without legal requirements, such as financial data. 
+Editorial Mission Statement A document created by a Media Outlet that sets out the 
+principles, values, and overall objectives behind the generation 
+of the published Content. 
+Editorial Guidelines A document created or used by a Media Outlet that sets out 
+the essential guidelines and rules for all employees and 
+freelancers to abide by when producing content. It can also 
+include enforcement mechanisms and sanctions. 
+Employee A part of the paid staff of the Media Outlet or the legal entity. 
+Combined with freelancers, these are the people publish the 
+content. 
+Eyewitness News A form of user generated content. (Note that this term is a 
+common brand name for many ABC broadcast news stations in 
+the United States) 
+Fairness Doctrine Specifically in the U.S., a former law that required licensed 
+broadcasters to present content in ways that exhibited 
+political balance. Eliminated in 1987. 
+Founding Date The year in which a Legal Entity was initially organised and 
+established. 
+Freelance Anyone involved in the creation of content that is not a regular 
+employee of the legal entity. 
+Individual Journalist A Media Outlet that has only one person as the Content 
+creator. Also known as One-person enterprise. 
+Indirect Owner A person or corporation that has possession of all or part of a 
+Legal Entity by way of ownership of a holding company or 
+other organisation that is itself a Direct Owner. 
+Journalism The gathering, production and dissemination of information in 
+a framework of ethical values. 
+Legal Entity The corporation or other body organised under locally 
+applicable laws for the purpose of publishing under a brand 
+name or names. The Media Outlet works as a part of this. 
+Listener Member of an Audience.  
+Machine-Readable Description of content that is specifically designed to be 
+ingested into automated systems, typically used by large 
+platforms. Example is the robots.txt file found on most 
+websites at ''example.com/robots.txt'' 
+Media Outlet Any publication using one or more brand names that 
+produces content for consumption by an audience of readers, 
+viewers, etc. 
+N/A Or “na” in the questionnaire: “Not Applicable” used as an 
+answer when a question has a mandatory response that does 
+not have an applicable answer in that particular instance. 
+News Agency Any service that provides content to a Media Outlet. 
+Newsroom In general, the physical location of the Media Outlet, especially 
+the central place where the content is produced. 
+CWA 17493:2019 (E) 
+ 
+ 
+40 
+Objectivity The pursuit of journalism for the sake of the audience and not 
+for the goals of one person, organisation or any particular 
+point of view. (see Preamble for more about the key principles of 
+ethical journalism) 
+Ombudsman The non-gender-neutral version of ombudsperson. Not used 
+in this document. 
+Ombudsperson A representative of the audience who ideally has complete 
+independence to express opinions about content without 
+threat of interference. May be employed by the Media Outlet. 
+May be called a Readers Editor or a Viewers/Listeners’ 
+Advocate. 
+One-person enterprise > see individual journalist 
+Opinion Content that typically gives the views of the creator and does 
+not adhere as closely to the goals of objectivity or 
+impartiality. While no news content can be totally objective, 
+and no commentary is devoid of facts, in general, opinions are 
+designed to persuade or entertain rather than to inform. The 
+JTI Standard require that the difference be made clear to the 
+audience.  
+Post-publication Editorial control, or in some cases, an absence of editorial 
+control, of content that happens after publication, most 
+typically of user generated content. (see pre-publication) 
+Pre-publication Editorial control of content that happens before publication. 
+(see Post-publication) 
+Privacy Being free from public observation. In general, members of the 
+public have certain (but not unlimited) rights to privacy that 
+Media Outlets work to protect in balance with the goal of 
+informing the public. (see Preamble for more about the key 
+principles of ethical journalism) 
+Pseudonym A name used in the place of the real name of a person in 
+editorial content, typically for disclosed safety reasons. 
+Public Money Funding provided by the general public of a distinct 
+governmental boundary, in some cases through a separately 
+imposed license fee, mandated or direct donations, or through 
+subsidies from the state. 
+Reader A member of the audience. 
+Responsible Editor Person legally responsible for editorial content. For example, 
+this is a legally defined position in Sweden. 
+Revenue The total amount of money received by a legal entity. (see 
+also: Turnover) 
+Self-regulation The process of an organisation following a regulatory 
+framework without governmental or other external oversight. 
+Shareholder An individual or organisation that has some ownership stake 
+in a legal entity. 
+Social Media Platforms that structure and distribute content created by 
+users, Media Outlets, or others on the Internet and track the 
+behaviour of all users. 
+Sources People who provide information to Media Outlets. 
+CWA 17493:2019 (E) 
+ 
+ 
+41 
+Sponsored Content In whatever form, content that in some way is funded by an 
+organisation outside the Media Outlet. 
+Stakeholder Any person or organisation with a financial or other interest in 
+a topic. 
+State A unit of government. 
+Turnover (mainly British) The total revenue from all sources of income 
+for an organisation. 
+UGC/User generated content Content published in any way by a Media Outlet that 
+originated from the public or the audience and was not 
+generated by employees or freelancers. 
+URL “Uniform Resource Locator” The web address for a brand 
+name publication. For example, www.bbc.co.uk is the URL for 
+the BBC. 
+Viewer A member of an audience. 
+  
+CWA 17493:2019 (E) 
+ 
+ 
+42 
+VII. References 
+ [not exhaustive] 
+• The Council of Europe’s recommendation on media pluralism and transparency of media 
+ownership: [CMR 2018]: 
+https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680790e13 
+• The OSCE’s Joint Declaration on Media Independence and Diversity in the Digital Age 
+(OSCE_JointDecalaration37935.pdf): https://www.osce.org/representative-on-freedom-of-
+media/379351?download=true 
+• The EU’s revised Audiovisual Media Services Directive: https://eur-lex.europa.eu/legal-
+content/EN/TXT/HTML/?uri=CELEX:32018L1808&from=EN 
+• EBU’s position on Media Freedom and Pluralism: https://www.ebu.ch/legal-policy/media-
+freedom-pluralism 
+• European Commission on Media Freedom and Pluralism: https://ec.europa.eu/digital-single-
+market/en/policies/media-freedom-and-pluralism 
+• Access Info Europe - Ten recommendations on Transparency of Media Ownership (4 November 
+2013) [AIE 2013]: https://www.access-info.org/wp-
+content/uploads/TMO_Recommendations_05_November_2013.pdf 
+• Proposed Minimum Thresholds, Certified Content Coalition (our copy, draft spec v.0.3): 
+https://drive.google.com/open?id=0B-
+BhWVdbxEELbzhXaWE3dkNWdHd2OVZLa2dWdVlLel9SaWhN) 
+• ACE Project – Media Ownership and Elections: https://aceproject.org/ace-
+en/topics/me/meb/meb03a/default 
+• Trust Indicators, The Trust Project [TTP]: https://thetrustproject.org/faq/#indicator 
+• Pressekodex - Guidelines of the German Press Council: 
+https://www.presserat.de/fileadmin/user_upload/Downloads_Dateien/Pressekodex2017english
+.pdf 
+• Library of Congress: Disclosure of Beneficial Ownership in international Law [LOC 2017]: 
+https://www.loc.gov/law/help/beneficial-ownership/chart.php 
+  
+CWA 17493:2019 (E) 
+ 
+ 
+43 
+Reference Document – Model Editorial Guidelines 
+Pursuant to the mention of Editorial Guidelines in Chapter IV., Terms and Definitions, this document is 
+provided as a model and reference to subscribe to for those Media Outlets that don’t have or that don’t 
+prefer to provide their own Editorial Guidelines. This document is not part of the actual JTI Standard as laid 
+out in Chapter V. and the annexes above. 
+ 
+ 
+Our Mission 
+(Insert Name of News Media, INONM) […] is a provider of quality journalism, recognising that reliable, 
+useful and above all trustworthy information plays a crucial role in society.  
+Our aim is to report and to inform the public. In doing so we endeavour to respect the freedoms that 
+come with democracy, human rights and pluralism of opinion. 
+We recognise that such power demands responsibility and we aim to ensure that our journalists behave 
+professionally, while protecting their ability to investigate and report freely. 
+ 
+Editorial Guidelines 
+The purpose of these Editorial Guidelines is to protect and foster trust with our readers, and to protect 
+the integrity of […] (INONM) and its journalism, in whatever format it is published.  
+These guidelines form a practical working tool for our staff and they reinforce our commitment to the 
+core principles of journalism – accuracy and fact-based communications; impartiality and fairness; 
+humanity and respect for others; editorial independence; and accountability through transparency.  
+ 
+The guidelines set out our expectations of the behaviour of our staff, contractors and all others who 
+contribute to editorial content. They cover three areas: general newsroom management and practice, 
+basic editorial rules, and conflicts of interest. 
+ 
+The guidelines apply to all staff and are implemented in accordance with the organisation’s management 
+structure. They are monitored by senior staff and the editor-in-chief.  
+ 
+They are intended to be easily understood by the public and will be applied to all content, newsgathering 
+and production activities for which the publisher of (INONM) […] is responsible.  
+ 
+With this in mind, the company is developing or has developed verification guidelines for dealing with 
+online user content or other information received from the public at large.  
+In applying these guidelines, […] (INONM) dedicates its journalism to the public interest and the people’s 
+right of access to public information. 
+ 
+The public interest includes, but is not limited to, the following: 
+ 
+• The revelation or discussion of matters such as incompetence, malpractice or unethical behaviour 
+in public life;  
+• Putting the record straight where an individual or organisation has misled the public on a matter 
+of public importance;  
+CWA 17493:2019 (E) 
+ 
+ 
+44 
+• Revealing that a person or organisation may be failing to comply with their legal obligations;  
+• The proper administration of government at all levels of society; 
+• The open, fair and effective administration of justice;  
+• Public health and safety; 
+• National security;  
+• The prevention and detection of crime;  
+• The economic, educational and social development of society;  
+• The discussion or analysis of artistic or cultural works.  
+ 
+In defence of these public interests […] (INONM) is committed to  
+ 
+A. Editorial independence and ensuring that all forms of advertising, sponsored content or other 
+commercial editorial products are clearly marked and distinguished from editorial material 
+produced in line with the core principles of journalism; and  
+ 
+B. The prohibition of any content, whether editorial or publicly generated, on the grounds of 
+defamation, hate-speech, invasion of privacy or abuse. 
+ 
+These guidelines may form part of a journalist’s contract of employment, and may also be part of any 
+disciplinary, promotional or recruitment procedures for either editorial management or journalists. 
+By observing our guidelines and the core principles of journalism journalists working for […] (INONM) 
+will be protecting the independence, standing and reputation of themselves and their colleagues.  
+It is important that freelancers commissioned by the company also abide by these guidelines while on 
+assignment for the company. 
+CWA 17493:2019 (E) 
+ 
+ 
+45 
+1. General practice 
+ 
+a) Anonymous contributions 
+Articles commissioned by […] (INONM) are published anonymously or with pseudonyms only in 
+exceptional circumstances, for example if the author's safety, privacy or livelihood is threatened, and 
+then only with the permission of the responsible senior editor. In such cases, readers will be made aware 
+that identities have been withheld and an explanation given. This provision need not apply to authors 
+with established pseudonyms commissioned or hosted by […] (INONM) in that capacity.  
+ 
+b) Payments for Editorial Material  
+In general, we do not pay for stories, except from bona fide freelance sources. The responsible editor or 
+his/her deputy must approve rare exceptions. 
+In dealing with public officials, journalists must be aware that national law recognises a number of 
+criminal offences, which can be prosecuted. These include bribery by offering someone a financial or 
+other advantage to improperly perform an activity, or being bribed or bribing a foreign public official.  
+In some circumstances, offers or acceptances of hospitality and/or facilitation payments paid to public 
+officials in order to secure or expedite the performance of a routine or necessary action will be illegal. 
+Although there may be no public interest defence, where an individual is left with no alternative but to 
+make a facilitation payment in order to protect personal safety and security there may be a defence of 
+duress.  
+Staff should always discuss with the responsible editor beforehand or clarify policy with senior 
+management if they are concerned that any payments might be inappropriate and, if such payments are 
+requested or made, they should inform the editor-in-chief of the circumstances as soon as they are able to 
+afterwards. 
+ 
+c) Freelance staff: 
+The […] (INONM) supports good commissioning practice, including fair treatment of freelances. Editors 
+should make reference to good practice when commissioning new contributors. (See, for example 
+http://www.guardian.co.uk/info/guardian-news-media-freelance-charter)  
+ 
+d) Confidentiality: 
+Responsible editors and department heads with access to personal information relating to other 
+members of staff must treat such information as confidential and not disclose it to anyone except in the 
+course of discharging formal responsibilities.  
+ 
+  
+CWA 17493:2019 (E) 
+ 
+ 
+46 
+e) Copyright: 
+Journalists should not use content from non-authorised third-party sources - whether pictures, text or 
+other media - without obtaining the necessary permissions. However, use of available copyrighted 
+material under news access or criticism and review is acceptable and normally justified in law and 
+morally. 
+ 
+There are limited legal situations where permission may not be needed but journalists must check with 
+the responsible editors dealing with images or the legal department before using material without 
+permission.  
+Journalists should especially familiarise themselves with rules regarding rights and use of content from 
+public websites.  
+ 
+f) Errors: 
+It is our policy to correct significant errors as soon as possible. Journalists have a duty to cooperate 
+frankly and openly with the responsible editor and senior management and to report errors to them. All 
+complaints should be recorded and brought to the attention of the responsible editor. The process of 
+making and dealing with complaints should be made known to the public. 
+ 
+g) Legal Affairs: 
+The laws of libel and contempt laws are complex, and constantly developing. The consequences of court 
+actions can be expensive and damaging for our reputation.  
+Staff should: 
+i) familiarise themselves with the current state of the law and seek further information if they are 
+uncertain about aspects of it;  
+ii) consult our legal officers about specific concerns on stories;  
+iii) brief themselves on national legal conditions and active cases relevant to their work.  
+ 
+h) Privacy: 
+We are committed to respecting people’s privacy. Much journalism may be intrinsically intrusive but we 
+should avoid invading anyone’s privacy unnecessarily. There are times, when a clear public interest is to 
+be served, that journalists may have to sacrifice privacy protection. 
+Proportionality and proper prior consideration are essential where privacy issues may be involved. 
+Intrusion must be justified by the seriousness of the story and the public good that is likely to follow from 
+publication. Where possible it should be authorised at a senior level. 
+Likewise, the grounds for investigation must be strong; we do not conduct speculative reporting 
+expeditions unless the issue, suspicion and prospects of success are all serious.  
+Caution should also be exercised about reporting and publishing identifying details, such as street names 
+and numbers that may enable others to intrude on the privacy or safety of people who have become the 
+subject of media coverage.  
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+47 
+i)  Engagement with the Public: 
+Our most important relationship is the one we have with our readers and site users. Courtesy applies 
+whether an exchange takes place in person, by telephone, letter or email.  
+The company recognises that communication online, e.g. in blogs and social media domains, can be more 
+informal, brisk and, where a debate is underway, combative — but journalists should be mindful of the 
+guidelines on blogging and social media. 
+In using social media journalists with a known association with the company should not make public 
+pronouncements that may compromise the integrity of the company or call into question their own 
+journalistic independence or that go against the spirit of professionalism set out in these guidelines. 
+ 
+2. Editorial Rules  
+a) Accuracy and Verification  
+Trust in the accuracy, authenticity and reliability of our information is essential. Digital communications 
+present special challenges and we insist on seeking reliable corroboration of information. 
+Journalists should state the level of substantiation we have been able to achieve and indicate where we 
+have been unable to verify the facts independently.  
+We do not state as fact information about or from someone who we cannot authenticate (e.g., “A student 
+who says she witnessed the riot”, not “A student who witnessed the riot”).  
+ 
+Where relevant we are open with readers in explaining what medium is used to conduct interviews and 
+how we have verified information. Satisfaction with sources is the responsibility of editors as well as 
+reporters and correspondents, and desk editors should be confident in challenging the dependability of 
+information. 
+ 
+b) Attribution and Anonymous quotations  
+People often speak more honestly if they can speak anonymously and non-attributed quotes can assist 
+the reader towards a truer understanding of a subject. But indiscriminate use of anonymous sources can 
+be used to promote narrow undisclosed political, commercial or other special interests.  
+There may be exceptional circumstances when anonymous pejorative quotes may be used, but only after 
+consultation with the senior responsible editor. In the absence of specific approval, we should 
+paraphrase anonymous pejorative quotes.  
+We strive to be honest about our sources, even if we can’t name them.  
+ 
+c) Sources of Information  
+Sources who give information and who put themselves at risk may be promised confidentiality. They 
+should be protected at all costs. However, where possible, the sources of information should be identified 
+as specifically as possible.  
+Staff must not reproduce other people’s material without attribution, except in exceptional 
+circumstances – for example where the source must be protected — and only then with the permission of 
+a responsible senior editor.  
+The source of published material obtained from another organisation should be acknowledged, including 
+quotes taken from other newspaper articles.  
+Bylines should be carried only on material that is substantially the work of the named journalist. If an 
+article contains a significant amount of news agency copy then the news agency should also be credited. 
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+48 
+d) Copy approval: 
+The general rule is that interviewees or third parties should not be given the right to copy approval. In 
+certain circumstances we may allow people to see copy or quotes in the interests of accuracy but we are 
+not required to alter copy.  
+Offering copy approval should be avoided as a method of securing interviews or co-operation.  
+ 
+e) Reporting Children: 
+Special care should be taken when dealing with children (under the age of 16, although the rights of the 
+child in international law cover individuals under the age of 18).  
+ 
+Children should not be asked questions beyond their knowledge and capacity to answer. 
+The responsible editor must be informed when children are photographed or interviewed without the 
+consent of a responsible adult or parent.  
+Consent to publication should be sought where the child is reasonably considered able to make an 
+informed decision. 
+Journalists should not make significant intrusions into children's private lives without their 
+understanding and consent. If this happens it must be accompanied by a strong public interest 
+justification.  
+In view of the longevity of online material, editors should consider whether to obscure children's 
+identities to protect them from embarrassment or harm as they grow older.  
+ 
+f) Direct quotations: 
+Journalists and editors should never change direct quotations to alter their context or meaning, although 
+minor editing may be needed for clarity. 
+Quotations that include falsehoods should be qualified with additional language, particularly when used 
+in headlines or excerpts in Social Media. 
+ 
+g) Endorsements: 
+Journalists should not agree to promote through copy, photographs or footnotes the financial interests of 
+prospective interviewees or contributors, or their sponsors, as a means of securing access to them. 
+Promotional information about a subject should be included only where it is of genuine interest or 
+assistance to the reader. 
+ 
+h) Fairness and Use of Language: 
+We aim to provide inclusive and fair reporting which seeks to give voice to people or groups who are 
+criticised. The more serious the criticism or allegations we are reporting the greater the obligation to 
+allow the subject the opportunity to respond.  
+This right of response should be recognised for individuals and for groups, including minority groups, 
+where general criticisms are made. 
+Our journalists and editors respect the reader and we should not casually use words that are likely to 
+offend. The use of swear words, for instance, should only be when absolutely necessary to the facts of a 
+piece, or to portray a character in an article and then used in direct quotes. We avoid using such language 
+in headlines or otherwise highlighting such words and we never us asterisks. 
+CWA 17493:2019 (E) 
+ 
+ 
+49 
+Fairness does not mean ‘false’ equivalence of all viewpoints. Where scientific or other evidence points to 
+a certain conclusion beyond reasonable doubt, competing ones should not be presented as viable 
+alternatives. 
+ 
+i) Grief:  
+People should be treated with sensitivity in reporting periods of grief and trauma. 
+ 
+j) Photographs, videos and images: 
+Altering pictures or distorting audio-visual material is generally unacceptable. Where it takes place there 
+should be clear indication that the images have been changed and digitally enhanced or altered, images, 
+montages and illustrations should be clearly labelled.  
+ 
+k) Ethnicity: 
+In general, we do not publish someone’s race or ethnic background or religion unless that information is 
+relevant to the story. We do not report the race of criminal suspects unless the ethnic background is part 
+of a description that seeks to identify them or is important to the story (for example, in the case of hate 
+crime).  
+ 
+l) Subterfuge:  
+Journalists should be frank and identify themselves as company employees when working on a story. 
+There may be instances involving stories of exceptional public interest where this does not apply, but this 
+needs the approval of the responsible editor. This applies to anything we publish, including any 
+information obtained by the subterfuge of others. (See Privacy section above).  
+ 
+m) Self-harm:  
+Journalists are asked to exercise care in reporting self-harm, in particular, cases of suicide. People who 
+take their own lives are often disturbed more than people who carry out less extreme forms of self-harm, 
+but in all cases it is important to avoid reporting in ways that risk encouraging others or that may 
+compromise the privacy of others involved, including close relatives.  
+This should be borne in mind both in presentation, including the use of pictures, and in describing the 
+method of self-harm.  
+When appropriate, a helpline number should be given, general information related to suicide prevention 
+and support groups should be provided. For example, in the UK, the Samaritans can be contacted on 116 
+123 and in the US, the National Suicide Prevention Lifeline is 1-800-273-8255. Other international 
+suicide helplines can be found at www.befrienders.org. 
+ 
+3. Conflicts of interest  
+[…] (INONM) values our reputation for independence and integrity. Journalists clearly have lives, 
+interests, hobbies, convictions and beliefs outside their work.  
+We aim to ensure that outside interests do not come into conflict with our journalism or compromise our 
+editorial integrity.  
+The following guidelines concern all active outside interests which, should they remain undeclared and 
+become known, would cause a fair-minded reader to question the independence of our editorial work.  
+CWA 17493:2019 (E) 
+ 
+ 
+50 
+We recognise that objectivity is not a one-size-fits-all rule. A columnist, for instance, with views openly on 
+display, may have more latitude than a staff reporter, who would be expected to bring rigorous qualities 
+of objectivity to their work. If in doubt, journalists should consult a responsible editor or editor-in-chief.  
+ 
+a) Free gifts: 
+Staff should not be influenced by commercial considerations — including the interests of advertisers — 
+in the preparation of material for the paper.  
+No members of our staff, or freelancers with known connection to us, should use their position to obtain 
+private benefit for themselves or others. We do not allow any payment, gift or other advantage to 
+undermine the accuracy, fairness or independence of our journalism.  
+Any attempts to induce favourable editorial treatment through the offer of gifts or favours should be 
+reported to the editor. Where relevant, payments, gifts or other advantages will be disclosed.  
+Staff members should not use their positions to seek any benefit or advantage in personal business, 
+financial or commercial transactions not afforded to the public generally.  
+Staff should not use company stationery in connection with outside matters or cite a connection with the 
+company to resolve consumer grievances, get quicker service or seek discount or deals. 
+We should disclose when an airline, hotel or other interest has borne the cost of transporting or 
+accommodating a journalist. Acceptance of any such offer is conditional on editorial managers being free 
+to assign and report or not report any resulting story.  
+ 
+b) Commercial products: 
+No journalist or freelance primarily associated with us should endorse commercial products unless with 
+the express permission of the responsible editor or editor-in-chief. We should not be involved in 
+producing advertisement features (advertorials or any sponsored digital content).  
+c) Outside Interests: 
+Staff journalists have the right to activities outside work (including holding office or being otherwise 
+actively involved in organisations, companies or political parties). However, these may sometimes be 
+perceived as influencing or conflicting with the integrity of our journalism.  
+Staff should inform the editor-in-chief about any outside personal, philosophical or financial interests 
+that might conflict with their professional performance, or could be perceived as doing so.  
+ 
+d) Declarations of interest: 
+Journalists should declare an interest when we are writing about something with which he or she has a 
+significant connection. This applies to both staff journalists and freelances. The declaration should be to a 
+head of department or editor. Full transparency may mean disclosing the declaration in print and on the 
+website. 
+A connection does not have to be a formal one before it is necessary to declare it. Acting in an advisory 
+capacity in the preparation of a report for an organisation, for example, would require a declaration.  
+Some connections are obvious and may be why the writer has been commissioned. These should always 
+be stated at the end of the writer’s contribution even if he or she contributes regularly.  
+Generally speaking, a journalist should not write about or quote a relative or partner in a piece, even if 
+the relative or partner is an expert in the field in question. If, for any reason, an exception is made to this 
+rule, the connection should be made clear.  
+Commissioning editors should ensure that freelances are aware of the rules and are also bound where 
+appropriate to make any necessary declaration.  
+ 
+CWA 17493:2019 (E) 
+ 
+ 
+51 
+e) Declarations of corporate interest  
+[…] (INONM) is/is not connected to other media/non-media companies. We should be careful to 
+acknowledge that relationship in stories. Anyone writing a story concerning our related businesses 
+should seek comments and/or confirmation in the normal way. Staff should familiarise themselves with 
+the companies and interests we have.  
+At the end of this document we provide a summary of the areas and companies with which we have 
+connection, either through ownership or in which it has an interest. Full details are on our website […]. 
+ 
+f) Financial reporting: 
+[…] (INONM) maintains a register of personal shares where the ownership of such shares may lead to a 
+perceived conflict of interest. 
+All staff are expected to list all shares which are not personal investment such as provision for pensions 
+or trusts for family members.  
+They should disclose transactions in other shareholdings and other investments which we believe ought 
+to be properly disclosed because of a potential conflict of interest.  
+While it is acceptable for financial journalists to own shares, it is not acceptable for them to be market 
+traders on a regular basis. It is most important that the register is kept and that all information is up to 
+date.  
+These Editorial Guidelines: 
+• Prohibit the use of financial information for the profit of journalists or their associates;  
+• Impose restrictions on journalists writing about shares in which they or their close families have 
+a significant interest without internal disclosure;  
+• Stop journalists dealing in shares about which they have written recently or intend to write in the 
+near future; and  
+• Require that financial journalists take care not to publish inaccurate material and to distinguish 
+between comment, conjecture and fact. 
+This is particularly important for any journalists making investment recommendations to readers about 
+whether to buy, sell or hold shares.  
+ 
+g) Outside engagements: 
+The company accepts the journalist’s right to a private life and the right to take part in civic society. 
+However, staff should inform the responsible editor or editor-in-chief if, in their capacity as an employee, 
+they intend to:  
+• Give evidence to any court, 
+• Chair public forums or seminars arranged by professional conference organisers or commercial 
+organisations, 
+• Undertake any outside employment likely to conflict with their professional duties,  
+• Chair public or political forums or appear on platforms,  
+• Make representations or give evidence to any official body in connection with material that has 
+been published by the company. 
+Journalists invited to chair debates or appear on panels as a representative of the company should not 
+usually accept or request payment for doing so, unless preparation or attendance at the event involves a 
+significant call on private time.  
+CWA 17493:2019 (E) 
+ 
+ 
+52 
+Acceptance of payment should be approved in advance by the responsible editor or editor-in-chief having 
+particular regard for other clauses within these guidelines, such as conflict of interest, declarations of 
+interest and endorsement of commercial products. Travel and other reasonable expenses may be 
+accepted. 
+In general, staff journalists should not provide public relations advice, especially to an audience that has 
+paid to attend. Please consult the editor if in doubt.  
+ 
+h) Relationships: 
+Staff members should not write about, create film or take photographs or make news judgments about 
+any relation or individual related by marriage or with whom the staff member has a close personal, 
+financial or romantic relationship. A staff member who is placed in a circumstance in which the potential 
+for this kind of conflict exists should advise his or her department head. 
+Note: Where a journalist or editor has concerns about the ethical implications of behaviour or conduct in 
+any aspect of editorial work, including issues raised in these guidelines, we should seek advice from the 
+editor-in-chief or senior management of […] (INONM) In certain cases, we may seek advice also from 
+appropriate industry bodies or experts (e.g. a press council or external ombudsman). 
+ 
+Sources: The Guardian, IMPRESS, Agence France Presse, Ethical Journalism Network, Washington Post, 
+Channel 4, Ofcom 
+Version of November 2019 
+  
+CWA 17493:2019 (E) 
+ 
+ 
+53 
+VIII. Bibliography 
+ [not exhaustive] 
+American Society of Business Publication Editors 
+American Society of Magazine Editors 
+American Society of News Editors 
+Association of Health Care Journalists 
+Associated Press 
+British Broadcasting Corporation 
+Dow Jones 
+The Guardian 
+Impress 
+Independent Press Standards Organisation 
+International Fact Checkers Network (Poynter) 
+Le Monde 
+National Association of Science Writers 
+National Press Photographers Association 
+New York Times 
+Online News Association “Build Your Own Code of Ethics”  
+Radio Television Digital News Association 
+Reuters 
+SPJ 
+The Canadian Press 
+The Economist 
+Washington Post 
+
+CWA 17493:2019 (E) 
+ 
+ 
+54 
+ 

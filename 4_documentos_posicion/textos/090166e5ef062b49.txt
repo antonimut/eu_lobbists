@@ -1,0 +1,286 @@
+ 
+1 | P a g e  
+Philips feedback to European Health Data Space proposal 
+ 
+Philips welcomes the opportunity to provide feedback on the proposal. Philips supports the European 
+Commission’s intention for a European Health Data Space (EHDS) that strengthens individuals’ control 
+over their health data, promotes access to health data for research, better health outcomes, and offers 
+measures for thriving data sharing ecosystems and ensures that the EU remains competitive in the 
+global context.  
+ 
+The COVID-19 pandemic has accelerated the adoption of digital health technology. Telehealth and 
+remote patient monitoring turned from a novelty into a necessity. Faced with an acute scarcity of 
+resources, healthcare leaders also saw an urgent need to improve data sharing and care collaboration.  
+As we continue to emerge from the pandemic, there is a unique opportunity to embed such digital, 
+data-driven practices into everyday healthcare operations, and to rethink how and where care is 
+delivered to respond to the global trends of rising chronic diseases , patient expectations for more 
+convenient and personalized care experience, staff shortages and search for efficiencies to reduce 
+waste and costs.  
+ 
+At Philips, we envision the future of digital health as a connec ted and highly accessible network of 
+virtual and in-person care, with real-time and predictive insights supporting care collaboration across 
+the patient journey. In tandem, AI -enabled workflow optimization can help improve operational 
+efficiency so that healthcare professionals get to focus on what they do best: providing patient care.  
+We believe that digital transformation can support building resilient and future -proof healthcare 
+systems. Yet challenges remain. 
+ 
+While the overarching objective of the EHDS proposal is to make the use of health data more effective 
+and improve the functioning of the internal market for digital health products and services, it should:  
+ 
+- allow citizens and patients to take a more active role in their health and well-being by giving 
+them more access and control over their health data and ensuring that data is kept safe and 
+secure to build trust; 
+- preserve incentives to invest in ways of generating value through data in a balanced and 
+proportionate way;  
+- create a ha rmonized framework with clear and consistent mechanisms for primary and 
+secondary use of health data; 
+- ensure consistency with the existing legislation, in particular the General Data Protection 
+Regulation, the Medical Device Regulation and the ‘New Legislative Framework’, which already 
+include terminology, definitions and requirements covering various aspects of products that 
+would fall into the scope of the proposed EHDS, as well as the proposed AI Act and Data Act. 
+ 
+In the ongoing legislative process, the EHDS proposal should therefore be further clarified to provide 
+clear definitions , requirements and standards that are aligned with the existing  and future  EU 
+legislation, as well as international standards, and where necessary define clear rules for their order of 
+precedence/ prevalence.  
+ 
+Scope 
+ 
+- In order to align with the GDPR, we suggest amending Article 1.3 (b) which should read: ‘This 
+Regulation applies to: […] (b) controllers and processors established in the Union processing 
+personal electronic health data of Union citizens and third-country nationals legally residing in 
+the territories of Member States’. 
+ 
+ 
+Ref. Ares(2022)5243619 - 19/07/2022
+ 
+2 | P a g e  
+Primary use of electronic health data 
+ 
+- Citizens should be empowered to access and manage their own health data. The 
+interoperability of electronic health records and digital health tools should be improved to 
+fully deliver on the right to portability of health data for citizens and to provide the essential 
+clinical information in a patient-friendly language.  This is also needed to enable data altruism, 
+where citizens can share their health data to advance science and car e – at scale across the 
+EU. 
+ 
+Electronic health record systems (EHR systems) 
+ 
+Delineation between EHR systems, medical devices and high -risk AI systems  and the applicable 
+requirements 
+ 
+- While the Commission’s intention to fill a regulatory gap regarding EHR systems in the health 
+domain is understandable, the proposed - very broad - definition of EHR system will potentially 
+encompass medical devices which store, intermediate, import, expor t, convert, edit or view 
+electronic health records  and thus make the delineation between EHR systems, medical 
+devices and high-risk AI systems very challenging. While it will be often the case that a product 
+may meet all three definitions, it is crucial th at the interplay and prevalence of the diverse 
+requirements is clear and undebatable.  Article 14 of the EHDS, which intends to clarify the 
+interplay with medical devices under MDR and high-risk AI systems proposed in the AI Act, is 
+insufficiently clear - Recital 29 seems to indicate that if software falls within the definition of a 
+medical device and/or high-risk AI under their respective regulations, it should be certified in 
+accordance with those legislations.  
+ 
+- Article 14.3 seems to suggest a set up similar to the relation between the Machinery Directive 
+and the MDR, but only regarding products where the manufacturer would explicitly claim 
+interoperability with EHDS. It is, however, unclear so far what rules will apply to products that 
+meet all three definitions (of medical device , AI  system and EHR system ) while the 
+manufacturer may not explicitly ‘claim interoperability ’. We have two suggestions in this 
+regard:  
+ 
+i) Assuming our interpretation of Article 14.3. is correct, the wording of this provision 
+should be clarified to apply to all such devices meeting these overlapping definitions 
+(i.e., medical devices that due to their features also qualify as EHR systems) to prevent 
+requiring the manufacturer to conduct conformity assessments under all these three 
+regulations (MDR, AI Act and EHDS).  
+ 
+ii) Considering the mode of operation of medical devices, we also note that the current 
+definition of EHR system is so broadly defined that almost all medical devices would 
+always also be EHR systems which we doubt is the intent of this proposal. Therefore, 
+our suggestion in this aspect also includes adapting the definition by, at least as a 
+starting point, adding the wording ‘primarily intended by its manufacturer’ to prevent 
+that a secondary aspect (namely processing of electronic health data) renders a 
+ 
+3 | P a g e  
+medical device (the primary intended use of which is as defined in the MDR) into an 
+EHR system. 
+ 
+- In its current form, the EHDS proposal requires further clarification to avoid regulatory 
+uncertainty, increased compliance costs and administrative burden.  
+ 
+Interoperability and standards 
+ 
+- Manufacturers of medical devices and providers of high -risk AI systems (as defined in the 
+proposed AI Act) ‘claiming interoperability with the EHR systems ’ – as delineated by the 
+current text but to be further clarified if the intent would be for all devices that meet these 
+definitions, per facts - will have to prove compliance with the essential requirements on 
+interoperability set out in the EHDS proposal and the common conformity specifications to be 
+adopted by the European Commission via an implementing act. This requirement needs 
+clarification as to whether the EHDS proposed (technical) essential requirements for EHR 
+systems and such medical devices/AI systems complement or diverge from the requirements 
+under the MDR, as well as the impact these requirements will have on compliance with those 
+under the MDR. 
+ 
+- The key common specifications  for interoperability and security in respect of the essential 
+requirements listed in general terms in Annex II of the EHDS proposal are to be further defined. 
+However, the use of common specifications for interop erability and security (and other 
+elements specified in Article 23.3) may be problematic  as c ommon specifications may not 
+accurately reflect state of the art, especially when considering cybersecurity developments  
+and may not align, or could  even contradict international ly recognised interoperability 
+standards and formats for creating, storing and exchanging electronic health records. The use 
+of common specifications instead of internationally accepted (harmonized / recognized) 
+standards may lead to using outdated data formats which are no longer secure, state of the 
+art, and therefore unnecessarily restrictive, hampering innovation and introducing 
+additional barriers for European companies operating globally, where they would have to 
+implement multiple data formats to enter specific markets. 
+ 
+- Essential requirements for  interoperability and security in A nnex II  should provide more 
+specific criteria based on  which EHR systems and  interoperable medical device s can be 
+certified. To remove any remaining ambiguity and enable faster time to market, the existing 
+technical implementation guides should be used  as much as possible . Finally, the essential 
+requirements should be specific as to i) the type of the data that is expected from EHR system 
+and medical devices, ii) representation of the data and iii) how it is exchanged/or accessed by 
+the recipients with(in) the ecosystem. 
+ 
+- Achieving technical and semantic interoperability and seamless exchange of data and 
+information is critical to the success of the European Health Data Space and improvements in 
+clinical operations, patient outcomes and cost of healthcare. The interoperability of electronic 
+health records, in line with the existing European Electronic Health Record Exchange Format 
+and internationally rec ognized standards (e.g. HL7 FHIR , DICOM, DICOM Web, and IHE 
+profiles), as well as semantic and technical interoperability should be strengthened.  
+ 
+4 | P a g e  
+To avoid ambiguity, each data category needs to be further defined for true (structure and 
+semantic) interoperability between EHR-to-EHR and/or EHR-to-medical devices. In particular, 
+when it comes to the medical imaging data category, the requirements need to be further 
+defined as that could be interpreted in different ways by various stakeholders. 
+  
+- The governance framework should prioritize standardization needs and improve data 
+interoperability. It should be a natural extension of existing structures, such as the E -health 
+Network and the Multi -Stakeholder Platform (MSP) for ICT standardization, taking into 
+account the reality of the existing global standardization arena. In particular, there should be 
+a link to all relevant European and international standards development organizations (SDOs) 
+of all sorts, including industry consortia, and not only to the legally recognized ESOs (CEN, 
+CENELEC, ETSI) or their global equivalents (ISO, IEC, ITU). This must  be organized with due 
+stakeholder engagement, in particular with industry. An important goal would be to align on 
+shared views on the need for standards as input for SDOs, who could then base their own 
+priority setting on better and more homogeneous market demand insights. 
+ 
+- Where common specifications covering interoperability and security requirements of EHR 
+systems affect medical devices (under MDR) or high -risk AI systems (under AI Act proposal) 
+the drafting and adoption of those common specifications shall be  preceded by a 
+consultation with the Medical Devices Coordination Group (MDCG)  or the proposed 
+European AI Board. 
+  
+Secondary use of electronic health data 
+ 
+Definitions 
+ 
+- The definition of ‘ electronic health data’ in the proposal  includes both personal and non -
+personal electronic health data. These concepts are indispensable not only to define the scope 
+of the legislation but also for its objective to make the re -use of health data more effective . 
+Further clarity is needed  especially on th e concept of ‘non -personal electronic health data ’ 
+which is open to broad interpretation due to various applications of the GDPR and health data 
+processing rules in Member States. Where non-personal electronic health data means health 
+and genetic data in e lectronic form that fall outside of the definition  of personal data under 
+the GDPR, it would mean that only anonymised data will be available for download to the data 
+user under the EHDS . Considering that the effectiveness of anonymisation of e.g. medical 
+images is being questioned, medical images may never become available for download, 
+blocking the training, testing and evaluating of algorithms, which is part of the intent of the 
+EHDS as pointed out in its Recital 41. Similar types of electronic health da ta may experience 
+the same limitations. 
+In this regard, the EHDS proposal should be supported by long -overdue updated guidelines 
+from the European Data Protection Board on the concept of personal data and non-personal 
+data, as well as the ones on anonymization techniques  to ensure legal certainty for 
+stakeholders as to what the implications of the EHDS vis-à-vis different datasets could be.  
+ 
+- The distinction between ‘data holder’, ‘user’, and ‘data recipient’ should be clarified  as the 
+data value c hains are very complex. Furthermore, t he proposal does not differentiate nor 
+ 
+5 | P a g e  
+assign the roles of data controller and data processor  (concepts under the GDPR) , and also 
+does not clarify the delineation between these and the data holder. For instance, a medi cal 
+device manufacturer may not be the data holder and in control of data. This should be clarified 
+as to the interplay/relation between these and the data holder in line with the GDPR and in 
+light of the proposed Data Act. 
+ 
+General conditions for secondary use of data 
+ 
+- In the case of ‘electronic health data containing various improvements such as correction, 
+annotation, enrichment […]’ (Article 33.1 (o), it would help data and AI scientists to have more 
+clarity on the concepts of ‘correction’, ‘annotation’ and ‘enrichment’ to determine what needs 
+to be shared.  In addition, such corrected, annotated and enriched datasets received by the 
+data holder follow ing a processing based on a data permit should be accompanied by 
+information on the origin and the time of these improvements.   
+ 
+- The list of the minimum categories of electronic health data for secondary use  (Article 33) 
+should also include laboratory data which is crucial in the diagnosis and treatment of diseases 
+as well in providing insights into how to improve outcomes at the population level. 
+ 
+- Secondary use of electronic health data  for development and innovation activities for 
+products and services in Article 34 .1 (f) should be broader and include those products and 
+services that contribute to health, care and well-being of natural persons, as well as to the 
+general interest of the society as intended by the proposal.  
+ 
+- The obligation to share data should not hamper innovation . As currently proposed, it may 
+discourage companies to invest in expanding technology if they are at risk of having to share 
+what they have built up, not only in terms of data, datasets but also IP, trade secrets and 
+valuable know-how as all these may be embedded in the data having to be shared. The EHDS 
+proposal explicitly indicates that the obligation for data holder to disclose data also includes 
+electronic health data protected by IP and trade secrets but requires healt h data access 
+bodies to take all necessary measures to preserve confidentiality. What these measures 
+could be is unclear at this stage and requires further clarification  to offer sufficient 
+protection. 
+ 
+- As currently proposed, d ata sharing obligation might breach IP of third parties or breach 
+agreements that data holders might have with third parties. This should be further addressed 
+in the next stages of the legislative process to include appropriate safeguards. 
+ 
+International aspects  
+ 
+- The proposed international data access and transfer requirements are at risk of imposing data 
+localization and resulting in non -EU jurisdictions to implement, as a counter reaction, data 
+localization as well leading to more data fragmentation.  
+ 
+ 
+ 
+ 
+6 | P a g e  
+Governance and coordination 
+ 
+- The EHDS proposal, similarly, to other current legislative initiatives (e.g. , AI Act, Data Act) as 
+well as existing legislation (e.g., GDPR, MDR), calls for the creation of subject matter dedicated 
+(regulatory) bo dies and authorities. It also refers to the potential need for cooperation 
+between those, i.e. , designated authorities under the EHDS and data protection ones 
+established under the GDPR to ensure a consistent application. Further, we refer to the system 
+of authorities dedicated to the existing MDR and proposed AI Act and Data Act. The notion of 
+multiple competent authorities, considering their establishment and operationalization (not 
+to mention potentially divergent approaches and agendas), may give rise t o serious 
+compliance challenges for companies  but also represent unnecessary high and duplicated 
+cost on society and taxpayers. We would therefore suggest combining these bodies with the 
+existing ones to avoid unnecessary and costly proliferation of additional entities.  
+ 
+Transition period 
+ 
+- An adequate transition period of at least 48 months is needed  to allow for the necessary 
+adjustments to be made by all the participants in scope of this proposal. 
+ 
+We look forward to further engaging with the EU institutions in the legislative process  to create the 
+European Health Data Space that makes the most of t he potential of digital health to provide high -
+quality healthcare for all in the EU. 
+ 
+  
+*** 
+ 
+ 
+About Royal Philips 
+ 
+Royal Philips (NYSE: PHG, AEX: PHIA) is a leading health technology company focused on improving 
+people's health and well -being and enabling better outcomes across the health continuum – from 
+healthy living and prevention, to diagnosis, treatment and home care. Philips leverages advanced 
+technology and deep clinical and consumer insights to deliver integrated solutions. Headquartered in 
+the Netherlands, the company is a leader in diagnostic imaging, image -guided therapy, patient 
+monitoring and health inform atics, as well as in consumer health and home care. Philips generated 
+2021 sales of EUR 17.2 billion and employs approximately 79,000 employees with sales and services in 
+more than 100 countries. 
+ 

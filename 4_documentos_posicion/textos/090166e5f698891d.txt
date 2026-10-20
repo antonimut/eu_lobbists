@@ -1,0 +1,217 @@
+  
+1 
+ 
+Cyber Resilience Act 
+January 2023 
+Ensuring effective cybersecurity regulation  
+A business users’ perspective 
+Executive Summary 
+Effective cybersecurity regulation is crucial to enabling digital transformation of European 
+companies. Beltug, Cigref, CIO Platform Nederland and Voice-e.v. welcome the Commission’s 
+ambition to improve the cybersecurity of products with digital elements to “enable businesses 
+to use products with digital elements securely ” in its Cyber Resilience Act (CRA). We support 
+the focus on ensuring software security and the risk-based approach as core principles. 
+Together we represent the communities of Chief Information Officers (CIO’s) and other senior 
+leaders that are responsible for digital technologies and digital transformations within private 
+or public organisations. All our members are European business users of digital technologies; 
+they acquire, implement, and use digital technologies in practise. Thanks to our expertise, we 
+recommend the EU co-legislators to focus on the objectives below to ensure a balanced and 
+effective Cyber Resilience Act: 
+ 
+I. Adopt a coherent approach with other EU legal instruments on cybersecurity  
+II. Design a meaningful and practicable conformity assessment on the vulnerabilities 
+III. Introduce the ‘poluter pays for the damage’ principle in software  
+IV. Mitigate the risk of disclosure of the vulnerabilities 
+V. Strengthen the provisions regarding software and open-source elements 
+VI. Include cloud orchestration as critical products 
+Ref. Ares(2023)445522 - 20/01/2023
+  
+2 
+ 
+ 
+VII. Definition and practical implementation of appropriate measures (art. 10.12) 
+ 
+I. Adopt a coherent approach with other EU legal instruments on cybersecurity  
+ 
+In terms of cybersecurity, the EU adopted several legal instruments that together constitute 
+a solid corpus of texts. To ensure legal certainty and the effectiveness of EU cyberse curity 
+policy, it is critical that the definitions in the CRA are aligned with the definitions and 
+requirements developed in the NIS2 Directive recently adopted.  
+Likewise, we recommend aligning the definition of “incident” on the one in article 4 of the 
+NIS2 directive.  
+The concepts of “resilience” and “exploitable vulnerabilities” could also be better defined in 
+the regulation.   
+As the technology is continuously developing, either as a result of or independent from 
+legislation, it is probable that discussions will arise about a technology being in or out of scope 
+of CRA (or another legal framework for cybersecurity) at some point in time , or definitions 
+needing readjustment. There should be some mechanism for coordinating such developments 
+in the scope, definitions etc. across the EU, and across the various cybersecurity related laws, 
+to prevent loopholes from appearing or remaining in place to the de triment of cybersecurity 
+within the EU. 
+ 
+II. Design a meaningful and practicable conformity assessment on the vulnerabilities  
+ 
+Annex I Section 1 point 2 of the CRA states that products with digital elements “shall be 
+delivered without any known exploitable vulnerabilities”. While we understand -and support- 
+the overall objective, we doubt the practicality of this provision. No product will ever be 100% 
+  
+3 
+ 
+secure. Cybersecurity is a continuous process. Moreover, this provision does not integrate the 
+necessary time between the development of a product and its commercialisation. The reverse 
+effect of this provision is that it will prevent new products with better security processes to 
+be placed on the market.  
+Moreover, each vulnerability does not have the same level of impact. A risk -based approach 
+seems more appropriate. Remediating to the most critical vulnerabilities must be a priority.  
+We believe that the CRA should focus more on the reporting of significant incidents, just like 
+the NIS2 notification obligation or international standards. This would avoid the burden of 
+reporting minor or irrelevant incidents.  
+III. Introduce the ‘poluter pays for the damage’ principle in software  
+We believe that the CRA should include a provision regarding the compensation of the costs 
+borne by business users that are a direct result of faulty software and digital products. Indeed, 
+the management of the vulnerabilities is a growing burden for enterprises. They must bear 
+the costs of frequently patching security leaks, taking mitigating measures for weaknesses 
+that are not yet patched and other deficiencies in software they procure from a software 
+provider. It is important to note that software providers often waive their liability and are able 
+to do so due to dependency/lock -in of the user. Also, the business users cannot themselves 
+alter the software code, should they want to, due to the software source code being closed 
+or because of Intellectual Property Rights held by the provider.  
+At the foundation of the Cyber Resilience Act, should lie the assumption that producers of 
+digital technology products should have a strong incentive to deliver safe and secure products, 
+services and processes and that consumers and business users should be protected from, or 
+compensated for, costs and other damages caused by non-secured products. Just as a business 
+that pollutes the environment should pay for the cleaning, so software providers should pay 
+for the costs incurred by the users for insufficiently secure digital technology they put on the 
+market. This is a missing element in the current situation and in the Commission’s proposal.  
+  
+4 
+ 
+ 
+IV. Mitigate the risk of disclosure of the vulnerabilities 
+ 
+We fear that the requirements described for incident notification might be unpracticable. As 
+business users would be the collateral victims of a security incident, it is critical not to disclose 
+vulnerabilities before that the mitigations measures are in place. This warning is too weak in 
+the current proposal and should be made more explicit.  
+The reporting obligations must come only once the notifying entity has effectively mitigated 
+the incident. It would be detrimental to the product’s end -user if a vulnerability would be 
+disclosed before the mitigation plan would be implemented, as it would jeopardize the 
+security of its users.  
+Penalties upon providers that do not comply with the obligations  to mitigate the 
+vulnerabilities identified, are necessary to ensure the right incentive to act. 
+The CRA lays out an obligation for manufacturers to notify about actively exploited 
+vulnerabilities under 24 -hour (Article 11 paragraph 1).  This is an appropr iate timeline that 
+should be kept. Yet, it is necessary to clarify when the “24 hours” period starts. The mention 
+of “after becoming aware” is far too ambiguous, thereby lacking legal clarity and certainty. 
+We also question the limited resources of ENISA  to cope with the reporting obligations and 
+the ability to secure the database where all the vulnerabilities will be compiled.   
+We recommend aligning the provisions on the public disclosure of vulnerabilities on the 
+requirements developed in international  standards for vulnerability management and 
+disclosure (ISO 29147 and 30111). 
+ 
+V. Strengthen the provisions regarding software and open-source elements 
+ 
+  
+5 
+ 
+The exclusion of Software -as-a-Service (SaaS) from the scope of the CRA should be better 
+linked with the application of the NIS2 directive. Moreover, the wording in recital 9 (and article 
+3(2) on remote data processing) does not provide a clear vision on the scope of this exclusion. 
+The language used in the CRA is ambiguous as to whether SaaS and Platform -as-a-Service 
+(PaaS) products are excluded from the scope. 
+Specifically, we understand that where a product with digital elements within the scope of 
+CRA relies on a cloud-based service, this service will be in scope of the CRA. As cloud services 
+(including SaaS) are considered as essential entities under the NIS2 Directive, they will need 
+to comply with all its cybersecurity and risk-management requirements listed in Article 18 and 
+20 of the NIS2 Directive.  
+We call on the legislator to clarify that all kinds of software products (including SaaS) are within 
+the scope of the CRA, regardless of the way they are distributed.  
+The CRA should cover digital technologies in products, services and processes, during the 
+whole economic life cycle from a user perspective. 
+The CRA requires manufacturers to ensure that vulnerabilities are handled effectively for the 
+expected product lifetime or for 5 years, whichever is shorter (Article 10 paragraph 6). This 
+provision overlooked products with a long-term lifecycle.  
+Moreover, we believe that the current drafting of the text could lead to planned obsolescence 
+by manufacturers, a practice that could be costly for European companies, forcing them to 
+change their software prematurely for instance. Additionally, this would hav e a negative 
+impact from an environmental/sustainability perspective.   
+This context makes it very urgent  that the software provided is secure, right from the start, 
+and that security is maintained throughout the deployment and operational use of the 
+software by business users. It is important to force software manufacturers to develop, repair, 
+maintain and t est a particular software version for 5 years after it is placed on the market. 
+  
+6 
+ 
+Producers and vendors should be obliged to keep providing necessary updates and patches 
+throughout the economic life cycle, to keep ensuring the security of the software, and b y 
+extension all connected systems and users. The life cycle must not only consider the 
+producer’s perspective. It is critical that the provisions stating that software developer will 
+have to undergo multiple conformity assessments during a product’s lifeti me are upheld and 
+enforced.  
+We believe that if a manufacturer has decided to stop updating a software and does not want 
+to commercialise it anymore, it should ensure that other actors will be able to provide security 
+patches in the future. This will allow business users that might be dependent on this software 
+to operate to continue working in a safe environment.  
+We also notice that the regulation does not cover the progressive update of the software 
+currently placed in the market. A provision could be added to organise a progressive alignment 
+with the CRA requirements for them as well to ensure an increased level of security.  To 
+improve the legal certainty of the text, we believe that the notion of “substantial modification” 
+defined in Article 3 (31) should be better defined to avoid any bypass strategy. Also, we would 
+urge for the required 5 years period of security updates etc. to be reset after such substantial 
+modification or progressive updates, giving users at least five years to use the software 
+securely. 
+The CRA current drafting lacks clarity regarding the situation for open -source elements, 
+especially when products are using both digital elements and open -source components. 
+Therefore, we recommend that the CRA clarifies the role and limitations of  third-party 
+component manufacturers in the supply chain. 
+Additionally, we ask for inclusion of provisions in the CRA to prevent software providers from 
+evading their responsibility for not sufficiently secure software products they have already put 
+on the  market, by publishing its source code and putting the product in the open source 
+domain. 
+  
+7 
+ 
+ 
+VI. Include cloud orchestration in the list of critical products  
+ 
+In Class II Annex III the European Commission lists the types of critical products that will 
+require third party conformity assessment, thus ensuring that such products will fully comply 
+with the provisions of the CRA.  We believe that Cloud Orchestration  should be included in 
+this list. 
+Cloud Orchestration is the process of automating the tasks needed  to manage connections 
+and operations of workloads on private and public clouds. As such it is critical for the digital 
+transition of European compagnies.  
+ 
+VII. Corrective measures (art. 10.12) 
+Article 10, paragraph  12 states that a manufacturer who knows or has reason to believe that 
+its product is not in conformity with requirements “shall immediately take the corrective 
+measures necessary to bring that product with digital elements […] into conformity, to 
+withdraw or to recall the product, as appropriate.” Business users stress that, should such a 
+case arise, the manufacturer is not required or even allowed to directly remove the insecure 
+product from a (business) user’s system. This should be made clear in the CRA.  
+In such a situation, a notification to the business user of the non-conformity and its effects 
+on the business user should be made by the manufacturer, allowing the business user to 
+take appropriate measures to ensure its business continuity and security.  
+The CRA should clarify that all costs associated with this non-conformity, including i.a. the 
+patching of software, interruption of business processes and decommissioning, must be 
+borne by the manufacturer. 
+ 
+  
+8 
+ 
+We look forward to continuing to work closely with the European Commission, Parliament, and 
+Council to ensure digital resilience for European economy. 
+We are the Belgian, Dutch, French and German CIO -associations; the communities of Chief Information Officers 
+(CIO’s) and other senior leaders that are responsible for digital technologies and digital transformations within 
+private or public organisations. All our members are business users of digital technologies; they acquire, 
+implement, and use digital technologies in practise. We do not represent ICT providers and consultants.  
+Business users of digital technology are a key link in the digital transformation of society and economy: they rely 
+on the digital technologies they use, either hardware or software, and need these to be secure and safe to use 
+and compliant with EU laws and regulat ions. Business users also play an influential role in keeping digital 
+technologies used in their organizations and across Europe secure and compliant with European standards and 
+values through their combined purchasing power. To reap the benefits of digita l technologies in Europe, the 
+position of business users - companies and government organisations - of digital technology must be taken into 
+account. 
+For any information regarding this document, you can contact: 
+Vanessa Dewaele, Directrice de mission – +33 6 81 41 46 13 - vdewaele@cigref.fr 
+*** 

@@ -1,0 +1,498 @@
+Journal of Environmental Protection, 2015, 6, 1095-1104 
+Published Online October 2015 in SciRes. http://www.scirp.org/journal/jep 
+http://dx.doi.org/10.4236/jep.2015.610096  
+How to cite this paper: Di Maio, F. and Rem, P.C. (2015) A Robust Indicator for Promoting Circular Economy through Rec y-
+cling. Journal of Environmental Protection, 6, 1095-1104. http://dx.doi.org/10.4236/jep.2015.610096 
+ 
+ 
+A Robust Indicator for Promoting Circular 
+Economy through Recycling 
+Francesco Di Maio, Peter Carlo Rem 
+Delft University of Technology, Delft, The Netherlands 
+Email: f.dimaio@tudelft.nl  
+ 
+Received 25 August 2015; accepted 6 October 2015; published 9 October 2015 
+ 
+Copyright © 2015 by authors and Scientific Research Publishing Inc. 
+This work is licensed under the Creative Commons Attribution International License (CC BY).  
+http://creativecommons.org/licenses/by/4.0/ 
+  
+   
+ 
+ 
+ 
+Abstract 
+In order to move towards a more sustainable development, it is necessary not only to minimize 
+the use of materials in the design stage and to find new  materials as alternatives to nonrenewable 
+ones (e.g. optical  fiber instead of copper, biopolymers instead of polymers from oil) but also to 
+reclaim as much as possible material value through effective recycling . To this extent , recycling 
+can play a key role in multiple dimensions, while providing new business opportunities for inn o-
+vative companies, having positive impacts on the society and the environment and fostering an 
+effective circular economy as well.  Because of the advan ced waste management infrastructures 
+available in developed countries, it is possible to achieve an almost complete collection of solid 
+wastes into a variety of controlled bulk material flows. However , the picture for the follow-up step, 
+the recycling of raw materials such as steel, non -ferrous metals, polymers and glass from these 
+flows, is less positive. Materials value recovered from waste represents a very small fraction of 
+European GDP. The fundamental issue is that policymakers still lack an effective key performance 
+indicator for stimulating the recycling industry.  Therefore although recycling plays an important 
+role in the circular economy perspective, it is necessary to radically change the metric used so far 
+to compute the recycling rate. Nowadays , the recycling rate is computed measuring the amount of 
+material entering the recycling facilities. This approach has brought about an inaccurate and 
+somehow misleading indicator (the recycling rate) which contributed to wrong decision making 
+and to poor i nnovation in the industry.  The new approach proposed in this paper considers the 
+use of a Circular Economy Index (CEI) as the ratio of the material value produced by the recycler 
+(market value) by the intrinsic  material value
+1 entering the recycling facili ty. It is argued that this 
+index is related to strategic, economic and environmental aspects of recycling and it has very im-
+portant implications as decision making tool.  To compute the CEI it is necessary to know detailed 
+information of the components and materials contained in each end of life (EOL) product entering 
+the recycling facilities and how they end up in the recycled raw materials. Therefore an accurate 
+accounting of materials (with standards if available), mass, chemical composition and smallest 
+dimension (e.g. a screw, a plastic foil) is proposed. 
+ 
+ 
+1The present market value of all materials that would be needed to re-produce the EoL products that make up the waste. 
+Ref. Ares(2020)7993891 - 29/12/2020
+F. Di Maio, P. C. Rem 
+ 
+ 
+1096 
+Keywords 
+Recycling, Recycling Rate, Innovation, Policy, Resource Efficiency, Indicators  
+ 
+ 
+1. Introduction 
+The linear take -make-dispose economic model relies on large quantities of easily accessible resources, and as 
+such is increasingly unfit for the reality in which it operates  [1]. A reduction of resources consumed per unit of 
+manufacturing output can only slowdown the depletion of those resources as it cannot modify the finite nature of 
+their stocks.  Demand and competition for limited resources increase price volatility, cause environmental d e-
+gradation and threaten the competitiveness of cou ntries. That is why the European Union as well as other cou n-
+tries worldwide are striving to move toward a circular economy model [2]. 
+In order to move towards a more sustainable development and at the same time create opportunities for ec o-
+nomic growth, a fundamental transformation in producer and consumer behavior is needed. It is crucial  to in-
+crease the resource efficiency of production optimizing th e use of materials in the design stage and to find new 
+materials as alternatives to nonrenewable ones (e.g. optical fiber instead of copper, biopolymers instead of p o-
+lymers from oil). In many countries , it is also necessary to improve the resource efficiency of collection. Ho w-
+ever, what is most urgent is to minimize the amount of materials which are currently disposed of, through effe c-
+tive recycling (cf. Figure 1). 
+The waste management infrastructure of Europe is already well developed so that it achieves an almost co m-
+plete collection of solid wastes into a variety of controlled bulk material flows  [3]. The picture for the follow -up 
+step, the recycling of raw materials such as steel, non -ferrous metals, polymers and glass from these flows, is 
+less positive. Materials value recovered from waste represents less than 0.5% of European GDP, even at the 
+most favorable of economic conditions (EEA report). In most EU countries, recycling provides only between 5% 
+and 15% in value of the raw materials used in manufacturing and construction  [4]. The fundamental issue is that 
+policymakers still lack an effective key performance indicator for stimulating the recycling industry.  
+Therefore although recycling is currently playing an important role in the circular economy perspective, it is 
+necessary to radically change the metric used so far to compute the recycling rate. Nowadays the recycling rate 
+is computed measuring the amount of material entering the recycling facilities. This approach has brought about 
+an inaccurate and somehow misleading indicator (the recycling rate) which contributed to wrong decision mak-
+ing and to poor innovation in the industry [5] [6]. 
+It is well known that material recycling is beneficial not only for the enviro nment but also for the economy 
+and the society at large. Every kilogram of recycled material can replace primary material and therefore displac-
+es the activities that are needed to locate, mine and process it.  All such activities use energy, release pollution 
+and alter the landscape in ways that are perceived as a danger to the environment. Some raw materials (e.g. co-
+balt, copper, platinum, neodymium, etc.) involve also relevant social issues such as conflicts to access minerals, 
+human rights violations, black market, etc. [7]. 
+Because of the advanced waste management infrastructures available in developed countries, large amount of 
+end-of-life (EoL) industrial and consumer products are available. Despite their potential value,  these EoL pro d-
+ucts are still called waste residuals instead of “surface mines” waiting to be exploited [8]. However it is well es - 
+ 
+ 
+Figure 1. Material flow and resource efficiencies.                        
+
+F. Di Maio, P. C. Rem 
+ 
+ 
+1097 
+tablished that increasing the efficient use of resources creates economic value (at firm, national and European 
+level) and that the production of secondary materials is inherently more labor -intensive and less energy intensive 
+than the production of primary materials  [4]-[9]. Thus it creates significantly more jobs and requires higher l e-
+vels of skills, facilitating the entry of women into the labor [10]. 
+2. From a Linear to a Circular Economy 
+Europe has the world ’s highest net imports of resources per person, and its open economy relies heavily on i m-
+ported raw materials and energy. Secure access to resource s has become an increasingly strategic economic i s-
+sue, while possible negative social and environmental impacts on third countries constitute an additional concern  
+[11]. In 2013, a total amount of 5.7 billion tonnes [12] of materials has been used by the EU economy to provide 
+its citizens with the goods and services they needed. In terms of value, the above total amount accounts to about 
+400 bn euro
+2. 
+Considering that by 2050 the world population will hit 10 billion people, the increase in material use that 
+would occur even at the current development levels and resource consumption patterns will reach about 180% of 
+the 1990’s level [13]. However economic development (in the sense of GDP increase) will take place as it is the 
+main objective of governments in the developing as well as developed part of the world. Combining the effect of 
+population growth and GDP increase in the developing countries results in a hefty increase of the con sumption 
+of natural resources (up to 800% of the 1990’s value) [13]. 
+Besides the implications of the fact that materials extracted from the earth and utilized for economic purposes 
+are not literally “consumed” but become waste residuals that do not disappear and may cause environmental 
+damage and result in unpaid social costs [14], experts have calculated that without a rethink of how materials are 
+used in the current linear “ take-make-dispose” economy, the virgin stocks of several key materials appear i n-
+adequate to sustain the modern “ developed world” quality of life for all earth’s peoples under contemporary 
+technology [15]. Therefore it is necessary to move towards an industrial model that decouples economic growth 
+from material input: The Circular Economy (CE). CE models maintain the added value in products for as long as 
+possible and minimize waste. They keep resources within the economy when products no longer serve their 
+functions so that materials can be used again and therefore generate more value. Thus circular business models 
+create more value from each unit of resource than traditional linear models. 
+Although the CE approach contrasts with the mind -set embedded in most current industrial operations where 
+even the terminology (value chain, supply chain, end user) expresses a linear view, several benefits may rise 
+from the shift to the Circular Economy model and to a more resource-efficient path. 
+Since the early days of industrialization, companies mine and extract materials, use them to manu facture 
+goods and sell the goods to customers (or end users) who dispose of them when they become obsolete or no 
+longer useful. Some 65 billion tons of raw materials entered the economic system in 2010 and this figure is e x-
+pected to grow to around 82 billion tons in 2020 [16]. 
+The material saving potential arising from the transition to a CE model and to a more resource efficient path is 
+estimated to 500 billion €  per year for the European industry [17]. The job creation potential of remanufacturing 
+and recycling in Europe is estimated at one million [1]. From the strategic point of view the benefits of the CE 
+approach arise from the reduced risk of supply disruption and price volatility  as well as from the huge potential 
+for innovation related to new technologies (needed to increase resource productivity, material substitution, waste 
+management and recycling), improvements of the forward and reverse cycles (optimization of the supply cha in 
+and logistics) and business models. 
+3. The Need of New Indexes 
+Taking into account the facts outlined above,  we do believe that it is necessary to stimulate recycling through 
+proper legislation and effective financial incentives. To this extent we assum e that the robust and intuitive CE 
+index proposed in this paper can help society to achieve the social, environmental, economic and strategic goal-
+sit pursues. 
+To assess the environmental impact of any product throughout its life cycle, Life Cycle Assessmen t (LCA) is 
+currently used [18]. Although the LCA method provides good insights about the environmental burden of each 
+ 
+ 
+2The value of materials at the point where they are in their final chemical composition, but not yet manufactured as a part or component. 
+F. Di Maio, P. C. Rem 
+ 
+ 
+1098 
+product/industry, it is not al ways cost effective because a detailed LCA requires large amount of data and ther e-
+fore it is time consuming [18]-[20]. 
+Moreover the LCA studies provide information only on the environmental domain of sustainability, neglec t-
+ing the economic and social ones which should be addressed simultaneously  [19] [21] [22]. 
+Also material flow accounting and analysis (MFA) is at present used to assess environmental as well as 
+economic and other policies  [23].To address in particular the economic policies, a methodological guide for 
+economy-wide MFA (EW -MFA) has been developed by the Statistical Office of the European Commission 
+(EUROSTAT) in 2001  [12]. However expert experiences in reviewing progress of these indicators toward n u-
+merical targets, have revealed several practical problems with the calculated indicators. For instance the time -lag 
+in the availability of data and the fact that EW -MFA indicators are inherently macroscopic so that it is difficult 
+to observe the direct effects of individual efforts to achieve CE [23]. 
+4. The Driving Forces for the New Approach 
+The Circular Economy Index (CEI) proposed in this article uses a different approach. It aims at introducing the 
+economic value of the materials embedded in consumers pro ducts as the property to be measured and accounted. 
+It is argued that this index is related to a wide range of strategic, economic, social and environmental aspects of 
+recycling and is therefore a proper instrument for decision making. 
+An important aspect of the CEI is that it does need data that are available in the companies’ financial reports  
+and in the bureaus of statistics so that the analysis of the performance is possible at firm as well as sector level 
+(local, national or European). 
+Because the CEI intuitively represents the effectiveness of recycling firms at extracting value from the 
+processed materials, it represents a decision making tool which will help management and policy makers to steer 
+decision towards value creation and technological innovation. 
+A successful indicator for policymaking is always a compromise between the need for conceptual simplicity, 
+the cost of evaluation and the degree to which the indicator is in parallel with current policy targets. Mass rec y-
+cling rates, for example, ar e vastly popular for their conceptual simplicity and the relative ease of computing it 
+for specific (categories of) EoL products (cf. Fig ure 2). Yet, the relation between the indicator and primary 
+economic and environmental policy targets such as job creation and reduction of greenhouse gases is not very 
+clear. Also, the indicator cannot be tuned to changes in the focus of policies. In contrast, (Social) Life Cycle 
+Assessment can provide indicators relating to many aspects of policy, and therefore can also be tuned to changes 
+in policy, but it is a very expensive tool and it is so complex that different LCA studies may deliver vastly di f-
+ferent results for the same subject (cf. Figure 2). 
+Conceptual simplicity provides an indicator with robustness and reliability: different studies will reach similar 
+conclusions, as there is little room for alternative interpretations. For the cost of evaluation, a critical point apart 
+from conceptual simplicity is whether the computatio n of the indicator requires anything beyond readily avail a-
+ble data. In regard to these two requirements, the best indicators are those that can be computed automatically  
+ 
+ 
+Figure 2. Alignment with policy vs complexity.   
+
+F. Di Maio, P. C. Rem 
+ 
+ 
+1099 
+(i.e., without issues requiring human interpretation) on the basis of data from standard, e.g. financial, reports.  
+Simple and cheap indicators typically point at a specific policy aspect, while they correlate, indirectly, with a 
+number of other aspects. Mass recycling rates, for example,  are directly related with the amount of waste that is 
+deflected from landfills or incineration. Indirectly, mass recycling rates also correlate with the creation of jobs 
+and the reduction of greenhouse gases. However, the relation between deflecting waste from landfills and creat-
+ing jobs is so indirect that if creation of jobs becomes more important, at one point in time, than deflection from 
+landfills, it makes sense to move to a different indicator. 
+The CEI proposed in this paper aims to be as simple as the mass recycling rate and  better aligned with social, 
+environmental and economic policies than the mass recycling rate while at the same moment, being simpler than 
+LCA to be computed (cf. Figure 2). 
+5. The Circular Economy Index 
+Along with reuse and refurbish/remanufacturing, recycling plays an important role within the circular economy 
+model and is often considered a cornerstone of a broader vision for the sustainability of a closed- loop society 
+[6]. 
+As material resources such as metal ores are becoming scarcer, there is an increasing incentive for upstream 
+industries, such as smelters, to look for a secondary supply of resources  from recycling activities. By stren g-
+thening the links between the primary resource supply sector and the recycling and waste management sector, 
+both resource supply issues and waste management issues can be better addressed.  Therefore indicators 
+representing the recycling rate of materials and products have been used in the past.  However, the definition of 
+recycling rate varies considerably, mainly because both the numerator and denominator of the fraction that 
+represent a recycling rate have been inconsistently chosen. The numerator often represents the amount of waste 
+separated from waste streams for subsequent recycling, but usually the amount actually recycled is less than that 
+separated because of the generation of residues in downstream recycl ing processes. This approach has brought 
+about an inaccurate and somehow misleading indicator (the recycling rate) which might have contributed to 
+wrong decision making and to poor innovation in the recycling industry. 
+The Circular Economy Index (CEI) prop osed in this paper is the ratio of the material value produced by the 
+recycler (market value) by the material value entering the recycling facility. In other words:  
+( )
+( ) ( )
+Material value recycled from EOL product sCEI Material value needed for re producing EOL  product s= −  
+Although several units to measure the resource efficiency are available (e.g. mass, volume, embedded energy, 
+carbon footprint), the economic value (e.g. €, $) has been selected because is aligns best with the present EU 
+policies which aim at fostering social and environmental benefits for citizens. To avoid any inconsi stency, the 
+values should be measured as soon as EoL products are collected (at the beginning of Arrow 3 in Fig ure 1) and 
+just before the materials enter the production process (at the end of Arrow 1in Figure 1). 
+The CEI solves some problems of LCA and mass recycling rates in a very elegant way. Unlike mass recycling 
+rates, the CEI adjusts itself automatically if some specific material becomes more expensive because it is less 
+available, e.g. as a consequence of strat egic issues, or if a material becomes cheaper because of a very efficient 
+recycling technology. 
+Unlike LCA’s, the computation of the CEI does not become more complex because a material is produced in 
+alternative ways (e.g. by the primary industry or by recycling) or at different qualities. Producers will always use 
+the cheapest material that fit the required quality, and so the CEI will automatically adjust.  
+As recycling rate does, CEI is easy to be computed and it uses data which are easily made available.  From 
+management point of view it is easy to understand and compute it without doing complex calculations or calc u-
+lations which use estimates to be performed. However from the scientific point of view, the recycling rate is not 
+a suitable indicator because it is not directly related to what we want to achieve (it is not clear how it correlates 
+to the societal impacts (economics, job creation, environment, strategic, ethical issues)). On the other hand, the 
+LCA based thinking is rather good from the scientif ic point of view the, but from the management point of view 
+is not feasible because it requires complex calculations which sometimes need estimate numbers to be per-
+formed. 
+While it won’t be possible to enforce a law requiring that all companies should perf orm an LCA, it will be  
+F. Di Maio, P. C. Rem 
+ 
+ 
+1100 
+possible to do it with the CEI because it is easy to be interpreted and computed and does not require extra human 
+resources to be done. These two points are extremely important for successful policies. We can only have su c-
+cessful policies if we have a driver (the index), if we can measure it, if it is clear to everybody what it means, 
+and if it is related to what we want to achieve. Furthermore it should be noticed the need of policies which speed 
+up circularity. Although current p olicies stimulate waste collection, most materials are not properly re -used or 
+recycled (e.g. plastics). 
+To compute the CEI for a specific EoL product, it is necessary to know detailed information of the comp o-
+nents and materials contained in each end of life (EOL) product entering the recycling facilities. Therefore an 
+accurate accounting process taking into consideration the materials (with standards if available), mass, chemical 
+composition and smallest dimension (e.g. a screw) is proposed. 
+An important aspect of the CEI is the possibility to compute it also at sector or company levels  by making use 
+of the financial data contained in the financial reports at company level or in the database of the institutions 
+which collect data at national level (e.g. bureau of statistics, chamber of commerce, etc.). 
+6. Experimental (KRI) and Financial (GVA) Calculation Methods 
+To experimentally compute the CEI it is necessary to know detailed information of the components and mat e-
+rials contained in each end of life (EoL ) product entering the recycling facilities. Therefore the development and 
+demonstration of Key Recycling Info (KRI) system which takes into consideration the materials (with standards 
+if available), mass, chemical composition and smallest dimension (e.g. a screw) is necessary. EOL products 
+should be taken apart in all components and dismantled ( i.e. a model of flat panel display, a model of washing 
+machine, five regular plastic packaging). Each EOL’s component should be disassembled and documented so 
+that the precise number of indivisible components as well as amount of each material contained in the selected 
+product goods is available and collected in the Key Recycling Info sheet. From this sheet the precise market 
+value embedded in the EOL products can be calculated at any time. 
+Industry plays an important role for innovation and efficiency in a market economy and is particularly prone 
+to generate value from scarce resources. It is generally accepted that without corporate support, society will not 
+achieve environmental sustainability, as firms represent the productive resources of the economy  [24]. Therefore 
+an index that is easy to interpret and cheap to be computed using existing information is very important to make 
+the green business case more appealing. This way industry will likely increase their contribution to minimize 
+environmental challenges and pressures. 
+The Gross Value Added method takes into consideration the value of the materials contained in each fun c-
+tional component a product is made of. Although this information may be considered as confidential when the 
+product is launched on the market, it is no longer the case after a predictable period of time (which depends from 
+the specific consumer product characteristics). As soon as the product reaches its end of life and enters the recy-
+cling facilities, it will be possible to calculate the GVA generated by processing that product.  
+The GVA can be computed also using financial data. The general formula of GVA is the following:  
+GVA = Recycling firm revenues—non factor costs . 
+Recycling firm revenues include mainly revenues from selling secondary materials.  
+Non-factor costs for recycling companies include costs for energy and input materials. 
+Therefore the GVA of recycling companies consists mainly of the resource added value of the recycling ac-
+tivities. 
+The CEI will be the ratio of the GVA over the material input value (cf. Figure 3). 
+7. How CEI Relates to Economic Social and Environmental Issues 
+The CEI is linked to several targets we want to achieve in society (e.g. economic growth) and from management 
+point of view requires data that can actually be easily generated (GVA). Fr om the science point of view it relates 
+to the societal and environmental impacts of economic growth. 
+Figure 4 shows how CEI correlates with the carbon footprint avoided by recycling. 
+From Figure 4 it is clear that the use of current recycling rate (based on mass) as an index to stimulate recycling 
+is not as effective as the CEI. The graph shows that reclaiming material value from waste strongly correlates 
+with reducing carbon footprint. For example  if we suppose for convenience that a car is made of just four 
+materials (steel, aluminum, copper and plastics), the current target recycling rate of 85% set by the European  
+F. Di Maio, P. C. Rem 
+ 
+ 
+1101 
+ 
+Figure 3. The circular economy index at EoL product level and at sector level.               
+ 
+ 
+Figure 4. The carbon emission in kilograms of CO 2 per kilogram of material produced versus 
+the price of materials (data from [25]).                                                  
+ 
+Commission directive [26], is driving recyclers to maximize the separation of steel rather than aluminum, copper 
+or plastics. This is due to the available state of art technologies that can effectively separate steel scraps from the 
+automotive shredder residues (ASR). However from Figure  4 appears that separating the more valuable Al and 
+plastics materials provides considerable environmental benefits along with an economic one. Considering that 
+recycling plastics from ASR require advanced technologies, if policy makers set the recycling tar get based on 
+mass rather than on value (so that there will be no difference between a kg of steel and one of Al or plastics), the 
+recycling industry will maximize steel recycling and will not develop new technologies. Therefore these policies 
+do not foster the recycling of materials that can generate more revenues, create more jobs and have higher foo t-
+print than steel. 
+The following example will make the above point even more outstanding. If the composition of the car is the 
+one presented in Table 1. 
+Three scenarios can be envisaged: 
+
+F. Di Maio, P. C. Rem 
+ 
+ 
+1102 
+Table 1. Car composition in kg.                                                                               
+Materials Steel Plastics Al Cu 
+Mass (kg) 600 130 50 20 
+ 
+1) Use of standard technology to extract 620 kg of steel contaminated by Cu from the ASR.  
+2) Use of advanced technology to extract 130 kg plastics plus 50 kg Al from the ASR.  
+3) Use of advanced technology to separate steel from Cu. 
+From the mass recycling rate point of view, the largest contribution is  in Scenario 1 because the larger amount 
+of material (low grade steel) is recycled from the EoL car (620 kg). However if we use a CEI approach, the s e-
+paration of the 120 kg of plastics and the 50 kg of Al, produces a higher value and at the same time, has a higher 
+positive impact on the environment (cf. Figure  4). It is clear that the mass recycling rate approach provides a 
+smaller incentive to valorize the plastics and Al contained in the ASR. This is even more evident looking at 
+Scenario 3. In this case, the mass recycling rate approach produces no outcome at all. Therefore there is no 
+driving force for separating steel from Cu. On the other hand, the CEI approach encourages the separation of 
+these metals because the value of 600 kg hig h grade steel and 20 kg Cu is much higher than the 620 kg of low 
+grade steel coming from Scenario 1. Therefore the use of the CEI approach is a driver for the use of innovative 
+technologies, creates economic value and jobs and it has positive effects on the environment. 
+8. Science and Policy Requirements 
+Concerns about sustainable management of natural resources and efficient use of raw materials are growing 
+worldwide. In particular materials and energy security. At the same time, the need to minimize environmental 
+impact is more critical than ever. Against this background, many governments have increased efforts to promote 
+deployment of resources efficient technologies that can strengthen resources security. This may stimulate an i n-
+terest in innovative green technologies so that they are now a growing sector of the sustainable technology field. 
+Transforming the economy onto a resource -efficient path will bring increased competitiveness and new 
+sources of growth and jobs through cost savings from improve d efficiency, commercialisation of innovations 
+and better management of resources over their whole life cycle. This requires policies that recognize the inter-
+dependencies between the economy, wellbeing and natural capital and seeks to remove barriers to im proved re-
+source efficiency, whilst providing a fair, flexible, predictable and coherent basis for business to operate [11]. 
+In order for decision makers to be effective, they need robust and clear indicators that show the links between 
+social, environmental and economic goals so that they can better understand how to achieve economic growth 
+that is in harmony with the natural systems within which we live and work [27] [28]. 
+Indicators can be used i) individually, ii) as part of a set, or iii) in the form of a composite index that combines 
+individual indicator scores into a single number. Such a single aggregated number can be very useful in comm u-
+nicating information on general sustainability to the public and to decision makers  [27]. Possible disadvantages  
+are that the methods to achieve an aggregation are often subjective [29] [30] and that every index contains hi d-
+den assumptions and simplifications [31]. Therefore, such combined indicators need to be used judiciously. Fa r-
+rell and Hart (1998) state that in many cases, indicators to measure sustainability are no more than combined 
+lists of traditional economic, environmental and social indicators with the word ‘sustainable’ added to the title. 
+Nevertheless, such combination is a first significant step because it recognizes that all three areas (economic, 
+ecological and social) matter: sustainable development is a holistic concept and ideally one should strive to co n-
+sider all three pillars o f sustainability simultaneously [28]. Therefore, it is important that the development of in-
+dicators does not stop at this stage  [27]. Economic and ecological analysis need to be combined  [32] and one 
+should concentrate on the interaction rather than on just the environment itself  [33]. The advantage of aggregate 
+indicators is that the information is presented in a format tailored to decision makers  [33]-[35]. However, we 
+need to be careful and informed about the way of aggregation, the uncertainties, the weights and the data source. 
+Decision makers are too busy to deal with these details and the beauty o f the aggregate indicator is the fact that 
+it does the job for them  [34]. But, no single indicator can possibly answer all questions and therefore m ul-
+ti-dimensional indicators can be needed [36] [37]. 
+The advantage of the CEI proposed here is that it provides a clear indication of how good a recycling comp a-
+ny is in valorizing the materials it processes and in combination with the KRI give  environmental, technical and 
+F. Di Maio, P. C. Rem 
+ 
+ 
+1103 
+economic information which are useful to better perform LCA, MFA, I/O analysis, to design recycling processes 
+and to predict the amount of stock-in-use materials. 
+Moreover the CEI and KRI may be used by policy makers to foster  innovation by properly designing envi-
+ronmental standards. Such standards can trigger innovation that may partially or more than fully offset the costs 
+of complying with them. Such “ innovation offsets, ” [38], can not only lower the net cost of meeting enviro n-
+mental regulations, but can even lead to absolute advantages over firms in foreign countries not subject to sim i-
+lar regulations. Innovation offs ets will be common because reducing pollution and increase resources efficiency 
+is often coincident with improving the productivity with which resources are used. In short, firms can actually 
+benefit from properly crafted environmental regulations that are more stringent (or are imposed earlier) than 
+those faced by their competitors in other countries. By stimulating innovation, strict environmental regulations 
+can actually enhance competitiveness. 
+9. Conclusions 
+In this paper, we argue that in order to mov e towards a more sustainable development, it is necessary to reclaim 
+as much as possible material value from waste through effective recycling. To date this is not happening because 
+the current indicators are not properly related to socio -economic goals. T herefore we propose a simple and r o-
+bust indicator (the CEI) that is easy to be calculated and interpreted. 
+We show that the CEI is related to societal targets as well as the environmental and economic ones. Extracting 
+value from EOL products brings about i ncreased revenues (more jobs) and at the same time, decreases the i m-
+pact on the environment. 
+The indicator we proposed fosters the use of innovative technologies to valorize the secondary resources co n-
+tained in waste streams. 
+References 
+[1] Ellen Mac Arthur Foundation (2014) Toward the Circular Economy— Accelerating the Scale-Up across Global Supply 
+Chains. 
+[2] European Commission (2014) Towards a Circular Economy : A Zero Waste Programme for Europe. Communication 
+from the Commission to the European Parliament, the  Council, the European Economic and Social Committee and the 
+Committee of the Regions, COM(2014) 398 Final/2. 
+[3] Golder Europe EEIG (2004) Implementation of the Landfill Directive in the 15 Member States of the European Union, 
+ENV.A.2/ETU/2004/0016. 
+[4] Hüther, M. (2010) Volkswirtschaftliche Bedeutung der Entsorgungs —und  Rohstoffwirtschaft, Institut der Deutschen  
+Wirtschaft Köln. 
+[5] European Parliament and Council Directive 94/62/EC, 1994, on Packaging and Packaging Waste. 
+[6] Gutowski, T.G., Allwood, J.M., Herrmann, C. and Sahni, S. (2013) A Global Assessment of Manufacturing: Economic 
+Development, Energy Use, Carbon Emissions, and the Potential for Energy Efficiency and Materials Recycling. Annual 
+Review of Environmental Resources, 38, 81-106. http://dx.doi.org/10.1146/annurev-environ-041112-110510 
+[7] Whitney, T. (2015) Conflict Minerals, Black Markets, and Transparency: The Legislative Background of Dodd -Frank 
+Section 1502 and Its Historical Lessons. Journal of Human Rights, 14, 183-200.  
+http://dx.doi.org/10.1080/14754835.2015.1021036 
+[8] UNEP (2011) Recycling Rates of Metals, A Status Report. United Nations Environmental Programme. 
+[9] EEA Report| No 8/2011, Earnings, Jobs and Innovation, the Role of Recycling in a Green Economy. 
+[10] Blake, M.K.  and Hanson, S. (2005) Rethinking Innovation: Context and Gender . Environment and Planning A , 37, 
+681-701. http://dx.doi.org/10.1068/a3710 
+[11] European Commission (2011) Roadmap to a Resource Efficient Europe. Communication f rom the Commission to the 
+European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, 
+COM(2011) 571 Final. 
+[12] EUROSTAT (2001) Economy -Wide Material Flow Accounts and Derived Indicators —A Methodological Guide. O f-
+fice for Official Publications of the European Communities, Luxemburg. 
+[13] Ayres, R.U. (2008) Sustainability Economics: Where Do We Stand? Ecological Economics, 67, 281-310. 
+http://dx.doi.org/10.1016/j.ecolecon.2007.12.009 
+[14] Ayres, R.U. and Kneese, A.V. (1969) Production, Consumption & Externalities. American Economic Review, 59, 282- 
+F. Di Maio, P. C. Rem 
+ 
+ 
+1104 
+296. 
+[15] Gordon, R.B., Bertram, M.  and Graedel, T.E. (2005) Metal Stock and Sustainability. Proceedings of the National 
+Academy of Sciences of the United States of America, 103, 1209-1214. 
+[16] Ellen Mac Arthur Foundation (2014) Toward the Circular Economy—Economic and Business Rationale  for an Accel-
+erated Transition. 
+[17] Europe INNOVA (2012) Guide to Resource Efficiency in Manufacturing. 
+[18] Guinée, J.B., Gorrée , M., Heijungs, R., Huppes, G., Kleijn, R., de Koning, A., van Oers, L., Wegener Sleeswijk, A., 
+Suh, S., Udo de Haes, H.A., de Bruijn, H., van Duin, R., Huijbregts, M.A.J., Lindeijer, E., Roorda, A.A.H., van der 
+Ven, B.L. and Weidema, B.P., Eds. (2002) Handbook on Life Cycle Assessment. Operational Guide to the ISO Sta n-
+dards. Institute for Environmental Sciences. Leiden University, Leiden. 
+[19] Thomassen, M.A., Dolman, M.A., van Calker, K.J. and de Boer, I.J.M. (2009) Relating Life Cycle Assessment Indica-
+tors to Gross Value Added for Dutch Dairy Farms. Ecological Economics, 68, 2278-2284. 
+http://dx.doi.org/10.1016/j.ecolecon.2009.02.011 
+[20] Wäger, P.A. and Hischier, R. (2015) Life Cycle Assessment of Post -Consumer Plastics Production from Waste Ele c-
+trical and Electronic Equipment (WEEE) Treatment Residues in a Central European Plastics Recycling Plant. Science 
+of the Total Environment, 529, 158-167. http://dx.doi.org/10.1016/j.scitotenv.2015.05.043 
+[21] Glavič, P. and Lukman, R. (2007) Review of Sustainability Terms and Their Definitions. Journal of Cleaner Produc-
+tion, 15, 1875-1885. http://dx.doi.org/10.1016/j.jclepro.2006.12.006 
+[22] Ness, B., Urbel -Piirsalu, E., Anderberg, S.  and Olsson, L. (2007) Categorising Tools for Sustainability Assessment. 
+Ecological Economics, 60, 498-508. http://dx.doi.org/10.1016/j.ecolecon.2006.07.023 
+[23] Moriguchi, Y. (2007) Material Flow Indicators to Measure Progress toward a Sound Material -Cycle Society. Waste 
+Management, 9, 112-120. http://dx.doi.org/10.1007/s10163-007-0182-0 
+[24] Bansal, P. (200 2) The Corporate Challenges of Sustainable Development. Academy of Management Executive, 16, 
+122-131. http://dx.doi.org/10.5465/AME.2002.7173572 
+[25] Gutowski, T.G., Sahni, S., Allwood, J.M., Ashby, M.F. and Worrell, E. (2013) The Energy Required to Produce Mate-
+rials: Constraints on Energy -Intensity Improvements, Parameters of Demand. Philosophical Transactions of the Royal 
+Society A, 371, Article ID: 20120003. http://dx.doi.org/10.1098/rsta.2012.0003 
+[26] European Commission (2000) Directive 2000/53/EC of the European Parliament and of the Council on End-of Life 
+Vehicles. 
+[27] Farrell, A. and Hart, M. (1998) What Does Sustainability Really Mean? The Search for Useful Indicators. Environment, 
+40, 4-9. http://dx.doi.org/10.1080/00139159809605096 
+[28] Van Passel, S., Nevensa, F.,  Mathijsb, E. and Van Huylenbroeck, G.  (2007) Measuring Farm Sustainability and E x-
+plaining Differences in Sustainable Efficiency. Ecological Economics, 62, 149-161. 
+http://dx.doi.org/10.1016/j.ecolecon.2006.06.008 
+[29] Becker, B. (1997) Sustainability Assessment: A Review of Values, Concepts and Methodological Approaches, Issues 
+in Agriculture. CGIAR World Bank, 10, 1-63. 
+[30] Hueting, R. and Reijnders, L. (2004) Broad Sustainability Contra Sustainability: The Proper Construction of Sustai n-
+ability Indicators. Ecological Economics, 50, 249-260. http://dx.doi.org/10.1016/j.ecolecon.2004.03.031 
+[31] Hanley, N., Moffatt, I., Faichney, R. and Wilson, M. (1999) Measuring Sustainability: A Time Series of Alternative 
+Indicators for Scotland. Ecological Economics, 28, 55-73. http://dx.doi.org/10.1016/S0921-8009(98)00027-5 
+[32] Kaufmann, R.K. and Cleveland, C.J. (1995) Measuring Sustainability: Needed — An Interdisciplinary Approach to an 
+Interdisciplinary Concept. Ecological Economics, 15, 109-112. http://dx.doi.org/10.1016/0921-8009(95)00062-3 
+[33] Jollands, N., Lermit, J. and Patterson, M. (2003) The Usefulness of Aggregate Indicators in Policy Making and Evalua-
+tion: A Discussion with Application to Eco-Efficiency Indicators in New Zealand. ISEE Working Paper. 
+[34] Constanza, R. (2000) The Dynamics of the Ecological Footprint Concept. Ecological Economics, 32, 341-345. 
+[35] Azapagic, A. (2004) Developing a Framework for Sustainable Development Indicators for the Mining and Minerals 
+Industry. Journal of Cleaner Production, 12, 639-662. http://dx.doi.org/10.1016/S0959-6526(03)00075-1 
+[36] Opschoor, H. (2000) The Ecological Footprint: Measuring Rod or Metaphor. Ecological Economics, 32, 363-365. 
+[37] Veleva, V. and Ellenbecker, M. (2000) A Proposal for Measuring Business Sustainability: Addressing Shortcomings in 
+Existing Frameworks. Greener Management International, 31, 101-120. 
+[38] Porter, M.E. and van der Linde, C.  (1995) Toward a New Conception of the Environment -Competitiveness Relation-
+ship. The Journal of Economic Perspectives, 9, 97-118. http://dx.doi.org/10.1257/jep.9.4.97 

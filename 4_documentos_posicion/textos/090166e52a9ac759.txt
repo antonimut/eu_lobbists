@@ -1,0 +1,707 @@
+ 
+ 
+AI Chamber Submission on the European Commission’s “Digital Omnibus” package 
+AI Chamber welcomes the direction the European Commission has taken with the proposed 
+“Digital Omnibus” package. We see it as a necessary step toward reducing regulatory friction in 
+Europe’s digital economy. At the same time, the package, at least as currently framed, does not 
+go far enough to remove the practical obstacles that keep European companies from developing, 
+deploying, and scaling data-driven and AI-enabled products across the Single Market.  
+Europe’s competitiveness challenge is no longer abstract. If the Union aims to retain economic 
+influence and credible strategic autonomy in the digital domain, it must be able to build and adopt 
+foundational technologies domestically. That requires a regul atory environment that is workable 
+in practice, especially for SMEs and start -ups and/or scale-ups while maintaining a high level of 
+protection for fundamental rights.  
+Our detailed commentary and proposed amendments for both the Digital Omnibus and the AI 
+Omnibus are presented in the sections below. A summary chart is also included at the end of this 
+document to provide a visual overview of the proposed amendments. 
+We wish to draw attention to two overarching general concerns: 
+Overlapping regulatory frameworks 
+The primary concern for stakeholders is the significant and widely noted overlap of obligations 
+between key legal acts - specifically the Data Act, the GDPR, and the AI Act. This overlapping 
+regime creates an inconsistent and burdensome legal environment t hat threatens to stifle 
+innovation. As we architect the future digital landscape, legislators must ensure this foundational 
+issue of regulatory coherence is addressed comprehensively. 
+We advocate for the introduction of clear priority rules and a "single compliance flow" to reduce 
+administrative friction. Under this model, where data is shared under the Data Act, compliance 
+with a harmonized set of requirements - such as standard clauses, safeguards, and 
+documentation - should be recognized as sufficient also for GDPR and AI Act purposes, without 
+additional, separate reporting and audit layers. 
+Key definitions should be aligned across instruments and supported by joint, practical guidance 
+in the form of a single coherent framework. Without such coordination, companies risk being 
+forced to design multiple parallel compliance tracks, leading to dis proportionate costs that 
+ultimately undermine EU competitiveness. 
+A single fixed application date 
+We call for a single, fixed application date for all high-risk AI systems, which is essential for legal 
+certainty and effective compliance planning. Applying Chapter III, Sections 1 to 3, from 2 August 
+2028 to all high-risk AI systems, whether classified under Article 6(1) and Annex I or under Article 
+6(2) and Annex III, would create a clear and uniform implementation framework across the 
+market.  
+Ref. Ares(2026)2759391 - 13/03/2026
+
+ 
+ 
+This approach would avoid fragmented timelines, reduce interpretative uncertainty, and provide 
+businesses with a predictable compliance horizon. A single application date would also support 
+more consistent supervisory practice and a more orderly market tra nsition, while ensuring that 
+high-risk obligations apply in a coherent manner across different categories of high -risk AI 
+systems. 
+I Digital Omnibus 
+A. Regulation (EU) 2023/2854 - Data Act:  
+ 
+1. Trade secret protection as an express ground for refusal (Arts. 4(8), 5(11) Data Act) 
+Proposed provisions by the EC in the Digital Omnibus can harm trade secrets. Disclosure of a 
+trade secret is effectively irreversible: once the information is released, confidentiality is lost and 
+even expedited proceedings cannot restore its economic value. The amendment proposed by the 
+AI Chamber therefore strengthens ex ante protection, i.e., before disclosure takes place. 
+The purpose of the proposed amendment is to make explicit that trade secrets constitute a legal 
+ground for refusing to share the requested data. Without such a clear legal basis, companies that 
+seek to protect their know-how are, in practice, pushed towards urgent court action (e.g., interim 
+measures), because once disclosure occurs the protection comes too late. 
+The change also supports the competitiveness of EU firms in situations of heightened leakage 
+risk, in particular where access is requested by entities linked to third -country control or subject 
+to jurisdictions offering weaker or non -equivalent protection.  At the same time, it preserves 
+proportionality by allowing partial refusal or provision of the data in a limited form, so that only 
+what is strictly necessary to protect the trade secret is withheld, rather than imposing a blanket 
+denial. 
+2. Union-level methodology for data fees (Art. 32y(4) Data Act) 
+From an internal market perspective, it is necessary to ensure that the criteria and methodology 
+for calculating any fees are uniform at Union level, so that divergent national fee regimes do not 
+emerge and create fragmentation and barriers to cross -border re-use. Where fees are charged, 
+they should remain strictly tied to the closed list of “necessary costs” already set out in paragraph 
+3, and the public sector body should provide a transparent breakdown of the fee for each specific 
+request. This approach preserves cost-recovery for legitimate compliance and security -related 
+expenses, while ensuring predictability and comparability of fees across the Union and preventing 
+additional locally-created cost items. 
+3.  SaaS legal clarity (Art. 31(1a) Data Act) 
+This targeted clarification strengthens legal certainty by expressly confirming that the exemption 
+in Article 31(1a) also covers individualised Software as a Service (SaaS) services provided on a 
+bespoke basis. In practice, many customised SaaS offerings are adapted to a comparable extent 
+ 
+ 
+as other tailored data processing services, yet the absence of an explicit SaaS reference creates 
+interpretative uncertainty as to whether Chapter VI obligations (including switching -related 
+requirements) apply. The proposed wording does not broaden the exemption materially; it simply 
+clarifies that, where the majority of features and functionalities have been adapted to the 
+customer’s specific needs, the exemption applies equally to bespoke SaaS. 
+B. Regulation (EU) 2016/679 - GDPR 
+1.  Workable safeguards for incidental special -category data in AI development (Art. 
+9(5) GDPR) 
+The objective of amending Article 9(5) is to make the safeguard regime operational and 
+proportionate in real -world AI development and testing. As drafted, the requirement to “avoid” 
+incidental collection of special category data implies an impossible obligation to pre-scrub large-
+scale sources (e.g., open web data) and effectively blocks the use of large public datasets. It also 
+creates a “privacy paradox”: forcing developers to scan for sensitive data in order to remove it 
+can increase the amount of sensit ive processing and associated risks. Reframing the provision 
+around “mitigating the risk” through technical and organisational measures preserves strong 
+protection while enabling practical compliance and accountability. 
+2. Legitimate interests in the AI context: preserving GDPR coherence (Art. 88c 
+GDPR) 
+The objective of the amendment is to preserve the Commission’s simplification goal by making 
+Article 88c legally coherent with the GDPR’s own structure and workable across the Single 
+Market. First, legitimate interest under Article 6(1)(f) GDPR explicitly covers the interests of both 
+the controller and third parties; limiting Article 88c to the controller’s interests needlessly narrows 
+the balancing test and reduces legal certainty for AI development and deployment. Second, the 
+clause allowing “other Union or national laws” to require consent risks re-fragmenting the Single 
+Market by enabling divergent national pathways that neutralise the clarification the Omnibus 
+seeks to provide. Third, an “unconditional right to object” is not aligned with Article 21 GDPR; the 
+right to object must operate under the GDPR framework to avoid legal inconsistency and 
+enforcement uncertainty. The proposed edits therefore clarify, not rewrite, GDPR: they broaden 
+the legitimate-interest test to its GDPR -native scope, remove an in ternal fragmentation trigger, 
+and align the objection right with Article 21 GDPR, while maintaining strong safeguards 
+3. Definition of “scientific research”  
+We support the Omnibus amendment introducing an explicit definition of “scientific research” in 
+the GDPR, Article 3 of the Digital Omnibus, amending GDPR Article 4 by adding a new point (38). 
+This provides a clearer legal reference point for GDPR compliance in research and innovation 
+contexts and helps reduce legal uncertainty in practice. 
+4. Scientific research: safeguards and compatible further processing (Art. 89(1) 
+GDPR) 
+ 
+ 
+We support strengthening legal certainty for scientific research by maintaining a broad and 
+innovation-friendly understanding of the concept, while preserving clear safeguards. The 
+Omnibus proposal appropriately links scientific -research processing to appr opriate safeguards 
+pursuant to Article 89(1) GDPR and clarifies purpose limitation by treating further processing for 
+scientific research as compatible in accordance with Article 89(1). This improves predictability for 
+research and innovation activities (including in industry settings) without lowering the level of data 
+protection, and helps prevent divergent national interpretations and avoidable compliance 
+disputes. 
+5. Clarifying the contractual exception for solely automated decision-making (Art. 22 
+GDPR) 
+We support keeping the proposed change to Article 22 GDPR strictly targeted and business -
+enabling. Clarifying the contractual exception for solely automated decision -making improves 
+legal certainty by reducing divergent interpretations of “necessity” in co ntract-related processes 
+and facilitates the scaling of lawful automated business operations. At the same time, this 
+amendment should not be accompanied by additional conditions, tests, or further layers of 
+obligations (including in recitals) that would, i n practice, create a new compliance regime and 
+increase implementation costs without commensurate regulatory benefit. If further “safeguards” 
+are proposed during negotiations, the preferred minimal -change approach is to rely on the 
+protections already embe dded in the GDPR, rather than introducing new standards through 
+recitals or guidance that effectively add new documentation or assessment duties. 
+6. Definition of personal data (art. 4(1) GDPR) 
+We strongly support bringing the definition of personal data more in line with the jurisprudence of 
+the Court of Justice. While the proposed clarification does not address in an adequate manner 
+the stifling effect and overbroad interpretation of personal d ata continues to have in the EU 
+economy, it offers at least some clarity and lowers the level of legal risk for data processors and 
+administrators. It would have been a far more useful move to remove the hypothetical aspect of 
+the definition (“identifiable  person”) and create an unequivocal and clear definition of personal 
+data as relating only to a concrete, identifiable natural person. If such a change is impossible the 
+small, but positive change proposed by the EC must be maintained.  
+C. Cybersecurity 
+To make incident-reporting obligations genuinely simpler, the Digital Omnibus should also cover 
+the AI Act within the “single entry point” approach. Incidents involving AI systems often have a 
+clear security and/or safety dimension, and maintaining separat e reporting channels leads to 
+fragmentation and duplicated compliance efforts. We therefore recommend that the Omnibus 
+explicitly includes the AI Act within the “single entry point” mechanism and designates one 
+common reporting platform (in particular, the platform developed under the CRA) as the primary 
+place to submit reports, with appropriate onward routing of information to the competent 
+authorities. 
+ 
+ 
+II. AI OMNIBUS:  
+C. Regulation (EU) 2024/1689 – AI Act 
+1. Research and development exemption covering commercial and collaborative R&D 
+(Art. 2(8) AI Act) 
+The research and development exemption in the AI Act should be applied in a manner that is 
+consistent with the objectives of Union-carried out and Union-funded research activities, as well 
+as with collaborative research projects involving public and private actors across Member States, 
+including strategic initiatives such as OpenEuroLLM. In its current form, conditioning the 
+exemption on the absence of market placement or putting into service risks limiting its practical 
+applicability for companies engaged in research and development. In industrial and commercial 
+research contexts, AI systems and models often need to be made available or deployed, including 
+through formal market placement, in order to be used for research purposes, testing or joint 
+development. As a result, the exemption may not be usable in situations where it was intended to 
+apply. Clarifying that AI systems and models used for research and development purposes, 
+including commercial research and development, fall within the scope of the exe mption ensures 
+that legitimate research activities are not inadvertently subject to regulatory requirements 
+designed for real-world deployment. 
+2. Clarifying the supportive nature of AI literacy obligations (Art. 4 AI Act) 
+Article 4 AI Act should remain a provision aimed at encouraging appropriate knowledge and skills, 
+rather than being interpreted as imposing an obligation to guarantee individual outcomes. Greater 
+legal certainty is needed to confirm that the role of providers and deployers is supportive in nature 
+and relates to promoting appropriate AI literacy in light of the relevant context, rather than ensuring 
+that any particular person reaches a specific level of understanding. This would help prevent over-
+compliance and reduce the risk of inconsistent enforcement based on unrealistic expectations as 
+to individual AI literacy outcomes. 
+3. Special-category data for bias detection and correction under strict safeguards 
+(new Art. 4a AI Act) 
+The AI Act should provide a clear and workable framework for the exceptional use of special -
+category data where this is strictly necessary for bias detection and correction. In limited cases, 
+sufficiently representative and reliable bias testing cannot be achieved through other data sources 
+alone without a material loss of effectiveness. Greater legal certainty is also needed to ensure 
+that narrowly circumscribed and equivalently safeguarded cooperation with relevant third parties 
+is not inadvertently prevented where this is strictly necessary for lawful bias detection, correction 
+or verification. At the same time, retention should remain subject to strict limits, while allowing 
+data to be kept only for as long as necessary to verify the effectiveness of cor rective measures. 
+This would support effective and auditable compliance without lowering the level of protection 
+afforded to special-category data. 
+ 
+ 
+4. Limiting machine-readable marking to synthetic audio, image and video content 
+(Art. 50(2)AI Act) 
+The machine-readable marking obligation in Article 50(2) should remain focused on synthetic 
+audio, image and video content, for which such measures can provide meaningful transparency 
+value. Extending this requirement to text would be neither technically r eliable nor proportionate. 
+Text is routinely edited, reformatted, excerpted, combined with human input and reused across 
+different contexts, which makes persistent and effective machine -readable marking difficult to 
+implement in practice. In these circumst ances, applying the same requirement to text would 
+impose significant compliance burdens while offering limited additional transparency benefits. A 
+more proportionate approach is therefore to maintain the obligation for synthetic audio, image and 
+video content, while excluding text from its scope. 
+5. Proportionate authority requests for Article 6(3) self -assessments (Art. 6(4)  
+AI Act) 
+Article 6(4) should preserve the existing “document and provide on request” approach, while 
+ensuring that requests by competent authorities remain proportionate and limited to what is 
+necessary to verify compliance with Article 6(3). Greater legal certainty is needed to confirm that 
+providers are not required to disclose information beyond the minimum necessary to substantiate 
+their self-assessment that an Annex III system is not high -risk. This would reduce unnecessary 
+administrative burden, support more consistent supervisory practice across Member States, and 
+maintain effective oversight without expanding information requests beyond their proper purpose. 
+6. Earlier availability of the Union-level AI regulatory sandbox for SMEs and start-ups 
+(new Art. 57(3a) AI Act) 
+The Union-level AI regulatory sandbox should be made available at an earlier stage of the AI Act’s 
+implementation, in particular for SMEs and start-ups that will face compliance obligations before 
+2028. Regulatory sandboxes are most valuable when they are operational at an early stage of 
+regulatory application, allowing businesses to test compliance pathways and engage with 
+competent authorities before obligations become fully applicable in practice. Delaying the 
+establishment of the Union-level sandbox would significantly reduce its practical utility for smaller 
+market participants. The framework should therefore ensure that the Union -level AI regulatory 
+sandbox becomes operational well before 2028, and no later than the date on which the AI Act’s 
+obligations for high-risk AI systems begin to apply. 
+7. Proportionate Union -level pre -market conformity assessments for high -risk AI 
+systems (new Arts. 75(1a)–(1c) AI Act) 
+Where the Commission organises pre-market conformity assessments and tests for high-risk AI 
+systems, the applicable procedures should remain proportionate and workable in practice, in 
+particular for SMEs and small mid -caps. Without appropriate procedural s implifications, 
+centralised assessments risk creating disproportionate documentation and administrative 
+burdens, which may delay market access and create avoidable compliance bottlenecks. The 
+ 
+ 
+framework should therefore ensure SME - and SMC -friendly procedures, including simplified 
+documentation and reduced administrative steps, while fully preserving the level of protection and 
+regulatory objectives of the AI Act. 
+8. A single and proportionate transition period for transparency obligations (new Art. 
+111(4) AI Act) 
+The transitional framework for the transparency obligations under Article 50 should ensure both 
+sufficient implementation time and a single, clear date of application. Extending the transition 
+period would allow providers to introduce the required technica l measures in a consistent and 
+technically robust manner. It is also important that the transitional rule applies coherently across 
+the relevant transparency obligations, including both Article 50(2) and Article 50(4), and to 
+systems placed on the market u p to the end of the transition period. Such an approach would 
+strengthen legal certainty, prevent unequal treatment and market distortion between earlier and 
+later market placements, and support a more coherent application of the transparency framework. 
+9. Moving the Machinery Regulation from Section A to Section B to avoid regulatory 
+overlap (Annex I AI Act) 
+The AI Act overlaps with existing sectoral legislation, in particular the Machinery Regulation for 
+self-learning machines and software. The additional requirements introduced by the AI Act do not 
+enhance safety, as the mere presence of an AI component does not automatically make a product 
+unsafe, but they do increase administrative burden and compliance costs. The parallel application 
+of the AI Act and the Machinery Regulation risks duplicating requirements and stifling innovation. 
+To avoid these overlaps and simplify the regulatory framework, the Machinery Regulation should 
+be moved from Section A to Section B, allowing the Commission to address AI -specific risks 
+through implementing or delegating acts where necessary. The Commission has already 
+recognised this approach by proposing to move the Medical Devices and In Vitro Diagnostics 
+Regulations from Section A to Section B, and the same logic should apply to the Machinery 
+Regulation. In addition, notified bodies assessing high-risk AI systems should comply with the AI-
+specific requirements set out in Article 31 of Regulation (EU) 2024/1689. 
+10. Ensuring the independence of the AI Office from policy -making and industrial 
+functions 
+The AI Office would simultaneously participate in shaping regulatory practice, interpreting the AI 
+Act, and enforcing obligations on providers of AI models and systems. If it remains embedded 
+within DG CONNECT, there is a risk of conflating political, legi slative and supervisory functions. 
+DG CONNECT is responsible for developing digital policy and supporting the sector’s 
+competitiveness, whereas a supervisory body should operate primarily on the basis of impartiality, 
+equal treatment and compliance control. 
+The lack of clear independence may create the perception that AI Office decisions are taken not 
+solely on the basis of legal and technical criteria, but also under the influence of the Commission’s 
+current political priorities. This undermines market confi dence, especially in cases concerning 
+ 
+ 
+GPAI models, enforcement measures, requests for access to documentation, or assessments of 
+systemic risk. 
+From a business perspective, the independence of the AI Office would increase regulatory 
+predictability. Businesses should be able to rely on the authority applying the rules in a stable, 
+expert and politically neutral manner, free from pressures linked to the EU’s industrial, innovation 
+or political agenda. This is particularly important where the Commission is simultaneously 
+promoting the uptake of AI and supervising compliance for the same technology. 
+In practice, the issue is therefore not only one of formal autonomy, but of avoiding a conflict of 
+roles: the same branch of the Commission should not at the same time promote the development 
+of AI, help shape policy and exercise quasi-enforcement powers over the market. 
+11. Deleting the complaint mechanism to preserve proportionate and risk -based 
+enforcement (Art. 85 AI Act) 
+Proposed deletion of the AI Act complaint mechanism is justified on proportionality and 
+simplification grounds. The AI Act already relies on market surveillance and enforcement powers 
+(including the ability to act ex officio, request information, investigate and impose measures), so 
+a stand-alone “right to lodge a complaint” risks creating a parallel intake channel that increases 
+administrative workload without clearly improving enforcement outcomes. In practice, such a 
+complaint system can incentivise stra tegic or vexatious complaints and drive procedural 
+uncertainty and cost for providers and deployers (especially SMEs/SMCs), while the underlying 
+allegations can still be raised through existing legal and administrative avenues at national level. 
+Removing t he complaint mechanism keeps enforcement focused on risk -based supervision, 
+reduces duplicative processes, and supports a more predictable and streamlined compliance 
+environment. 
+12. Limiting source -code access to protect cybersecurity and trade secrets (Arts. 
+74(13), 92(3) AI Act) 
+Articles 74(13) and 92(3) should be deleted or at least significantly narrowed, because access to 
+source code creates disproportionate cybersecurity and intellectual property risks for providers. 
+Even if intended as an enforcement tool, such powers expose highly sensitive trade secrets and 
+increase the risk of leakage, misuse or security compromise. Regulators should rely on less 
+intrusive means wherever possible, such as documentation, testing, audit trails and controlled 
+technical interfaces, rather than direct source-code access. 
+13. Aligning the fundamental rights impact assessment with the GDPR data protection 
+impact assessment (Art. 27 AI Act; Art. 35 GDPR) 
+The comment addresses duplication between the fundamental rights impact assessment under 
+Article 27 AI Act and the data protection impact assessment under Article 35 GDPR. From a 
+business perspective, the concern is that deployers may be forced to perform two overlapping 
+assessments. However, a DPIA covers data protection risks only, while Article 27 covers broader 
+ 
+ 
+fundamental rights risks. The better solution would therefore be alignment or a single integrated 
+assessment, rather than simply replacing Article 27 with GDPR DPIA. 
+14. Deleting the CE-marking requirement for high-risk AI systems (Art. 48 AI Act) 
+Article 48 should be deleted. CE marking was designed for product compliance and is not well 
+suited to standalone AI systems or software -based services that are dynamic, continuously 
+updated and often not placed on the market in the same way as traditional  products. Extending 
+CE-marking logic to high-risk AI systems creates legal fiction rather than meaningful assurance, 
+while increasing compliance costs, formalism and market-entry barriers, especially for innovative 
+European providers. In the software and AI context, compliance should be demonstrated through 
+targeted documentation, risk management and ex post supervisory powers, rather than through 
+a product-style marking regime that may mislead users and business customers as to the nature 
+and reliability of the system. Deleting Article 48 would therefore reduce unnecessary regulatory 
+burden without preventing effective enforcement under the AI Act. 
+ 
+Data Act 
+Omnibus Data Act Proposal 
+Article 1(3) Article 4(8)  In exceptional circumstances, trade secrets shall constitute a 
+legal ground for refusing access to the specific data in 
+question, including by refusing access in part or by making 
+available the data in a limited form, where necessary to protect 
+trade secrets, where the data holder who is a trade secret holder 
+is able to demonstrate that, despite the technical and organisational 
+measures taken by the user pursuant to paragraph 6 of this Article, 
+it is highly likely to suffer serious economic damage from the 
+disclosure of trade secrets or that the disclosure of trade secrets to 
+the user poses a high risk of unlawful acquisition, use, or disclosure 
+to third country entities, or entities established in the Union under 
+the direct or indirect control of such entities, whic h are subject to 
+jurisdictions offering weaker or non-equivalent protection compared 
+to that under Union law, that data holder may refuse on a case -by-
+case basis a request for access to the specific data in question. In 
+such case, That demonstration shall be duly substantiated on the 
+basis of objective elements, such as the enforceability of trade 
+secrets protection in third countries, the nature and level of 
+confidentiality of the data requested, and the uniqueness and 
+novelty of the connected product. It shall be provided in writing to 
+the user without undue delay. Where the data holder refuses to 
+share data pursuant to this paragraph, it shall notify the competent 
+authority designated pursuant to Article 37. 
+Article 1(4) Article 
+5(11) 
+In exceptional circumstances, trade secrets shall constitute a 
+legal ground for refusing access to the specific data in 
+ 
+ 
+question, including by refusing access in part or by making 
+available the data in a limited form, where necessary to protect 
+trade secrets, where the data holder who is a trade secret holder 
+is able to demonstrate that, despite the technical and organisational 
+measures taken by the third party pursuant to paragraph 9 of this 
+Article, it is highly likely to suffer serious economic damage from the 
+disclosure of trade secrets or that the disclosure of trade secrets to 
+the third party poses a high risk of unlawful acquisition, use, or 
+disclosure to third country entities, or entities established in the 
+Union under the direct or indirect control of such entities, which are 
+subject to jurisdictions offering weaker or non-equivalent protection 
+compared to that under Union law, that data holder may refuse on 
+a case-by-case basis a request for access to the specific data in 
+question. In such case , That demonstration shall be duly 
+substantiated on the basis of objective elements, such as the 
+enforceability of trade secrets protection in third countries, the 
+nature and level of confidentiality of the data requested, and the 
+uniqueness and novelty of  the connected product. It shall be 
+provided in writing to the third party without undue delay. Where the 
+data holder refuses to share data pursuant to this paragraph, it shall 
+notify the competent authority designated pursuant to Article 37. 
+Article 
+1(15) 
+Article 31 
+(1a) 
+‘1a. The obligations laid down in Chapter VI, with the exception of 
+Article 29, and in Article 34 shall not apply to data processing 
+services other than those referred to in Article 30(1), where the 
+majority of features and functionalities of the data proc essing 
+service has been adapted by the provider to the specific needs of 
+the customer, including individualised Software as a Service 
+(SaaS) services provided on a bespoke basis, if the provision of 
+such services is based on a contract concluded before or on 12 
+September 2025. The provider of such data processing services 
+shall not be required to renegotiate or amend a contract for the 
+provision of those services before its expir y if that contract was 
+concluded before or on 12 September 2025. Any contractual 
+provision contained in that contract that is contrary to Article 29(1), 
+(2), or (3) shall be considered null and void.  
+Article 1 
+(18) 
+Article 32y 
+(4)  
+The criteria and methodology for calculating fees shall be laid down 
+at Union level and published. The public sector body shall publish 
+a description of the categories of necessary costs referred to in 
+paragraph 3 and a transparent breakdown of the fee charged 
+for the specific request against those categories. No other cost 
+items shall be charged.” 
+GDPR 
+Omnibus GDPR Proposal 
+ 
+ 
+Article 
+3(3b) 
+Article 9(5) For processing referred to in point (k) of paragraph 2, appropriate 
+organisational and technical measures shall be implemented to 
+mitigate the risk of  the collection and otherwise processing of 
+special categories of personal data. Where, despite the 
+implementation of such measures, the controller is notified of or 
+identifies special categories of personal data relating to specific 
+data subjects in the aforementioned datasets used for training, 
+testing or validation or in the AI system or AI model, the controller 
+shall, taking into account its capabilities, implement appropria te 
+technical and organisational measures to cease processing of 
+that special category data for the purpose of training or 
+developing an AI system or AI model . Where cessation of 
+processing requires disproportionate effort, the controller shall 
+in any event effectively protect without undue delay such data from 
+being used to produce outputs, from being disclosed or otherwise 
+made available to third parties. 
+Article 
+3(15) 
+Article 88c 
+(new) Where the processing of personal data is necessary for the interests 
+of the controller or a third party in the context of the development 
+and operation of an AI system as defined in Article 3, point (1), of 
+Regulation (EU) 2024/1689 or an AI model, such processing may 
+be pursued for legitimate interests within the meaning of Article 
+6(1)(f) of Regulation (EU) 2016/679, where appropriate, and where 
+such interests are overridden by the interests, or fundamental rights 
+and freedoms of the data subject which require protection of 
+personal data, in particular where the data subject is a child. Any 
+such processing  shall be subject to appropriate organisational, 
+technical measures and safeguards for the rights and freedoms of 
+the data subject, such as to ensure respect of data minimisation 
+during the stage of selection of sources and the training and testing 
+of AI system or AI model, to protect against non -disclosure of 
+residually retained data in the AI system or AI model to ensure 
+enhanced transparency to data subjects and providing data 
+subjects with a right to object to the processing of their personal 
+data in accordance with Article 21 of Regulation (EU) 2016/679. 
+ AI Act 
+adding 
+Article 1 
+(2a)  
+Article 2(8) 8. This Regulation does not apply to any research, testing or 
+development activity regarding AI systems or AI models. Such 
+ 
+ 
+activities shall be conducted in accordance with applicable 
+Union law. 
+ 
+That exception shall cover AI systems and AI models, including 
+their outputs, where they are developed, tested or used for the 
+purposes of research and development activities, including 
+commercial research and development. Research and 
+development shall co ver all stages of scientific and applied 
+research, including industrial research and experimental 
+development.  
+Article 
+1(4)  
+Article 4 The Commission and Member States shall encourage providers 
+and deployers of AI systems to take measures to ensure a sufficient 
+level of AI literacy of their staff and other persons dealing with the 
+operation and use of AI systems on their behalf, taking into account 
+their technical knowledge, experience, level of education and 
+training and the context the AI systems are to be used in, and 
+considering the persons or groups of persons on whom the AI 
+systems are to be used.  The role of providers and deployers 
+under this Article shall be supportive in nature, aimed at 
+promoting appropriate knowledge and skills for the operation 
+and use of AI systems, and shall not be construed as an 
+obligation to guarantee a specific level of  AI literacy of any 
+individual. 
+Article 
+1(5)   
+Article 4a 
+(new) 
+1. To the extent necessary to ensure bias detection and correction 
+in relation to high-risk AI systems in accordance with Article 10 (2), 
+points (f) and (g), of this Regulation, providers of such systems may 
+process special categories of personal data, subject to appropriate 
+safeguards for the fundamental rights and freedoms of natural 
+persons. In addition to the safeguards set out in Regulations (EU) 
+2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, as 
+applicable, all the following conditions shall be met in order for such 
+processing to occur: 
+(a) the bias detection and correction cannot be effectively fulfilled by 
+processing other data, including synthetic or anonymised data with 
+comparable effectiveness; 
+(b) the special categories of personal data are subject to technical 
+limitations on the re -use of the personal data, and state -of-the-art 
+security and privacy -preserving measures, including 
+pseudonymisation; 
+(c) the special categories of personal data are subject to measures 
+to ensure that the personal data processed are secured, protected, 
+subject to suitable safeguards, including strict controls and 
+documentation of the access, to avoid misuse and ensure that only 
+authorised persons have access to those personal data with 
+appropriate confidentiality obligations; 
+ 
+ 
+(d) the special categories of personal data are not transmitted, 
+transferred or otherwise accessed by other parties except where 
+strictly necessary for the purposes of bias detection and 
+correction and subject to equivalent safeguards, including 
+confidentiality obligations, access controls and a prohibition 
+of further use; 
+(e) the special categories of personal data are deleted once the bias 
+has been corrected and the effectiveness of the correction has 
+been verified through monitoring,  or the personal data has 
+reached the end of its retention period, whichever comes first; 
+(f) the records of processing activities pursuant to Regulations (EU) 
+2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680 include 
+the reasons why the processing of special categories of personal 
+data was necessary to detect and correct biases, and why that 
+objective could not be achieved by processing other data. 
+ 
+2. Paragraph 1 may apply to providers and deployers of other AI 
+systems and models and deployers of high -risk AI systems where 
+necessary and proportionate if the processing occurs for the 
+purposes set out therein and provided that the conditions set out 
+under the safeguards set out in this paragraph.;’  
+Article 
+1(6)  
+Article 6 
+(4)  
+4. A provider who considers that an AI system referred to in Annex 
+III is not high-risk shall document its assessment before that system 
+is placed on the market or put into service. Upon request of national 
+competent authorities, the provider shall provide  only the 
+documentation of the assessment, limited to the minimum 
+information necessary to demonstrate that the conditions of 
+Article 6(3) are met. 
+N/A Article 48 1. The CE marking shall be subject to the general principles set out 
+in Article 30 of Regulation (EC) No 765/2008.  
+2. For high-risk AI systems provided digitally, a digital CE marking 
+shall be used, only if it can easily be accessed via the interface from 
+which that system is accessed or via an easily accessible machine-
+readable code or other electronic means.  
+3. The CE marking shall be affixed visibly, legibly and indelibly for 
+high-risk AI systems. Where that is not possible or not warranted on 
+account of the nature of the high -risk AI system, it shall be affixed 
+to the packaging or to the accompanying documen tation, as 
+appropriate.  
+4. Where applicable, the CE marking shall be followed by the 
+identification number of the notified body responsible for the 
+conformity assessment procedures set out in Article 43. The 
+identification number of the notified body shall be affixed by the body 
+itself or, under its instructions, by the provider or by the provider’s 
+authorised representative. The identification number shall also be 
+indicated in any promotional material which mentions that the high-
+ 
+ 
+risk AI system fulfils the requirements for CE marking. 5. Where 
+high-risk AI systems are subject to other Union law which also 
+provides for the affixing of the CE marking, the CE marking shall 
+indicate that the high -risk AI system also fulfil the requirem ents of 
+that other law.  
+Adding 
+Article 
+1(15a)  
+Article 50 
+(2) 
+2. Providers of AI systems, including general -purpose AI systems, 
+generating synthetic audio, image or video or text content, shall 
+ensure that the outputs of the AI system are marked in a machine -
+readable format and detectable as artificially generated or 
+manipulated. Providers shall ensure their technical solutions are 
+effective, interoperable, robust and reliable as f ar as this is 
+technically feasible, taking into account the specificities and 
+limitations of various types of content, the costs of implementation 
+and the generally acknowledged state of the art, as may be reflected 
+in relevant technical standards. This obligation shall not apply to the 
+extent the AI systems perform an assistive function for standard 
+editing or do not substantially alter the input data provided by the 
+deployer or the semantics thereof, or where authorised by law to 
+detect, prevent, investigate or prosecute criminal offences. 
+Article 
+1(17a) 
+Article 
+57(3a) is 
+inserted 
+The AI Office may also establish an AI regulatory sandbox at Union 
+level for AI systems covered by Article 75(1). Such an AI regulatory 
+sandbox shall be implemented in close cooperation with relevant 
+competent authorities, in particular when Union legislat ion other 
+than this Regulation is supervised in the AI regulatory sandbox, and 
+shall provide priority access to SMEs and SMCs. It shall be 
+operational no later than 1 January 2027. 
+Article 1 
+(25c) 
+Article 75 
+(1a to 1c) 
+are 
+inserted 
+‘1a. The Commission shall adopt an implementing act to define the 
+enforcement powers and the procedures for the exercise of those 
+powers of the AI Office, including its ability to impose penalties, such 
+as fines or other administrative sanctions, in accorda nce with the 
+conditions and ceilings identified in Article 99, in relation to AI 
+systems referenced to in paragraphs 1 and 1a of this Article that are 
+found to be non-compliant with this Regulation, in the context of its 
+monitoring and supervision tasks under this Article.’ 
+ 
+‘1b. Article 18 of Regulation (EU) 2019/1020 shall apply mutatis 
+mutandis to providers of AI systems referred to in paragraph 1, 
+without prejudice to more specific procedural rights provided for in 
+this Regulation.’  
+ 
+‘1a. The Commission shall organise and carry out pre -market 
+conformity assessments and tests of AI systems referred to in 
+paragraph 1 that are classified as high-risk and subject to third-party 
+conformity assessment under Article 43 before such AI systems are 
+placed on the market or put into service. These tests and 
+assessments shall verify that the systems comply with the relevant 
+ 
+ 
+requirements of this Regulation and may be placed on the market 
+or put into service in the Union in accordance with this Regulation. 
+The Commission may entrust the performance of these tests or 
+assessments to notified bodies designated under this Regulation, in 
+which case the notified body shall act on behalf of the Commission. 
+Article 34(1) and (2) shall apply mutatis mutandis to the Commission 
+when exercising its powers under this paragraph. In organising 
+and carrying out such tests and assessments, the Commission 
+shall ensure proportionate, SME - and SMC -friendly 
+procedures, including simplified documentation and reduced 
+administrative burden, without lowering the level of protection 
+provided by this Regulation. 
+ 
+The fees for testing and assessment activities shall be levied on the 
+provider of a high -risk AI system who has applied for third -party 
+conformity assessment to the Commission. The costs related to the 
+services entrusted by the Commission to the notified b odies in 
+accordance with this Article shall be directly paid by the provider to 
+the notified body.’;  
+Article 
+1(30b) 
+Article 
+111(4) 
+(new) 
+‘4. Providers of AI systems, including general-purpose AI systems, 
+generating synthetic audio, image, video or text content, that have 
+been placed on the market before 2 August 2027 shall take the 
+necessary steps in order to comply with Article 50(2) and Article 
+50(4) by 2 August 2027. 
+Article 1 
+(34) (new) 
+Annex I (34) in Annex I, the following amendments are made: 
+(a) in Section A – List of Union harmonisation legislation based on 
+the New Legislative Framework, point 1 is deleted; 
+(b) in Section B – List of Union harmonisation legislation, the 
+following point 13 is added:  
+“13. Regulation (EU) 2023/1230 of the European Parliament and of 
+the Council of 14 June 2023 on machinery and repealing Directive 
+2006/42/EC of the European Parliament and of the Council and 
+Council Directive 73/361/EEC.” 
+ 
+N/A Article 85 Without prejudice to other administrative or judicial remedies, any 
+natural or legal person having grounds to consider that there has 
+been an infringement of the provisions of this Regulation may 
+submit complaints to the relevant market surveillance authority. 
+In accordance with Regulation (EU) 2019/1020, such complaints 
+shall be taken into account for the purpose of conducting market 
+surveillance activities, and shall be handled in line with the 
+dedicated procedures established therefor by the market 
+surveillance authorities. 
+N/A Article 
+74(13) and 
+13. Market surveillance authorities shall be granted access to the 
+source code of the high-risk AI system upon a reasoned request and 
+only when both of the following conditions are fulfilled: (a) access to 
+ 
+ 
+Article 
+92(3) 
+source code is necessary to assess the conformity of a high-risk AI 
+system with the requirements set out in Chapter III, Section 2; and 
+(b) testing or auditing procedures and verifications based on the 
+data and documentation provided by the provider have b een 
+exhausted or proved insufficient. 
+3. For the purposes of paragraph 1, the Commission may request 
+access to the general-purpose AI model concerned through APIs or 
+other appropriate technical means and tools, including source code 
+limited to what is strictly necessary and proportionate for the 
+purposes of the evaluation. Requests shall not include access 
+to source code, except where access to specifically identified 
+parts of the source code is strictly necessary, less intrusive 
+means have been exhausted or proved insufficient, and 
+appropriate confidentiality and cybersecurity safeguards are 
+ensured. 
+  
+ 

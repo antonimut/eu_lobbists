@@ -1,0 +1,154 @@
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ChargeUp Europe’s response to public consultation on Measuring Instruments – technical 
+update of EU rules 
+ 
+ 
+Introduction 
+ChargeUp Europe welcomes the European Commission’s proposal for targeted amendments to the 
+Measuring Instrument Directive (Directive 2014/32/EU). If consistently and uniformly implemented 
+by EU member states, the revised Directive would harmonize requirements for metering 
+instruments of EV charging stations across the EU, ending fragmentation due to differing national 
+rules and requirem ents, strengthening the Single Market, and avoiding unnecessary costs for 
+manufacturers and consumers. 
+ 
+By responding to the present public consultation, ChargeUp Europe would like to provide 
+comments to certain provisions of the proposal that would require the consideration of co -
+legislators, namely:  
+ 
+1. Provisions on technical requirements that would need improvement  
+1.1. Storage of measurement data (Points 10.7 and 10.8 of Annex I) 
+1.2. Rated Operating Requirements (Point 2 of Annex Va) 
+1.3. Minimum Measurable Quantity (Point 2 of Annex Va) 
+1.4. Timeline for the application of the revised Directive (Articles 2 and 3) 
+ 
+2. Important provisions to maintain in the proposal  
+2.1. Replacement of manufacturer seal (Point 4 of Annex Va) 
+ 
+3. Provisions that necessitate clarification 
+3.1. Use of remote display (point 10.6 of Annex I) 
+3.2. Retroactivity of requirements 
+ 
+ 
+1. Provisions on technical requirements that would need improvement 
+1.1. Storage of measurement data (Points 10.7 and 10.8 of Annex I) 
+The approach prescribed for the storage of measurement data under points 10.7 does not 
+reflect state of the art technology, it is not justified by a practical rationale, and should be 
+changed. 
+The sentence under point 10.7 stating “ the measurement data shall be fully established in a 
+device or a system  so that it can be immediately presented to the consumer” seem to add a 
+requirement to include measuring data in a local storage device in the charger so that they can 
+be immediately available to the costumer. This means that, to be immediately presentable to the 
+customer, data must be stored in the device, because if they were stored in the back end, it would 
+not be possible to present them to the customer immediately.  
+Ref. Ares(2025)1656899 - 03/03/2025
+
+ 
+2 
+ 
+The approach thereby prescribed is technically unfounded and not consistent with modern 
+technological solutions based on digitalisation, where data can be stored in a cloud or using a 
+mobile device as a display. Not only the approach proposed would project  industry to a 
+technological past, but it would result in significant costs for industry: for EV chargers 
+manufacturers this approach would mean fully redesigning the EV charger to add a very large 
+storage function to each charger without any technological or practical rationale.   
+It is worth noting that cloud -computing based solutions would not present security concerns as the 
+data set is unchangeable and encrypted when stored in the cloud, while the prescription of storing 
+measuring data in the device itself is not reported in any member state.   
+1.2.  Rated Operating Requirements (Point 2 of Annex Va) 
+Concerning the rated operating requirements under point 2 of Annex Va, it is proposed to replace 
+the detailed listing of technical values for AC and DC charging now present in the text, with a 
+simple reference to the standard IEC 61851-23. We discourage listing technical values in the 
+text of the Directive because these are subject to changes over time. The best approach is 
+to reference the standard so that the Directive can dynamically and automatically capture 
+any changes introduced in the standards.  
+In addition, the values reported under point 2 concerning DC chargers incorrectly copies only the 
+left-hand side of table 118 of IEC 61851-23 and therefore only regard chargers with I<200 A. This 
+error implies that the Directive, as the text stand now, would not set reasonable limits for typical 
+High-Power Charging (HPC) chargers, which easily present I>200 A. 
+1.3. Minimum Measurable Quantity (Point 2 of Annex Va) 
+Concerning the MMQ (Minimum measurable quantity) the specification of a limit to the MMQ is 
+very beneficial, however setting MMQ lower or equal to 1 kWh for DC chargers is not technically 
+sound nor reasonable considering the high power involved. In fact, 1 kWh are achieved in the first 
+second(s) of a typical EV charging session. It can be doubted that chargers can always maintain 
+sufficient accuracy for that initial ramp -up phase, with which every charging session begins. 
+Moreover, this makes it mandatory t o provide many decimal digits for DC charging (probably 4 
+digits) to provide sufficient accuracy. For HPC this is not sound. It would be extremely difficult to 
+guarantee sufficient accuracy in that frame. Third, the MMQ are also much larger in other 
+metrology cases, e.g. most petrol stations. 
+The proposal is to set MMQ between 2 kWh and 5 kWh for DC chargers and equal or lower 
+than 2 kWh for AC chargers. 
+1.4. Timeline for the application of the revised Directive (Articles 2 and 3) 
+The suggestion is  extending the transitional period envisaged under article 2 for the 
+application of the Directive’s provisions implemented by Member States from 24 months to 
+36 months to allow easier adaptation to amended rules by industry.  
+In fact, article 2.1 reads that a measuring instrument that are in conformity with the current MID 
+(2014/32) can placed on the market for a period of 24 months after entry into force of the 
+amendments to the MID.  
+The development and certification of the products that will be placed on the market after the 24-
+month transitional period and that will need to be in conformity with the new requirements set by 
+ 
+3 
+ 
+the amendments to MID, could take longer than 24 months. To give an overview of the timeline 
+needed from development to certification of new EV supply equipment (EVSE): The development 
+of a new product requires about 12 months. After that, interoperability  and metrology 
+certification can take between 6 to 12 additional months.  
+The products that are currently developed are based on the existing MID, while manufacturers 
+will need sufficient time to apply the new requirements introduced by the revised MID once the 
+proposed targeted amendment are adopted and enter into force.   
+In addition, the amendment should be more specific concerning the timeline for the certificates 
+issued in conformity with the current MID text in force (article 2.2), because certificates have different 
+validity depending on the type. However, the proposal for targeted amendment does not address 
+these details.  
+ 
+2. Important provisions to maintain in the proposal  
+2.1. Replacement of manufacturer seal (Point 4 of Annex Va) 
+The provision under point 4 of Annex Va concerning the possibility of replacing  the 
+manufacturer seal at the charger cable with an installer seal is strongly welcomed and 
+should be kept in the final text. With that, a broken or defective charging cable can be replaced 
+by a qualified technician, without the subsequent need for a federal or official recalibration. The 
+absolute influence of the charging cable on the accuracy of the measurement is already very 
+small (typically around 0.3% -0.5%), and the relative difference between two cha rging cables is 
+absolutely negligible. There is no technical justification at all to require a costly and time -
+consuming official recalibration after swapping such a charging cable, as it is required by some 
+Member States today.  
+This specification on cable swapping introduces the important principle that the Charging 
+Point Operators should be able to replace cables on their own stations without incurring 
+unnecessary costly processing. We encourage swift harmonization across member  states 
+once the amendments to the Directive enter into force. 
+3. Provisions that necessitate clarification 
+3.1. Use of remote display (point 10.6 of Annex I) 
+The novelty that remote display use is allowed under point 10.6 of Annex I, via either an external 
+screen or a consumer’s device, e.g. a smartphone, is welcomed. It remains unclear however 
+what is the intended meaning of “metrologically controlled” conside ring that the “consumer’s 
+device” referenced in the text in practice would be a normal personal smartphone. In this case, 
+metrological control via those devices would simply be impossible.  
+We would encourage a clarification on the correct understanding of point 10.6 of Annex I and the 
+rationale behind that and we suggest the removal of the sentence  
+3.2. Retroactivity of requirements 
+One important element of the discussion that is missing in the proposal is providing a framework 
+for how to address retroactivity for existing infrastructure that is not covered under the new 
+framework. This is an important opportunity to create harmonization across member states and 
+ensure that CPOs and manufacturers are not stuck with bespoke renovation or retrofit 
+requirements for existing infrastructure across different member states. For example, if one 
+country provides a 4-year enforcement phase in period while another takes the approach of a 10-
+ 
+4 
+ 
+year timeline, there will be strong inconsistency. Additionally, it is important that well-functioning 
+and reliable infrastructure that is already on the ground today is not prematurely forced to be 
+replaced. The existing EVSE should be operated for the pe riod of its natural lifetime, without the 
+need for upgrading and retrofitting it to meet the requirements introduced with the targeted 
+amendments to the MID.  
+The recommendation is that the proposal be amended to provide direction on retroactivity 
+to members states and not impose any retroactive requirements for legacy infrastructure 
+pre-existing the entry into force of the targeted amendments to the MID. 
+  
+ 
+ 

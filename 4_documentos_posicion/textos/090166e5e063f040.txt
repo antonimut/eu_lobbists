@@ -1,0 +1,545 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/290122264
+Efﬁciency and Sustainability of Urban Wastewater Treatment with Maximum
+Separation of the Solid and Liquid Fraction
+Chapter · December 2011
+DOI: 10.1016/B978-0-08-088504-9.00388-3
+CITATIONS
+6
+READS
+98
+5 authors, including:
+Some of the authors of this publication are also working on these related projects:
+The contribution of microbial biotechnology to the SDGs View project
+Process development for the anaerobic digestion of poultry litter View project
+Vasileios Diamantis
+Democritus University of Thrace
+64 PUBLICATIONS   922 CITATIONS   
+SEE PROFILE
+Paraschos Melidis
+Democritus University of Thrace
+37 PUBLICATIONS   1,202 CITATIONS   
+SEE PROFILE
+Siegfried E. Vlaeminck
+University of Antwerp
+205 PUBLICATIONS   4,900 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Vasileios Diamantis on 18 October 2018.
+The user has requested enhancement of the downloaded file.
+Ref. Ares(2021)4881275 - 30/07/2021
+Provided for non-commercial research and educational use.
+Not for reproduction, distribution or commercial use.
+This article was originally published in Comprehensive Biotechnology, Second
+Edition, published by Elsevier, and the attached copy is provided by Elsevier for the
+author's benefit and for the benefit of the author's institution, for non-commercial
+research and educational use including without limitation use in instruction at your
+institution, sending it to specific colleagues who you know, and providing a copy to
+your institution's administrator.
+All other uses, reproduction and distribution, including without limitation
+commercial reprints, selling or licensing copies or access, or posting on open
+internet sites, your personal or institution's website or repository, are prohibited.
+For exceptions, permission may be sought for such use through Elsevier's
+permissions site at:
+http://www.elsevier.com/locate/permissionusematerial
+Diamantis V, Melidis P , Aivasidis A, Verstraete W, and Vlaeminck SE (2011)
+Municipal Wastes | Efficiency and Sustainability of Urban Wastewater Treatment
+with Maximum Separation of the Solid and Liquid Fraction. In: Murray Moo-Young
+(ed.), Comprehensive Biotechnology, Second Edition , volume 6, pp. 507 –515.
+Elsevier.
+© 2011 Elsevier B.V. All rights reserved.
+Author's personal copy
+6.40.1 Introduction 507 
+6.40.2 Actual Situation in Wastewater Treatment Plants 508 
+6.40.2.1 Electricity Requirements 508 
+6.40.2.2 Excess Sludge Production 509 
+6.40.2.2.1 Primary sludge 509 
+6.40.2.2.2 Secondary sludge 509 
+6.40.2.3 Energy Recovery from Methane 509 
+6.40.2.4 Methane Emissions from Sludge Disposal 510 
+6.40.2.5 Nitrous Oxide Emissions from Waste Biodegradation 510 
+6.40.3 Sustainability in Wastewater Treatment 511 
+6.40.3.1 Maximum Separation of the Solid and Liquid Fraction 511 
+6.40.3.2 Primary Membrane Filtration 512 
+6.40.3.3 Ammonia Removal 512 
+6.40.3.3.1 Nitrification 512 
+6.40.3.3.2 OLAND: Partial nitritation and anammox 512 
+6.40.4 Overall Technology Ranking 513 
+6.40.5 Conclusions 514 
+References 514 
+6.40 Efficiency and Sustainability of Urban Wastewater Treatment 
+with Maximum Separation of the Solid and Liquid Fraction 
+V Diamantis, P Melidis, and A Aivasidis, Democritus University of Thrace, Xanthi, Greece 
+W Verstraete and SE Vlaeminck, Ghent University, Ghent, Belgium 
+© 2011 Elsevier B.V. All rights reserved. 
+Glossary sewage Domestic water-carried waste or ‘wastewater’ 
+concentrate Increase the content of dissolved, suspended, from a community transported with sewers, regarded as 
+and colloidal solids in water, preferably by membrane ‘used water’ in the resource recovery philosophy. 
+filtration technology. sludge retention time (SRT) The average time that 
+dissolved air flotation (DAF) A chemical process to biological  sludge is retained  in a bioreactor.  For 
+concentrate suspended solids or oil from water. Flotation activated  sludge, this biomass age is an important  
+is achieved by dissolving air in the water under pressure design and operating  parameter  affecting  the quantity 
+and subsequently releasing the air at atmospheric pressure of excess sludge produced  by the process and the 
+after which the suspended matter, attached to small air oxidation  efficiency  of biodegradable  organics and 
+bubbles, can be removed by a skimmer. ammonium.  
+oxygen-limited autotrophic nitrification/denitrification trickling filter (TF) A fixed bed aerobic bioprocess for 
+(OLAND) A bioprocess in which ammonium in the water water treatment. Water flows over a bed of rock or plastic 
+is converted to harmless nitrogen gas through a combination packing on which a biofilm grows oxidizing 
+of partial nitritation and anammox in one reactor. biodegradable organics and ammonium. 
+6.40.1 Introduction 
+The main goals of water sanitation systems are to protect human health and the environment and to recover valuable resources from 
+used water (e.g., water for reuse, energy, and nutrients) [1, 2]. 
+Activated sludge is nowadays routinely used for biological treatment of municipal effluents. For example, in Greece, more than 
+85% of the installed treatment plants consist of conventional activated sludge (CAS) [3]. The process enables organic matter 
+oxidation to CO2 and excess biomass, ammonia oxidation to nitrate (which is sometimes reduced to nitrogen gas), and (partial) 
+phosphorus incorporation to biomass. Several pharmaceuticals and trace organic chemicals may be degraded, while others remain 
+unaffected [4]. Metal removal is mainly performed by adsorption and complexation with the biomass and ranges from 50 to 98% 
+depending on initial metal concentration [5]. Therefore, the treated water is usually disposed to the environment. 
+Regions with arid and semiarid climatic conditions and limited access to freshwater supplies have recognized the value of these 
+discharges in advance. Conventional processes such as the activated sludge, coupled with advanced treatment schemes (micro­
+filtration (MF)/ultrafiltration (UF) and reverse osmosis), enable recovery of high-quality water suitable for reuse. At the centralized 
+507 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+Table 1 Effect of sludge age on oxygen requirements and respective green house gas (GHG) emissions for a typical CAS process with and without 
+primary clarification 
+Sludge BOD influent (kg BOD removed kg O2 (kg−1 Aeration for C degradation Aeration for N oxidation GHGa emissions 
+age (days) IE−1 yr −1) (kg IE−1 yr −1) BOD removed) (kg O2 IE−1 yr −1) (kg O2 IE−1 yr −1) (kg CO2 IE−1 yr −1) 
+CAS with primary clarification 
+8 16.4 14.6 0.9 13 NA 6.5 
+15 16.4 14.6 1.1 16 18 17 
+CAS without primary clarification 
+15 21.9 20.0 1.1 22 18 20 
+25 21.9 20.0 1.3 26 18 22 
+a −1 −11 kWh kg O2 and 0.5 kg CO2 kWh . 
+508 Municipal Wastes 
+level, this concept has been widely used for indirect or direct potable reuse (Windhoek, Namibia; Water Factory 21, Orange County 
+Water District; NEWater, Singapore; West Basin, California; and Oostduinkerke, Belgium) [6]. 
+The CAS process traditionally receives wastewaters that are pretreated by primary sedimentation [7]. Primary sedimentation is 
+most efficient in removing settleable solids, whereas the biological processes are essential for removing soluble, colloidal, and 
+particulate (suspended) organic substances. For applications such as treating wastewater from smaller-sized communities, primary 
+treatment is often not used as more emphasis is placed on simpler and less-operator-intensive treatment methods [7]. 
+Nitrogen removal is often required before discharging treated wastewater to sensitive water bodies (to prevent eutrophication). 
+All of the biological nitrogen removal processes include an aerobic zone in which biological nitrification occurs. Some anoxic 
+volume or time must also be included to provide biological denitrification to complete the objective of total nitrogen removal by 
+both ammonia oxidation and nitrate and nitrite reduction to nitrogen gas. In this case, the primary clarification step is commonly 
+omitted since nitrate reduction requires an electron donor, which can be supplied in the form of influent wastewater biochemical 
+oxygen demand (BOD). 
+Therefore, the activated sludge process is nowadays designed without separating the solid fraction, at least to a major extent. In 
+this article, CAS systems with and without anaerobic digestion (AD) are analyzed and discussed in relation to electricity consump­
+tion, greenhouse gas emissions, and maximum energy recovery. Novel approaches, implementing an enhanced separation of the 
+solid and liquid fraction upfront, are conceived and proposed for sustainable wastewater treatment. 
+6.40.2 Actual Situation in Wastewater Treatment Plants 
+6.40.2.1 Electricity Requirements 
+Electricity is generated not only by centralized facilities in most cases employing hard coal, lignite, oil, and natural gas, but also from 
+nontraditional sources (nuclear, biomass, hydro, and wind). The greenhouse gas emissions related to electricity production are in 
+the order of 0.34, 0.57, and 0.50 kg CO2 kWh−1 for EU27, USA, and worldwide, respectively [8]. In the present work, a value of 
+0.50 kg CO2 kWh−1 was used for the calculations. 
+At municipal level, the electricity consumption of a wastewater treatment plant is comparable to other consumers (schools, 
+streets, etc.). A study by Power Application Group Inc. on behalf of Ontario’s Independent Electricity System Operator revealed that 
+445 municipalities of Ontario spent around $680 million annually for electricity and they consumed 6.6 billion kWh yr−1 
+(on average ~ 570 kWh per inhabitant−1 per year−1). The average consumption of electricity for wastewater treatment represented 
+16% of the total electricity consumption and it was comparable to other uses such as street lighting (14%), water treatment and 
+pumping (17%), housing (16%), and arena (11%). 
+For a conventional aerobic wastewater treatment plant (i.e., activated sludge), aeration accounts for 60–70% of the total 
+electricity requirements followed by wastewater pumping [9]. The oxygen requirements for the biodegradation of carbonaceous 
+material (BOD) is in the order of 0.90–1.30 kg O2 kg−1 BOD removed for sludge retention times (SRTs) of 5–20 days. One 
+inhabitant equivalent (IE) rejects ~ 60 g BOD per day or 21.9 kg BOD yr−1. With an overall efficiency of the activated sludge process 
+of 90–95%, that is, 20 kg BOD removed IE−1 yr−1, the oxygen requirements correspond to 18–26 kg O2 IE−1 yr−1. Ammonia 
+oxidation to nitrate requires stoichiometrically about 4.3 kg O2 per kg N. With 13 g total nitrogen (TN) rejected per IE and day and 
+with 90% nitrification efficiency extra ~ 18 kg O2 IE−1 yr−1 are required. 
+Oxygen can be supplied by means of air bubbles introduced to the water to create gas–water interfaces. There are several types of 
+aeration systems used for wastewater treatment. The most frequently used are the diffused-air systems and mechanical aeration. 
+Considering a conversion factor of 1.0 kg O2 kWh−1, the emissions related to the provision of aeration for BOD removal are 9–13 kg 
+CO2 IE−1 yr−1. In case that nitrification is also included, this accounts to 18–22 kg CO2 IE−1 yr−1. 
+In Table 1, the energy requirements for carbon oxidation in a CAS plant are calculated as a function of the sludge age, with and 
+without primary clarification. It is evident that oxygen requirements for waste biodegradation increase with increasing sludge age 
+and if separation of wastewater solids is not included. Accordingly, in terms of energy conservation, it is advisable to separate the 
+incoming solids load to a major extent. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+Table 2 Secondary sludge production as a function of the SRT with preclarified and nonclarified 
+municipal wastewater (at 10 °C) 
+Yield Specific production 
+Preclarified Nonclarified Preclarified Nonclarified 
+SRT 
+(days) (kg VSS kg−1 BOD) (kg VSS kg−1 BOD) (kg VSS IE−1 yr −1) (kg VSS IE−1 yr −1) 
+1 0.87 1.18 12.7 23.7 
+2 0.82 1.15 11.9 23.1 
+5 0.70 1.05 10.2 21.1 
+10 0.60 0.90 8.5 18.1 
+15 0.56 0.83 8.2 16.7 
+25 0.46 0.72 6.7 14.5 
+Data from Metcalf and Eddy (2003) Wastewater Engineering: Treatment and Reuse, 4th edn. New York, NY: McGraw-Hill. 
+Efficiency and Sustainability of Urban Wastewater Treatment with Maximum Separation of the Solid and Liquid Fraction 509 
+Novel treatment schemes implementing the membrane bioreactor (MBR) technology require additional energy for membrane 
+fouling control and this is usually accomplished by excess pumping (to increase cross-flow velocity), aeration (to produce air slugs 
+and air scouring), and the operation of rotational or vibratory equipment. It has been often reported that the electricity consump­
+tion is a factor of 2 or more compared to CAS [10]. 
+Finally, major savings are possible by appropriate control of water aeration through dissolved oxygen (DO) measurements and 
+by minimizing flow short-circuit in aerated channel reactors [11]. 
+6.40.2.2 Excess Sludge Production 
+The activated sludge process is usually designed toward minimization of excess sludge production. It is well known that increasing 
+SRT and hence decreasing sludge loading rate can decrease sludge production in aerobic wastewater treatment processes. 
+Additionally, by increasing the biomass concentration it would theoretically be possible to reach a situation in which the amount 
+of energy provided to the microorganisms equals the maintenance demand. This is the concept of extended aeration, which 
+combines high mixed liquor suspended solids (MLSS) with high SRT. It is impossible, however, to increase the sludge concentration 
+significantly in the conventional activated sludge process by means of sedimentation. Accordingly, the MBR provides an interesting 
+technology. Innocenti et al.[ 12] reported a decrease in excess sludge by 75–84% by implementing the MBR at SRT > 100 days. In a 
+similar study, the optimum SRT for a MBR was reported to be ~80 days [13]. 
+6.40.2.2.1 Primary sludge 
+One IE rejects annually (0.065 kg d−1)*(365 days) = 23.7 kg suspended solids (SS) consisting of the settleable (~ 18.2 kg IE−1 yr−1)a nd  
+the colloidal fraction (5.5 kg IE−1 yr−1). The degree of SS removal in the primary clarifier is, among others, a function of the hydraulic 
+retention time (HRT) and for typical design values (HRT = 1–2 h), the removal of the settleable fraction is ~80%, corresponding to 
+60% total SS removal. Therefore, approximately 14.2 kg SS IE−1 yr−1 are separated in the primary sludge, with a volatile solids content 
+of 9.2 kg volatile suspended solids (VSS) IE−1 yr−1. The respective removal of BOD by the primary clarifier is ~25%. 
+6.40.2.2.2 Secondary sludge 
+In Table 2, the VSS yield per kilogram BOD removed as function of the SRT is given for pretreated (clarified) and raw municipal 
+wastewater (data obtained from Reference 7). The results presented reveal that the solids yield decreases with increasing SRT 
+and varies between 0.46 and 1.18 kg VSS kg−1 BOD removed. The corresponding sludge production is between 6.7 and 23.7 kg VSS 
+IE−1 yr−1. In case primary clarification is included, extra 9.2 kg VSS IE−1 yr−1 should be added. Indeed, a net increase of solids up to a 
+factor of 1.5 is possible by the CAS process at low SRT [9]. 
+6.40.2.3 Energy Recovery from Methane 
+The organic matter (expressed as chemical oxygen demand (COD)) released annually by a population equivalent is approximately 
+(0.120 kg d−1)*(365 days) = 43.8 kg COD, which corresponds to ~ 16.4 kg Total Organic Carbon (TOC) IE−1 yr−1. The theoretical 
+chemical energy content is therefore equal to 177 kWh IE−1 yr−1 considering that 1 kg TOC is equal to 10.8 kWh. This energy content 
+is, however, accessible after separation, drying, and incineration of the organics. 
+Digesting all the readily degradable COD present in domestic sewage (0.090 kg COD IE−1 d−1 or 32.8 COD kg IE−1 yr−1) may 
+result in 32.8*0.32 = 10.5 m3 CH4 IE−1 yr−1. The corresponding energy content is equal to ~30 kWh-el IE−1 yr−1. Separating and 
+digesting only the solid fraction (0.045 kg VSS IE−1 d−1 or 16.4 kg VSS IE−1 yr−1), one can generate 16.4*0.5 = 8.2 m3 biogas IE−1 yr−1 
+(having 65% methane) or 5.3 m3 CH4 IE−1 yr−1. The corresponding energy content is equal to 16 kWh-el IE−1 yr−1. It is therefore 
+evident that approximately half of the wastewater degradable COD is related to particles. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+Table 3 Specific quantities of sludge produced from a CAS process with and without preclarification and corresponding energy recovery 
+during anaerobic sludge digestion 
+Sludge Primary sludge Secondary sludge Total sludge CH4 recovery Energy recovery a
+age (days) (kg VSS IE−1 yr −1) (kg VSS IE−1 yr −1) (kg VSS) (m3) (kWh-el) CO2 gain (kg)
+1 9.2 12.5 21.7 7.1 21.3 10.7 
+5 9.2 10.2 19.4 6.3 18.9 9.5 
+10 9.2 8.5 17.7 5.8 17.4 8.7 
+10 18.1 18.1 5.9 17.7 8.9 
+25 14.5 14.5 4.7 14.1 7.1 
+100 7.3 7.3 2.4 7.2 3.6 
+a1m 3 CH4 = 3 kWh-el. 
+510 Municipal Wastes 
+In Table 3, the potential energy recovery through anaerobic sludge digestion of different activated sludge processes is given. Both 
+primary and secondary sludge are included. The calculations were performed assuming 0.5 m3 biogas kg−1 VSS feed with 65% 
+methane. The data reveal that the energy recovered by AD decreases considerably with increasing SRT, due to excess sludge 
+minimization. The decrease in biogas production is further accentuated in practice by the low biomethanization potential of the 
+substrate at high SRT [14]. The VSS removal is a function of the solids retention time inside the digester. Typical values vary between 
+55 and 65% for SRT from 15 to 30 days, respectively. 
+At short sludge age, a significant part of the organic load is removed from the liquid stream mainly by adsorption and rapidly 
+introduced into the sludge stream. In this case, almost complete utilization of biodegradable material is possible, but since the 
+solids retention time is too short, extensive decay and associated endogenous respiration is limited, therefore, the sludge production 
+is high. Digesting the large and highly biodegradable excess sludge mass into methane, may recover up to 70% of the theoretical 
+energy content of the raw wastewater (10.5 m3 CH4 IE−1 yr−1). 
+Further energy recovery is possible by incineration of residual organics from the anaerobic digester. However, digested sludge 
+should be dry (less than 10% moisture content), which requires large amounts of energy and may be considered unsustainable in 
+most cases. The technology of solar sludge drying is a zero energy input process and is especially suitable for Mediterranean 
+conditions [15]. 
+Comparing the data from Tables 1 and 3, it is evident that at short sludge age, the energy requirements for water aeration are 
+lower than the energy recovered by sludge digestion. Operational data from the wastewater treatment plant ‘Strass’ in Austria verify 
+this trend, that is, it is possible to render the CAS process self-sufficient, in terms of energy requirements, by implementing a high-
+rate biosorption process at low SRT, AD of the sludge, and oxygen-limited autotrophic nitrification/denitirification (OLAND) 
+treatment (see also Section 6.40.3.3.2) of the digestate [9]. 
+6.40.2.4 Methane Emissions from Sludge Disposal 
+Methane is considered the most important greenhouse gas (GHG) emitted from wastewater management. Most small- and 
+medium-sized aerobic treatment plants provide excess sludge storage that combines primary and secondary sludge. The material 
+is dewatered by means of filter presses and is often disposed to a lagoon or landfill. In this case, anaerobic degradation occurs [16] 
+and can result in a potential release to the environment of 2.4–7.1 m3 CH4 IE−1 yr−1 (see Table 3) or 1.63–4.83 kg CH4 IE−1 yr−1 
+considering a density of methane equal to 0.68 kg m−3 (at 1.013 bar and 15 oC). The global warming potential (GWP) for methane 
+is 25 compared to CO2, thus, the GHG emissions are 40–120 kg CO2 IE−1 yr−1. This potential value may be lower in practice due to 
+environmental factors influencing CH4 production (temperature, pH, nutrient limitations, biological inhibition, physicochemical 
+interactions, etc.) and the extent of decomposition and carbon sequestration in the disposal site or landfill. 
+In large-scale facilities where the excess sludge is digested in a technical way, the above-mentioned emissions are avoided since 
+the biogas is collected and burned or reused. Indeed, it is possible to avoid 3.6–10.7 kg CO2 IE−1 yr−1 by replacing conventional 
+fossil fuels (see Table 3). 
+6.40.2.5 Nitrous Oxide Emissions from Waste Biodegradation 
+Since 1 kg N2O has a GWP of 310 kg CO2 on a time horizon of 100 years [17], N2O emissions during biological nitrogen removal 
+can weigh heavily on the overall CO2 footprint of a wastewater treatment plant. The production of N2O can be related to nitritation, 
+that is, ammonia oxidation to nitrite, or to denitrification. For both processes, N2O emissions are stimulated by rapidly changing 
+process conditions and by high nitrite levels. Furthermore, high DO levels and low COD/N ratios enhance denitrification emissions, 
+whereas high ammonium concentrations (also simultaneously with nitrite) and specific (about 1 mg O2 l−1) or changing (low to 
+high) DO levels increase nitritation emissions [18]. Given the highly dynamic nature of N2O emissions, accurate quantifications can 
+only be obtained from grab samples taken at high frequency or from continuous online measurements [18]. Only some reports exist 
+using this approach on full-scale wastewater treatment plants (WWTPs), displaying a wide range of N2O emissions: from 0.01% to 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+Efficiency and Sustainability of Urban Wastewater Treatment with Maximum Separation of the Solid and Liquid Fraction 511 
+3.3% of the nitrogen load [19, 20]. Assuming a nitrogen load equal to 0.013 kg total ammonia nitrogen (TAN) IE−1 d−1, the amount 
+of N2O generated annually is 0.475–157 g N2OI E−1 yr−1 or 0.23–76 kg CO2 IE−1 yr−1. 
+6.40.3 Sustainability in Wastewater Treatment 
+6.40.3.1 Maximum Separation of the Solid and Liquid Fraction 
+There are several advantages to be considered for a chemically enhanced primary treatment (CEPT) step: 
+• Simple and rapid process start-up. Immediate operation after short- or long-term pauses. 
+• The addition of chemicals (coagulants and flocculants) requires simple dosage systems. 
+• Minimum energy requirements and no energy for water aeration. 
+•	 Minimum diffuse CO2 emissions. Wastewater organics are concentrated rather than degraded. It is possible to concentrate up to 
+50% of the soluble COD through adsorption into sludge flocs and precipitates formed. 
+•	 The hydraulic retention time required is significantly lower compared to conventional biological processes, thus the overall 
+footprint of the plant is minimum. 
+• Effluent quality in terms of organic contaminants is similar or even higher than secondary standards. 
+• Nitrogen is recovered in the primary effluent and can be reused at local level (for gardening, irrigation, etc.). 
+• Complete removal of phosphorous is possible by coagulant use. The P can be subsequently recovered from the digested sludge. 
+• Removal of heavy metals from water is possible by the use of coagulants (iron and aluminum). 
+• It is possible to upgrade the effluent bya low-energy bioprocess (e.g., trickling filter (TF)) ensuringresidual BOD removalandnitrification. 
+Indeed, maximum separation of the solid fraction is possible by implementing a CEPT step. This includes a rapid mixing tank where 
+a coagulant is dosed, a slow-mixing flocculation process, and a final clarifier. Odegaard [21] reported that more than 35 CEPT plants 
+in Norway were consistently operating at removal efficiency 75% for COD, 90% for P, and 90% for SS. 
+The energy requirements for a typical coagulation process results from the operation of rapid and slow mixers, having an energy 
+input of 0.010 and 0.003 kWh m−3 of water treated or 0.64 and 0.20 kWh IE−1 yr−1, respectively. Accordingly, the CO2 emissions are 
+in the order of 0.42 kg CO2 IE−1 yr−1. This is especially favorable in terms of GHG accounting. However, aluminum sulfate 
+production requires large amounts of energy, in the order of 10 000 kWh ton−1 of produced aluminum [22]. The respective values 
+for ferric chloride and organic polymer production are 350 and 12 500 kWh ton−1 [22]. Considering a conversion factor of 0.50 kg 
+CO2 kWh−1 of energy input [8], this results in 5.000, 0.175, and 6.250 kg CO2 kg−1 of aluminum, ferric chloride, and polymer, 
+respectively. A coagulant dose of 80 mg l−1 (as alum) results in an emission factor of 0.400 kg CO2 m−3 of water treated or 25.6 kg 
+CO2 IE−1 yr−1. For ferric chloride, the latter value is ~1.1 kg CO2 IE−1 yr−1, dosing at 100 mg l−1. The flocculant is usually dosed at a 
+maximum level of 3–4m g  l−1 and represents an emission factor of 1.2–1.6 kg CO2 IE−1 yr−1. Therefore, adding extra 2.5 kg CO2 
+IE−1 yr−1 from the use of chemicals (iron and flocculants), a maximum of 3.0 kg CO2 IE−1 yr−1 can be assumed for the CEPT process. 
+The amount of concentrated sludge produced by CEPT is 1.5–2.0 times higher compared to conventional settling processes 
+because of high SS removal efficiency and the coagulant precipitates formed (e.g., aluminum or iron hydroxide, calcium sulfate for 
+alum treatment, etc.). Also, a significant part (up to 50%) of the soluble organic matter is absorbed by the flocs and removed from 
+the liquid phase. Anaerobic digestion of the concentrated organics can result in biogas production in the order of 70–80% of the 
+theoretical methane potential (10.5 m3 CH4 IE−1 yr−1). However, AD of the chemically enhanced sludge can potentially decrease 
+biogas production, for the same amount of volatile solids fed, by a factor of 10–15% [23]. This is due to low levels of bio-available P 
+and trace elements, which may hinder the ability of microorganisms to metabolize organic substrates. Indeed, the decrease in biogas 
+productivity depends strongly on the coagulant dose and it is especially severe when more than 100 mg l−1 (iron or alum) are added 
+during wastewater treatment [24]. 
+Optimization of the CEPT process is possible by implementing a dissolved air flotation (DAF) step. The DAF offers significant 
+advantages over conventional sedimentation processes. It is usually designed for overflow rates of up to 15 m h−1 and provides 
+increased separation efficiency, since smaller particles can be removed. The corresponding footprint can therefore be decreased by a 
+factor of 5–10. The COD removal in the order of 70–90%, with effluent COD concentrations being lower than 100 mg l−1, are 
+obtained from practical scale modules designed for flow rates between 1 and 40 m3 h−1 [21]. Comparably with the sedimentation 
+process, coagulation also plays an important role in flotation systems. When alum was used as the coagulant, on average 99% 
+removal of P and higher than 85% removal of SS was observed. Finally, it is possible to remove several pharmaceuticals and 
+personal care products [25, 26]. 
+The energy required for DAF includes water recirculation and air compression and approximates 0.02–0.04 kWh m−3 or 
+1.28–2.56 kWh IE−1 yr−1. Therefore, the GHG emissions may be 0.6–1.3 kg CO2 IE−1 yr−1. Adding an extra 2.5 kg CO2 IE−1 yr−1 
+for use of chemicals (iron and polymer) the overall GHG emission is at maximum 3.8 kg CO2 IE−1 yr−1. 
+The DAF systems have been reported to produce highly concentrated sludge [27]. In this case, the dry solids concentration 
+achieved using a cationic polyelectrolyte was approximately 5%. This is especially attractive since small volumes of relatively 
+concentrated sludge are collected. Digesting the latter may recover up to 70–80% of the wastewater energy content in accordance 
+with the amount of COD separated by the process. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+512 Municipal Wastes 
+6.40.3.2 Primary Membrane Filtration 
+Instead of implementing CEPT to separate the organics present in sewage, the use of membranes offers an interesting alternative. 
+The MF/UF membranes operated directly on sewage achieved permeate COD between 10 and 80 mg l−1 with complete rejection of 
+the SS [35, 36]. Pathogen rejection was also high [35]. Although, increasing membrane pore size may result in bacteria break­
+through, the formation of cake layer provides additional filtration and enhances bacteria removal [36]. Finally, the rejection of 
+nutrients during primary membrane filtration is limited [35, 37]. For decentralized applications, this is important, since essential 
+macro- and micronutrients can be recovered and consequently reused at local level. 
+Although membrane systems show superior performance in terms of effluent (permeate) quality, their use in sewage 
+concentration is limited to pilot testing due to poor hydraulic performance which is attributed to membrane fouling. If the 
+steady-state permeate flux for a given wastewater type and process conditions approaches extremely low values, it is uneconomical 
+(in terms of both capital and operational expenses) to proceed in full-scale application. 
+A shear-enhanced cross-flow UF was employed for sewage concentration and water recovery [38]. The permeate stream was 
+transparent and characterized by low COD concentration (< 50 mg l−1), while the major part of the nutrients were captured 
+(permeate total Kjeldahl nitrogen (TKN) = 20–25 mg l−1 and total phosphorus (TP) = 6–8m g  l−1). Sewage concentration by a factor 
+of 10 was possible at steady-state fluxes of 65 l m−2 h−1 and transmembrane pressure of 3 bar. However, electricity consumption 
+from the pilot-scale module was significant (5–10 kWh m−3) and the GHG emissions from fossil energy use may sum up to 
+160–320 kg CO2 IE−1 yr−1. Therefore, new high-flux membranes and efficient fouling control and mitigation technologies need to 
+be developed. This is especially important if direct applications on sewage are envisaged. 
+Finally, it is possible to upgrade the CEPT or secondary effluent by MF/UF at overall energy input equal or less than 0.5 kWh m−3 
+[39], which corresponds to 15 kg CO2 IE−1 yr−1. 
+6.40.3.3 Ammonia Removal 
+6.40.3.3.1 Nitrification 
+By separating the solids and the liquid fraction up front, a primary treated water low in SS and organics is recovered. The use of 
+coagulants can additionally decrease the P and heavy metals content to a major extent. Thus, ammonia nitrogen (residual 50–70%) 
+constitutes a major pollutant if disposal rather than recovery is the objective. For effluent upgrade, low-rate trickling filters consist of 
+a promising technology. The principal advantages over the CAS process include: 
+• Lower energy requirements. 
+• Simple operation (sludge recirculation, mixed liquor control, and sludge wasting are not required). 
+• No problems of bulking sludge in the final clarifier. 
+• Better sludge thickening properties. 
+• Less equipment maintenance needs. 
+• Better recovery from shock toxic loads. 
+• Wastewater flow approaches a plug-flow hydraulic regime, which is favorable for wastewater treatment kinetics (first order). 
+•	 The use of advanced primary effluent can reduce the loading of the filter (in terms of both suspended and colloidal organics); thus 
+fouling of the packing may be controlled. 
+Both BOD removal and nitrification can be accomplished in rock or plastic packing TFs operated at low organic loadings. In most 
+low-rate filters, only the top 0.6–1.2 m of the filter packing will have appreciable biological slime [7]. As a result, the lower portions 
+of the filter may be populated by autotrophic nitrifying bacteria, which oxidize ammonia nitrogen to nitrite and nitrate. If the 
+nitrifying population is sufficiently well established, and if climatic conditions and wastewater characteristics are favorable, a 
+well-operated low-rate filter can provide good BOD removal and a highly nitrified effluent [28]. 
+The power required for a TF is 0.002–0.004 kW m−3 reactor volume for low-rate filters and up to 0.006–0.010 kW m−3 for 
+high-rate applications [7]. The filters are usually designed according to the hydraulic or organic loading rate. The organic 
+loading rate in terms of COD is 0.15–0.50 kg m−3 d−1 for low-rate filters and 1–4k g  m−3 d−1 for high-rate ones. For a COD 
+concentration of the advanced primary treated water equal to 150 mg l−1, the hydraulic retention time for a trickling filter will 
+never be higher than 1 day. Thus, the energy required per cubic meter of water treated is at maximum 0.05–0.10 kWh m−3 
+water treated or 3–6 kWh IE−1 yr−1. 
+Solids production will depend on the wastewater characteristics and the TF loading. At lower organic loading rates, the biomass 
+has a longer SRT, and, as a result, less biomass is produced. Sludge production in this case may be 0.010–0.015 kg VSS IE−1 d−1, 
+which corresponds to 3.6–5.5 kg VSS IE−1 yr−1. Digesting this fraction can result in 1.8–2.7 m3 biogas IE−1 yr−1 or 1.2–1.7 m3 CH4 
+IE−1 yr−1, having an energy content 3.6–5.1 kWh-el IE−1 yr−1. Overall, the process can be self-sufficient and sustainable in terms of 
+energy requirements and GHG emissions, respectively. 
+6.40.3.3.2 OLAND: Partial nitritation and anammox 
+Oxygen-limited autotrophic nitrification/denitrification (OLAND) is an alternative biological process to remove nitrogen [29]. This 
+process combines, in one reactor system, partial nitritation, that is, aerobic oxidation of about half of the ammonium to nitrite, and 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+Table 4 Comparison of different concentration strategies performance for 
+municipal wastewater treatment 
+Removal (%) 
+Process SS COD N P 
+Primary sedimentation 60 30 <10 <10 
+Biological concentrationa 90 70–80 70–80 <30 
+Membrane separation 99 70–80 10–20 <30 
+Chemically enhanced primary treatment 90 70–80 5–15 90 
+CEPT/DAF 90 70–90 5–15 90 
+aActivated sludge at low SRT with OLAND for nitrogen removal. 
+Efficiency and Sustainability of Urban Wastewater Treatment with Maximum Separation of the Solid and Liquid Fraction 513 
+anammox, that is, anoxic oxidation of the residual ammonium with the formed nitrite to mainly dinitrogen gas (89%) and some 
+nitrate (11%) [30]. Hence, compared to nitrification, OLAND treatment significantly lowers the total nitrogen effluent value, which 
+can be important when discharging in nitrate-sensitive surface waters. The application domain of OLAND is restricted to waste­
+waters with a relatively low COD/N ratio (typically ≤2–3), since the slowly growing anammox bacteria can have difficulties to 
+compete with rapidly growing denitrifying bacteria at higher ratios [31]. Waters with a low COD/N ratio are obtained following 
+COD removal by AD, by an enhanced physicochemical treatment (e.g., primary membrane filtration (PMF) or CEPT and DAF), or 
+by a highly loaded CAS system with short SRT. 
+Stoichiometrically, OLAND requires only 1.8 kg O2 kg−1 N, which is around 60% lower than nitrification requirement of 4.3 kg 
+O2 kg−1 N[ 32]. On the one hand, in aerated tank systems, this implies that OLAND consumes only ~ 8 kWh IE−1 yr−1, compared to 
+~ 18 kWh IE−1 yr−1 for nitrification. Such reactor configurations include sequencing batch reactors, upflow reactors, and moving bed 
+reactors [32]. On the other hand, for systems relying on passive aeration, the energy consumption will be lower than the 
+conventional process. A typical example of such technology is a rotating biological contactor (RBC) (e.g., [30, 32]). As indicated 
+above, the oxygen cost in aerated tank systems is generally around 1 kg O2 kWh−1. In comparison, this can be up to 2 kg O2 kWh−1 
+for conventional disc RBCs (equal to 4 kWh IE−1 yr−1), and even up to 5 kg O2 kWh−1 for advanced RBCs with carrier material 
+present in rotating cages (equal to <2 kWh IE−1 yr−1)[ 33]. 
+Since anammox bacteria, with a typical doubling time of 9 days, grow almost 20 times slower than nitrite-oxidizing bacteria 
+[31], sludge production from OLAND is lower compared to nitrification. Overall, OLAND produces less than 0.10 kg VSS kg−1 N 
+[34], which corresponds to ~0.5 kg IE−1 yr−1. This is especially favorable toward minimizing excess sludge production. 
+6.40.4 Overall Technology Ranking 
+In Table 4, an overview is given for conventional and advanced primary treatment strategies concerning removal of SS, 
+dissolved COD, nitrogen, and phosphorus. The use of chemicals results in high degree of SS elimination,  together with up to 
+50–80% of the soluble COD fraction. Nitrogen removal shows the lowest removal efficiency while P elimination is complete 
+when chemical coagulants are used. Biological, using a selector-type activated sludge process, or physicochemical up-
+concentration of the organics coupled with OLAND process may result in significant N removal with minimum energy 
+requirements [40, 41]. 
+In Table 5 traditional and advanced wastewater treatment schemes are evaluated concerning GHG emissions. The values 
+presented were calculated as follows: 
+1. Energy requirements include the electricity for water aeration, and in case of the CAS and MBR processes, mixing for CEPT, and 
+pumping and air compression for the DAF treatment. 
+2. Diffuse methane emissions were included for uncontrolled sludge disposal. These values were calculated according to the 
+potential quantity of methane generated through anaerobic degradation. 
+3. Energy recovery includes the methane recovered through anaerobic sludge digestion. In case of CEPT, the energy recovery was 
+calculated based on the percentage of COD separated from the raw wastewater. 
+According to Table 5, CAS plants with high SRT and excess sludge disposal to the environment have very high GHG emissions. 
+Under these conditions, the MBR technology represents the lower emission factor and this is attributed to excess sludge minimiza­
+tion. In case the anaerobic digester is available on-site or in the vicinity of the plant, the optimum CAS process is conceived at low 
+SRT. Indeed, it is possible to render the process self-sufficient in terms of energy requirements by operating at SRT = 5 days. Finally, 
+one can further maximize energy autarky in the wastewater treatment plant, by implementing, instead of an energy intensive 
+activated sludge process, a chemically enhanced primary treatment scheme, followed by a trickling filter or an OLAND process for 
+effluent polishing. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+514 Municipal Wastes 
+Table 5 The GHG accounting (kg CO2 IE−1 yr−1) for different scenarios of municipal wastewater treatment 
+GHG source Energy requirements Sludge disposal Energy recovery Total 
+CAS without AD 
+CAS at SRT = 5 days 6 107 NA 121.7 
+CAS at SRT = 25 days 22 80 NA 102 
+MBR at SRT = 100 days 50 40 NA 90 
+CAS with AD 
+CAS at SRT = 5 days 6 NA −9.5 −1.5 
+CAS at SRT = 25 days 22 NA −7.1 14.9 
+MBR at SRT = 100 days 50 NA −3.6 46.4 
+CEPT with AD 
+CEPT 3* NA −9.5 −6.5 
+CEPT/DAF 6* NA −9.5 −3.5 
+Trickling Filter (TF) or OLAND 4 NA −2 2 
+Tertiary UF 15 NA NA 15 
+�Including indirect emissions from chemicals use.
+ 
+NA, not applicable.
+ 
+6.40.5 Conclusions 
+The following conclusions were arrived at: 
+1. The CAS process designed at high SRT results in significant GHG emissions due to high electricity requirements for water 
+aeration. At short SRT it is possible to harvest the majority of the organics with minimum energy input, while reusing the biogas 
+produced through anaerobic sludge digestion can result in energy self-sufficiency. 
+2. Anaerobic digestion of the concentrates and sludge generated during municipal wastewater treatment is essential for carbon 
+economy. Disposal of these materials to the landfill can contribute to the release of 40–100 kg CO2 IE−1 yr−1 due to diffuse 
+methane emissions. 
+3. Implementation of a CEPT step enables maximum separation of the organics, P, and heavy metals from the water. Use of 
+coagulants/flocculants produced in the biorefinery market is of significant importance. The primary treated water contains some 
+50–70% of the initial nitrogen load and can be reused at local level for gardening/irrigation. 
+4. In cases that the primary treated water is designated for disposal to sensitive water bodies, the TF technology is especially 
+interesting for effluent nitrification and residual BOD elimination. As an alternative for waters with a low COD/N, OLAND can 
+achieve nitrogen removal at lower energy consumption and sludge production compared to nitrification. 
+5. The possibility to combine CEPT with subsequent direct low-pressure membrane filtration and the development of high-flux 
+membranes open perspectives for combining maximum recovery of nutrients and water without imposing a considerable energy 
+input. 
+References 
+[1] Nelson KL and Murray A (2008) Sanitation for unserved populations: Technologies, implementation challenges, and opportunities. Annual Reviews of Environment and Resources 
+33: 119–151. 
+[2] Verstraete W, van de Caveye P, and Diamantis V (2009) Maximum use of resources present in domestic “used water”. Bioresource Technology 100: 5537–5545. 
+[3] Tsagarakis KP, Tsoumanis P, Chartzoulakis K, and Angelakis AN (2001) Water resources status including wastewater treatment and reuse in Greece – Related problems and 
+prospectives. Water International 26: 252–258. 
+[4] Onesios KM, Jim TY, and Bouwer EJ (2009) Biodegradation and removal of pharmaceuticals and personal care products in treatment systems: A review. Biodegradation 
+20: 441–466. 
+[5] Santos A and Judd S (2010) The fate of metals in wastewater treated by the activated sludge process and membrane bioreactors: A brief review. Journal of Environmental
+ 
+Monitoring 12: 110–118.
+ 
+[6] Dewettinck T, van Houtte E, Geenens D, et al. (2001) HACCP (Hazard Analysis and Critical Control Points) to guarantee safe water reuse and drinking water production – A case 
+study. Water Science and Technology 43(12): 31–38. 
+[7] Metcalf and Eddy Inc. (2003) Wastewater Engineering: Treatment and Reuse, 4th edn. New York, NY: McGraw-Hill. 
+[8] Fruergaard T, Astrup T, and Etvall T (2009) Energy use and recovery in waste management and implications for accounting of greenhouse gases and global warming contributors. 
+Waste Management and Research 27: 724–737. 
+[9] Wett B, Buchauer K, and Fimml C (2007) Energy self-sufficiency as a feasible concept for wastewater treatment systems. Proceedings IWA Leading Edge Technology Conference, 
+pp. 21–24. Asian Water, Singapore, September 2007. 
+[10] Gander M, Jefferson B, and Judd S (2000) Aerobic MBRs for domestic wastewater treatment: A review with cost considerations.  Separation and Purification  Technology 
+18:119–130. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+Author's personal copy
+Efficiency and Sustainability of Urban Wastewater Treatment with Maximum Separation of the Solid and Liquid Fraction 515 
+[11] Diamantis V, Papaspyrou I, Melidis P, and Aivasidis A (2010) High aeration rate enhances flow stratification in full-scale oxidation ditch. Bioprocess and Biosystems Engineering, 
+33: 293–298. 
+[12] Innocenti L, Bolzonella D, Pavan P, and Cecchi F (2002) Effect of sludge age on the performance of a membrane bioreactor: Influence on nutrient and metals removal. Desalination 
+146: 467–474. 
+[13] Pollice A, Laera G, Saturno D, and Giordano C (2008) Effects of sludge retention time on the performance of a membrane bioreactor treating municipal sewage. Journal of 
+Membrane Science 317: 65–70. 
+[14] Bolzonella D, Pavan P, Battistoni P, and Cecchi F (2005) Mesophilic anaerobic digestion of waste activated sludge: Influence of the solid retention time in the wastewater treatment 
+process. Process Biochemistry 40: 1453–1460. 
+[15] Mathioudakis VL, Kapagiannidis AG, Athanasoulia E, et al. (2009) Extended dewatering of sewage sludge in solar drying plants. Desalination 248: 733–739. 
+[16] Cinar S, Onay TT, and Erdincler A (2004) Co-disposal alternatives of various municipal wastewater treatment-plant sludges with refuse. Advances in Environmental Research 
+8:477–482. 
+[17] IPCC (2001) Climate Change 2001: The Scientific Basis. Cambridge: Cambridge University Press. 
+[18] Kampschreur MJ, Temmink H, Kleerebezem R, et al. (2009) Nitrous oxide emission during wastewater treatment. Water Research 43: 4093–4103. 
+[19] Tallec G, Garnier J, Billen G, and Gousailles M (2006) Nitrous oxide emissions from secondary activated sludge in nitrifying conditions of urban wastewater treatment plants: Effect 
+of oxygenation level. Water Research 40: 2972–2980. 
+[20] Ahn JH, Kim S, Park H, et al. (2010) N2O emissions from activated sludge processes, 2008–2009: Results of a national monitoring survey in the United States. Environmental 
+Science and Technology 44: 4505–4511. 
+[21] Odegaard H (2001) The use of dissolved air flotation in municipal wastewater treatment. Water Science and Technology 43(8): 75–81. 
+[22] Tripathi M (2007) Life Cycle Energy and Emissions for Municipal Water and Wastewater Services: Case Studies of Treatment Plants in US. Master of Science in the University of 
+Michigan, Ann Arbor. http://css.snre.umich.edu/css_doc/CSS07-06.pdf 
+[23] Smith JA and Carliell-Marquet CM (2008) The digestibility of iron-dosed activated sludge. Bioresource Technology 99: 8585–8592. 
+[24] Dentel SK and Gossett JM (1982) Effect of chemical coagulation on anaerobic digestibility of organic materials. Water Research 16: 707–718. 
+[25] Suarez S, Lema JM, and Omil F (2009) Pre-treatment of hospital wastewater by coagulation-flocculation and flotation. Bioresource Technology 100: 2138–2146. 
+[26] Carballa M, Omil F, and Lema JM (2005) Removal of cosmetic ingredients and pharmaceuticals in sewage primary treatment. Water Research 39: 4790–4796. 
+[27] Mels AR, Rulkens WH, van der Meer AK, et al. (2001) Flotation with polyelectrolytes as a first step of a more sustainable wastewater treatment system. Water Science and 
+Technology 43(11): 83–90. 
+[28] Parker DS, Jacobs T, Bower E, et al. (1997) Maximizing trickling filter nitrification rates through biofilm control: Research review and full-scale application. Water Science and 
+Technology 36(1): 255–262. 
+[29] Kuai LP and Verstraete W (1998) Ammonium removal by the oxygen-limited autotrophic nitrification–denitrification system. Applied and Environmental Microbiology 
+64: 4500–4506. 
+[30] Pynaert K, Smets BF, Wyffels S, et al. (2003) Characterization of an autotrophic nitrogen-removing biofilm from a highly loaded lab-scale rotating biological contactor. Applied and 
+Environmental Microbiology 69: 3626–3635. 
+[31] Lackner S, Terada A, and Smets BF (2008) Heterotrophic activity compromises autotrophic nitrogen removal in membrane-aerated biofilms: Results of a modelling study. Water 
+Research 42: 1102–1112. 
+[32] Vlaeminck SE (2009) Biofilm and Granule Applications for One-Stage Autotrophic Nitrogen Removal. PhD Thesis, Ghent University, Ghent. 
+[33] Mathure P and Patwardhan A (2005) Comparison of mass transfer efficiency in horizontal rotating packed beds and rotating biological contactors. Journal of Chemical Technology 
+and Biotechnology 80: 413–419. 
+[34] Mulder A (2003) The quest for sustainable nitrogen removal technologies. Water Science and Technology 48(1): 67–75. 
+[35] Bendick JA, Miller CJ, Kindle BJ, et al. (2005) Pilot scale demonstration of cross-flow ceramic membrane microfiltration for treatment of combined and sanitary sewer overflows. 
+Journal of Environmental Engineering 131: 1532–1539. 
+[36] Till SW, Judd SJ, and Mcloughlin B (1998) Reduction of faecal coliform bacteria in sewage effluents using a microporous polymeric membrane. Water Research 32: 1417–1422. 
+[37] Ravazzini AM, van Nieuwenhuijzen AF, and van der Graad JHMJ (2005) Direct ultrafiltration of municipal wastewater: Comparison between filtration of raw sewage and primary 
+clarifier effluent. Desalination 178: 51–62. 
+[38] Diamantis V, van de Caveye P, Jingxing M, and Carballa M (2009) Maximum up-concentration of domestic wastewater by a novel shear enhanced cross flow ultrafiltration. 
+Proceedings 8th Aachen Conference Water and Membranes, pp. A17 1–3. Aachen, Germany, October 2009. 
+[39] Van Houtte E and Verbauwhede J (2008) Operational experience with indirect potable reuse at the Flemish coast. Desalination 218: 198–207. 
+[40] Siegrist H, Salzgeber D, Eugster J, and Joss A (2008) Anammox brings WWTP closer to energy autarky due to increased biogas production and reduced aeration energy for 
+N-removal. Water Science and Technology 57: 383–388. 
+[41] Kartal B, Kuenen JG, and van Loosdrecht MCM (2010) Sewage treatment with anammox. Science 328: 702–703. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 6, 507-515, DOI: 10.1016/B978-0-08-088504-9.00388-3
+View publication statsView publication stats

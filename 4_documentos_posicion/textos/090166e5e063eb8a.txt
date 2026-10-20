@@ -1,0 +1,957 @@
+Review
+Maximum use of resources present in domestic ‘‘used water”
+Willy Verstraete a,*, Pieter Van de Caveye a, Vasileios Diamantis b
+a Laboratory of Microbial Ecology and Technology (LabMET), Ghent University, Coupure Links 653, B-9000 Gent, Belgium
+b Laboratory for Wastewater Management and Treatment Technologies, Democritus University of Thrace, Vas. Soﬁas 12, GR-67100 Xanthi, Greece
+article info
+Article history:
+Received 22 December 2008
+Received in revised form 13 May 2009
+Accepted 17 May 2009
+Available online 4 July 2009
+Keywords:
+Municipal wastewater
+Water recovery
+Nutrients recovery
+Energy recovery
+Conventional activated sludge
+abstract
+Environmental protection and the sustainable management of natural resources stand at the foreground
+of economic and technological activities worldwide. Current sewage technologies, however, deal with
+diluted wastes and do not focus on recovery and are therefore not sustainable. Here, the most promising
+methods available for the recovery of nutrients (nitrogen, phosphorus), organic material and energy from
+‘‘used waters” are examined both at the decentralised and centralised level. Novel approaches for water
+processing, not implementing aerobic biological treatment as a core technology, are conceived and crit-
+ically evaluated regarding efﬁciency, diffuse emissions and requisite costs. By implementing up-concen-
+tration of dilute wastewaters, the concentrated stream becomes suitable for the waste-to-energy
+strategy.
+The approach of up-concentration of municipal efﬂuent at arrival at the water treatment plant followed
+by anaerobic digestion of organics and maximal reuse of the mineral nutrients and water is estimated to
+have a total cost of the order €0.9/m
+3; the latter is comparable to that of conventional aerobic treatment
+technologies which has little or no reuse. It is argued that in view of the fact that recovered nutrients will
+become of increasing economic and ecological value, this new conceptual design for the treatment of
+‘‘used water” will become feasible in the next decade.
+/C2112009 Elsevier Ltd. All rights reserved.
+1. Introduction
+Throughout the world, water scarcity is being recognized as a
+present or future threat to human activity and as a consequence
+water reuse strategies should deserve major attention (Fritzmann
+et al., 2007 ).
+Water scarcity has become a global issue and not only a prob-
+lem relevant to arid zones. Continuous population growth, rising
+standards of living, climate changes, industrialization, agriculture
+and urbanisation has resulted in water becoming a limiting re-
+source. This scarcity is often the limiting factor for economic and
+social development (Singh, 2007 ). According the United Nations
+predictions, between two and seven billion people will face water
+shortages by the year 2050. Even today about 80 countries, com-
+prising 20% of the world population are suffering from serious
+water shortage ( United Nations, 2006 ). Also in countries with the
+availability of high quality water, industry and agriculture have
+to compete for these resources with the households. Due to the
+increasing pressure on the use of groundwater in the last decades,
+water industries have to look for alternative water resources which
+have led to the implementation of closed cycle processes in domes-
+tic and industrial water supply ( Dewettinck et al., 2001; Verdickt
+et al., 2007; Hoeijmakers et al., 2007 ). In these industries, waste-
+water treatment is regarded as an integral part of the production
+process rather than an end-of-pipe solution.
+Efﬂuents, originating from domestic wastewater treatment
+plants, deserve a special attention because of the availability at
+the place where water reuse strategies should be adopted, i.e.
+urbanized regions. This water resource is able to provide up to
+80% of the need of freshwater ( Qin et al., 2006 ).
+The initial goal of wastewater treatment was to protect down-
+stream users ( Wilsenach et al., 2003 ) and in the last decades envi-
+ronmental protection came into the picture by the stringent
+efﬂuent standards for nutrients. Yet, one cannot overlook the fact
+that the conventional approach brings about diffuse emissions
+such as CH
+4 (Guisasola et al., 2008 ) and H 2S( Zhang et al., 2008a )
+in the sewer and N 2O in the aerobic treatment system (Colliver
+and Stephenson, 2000 ). The focus on nutrient removal has as a re-
+sult that the costs for wastewater treatment in regions with sensi-
+tive surface waters is dominated by the conversion and elimination
+of nitrogen and phosphorus. Since these efﬂuents are the perfect
+source for the abundant demand of high quality water, domestic
+wastewater treatment can be seen as a part of the freshwater pro-
+duction. This incorporation has a high impact on the environmen-
+tal footprint correlated with freshwater production. As an example
+hereby, the Dow’s Benelux site at Terneuzen (The Netherlands) is
+recently reusing the local community’s treated wastewater. The
+efﬂuent of the sewage treatment plant is subjected to membrane
+ﬁltration. The product of the latter is implemented by the industry
+0960-8524/$ - see front matter /C2112009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.biortech.2009.05.047
+* Corresponding author. Tel.: +32 9 264 59 76; fax: +32 9 264 62 48.
+E-mail address: Willy.Verstraete@UGent.be (W. Verstraete).
+Bioresource Technology 100 (2009) 5537–5545
+Contents lists available at ScienceDirect
+Bioresource Technology
+journal homepage: www.elsevi er.com/locate/biortech
+Ref. Ares(2021)4881275 - 30/07/2021
+to generate steam. By this, three million tons per year of water pre-
+viously discharged into the North Sea after just one use are now
+recycled. Reusing this water results in 65% less energy consumed
+at the facility – compared to desalination of the same amount of
+seawater. The latter is equivalent with a decrease in CO 2 emission
+of 5000 ton on a yearly basis. Next to CO 2, also the chemical de-
+mand for the overall water supply process is signiﬁcantly de-
+creased ( Baker, 2008 ).
+Since high quality freshwater can actually be produced form
+wastewater, an extra effort for harvesting other resources, such
+as nutrients and energy from wastewater also should be consid-
+ered in order to make the overall sewage treatment more sustain-
+able. Indeed, besides a freshwater resource, domestic wastewater
+is also an important carrier medium for nutrients in the nutrients
+cycle. Nitrogen is an abundant element in the human’s diet. This
+results in a central position of man in the anthropogenic nitrogen
+cycle ( Mulder, 2003 ). The supply of protein food is largely depen-
+dent on the anthropogenic atmospheric nitrogen ﬁxation by the
+Haber–Bosch process. The generation of ammonia from the air re-
+quires 35–50 MJ per kg N in the form of fossil fuel for energy sup-
+ply ( Maurer et al., 2002 ). The potential of domestic wastewater to
+decrease the amounts of atmospheric nitrogen that have to be con-
+verted to ammonia fertilizer is substantial. Based on an average
+excretion of 13 g N per capita per day, the annual excretion is
+4.75 kg N per capita. Research showed that about 30% fertilizer-N
+ends up in the domestic wastewater (Bleken and Bakken, 1997;
+Mulder, 2003 ). Hence, recovery of nitrogen present in domestic
+wastewater is able to cover some 30% of the current agricultural
+N demand. Time has come to recycle the N present in sewage
+rather than ‘‘wasting” it by nitriﬁcation and denitriﬁcation. This
+will allow minimizing the anthropogenic production of fertilizer.
+Besides nitrogen, phosphorus is also present at substantial lev-
+els. Phosphorus is gained from rock phosphates, which are a lim-
+ited resource concerning quantity and quality. The known rock
+phosphates deposits in the world are sufﬁcient for 100–1000 years,
+depending on the efﬁciency of resource use during P fertilizer pro-
+duction and on the use of fertilizers in the next decades (Tinker,
+1977; Smil, 2000; Zhang, 2008 ). In order to give the phosphate
+industry and agriculture a sustainable future, it has been advocated
+that phosphate should be recycled (Driver et al., 1999 ). Further-
+more, mining of phosphate has a heavy environmental impact.
+The production/mining of 1 kg P fertilizer leads to 2 kg gypsum
+which is contaminated with heavy metals and radioactive ele-
+ments and is often not disposed of in an environmental friendly
+way ( Driver et al., 1999; Wilsenach et al., 2003 ). The sources of
+phosphate pollution are agriculture (through the use of fertilizer),
+sewage and industry. Based on an average excretion of 2 g P per ca-
+pita per day and addition of P originating from detergents, food
+waste, food additives and other products, a signiﬁcant amount of
+the P ends up in the domestic wastewater. The ﬁrst major concern
+is to remove the P in order to protect surface waters. By imple-
+menting P reuse strategies the need for commercial phosphorus
+fertilizers can be decreased. However, since wastewater is a heter-
+ogeneous and complex matrix of different elements, harvesting
+phosphorus from this kind of systems poses difﬁculties
+(Kvarnström et al., 2003 ). The poor bio-availability of P for plants
+and the contamination of the recycled P with heavy metals and or-
+ganic micropollutants constitute a major challenge (Ito et al.,
+2008). One should therefore aim at technologies which minimize
+the level of contaminants associated with the phosphorus fraction.
+Based on a series of inquiries with the ﬁeld of practice, a new
+concept of dealing with ‘‘used water” is proposed, which is in sharp
+contrast to the one which revolutionized sewage treatment in the
+past century. Indeed, at current market prices, a potential of €0.35/
+m
+3 of resources can be recovered by appropriate techniques (Table
+1). The latter value is mainly due to the value of the water as such,
+followed by the nutrients. The price of phosphate fertilizers has lin-
+early increased during the last 5 years and the current price of pro-
+cessed phosphate rock is expected to be around €0.70/kg P.
+According the US Geological Survey, the price for unprocessed
+phosphate rock was €0.54/kg P in 2008 ( Jasinski, 2007; US Geolog-
+ical Survey, 2008 ). The prices of nitrogen fertilizer have recently
+also become substantial (approximately €0.21/kg N) (US Geological
+Survey, 2007). Clearly, the time to redesign sewage treatment in a
+matter to maximize the reuse in the line of the cradle-to-cradle
+concept ( McDonough and Braungart, 2002 ) has arrived.
+This paper describes the cradle-to-cradle concept for centra-
+lised and decentralised systems incorporating the current environ-
+mental concerns. Whether or not decentralised systems are part of
+tomorrow’s solution for problems associated with dilute waste-
+streams and sewerage, focus must be placed on the minimization
+of diffuse emissions. The degree of valorisation of the present re-
+sources in the decentralised wastewater is depending on the scale
+of the installation, therefore, construction of small decentralised
+sanitation units should be limited for households for which sewer-
+age connection with the treatment plant is not an option due to the
+high sewerage costs. In these systems the maximal recovery of re-
+sources should be coupled to minimization of diffuse emissions.
+For larger scale decentral sanitation units, the focus can be fully
+placed on maximal use of the resources in the form of electricity
+and heat originating from the anaerobic valorisation of the solids
+present in the wastewater. For centralised facilities, the implemen-
+tation of nutrient recovery methods is essential. In this paper, we
+review the current practices of decentralised (Section 2) and cen-
+tralised (Section 3) wastewater treatment, and propose new waste-
+water technologies based on concentrated wastewater, which
+allow maximum resource recovery.
+2. Process concepts for decentralised sewage treatment
+The current approaches for decentralised treatment of sewage
+treatment are well known. The often used septic tank represents
+an investment of about €3000 per family. Due to the anaerobic con-
+ditions, it converts a major part of the organic matter to methane gas
+(estimated at 20–40 m
+3 per IE per year) which dissipates into the
+atmosphere and thus contributes to the global warming (Vincke
+and Verstraete, 1999 ). Moreover, since decentralised treatments
+most often release the N and P in the form of soluble minerals to
+the surface waters, this approach is not at all environmental friendly.
+Alternatively, the often used small scale aerobic units represent
+a capital expenditure of some €5000 per family. They consume
+energy (some 40 kWh/inhabitant equivalent (IE) per year) and also
+discharge the major part of the nutrients to the environment.
+Clearly, the current designs for decentralised treatment of sewage
+are totally insufﬁcient and outdated. New process concepts should
+aim for a maximal as possible sanitation with minimization of dif-
+fuse emissions such as methane, nutrients and pharmaceuticals.
+Table 1
+Potential product recovery from municipal ‘‘used water”.
+Potential
+recovery
+Per m
+3
+sewage
+Current market
+prices
+Total per m
+3
+sewage ( €)
+Water 1 m3 €0.250/m3 0.25
+Nitrogen 0.05 kg €0.215/kg 0.01
+Methanea 0.14 m3 €0.338/m3 CH4 0.05
+Organic fertilizer b 0.10 kg €0.20/kg 0.02
+Phosphorus 0.01 kg €0.70/kg 0.01
+Total 0.35
+a Methane produced per m 3 of sewage was calculated on the basis of 80% organic
+matter recovery as biogas with 0.35 m 3CH4/kg COD removed.
+b Organic fertilizer was calculated on the basis of 20% organic matter remaining
+after anaerobic digestion and the price is based on the agricultural value of organics.
+5538 W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545
+The major part of the ammonia (60–90%) and the phosphorus
+(40–70%) in municipal ‘‘used water” originates from urine (Butler
+et al., 1995; Almeida et al., 1999 ). Thus, separation of the latter
+may result in more efﬁcient nutrient recovery methodologies. In
+this context, research has been undertaken in Sweden since the
+90s (Hanaeus et al., 1997 ) at pilot-scale levels with urine separated
+toilets (17 houses, representing approximately 55 IE). However,
+this approach requires new infrastructure (both at household and
+community level) and will be only applicable at special sites.
+Toilets employing vacuum collection are well established and
+they can be implemented more easily. Under optimal conditions
+they use only 1 L of water for ﬂushing, thus producing 7 L per IE
+per day of concentrated black water. Under these conditions, water
+saving amounts to approximately 35 L per IE per day. An important
+issue in this case is the way of transporting this concentrated sew-
+age to the processing plant.
+A process for black water (pre)-treatment with simultaneous
+energy recovery has been proposed by two research groups i.e. in
+Finland ( Luostarinen and Rintala, 2007 ) and in the Netherlands
+(Zeeman et al., 2008 ). The Upﬂow Anaerobic Sludge Blanket-Septic
+Tank (UASB-ST) differs from the conventional septic tank by the
+upﬂow mode in which the system is operated (Fig. 1). Conse-
+quently, contact between the sludge bed and the water is im-
+proved, as well as the removal of suspended solids and the
+conversion of dissolved organic components. The system requires
+extra volume for the accumulation and stabilization of sludge. Con-
+sidering a design value of 100 L per IE, the UASB-ST requires sludge
+emptying only once per year.
+The UASB-ST has several advantages and disadvantages. Results
+from pilot-scale testing (16 houses with approximately 40 IE)
+using concentrated blackwater revealed that it was possible to pro-
+duce approximately 14 L of methane per day (at STP) per IE (Zee-
+man et al., 2008 ). The system was capable of converting 40% of
+the incoming chemical oxygen demand (COD) load to biogas, while
+40–50% was accumulated as non- or slowly degradable matter and
+10–20% washed out from the system. Therefore, the UASB-ST efﬂu-
+ent may still require further processing in ecologically sensitive
+locations. Evaporation for instance, can minimize the diffuse emis-
+sions of recalcitrant pollutants. Alternatively, kitchen wastes can
+be added to blackwater to increase the biogas yield per site, which
+has a signiﬁcant impact on the process economics.
+The treatment of grey waters offers signiﬁcant potential for re-
+use on-site since they are free from feaces, urine and pathogens
+and they receive a more positive acceptance by the public. Differ-
+ent options for greywater treatment have been reported previously
+(e.g. Nolde, 1999; Ramon et al., 2004; Zeeman et al., 2008 ).
+In Table 2, a comparison of the energy requirements by conven-
+tional respectively source separated water treatment is given. The
+anaerobic digestion-based approach is energy positive and offers
+potential for N, P and water reuse at the local level. Moreover,
+the diffuse emission of pharmaceuticals is diminished by the use
+of an anaerobic treatment of the blackwater, which allows a higher
+degradation of certain pharmaceuticals (Carballa et al., 2007 ).
+By further processing the efﬂuent from the UASB-ST, it is possi-
+ble to recover phosphorus as struvite (theoretically 0.28 kg P per
+year and per IE).The ammonium nitrogen is only partially removed
+from the efﬂuent and needs therefore a further nitrogen removal
+step which can be performed in an oxygen-limited autotrophic
+nitriﬁcation/denitriﬁcation (OLAND) reactor (Vlaeminck et al., in
+press). This method, based on partial nitritation and anammox,
+allows a signiﬁcant decrease of the operational costs compared
+to conventional nitriﬁcation/denitriﬁcation process (Fux and
+Siegriest, 2004 ).
+Note that on average, the electricity consumption per IE per
+year in the industrialized world is of the order of 1000 kWh. Hence,
+this decentralised approach, making a potential difference of some
+30 kWh
+el per IE per year (Table 2 ), offers a potential saving of the
+order of several percentages. Moreover, decentralised heat produc-
+tion can be considered if biogas is valorised in combined heat and
+power systems.
+3. New approach for centralized sewage treatment
+3.1. Products to recover
+3.1.1. Water
+Due to the presence of micropollutants, direct reuse of efﬂuent
+from the conventional activated sludge (CAS) as drinking water is
+Fig. 1. Decentralised black water treatment with biogas and recovery of MAP (after Zeeman et al., 2008 ). Abbreviations: UASB-ST, upﬂow anaerobic sludge blanket – septic
+tank; MAP, magnesium ammonium phosphate; OLAND, oxygen-limited autotrophic nitriﬁcation/denitriﬁcation; HRT, hydraulic residence time.
+W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545 5539
+not feasible. An extra polishing step by membranes is necessary.
+After CAS, the efﬂuent is treated by microﬁltration (MF) or ultraﬁl-
+tration (UF) so that a complete retention of the suspended and col-
+loidal particles occurs. At the same time a major part of the
+pathogens is also removed. To counter the unwanted presence of
+organic micropollutants in the source waters for fresh- or drinking
+water production, an advanced polishing step is required. One of
+the new and advanced techniques is reverse osmosis (RO) polish-
+ing in order to counteract the diffuse emissions of persistent com-
+pounds such as personal care products and pharmaceuticals
+(Radjenovic et al., 2008 ). The process described above is capable
+to produce high quality water and several large-scale installations
+are currently in operation (e.g. Water Factory 21, USA; West Basin
+Plant, USA; Torreele Plant, Belgium). The total costs (Capital Ex-
+penses (CAPEX) + Operational Expenses (OPEX)) associated with
+MF of secondary efﬂuent have been reported to be of the order of
+€0.35/m
+3 (Durham et al., 2001 ). This value was based on actual
+capital and operational expenses of the West Basin Water Recy-
+cling Plant ( Q = 11 280 m 3/d). The costs for producing freshwater
+from secondary efﬂuent using RO have been reported to equal
+€0.44/m
+3 (Cote et al., 2005 ) and €0.46/m3 (Dewettinck et al.,
+2001; Van Houtte and Verbauwhede, 2008 ). These values include
+the pre-treatment of the water (by UF). Because of the additional
+costs of conventional activated sludge (€ 0.3–0.6/m3) and the reuse
+treatment, the total process is costly (/C24€0.8–1.1/m3) and moreover
+complex. A more detailed cost calculation and process overview of
+the Torreele plant is given in Fig. 2 . The beneﬁt of water reuse is
+included in the total cost balance.
+In the membrane bioreactor (MBR) technology, the activated
+sludge produced during the aerobic decomposition of organic mat-
+ter is separated from the treated water by direct membrane ﬁltra-
+tion. The membrane bioreactor has found numerous applications
+Table 2
+Energy balance for conventional and source separated processing of domestic efﬂuents per inhabitant equivalent (IE) and per year.
+A Conventional design Activated sludge; power consumed /C025 kWhel
+B New design 8
+>>
+>
+>>>
+>
+>><
+>>
+>
+>>>
+>
+>
+>:
+Anaerobic digestion; power recovered
+a
+BW = 5 m 3 biogas
+)
+/C25+10 kWh el
+a
+GW = 0 m 3 biogas
+Aerobic post-treatment, power consumed
+BW
+)
+Estimated at 20% of conventional /C25/C05 kWhel
+GW
+Total +5 kWhel
+Difference D 30 kWhel
+Abbreviations: BW, black water; GW, grey water; el, electrical; IE, inhabitant equivalent.
+a The biogas yields some 10 kWh thermal energy on the side.
+Fig. 2. Process and cost overview for conventional activated sludge followed by UF/RO polishing (after Van Haandel and Van der Lubbe, 2007 and Van Houtte and
+Verbauwhede, 2008). Abbreviations: CAS, conventional activated sludge; UF, ultraﬁltration; RO, reverse osmosis; R, recovery, CAPEX, capital expenditure; OPEX, operational
+expenditure.
+5540 W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545
+for wastewater treatment and reuse strategies due to the compat-
+ibility with RO systems (Cornel and Krause, 2006; Yang et al., 2006;
+Lesjean et al., 2004 ). The total costs (CAPEX and OPEX) for MBR
+treatment system are slightly higher than those of activated
+sludge, but in the range of €0.3–0.6/m3 (Cote et al., 2004; Cote
+et al., 2005 ). Adding an extra cost of €0.3–0.4/m3 for treating the
+efﬂuent from the MBR using RO gives a total of €0.6–1.0/m3 of
+wastewater treated.
+3.1.2. Energy
+The main source of energy at a municipal CAS treatment plant is
+the biogas produced by the anaerobic sludge digesters during the
+process of sludge stabilization. During the fermentation process,
+the biodegradable organics present in the primary and secondary
+sludge are transformed to methane and carbon dioxide at one hand
+and new microbial biomass on the other hand. Approximately
+0.5 kg per kg of sludge, expressed as COD, is converted to biogas.
+The residual non-biodegradable matter (0.4 kg) and the new
+anaerobic biomass (0.1 kg) are exported with the efﬂuent slurry.
+Thus, only part of the energy can be recovered, i.e. 25% of the
+incoming raw water COD load. The recovered energy is used for
+powering gas engines, producing electrical and thermal energy
+for on-site use. The cost of electricity for a CAS system is about
+80% of the energy cost. On the other hand only 40% of electrical en-
+ergy consumption can currently be covered by power generation
+on-site ( Schwarzenbeck et al., 2008 ).
+An alternative option for energy recovery from domestic
+efﬂuents is the direct anaerobic digestion. The application of the
+UASB process directly on sewage has been applied in hot-climate
+countries and only partial energy recovery is possible, due to the
+solubility of methane in the efﬂuent. In moderate climates, this ap-
+proach is not advisable, due to the low ambient temperature. The
+losses of methane dissolved in the efﬂuent contribute to the cli-
+mate change. Methane has a ±25 times higher global warming po-
+tential than carbon dioxide (Lelieveld et al., 1993 ). Also the COD
+removal during direct anaerobic digestion of sewage is at maxi-
+mum 60–70% ( van Haandel and Lettinga, 1994 ). The main problem
+is that sewage is too diluted for optimal direct anaerobic digestion
+and a signiﬁcant part of the produced methane (up to 40%) is dis-
+solved in the liquid phase and lost with the efﬂuent. As a conse-
+quence, only 40–45% of the organic carbon energy content is
+recovered in practice. Alternative strategies should be applied in
+order to make anaerobic digestion compatible with wastewater
+treatment.
+3.1.3. Nutrients
+Nitrogen can be preserved in part by recovering it in the form of
+magnesium ammonium phosphate (Carballa et al., 2009 ). Alterna-
+tively, it can be released as ammonia and recovered as an ammo-
+nium salt by air stripping followed by an acid wash. Moreover,
+the ammonium can be converted in part or totally to nitrate by
+nitriﬁcation. The challenge for the next decade is to develop meth-
+ods to produce reliable concentrated nutrient solutions from ‘‘used
+water”. If one achieves the latter, they can qualify as ‘‘natural stable
+fertilizer (NSF)” for the regulator and the agronomist.
+Phosphorus can be removed directly from the raw wastewater
+by precipitation with iron, aluminium, lime or magnesium. The
+iron or aluminium phosphate containing sludge can be chemically
+processed (alkaline treatment) for releasing the phosphorus con-
+tent and transform the phosphorus to calcium phosphate, which
+is the raw material of the phosphorus industry (Morse et al., 1998 ).
+In cases where simultaneous precipitation of phosphates inside
+the aeration tank is performed or the organic and inorganic sludges
+are mixed, chemical bound P release requires thermal treatment
+under acidic or alkaline conditions, e.g. by the Krepro, BioCon
+and AquaReci process (Levlin et al., 2002 ). These technologies have
+been applied in Sweden and operational data have been published
+by Hansen et al. (2000) and Stendahl and Jafverstrom (2003) . How-
+ever, the consumption of large amounts of chemicals (approxi-
+mately 0.5–1.0 mol acid or base per mole phosphate) and energy
+(operational temperature of 100–140 /C176C) render these methods
+as yet not cost-effective (Hansen et al., 2000 ).
+Phosphorus recovery as struvite (MgNH
+4PO4) requires moder-
+ate process conditions (low concentration of suspended solids
+and water pH above 7.5) but the molecular ratio of
+Mg
+2+:NH4
++:PO4
+3- should be 1:1:1 which often demands the supple-
+mentation of magnesium. Approximately 1 kg of struvite can be
+crystallized from 100 m
+3 of wastewater ( Shu et al., 2006 ) and the
+latter material has a potential use as a fertilizer. The struvite pel-
+lets, free from toxic impurities, were valued at €250/ton dry matter
+by fertilizer companies in Japan (Roeleveld et al., 2004 ). Production
+costs from sewage sludge supernatant may vary from €220 to 730/
+ton ( Doyle and Parsons, 2002 ) in Australia and Japan and up to
+about €2750/ton in the Netherlands ( Roeleveld et al., 2004 ). Due
+to the limited resource of phosphorus and the demand for fertil-
+izer, the recovery of phosphorus from sewage will have to be prac-
+tised in the near future.
+3.2. Technological hardware
+3.2.1. Up-concentration techniques
+A new process layout that enables maximal recovery of water,
+energy, inorganic and organic fertilizers from domestic discharges
+is schematised in Fig. 3. The domestic ‘‘used water” is initially pre-
+treated by mechanical means (screening, grit removal, microstrain-
+er) to remove large particles and sand. To up-concentrate the water
+one can use dynamic sand ﬁltration (DSF), dissolved air ﬂotation
+(DAF), membrane ﬁltration, biological sorption or a combination
+thereof, and produce an efﬂuent with low levels of suspended
+and colloidal solids. Simultaneous removal of soluble organic mat-
+ter by appropriate usage of poly-electrolytes during DSF or DAF can
+be necessary. The key point is that quality of the efﬂuent must be
+suitable for UF/RO. Thus, freshwater can be recovered as a ﬁrst
+product of the proposed method.
+The approach of Primary Enhanced Filtration of sewage was
+proposed by the group of Tchbanoglous (Jimenez et al., 2000)i n
+the 80s and several study projects (Matsumoto et al., 1982; Eng-
+land et al., 1994) and industrial experiences with the Zimpro Hydro
+Clean sand ﬁlter have been quoted. Direct sand ﬁltration of domes-
+tic used water is an interesting option for water pre-treatment and
+the majority of suspended solids (SS) can be retained. The removal
+efﬁciency for SS may vary from 50–90% in accordance to the
+hydraulic loading rate, ﬁlter design and medium characteristics.
+A signiﬁcant part of the COD may also be removed but to a lesser
+extend compared to the suspended solids. The efﬂuent still con-
+tains colloidal matter which renders direct reverse osmosis
+problematic. The use of ﬂocculants however can increase ﬁlter per-
+formance. The total costs associated for granular media ﬁltration or
+dynamic sand ﬁltration are in the order of €0.05–0.06/m
+3 (Asano,
+1998), including the cost for alum or iron.
+Filtration can be integrated with the design of dissolved air ﬂo-
+tation (DAF) facility. DAF is efﬁcient in removing particles and can
+substantially decrease the particle load to the ﬁlters compared to
+direct ﬁltration. The combination of two-stage DAF and dual media
+ﬁltration resulted in SS and COD removal of the level of 99% and
+75–85% respectively ( Krofta et al., 1995 ). This integration permits
+designing ﬁlters at higher rates. The total costs for dissolved air ﬂo-
+tation approximate those for rapid sand ﬁltration (of the order
+€0.05–0.06/m
+3).
+Alternatively, ﬂocculation of the sewage can be performed as an
+advanced primary treatment followed by a sedimentation step and
+stabilisation of the settled organics. In order to avoid the use of
+W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545 5541
+chemical ﬂocculants and the consequent ﬂocculant-associated
+problems during stabilisation, a two-stage system is known in
+practise i.e. the Adsorption Bio-Aeration method where the acti-
+vated sludge acts as a ﬂocculant (Boehnke et al., 1998 ). In the ﬁrst
+phase, adsorption and immobilisation of the organics occurs. The
+surplus sludge is energy rich and therefore, it can be valorised
+through anaerobic digestion with an energy self-supporting waste-
+water treatment as a consequence. In the second phase mineralisa-
+tion and nitriﬁcation take place. The two-stage system permits a
+decrease of the footprint of the wastewater treatment plant, due
+to the high organic loading rates in the adsorption stage. A variant
+of the AB-method is the bioﬂocculation–adsorption, sedimentation
+and stabilization process (BSS) where no aeration is performed in
+the bioﬂocculation–adsorption step (Zhao et al., 2000 ).
+Membrane ﬁltration is a technology suitable for separation of
+suspended, colloidal and soluble impurities from water. Despite
+the evolving performance of membranes, limited publications re-
+port on the use of membranes in the primary treatment in order
+to tackle the environmental footprint issue of wastewater
+treatment.
+Results from a pilot cross-ﬂow microﬁltration system on pri-
+mary efﬂuent revealed surprisingly high ﬂuxes of the level of
+100–200 L/m
+2 h( Bendick et al., 2005 ). Despite the high quality
+efﬂuent, the main limits to efﬁcient large-scale application of
+membrane technology are the fouling phenomena. These phenom-
+ena result in a decreasing permeate ﬂux during membrane process
+exploitation. Membrane fouling is an extremely complex physico-
+chemical phenomenon; usually several mechanisms are involved
+simultaneously. On the other hand, it is possible to counter severe
+fouling of the membranes with an increase in operational costs
+(Bourgeous et al., 2001 ). Based on understanding the fouling mech-
+anisms, different methods to mitigate membrane fouling are devel-
+oped. Mitigation strategies can be based on membrane design,
+operating parameters such as transmembrane pressure, cross-ﬂow
+velocity and feed characteristics. One of the concepts for a good
+performing membrane-based treatment system is the multi-stage
+ﬁltration concept, as the above described UF/RO system for efﬂuent
+polishing. This approach is based on the premise that no single ﬁl-
+tration technology is perfect, so several technologies must be em-
+ployed in order to protect those membranes sensitive to fouling to
+optimize their operation, to minimize the number of chemical
+cleanings, to decrease the energy consumption and guarantee a
+lower overall cost and environmental footprint of the water treat-
+ment process ( Lauria, 2008 ).
+In wastewater treatment applications, UF or MF is the RO pre-
+treatment technology of choice due to the highly fouling nature
+of the feed and on a long-term operation basis the treatment line
+is economically viable on average to poor water qualities (Bonn-
+elye et al., 2008 ). Ultraﬁltration membranes serve as a clariﬁcation
+pre-treatment removing most of the potential substances respon-
+sible for RO fouling such as particles, turbidity, bacteria and large
+molecular weight molecules. Microbiological fouling of reverse
+osmosis membranes, for instance through the presence of the so-
+called TEP ( Berman, 2005 ), is considered to be the main factor for
+ﬂux decline and loss of salt rejection and clearly needs further in
+depth exploration.
+3.2.2. Anaerobic digestion
+By implementing up-concentration techniques a high-strength
+stream is generated. This concentrated stream can be considered
+as valuable if the waste-to-energy strategy is applied. In this re-
+spect anaerobic digestion qualiﬁes in terms of recovery and the
+possibility to subsequent deal with the residual solids. The anaer-
+obic digester is preferably a completely stirred tank reactor and is
+operated at thermophilic conditions to ensure a high degree of sta-
+bilization of the organics and a high degree of pathogen control.
+Moreover, it is evident that the anaerobic digester also can be sup-
+plemented with other solid organic communal associated wastes
+such as industrial kitchen waste or road clippings in order to in-
+crease the speciﬁc biogas production yield which signiﬁcantly af-
+fects the economy of the installation. A diverse feedstock has
+also a positive impact on the process stability. The anaerobic
+metabolism takes place in four steps with speciﬁc enzymes and
+bacteria: hydrolysis, acidiﬁcation, acetogenesis and methanogene-
+sis. Enzymes play an essential role in this metabolism (Sonakya
+et al., 2001 ). As enzymes are specialized for a certain degradation
+process, a lot of different enzymes are necessary. A diverse demand
+of enzymes requires also a diverse bio-availability of metals like
+cobalt, nickel, iron and zinc since they are essential cofactors (Noy-
+ola and Tinajero, 2005 ).
+Fig. 3. Process scheme based on up-concentration of wastewater at a centralised plant thus allowing maximal recovery of resources from domestic wastewater.
+5542 W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545
+3.2.3. Biogas valorisation
+The biogas produced from the anaerobic digester is treated to
+remove hydrogen sulphide before valorising the biogas with a
+cogeneration unit. In this process heat and energy is produced
+starting from the produced biogas. The energy transformation from
+biogas towards electricity obeys to the second law of thermody-
+namics and the yield of electricity is lower than 100%, currently
+around the 40%. The ﬁrst law of thermodynamics states the conser-
+vation of energy this means that more entropic energy is formed in
+the form of heat, with a combined efﬁciency higher than 80%. The
+heat produced is used to maintain the digester temperature and for
+post-treatment purposes such as drying and/or evaporation.
+In an additional concept aimed at minimizing the CO 2 footprint,
+the CO 2 generated from the combined heat and power engine can
+be fed to an algal farm. The technology of closed photo-bioreactor
+provides the possibility of control of the algae culture and gas
+transfer (Gouveia et al., 1996 ). Additionally, the harvested biomass
+can be co-digested with the concentrated sewage. Anaerobic diges-
+tion of algae has already been found to work well some 50 years
+ago (Golueke et al., 1957 ). Anaerobic digestion of the biomass cul-
+tivated on a solar algal panel of 1000 m
+2 results in a power plant
+with a potential capacity of about 0.4 kW el, with prospects of
+1k Wel (De Schamphelaire and Verstraete, 2009 ).
+3.2.4. Post-treatment
+In spite of the major advantages of the anaerobic digestion tech-
+nology, the produced efﬂuent can never comply with the usual dis-
+charge standards. Therefore, the efﬂuent requires a post-treatment
+in order to adapt the environment legislation.
+The efﬂuent from the digester is dewatered by mechanical means
+such as a ﬁlter press, or a centrifuge, producing a humus and P-rich
+cake. Conditioning of the digester efﬂuent by lime addition can be
+used to assure enhanced dewatering and to capture the phosphorus
+content within the humus cake in a biological available form.
+The cake fraction is then dried towards a high dry matter con-
+tent in order to reduce odour problems and to reduce the related
+transport costs.
+After dewatering, next to a solid-rich stream, also a liquid frac-
+tion is produced. This contains the major fraction of the nitrogen,
+which is mainly present as ammonia. This ammonia can be recov-
+ered as an ammonia salt through air stripping followed by an acid
+wash. Alternatively the ammonia is nitriﬁed to nitrate which is up-
+concentrated by means of an RO and meanwhile producing a high
+quality water efﬂuent. The concentrated nitrate brine can then be
+further processed towards a ‘‘natural stable fertilizer”.
+3.2.5. Valorisation of the dried cake
+Soil amendment of the dried solids is often not allowed due to
+the presence of recalcitrant xenobiotics. Alternatively the dried
+solids can serve as an energy source by means of combustion
+which delivers steam in order to produce electricity. Another tech-
+nique is gasiﬁcation, which delivers a fuel gas than can be valorised
+in a cogeneration unit. Recently, pyrolysis of biomass came into the
+picture. Pyrolysis is a process where biomass is heated in the ab-
+sence of oxygen with decomposition of the biomass into vapours,
+bio-oil and charcoal as a consequence. The latter currently gener-
+ates a lot of interest because one can sequester carbon in the form
+of charcoal. Biochar amendment to the soil not only sequesters car-
+bon but also enhances the fertility and vitality of the soil (Lehmann
+and Joseph, 2009 ).
+4. Discussion
+The anaerobic digestion of up-concentrated sewage can be self-
+supporting. Indeed at a COD level of 5 g/L onwards, the biogas pro-
+duced can cover the overall heat input costs (Thaveesri et al.,
+1995). In Table 3 , the total costs associated with this new design
+for centralised water treatment are estimated. The approach of
+up-concentration of municipal efﬂuent at arrival at the water treat-
+ment plant, with anaerobic digestion of all organics results in total
+costs of the order of €0.66–0.95/m
+3. This total cost value can in the
+near future beneﬁt from the recovery as depicted in Table 1 . This
+concept permits up-recycling of water, N and P, while there is a po-
+tential to be energy and CO 2 positive by integrating algal farming.
+The procedures and the costs involved for further processing the
+reject water (see Fig. 3 and Table 3 ) can be minimized by increas-
+ing the concentration factor during water pre-treatment. Clearly,
+the key factor in this new design is the up-concentration of the
+organics upon arrival at the treatment plant. Undoubtedly, new
+technologies will be conceived and become economical in the next
+decade to meet the challenge. If one considers membrane up-con-
+centration as the technology of choice for domestic wastewater up-
+concentration, some aspects are of prime importance. The ﬁrst as-
+pect is the long-term stabile operation combined with an accept-
+able ﬂux, which signiﬁcantly affects the membrane operational
+cost. Secondly, the impact of the recovery of the UF pre-treatment,
+i.e. the amount of permeate produced per unit of inﬂuent is of cru-
+cial importance. It is worthwhile to investigate strategies and pro-
+cess design in order to reach a recovery as high as possible
+(preferably more than 90%) in order to reach a stream as concen-
+trated as possible. The COD level of the concentrate stream is not
+only depending on the recovery but also on the COD retention.
+Ultraﬁltration membranes with a MWCO generally higher than
+100 kDa, do not remove the smaller organic matter molecules
+responsible for the fouling on RO membranes and the COD-concen-
+tration of the concentrate will not be high enough (Bonnelye et al.,
+2008). The lower the MWCO, the higher the COD retention but the
+process operational costs increase because of the operational
+pressures.
+5. Concluding remarks
+The conventional activated sludge process coupled with MF/UF
+and RO is complex and costs of the order of €0.793/m
+3 sewage trea-
+ted ( Fig. 2 ), while N and P are generally ‘‘wasted”. The key to new
+sewage treatment is the separation at home respectively the non-
+dispersion of resources at arrival at the treatment plant. The con-
+cept of up-concentration of municipal discharges, either at home
+or upon arrival at the water processing plant, enables fractionation
+of different components and recovery of energy and fertilizers. Fac-
+tors that require further research include the quality of the organic
+P-rich cake after anaerobic digestion, the quality and stability upon
+Table 3
+Cost considerations for the proposed sewage recycling technology in which the major
+part of the ﬂow is considered to go directly to reuse while a concentrate is produced
+at the entry of the plant which is subjected to advanced recovery for energy and
+fertilizers.
+Processes Costs ( €/m3)
+Major ﬂow
+Dissolved air ﬂotation 0.02–0.03 9
+=
+; 0.53–1.15Dynamic sand ﬁltration 0.05–0.06
+Ultraﬁltration and reverse osmosis 0.46–1.06
+Minor ﬂow
+Anaerobic digestion Break-even 9
+>>>
+>
+=
+>>>>
+;
+0.08–0.10
+Mechanical separation
+pyrolysis
+0.08–0.10
+Break-even
+Total costs 0.61–1.25
+a
+a This is the estimated total cost; for the potential recoveries one is referred to
+Table 1 .
+W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545 5543
+storage of the nutrient solutions, the sanitation risks associated
+with the various recoveries and the psychological acceptance of
+the recovered resources. For centralised systems operating accord-
+ing to the process without activated sludge, as outlined in Fig. 3 ,
+the costs may soon become competitive with those of the conven-
+tional treatment processes. Therefore, this new cradle-to-cradle
+approach for sewage treatment warrants validation in practice.
+Acknowledgements
+This work is in part ﬁnanced by the project Sewage Plus
+180B12A7 (MIP-project, Milieu- and Energietechnologie – Innova-
+tieplatform, Berchem, Belgium). The critical reading and construc-
+tive suggestions of Marta Carballa, Ma Jingxing, Ilse Forrez, Tom
+Hennebel, David van der Ha and Roselien Crab were highly
+appreciated.
+References
+Almeida, M.C., Butler, D., Friedler, E., 1999. At-source domestic wastewater quality.
+Urban Water 1, 49–55.
+Asano, T., 1998. Wastewater Reclamation and Reuse. Technomic Publishing
+Company, Inc., Lancaster, USA.
+Baker, J., 2008. ICIS Innovation Awards: Dow Chemical wins CSR Category. Available
+from: <http://www.icis.com/Articles/2008/10/13/9162810/icis-innovation-
+awards-dow-chemical-wins-csr-category.html> (accessed 27 February 2009).
+Bendick, J.A., Miller, C.J., Kindle, B.J., Shan, H., Vidic, R.D., Neufeld, R.D., 2005. Pilot
+scale demonstration of cross-ﬂow ceramic membrane microﬁltration for
+treatment of combined and sanitary sewer overﬂows. Journal of
+Environmental Engineering ASCE 131 (11), 1532–1539.
+Berman, T., 2005. Don’t fall foul of bioﬁlm through high TEP levels. Filtration and
+Separation 42 (4), 30–32.
+Bleken, M.A., Bakken, L.R., 1997. The nitrogen cost of food production: Norwegian
+society. Ambio 26 (3), 134–142.
+Boehnke, B., Schulze-Rettmer, M.R., Zuckut, S.W., 1998. Cost-effective reduction of
+high-strength waste water by adsorption-based activated sludge technology.
+Water Engineering Management 145, 31–34.
+Bonnelye, V., Guey, L., Del Castillo, J., 2008. UF/MF as RO pre-treatment: the real
+beneﬁt. Desalination 222 (1–3), 59–65.
+Bourgeous, K.N., Darby, J.L., Tchobanoglous, G., 2001. Ultraﬁltration of wastewater:
+effects of particles, mode of operation, and backwash effectiveness. Water
+Research 35 (1), 77–90.
+Butler, D., Friedler, E., Gatt, K., 1995. Characterising the quantity and quality of
+domestic wastewater inﬂows. Water Science and Technology 31 (7), 13–24.
+Carballa, M., Moerman, W., De Windt, W., Grotaerd, H., Verstraete, W., 2009.
+Strategies to optimize phosphate removal from industrial anaerobic efﬂuents
+by magnesium ammonium phosphate (MAP) production. Journal of Chemical
+Technology and Biotechnology 84 (1), 63–68.
+Carballa, M., Omil, F., Ternes, T., Lema, J.M., 2007. Fate of pharmaceutical and
+personal care products (PCCPs) during anaerobic digestion of sewage sludge.
+Water Research 41 (10), 2139–2150.
+Colliver, B.B., Stephenson, T., 2000. Production of nitrogen oxide and dinitrogen
+oxide by autotrophic nitriﬁers. Biotechnology Advances 18 (3), 219–232.
+Cornel, P., Krause, S., 2006. Membrane bioreactors in industrial wastewater
+treatment – European experiences, examples and trends. Water Science and
+Technology 53 (3), 37–44.
+Cote, P., Masini, M., Mourato, D., 2004. Comparison of membrane options for water
+reuse and reclamation. Desalination 167, 1–11.
+Cote, P., Siverns, S., Monti, S., 2005. Comparison of membrane-based solutions for
+water reclamation and desalination. Desalination 182, 251–257.
+De Schamphelaire, L., Verstraete, W., 2009. Revaluation of the biological sunlight-
+to-biogas energy conversion system. Biotechnology and Bioengineering 103 (2),
+296–304.
+Dewettinck, T., Van Houtte, E., Geenes, D., van Hege, K., Verstraete, W., 2001. HACCP
+(Hazard Analysis and Critical Control Points) to guarantee safe water reuse and
+drinking water production. Water Science and Technology 43 (12), 31–38.
+Doyle, J.D., Parsons, S.A., 2002. Struvite formation, control and recovery. Water
+Research 36, 3925–3940.
+Driver, J., Lijmbach, D., Steen, I., 1999. Why recover phosphorus for recycling and
+how? Environmental Technology 20 (7), 651–662.
+Durham, B., Bourbigot, M.M., Pankratz, T., 2001. Membranes as pre-treatment to
+desalination in wastewater reuse: operating experiences in the municipal and
+industrial sectors. Desalination 138, 83–90.
+England, S.K., Darby, J.L., Tchobanoglous, G., 1994. Continuous-backwash upﬂow
+ﬁltration for primary efﬂuent. Water Environment Research 66 (2), 145–152.
+Fritzmann, D., Lowenberg, J., Wintgens, T., Melin, T., 2007. State-of-the-art of
+reverse osmosis desalination. Desalination 216 (1–3), 1–76.
+Fux, C., Siegriest, H., 2004. Nitrogen removal from sludge digester liquids by
+nitriﬁcation/denitriﬁcation or partial nitritation/anammox: environmental and
+economical considerations. Water Science and Technology 50 (10), 19–26.
+Golueke, C.G., Oswald, W.J., Gotaas, H.B., 1957. Anaerobic digestion of algae. Applied
+Microbiology 5 (1), 47–55.
+Gouveia, L., Reis, A., Veloso, V., Empis, J.A., 1996. Microalgal biomass as a sustainable
+alternative raw material. Agro Food Industry Hi-Tech 7 (3), 29–34.
+Guisasola, A., de Haas, D., Keller, J., Yuan, Z., 2008. Methane formation in sewer
+systems. Water Research 42 (6–7), 1421–1430.
+Hanaeus, J., Hellstrom, D., Johansson, E., 1997. A study of a urine separation in an
+ecological village in northern Sweden. Water Science and Technology 35 (9),
+153–160.
+Hansen, B., Karsson, I., Cassidy, S., Pettersson, L., 2000. Operational experiences from
+a sludge recovery plant. Water Science and Technology 41 (8), 23–30.
+Hoeijmakers, R.T.G., Lauryssen, F., Driessen, E., 2007. Reuse of water in food
+industry: AquaCCP. In: Proceedings of sixth IWA Specialist Conference on
+Wastewater Reclamation and Reuse for Sustainability, 9–12 October 2007.
+Antwerp, Belgium.
+Ito, A., Takahashi, K., Aizawa, J., Umita, T., 2008. Enhanced heavy metals removal
+without phosphorus loss from anaerobically digested sewage sludge. Water
+Science and Technology 58 (1), 201–206.
+Jasinski, S.M., 2007. Phosphate rock. Minerals Yearbook 2006. US Geological Survey,
+US Department of the Interior, pp. 56.1–56.10.
+Jimenez, B., Chavez, A., Leyva, A., Tchobanoglous, G., 2000. Sand and synthetic
+medium ﬁltration of advanced primary treatment efﬂuent from Mexico City.
+Water Research 34 (2), 473–480.
+Krofta, M., Miskovic, D., Burgess, D., 1995. Primary-secondary ﬂotation of three
+municipal wastewaters: pilot-scale study. Water Science and Technology 31 (3–
+4), 295–298.
+Kvarnström, E., Schönning, C., Carlsson-Reich, M., Gustafsson, M., Enocksson, E.,
+2003. Recycling of wastewater-derived phosphorus in Swedish agriculture – a
+proposal. Water Science and Technology 48 (1), 19–25.
+Lauria, J., 2008. Water ﬁltration: using water treatment to tackle the environmental
+footprint issue. Filtration and Separation 45 (10), 20–23.
+Lehmann, J., Joseph, S. (Eds.), 2009. Biochar for Environmental Management:
+Science and Technology. Earthscan, London, UK.
+Lelieveld, J., Crutzen, P.J., Bruhl, C., 1993. Climate effects of atmospheric methane.
+Chemosphere 26 (1–4), 739–768.
+Lesjean, B., Rosenberger, S., Schrotter, J.C., Recherce, A., 2004. Membrane-aided
+biological wastewater treatment – an overview of applied systems. Membrane
+Technology 8, 5–10.
+Levlin, E., Löwen, M., Stark, K., Hultman, B., 2002. Effects of phosphorus recovery
+requirements on Swedish sludge management. Water Science and Technology
+46 (4–5),
+435–440.
+Luostarinen, S., Rintala, J., 2007. Anaerobic on-site treatment of kitchen waste in
+combination with black water in UASB-septic tanks at low temperatures.
+Bioresource Technology 98, 1734–1740.
+Matsumoto, M.R., Galeziewski, T.M., Tchbanoglous, G., Ross, D.S., 1982. Filtration of
+primary efﬂuent. Journal of Water Pollution Control Federation 54 (12), 1581–
+1591.
+Maurer, M., Muncke, J., Larsen, T., 2002. Technologies for nitrogen recovery and
+reuse. In: Lens, P., Hulshoff Pol, L., Wilderer, P., Asano, T. (Eds.), Water and
+Resources Recovery in Industry. IWA Publishing, pp. 491–510.
+McDonough, W., Braungart, M., 2002. Cradle to Cradle: Remaking the Way We Make
+Things. North Point Press, New York.
+Morse, G.K., Brett, S.W., Guy, J.A., Lester, J.N., 1998. Review: phosphorus removal
+and recovery technologies. Science of the Total Environment 212 (5), 69–81.
+Mulder, A., 2003. The quest for sustainable nitrogen removal technologies. Water
+Science and Technology 48 (1), 67–75.
+Nolde, E., 1999. Greywater reuse systems for toilet ﬂushing in multi-storey
+buildings – over ten years experience in Berlin. Urban Water 1, 275–284.
+Noyola, A., Tinajero, A., 2005. Effect of biological additives and micronutrients on
+the anaerobic digestion of physicochemical sludge. Water Science and
+Technology 52 (1–2), 275–281.
+Qin, J.J., Kekre, K.A., Tao, G., Oo, M.H., Wai, M.N., Ting, C.L., Viswanath, B., Seah, H.,
+2006. New option of MBR-RO process for production of NEWater from domestic
+sewage. Journal of Membrane Science 272 (1–2), 70–77.
+Radjenovic, J., Petrovic, M., Ventura, F., 2008. Rejection of pharmaceuticals in
+nanoﬁltration and reverse osmosis membrane drinking water treatment. Water
+Research 42 (14), 3601–3610.
+Ramon, G., Green, M., Semiat, R., Dosoretz, C., 2004. Low strength greywater
+characterization and treatment by direct membrane ﬁltration. Desalination 170,
+241–250.
+Roeleveld, P., Loeffen, P., Temmink, H., Klapwijk, B., 2004. Dutch analysis for P-
+recovery from municipal wastewater. Water Science and Technology 49 (10),
+191–199.
+Schwarzenbeck, N., Bomball, E., Pfeiffer, W., 2008. Can a wastewater treatment
+plant be a powerplant? A case study. Water Science and Technology 57 (10),
+1555–1561.
+Shu, L., Schneider, P., Jegatheesan, V., Johnson, J., 2006. An economic evaluation of
+phosphorus recovery as struvite from digester supernatant. Bioresource
+Technology 97, 2211–2216.
+Singh, R., 2007. Sustainable fuel cell integrated membrane desalination systems.
+Desalination 227 (1–3), 14–33.
+Smil, V., 2000. Phosphorus in the environment: natural ﬂows and human
+interferences. Annual Review of Energy and the Environment 25, 131–144.
+Sonakya, V., Raizada, N., Kalia, V.C., 2001. Microbial and enzymatic improvement of
+anaerobic digestion of waste biomass. Biotechnology Letters 23 (18), 1463–
+1466.
+5544 W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545
+Stendahl, K., Jafverstrom, S., 2003. Phosphate recovery from sewage sludge in
+combination with supercritical water oxidation. Water Science and Technology
+48 (1), 185–191.
+Thaveesri, J., Daffonchio, D., Liessens, B., Van der Meren, P., Verstraete, W., 1995.
+Granulation and upﬂow anaerobic sludge bed reactors in relation to surface
+thermodynamics. Applied Environmental Microbiology 61 (10), 3681–
+3686.
+Tinker, P.B., 1977. Economy and chemistry of phosphorus. Nature 270 (5633), 103–
+104.
+U.S. Geological Survey, 2007. Nitrogen statistics. In: Kelly, T.D., Matos, G.R. (Eds.),
+Historical Statistics for Mineral and Material Commodities in the United States:
+US Geological Survey Data Series 140. Available from: <http://pubs.usgs.gov/ds/
+2005/140/> (accessed 27 February 2009).
+US Geological Survey, 2008. Phosphate rock statistics. In: Kelly, T.D., Matos, G.R.
+(Eds.), Historical Statistics for Mineral and Material Commodities in the United
+States: US Geological Survey Data Series 140. Available from: <http://
+pubs.usgs.gov/ds/2005/140/> (acessed 27 February 2009).
+United Nations, 2006. The 2nd UN World Water Development Report: Water, A
+Shared Responsibility.
+Van Haandel, A., Lettinga, G., 1994. Anaerobic Sewage Treatment: A Practical Guide
+for Regions with a Hot Climate. John Wiley and Sons, Chichester, UK.
+Van Haandel, A., van der Lubbe, J., 2007. Handbook Biological Waste Water
+Treatment: Design and Optimisation of Activated Sludge Systems. Quist
+Publishing, Leidschendam, The Netherlands.
+Van Houtte, E., Verbauwhede, J., 2008. Operational experience with indirect potable
+reuse at the Flemish coast. Desalination 218, 198–207.
+Verdickt, L., Lambert, K., De Boever, F., 2007. Water reuse in the potato processing
+industry – a case study. In: Proceedings of 6th IWA Specialist Conference on
+Wastewater Reclamation and Reuse for Sustainability, 9–12 October 2007.
+Antwerp, Belgium.
+Vincke, E., Verstraete, W., 1999. Microbiële omzettingen in een septische put en de
+onderlinge invloed van de verschillende micro-organismen. Vlario-Leuven, 1–4.
+Vlaeminck, S.E., Terada, A., Smets, B.F., Van der Linden, D., Boon, N., Verstraete, W.,
+Carballa, M., in press. Nitrogen removal from digested black water by one-stage
+partial nitritation and anammox. Environmental Science and Technology,
+doi:10.1021/es803284y.
+Wilsenach, J.A., Maurer, M., Larsen, T.A., van Loosdrecht, M.C.M., 2003. From waste
+treatment to integrated resource management. Water Science and Technology
+48 (1), 1–9.
+Yang, W., Cicek, N., Ilg, J., 2006. State-of-the-art of membrane bioreactors:
+worldwide research and commercial applications in North America. Journal of
+Membrane Science 270, 201–211.
+Zeeman, G., Kujawa, K., de Mes, T., Hernandez, L., de Graaff, M., Abu-Ghunmi, L.,
+Mels, A., Meulman, B., Temmink, H., Buisman, C., van Lier, J., Lettinga, G., 2008.
+Anaerobic treatment as a core technology for energy, nutrients and water
+recovery from source-separated domestic waste (water). Water Science and
+Technology 57 (8), 1207–1212.
+Zhang, L., De Schryver, P., De Gusseme, B., De Muynck, W., Boon, N., Verstraete, W.,
+2008a. Chemical and biological technologies for hydrogen sulﬁde emission
+control in sewer systems: a review. Water Research 42, 1–12.
+Zhang, W.F., Ma, W.Q., Ji, Y.X., Fan, M.S., Oenema, O., Zhang, F.S., 2008b. Efﬁciency,
+economics, and environmental implications of phosphorus resource use and the
+fertilizer industry in China. Nutrient Cycling in Agroecosystems 80, 131–144.
+Zhao, W., Ting, Y.P., Chen, J.P., Xing, C.H., Shi, S.Q., 2000. Advanced primary
+treatment of waste water using a bio-ﬂocculation–adsorption sedimentation
+process. Acta Biotechnologica 20 (1), 53–64.
+W. Verstraete et al. / Bioresource Technology 100 (2009) 5537–5545 5545

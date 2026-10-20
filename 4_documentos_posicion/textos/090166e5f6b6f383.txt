@@ -1,0 +1,251 @@
+ 
+1 
+ 
+Hikvision’s feedback to the European Commission’s proposal for a Regulation on horizontal 
+cybersecurity requirements for products with digital elements and amending Regulation (EU) 
+2019/1020 (Cyber Resilience Act) 
+ 
+I. Hikvision and Cybersecurity 
+ 
+Hikvision1, the global leader in security video camera technology, appreciates the opportunity to 
+participate in the consultation process on the proposed Cyber Resilience Act. Hikvision applauds 
+the EU for its continued global leadership in developing a cybersecurity regulatory framework, 
+and we welcome the proposal to create and apply strong requirements to protect end -users, 
+end-user data, computing systems and the Internet at large.  
+ 
+Hikvision manufactures products and provides solutions that make a positive difference for 
+society — helping safeguard people, property, assets, and combat crime.  The company’s core 
+competency of video security technology is utilized in more than 150 countries. 
+ 
+The company established its European headquarters in 2009 in Hoofddorp , near Amsterdam in 
+the Netherlands. We employ more than 400 professionals across 20 European countries, and we 
+have 14 business units in the region. We have many successful partnerships in Europe, where we 
+support customers with their video security needs.   
+ 
+Our vision is to provide customers with secure and trusted technology. We are constantly 
+updating our own practices on cybersecurity and encourage more extensive communication 
+among stakeholders, focusing on addressing the risks and increasing network  defence 
+capabilities. We also regularly provide users with advice and best practices on how to protect 
+their equipment against security breaches.  
+ 
+Hikvision has been an industry leader in cybersecurity and our products adhere to some of the 
+most rigorous global standards and certifications, including ISO 27001, ISO 9001:2008, CMMI 
+Level 5, and AICPA SOC. Hikvision also leads in securing customer data by requiring end-users to 
+create passwords at the time of first use for any products, in fact, Hikvision was one of the first 
+companies in the video security business to remove default passwords from their products. 
+ 
+To identify and address any potential product cybersecurity vulnerabilities, Hikvision manages a 
+world-class enterprise vulnerability management process 2 that entails working with third -party 
+white-hat hackers and security researchers to find vulnerabilities, develop patches, and publicly 
+disclose the vulnerability and patches in  collaboration with government authorities and 
+regulators around the world (see outline below). This process is managed by the Hikvision 
+Security Response Center (HSRC), Hikvision’s premier product secu rity incident response team 
+(PSIRT). This process 3 allows Hikvision’s distribution partners to notify end -users of any new 
+ 
+1 https://www.hikvision.com/en/ 
+2 https://us.hikvision.com/en/blog/managing-cybersecurity-risks-and-vulnerabilities-discovery-disclosure 
+3 https://us.hikvision.com/en/blog/cybersecurity-roles-and-responsibilities-vulnerability-management-process 
+Ref. Ares(2023)512225 - 23/01/2023
+ 
+2 
+ 
+potential vulnerabilities and to quickly advise distribution partners and/or end -users to update 
+the products with the necessary patch(es) to better safeguard their data.  
+ 
+II. Hikvision’s position on the Cyber Resilience Act proposal 
+ 
+Cybersecurity4 and data privacy continue to be one of the greatest challenges facing our digital 
+world. Technology’s rapid growth creates a challenging env ironment to effectively create and 
+apply regulations. Hikvision applauds the EU for its continued global leadership in creating and 
+applying strong requirements to protect end -users, end-user data, computing systems and the 
+Internet at large. The EU Cyber Resilience Act (CRA) , supplementing the existing cybersecurity 
+regulatory framework, comes at a time when new technologies  – such as 5G and AI – are no 
+longer buzz words  but are actively becoming a part of our everyday lives. To steer and control 
+technology to focus on security and privacy, the CRA should set standards for digital products to 
+adhere to. 
+ 
+There is no doubt that innovation drives the exciting world of technology. T oday, t echnology 
+companies and hobbyists are creating the tech of tomorrow. Low-cost computing systems like 
+Raspberry Pi and Arduino provide valuable learning tools and the possibility of innovation to 
+much of the world’s population. This type of innovation is what drives technology. However, 
+when someone invents a widget to solve a problem, they are focused on that problem and not 
+necessarily on security and privacy. Standards are needed to ensure that digital products meet 
+baseline requirements before they are offered to the public.  Also, we believe security controls 
+need to be introduced at the earliest stages in the development lifecycle (shift left  principle). 
+Enacting legislation that  democratizes security practices will  help protect systems from 
+manufacturer to end-user.   
+ 
+All computing systems have vulnerabilities, we just haven’t found them all yet. However, digital 
+products can, and should, have a set of processes around them that provide continued 
+cybersecurity and privacy support during the lifecycle of the product.  
+ 
+Scope and definition 
+The proposed version of the CRA aims to address cybersecurity challenges of “products with 
+digital elements.” Such definition could result in including in the scope of the Regulation products 
+such as a digital bedside alarm clock, designed in 1980s with basic digital elements, which is 
+presumably is not the focus of the legislation. Instead, we would recommend using a more 
+specific description of the scope of the products that would be subject to the CRA’s requirements. 
+The legislation is focusing on software products and products that are computerized and 
+connected, meaning the products have a central processing unit (CPU) and operating system, 
+they run software, and use some form of connectivity , including but not limited to, Wi -Fi, 
+Bluetooth, cellular (4G/5G) or traditional wired networking. A phrase/term such as 
+‘computerized connected devices (CCD)’, would better represent the intended scope of the CRA. 
+ 
+4 https://www.hikvision.com/content/dam/hikvision/en/brochures/cybersecurity/Hikvision -Cybersecurity-White-
+Paper-2019.pdf 
+ 
+3 
+ 
+Impact Assessment 
+The goal of the CRA i s good and needed but this must be done with caution. Many products  
+currently available on the market  use open-source software , with part of the software being 
+continuously supported, and some of it being created by hobbyists. While widespread use of this 
+type of code is one of the problems we have today ( for instance Log4j vulnerabilities of 2021), 
+requiring support of such open-source code could lead to potential issues, such as: 
+1. A reduction in innovation when a hobbyist developer wants to share software but does 
+not have the time or financial means to support it over the long term. 
+2. Some product developers might want to hide their use of a third-party code.  
+ 
+A requirement for manufacturers of CCDs to disclose a Software Bill of Materials (SBOM) would 
+theoretically remedy the second issue  by enabling them to build a more secure cybersecurity 
+posture, however as the SBOM is mostly produced on an honor system , it would not eliminate 
+the threat entirely. 
+ 
+Manufacturers’ responsibilities 
+Hikvision has worked diligently to build a world -class product security program that is always 
+maturing as the threat landscape changes. Based on Hikvision’s history and learnings to date, we 
+have outlined basic responsibilities that manufacturers of digital products should follow to build 
+and maintain a Secure-by-Design program for their products. 
+ 
+1. Release products without known, exploitable vulnerabilities 
+a. Architectural secure by design – security evaluation early in the process 
+b. Security testing at each stage of the Systems Development Life Cycle (SDLC) 
+c. Vulnerability scanning 
+d. Code scanning 
+e. Automated software testing (fuzzing) 
+f. Penetration testing 
+g. Software Bill of Materials (SBOM)5 
+2. End User awareness 
+a. Documentation 
+i. Best practice user guides - Instructions6 
+ii. Method of communication alerts 
+b. Contact information to reach tech support  
+c. Training and awareness 
+3. Patching 
+a. Establish a Product Security Incident Response Team (PSIRT) 
+b. Create an open-door policy with security researchers to report new vulnerabilities 
+in a responsible way 
+ 
+5 https://us.hikvision.com/sites/default/files/manual/cybersecurity_white_paper -
+securing_the_software_supply_chain_with_sboms.pdf 
+6 https://us.hikvision.com/en/blog/insights-help-end-users-understand-and-protect-against-vulnerabilities 
+ 
+4 
+ 
+i. Include secure methods of communication (e.g., PGP key)7 
+c. PSIRT must respond quickly to cybersecurity incidents 
+d. Patching and public disclosure 
+i. Create a patch to be released at disclosure time 
+ii. Proper public disclosure 
+1. Include details of the vulnerability with a Common Vulnerability 
+Scoring System (CVSS) severity score8 
+2. Disclosure on company website – full transparency 
+3. Be sure a Common Vulnerabilities and Exposures (CVE)9 is created. 
+Some companies hide their vulnerabilities on a difficult to find web 
+page. 
+a. Customer/end user alerts and communication 
+e. Ongoing testing 
+i. Vulnerability Management Program  including r egular vulnerability scan s 
+of supported products to find new “known” vulnerabilities 
+ii. Third party penetration testing 
+iii. Vendor penetration testing 
+ 
+Additionally, companies should be moving toward a Zero Trust 10 architecture. This includes 
+vendors and end -users of digital products. While vendors need to embed cybersecurity and 
+privacy controls in their products, the network is the first, and most important line of defense. 
+The Zero Trust architecture  (i.e., least-privilege access controls, granular micro segmentation , 
+and multifactor authentication (MFA)) greatly reduces the risks of an organization becoming the 
+victim of a cyberattack. 
+ 
+Policy Options 
+We recommend rolling out the requirements for manufacturers of  digital products in the 
+following phases: 
+ 
+Phase 1  would include the Commission adopting delegated acts and providing guidance and 
+recommendations within 12 months since the entry into force of the Regulation . It would allow 
+CCD producers to self-certify against the conformity requirements specified in Annex I.  
+ 
+Phase 2 would require that CCDs be certified against the Commission’s requirements by a third-
+party organization or using a cybersecurity tool that is approved by the Commission before the 
+products are offered on the open market. This would work similarly to car inspections that are 
+required in some regions where cars must be looked over by a n authorized mechanic to ensure 
+that they are safe to drive . However, in this situation, the third -party cybersecurity company 
+would test the CCD to ensure they do not have known vulnerabilities and that they are complying 
+ 
+7 https://www.hikvision.com/en/support/cybersecurity/report-an-issue/ 
+8 https://www.first.org/cvss/ 
+9 https://cve.mitre.org/ 
+10 https://us.hikvision.com/sites/default/files/manual/zero_trust_white_paper.pdf 
+ 
+5 
+ 
+with the requirements of the CRA. Please note that the goal is not to have end-users to test each 
+of t heir devices, it is to have the manufacturers have the cybersecurity certification review  
+conducted by third parties.  
+ 
+This phase not only does a lot to ensure that products purchased by end-users are compliant with 
+the CRA, but it also opens a new level of business for many European companies and offers new 
+career opportunities for European citizens who want to work in the cybersecurity industry. 
+ 
+Phase 3 would require that products available on the market be tested on a regular (for instance 
+annual) basis to ensure they comply with new requirements as cybersecurity threats are ever -
+changing. 
+ 
+Specific recommendations on the text of the proposal 
+Annex I 
+1.  Security Requirements relating to the properties of products with their digital elements 
+(1) “Products with digital elements shall be designed, developed and produced in such a way 
+that they ensure an appropriate level of cybersecurity based on the risks.” 
+• This is a good phrase, but it is not measurable. The phrase “be designed, 
+developed and produced” is used multiple times across the proposal. There needs 
+to be a set of standards for which to comply to ensure that the requirements can 
+be enforceable.  
+(2) “Products with digital elements shall be delivered without any known exploitable 
+vulnerabilities.” 
+• We would recommend expanding the statement to include: “Exploitable meaning 
+that vulnerable code may exist in the product as long as mitigating controls are in 
+place to make non-exploitable.” 
+(…) 
+(3) “On the basis of the risk assessment referred to in Article 10(2) and where applicable, 
+products with digital elements shall: 
+(c) protect the confidentiality of stored, transmitted or otherwise processed data, personal 
+or other, such as by encrypting relevant data at rest or in transit by state-of-the-art 
+mechanisms;” 
+• The language of “encrypting relevant data” could result in using very weak 
+encryption standard s to comply with the provision. We would therefore 
+recommend pointing to an encryption standard. 
+ 
+2.  Vulnerability Handling Requirements 
+Section 2 of Annex I provides relevant requirements, however the following elements should also 
+be considered: 
+1. Include details of the vulnerability with a CVSS severity score. 
+2. Disclosure of a vulnerability on company/organization website. 
+3. Requirement to create a CVE.  Some companies hide their vulnerabilities on a difficult to 
+find website. 
+4. Provide customer/end-user alerts and communication on vulnerability where possible. 
+ 
+6 
+ 
+Annex II 
+(9)(a) “(…) the necessary measures during initial commissioning and throughout the lifetime of 
+the product to ensure its secure use;”  
+• We recommend adding a requirement for  manufacturers to provide end -users 
+with instructions for end-users explaining how to properly segment a device on a 
+network and the risks of configuring devices that are accessible directly from the 
+Internet. 
+ 
+ 
+The Cyber Resilience Act is an integral milestone for the EU to achieve to become the world leader 
+in cybersecurity ; p rescribing specific cybersecurity requirements for all digital products and 
+ancillary service s will help achieve this goal. We  are looking forward to engaging with the 
+European institutions on this legislative initiative and we are ready to provide our expertise. 

@@ -1,0 +1,947 @@
+Improving the security and resilience of digital products and services 
+1 
+ 
+Microsoft Policy Position Paper 
+Improving the security and  
+resilience of digital products  
+and services 
+ 
+May 2022  
+   Public Consultation - EU Cyber Resilience Act 
+ 
+Executive Summary 
+Software, connected hardware, and network-connected services are integral to society, creating a wide 
+spectrum of benefits and risks. Increasing connectivity, more critical use scenarios, and escalating cyber 
+threats underline a significant and growing need to develop multi-faceted and coordinated strategies to 
+address substantial risks. Along with initiatives to uphold norms of responsible state behavior, strengthen 
+technology users’ operational cybersecurity risk management,  and invest in skills and infrastructure,  
+efforts to enhance the cybersecurity of information and communications technology (ICT) products and 
+services are essential to an overall strategy to improve the security and resilience of our ecosystem. 
+Microsoft is keen to partner with the European Commission and other governments pursuing these 
+important efforts, and we are grateful for the opportunity to share our views in response to the European 
+Commission’s Call for Evidence on the EU Cyber Resilience Act (CRA). We support effective horizontal 
+approaches to enhancing the cybersecurity of ICT products and services, promoting greater cross -
+ecosystem consistency and coherence in the EU’s single market. But we also recognize the complexity of 
+such horizontal, holistic efforts and the importance of a phased approach to implementation. 
+This paper provides foundational context on the ICT environment . It also describes interconnected 
+challenges and opportunities related to determining which digital  products and services should be in 
+scope for regulatory measures, defining effective security practices, and verifying use of those practices. 
+Given anticipated complexity and the value of an iterative approach to ensuring meaningful enhancement 
+of cybersecurity, this paper supports a model that moves from the Commission’s suggested policy option 
+two to policy options four or five, implementing more stringent rule making based on evidence and 
+experience gained over time . It also  offers the following  recommendations for effective, scalable 
+approaches to driving horizontal cybersecurity improvements: 
+• Take a holistic, phased approach. A holistic approach addresses cybersecurity risks associated with 
+ICT products and services as well as the operational behavior of users. It also considers scope (i.e., 
+products, services, or organizations targeted by measures),  security practices (i.e., guidance or 
+requirements to be implemented for products or services or by organizations) , and verification 
+of conformance (i.e., methods of assessing whether practices have been implemented) in concert. 
+Taking a holistic approach is complex but necessary to achieve positive security outcomes. When 
+Ref. Ares(2022)3904823 - 24/05/2022
+Improving the security and resilience of digital products and services 
+2 
+ 
+paired with a phased approach, which allows for iterative learning and improving, complexity is 
+more manageable, implementation is more rigorous, and outcomes are more measurable. 
+• Develop ecosystem-wide and targeted measures. A phased approach that starts with basic, broadly 
+relevant practices can improve ecosystem-wide cybersecurity, build context and processes for 
+follow-on, elevated requirements for higher risk scenarios, and drive consistency across all levels 
+of requirements. Such context can also help ensure elevated requirements address any persistent 
+gaps beyond what baseline practices achieve. Beyond product or service requirements, effective 
+deployment of ICT security will require risk management practices by users. 
+• Enable agility and interoperability. Requirements that focus on desired processes or outcomes—
+rather than prescribing specific implementations —are resilient to emerging technologies, 
+dynamic threats, and architecture variations. Leveraging existing best practices and standards to 
+align requirements and confor mance verification methods to the greatest extent practicable 
+globally and across sectors  allows for efficient reuse of certifications and related artifacts or 
+evidence. Engaging with industry and other stakeholders in a transparent, inclusive, and iterative 
+process of developing requirements and conformance verification methods will strengthen 
+understanding of potential implementation challenges and promote interoperability and clear 
+expectations from the outset, helping to enable sufficient ICT provider and operator agility. 
+• Calibrate and a dapt verification methods. Today, costs and infrastructure challenges impact  
+readiness for and effectiveness of certain methods of conformity assessment, including third-
+party certifications. Risk management goals and costs must be balanced to apply appropriate 
+methods in different circumstances. Going forward, investments in both workforce initiatives and 
+innovative technology solutions, such as Supply Chain Integrity, Transparency and Trust (SCITT), 
+which enables the trusted exchange of verifiable supply chain artifacts, could enhance 
+conformance verification options and cybersecurity transparency. 
+  
+Improving the security and resilience of digital products and services 
+3 
+ 
+Contents 
+Executive Summary ...................................................................................................................................... 1 
+Introduction .................................................................................................................................................. 4 
+A dynamic and interconnected ICT environment ....................................................................................... 5 
+Defining scope, cybersecurity practices, and verification .......................................................................... 6 
+Defining scope: challenges, opportunities, and recommendations ........................................................... 6 
+Accounting for intersections across connected devices, software, and services ..................................... 7 
+Weighing ecosystem-wide and high risk-focused approaches ................................................................. 7 
+Scoping high risk-focused approaches ...................................................................................................... 8 
+Scoping by context of use ..................................................................................................................... 8 
+Scoping by attributes or functions of a product or service .................................................................. 9 
+Scoping by context of use and attributes of a product or service ........................................................ 9 
+Implications of scoping approaches ...................................................................................................... 9 
+EU processes and authorities for defining high risk-focused approaches .......................................... 10 
+Defining cybersecurity practices: challenges, opportunities, and recommendations ............................. 10 
+Developing practices through inclusive and iterative processes ............................................................ 11 
+Encouraging ongoing security innovation through outcomes-focused practices .................................. 11 
+Driving consistency and continuity across dynamic and integrated supply chains ................................ 12 
+Fostering alignment across regions, sectors, and policy domains .......................................................... 13 
+Leveraging standards and best practices for global and cross-sector alignment ............................... 13 
+Ensuring coherence across policy domains ........................................................................................ 14 
+EU processes and authorities for stakeholder collaboration.................................................................. 15 
+Defining verification methods: challenges, opportunities, and recommendations ................................ 16 
+Evaluating approaches to security conformance verification ................................................................ 16 
+Self-attestation.................................................................................................................................... 17 
+Labeling programs ............................................................................................................................... 17 
+Certifications ....................................................................................................................................... 18 
+Investing in new methods for conformity assessment ........................................................................... 20 
+Taking a holistic, phased approach ............................................................................................................ 20 
+Conclusion and summary of recommendations ....................................................................................... 22 
+ 
+ 
+ 
+Improving the security and resilience of digital products and services 
+4 
+ 
+Introduction 
+Our modern technology ecosystem is vast and complex, generating enormous value and risk. S oftware, 
+connected hardware, and network-connected services underpin the operations of organizations and are 
+relied upon by people around the world. The breadth of their reach is compounded by the variability in 
+functions they enable; everything from online games to health research to energy innovation and far 
+beyond is powered by digital products and services. Yet security compromises of individual products or 
+services or their components can also have broad effects, rippling across interconnected supply chains. 
+Compromises can lead to disclosure of confidential information, disrupt the integrity or availability of data 
+or functions on which people or organizations rely, and impact safety in the physical world. 
+Effective cybersecurity policies are needed to reduce the risk of security compromises and enhance trust 
+in technology and the opportunities it affords, including in at least four complementary areas:  
+1. First, policies that drive responsible state behavior are needed to reduce threat activities that 
+societies widely consider intolerable, such as attacks on critical civilian services. 
+2. Second, policies that help enhance the cybersecurity of digital products and services are 
+needed to increase resilience against attacks. 
+3. Third, policies that foster operational risk management by technology users are needed to help 
+prevent, detect, and improve recovery from attacks. 
+4. Fourth, policies that strengthen investments in people and infrastructure are needed to advance 
+the skills and organizational readiness to drive continuous risk management improvements as 
+the technology ecosystem and threat environment evolve. 
+While many governments are pursuing important policy initiatives across each of these areas, some are 
+bringing new focus to the second: efforts to enhance the cybersecurity of digital products and services. 
+Recent attacks that pose cascading risk across information and communication technology (ICT) supply 
+chains have helped bring attention and urgency to such policy activities. 1 Governments are leveraging 
+incentives, such as labeling programs or procurement requirements, as well as regulatory proposals.  
+These efforts may be “horizontal” in nature, applying widely to on-prem software, services, and/or 
+connected devices, or more targeted, focusing, for example, on certain types of devices. 
+Efforts to enhance the cybersecurity of digital products and services  have enormous potential but are 
+riddled with complexity.  There are benefits and drawbacks associated with  both horizontal and more 
+targeted approaches. There are also challenges with defining sufficiently robust but flexible cybersecurity 
+practices and hard questions in determining whether to incentivize or require use of th ose practices as 
+well as how to verify conformance with required practices. Moreover, to achieve desired outcomes, efforts 
+to enhance the cybersecurity of ICT products and services often depend upon complementary 
+investments, such as in improving operational risk management practices of technology users. 
+ 
+1 Examples include attacks on SolarWinds and its Orion product customers by a nation-state actor Microsoft refers to as 
+Nobelium, Nobelium Resource Center – updated March 4, 2021 – Microsoft Security Response Center; the use of 0-day 
+exploits against Exchange Servers by an nation-state actor Microsoft refers to as Hafnium, HAFNIUM targeting Exchange 
+Servers with 0-day exploits - Microsoft Security Blog; and a ransomware attack impacting Kaseya VSA on-premises 
+products, Kaseya Ransomware Attack: Guidance for Affected MSPs and their Customers | CISA. 
+Improving the security and resilience of digital products and services 
+5 
+ 
+This paper is Microsoft’s contribution to the European Commission’s consultation on the Cyber Resilience 
+Act (CRA), offering insights and recommendations in support of government  efforts to enhance the 
+cybersecurity of digital products and services. It first provides foundational context on the dynamic and 
+interconnected nature of the ICT environment. Change is constant in the ICT ecosystem – among ICT 
+providers, technology itself, and threat actors and criminals – and policies and requirements that account 
+for this reality and the need for agility in operations and technology capabilities are more like ly to 
+ultimately enhance security. Second, the paper  considers challenges  and opportunities related to 
+determining which digital  products and services should be in scope for regulatory measures, defining 
+effective security practices, and verifying conformance. Given the interconnectedness of these challenges, 
+Microsoft recommends a holistic, phased approach to enhancing the cybersecurity of ICT products and 
+services. Amidst enormous complexity in the hardware, software, services, and user ecosystems, 
+developing and implementing effective cybersecurity policies requires iterative learning and adjustment. 
+A dynamic and interconnected ICT environment 
+There are many driver s of constant change for ICT providers and their products and services.  Evolving 
+technology and infrastructure, including improvements in hardware platforms, architectures, services, 
+security capabilities, and standards, unlock new opportunities and add value. Customer expectations or 
+market dynamics can also shift. New or escalating security risks prompt new threat models , which are 
+most effective if built in during the design phase of new products or services. Organizations also must 
+constantly maintain products or services to address new security vulnerabilities as well as changes from 
+suppliers. As a result, updates might include everything from minimal security patches to major or minor 
+changes in functionality or to entirely new versions of products or services. 
+New ICT solutions build on  or adapt preexisting general -purpose elements available within the ICT 
+ecosystem when the solution was built. Solutions leverage preexisting general-purpose elements – such 
+as hardware chipsets, software libraries, development tools, online services, and communication protocols 
+– because no economically viable organization can build all of these from scratc h. General-purpose 
+elements also create their own economic value through reuse in a variety of applications and accelerate 
+innovation by allowing ICT providers to focus on the unique value of new solutions. 
+Frequently, ICT design, development, production, and maintenance activities are globally distributed and 
+involve a complex web of upstream and downstream supplier interconnections, necessitating supply 
+chain risk management . Technology providers need to decide which portions of their solution s to 
+implement themselves, which to source from external suppliers, and how to align the prioritization and 
+mitigation of risk between a supplier and an organization using a solution.  The supplier’s governance 
+practices ( e.g., risk treatment, adherence to security best practices, vulnerability coordination, 
+transparency) and the product characteristics ( e.g., security, performance, integrity, confidentiality, 
+availability, cost, and support lifecycle) should match the requirements of the consuming organization.  
+Supply chain risk management efforts also extend beyond aligning with  direct suppliers. Technology 
+developers and operators  seek consistency further along a supply chain , though vendors and their 
+products and services may be dynamic, adding complexity. As an organization maintains a solution over 
+time, dependencies implemented by a chain of suppliers may become incompatible with the 
+organization’s governance practices, a solution’s product characteristic metrics, or other risk management 
+Improving the security and resilience of digital products and services 
+6 
+ 
+priorities. While an organization might be able to adapt to changes or mitigate risks associated with direct 
+suppliers, their third-party vendors, or components, it may also need to pursue new solutions. 
+Ultimately, layers of dynamism and interconnectedness – at the level of individual solutions and  across 
+the ecosystem – make clear, consistent ways to communicate adherence to security practices across ICT 
+product and service supply chains  especially valuable. Because most products and services are built 
+leveraging many hardware and software components made by others, assurance that the end product or 
+service meets or exceeds a sufficient security bar is strengthened by  each vendor or open source 
+participant meeting or exceeding  that security bar for its contribution.  There’s a need to clearly 
+communicate (1) what must be done and (2) how to prove it  – as well as evolving  expectations. Policy 
+approaches can also help facilitate or reinforce communication across suppliers and  with consumers, 
+including as a result of  decisions about the scope of products and services  that will be impacted , the 
+security practices that will be required or incentivized, and the ways conformance will be verified. 
+Defining scope, cybersecurity practices, and verification  
+Efforts to enhance the cybersecurity of digital products and services must concurrently consider:  
+1. what products and services are in scope;  
+2. what cybersecurity practices will be required or incentivized; and  
+3. what ways of verifying use of those practices will be required or incentivized.  
+Policy initiatives may broadly scope in many or all products and services – i.e., taking a “horizontal” 
+approach – or more narrowly target certain types or classes of products or services . Likewise, policy 
+initiatives may define many or a few prioritized security practices , more or less flexible practices, and 
+required and/or incentivized practices.  To verify use of those practices , self-, third-party, or other  
+assessment methods may be mandated or encouraged. 
+This section first considers each of these areas – scope, cybersecurity practices, and verification – in turn, 
+weighing benefits and drawbacks of different potential approaches. It then describes why a holistic view 
+– one in which each of these interrelated areas is considered concurrently rather than just in isolation – is 
+critical to effective, practical policies. Finally, it describes why a holistic view leads to recognition of the 
+need for a phased approach – one in which implementation is rolled out over time, allowing for iterative 
+learning and adjustments throughout the process . Ultimately, this paper recommends initiating and 
+expanding a holistic, phased approach to enhancing the cybersecurity of ICT products and services. 
+Defining scope: challenges, opportunities, and recommendations 
+In developing policies to enhance the cybersecurity of digital products and services, a first consideration 
+is whether and how to include software, services, and physical devices, including integrated software 
+and/or dedicated services leveraged by connected devices. Policies can focus on one or two categories 
+or scope in all three in parallel; in addressing two or more categories, policies might treat them similarly 
+or differently – for instance, incentivizing security practices for one categor y and requiring them for 
+another. Within categories, policies might likewise take an ecosystem-wide approach or more narrowly 
+address subsets or classes of products or services based on higher or lower risk – for instance, requiring 
+elevated assurance for devices in safety-critical use scenarios. 
+Improving the security and resilience of digital products and services 
+7 
+ 
+Determining the right approach is complex because the scope of ICT products and services of potential 
+concern is matched only by the breadth of their use scenarios, resulting in benefits and drawbacks for 
+both horizontal and targeted efforts.  Horizontal efforts drive consistent improvements and promote 
+interoperability and efficiency across an interconnected ecosystem , but they pose challenges not only 
+with scale but also in calibrating requirements and conformance verification processes to system criticality 
+or risk severity. Alternatively, more narrowly targeted efforts can address more specific scenarios, but they 
+also risk redundancy – or worse, inconsistency – in requirements or verification methods, and they miss 
+an opportunity to drive change across an interconnected ecosystem. 
+This section first briefly recounts how software, services, and connected devices often intersect, resulting 
+in interplay across policies that address all three categories, whether holistically or separately. It then 
+compares ecosystem-wide and high risk -focused approaches, which may be applied to one or more 
+categories of products and services. Finally, it discusses differe nt ways of scoping  high risk -focused 
+approaches, such as by focusing on context of use or ICT product or service attributes or functions. 
+Accounting for intersections across connected devices, software, and services 
+Hardware, software, and services are distinct categories but may have integrated development processes 
+or shared dependencies. For example, b uilding on what is sourced from suppliers  and the larger ICT 
+ecosystem, a device manufacturer has strong control over its own incremental contributions to a finished 
+product. However, to support a product throughout its lifecycle, the manufacturer must continuously 
+adapt the product to how the ecosystem elements it relies on (or supports) evolve (or move out of 
+production or support). These elements often include software and network-connected services, which 
+might be impacted by security practice  and conformity assessment expectations associated with 
+connected devices as well as developed and implemented separately (for software or services). 
+The extent to which broader ecosystem elements impact the functionality and security of a device varies. 
+Stable protocols and standards can help support interoperability and insulate boundaries between a 
+manufacturer’s product and ecosystem elements provided by third parties. For example, a product that 
+retrieves and displays e-mail could rely on established authentication, networking, and e-mail protocols 
+for its communications over a network and its ability to retrieve e -mail from different e-mail servers. In 
+such a case, the product scope could consist of the hardware and software on the physical device. 
+In contrast, another product may require proprietary communications to connect an Internet of Things 
+(IoT) device that collects data with cloud services-based, product-specific analytics of that data. In such a 
+case, the product scope could implicate not only the hardware and software on the physical device but 
+also the communication protocols between the device and the cloud service and analytics. As a result, 
+policy approaches focused on device requirements may not achieve desired security outcomes for the 
+overall product if implicated protocols or services do not likewise meet appropriate security standards. 
+Weighing ecosystem-wide and high risk-focused approaches 
+In addition to considering whether and how to scope in connected devices, software, and services, efforts 
+to enhance cybersecurity must determine whether and how to address all and/or some products and 
+services within those three categories. Taking an “ecosystem-wide” approach means broadly addressing 
+all or most types of products or services within each category . Alternatively, policies might focus on  a 
+narrower subset of products and services, often starting with those associated with higher risk. 
+Improving the security and resilience of digital products and services 
+8 
+ 
+As with other scoping considerations, both approaches offer benefits and drawbacks. The interconnected 
+nature of supply chains and potential risk escalations associated with compromise of otherwise relatively 
+low-risk devices (e.g., being leveraged for botnets that pose broader security risks) might argue in favor 
+of ecosystem-wide approaches. However, the daunting breadth of the ICT environment and need to 
+prioritize – a foundational principle of effective risk management – might argue in favor of high risk-
+focused approaches. Such approaches may especially be of interest if they can achieve wider impacts – 
+for example, as directly implicated ICT providers cascade requirements through their supplier s (even if 
+realizing this intention may take more time, and progress may be less measurable). 
+Government may also find value in pursuing both  approaches. If developed  and implemented  in a 
+coordinated manner – through a phased, iterative approach – both lower and higher security baselines 
+and conformity assessment expectations might be relevant for both ecosystem-wide and high -risk 
+scenarios. By first establishing basic core tenets of security practices and implementing them across a 
+broad swath of products  and services , governments can create a regulatory foundation that 
+accommodates industry-wide standards while also preparing for layered tiers of elevated standards to be 
+phased in over time. They can also survey impacts, address concerns, predict future advancements and 
+risks, and effectively tailor solutions using the evidence and foresight provided by an initial phase. 
+Scoping high risk-focused approaches 
+If high risk-focused approaches are pursued, governments must determine how to differentiate between 
+what’s higher or lower risk. At least two approaches to defining such boundaries are used today, each 
+with varying implications:  
+1. Context of use; and 
+2. Attributes or functions of an ICT product or service.  
+Scoping by context of use 
+Context of use-based approaches recognize that people and organizations may use the same types or 
+categories of ICT products and services for everything from entertainment to productivity, livelihood,  
+national security, and safety. What matters is not the type or category of product or service but rather 
+the level of risk associated with how it’s used . Operating systems and cloud infrastructure are examples 
+of products that are widely used across scenarios with very different risk impacts. 
+Existing and in-development security requirements and conformance verification methods take a context 
+of use-based approach to addressing scope. Across numerous governments, security programs authorize 
+that cloud services can be used by government organization s, and in some cases, those programs 
+incorporate various levels of authorization. For the U.S. Government, the Federal Risk and Authorization 
+Management Program (FedRAMP) includes low, moderate, and high  security baselines with different 
+levels of requirements . C loud services providers (CSPs) can receive authorization that they meet the 
+requirements of any of the baselines , with higher baselines involving a more extensive process of 
+reviewing cloud service readiness against a broader set of controls  or control parameters . Then, U.S. 
+agencies can choose to procure a cloud service at an authorization level that meets their risk needs  (as 
+determined by applying the Standards for Security Categorization of Federal Information and Information 
+Systems of low, moderate, and high risk to their workloads). Likewise, the EU Cybersecurity Act established 
+a framework for the development of cybersecurity certifications at basic, substantial, and high levels for 
+Improving the security and resilience of digital products and services 
+9 
+ 
+ICT products, services, and processes. As basic, substantial, and high certifications for cloud services and 
+other technologies are available, organizations can choose products certified at a level that likewise meets 
+their risk needs, recognizing that higher assurance levels are often associated with higher costs. 
+Scoping by attributes or functions of a product or service 
+Approaches to risk differentiation based on ICT products or services themselves alternatively recognize 
+that, irrespective of use scenario, there are also ways to distinguish between risks associated with product 
+attributes or functions. For example, unlike word processing applications, identity, credential, and access 
+management products are associated with privileged access, meaning that their compromise could pose 
+higher risks (i.e., security exploits, phishing attempts, or other methods by which unauthorized users could 
+gain access are associated with the potential for relatively greater damage). 
+The U.S. National Institute of Standards and Technology (NIST) focused on the implications of how 
+software functions or what it enables in defining “critical software” as required by U.S. Executive Order 
+(EO) 14028. “EO-critical software” has, or has direct dependencies upon, one or more components with 
+at least one of the attributes defined in the EO (e.g., is designed to run with elevated privileges or manage 
+privileges, has direct or privileged access to networking or computing resources, is designed to control 
+access to data or operational technology, or performs a function critical to trust). 
+Scoping by context of use and attributes of a product or service 
+Approaches to defining high risk could also consider both attributes of a product or service and context 
+of use. While implementation of U.S. EO 14028 is ongoing, it s provisions on EO-critical software could 
+ultimately function in this manner. NIST defined categories of products or services with attributes 
+associated with higher risk as a first step; next, as directed by the U.S. Office of Management and Budget 
+(OMB), agencies are applying the EO’s definition and NIST’s initial phase of categories within their own 
+environments (e.g., based on context of use) to identify their EO-critical software. 
+For U.S. agencies, this multi -step process is particularly important because  the definition of EO-critical 
+software is being used to help them prioritize  where to apply the  operational cybersecurity risk 
+management practices detailed in Security Measures for EO-Critical Software Use. The definition is not 
+being used to determine a scope of products that should be subject to security requirements; rather, all 
+software2 procured by U.S. agencies is subject to guidelines defined in the Secure Software Development 
+Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities. With 
+that “horizontal” baseline established for software vendors, the EO-critical software definition then directs 
+more targeted operational risk management efforts by U.S. agency users of such software. As highlighted 
+above, to achieve desired security outcomes, efforts to enhance the cybersecurity of ICT products and 
+services often depend upon complementary investments in improving practices of technology users. 
+Implications of scoping approaches 
+There are tradeoffs with approaches to risk differentiation based on either context of use or the attributes 
+and functions of ICT products or services . Targeted, high-risk focused approaches often involve more 
+stringent, and thus more costly,  security requirements and conformity assessment methods. Context of 
+ 
+2 All software includes firmware, operating systems, applications, cloud-based software, and products containing software 
+– as defined by NIST’s Software Supply Chain Security Guidance Under Executive Order (EO) 14028 Section 4e. 
+Improving the security and resilience of digital products and services 
+10 
+ 
+use-based approaches allow users (including governments, essential service providers, enterprises, and 
+consumers), which are well positioned to understand their risk appetite for different scenarios, to make 
+decisions about where to invest in higher assurance and higher-cost products – without impacting the 
+market entry or growth of ICT providers that target use scenarios with relatively lower assurance needs. 
+Alternatively, approaches based on attributes or functions may impact the cost of market entry, but they 
+can be implemented without a dependency on users appropriately assessing risk. 
+However, effective deployment of ICT products and services associated with higher risk – whether due to 
+their context of use or  identified attributes or functions – will likely still require security maturity on the 
+user side. For example, users appropriately reconfiguring or managing access to ICT products and services 
+may be critical to achieving desired security outcomes. The U.S. EO definition of “critical software” helped 
+identify software for which U.S. agencies should  prioritize implementing operational cybersecurity 
+measures, including appropriate configuration and access management practices. 
+EU processes and authorities for defining high risk-focused approaches 
+Leveraging a process to assess and describe contexts of use and/or products and services that pose 
+elevated risk  will be important to ensuring clarity for technology providers , technology users, and 
+regulatory authorities. Currently, at the EU  level, there is no  process by which to  collect input from 
+appropriate stakeholders,  assess risk s, make higher or lower risk determinations , and adjust such 
+determinations as risks evolve—nor is there an agency or institution responsible for that process. Through 
+the Cyber Resilience Act, Microsoft recommends that the European Commission consider defining such 
+responsibilities at the EU level and describing appropriate mechanisms for cooperation and coordination 
+with existing, comparable national authorities across EU Member States. 
+Defining cybersecurity practices: challenges, opportunities, and recommendations 
+In addition to making decisions about scope, policies to enhance the cybersecurity of digital products 
+and services must consider the cybersecurity practices that will be incentivized or required. While the 
+details of such practices should be determined through a  public-private collaboration process and 
+adjustable over time, a clear, principled approach helps address anticipated challenges from the outset. 
+Such an approach is particularly important if practices are ultimately captured as requirements (i.e., where 
+use of practices is mandated for market access or to enable procurement); however, where practices are 
+incentivized, it can also help facilitate adoption and drive positive impact. 
+Anticipated challenges range from defining practices to ensuring broader coherence and interoperability. 
+Defending against ever-evolving threats requires constant innovation, so practices should establish clear 
+baselines while fostering agility. Required or incentivized practices also need to recognize overlaps and 
+integration across hardware, software, and services; drive consistency and continuity among dynamic and 
+interconnected supply chains; and ensure coherence with other policy domains, including privacy and  
+sustainability. Effective sets of practices will also promote global interoperability to the maximum extent 
+practicable, driving investments in security (versus compliance), facilitating access to best-in-class security 
+technology, and enabling small businesses to integrate into global supply chains. 
+This section first describes the public -private collaboration process  that is critical to defining effective 
+cybersecurity practices. It then discusses the principles that should guide the development and evolution 
+Improving the security and resilience of digital products and services 
+11 
+ 
+of such practices. These include fostering ongoing security innovation ; driving consistency, continuity, 
+and coherence across technology areas and policy domains; and promoting global interoperability. 
+Developing practices through inclusive and iterative processes 
+Many technology developers, providers, and operators  have been investing in efforts to improve the 
+cybersecurity of ICT products and services and engaging in  collaborative efforts to define effective 
+practices or standards for years, resulting in useful context and lessons learned. Managing a public-private 
+process to de fine practice s enables governments to benefit from industry experience , understand 
+potential implementation challenges, and promote clarity from the outset. Such processes should be  
+transparent and inclusive, open to all stakeholders or at least those that will be impacted by required or 
+incentivized practices. They should also be iterative, creating multiple opportunities for exchange so that 
+desired outcomes and input can be better understood and refined. For example, in developing the SSDF 
+and other guidance documents to implement U.S. EO 14028, NIST managed multiple public consultations, 
+calls for papers, and open public workshops.3 In its efforts to develop the CRA, the European Commission 
+is likewise undertaking similar consultations that can help improve outcomes and industry readiness. 
+Encouraging ongoing security innovation through outcomes-focused practices 
+Leveraging outcomes-focused (i.e., implementation agnostic rather than overly prescriptive and inflexible) 
+approaches to security requirements is critical to allowing technology providers to have sufficient agility 
+to respond to a dynamic ICT ecosystem and threat environment. Pairing outcomes-focused approaches 
+with more prescriptive, optional guidance also helps to ensure value to organizations at different levels 
+of risk management maturity and to address anticipated potential challenges with conformity assessment.  
+Outcomes-focused approaches define desired security outcomes or processes and how best to measure 
+whether those have been achieved rather than defining specific implementation activities. For example, 
+in starting with a desired outcome: “Sensitive personal data is protected from unauthorized access,” more 
+specific, but still implementation agnostic, requirements can be derived, such as: “Sensitive personal data 
+is protected from unauthorized access when at rest or in transit.” Alternatively, the requirement “Data at 
+rest should be AES encrypted with a key length of at least 128 bits” is implementation specific. Similarly, 
+describing a required process, such as use of secure software development practices  like reviewing or 
+analyzing code for vulnerabilities, allows providers to share evidence of various potential practices for 
+doing so. However, requiring use of specific static analysis tools to check code is implementation specific, 
+limiting how software providers can improve tools and practices over time based on continuous learning. 
+Defining requirements in terms of outcomes  or processes  rather than implementations allow s ICT 
+providers to choose the standards and practices that best align with their business processes and existing 
+and ongoing security investments. Outcomes-focused approaches also encourage innovation and help 
+ensure that security practices do not become stale over time  as threat actors continue to evolve their 
+tactics and as investments in security improvements are ongoing. Alternatively, requirements stating that 
+a certain implementation should be used risk constraining providers’ ability to evolve and enhance  
+practices and disincentivize research into and development of better implementations.  
+ 
+3 Workshops & Call for Papers | NIST 
+Improving the security and resilience of digital products and services 
+12 
+ 
+Outcomes-focused approaches can also be when paired with implementation guidance, such as relevant 
+standards, best practices, and controls, ensuring that more prescriptive explanations of security practices 
+that could help organizations meet security outcomes are available to those who need them . However, 
+integrating implementation guidance within outcomes-focused approaches could impact high assurance 
+conformity assessment schemes, which are often geared towards specific implementations. If assessors 
+lack deep subject matter expertise, example implementations might help them evaluate whether desired 
+outcomes have been met – but they might still struggle to assess novel implementation s. These 
+assessment challenges can be countered by restricting the scenarios where high assurance assessments 
+are used (e.g., to narrowly scoped high-risk scenarios, allowing those assessments to be more detailed) 
+or by establishing fast-track and alternate paths (e.g., for pre-vetted versus new implementations). 
+Recently created and updated resources to support the implementation of U.S. EO 14028 demonstrate 
+how outcomes can be split from  implementations. NIST updated  the SSDF, which maps 19 secure 
+development practices (organized into outcomes) to  tasks, implementation examples, and  references, 
+including relevant standards and best practice frameworks.4 The U.S. National Telecommunications and 
+Information Administration (NTIA) took a similar approach in the rapidly advancing area of Software Bill 
+of Materials (SBOM). Rather than defining a new standard or choosing an existing standard, NTIA instead 
+defined use cases they want ed to achieve ( desired outcomes) and what information an SBOM must 
+contain to enable those use cases. This resulted in NTIA’s Minimum Elements for a Software Bill of 
+Materials, which identifies seven required data fields and additional optional data fields. Existing standards 
+(e.g., SPDX, CycloneDX) were then mapped to those minimum elements, facilitating interchange between 
+the formats, allowing software producers and consumers of SBOM information choice in SBOM format 
+and tools, and supporting further innovation by not prescribing specific implementations. 
+By focusing on cybersecurity processes and outcomes, the future EU Cyber Resilience Act would similarly 
+help ensure that  industry maintains critical operational agility in a  complex and quickly evolving  ICT 
+security environment. Secure software development practices, vulnerability management processes, and 
+transparent lifecycle policies are important areas to include. Providing of SBOM information could foster 
+software supply chain transparency and help prepare the ecosystem for additional use cases to enhance 
+security and integrity. Transparent, inclusive, and iterative processes for further defining such practices 
+and implementation examples are necessary to help ensure agility and interoperability. 
+Driving consistency and continuity across dynamic and integrated supply chains 
+As introduced above, ICT products are  increasingly composed of both hardware and software  or 
+integrated with other products (that themselves may be hardware, software, or both) before delivery to 
+the final customer. These products may also depend on services from direct or upstream suppliers as part 
+of their deployment, management, and ongoing use.  Security requirements that don’t take the  co-
+ 
+4 The SSDF describes various secure development practices (e.g., review and/or analyze human-readable code to identify 
+vulnerabilities and verify compliance with security requirements…), tasks (e.g., perform code review and/or analysis and 
+record and triage all discovered issues and recommended remediations…), notional implementation examples (e.g., use a 
+static analysis tool…), and references, including ISO/IEC 27034, Open Web Application Security Project (OWASP) 
+standards, and Microsoft’s Security Development Lifecycle (SDL), among many others. 
+Improving the security and resilience of digital products and services 
+13 
+ 
+mingling of software, hardware , and services in the ICT ecosystem into consideration  create further 
+complexity and potential for conflicts, duplication, and gaps.  
+Starting with a common baseline that applies to software, hardware, and services  and then developing 
+modality-specific practices will improve consistency and continuity across the supply chain. Outcomes-
+focused requirements also make developing a common baseline more straightforward. Although the 
+implementation of a given outcome may differ across the modalities, the outcome (and reasoning behind 
+the outcome) often won’t differ. Providing modality-specific examples or guidance can then bridge any 
+gap from the outcome to possible implementations in a specific environment. 
+This approach of defining requirements so they can apply to the broadest baseline possible and defining 
+supplemental practices for particular types  of technology as necessary  also improves consistency by 
+allowing organizations to reuse processes and even tools across different parts of their supply chain. More 
+consistency both reduces the likelihood of incorrect implementations and makes it easier to  assess and 
+monitor the effectiveness of implementations. In the context of conformity assessments, such consistency 
+can also increase efficiency for both assessors and technology providers. For example, some government 
+cloud security assurance programs allow Software as a Service (SaaS) providers that leverage already -
+certified cloud infrastructure and inherit consistently required security controls to streamline assessments 
+as appropriate, focusing on controls or other assessment criteria that only apply to the SaaS product. 
+Fostering alignment across regions, sectors, and policy domains 
+Just as consistent requirements across ICT environments (e.g., hardware, software, and services) reduce 
+complexity and enhance implementation, so does consistency globally and across sectors and  policy 
+domains, such as privacy, sustainability, and cybersecurity.  
+Leveraging standards and best practices for global and cross-sector alignment 
+Recognizing that governments, industry, and other stakeholders worldwide share a common goal of using 
+ICT products and services with enhanced security, the extent to whic h governments can synchronize 
+cybersecurity practices across jurisdictions and sectors will have profound effects on all stakeholders.5 For 
+governments, the process of building out security baselines from scratch and verifying conformance  is 
+resource intensive and time consuming. For large organizations that operate across borders, having to 
+comply with fragmented or redundant requirements diverts resources from security functions. For local 
+businesses, fragmented requirements limit market access and opportunities to integrate with global 
+and/or cross-sector supply chains. For all stakeholders, fragmentation prevents access to best -in-class 
+security technology and reverses the partnerships that have enabled access to advanced technologies, 
+such as smart phones, that support new business models and operations across geographies.  
+Even with an intention to foster alignment, policies may inadvertently contribute to fragmentation. 
+Building and enforcing conformity assessment schemes associated with outcomes -focused security 
+requirements often formalizes implementation of best practices and technologies popular at the time the 
+conformance scheme was developed. Effective requirements are frequently replicated in other regions 
+with modifications intended to improve them. This can lead to very similar but fragmented ICT 
+ 
+5 See, e.g., Risk Management for Cybersecurity: Security Baselines 
+Improving the security and resilience of digital products and services 
+14 
+ 
+conformance schemes around the world. While the costs of such f ragmentation are less compared to 
+inconsistent requirements, diversion of scarce security expertise still results. 
+Policymakers can help focus resources on operational and product security (versus redundantly proving 
+satisfaction with conformance schemes) by collaborating with in and across governments to reduce 
+inconsistent or duplicative requirements and by promoting common or shared conformance verification 
+methods (e.g., aligning on approaches, allowing for reciprocity, or allowing for the reuse of conformance 
+artifacts). They can also rely on conformance mechanisms based on global standards built using open, 
+consensus-based approaches inclusive of participation from around the world. ETSI EN 303 645 ( Cyber 
+Security for Consumer Internet of Things: Baseline Requirements ), the NISTIR 8259 Series , and the 
+ongoing development of ISO/IEC 27402.2 ( Cybersecurity – IoT security and privacy – Device baseline 
+requirements) represent examples of collaborative efforts to harmonize standards for IoT security. 
+Notably, Singapore and Finland announced mutual recognition for their cybersecurity labeling schemes 
+based on ETSI EN 303 645. For software security, there are also existing standards and best practices, 
+including the ISO/IEC 27034 series (Information technology – Security techniques – Application Security), 
+ISO/IEC 29147 and 301 11 (Information technology – Security techniques – Vulnerability disclosure and 
+Information technology – Security techniques – Vulnerability handling processes), and the NIST SSDF. 
+These standards and best practices are also relevant across sectors, offering a consistent baseline even 
+where additional tiers of practices may be relevant to support especially critical use scenarios. 
+Developing new standards that achieve desired security goals , analyzing them to identify potential 
+negative outcomes, and designing and implementing their conformance programs is resource intensive. 
+While there may sometimes be value in developing new standards (e.g., for emerging technologies), using 
+and contributing to updates of existing standards accelerates governments’ ability to influence industry, 
+allows ICT providers to leverage existing investments, and simplifies auditor or customer assessments.  
+Ensuring coherence across policy domains 
+Increasing technology regulation across domains , including privacy, sustainability, and cyb ersecurity, 
+often has complementary goals of helping to protect consumers and the ecosystem. However, optimizing 
+for one domain may (often unintentionally) negatively impact another. For instance, sustainability and 
+privacy policies may impact how ICT products are maintained and to what extent providers can integrate 
+security learnings into product improvements, unintentionally reducing or impeding security.  
+Approaches to and impacts of efforts to enhance security often differ for new versus existing ICT products. 
+New products create an opportunity to address current security risks in design and development phases 
+(using new suppliers, technology, standards, innovation, or hardware req uirements) and to balance 
+security and user experience requirement s. However, security maintenance of released products , 
+especially physical devices, often involves “bolting on” security mitigations and features to respond to 
+previously unanticipated threa ts and ecosystem changes. User experience is sometimes unavoidably 
+degraded by such security mitigations due to decreased performance (e.g., transitioning to stronger 
+cryptography requiring more computation) or extra steps required by users (e.g., using mu lti-factor 
+authentication). Security improvements are often intertwined with functionality changes in ways that are 
+complicated for manufacturers to explain to end users ; for example, feature updates invariably include 
+security improvements as code is refactored and revised. Moreover, manufacturers are not only focused 
+Improving the security and resilience of digital products and services 
+15 
+ 
+on fixing vulnerabilities but also making sure customers deploy updates.  Cybersecurity can be greatly 
+improved when users are on the same version , simplifying threat monitoring, minimizing the testing 
+necessary for future security enhancements, and simplifying integration with other stakeholders. 
+Sustainability and consumer protection policies increasingly intersect with such efforts to enhance security 
+and user experience . Regulations intended to extend the longevity of devices or that impact how 
+providers maintain  software and services , especially on hardware products , can inadvertently block 
+security best practices or degrade their effectiveness. For example, while users should be able to configure 
+whether updates are installed automatically or require consent prior to installation,  some regulatory 
+approaches could result in delays to automatic deployment of security updates. Likewise, requiring that 
+users must be able to persistently rollback updates to any incremental software version (versus a more 
+limited set of older versions for a narrower time frame after an update is installed) would significantly 
+complicate security patch testing, which would then need to occur against every possible software 
+version. As a result, the creation and rollout of security patches could be delayed. Additionally, schemes 
+to enable use of devices after a manufacturer’s support period ends might compromise the security of all 
+devices by allowing an untrusted party to make updates. 
+Likewise, privacy policies with broad data localization mandates risk preventing global access to security 
+telemetry and advanced threat intelligence. ICT providers leverage global security telemetry to investigate 
+incidents, understand threat actors’ evolving techniques, improve threat modeling and product security 
+by design, and incorporate automated threat detection and response into current products.   
+Pursuing important objectives in  ICT regulation across domains  is a complex endeavor that will likely 
+require ongoing reflection and adjustment to effectively address unintended consequences. Providing a 
+legislative mechanism to account for this complexity would help future proof in -development 
+requirements, especially when domain experts are not engaged in all cross-domain regulatory activities. 
+For example, manufacturers could be allowed to identify and explain why outcomes  from one domain 
+justify adjustments or waivers of other regulatory requirements , and a cross-domain process could be 
+established by which regulatory authorities can prioritize outcomes as appropriate.  
+EU processes and authorities for stakeholder collaboration 
+Given the potential for overlap and complexity in future enforcement of the provisions set out by the 
+Cyber Resilience Act, Microsoft recommends  that the European Commission consider how to further 
+foster inter-institutional cooperation among the Directorate Generals responsible for developing and 
+implementing related cybersecurity poli cies. Inter-institutional cooperation could be facilitated by  a 
+structural mechanism that is transparent and inclusive in its management and activities. Such a 
+mechanism would help avoid the development of policy in silos, encouraging coordination and infusing 
+cybersecurity expertise into other policy domains (e.g., sustainability) and vice versa. 
+Moreover, as highlighted above,  technical cybersecurity requirements should be defined through 
+transparent and iterative processes that are open to and inclusive of all stakeholders. Building on the 
+approach to public consultation leveraged in this Call for Evidence and previous legislative efforts, such 
+as the Cybersecurity Act and the Revised Directive on Security of Network and Information Systems (NIS2) 
+we encourage the European Commission to establish specific public-private cooperation mechanisms for 
+the development of such technical requirements.  
+Improving the security and resilience of digital products and services 
+16 
+ 
+Defining verification methods: challenges, opportunities, and recommendations  
+Conformance verification is the final pillar of efforts to enhance the cybersecurity of digital products and 
+services. Defining effective, practical approaches for verifying that in -scope products and services  
+conform with cybersecurity practices requires an understanding of the benefits and drawbacks of various 
+existing methods as well as investment in new methods that offer greater scale and impact . For the EU 
+CRA, allowing for calibration of conformance verification methods based on needs and challenges today 
+as well as future opportunities can help maximize cybersecurity impact while managing market impact. 
+This section first describes various existing methods for conformance verification, including first - and 
+third-party assessments. It provides more detailed context on, and examples of, labeling and certification 
+programs as global interest in both is increasing. It then introduces new potential methods for conformity 
+assessment, recognizing that challenges that exist today with verifying use of cybersecurity practices are 
+exacerbated by skilling and infrastructure gaps that require long-term investment. 
+Evaluating approaches to security conformance verification 
+Various methods for verifying or proving that security requirements have been met may be appropriate 
+to leverage as part of a holistic effort to advance the basic security of ecosystem-wide ICT products and 
+services and/or elevated security for higher risk scenarios. Each of these methods can be described using 
+different terms, though ISO/IEC 17000 offers consistent definitions for the terms “conformity assessment” 
+and “attestation” (including first-, second-, and third-party attestation).6 Methods include: 
+• First-party or self-attestation (i.e., supplier declaration of conformity): ICT providers can attest that 
+they conform to security practices (i.e., meet requirements), including through declarations or in 
+the context of contractual commitments. In doing so, they may share information about security 
+practices publicly or upon private request as evidence to support their claims. Declarations and 
+commitments could later be subject to regulatory reviews or legal disputes. 
+• Second-party attestation: a technology user  (i.e., often a government) determines whether and 
+attests that an ICT product or service conforms to required security practices. 
+• Third-party attestation: an independent third party assesses and attests to whether an ICT product 
+or service conforms with security practices . The independent third -party assessor may also be 
+subject to evaluation before being considered an approved or trusted assessor. 
+Labeling programs and certifications are two types of second- and/or third-party attestation, depending 
+upon whether the assessor and issuer of a label or certification is the technology user (i.e., often a 
+government) or an independent third party. They might also involve a mix of second- and/or third party 
+attestation; for example, governments might  rely on a mix of independent and government pe rsonnel 
+assessor or issue labels or certifications they rely on themselves while providing transparency to inform 
+purchasing decisions in the broader ecosystem. While similar and in some cases potentially overlapping, 
+labeling programs and certifications are often considered distinctly today. They may be associated with 
+different ICT products and services (e.g., labeling programs with IoT and certifications with cloud services). 
+In addition, while both labels and certifications generally depend on assessment by  a government  
+ 
+6 “Conformity assessment” is a “demonstration that specific requirements are fulfilled,” while “attestation” is the issuing of 
+“a statement, based on a decision, that fulfillment of specified requirements has been demonstrated.” 
+Improving the security and resilience of digital products and services 
+17 
+ 
+organization or an approved, independent third party (e.g., an open source foundation, industry group, 
+or auditor), ICT providers could also self-attest that they meet the requirements for a label. 
+Notably, across any method, conformity assessments might focus on organizational processes, products 
+or services themselves, or both . Given the rapid cadence of releasing and updating ICT products and 
+services in today’s environment, focusing on processes enables greater agility. Focusing on products or 
+services themselves risks over-emphasizing a snapshot in time and immediately becoming stale. If patches 
+or new features trigger regular re-assessment of continuously updated products or services, there may 
+also be resulting delays in access to products or services with enhanced cybersecurity. 
+Self-attestation 
+Self-attestation offers numerous benefits as well as potential limitations. Benefits include scale, speed, 
+and relatively low costs – and as the ecosystem is vast, the pace of technology deployment continues to 
+accelerate, and high costs impact market access, especially for small and medium-sized businesses, these 
+benefits are significant . Third-party attestation depends on existing assessor infrastructure, including 
+skilled, available assessors and processes to establish trust in assessment quality – challenges with which 
+could reduce the security value of assessments, slow delivery (which sometimes results in users leveraging 
+unassessed technology), or drive-up costs, especially as certification demands grow. Alternatively, self-
+attestation has fewer dependencies and costs; suppliers may still need to invest in processes to implement 
+requirements and produce evidence  to support their claims, but they can share such evidence directly 
+with technology users rather than paying a third party to review it. However, where more detailed reviews 
+of ICT providers’ security practices are required  (e.g., in higher risk scenarios where there’s a need for 
+higher assurance), technology users may prefer confirmation by third-party assessors. 
+While implementation of U.S. EO 14028 software supply chain security requirements is ongoing, NIST has 
+recommended that U.S. agencies “accept first-party attestation of conformity with SSDF practices” unless 
+the need for third -party attestation is determined using a risk -based approach.7 In doing so, NIST has 
+further recommended that agencies request from software vendors high-level “artifacts of conformance,” 
+such as documentation “describing the methodology, procedures, and processes a software producer 
+uses for its secure practices for software development.”8 NIST cautioned agencies against requesting low-
+level artifacts, such as threat models or source code vulnerability scan reports, as such artifacts only 
+represent a snapshot in time,  may be difficult to analyze appropriately, and may contain sensitive 
+information that attackers could use for hostile purposes ,9 increasing overall ecosystem risk if such 
+information is exposed as well as potentially motivating attackers to target agencies. 
+Labeling programs 
+If designed well, labels can be a vehicle to communicate with customers the cybersecurity protections 
+that a vendor has put in place, the cybersecurity actions a customer may need to take, and how to stay 
+up to date on emerging product information. A well-designed label would focus on communicating 
+security outcomes, rather than implementations, to the customer, minimizing technical terminology that 
+ 
+7 Software Supply Chain Security Guidance Under Executive Order (EO) 14028 Section 4e (nist.gov) at 4 
+8 Id at 3-4 
+9 Id 
+Improving the security and resilience of digital products and services 
+18 
+ 
+a customer may not have context to understand. With such labels, customers could make more informed 
+purchasing decisions and anticipate user opportunities to help maintain security over time. 
+However, there are challenges with designing and using cybersecurity labels. Threats, vulnerabilities, and 
+mitigations evolve over time, and the most important changes to these often occur after an ICT product 
+has shipped – and after its label has presumably been used for purchasing decisions. The nature of threats 
+and vulnerabilities can also be very technical or nuanced, making communication challenging, especially 
+to non-technical audiences that may reference labels. The risk of bombarding  customers with various 
+labeling programs and content should also be minimized. Typical content in IoT device manuals is often 
+compliance related and may not be applicable to many customers, and redundant or overlapping 
+programs may leave customers unsure where to direct their attention . Once a high level of saturation, 
+noise, or confusion is met, customers may no longer engage with new content.  
+This risk  of high saturation and noise  can be mitigated by consolidating labels where possible, only 
+applying labels when certain threats are present (e.g., only labeling software that handles sensitive data), 
+and linking labels to product -specific content that can be beneficial to customers (such as where to 
+subscribe to vulnerability alerts, obtain updates, and report vulnerabilities).  Multi-national and multi -
+sector collaboration can also help align labeling schemes and focus ICT providers and customers on 
+consistent approaches or labels for which there’s recognized reciprocity. 
+Today, numerous government- and industry-initiated programs exist. The cybersecurity authorities of 
+Finland and Singapore both manage cybersecurity labeling programs and mutually recognize the labels 
+issued by each other, meaning that “[c]ompanies may be granted both the Finnish Cybersecurity Label 
+and the Singaporean IoT Cybersecurity Label  at once, with a single application and testing process .”10 
+Moreover, both labels are based on ETSI EN 303 645. Such alignment eases compliance efforts as well as 
+communication about the security of products within the global market, reserving company resources for 
+security versus redundant compliance and streamlining information for consumers.  The Open Source 
+Security Foundation (OpenSSF) Security Scorecard project  also scores open source projects based on 
+security practices they’ve implemented. Additional programs are also emerging (e.g., as required by U.S. 
+EO 14028, NIST developed criteria for IoT and consumer software security labeling programs).  
+Certifications 
+There are also potential benefits and drawbacks of  second- and/or third-party certifications, some of 
+which can be reinforced or addressed by well-designed programs that are only used in appropriately 
+narrow circumstances. While detailed reviews by trusted assessors can provide increased assurance that 
+security requirements have been met, leveraging certifications is particularly challenging at scale due to 
+high costs and slow speeds. Certifications are often resource intensive, in terms of both financial costs 
+and personnel resources.  For ICT provider s, such costs  decrease resources available for operational 
+security, product security enhancements, and continued security innovation and disproportionately affect 
+small businesses, impacting the potential for  innovation, competition, and diversity.  Governments may 
+also expend significant resources investing in the expertise to employ assessors and/or establishing and 
+maintaining the infrastructure and processes to evaluate independent third-party assessors. For example, 
+in establishing the U.S. Department of Defense Cybersecurity Maturity Model Certification (CMMC), third-
+ 
+10 International development | Cybersecurity Label (tietoturvamerkki.fi) 
+Improving the security and resilience of digital products and services 
+19 
+ 
+party assessor applicants must first pass a CMMC assessment themselves (as they’ll store sensitive data), 
+and capacity for an initial, approved assessor to assess all applicants has been limited, delaying progress.11 
+Moreover, if trust in assessments is somehow diminished (e.g., because ICT providers pay independent 
+third-party assessors) or the quality of assessments is low, then both ICT providers and technology users 
+may leverage further resources for redundant assessments. For example, in reviewing the U.S. FedRAMP 
+program, through which cloud services can be authorized as meeting cybersecurity requirements, many 
+U.S. government cloud users generally recognized the value of independent third-party assessments but 
+also reported variable quality in “authorization packages,” which are developed jointly by assessors and 
+cloud service providers – requiring agencies to perform additional work.12 Redundant assessments reduce 
+resources available for other cybersecurity risk management activities. 
+Certifications can also delay procurement and operational processes, slowing down modernization and 
+technology upgrade projects that may have a more positive impact on overall cybersecurity posture than 
+what’s provided by higher levels of assurance. Some certification assessment processes may take many 
+months or even more than one year to complete, by which time more secure versions of products may 
+become available. Through the U.S. FedRAMP program, for example, as of May 2022, 261 cloud services 
+were authorized while 79 were in process; among the 79, some had been in process since 2021, including 
+as early as  June.13 Due to delays, organizations may also sidestep certifications to access newer, more 
+secure technology or use products with preliminary (versus complete) assessments.  
+As interest in mandatory security certifications grows and ICT provider s potentially impacted by them 
+likewise expands, cost and scale challenges may be exacerbated . There are limited auditors with  
+cybersecurity expertise, especially for advanced technologies. Limited auditor expertise undermines trust 
+in certifications and results in re-adjudication of assessments as well as reinvigorated investments in 
+efforts to “assess the assessors” (i.e., validate expertise and trustworthiness). 
+Higher levels of assurance can be useful , but  given costs  and scale challenges , understanding the 
+anticipated value and appropriate application is critical . Generally, absent another overriding factor, 
+balance between risk management goals and ecosystem costs should be sought. This could be achieved 
+by reducing scope (i.e., reducing the number of ICT products or providers requiring certification), lowering 
+the cost of obtaining assurance (e.g., reducing the number of requirements or allowing for self-attestation 
+for a portion of requirements), or narrowing the scenarios for which certification is required (e.g., focusing 
+on safety-critical or other especially sensitive use cases). 
+Costs and scale challenges  can also be mitigated by promoting global and cross-sector consistency in 
+requirements and reuse of certifications or their conformance artifacts or evidence (e.g., documentation). 
+For example, Common Criteria certifications are recognized by all government members of the Common 
+Criteria Recognition Arrangement. Likewise, there are certifications for globally recognized standards , 
+ 
+11 In June 2021, the initial assessor could assess just 20-30 companies that applied to become CMMC Third Party Assessor 
+Organizations (C3PAOs) per year – out of 450+ applicants. Is CMMC dead? Why the delays? (cmmcaudit.org) 
+12 GAO-20-126, CLOUD COMPUTING SECURITY: Agencies Increased Their Use of the Federal Authorization Program, but 
+Improved Oversight and Implementation Are Needed at 34, 39 
+13 The Federal Risk And Management Program Dashboard (fedramp.gov) (accessed May 14, 2022); 
+FedRAMP_Marketplace_Designations_for_Cloud_Service_Providers.pdf. 
+Improving the security and resilience of digital products and services 
+20 
+ 
+such as ISO/IEC 27001, that involve evaluation of practices that are generally considered foundational to 
+cybersecurity. Microsoft product groups maintain dozens of  certifications for global,  government, and 
+industry standards; for example, Azure compliance documentation  describes those certifications and 
+standards as well as guidance on implementation and control mappings. Leveraging broadly applicable 
+certifications and standards  to the greatest extent possible and focusing assessors on any deltas in 
+requirements can help address resource challenges, reduce diversion of security expertise toward 
+compliance, and improve efficiency and access to modern technology. 
+In the EU, we understand that cybersecurity certifications resulting from the 2019 Cybersecurity Act may 
+be leveraged for the Cyber Resilience Act a s well as the implementation of other legislative provisions. 
+Going forward, we encourage the use of more transparent and inclusive processes for defining 
+certification criteria (i.e., requirements) as well as conformance verification processes. Leveraging global 
+standards and best practices to the maximum extent relevant and enabling the re-use of artifacts and 
+evidence of existing conformance verification processes  could also expedite the processes of both 
+developing certifications and assessing conformance. Moreover, ensuring that certifications can be used 
+seamlessly across the EU’s Digital Single Market will help address cost and scall challenges. 
+Investing in new methods for conformity assessment 
+As ICT products and services continue to proliferate and the importance of understanding and reducing 
+risk continues to escalate, ecosystem needs to attain higher levels of assurance across a broader scope 
+of products and services will also  continue to increase. Technological solutions that provide verifiable 
+assurances can be effective at meeting this demand  for increased scale while managing costs. For 
+example, hardware (such as Trusted Platform Modules) that automatically verify the integrity of low-level 
+software (such as the operating system) when a computing system starts can provide continuous 
+assurance that software foundational to trusting a device has not been subject to tampering. 
+Microsoft has been investigating using technologies to store and exchange supply chain security 
+compliance artifacts and attestations, such as software bills of materials  (SBOM), so they can be 
+independently verified and to enable automated and continuous assurance based on those attestations. 
+Supply Chain Integrity, Transparency and Trust (SCITT) offers one path forward for storing and exchanging 
+such meaningful artifacts and attestation. It could enable users of technology to evaluate artifacts of 
+conformance with requirements not just from direct vendors but also from their suppliers. 
+Microsoft’s goal is to use technologies like SCITT, in combination with open international standards , to 
+continuously exchange trusted supply chain information, including from the open source community . 
+SCITT could ultimately be used to verify the integrity of supply chains, share threat intelligence, and detect 
+supply chain attacks in a more automated and scalable way. We welcome coordination and collaboration 
+from European government, EU Member State, and other partners on SCITT and related efforts, helping 
+us continue to build such technologies in a way that is responsive to government interests and concerns. 
+Taking a holistic, phased approach 
+Policy decisions about scope, cybersecurity practices, and methods for verifying conformance are highly 
+interdependent. As each of these areas interrelates, a holistic approach to considering options will yield 
+the best outcome. For instance, a horizontal approach to broadly scoping in products and services might 
+Improving the security and resilience of digital products and services 
+21 
+ 
+argue in favor of a narrower set of required, flexible security practices, ensuring agility in implementation 
+and reducing conformity assessment demands. Such an approach might also argue in favor of allowing 
+for a mix of conformance verification methods, enabling calibration to a wider set of anticipated use cases 
+with varying assurance needs. When new requirements are formulated, it is also valuable to consider how 
+conformance with those requirements might need to be demonstrated at the same time, enabling ICT 
+developers and operators to engage with governments on potential challenges and expectations. 
+A holistic view also allows governments to simultaneously con sider how to address interests in both  
+ecosystem-wide and high risk-focused approaches as well as in enhancing not only the cybersecurity of 
+ICT products and services but also the cybersecurity risk management practices of users.  Horizontal, 
+ecosystem-wide approaches respond to cybersecurity risks resulting from interconnectedness across the 
+dynamic ICT ecosystem, including many different ICT products and services, components, and suppliers. 
+Narrower, high risk-focused approaches help focus attention on ensuring adequate security for safety-
+critical or other sensitive technology use  scenarios. Attention to risk management practices of users 
+reduces the risk of most cyber threat actor inroads today; attackers often take advantage of poor cyber 
+hygiene, compromising credentials (e.g., through phishing attacks) or leveraging unpatched systems.14 
+A holistic approach – that enhances the cybersecurity of ICT products and services  used across the 
+ecosystem and in high-risk scenarios as well as improv es user cybersecurity risk management – also 
+requires a phased approach.  Principles of effective risk management  and the reality of resource 
+constraints mean that risk prioritization and responsible and intentional tradeoffs are necessary in the 
+near term. However, as part of a longer-term plan, more holistic improvement can be pursued. Moreover, 
+when linked as part of an iterative plan, the effectiveness of earlier policy efforts can be  assessed and 
+improved upon as they’re expanded, allowing implementation to become more rigorous. 
+If developed and implemented in a coordinated manner – through a phased, iterative approach – both 
+lower security baselines and conformity assessment expectations for ecosystem-wide approaches and 
+higher security baselines and conformity assessment expectations for high-risk scenarios  might be 
+relevant. By first establishing basic core tenets of security practices and implementing them across a broad 
+swath of products  and services, governments can create a regulatory foundation that accommodates 
+industry-wide standards while also preparing for layered tiers of elevated standards to be phased in over 
+time. They can prioritize security practices widely applicable across ICT products and  services and use 
+scenarios, such as secure software development practices, patching, and implementation of multi-factor 
+authentication. They can also survey impacts, address concerns, predict future advancements and risks, 
+and effectively tailor solutions using the evidence and foresight provided by an initial phase. 
+Many governments are taking phased approaches to implementing cybersecurity policies. In efforts to 
+advance the cybersecurity of critical infrastructure and essential services, governments  in the EU, UK, 
+Australia, and other regions  are expanding the scope of sectors impacted by associated requirements 
+over time.15 The EU has likewise phased in the development of cybersecurity certifications resulting from 
+ 
+14  
+15 Revised Directive on Security of Network and Information Systems (NIS2) | Shaping Europe’s digital future (europa.eu); 
+Proposal for legislation to improve the UK’s cyber resilience - GOV.UK (www.gov.uk); Security Legislation Amendment 
+(Critical Infrastructure Protection) Act 2022 (homeaffairs.gov.au). 
+Improving the security and resilience of digital products and services 
+22 
+ 
+the Cybersecurity Act, allowing for iterative learning and process improvements throughout the process. 
+In the US, given the breadth of software in scope for EO 14028, NIST proposed a phased approach to 
+defining “EO critical software” for which U.S. agencies need to apply elevated , user -focused security 
+measures. NIST proposed focusing first on standalone, on-premises software for which agencies are solely 
+responsive for operational risk management but recognized that all forms of software, including software 
+embedded in devices or hardware components and cloud services, should ultimately be in scope. 
+Conclusion and summary of recommendations 
+ICT products and services are relied upon by people and organizations around the world, and enhancing 
+their cybersecurity is foundational to efforts  to improve ecosystem resilience and trust. Microsoft is 
+supportive of government efforts to take a horizontal approach to enhancing the cybersecurity of ICT 
+products and services, promoting greater cross-ecosystem consistency. We also recognize the complexity 
+of such an effort and offer the following summary of our recommendations: 
+• Take a holistic, phased approach. A holistic approach addresses cybersecurity risks associated with 
+ICT products and services as well as the operational behavior of users. It also considers scope (i.e., 
+products, services, or organizations targeted by measures), security practices (i.e., guidance or 
+requirements to be implemented for products or services or by organizations), and verification 
+of conformance (i.e., methods of assessing whether practices have been implemented) in concert. 
+Taking a holistic approach is complex but necessary to achieve positive security outcomes. When 
+paired with a phased approach, which allows for iterative learning and improving, complexity is 
+more manageable, implementation is more rigorous, and outcomes are more measurable. 
+o Make intentional, risk-based tradeoffs that reflect consideration of all available tools and 
+options, not only for scoping decisions but also for differentiation across potential 
+requirements and conformity assessment methods. 
+• Develop ecosystem-wide and targeted measures. A phased approach that starts with basic, broadly 
+relevant practices can improve ecosystem -wide cybersecurity, build context and processes for 
+follow-on, elevated requirements for higher risk scenarios, and drive consistency across all levels 
+of requirements. Such context can also help ensure elevated requirements address any persistent 
+gaps beyond what baseline practices achieve. Beyond product or service requirements, effective 
+deployment of ICT security will require risk management practices by users. 
+o Ensure consistency across both basic and elevated requirements, with the latter layered 
+on as “tiers” above a minimum, broadly relevant baseline. 
+o Leverage context of use-based approaches for higher risk scenarios. Targeted, high-risk 
+focused approaches often invo lve more stringent, and thus more costly, security 
+requirements and conformity assessment methods. Context of use -based approaches 
+allow users (including governments, critical infrastructure or essential service providers, 
+enterprises, and consumers), which are well positioned to understand their risk appetite 
+for different scenarios, to make decisions about where to invest in higher assurance and 
+higher-cost products – without impacting the mar ket entry or growth of ICT providers 
+that target use scenarios with relatively lower assurance needs. 
+Improving the security and resilience of digital products and services 
+23 
+ 
+o Understand goals and potentially persistent gaps  in addressing higher risk scenarios or 
+technologies (e.g., beyond product or service requirements, effective deployment of ICT 
+associated with higher risk may require security maturity on the user side). 
+• Enable agility and interoperability. Requirements that focus on desired processes or outcomes—
+rather than prescribing specific implementations —are resilient to emerging technologies, 
+dynamic threats, and architecture variations. Leveraging existing best practices and standards to 
+align requirements and confor mance verification methods to the greatest extent practicable 
+globally and across sectors allows for ef ficient reuse of certifications and related artifacts or 
+evidence. Engaging with industry and other stakeholders in a transparent, inclusive, and iterative 
+process of developing requirements and conformance verification methods will strengthen 
+understanding of potential implementation challenges and promote interoperability and clear 
+expectations from the outset, helping to enable sufficient ICT provider and operator agility.  
+o Consider how conformance with requirements might need to be demonstrated as 
+requirements are developed in industry consultations , enabling ICT developers and 
+operators to provide input on potential challenges and understand expectations. 
+• Calibrate and adapt verification methods . Today, costs and infrastructure challenges impact 
+readiness for and effectiveness of certain methods of conformity assessment, including third -
+party certifications. Risk management goals and costs must be balanced to apply appropriate 
+methods in different circumstances. Going forward, investments in both workforce initiatives and 
+innovative technology solutions, such as Supply Chain Integrity, Transparency and Trust (SCITT), 
+which enables the trusted exchange of verifiable supply chain artifacts, could enhance 
+conformance verification options and cybersecurity transparency. 
+o Adjust conformance verification methods in accordance with scope and requirements  
+and in consideration of ri sk management goals , anticipated ecosystem costs , and 
+infrastructure readiness. Enable agility and access to products or services with enhanced 
+cybersecurity by focusing assessments on security  processes rather than requiring re -
+assessment of continuously updated products and services. 

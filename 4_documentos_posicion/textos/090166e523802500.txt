@@ -1,0 +1,281 @@
+13 October 2025 
+ 1 (6) 
+ 
+ 
+© Inter IKEA Systems B.V. 2025 
+ 
+Digital Omnibus – Key Asks and Recommendations 
+Inter IKEA Group 
+1) AI Act and high-risk requirements 
+Do not delay high-risk obligations 
+Ask: Keep high-risk requirements on track. If a delay is unavoidable, apply obligations first to providers, 
+especially VLOPs, with deployer obligations phased in later. 
+Why: We see a growing number of voices calling for a general “stop the clock” for the AI Act, but we 
+believe this would slow our internal transformation and increase vulnerability for deployers of digital 
+technologies. High-risk safeguards are important because they give deployers like us the authority to 
+refuse non-compliant tools and create predictable quality signals from vendors. If delay is unavoidable, 
+obligations should first apply to providers, especially large platforms and VLOPs, with deployer 
+obligations phased in later and lighter rules for SMEs. This sets the bar upstream, reduces downstream 
+assessment costs, and encourages vendors to invest in conformity and documentation before placing 
+systems on the market. This is especially important in the absence of specific AI liability requirements. 
+Mandatory vendor declarations 
+Ask: Require vendors to declare when a product qualifies as an AI system, its risk classification and 
+material model facts, including when AI is added via software feature updates. Declarations should be 
+machine readable and referenceable in contracts and procurement portals. 
+Why: We are not always informed when an AI capability is introduced. For example, HR tools we procure 
+have received updates that added AI functionality without explicit notice. Today there is an overreliance 
+on the deployer reading technical documentation to classify a tool. A mandatory, standardised 
+declaration would create one source of truth and reduce the risk of missed classifications. 
+Human oversight 
+Ask: Define what counts as effective human oversight for deployers and the expected competence or 
+training for staff who perform it, including role profiles, independence requirements, escalation paths 
+and documentation minimums. 
+Why: Clear baselines enable consistent staffing, training and auditability across business units. Without 
+concrete expectations, oversight risks becoming a checkbox exercise rather than reliable risk control. 
+Record-keeping and event logs 
+Ask: Clarify what deployers must log under Article 12, including events to capture, retention periods and 
+acceptable formats. Provide templates that cover model version, configuration, data inputs, output 
+rationale, human interventions and outcomes. 
+Why: Current provisions focus on providers. Deployer clarity is needed to select tools, size storage and 
+design processes. Interoperable, template-based logs would enable audits and incident investigations 
+without custom solutions in each team and company. 
+Fundamental Rights Impact Assessments (FRIAs) 
+Ask: Define clear triggers and methodology for FRIA, provide templates and examples, and explain how 
+FRIA relates to GDPR DPIA, and other HRIA’s including when a single assessment can cover both. 
+Why: Overlaps create uncertainty and duplication efforts. A trigger list and a FRIA–DPIA crosswalk would 
+let companies plan assessments early in the lifecycle and avoid overcompliance. 
+Data quality requirements 
+Ask: Provide practical criteria and best practice examples for data quality in high-risk systems. Clarify 
+which obligations sit with providers, integrators and deployers, and when providers must supply model 
+and dataset documentation. 
+Ref. Ares(2025)8696087 - 13/10/2025
+
+13 October 2025 
+ 2 (6) 
+ 
+ 
+© Inter IKEA Systems B.V. 2025 
+ 
+Why: Vague wording leaves accountability unclear for deployers and leads to inconsistent controls. Clear 
+criteria help deployers test fitness for purpose, and they incentivise providers to be more transparent. 
+Clarification of overlaps with adjacent regulation 
+Ask: Clarify how the AI Act interacts with machine safety, accessibility, product liability, corporate 
+sustainability, labour and platform work frameworks, and provide a mapping of precedents. 
+Why: A harmonised mapping avoids double reporting and conflicting instructions, and lets companies 
+reuse test reports, sustainability reports and assurance across regimes. 
+Content authenticity 
+Ask: Fast track the adoption of European labelling systems of AI-generated content and disclosure when 
+people interact with AI systems. Endorse embedded metadata standards, such as C2PA, and encourage 
+interoperable labelling for images, audio, video, and text. 
+Why: A harmonised approach avoids a patchwork of incompatible labels and reduces implementation 
+cost. We are developing an internal approach to label AI-generated content, but an EU-endorsed 
+standard would reduce rework and ensure our labels are recognised across the digital ecosystem. 
+AI literacy guidance 
+Ask: Provide practical literacy guidance with examples and templates for training, oversight and 
+prohibited practices, and show best practices from real use cases, divided by sectors. 
+Why: Scaling literacy requires usable materials, not only principles. When the first literacy obligations 
+under the AI Act appeared there was limited guidance and we had to develop our own programs and 
+seek examples from peers. Standardised materials would accelerate compliant upskilling. 
+On Article 50 
+Section 1  
+Ask: Clarify whether simply naming a system something like “AI” or “GPT” is sufficient to meet the 
+requirement to inform users that they are interacting with AI. 
+Why: While vulnerable groups such as elderly people and children may require more information, for a 
+reasonable adult user, the name itself might be sufficient to ensure compliance with Article 50 (1). 
+Section 3 
+Ask: Provide more clarity and examples of AI systems that are “allowed” for emotion recognition and 
+biometric categorisation. 
+Why: The article references emotion recognition and biometric categorisation systems that differ from 
+those prohibited, but the guidelines released on prohibited systems mainly give examples of banned use 
+cases. It remains unclear which systems fall under the permitted category. 
+Section 5 
+Ask: Clarify whether we should expect similar suggestions for how to present transparency information 
+under Article 50 (clear and distinguishable manner), and whether the codes of practice mentioned in 
+Article 50 (7) will help with it. 
+Why: EU Data Protection Authorities have shared best practices in terms of how cookie banners should 
+effectively and clearly explain data processing and collection to users. We should expect comparable 
+guidance for transparency information under Article 50. 
+ 
+2) Cookies and ePrivacy Directive 
+Consent set once, applied everywhere 
+Ask: Enable consent management at the browser or operating system level and require services to 
+respect these settings, including recognition of global privacy signals. Provide a reference API for services 
+to query consent reliably. 
+13 October 2025 
+ 3 (6) 
+ 
+ 
+© Inter IKEA Systems B.V. 2025 
+ 
+Why: This reduces banner fatigue and the “consent chase” across sites. It also improves accessibility for 
+people who rely on assistive technologies. 
+Risk-based consent 
+Ask: Require explicit consent only for high-risk tracking, for example cross-site profiling, fingerprinting 
+and data sharing with third parties. Permit lighter conditions for low-risk uses, for example first-party 
+analytics with aggregation, retention caps and no sharing. 
+Why: Protection is focused where risks are highest, while low-risk measurement can proceed with 
+proportionate safeguards and transparency. 
+Align ePrivacy with GDPR 
+Ask: Align definitions and legal bases with GDPR, clarify when legitimate interest can be used for low-risk 
+analytics, and reduce duplicate notices. 
+Why: A coherent framework cuts legal uncertainty, reduces double consent prompts and helps 
+companies apply one consistent compliance logic. 
+Consistent rules for cookie banners 
+Ask: Establish an EU-level standard for compliant banners, including equal prominence of “accept” and 
+“reject”, clear categories, and prohibition of manipulative design. Encourage DPAs to apply that standard 
+consistently. 
+Why: Divergent national interpretations lead to repeated redesigns and inconsistent enforcement. A 
+single pattern reduces rework and complaint risk. 
+Cutting compliance costs 
+Ask: Require platforms and major browsers to offer built-in consent and preference tools that services 
+can adopt and recognise these tools under enforcement guidance. 
+Why: Third-party CMP pricing tied to visitor volume increases costs for high-traffic sites without clear 
+user benefit. Built-in options make compliance more predictable and cost-effective. 
+ 
+3) Cybersecurity  
+Incident reporting streamlining 
+Ask: Streamline incident reporting by aligning channels, formats and deadlines across regimes, and 
+encourage a one-stop reporting portal with a standard template. 
+Why: Consolidated reporting reduces duplication for operators subject to multiple obligations and 
+improves the quality and timeliness of information to competent authorities. 
+Align reporting timelines and processes 
+Ask: Align NIS2 reporting with existing GDPR procedures by setting 72 hours as the 
+standard timeframe for notifying a significant incident, and ensure the reporting timeline 
+starts only once an incident has been confirmed as significant 
+Why: The 24-hour early warning creates a parallel process to GDPR and forces teams to 
+report before an incident is properly assessed. This duplicates effort and draws resources 
+away from handling the actual event. 
+Focus reporting on confirmed significant incidents 
+Ask: Limit mandatory reporting to verified significant incidents and remove the 
+requirement to report suspected or attempted intrusions. Refine the rule on recurring 
+incidents so that only clearly linked events with material impact are counted together. 
+Why: Large organisations detect attempted intrusions on a daily basis. Reporting every 
+suspected event would overwhelm both companies and authorities. 
+13 October 2025 
+ 4 (6) 
+ 
+ 
+© Inter IKEA Systems B.V. 2025 
+ 
+Clarify what counts as a significant impact 
+Ask: Provide clear guidance on how to assess when a slowdown or outage qualifies as 
+“limited availability” or “considerably slower than average, ” and standardise how to 
+estimate the number of users affected, including for internal and franchise service 
+models. 
+Why: Current wording is open to interpretation. Clear thresholds would create 
+consistency across Member States and ensure that reporting focuses on genuinely 
+impactful events. 
+Clarify scope and authorities for reporting 
+Ask: Clarify when incidents outside the EU that affect shared corporate networks fall 
+under NIS2, and publish an EU-wide registry of competent authorities and CSIRTs with 
+their sector responsibilities and contact details. 
+Why: Multinational companies operate shared systems across regions. Clear scope and 
+contact points would make reporting more predictable and prevent duplicate work. 
+Publish a timeline for implementing regulations and standards 
+Ask: Provide a clear timeline for the remaining implementing regulations and standards 
+under NIS2, covering all relevant business activities beyond Managed Service Providers. 
+Why: Only one detailed implementation regulation has been issued so far. A predictable 
+timeline would help companies prepare compliance processes in an orderly and cost-
+efficient way. 
+Coordinated requirements across NIS2, CRA and RED delegated acts 
+Ask: Align overlapping obligations on vulnerability handling, incident and breach reporting, and baseline 
+controls, including common thresholds, timelines and taxonomies, and coordinate enforcement dates. 
+Why: Parallel and partly duplicative requirements raise complexity for manufacturers and operators. 
+Alignment reduces duplicate work, especially when multiple frameworks cover the same product or 
+service. 
+Clearer scope and terminology with concrete examples 
+Ask: Provide clear definitions and examples of in-scope products and explain how to interpret “direct” 
+and “indirect” internet connectivity in RED delegated acts, for example devices that connect via a 
+gateway or hub. Clarify treatment of modules and local-only connectivity. 
+Why: Ambiguity drives uneven application and unnecessary cost. Examples like smart lighting, 
+connected home devices and appliances would help manufacturers determine scope consistently. 
+Continuous compliance for updatable products 
+Ask: Provide lifecycle guidance, including in the Blue Guide, for products with frequently updated 
+software, with a distinction between material and non-material updates, reuse of prior assessments and 
+safe-harbour approaches for security patches. 
+Why: Agile updates can otherwise trigger constant reassessment, slowing R&D and increasing cost 
+without proportional security gains. 
+ 
+4) Digital identity and trust services 
+Predictable rollout 
+Ask: Set clear milestones and deadlines for when European Digital Identity Wallets will be available in 
+each member state, including interim readiness gates. 
+Why: Businesses need dependable timelines to plan adoption and integration. 
+13 October 2025 
+ 5 (6) 
+ 
+ 
+© Inter IKEA Systems B.V. 2025 
+ 
+Validation of wallet and trust service providers 
+Ask: Maintain an EU-level register of recognised wallet providers and qualified trust service providers, 
+with transparent status and assurance information. 
+Why: Companies need a reliable way to check compliance status before integration and contracting. 
+Consistent user experience 
+Ask: Provide reference UX flows and implementation patterns, so wallet use is simple and consistent 
+across services and contexts, including retail checkout, delivery and in-store workforce scenarios, with 
+online and offline flows and fallbacks for users without smartphones. 
+Why: A harmonised journey builds familiarity and trust, reduces support needs and accelerates 
+adoption. 
+Supplier assurance 
+Ask: Issue standard contractual clauses and evidence requirements for identity and trust service 
+suppliers, for example breach notification timelines, availability targets, conformity attestations and 
+audit rights. 
+Why: Clear model clauses simplify due diligence, align supplier obligations with corporate governance 
+and reduce negotiation friction. 
+ 
+5) Data acquis (Data Act and Data Governance Act) 
+Overreaching complexity on the Data Act structure 
+Ask: Simplify the structure by clarifying the interplay between the two regimes in the Data Act, namely 
+data holder obligations and data processing obligations, and their overlap with GDPR, the Data 
+Governance Act and the Trade Secrets Directive. 
+Why: The two regimes can overlap, which makes application confusing, for example when an entity is 
+not a data holder yet is still a data processing service provider. Interplay with GDPR, the DGA and Trade 
+Secrets adds to complexity. For instance, a data holder’s sharing obligation may be limited where 
+personal data is involved. Clearer boundaries and examples would improve compliance. 
+Concept of providers of data processing services 
+Ask: Clarify the definition and scope of “providers of data processing services,” and explicitly exclude 
+entities that only facilitate or pass on services, such as franchise systems that redistribute third-party 
+services within a group. 
+Why: Chapter VI applies to providers of data processing services, yet the term “provider” is not defined. 
+It is unclear whether it covers only sellers or fee-based operators, or also facilitators and pass-through 
+models. Without exclusions, entities that merely facilitate could be captured by obligations they are not 
+equipped to fulfil. 
+Clarification of overlaps with adjacent regulation 
+Ask: Clarify how the Data Act and Data Governance Act interacts with corporate and product related 
+sustainability regulations – especially requirements for Digital Product Passport and the vision going 
+forward on how a European Trust Infrastructure, including digital identity services, will enable 
+compliance across multiple regulatory areas. 
+Why: We have received indication from DG ENVI that the Digital Product Passport should be thought of 
+as a ‘mandatory product information data space’ and can therefore be enabled by the data sharing 
+ecosystem, architectures and digital identity services developed by DSSC and CIRPASS. Clarification on 
+what are accepted standards, explicit overlaps in requirement and known EU funded support systems 
+would enable acceleration towards compliance with both digital and sustainability regulations. 
+Concept of providers of data processing services 
+Ask: Clarify the definition and scope of providers of data processing services, ensure alignment with the 
+broad definition of data, and specify what types of services can be subject to data-switching requests. 
+13 October 2025 
+ 6 (6) 
+ 
+ 
+© Inter IKEA Systems B.V. 2025 
+ 
+Why: The term provider is unclear and could capture facilitators that only pass on or redistribute 
+services, such as franchise systems. Clearer boundaries would prevent unintended inclusion and improve 
+predictability for businesses. 
+Switching charges 
+Ask: Amend Article 29 to clarify what is included in switching charges and what costs are excluded. 
+Why: Ambiguity risks inconsistent interpretation across Member States and unpredictable pricing for 
+customers. 
+Definitions and governance 
+Ask: Amend Article 2(12) to specify how multiple users of a connected product are included and their 
+rights allocated and amend Article 2(13) to confirm that data holder covers connected products and 
+related services. Clarify that data holders may use non-personal data to improve products. 
+Why: Current definitions do not reflect multi-user contexts and leave uncertainty over how connected 
+product data may be used for innovation. 
+Supervisory authorities 
+Ask: Clarify how national authorities appointed under Article 37 will coordinate with existing Data 
+Protection Authorities. 
+Why: Overlapping supervision risks inconsistent enforcement and duplicate reporting. Clear division of 
+roles would improve coherence and reduce compliance burden. 
+ 

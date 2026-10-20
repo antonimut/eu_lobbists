@@ -1,0 +1,213 @@
+ 
+        
+       
+35, Square de Meeûs - 1000 BRUSSELS – Tel: +32 (0) 2 895 36 01 - http://www.cocir.org/ 
+Transparency Register: 05366537746-69 - VAT: BE 0478.589.387 
+ 
+ 
+COCIR Response to the European Commission’s Consultation on Digital 
+Omnibus 
+October 2025 
+Introduction 
+COCIR, representing the medical imaging, radiotherapy, health ICT, and 
+electromedical industries, welcomes the opportunity to contribute to the 
+European Commission’s initiative  on the Digital Omnibus Package . We 
+support the EU’s objectives of fostering innovation, ensuring patient safety, 
+and simplifying regulatory frameworks.  Our response focuses on two 
+interrelated areas critical for healthcare innovation:  (1) AI systems in medical 
+devices and in vitro diagnostics, and (2) the effective, secure use of health data 
+across the EU. We strongly support a sector-specific approach for AI-enabled 
+medical technologies , alignment with MDR/IVDR, protection of well-
+established products, structured and interoperable health data, and practical 
+implementation strategies to support both Member States and industry. 
+1. ENSURING A SECTORAL APPROACH FOR AI -ENABLED MEDICAL 
+TECHNOLOGIES 
+Alignment with MDR/IVDR 
+COCIR recommends moving AI systems regulated under MDR and IVDR from 
+Annex I Section A (horizontal high -risk AI) to Section B (sector -specific 
+legislation). This approach: 
+• Avoids duplicate and potentially conflicting obligations between the AI 
+Act and MDR/IVDR. 
+• Recognises that healthcare operates under a robust, risk -based 
+regulatory framework that ensures safety and performance. 
+• Acknowledges that AI medical devices (except certain Class I scenarios) 
+are already subject to third -party conformity assessment, unlike many 
+other high-risk AI products. 
+Ref. Ares(2025)8734295 - 14/10/2025
+
+ 
+        
+       
+35, Square de Meeûs - 1000 BRUSSELS – Tel: +32 (0) 2 895 36 01 - http://www.cocir.org/ 
+Transparency Register: 05366537746-69 - VAT: BE 0478.589.387 
+ 
+Integration of AI requirements in MDR/IVDR 
+We propose embedding relevant high -risk AI requirements, such as human 
+oversight, data governance, logging, directly into Annex I of MDR/IVDR during 
+upcoming revisions or as part of the Digital Omnibus Package. This: 
+• Ensures continuity of safety and compatibility of standards. 
+• Provides legal certainty and operational clarity for manufacturers, 
+regulators, and Notified Bodies. 
+• Leverages existing conformity assessment and market surveillance 
+mechanisms. 
+Postponement and grandfathering 
+To enable effective implementation of a sectoral approach, COCIR supports 
+extending the AI Act application deadline for MDR/IVDR -governed AI systems 
+beyond 2 August 2027. Rather than setting a fixed new date, the timeline should 
+start once key prerequisites are in place: such as the integration of the 
+requirements into MDR/IVDR, designation of Notified Bodies, implementation 
+of the Database, and availability of  harmonised standards and guidance. This 
+avoids premature obligations amid overlapping requirements, limited 
+capacity, and an incomplete regulatory framework. 
+Furthermore, protection of legitimate expectations is essential for devices 
+developed before 1 August 2024. The challenge stems from a lack of alignment 
+between the MDR and the EU AI Act. Unlike the MDR, which includes 
+transitional provisions under Article 120, the AI Act does not offer any form of 
+grandfathering for existing AI systems. Article 111 of the AI Ac t states that, 
+starting August 2, 2027, all high -risk AI systems falling under the New 
+Legislative Framework (NLF) - including those used in medical  devices- must 
+fully comply with the AI Act before they can be placed on the market. The latter 
+is understood as each individual product, not product type. 
+It is not possible to retroactively fulfill certain product development 
+requirements – such as those concerning training, testing, validation, or data 
+retention. Many algorithms were created a decade ago or earlier, at a time 
+ 
+        
+       
+35, Square de Meeûs - 1000 BRUSSELS – Tel: +32 (0) 2 895 36 01 - http://www.cocir.org/ 
+Transparency Register: 05366537746-69 - VAT: BE 0478.589.387 
+ 
+when there were no regulatory obligations to preserve training datasets. Even 
+for newer algorithms integrated into CE-marked medical devices, revisiting and 
+redoing the design and development processes that have already been 
+finalised would demand disproportionate time and financial resources, 
+making such efforts impractical. 
+There’s a significant risk that the availability of certain medical devices – many 
+of which have been safely used for years, if not decades  – could be disrupted 
+after August 2, 2027. Devices with a strong track record of safety and 
+effectiveness, backed by extensive real -world data and post -market 
+performance, may be disproportionately affected by the AI Act’s requirements. 
+This is largely due to the retrospective nature of the compliance obligations. 
+Proposed measures include: 
+• Applying development -related AI Act requirements only to activities 
+initiated after the entry into force of the AI Act. 
+• Alternatively, extending grandfathering until 2 August 2032. 
+These measures ensure continued market access for well -proven devices, 
+respect the principle of legitimate expectation, and address practical 
+challenges such as managing retrospective nature of the development-related 
+compliance obligations. 
+Regulatory simplification and industry collaboration 
+COCIR stresses that regulatory simplification and coherence are essential to 
+competitiveness. Streamlining overlapping frameworks, removing 
+administrative bottlenecks, and engaging with stakeholders  including 
+manufacturers, clinicians, regulators, and Notified Bodies, will ensure AI rules 
+are feasible, proportionate, and compatible with clinical workflows while 
+maintaining patient safety. 
+ 
+ 
+ 
+        
+       
+35, Square de Meeûs - 1000 BRUSSELS – Tel: +32 (0) 2 895 36 01 - http://www.cocir.org/ 
+Transparency Register: 05366537746-69 - VAT: BE 0478.589.387 
+ 
+2. BUILDING A COHERENT EUROPEAN DATA UNION STRATEGY 
+2.1. SUCCESSFUL AND EFFECTIVE IMPLEMENTATION OF THE EUROPEAN 
+HEALTH DATA SPACE (EHDS) 
+Interoperability as a cornerstone 
+Secure and effective data use across the EU, particularly health data, requires 
+interoperability across technical, semantic, and organisational levels. 
+Interoperability: 
+• Supports seamless data exchange and clinical decision -making across 
+systems and borders. 
+• Reduces duplication and ensures continuity of care. 
+• Underpins the safe, secure, and innovative deployment of AI, imaging, 
+diagnostics, and digital therapeutics. 
+The EHDS should serve as the primary framework for health data governance , 
+referencing internationally proven standards such as DICOM, HL7 FHIR, IEEE 
+11073, and IHE profiles , and ensuring coordinated adoption across Member 
+States. 
+Structured data and scope clarity 
+A successful European Data Union requires clear guidance on structured, 
+usable data. COCIR recommends: 
+• Clear definitions and guidance for healthcare professionals on 
+structured data collection and sharing to enable secondary use (e.g., AI 
+training, research). 
+• Guidance should clearly define  structured versus unstructured data , 
+covering imaging, lab results, digital pathology, video, PDFs, and free -
+text notes. Structured data should reference established standards such 
+as CDA, PAS, and similar specifications to ensure interoperability. 
+• Application of reference vocabularies (LOINC, SNOMED CT) and 
+templates for structured data collection to ensure usability and reduce 
+clinician burden. 
+ 
+        
+       
+35, Square de Meeûs - 1000 BRUSSELS – Tel: +32 (0) 2 895 36 01 - http://www.cocir.org/ 
+Transparency Register: 05366537746-69 - VAT: BE 0478.589.387 
+ 
+• In line with the legitimate expectations principle, exclude legacy devices 
+from the scope of data sharing obligations under the Data Act  (i.e., 
+devices placed on the market before applicability date for Art. 3(1))  and 
+recognise product development cycles in the regulation to avoid ad hoc 
+changes to products. 
+• Protection against unintended exposure of sensitive intellectual 
+property or trade secrets during third-party data access. Ensure that data 
+sharing under the Data Act becomes voluntary and at the discretion of 
+the manufacturer. 
+Phased implementation and support for Member States 
+ 
+Effective implementation requires realistic, phased roadmaps that build on 
+existing national infrastructures. COCIR recommends: 
+• EU-level roadmaps and toolkits that clarify scope, use cases, and 
+priorities across domains. 
+• Use of existing IHE profiles and conformance testing frameworks (e.g., 
+IHE Connectathons) to accelerate standardisation and enable testing of 
+interoperability across Member States. 
+• Recognition of differences in technical capacity , digital infrastructure,  
+and regulatory maturity between Member States to avoid uneven 
+deployment and implementation delays. 
+2.2. CONSOLIDATION OF DATA ACQUIS   
+Remove regulatory fragmentation 
+The current EU data legislation landscape (including the EHDS, Data Act, Data 
+Governance Act,  Free-Flow of Non -Personal Data Regulation, Open Data 
+Directive and GDPR ) is complex and potentially fragmented. COCIR stresses 
+the importance of: 
+• Better alignment between EU frameworks and practical implementation 
+in the context of healthcare. 
+ 
+        
+       
+35, Square de Meeûs - 1000 BRUSSELS – Tel: +32 (0) 2 895 36 01 - http://www.cocir.org/ 
+Transparency Register: 05366537746-69 - VAT: BE 0478.589.387 
+ 
+• Harmonisation of cloud portability provisions in the Data Act with the 
+realities of medical devices and EHR systems to avoid compromising 
+data integrity, security, or compliance. 
+• A coordinated EU-level governance model to support international data 
+flows, secondary use, and the secure exchange of sensitive data. 
+Conclusion 
+The Digital Omnibus Package  presents a significant opportunity to reinforce 
+Europe’s digital leadership in health. Realising this potential requires: 
+• A sectoral approach for AI  embedded in medical devices  aligned with 
+MDR/IVDR, including integration of AI requirements, grandfathering for 
+well-established products, and realistic implementation timelines. 
+• Clear scope and structured data definitions, aligned with clinical 
+practice and secondary use needs. 
+• Robust technical frameworks built on international standards, 
+supported by phased, practical implementation tools for Member States 
+and industry. 
+• Coherent regulatory alignment across overlapping EU frameworks to 
+reduce burden and enhance competitiveness. 
+COCIR remains committed to supporting the Commission in these efforts and 
+looks forward to collaborating to ensure a secure, interoperable, and 
+innovative European Data Union. 
+About COCIR 
+COCIR is the European Trade Association representing medical imaging, 
+radiotherapy, health ICT and electromedical industries. Founded in 1959, 
+COCIR is a non -profit association headquartered in Brussels (Belgium) with a 
+China Desk based in Beijing since 2007. We provide a wide range of services on 
+regulatory, techn ical, market intelligence, sustainability, standardisation, 
+international and legal affairs. COCIR is also a founding member of DITTA, the 
+Global Diagnostic Imaging, Healthcare IT and Radiation Th erapy Trade 
+Association. https://www.cocir.org/ 

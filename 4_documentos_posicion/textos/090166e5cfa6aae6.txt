@@ -1,0 +1,133 @@
+                        
+ 
+ 
+1 
+ 
+Annex 2 to the European Commission MiFID Review Questionnaire 
+ 
+ 
+Question 76. Do you consider that pre-trade transparency for commodity derivatives functions 
+well? 
+ 
+☐ 1 - Disagree 
+☒ 2 - Rather not agree  
+☐ 3 - Neutral 
+☐ 4 - Rather agree  
+☐ 5 - Fully agree 
+☐ Don’t know / no opinion / not relevant 
+ 
+If you do not consider that pre -trade transparency for commodity derivatives functions well, 
+please (1) provide examples of markets where the pre-trade transparency regime has constrained 
+the offering of niche instruments or the development of new and/or fast moving markets, and 
+(2) present possible solutions including, where possible, quantitative elements: 
+ 
+We recommend revising both Level 1 and Level 2. Please see our response to Q76.1 for an elaborate 
+context of commodity markets and the implementation of the pre-trade transparency regime. 
+Level 1: We recommend extending the hedging exemption in MiFIR Article 8(1) to cover all market 
+participants manag ing risks arising from activity in the physical market, including financial 
+counterparties, to allow the building of liquidity in the order book to continue, without jeopardising 
+the ability of commodity derivatives markets to fulfil their function. We further propose to extend the 
+so-called “negotiated transaction waiver” for equity instruments (Art. 4 (1) (b) MiFIR) to bilaterally 
+negotiated commodity derivative transactions. This waiver allows trading participants to agree on the 
+price and volume of the trade before transmitting it to the trading platform for clearing. The conditions 
+of the present negotiated transaction waiver need to be adapted to the specifics of the commodity  
+(derivatives) markets and their participants, in particular to allow a sufficient volume of pre-arranged 
+trades to be registered at exchanges for voluntary clearing. 
+Level 2: Such changes should be combined with amendments in RTS 2, removing factors leading to 
+inappropriate thresholds. The current methodology (such as liquidity accumulation across venues) has 
+led to a significant number of niche and nascent products being inappropriately (re -) classified as 
+liquid, thus becoming subject to significantly broader transparency requirements, which were 
+previously reserved for developed markets. We recommend the following amendment: 
+1) Exclusion of price factor from the calculation of IL and LIS thresholds  
+Including price in the calculation of LIS and IL threshold values can lead to misinterpretations and 
+indeed confusion when measuring  liquidity in instruments that are not natively defined in notional 
+value and result in: price movements occurring in the same direction as changes in liquidity exaggerate 
+the liquidity changes; price movements which occur in the opposite direction mute th e change in 
+liquidity; and price movements without a change in liquidity make liquidity appear more volatile than 
+it is. Liquidity should not be measured by using the notional value of transactions. Instead, we 
+recommend that any liquidity analysis is normalised to a base quantity unit that is native to the asset 
+class. For commodities, this will typically be a specific unit of measure (e.g. barrels, tons, MW, etc.). 
+2) Sufficiently high daily number of trades for a market to be liquid  
+Ref. Ares(2020)2722414 - 26/05/2020
+                        
+ 
+ 
+2 
+ 
+For a market to be considered liquid, a sufficiently high number of trades should be executed on each 
+trading day. We recommend setting the threshold should be set at the median of 100 transactions per 
+day instead of the current average of 10. Considering that liquidity is the ability to find a counterparty 
+in a relatively short period of time within a given trading day, a threshold of 100 trades per day 
+represents an average of ca. 1 trade every 5 minutes on an 8-hour trading day. In contrast, a threshold 
+of 10 trades represents just 1.25 trades per hour. For the same reason, a median is proposed as the 
+minimum instead of a mean. The mean is an alternate view of the sum count of trades per year.  
+3) Trade frequency and standard size rather than volume as liquidity indicators  
+Consider two instruments: Instrument 1 is traded once per day for 100,000 units and Instrument 2 is 
+traded 10,000 times per day for 10 units. In both cases, the average volume will be 100,000 units per 
+day. However, it would be very difficult to categorise Instrument 1 as liquid, whereas Instrument 2 is 
+very liquid for trade volumes of approximately 10 units. We recommend measuring both trade 
+frequency and standard size, excluding unrelated vectors such as price and currency, to determine 
+liquidity.  
+4) Counterintuitive effects of a percentile-based approach  
+A percentile-based approach can lead to significant counterintuitive effects. Any approach using a 
+central or percentile-based measure will result in:  
+• A low standard size for the high liquidity instrument;  
+• A high standard size for the low liquidity instrument;  
+• A low LIS for the high liquidity instrument; 
+• A high LIS for the low liquidity instrument. 
+The above results are counterintuitive and imply that the instrument with lower liquidity can support 
+higher LIS levels than the high-liquidity instrument – when in fact the opposite is true. While the low 
+liquidity instrument does typically trade in a higher size, the overall size of this market and trade 
+frequency is dwarfed by the higher liquidity of the market. Therefore, setting a low LIS for high liquidity 
+markets and a high LIS for low liquidity markets based on the standard trade size in either mean, 
+median or mode terms is detrimental for the development of low liquidity markets. There is a clear 
+need for a more tailored approach, or a scaled approach based on variations in distribution.  
+ 
+Question 76.1 Please explain your answer to question 76: 
+ 
+We fully agree with the objectives of MiFID II/MiFIR and the G20 Pittsburg commitments to ‘improve 
+the functioning and transparency of financial and commodity markets and address excessive 
+commodity price volatility’. While we support the aim and implement ation of the pre -trade 
+transparency regime, we believe the current calibration might hamper a substantial increase in 
+commodity contracts traded on exchanges and cleared through central counterparties, hence being 
+subject to a sufficient level of security and transparency.  
+ 
+MiFIR rightly recognises that certain exemptions can be granted to trading venues from the general 
+requirement to publish pre-trade transparency data to preserve orderly price discovery processes and 
+allow illiquid and nascent markets t o develop, but the current shortcomings of the regime have 
+sometimes prevented market participants from moving to transparent and regulated venues and 
+central clearing. However, the current methodology has led to illiquid niche and nascent products 
+being incorrectly classified as liquid, and thus becoming subject to significantly broader transparency 
+                        
+ 
+ 
+3 
+ 
+requirements which were previously reserved for developed markets. The current calculation 
+methods of the LIS and IL markets waiver are based on insufficiently granular sub-asset classes as well 
+as arbitrarily selected parameters, which has resulted in disproportionately low LIS thresholds for 
+highly liquid products and overly high thresholds for illiquid ones. 
+ 
+In summary, the pre-trade transparency regime could better take into account the fact that non-equity 
+markets are fundamentally different from equity markets, and that there are significant differences 
+across the underlying non-equity markets themselves. It is, for example, important to understand that 
+commodity markets have specific characteristics and hence often suffer from a one -size fits all 
+regulatory approach to financial instruments.  
+ 
+Compared to other financial instruments, commodity instruments are often less liquid. In order to 
+achieve execution, trades are concluded outside the regulated venues according to the rules of a 
+specific exchange with immediate clearing at the exchanges’ respective central counterpart (CCP), 
+rather than in a central order book where a satisfactory execution would be l ess likely. This ensures 
+maximum transparency for these nascent markets.  
+ 
+Additionally, commodity markets are – by nature – characterised by a wide range of different contract 
+types, including former swaps, forwards, futures and options with various combi nations of quality, 
+location, delivery type, duration and size. These markets are used by professional investors to hedge 
+risk connected to the production or consumption of an actual commodity, and thus often requires 
+liaison to find a counter party, witho ut incurring undue risk. Trade registration has been and still is a 
+driver behind shifting volumes from OTC to on-venue trading in these markets. 
+ 
+Therefore, against the background of this targeted MiFID II/MiFIR review, we believe that 
+transparency requirements need to be balanced and could benefit from a more tailored approach to 
+commodity markets. In this way, the regime would allow for pre-negotiated trades of the most illiquid 
+and new contracts to be brought to an exchange. 

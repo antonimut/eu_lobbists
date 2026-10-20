@@ -1,0 +1,136 @@
+ 
+ 1 of 3 
+UEG Position Paper on AI 
+ 
+Owing to their rapid development, artificial intelligence (AI) technologies offer great 
+promise for gastroenterology practice and research. At present, AI-guided image 
+interpretation has already been used with success for endoscopic detection of 
+early malignant lesions, assistance during laparoscopic or endoscopic surgery and 
+big-data analysis for individualized therapy. Nonetheless, there are complex 
+challenges and possible shortcomings that must be considered before full 
+implementation can occur. 
+ 
+Main messages  
+ 
+• We welcome the European Commission’s White Paper on AI and the 
+emphasis on the health sector. As an organisation representing the broad field 
+of gastroenterology, we would like to stress that AI represents an opportunity 
+in healthcare not only for big data, but also for a variety of manual tasks. The 
+use of AI in robotic surgery and endoscopy is of particular importance in the 
+field of gastroenterology. 
+Challenges: 
+• To cope with the fast developments of AI and reduce the vast inequalities in 
+the uptake of gastrointestinal robotics, the use of AI and robotics needs to be 
+further trained, taught and certified. Likewise, to guarantee safe and accurate 
+AI-enabled healthcare delivery, it is essential to: 
+- Ensure well-defined standards of human responsibility for task supervision 
+and control. 
+- Ensure the quality of input data, adequately train the AI and categorize 
+information to support clinical decision-making. 
+- Allocate more funding into AI-related research projects. In 
+gastroenterology, automation can significantly improve procedures such 
+as endoscopy, surgery and surgical tasks, as well as simulation in training. 
+It can also prevent errors in robotic surgery, polyp detection and removal. 
+ 
+• In order to avoid regulatory inconsistencies, harmonization is crucial in the 
+interplay between the EU legislation regulating medical devices and the future 
+regulatory framework for AI. 
+ 
+Challenges and opportunities of AI applications in gastroenterology 
+a. Digestive surgery 
+Clinical applications of AI in digestive surgery carry many benefits. Three 
+dimensional views, access in crowded organ spaces and fine range of movements 
+on robotic arms enable healthcare professionals to perform complex procedures 
+with more precision, flexibility and control. Robotic assisted minimally invas ive 
+procedures are often associated with less pain, early hospital discharge and better 
+outcomes.  
+ 
+The use of AI contributes significantly to the improvement of education and 
+training through the opportunities offered by virtual reality training models. 
+Moreover, healthcare analytics and real-life data are also contributing to the 
+Ref. Ares(2021)934162 - 03/02/2021
+ 
+ 2 of 3 
+emergence of new scientific evidence. Nevertheless, the uptake and training of 
+digestive surgeons also represents a challenge. We should therefore make sure 
+that AI technologies are available to wider groups of surgeons to perform 
+operations that are otherwise limited to very experienced clinicians. 
+ 
+Despite the many opportunities that AI holds, the increasing levels of autonomy for 
+surgical robots raises ethical issues which also need to be addressed. In this 
+respect, we emphasize the importance of having well-defined standards for 
+Meaningful Human Control according to the different autonomy levels. This 
+includes notably: well-defined human responsibility for task supervision, informed 
+decision-making procedures and duties’ distribution among involved humans. 1      
+A European regulatory framework could also help to deal with liability issues. 
+ 
+Specific importance must be given to strengthening surgeon-patient trust, 
+implementing feasible clinical and research actions to promote the wellbeing of 
+patients. In order to ensure a high level of trust, it is important to review what 
+amount of information is sufficiently rich and understandable for autonomous 
+patient reflection and decision making. The ownership of patient data should also 
+be addressed. 
+ 
+b. Endoscopy  
+There are several categories of AI systems applicable to endoscopy, with a large 
+spectrum of potentially useful clinical applications, such as improved detection of 
+lesions, differentiation of lesions based on their mucosal or vascular pattern, risk 
+stratification before/during therapy etc. The main advantages of AI-assisted 
+endoscopy are the reduction in workload and greater accuracy.  
+Nonetheless, there are also several challenges yet to be addressed, such as the 
+lack of testing for large-scale clinical applications, standards for patient care 
+guidelines, as well as external validation through randomised trials. Moreover, the 
+true value of AI is based on the input data. Patients are often flooded with diverse, 
+sometimes unqualified and false information. An AI that has been trained with such 
+low quality data should be excluded from medical use. Hence, healthcare 
+professionals need skills to adequately train the AI, understand the main principles 
+underlying any given AI system, and maintain control over it.  
+c. Pathology and imaging 
+Pathology has progressed consistently through the introduction of Digital Image 
+Analysis algorithms, followed by various deep learning models. AI brings 
+significant opportunities for pathology and imaging (ultrasound, CT, MR) similar to 
+those for endoscopy, including cancer diagnosis, quantitative evaluation, 
+personalised diagnosis etc. Likewise, AI can considerably improve non-
+endoscopic applications, such as automated organ segmentation and identification 
+of diffuse liver disease, digestive damage scores and metrics of inflammatory 
+burden in Crohn’s disease, cancer and polyp detection, differential diagnosis of 
+liver and pancreatic lesions etc. 
+ 
+1 Ficuciello F, Tamburrini G, Arezzo A, Villani L, Siciliano B, Autonomy in surgical robots and its 
+meaningful human control, Paladyn, Journal of Behavioral Robotics | Volume 10: Issue 1, DOI: 
+https://doi.org/10.1515/pjbr-2019-0002 
+ 
+ 3 of 3 
+The major barriers are encountered in the quality of input data sets with 
+appropriate annotations and the lack of a robust gold standard against which to 
+train models. Furthermore, there is also a lack of high-quality external validation of 
+AI systems, and impact on patient care or physician decision-making is rarely 
+shown. 
+d. Big data management 
+When treating patients, a plethora of data is generated. In parallel, treatment of 
+almost all digestive diseases is increasingly individualized. Therefore, there is an 
+urgent demand to analyse, harmonize and categorize data to support clinical 
+decision-making, improve internal processes, and promote cross-sectional 
+collaboration.  
+The interaction between electronic health records and patient health records, apps 
+and wearables will be important. Data from patient symptom diaries and 
+wearables can play a significant role in early signalling that a patient may be at 
+risk of their condition worsening (for example, patients with IBD or those 
+undergoing chemotherapy). 
+e. AI and the Medical Devices Regulation (MDR)  
+With increasing numbers of AI-based assistance systems developed for cancer 
+screening and early detection, there is an urgent need for a standardized 
+approach to classifications. We recommend that all AI-based systems for detection 
+of polyps should be classified under the MDR as IIa-products and the AI-based 
+systems used for differentiation of polyps as IIb-products. 
+For future implementations of AI, such as optimization of workflow or assistance in 
+reporting various findings, all new products should be categorized and handled in 
+a uniform manner. 
+f. AI in microbiome-based GI research 
+The use of AI, and in particular of machine learning (ML), brings substantial 
+opportunities for microbiome-based research in GI diseases. Applications include 
+the identification of microbial biomarkers to predict disease risk and to improve 
+diagnosis, prognosis and treatment. In this context, there is a need for high-quality 
+large-scale studies that produce high-quality training and testing datasets, in order 
+to generate robust ML prediction models. Rigorous and standardized ML practices 
+applied to microbiome research will be pivotal. 

@@ -1,0 +1,489 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22nd of April 2021
+ASECAP C-ITS MANIFESTO 
+Ref. Ares(2022)975987 - 10/02/2022
+ 
+ 
+Cooperative intelligent transport, referred to as “C-ITS” hereafter, refers to the exchange 
+of messages between vehicles, infrastructure and other road users, within a common trust 
+domain set out by the “European C-ITS Security Policy” and the “European C-ITS Security 
+Certificate Policy”. C-ITS encompasses a group of applications and services that allow 
+efficient data exchange through wireless communication technologies between 
+components and actors of the intelligent transport system.  
+ 
+A central element of C-ITS is wireless short-range communication, also known as vehicle-
+to-everything (V2X) communication, that enables data exchange between vehicles, 
+infrastructure and other road users and infrastructure. ITS-G5 is the only short-range 
+technology that has been developed under the C-ITS standardisation mandate of the EU 
+to the European Standardisation Organisations, in a technologically open environment. 
+The hybrid approach of complementing C-ITS short-range with long-range 
+communication is specified by C-ROADS. It has been harmonised in Europe, successfully 
+piloted and deployed in several Member States. Important services related to road safety 
+and traffic efficiency, such as road works warning, hazardous location notification and in-
+vehicle signage, have thus become reality. The apparent benefits have demonstrated that 
+C-ITS serves a public goal – road safety, traffic management and sustainable transport. 
+ 
+A cooperative intelligent transport system is essential to further improve road safety on 
+Europe’s roads, through providing instant and low latency communication to prevent 
+accidents. It is an enabler for energy-efficient driving, such as speed recommendations, 
+green light optimal speed advice, electric charging spot notifications etc. It also supports 
+higher levels of vehicle automation, e.g. where a low latency data exchange amongst 
+infrastructure and vehicles is necessary. The existing security framework also ensures all 
+C-ITS actors can trust each other. 
+ 
+  
+ 
+ 
+Page | 2 
+ 
+ASECAP believes: 
+ 
+- that C-ITS will make a major contribution to Europe’s “Vision Zero” reducing Europe’s 
+road fatalities to near zero by 2050. 
+ 
+- that C-ITS will contribute to collaborative traffic management, C-ITS based congestion 
+management and energy-efficient driving, which reduces the external cost of roads, 
+fuel consumption and their CO2 footprint. 
+ 
+- that no charge or operating costs should be paid by users for C-ITS that serves road 
+safety.  
+ 
+- that C-ITS should protect the fundamental right to privacy and comply with Europe’s 
+General Data Protection Regulation (GDPR). Compliance is not merely a technical 
+question, but rather a question of governance and accountability. 
+ 
+- that higher levels of automation on Europe’s roads can only be achieved with the V2I, 
+I2V and V2V communication C-ITS establishes between vehicles amongst themselves, 
+vulnerable road users and road operators. It is hence an important element for 
+Europe’s economic development. 
+ 
+- that C-ITS has to work seamlessly across national borders, across different vehicle 
+brands, across different chip-set manufacturers, across different road operators and 
+across different generations of communication protocols and chip-sets. This is the only 
+way for C-ITS to comply with the principles of “interoperability” and “backward 
+compatibility”. 
+ 
+- that C-ITS participants have to trust each other. Europe has a unique security system 
+to establish trust. This is the principle of “security”. 
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 3 
+ 
+- that currently ITS-G5, a variant of the globally very successful WLAN standard, is the 
+only low latency short-range technology that is mature enough and suited for 
+deploying C-ITS in Europe; future technologies need to be evaluated according to their 
+maturity and interoperability as to already deployed systems, as well as according to 
+the cost of introducing the technology, including royalties for standard-essential 
+patents. 
+ 
+- that any short-range technology suitable for C-ITS should be backwards compatible 
+and interoperable with ITS-G5, use the same security and be able to co-exist with 
+European road charging systems, without causing harmful interference.  
+ 
+- that ASECAP Protected Zone Data Base (PZDB) is at the core of mitigation techniques 
+to ensure that Europe’s road charging systems can co-exist with C-ITS and other radio 
+applications. ASECAP urges its wider use. 
+ 
+- that a dedicated C-ITS roadside infrastructure including C-ITS equipped trailers and 
+road operator vehicles creates huge benefits for resilience of critical infrastructure 
+while being independent of mobile cellular networks. The investment in such 
+infrastructure, if not covered by road tolls or by the provisions of concession contracts, 
+deserves public funding.  
+ 
+- that EU legislation is necessary to enable C-ITS to unfold its full potential. 
+  
+ 
+ 
+Page | 4 
+ 
+EU Legislation 
+ 
+The EU is pursuing a “Vision Zero” as a road safety goal in its transport policy. “Vision 
+Zero” aims at reducing transport fatalities to zero by 2050, it also aims at reducing serious 
+injuries. Part of the strategy to reach that goal is the ‘safe systems’ approach, creating a 
+road safety environment that “forgives” human mistakes. C-ITS establishes the vital direct 
+link between vehicles themselves, road infrastructure and other road users, that is 
+essential to prevent collisions. C-ITS is part of Europe’s strategy to achieve ‘Vision Zero’. 
+Road safety goals can even be achieved with coverage of the vehicle fleet and does not 
+require full coverage of the road infrastructure. 
+ 
+The ITS Directive, plays a key role for C-ITS to reach its potential. C-ITS is already deployed 
+by major automobile manufacturers and road operators. The regulatory framework to 
+access the market and to broadcast ITS messages is already in place. However, there is 
+currently no legal guarantee ensuring “interoperability”, “backward compatibility” and 
+“security”. This creates uncertainty and the risk of system fragmentation. The ITS Directive 
+provides for the adoption of a delegated act which would guarantee “interoperability”, 
+“backward compatibility” and “security”. A C-ITS delegated act was drafted by the 
+European Commission in 2019 on the legal basis of the ITS Directive and eventually not 
+adopted.  
+ 
+ASECAP notes that market forces have driven towards ITS-G5 deployment, but observes 
+with regret that there is no legally binding framework to ensure interoperability.  
+ 
+ 
+Road Safety  
+ 
+C-ITS already plays a key role in reducing the impact of accidents and will significantly 
+contribute in the future in preventing accidents and reducing their severity. C-ITS has the 
+ability to “see” around corners and hence ideally complements optical vehicle sensors.  
+The US National Transportation Safety Board (NTSB) recommends connecting all vehicles 
+ASECAP believes the revision of ITS Directive constitutes a great opportunity 
+to improve this situation by taking appropriate EU legislative measures to 
+move Europe closer to ‘Vision Zero’, and prepare Europe for higher levels of 
+automation. 
+ 
+ 
+Page | 5 
+ 
+to each-other through a cooperative radio technology that complements vehicle sensors. 
+The European voluntary car safety performance assessment programme (Euro NCAP) is 
+an independent body that assesses vehicle safety and endorsed the road safety benefits 
+of C-ITS. 
+ 
+C-ITS aims at improving the safety of road workers on motorways. In 2019, more than 360 
+accidents involving motorway service personnel and collided materials happened on 
+ASECAP concession motorways in Austria, Denmark, France, Greece, Portugal and Turkey. 
+Complementing existing work safety measures and specialised personal devices could be 
+deployed to deliver warnings to workers and vehicles and complement the safety benefits 
+of C-ITS equipped safety trailers, which are already available today.  New C-ITS equipped 
+vehicles can immediately be alerted by those trailers. 
+ 
+The Weights & Dimensions Directive, amongst other goals, aims at improving road safety 
+by easing weight control enforcement. Overloaded heavy goods vehicles constitute a 
+serious risk to other road users, due to longer stopping distances and wear on brakes, as 
+well as roads and bridges. Heavy goods vehicles that are equipped with on-board 
+weighing equipment can be controlled remotely. C-ITS is used to ensure interoperable 
+communication between trucks and trailers. 
+ 
+ 
+The European standardised ITS-G5 communication is currently the only technology that 
+meets the road safety requirements of C-ITS. C-ITS operates in an open technological 
+environment where technologies need to be interoperable and backward compatible to 
+ensure continuity with existing systems, as long as they fall within the C-ITS trust 
+environment and prove non-interference with the EU’s electronic road charging systems. 
+ 
+ 
+ 
+ 
+ 
+  
+ASECAP members see great potential in C-ITS to further improve the health and 
+safety for road users and workers on road works sites. 
+ 
+ 
+Page | 6 
+ 
+De-carbonisation 
+ 
+A variety of studies indicates that reducing congestion and creating a smooth traffic flow 
+reduces fuel consumption and hence reduces CO2 emissions and air pollution. The 
+methodologies and accordingly the projections of these studies vary so far, they all 
+indicate varying degrees of improvement. C-ITS allows road operators to monitor traffic 
+and keep its flow and hence to improve safety, as well as to reduce carbon emissions and 
+external costs, such as air pollution, on motorways. Traffic management has an impact 
+independently of vehicle category and yields immediate effects. It complements 
+electronic road charging systems in the quest to make Europe’s road transport more 
+sustainable. 
+ 
+ 
+Road Maintenance 
+ 
+C-ITS can be used for sustainable road maintenance. The goal is that road damage 
+prediction system, based on ITS and C-ITS data, which calculates and displays probabilities 
+of road damages and their prioritisation based on the pre-recorded data using novel 
+algorithms and machine learning methods increase the life-time for roads. The latter are 
+also used to identify objects automatically and to classify them according to the degree 
+of damage and save them in a database. C-ITS recommendation messages can then lead 
+to distribute vehicles based on the road status. The data can also be used to control 
+repairs and document actual/target analysis comparisons and serve as evidence for road 
+damage. The data platform serves as the basis for future research and measures and 
+enable sustainable, efficient, resource-saving preservation of the road infrastructure.  
+ 
+ASECAP is convinced of the de-carbonisation potential of C-ITS and of its 
+positive impact on the reduction of external costs of road transport. 
+Furthermore, C-ITS has an instant impact and foster decarbonisation 
+achievements on the medium-term, via measures such as new propulsion of 
+cleaner vehicles. 
+ 
+ 
+Page | 7 
+ 
+ 
+Autonomous driving 
+ 
+C-ITS will play a role of paramount importance for the deployment of autonomous driving. 
+The US National Transportation Safety Board (NTSB) issued in 2017 its highway accident 
+report of a collision between a car with automated control systems and a trailer truck in 
+Florida. In this report, the NTSB analysed an accident in which a vehicle was using SAE 
+category 2 traffic aware cruise control and a lane keeping system. The systems were using 
+data that the vehicle gathered using its own sensors. The NTSB recommended that 
+vehicles should be able to communicate directly with each other to complement data 
+gathered by the individual vehicles. 
+ 
+ 
+European Electronic Tolling protection 
+ 
+Europe is currently operating microwave technology to implement European transport 
+policy: the European applicable DSRC standards that run on the 5.8 GHz frequency band. 
+This technology is used most notably for the electronic collection of road charges, the 
+enforcement of drive and rest times for drivers of heavy goods vehicles and for protecting 
+motorists from overloaded heavy good vehicles. Around 90 000 km of roads are being 
+charged electronically. They use microwave technology either to determine the toll 
+sections a vehicle has passed by or to check and enforce tolling in satellite-based tolling 
+systems. There are over 30 million pieces of on-board equipment in circulation. The DSRC 
+ASECAP believes that C-ITS improves road maintenance and allows to maintain 
+it at a lower cost thanks to its predictive capacities. Europe’s motorway 
+network is mature. Maintenance and efficiency improvements will in most 
+regions take priority over infrastructure expansion. C-ITS will give motorway 
+operators the analytical instruments necessary to improve efficiency in terms 
+of traffic flow and sustainability. 
+ASECAP agrees with the NTSB and believes that autonomous driving requires 
+C-ITS. C-ITS further is essential for progressing into higher levels of vehicle 
+automation and hence plays a role for road safety and is key from an industry 
+policy perspective. ASECAP believes that infrastructure plays an essential role 
+in the I2V and V2I environment. 
+ 
+ 
+Page | 8 
+ 
+standards are used to implement the Interoperability Directive and the European 
+Electronic Toll Service.  
+ 
+DSRC technology is also used within the digital tachograph. The respective regulation 
+provides that the digital tachograph that is used to protect motorists from tired or drowsy 
+truck drivers and that it will need to be enforced remotely. This remote screening of the 
+tachograph is done using microwave technology as foreseen in this regulation. 
+Furthermore, the Weights & Dimensions Directive also enables the remote enforcement 
+of vehicle weight control via a DSRC microwave link.  
+ 
+Any communication service deployed on Europe’s roads has to prove its compatibility 
+with applicable DSRC standards to ensure the implementation of the “user pays” and the 
+“polluter pays” principles and to protect the lives of European motorists and the rights of 
+the drivers of trucks and buses. 
+ 
+ 
+Technology environment 
+ 
+ITS-G5 will become part of the wider digital communication environment that includes 
+5G and future WLAN or cellular communication systems. Communication technologies 
+will provide a hybrid environment combining short-range communication environment 
+and cellular long-range communication. A technological evolution will be developed and 
+it will consider the life cycles of vehicles and roads and has to be interoperable and 
+backward compatible with technologies already in place, in order to ensure the 
+ASECAP believes that 5.8 GHz DSRC standards for road tolling, smart tachograph, 
+weight and dimensions ensure the implementation of EU transport policy and 
+urges EU institutions and EU Member States to protect the 5.8 GHz frequency 
+band from radio interference and so protect the safety and quality of Europe’s 
+motorways in the framework of the Interoperability Directive and the EETS 
+Decision. 
+C-ITS has to co-exist with road charging, enforcing drive and rest time or vehicle 
+weight. Any connectivity deployed along Europe’s motorways has to prove, via 
+specific tests, that it is able to co-exist with for road tolling, smart tachograph, 
+weight and dimensions. 
+ 
+ 
+Page | 9 
+ 
+continuous functioning of C-ITS and work under the same security policy. As regards the 
+use of direct short-range communication technologies, the upper part of the harmonised 
+5.9 GHz ITS band (5915-5925 MHz) is recommended for early implementation over the 
+corridor in order to avoid co-channel and adjacent channel interference to and from other 
+ITS technologies. In any case, road tolling, smart tachograph, weight and dimensions 
+applications must be protected. Any technology that meets these requirements and is 
+compatible with Europe’s electronic road charging systems can become part of C-ITS. C-
+ITS fits into connectivity environments, such as 5G and future cellular and WLAN 
+generations. 
+ 
+ 
+ITS-G5 is geared towards automotive OEM and road operators: the long product cycles 
+are fully accounted for and the system is enabled to slowly phase in new use cases and 
+services, in step with the gradual renewal of the vehicle fleet or road networks. The 
+technology comes without any additional costs for vehicles equipped with the chip sets. 
+It is a successful technology export. 
+ 
+C-ITS has to match the requirements of road operators, this includes the business model 
+as well as the technical requirements. Road operators focus on services for road users. 
+ASECAP expects that the communication environment will evolve, and it should always be 
+able to transport C-ITS messages in-line with the requirements mentioned above. 
+ 
+ 
+  
+ASECAP calls for future C-ITS technologies taking into account incumbent 
+technology deployed by Europe’s road operators and automotive OEM. ASECAP 
+believes that the interoperable C-ITS system is a unique opportunity for 
+European industry and the European Digital Single Market. 
+ASECAP members have proven to be able to make C-ITS work. We have 
+examples of systems thriving ITS-G5 and long-range cellular communication 
+together.  
+ 
+ 
+Page | 10 
+ 
+Security 
+ 
+Europe has a Security Policy and a Certificate Policy for deployment and operation of C-
+ITS. The European Commission, in close consultation with EU Member State security 
+experts and the automotive industry and road operators, elaborated both documents. 
+They are implemented under the auspices of the European Commission’s Joint Research 
+Centre. The C-ITS security system is unique in the way that it is agreed and it is being 
+deployed. It will be a key part of Europe’s future digital landscape and its significance will 
+go beyond merely road transport. 
+ 
+ 
+Patent litigation-free environment 
+ 
+In January 2020, the German Federal Ministry for Economic Affairs and Energy published 
+the “Fact finding study on patents declared to the 5G standard”. Amongst its conclusions, 
+the study points to the large volume of standard-essential patents in the field of 5G and 
+raises legal questions on the pricing of the licensing of these patents. Previously, a study 
+on “Patents and standards in the auto industry” indicated that thousands of standard-
+essential patents cover cellular technology while only a few hundred cover ITS-G5.  
+ 
+The DG competition should make sure that patent holders do not hinder competition 
+within the internal market by refusing to license their technologies or by imposing 
+abusively high royalties.  
+ 
+  
+ASECAP believes that this agreed security system makes Europe a leader in the 
+field of C-ITS. It is a piece of key security infrastructure that many European 
+industry actors can benefit from and needs to be recognised as a key asset 
+Europe has in the field of connectivity.  
+ 
+ 
+Page | 11 
+ 
+Indeed, the number of patents covering 5G technologies raises concerns in ASECAP:  
+1.) Road safety is a public good and hence should be delivered in the most cost-efficient 
+manner; 
+2.) a large amount of standard essential patents in specific technology are likely to lead 
+to patent- litigations involving implementers and integrators; 
+3.) roads are strategic infrastructure, a large volume of the standard essential patents is 
+held by non-EU companies. This aspect deserves analysis. 
+ 
+ 
+Road safety, as well as sustainable road transport, are key responsibilities borne by road 
+operators. They are public goods that yield positive externalities for society and the 
+economy overall. Road operators are happy to share data for this purpose and make it 
+available to third parties to allow them to contribute to these shared goals. In return, road 
+operators expect to receive minimum road safety-related data from third parties free of 
+charge. We believe that as service providers accept 112 emergency calls free of any charge, 
+data exchange between road operators and service providers should run free of charges 
+or fees for end users, in order to save lives. 
+ 
+ 
+  
+ASECAP believes that technology for C-ITS should not hold any risk of patent 
+litigation. Road operators have a special responsibility not to provide their 
+services via highly patented technology. High royalties lead to a knock-on effect 
+on the final users. Money invested in roads should flow into their construction 
+and maintenance rather than into royalties and litigation costs. 
+ASECAP believes that data used for road safety has to be exchanged free of 
+charge. Road operators gather their own data and make it available for the 
+purpose of protecting motorists and improving the sustainability of Europe’s 
+motorways. The way we make data available for safety and decarbonisation, 
+we expect to receive it – free of any charge. 
+ 
+ 
+Page | 12 
+ 
+Data Protection 
+ 
+The GDPR provides for a strict protection mechanisms and penalties in order to give 
+control to individuals over their personal data and to simplify the regulatory environment 
+for international business, by harmonising the regulation within the EU. The GDPR sets 
+out principles that controllers and processors of personal data must comply with by 
+establishing appropriate technical and organizational measures: 1.) lawful, fair, 
+transparent data processing; 2.) purpose limitation; 3.) data minimisation; 4.) accuracy; 5.) 
+storage limitation; 6.) accountability ; 7.) integrity and confidentiality. Existing European 
+C-ITS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ASECAP believes that road operators are able to establish appropriate technical 
+and organisation measures ensuring that deployment of C-ITS complies with 
+GDPR.  
+ASECAP believes that processing personal data for road safety purposes is 
+legitimate and proportional.  
+ 
+ 
+Page | 13 
+ 
+About ASECAP:  
+ASECAP is the European Association of Operators of Toll Road Infrastructures across  
+21 member countries representing 142 companies employing more than 50.000 direct 
+jobs and 200.000 indirect jobs. They operate, maintain, manage a network of more than 
+88.000 km with a long-term vision that ensures highest quality standards to make the 
+road infrastructure safest thank to the user/payer principle providing sustainable 
+financing. Road operators play an essential role in service integration and the traffic 
+information provided to end-users. ASECAP focuses  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact persons:  
+Malika Seddi –Secretary General ( m.seddi@asecap.com ) 
+Dimitrios Ioannou – Director ( d.ioannou@asecap.com ) 
+EU transparency register : 76903725494-68 
+ 
+ 
+ 
+ 
+  
+ 
+Siège de l’Association / Head offices - 152 Avenue de Malakoff, 75116 Paris 
+Bureaux Bruxelles / Brussels Offices - Rue Guimard, 15  •  B-1040 Bruxelles 
+ 
+Tel  00 32 2 289 26 20  •  Fax  00 32 2 514 66 28 
+www.asecap.com   •  E-mail:  secretariat@asecap.com 
+  
+ 

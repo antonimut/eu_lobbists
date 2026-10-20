@@ -1,0 +1,159 @@
+ 
+ 
+Emerson’s response to the call for feedback on the Digital 
+Simplification Package 
+Introduction 
+Emerson Electric Co., a global technology and engineering company with significant 
+operations in Europe, including approximately 19,500 staff and 45 manufacturing sites spread 
+across 21 Member States, has reviewed the European Commission’s (Commission) Digital 
+Package on Simplification, and welcomes the opportunity to share its views in response to the 
+call for feedback. 
+Emerson welcomes the Commission’s proposals to reduce the regulatory burden on 
+businesses and eliminate overlaps between the artificial intelligence, cybersecurity and data 
+requirements applicable to critical operators across existing digital legislation.  
+That said, Emerson considers that the Digital Package on Simplification would benefit from 
+introducing further measures to facilitate compliance with digital legislation. In particular, the 
+requirements across the legislative framework should be proportion ate and sufficiently clear 
+such that critical operators are able to fulfil their obligations, thereby strengthening the overall 
+resilience of the digital ecosystem.  
+Emerson therefore makes the following proposals to modify the Digital Simplification Package 
+across three main areas: 
+• Cyber: while finding the proposal to set a single entry -point for incident reporting 
+commendable, further legal clarity as to the definitions of incidents and thresholds for 
+reporting is needed. The overlap of applicable regulations and therefore different 
+authorities that will process the information also needs to be addressed. 
+• Artificial Intelligence (AI):  calibration of disclosures is necessary to avoid 
+overreporting under the AI Act and providing clarity on definitions. The Digital 
+Simplification Package should provide for a further partial pause on the obligations 
+applicable to providers of high -risk AI systems, as necessary, until harmonised 
+standards and sufficiently clear guidance are available to businesses to meet their 
+obligations.  
+• Data: the requirement under the Data Act for data service providers to facilitate the 
+transfer of user data to third parties should be clarified and further guidance provided 
+to mitigate the disproportionate burden this may have on providers where complex 
+data transfers are involved. 
+Ref. Ares(2026)1945877 - 20/02/2026
+
+ 
+1. Cyber 
+We commend the Commission’s ambition to introduce a single entry-point process for incident 
+reporting and help align the requirements that organizations may have to comply with (non -
+exhaustively under NIS2, CRA, GDPR, DORA and the Network Code on Cybersecu rity 
+(NCCS)). However, we believe that some challenges remain unaddressed or do not provide 
+for sufficient legal clarity i.e., for aspects like the applicable country of main establishment, 
+type of authority that should receive the notification, and reporting process and nature of the 
+provided information. Specifically, we would like to share the following views: 
+• Emerson is supportive of aligning reporting obligations through the single entry -point 
+for incident reporting (SEPIR) and harmonised reporting framework through 
+standardised reporting templates, thresholds and timelines. 
+• However, the simplification package has not addressed the inconsistent terminology 
+around thresholds of reportable incidents under NIS2, CRA and AI Act – which creates 
+a burden for businesses. Further alignment would benefit businesses. Divergences 
+under the Member States’ transposition of NIS2 alone may lead to reporting difficulties.  
+For example, whilst NIS2 provides criteria for an incident to be considered “significant” 
+under Art. 23(3), certain Member States, like Italy, have issued more stringent criteria, 
+which increase the reporting burden for businesses and may result in inconsistent 
+communications between organizations and the authorities.  
+• As an example of the concerns expressed above, the overlap between NIS2 and CRA 
+reporting remains partially unaddressed, as Paragraph 1 hints that SEPIR shall be built 
+‘without prejudice’ to the CRA Single Reporting Platform, therefore implying that the 
+CRA will keep its own reporting mechanism. However, another provision dictates that 
+if a product manufacturer notifies an incident through SEPIR to comply with its 
+reporting obligations under Article 14(3) of the CRA, it shall be deemed that the 
+manufacturer has also carried out its obligations under Article 23(4) of NIS2. We 
+believe that the Digital Simplification Package would benefit from introducing a system 
+where a real one-stop shop reporting process can cover the compliance requirements 
+under NIS2, CRA, GDPR, AI Act and NCCS alike.  
+• In addition, it is important to note that the reporting of Digital Infrastructure providers to 
+the country of main establishment as defined under NIS 2 has not been fully replicated 
+in either the CRA or the AI Act. Consequently, even large organizations with extensive 
+operations in Europe may face challenges in complying with reporting obligations that 
+could potentially require multiple reporting. We would also invite the Commission to 
+reflect on introducing a one -stop-shop process for the oversight of the conformity 
+assessment obligations under the CRA. 
+• Finally, we would call to clarify support periods under the CRA for different licensing 
+arrangements, as well as hardware products manufactured serially in the industrial 
+space. In addition, defining the support required for a model of product where a 
+particular unit is out of support will help to clarify expectations. 
+ 
+2. AI 
+Emerson welcomes the Commission’s proposal to partially pause implementation of the 
+obligations under the AI Act for providers of high-risk AI systems pending the availability of the 
+relevant harmonised standards. Such standards are essential for businesses to have sufficient 
+clarity on the requirements they must meet to ensure compliance with their obligations under 
+the AI Act.  
+Notwithstanding the above, the AI Act raises several concerns which have not been addressed 
+by the Digital Package on Simplification.  
+In particular, Emerson retains the following concerns raised in its response to the 
+Commission’s call for evidence: 
+• Disproportionate disclosures: providers of high-risk AI systems remain concerned that 
+the requirement for broad disclosures, such as algorithms and related data processing 
+details, may compromise commercial confidentiality and increase security risks.  
+• Interpretation of definitions: several definitions under the AI Act remain open to 
+misinterpretation. For instance, the “provider” is considered to be the person/ entity 
+that develops/ places an AI system on the market, and the “deployer” is the one using 
+it professionally. However, modifications, re-branding, or substantial changes to an AI 
+system can shift liability a nd make a deployer a provider, which is likely to create 
+disputes as to who must perform pre -market duties.  Furthermore, other definitions 
+such as “AI system” and “safety component” in Article 3 of the Act are so broad and 
+ambiguous that they make it difficult for many organizations to fully understand if their 
+AI applications are truly deemed “high risk”. 
+In addition, Emerson provides the following further recommendations: 
+• Timely issue of harmonised standards and guidance: Emerson would welcome the 
+issue of these documents as soon as possible to give high -risk AI providers clarity on 
+their obligations. Their availability has already been significantly delayed. Emerson 
+submits that the Digital Simplification Package should make provision for further 
+pausing implementation of the obligations on high -risk AI systems, as necessary, to 
+account for additional  delays. Given that non -compliance under the AI Act carries 
+financial pena lties, it is imperative that businesses have sufficient clarity on their 
+obligations and adequate time to prepare to meet them. 
+• Documentation Requirements for AI Classification Assessment: the Commission 
+should clarify whether the AI Act obliges providers and deployers to make an 
+assessment that their AI system or use case does not fall under a high -risk 
+category. If required, the Commission should clarify how (and if) a provider or deployer 
+should internally document this assessment. Given the significant penalties for 
+misclassification and the ambiguity in the definitions of “high -risk” systems, clear 
+guidance o n the documentation  standards and evidentiary requirements for such 
+assessments is essential to enable businesses to demonstrate compliance with their 
+classification obligations under the AI Act. 
+• Clarification on hybrid systems combining AI and non-AI components: the Commission 
+clarified in its Guidelines on the definition of an artificial intelligence system established 
+ 
+by Regulation (EU) 2024/1689 (AI Act) ( the " Guidelines") that certain categories of 
+system that have the capacity to infer in a narrow manner may still fall outside of the 
+scope of the AI system definition. However, guidance is still required with respect to 
+hybrid systems that combine AI and non-AI components. In particular, the Commission 
+should address: (i) how to assess systems where AI is integrated with traditional 
+software; (ii) the circumstances under which an AI component becomes material 
+enough to trigger AI Act obligations for the whole system; and (iii) whether providers 
+can treat AI and non-AI modules separately for compliance purposes. 
+• Industry-Specific Application Guidance: Emerson would welcome guidance on how the 
+AI Act applies to industrial automation and process control providers of AI systems 
+used in the manufacturing, energy, and critical infrastructure sectors, including how 
+safety-critical control systems should be evaluated under the framework of the AI Act. 
+Emerson urges the Commission to address these concerns in the guidance promised by the 
+Digital Package on Simplification on the application of the AI Act to high-risk AI providers.  
+3. Data 
+Emerson is committed to fostering an open and competitive cloud market. It welcomes the 
+Commission’s proposal in the Digital Package on Simplification to facilitate customer switching 
+between data service providers by introducing lighter regimes for certai n providers to reduce 
+the administrative burden under the Data Act.  
+Whilst Emerson supports the Data Act’s aim to enable user access to their data, data service 
+providers are concerned by the requirement under Article 5(1) to facilitate data access to third 
+parties at the user’s request. For critical infrastructure providers, such as Emerson, protecting 
+the security of user data is paramount and should not be compromised when data is 
+transferred. Critical operators will need to invest a significant amount of time and resources 
+not only to build the necessary technical inter faces for each transfer but also to ensure that 
+the process is sufficiently robust to maintain data security. Further in order to ensure that no 
+confidential business information is transferred to competitors, critical operators may have to 
+take additional  measures to ensure sensitive proprietary information exposed in their 
+processing of the user’s data is stripped or sufficiently anonymised before transfer to a third 
+party.  In light of the above, Emerson would welcome further guidance in the Digital 
+Simplification Package on the application of this provision where facilitating user access and 
+data sharing would place a disproportionate burden on businesses.  
+Conclusion 
+We hope that the above comments will be useful as the Commission’s Digital Package on 
+Simplification is negotiated and finalised. We look forward to further engagement and 
+providing support to help fulfil the Digital Simplification Package’s aim for digital legislation that 
+aligns with the ‘better regulation’ principles. 
+ 

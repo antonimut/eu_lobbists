@@ -1,0 +1,1297 @@
+Water Research 187 (2020) 116423 
+Contents lists available at ScienceDirect 
+Water Research 
+journal homepage: www.elsevier.com/locate/watres 
+Water Cycle and Circular Economy: Developing a Circularity 
+Assessment Framework for Complex Water Systems 
+C.E. Nika a , V. Vasilaki a , A. Expósito b , E. Katsou a , ∗
+a Department of Civil & Environmental Engineering, Institute of Environment, Health and Societies, Brunel University London, Uxbridge Campus, Middlesex, 
+UB8 3PH, Uxbridge, UK 
+b Department of Economic Analysis and Political Economy, University of Sevilla, 41018 Sevilla, Spain 
+a r t i c l e i n f o 
+Article history: 
+Received 12 June 2020 
+Revised 11 September 2020 
+Accepted 12 September 2020 
+Available online 19 September 2020 
+Keywords: 
+Circularity Assessment Framework 
+Water System 
+Ecosystem Services 
+Human and Nature Managed Systems 
+Circularity Performance Indicators 
+a b s t r a c t 
+Water –t h e most vital resource, negatively affected by the linear pattern of growth – still tries to ﬁnd its 
+positioning within the emerging concept of circular economy. Fragmented, sectorial circularity approaches 
+hide the risk of underestimating both the preservation of and impacts to water resources and natu- 
+ral capital. In this study, a game changing circularity assessment framework is developed (i.e. MSWCA). 
+The MSWCA follows a multi-sectoral systems approach, symbiotically managing key water-related socio- 
+economic (i.e. urban water, agro-food, energy, industry and waste handling) and non-economic (i.e. nat- 
+ural environment) sectors. The MSWCA modelling framework enables the investigation of the feedback 
+loops between the nature-managed and human-managed systems to assess water and water-related re- 
+sources circularity. The three CE principles lie at the core of the developed framework, enabling the con- 
+sideration of physical, technical, environmental and economic aspects. An indicators database is further 
+developed, including all the relevant data requirements, as well as existing and newly developed indi- 
+cators assessing multi-sectoral systems’ circularity. The MSWCA framework is conceptually applied to a 
+ﬁctional city, facilitating its understanding and practical use. 
+©2 0 2 0 The Authors. Published by Elsevier Ltd. 
+This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ) 
+1. Introduction 
+Water in the environment follows a natural circular model that 
+secures water resources by regulating water ﬂow and ensuring wa- 
+ter quality. However, in human-managed systems that follow a 
+linear model of economic growth, water is successively qualita- 
+tively degraded after use, becoming unﬁt for further use both by 
+humans and ecosystems ( Stuchtey, 2015 ). To decouple economic 
+growth and development from imprudent resource consumption, 
+the alternative model of Circular Economy (CE) is been promoted 
+aiming to achieve resource eﬃciency, to reduce waste produc- 
+tion and to improve environmental, economic and social sustain- 
+ability ( European Commission, 2015 ). To stimulate CE uptake, wa- 
+ter, phosphorous and metals have been identiﬁed by Hislop and 
+Hill (2011) as key priority resources. 
+Beyond its necessary preservation, water is a carrier of energy 
+and materials. The most obvious connection between water and 
+CE is seen in the transition of wastewater treatment plants to 
+resource recovery facilities, motivating the recovery and valoriza- 
+∗ Corresponding author. Tel: + 44 (0)1895 265721 
+E-mail address: evina.katsou@brunel.ac.uk (E. Katsou). 
+tion of treated wastewater, materials (e.g. nutrients, organic matter, 
+etc.) and energy eﬃciency ( Zhijun and Nailing, 2007 ; Sgroi et al., 
+2018 ; Voulvoulis et al., 2018 ). Other non-conventional approaches 
+that could enhance resources circularity are the use of alternative 
+water sources (e.g. rainwater and stormwater harvesting, etc.), the 
+decentralized sanitation and reuse model and the ecological sanita- 
+tion model ( Abu-Ghunmi et al., 2016 ). However, fragmented man- 
+agement and implementation of such models is unlikely to result 
+to desired outcomes from a CE perspective. A more holistic wa- 
+ter circularity approach is proposed by ﬁve corporate bodies (i.e. 
+McKinsey & Company, International Water Association, Arup, An- 
+tea Group and Ellen MacArthur Foundation) in three white papers 
+(i.e. Stuchtey, 2015 ; IWA, 2016 ; Arup et al., 2018 ). The authors have 
+identiﬁed the need for an integrated water management approach 
+from local to river basin, encompassing different sectors (i.e. sys- 
+tems approach), differentiating between water functionalities (i.e. 
+resource, consumable, durable) to enable reuse and recycling, sym- 
+biotically managing resources (i.e. water, materials and energy) and 
+considering the multiple interactions between “nature-managed”
+and “human-managed systems”. Three CE principles were devel- 
+oped and adapted to sustainable water management –i . e . Regen- 
+erate Natural Capital, Keep Resources in Use, and Designing out 
+https://doi.org/10.1016/j.watres.2020.116423 
+0043-1354/© 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ) 
+Ref. Ares(2021)4881283 - 30/07/2021
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+Waste Externalities –i n an effort to create a common basis for the 
+development of a CE framework for water ( Arup et al., 2018 ). The 
+“Regenerate Natural Capital” principle aims to ensure functional 
+environmental ﬂows and stocks, the “Keep Resources in Use” prin- 
+ciple focuses on closing the resource loops, and the “Design Out 
+Waste Externalities” principle targets at the economically eﬃcient 
+reduction of waste ( Nika et al., 2020 ). 
+However, such an integrated approach would require to over- 
+come existing barriers. Integrated water management requires ap- 
+plication of integrated models enabling systematic analyses to in- 
+vestigate interconnections, synergies and antagonisms between the 
+different sectors and resources ( Villarroel Walker and Beck, 2012 ), 
+as well as the feedback loops between the technosphere and the 
+biosphere. Integrated management and modelling further indicate 
+the need for data sharing, availability and security ( Ludwig et al., 
+2014 ). Moreover, successful implementation of CE in water requires 
+innovations promoted through a social and institutional context, as 
+well as the establishment of appropriate regulations and standards 
+( Heshmati, 2015 ). Although in many cases innovative technologies 
+are already available (e.g. resource recovery from wastewater), hin- 
+dered CE implementation is attributed to the lack of planning and 
+design methodology capable to identify the most appropriate solu- 
+tions, tailored to individual cases ( van der Hoek et al., 2016 ). Diﬃ- 
+culties have been also identiﬁed in valuing environmental beneﬁts 
+against economic costs, as well as the relationship between envi- 
+ronmental practices and corporate competitiveness and proﬁts in 
+an effort to ﬁnd the right incentives for companies to implement 
+CE ( Sartal et al., 2020 ). The latter becomes more challenging for 
+water valuation as current water pricing policies do not account 
+for external costs (i.e. externalities) related to economic, social and 
+environmental aspects ( Greyson, 2007 ; Hislop and Hill, 2011 ). 
+In this study, a comprehensive analysis of water within the con- 
+cept of CE is being conducted in an effort to address current chal- 
+lenges through the development of a game changing circularity as- 
+sessment framework. The proposed Multi-Sectoral Water Circular- 
+ity Assessment (MSWCA) framework follows a multi-sectoral ap- 
+proach, focusing on both economic and non-economic (i.e. ecosys- 
+tems) sectors and symbiotically managing multiple resources. It 
+reveals the complex interconnections and interdependencies be- 
+tween the different sectors. In this work, the term sector is used 
+to group the resource-oriented activities of an area that support 
+the economy and have a direct or indirect impact to water re- 
+sources. The MSWCA applies integration of models and approaches 
+for circularity assessment in line with the three CE principles, cov- 
+ering physical, technical, environmental and economic aspects. An 
+indicator database has been developed as part of the framework, 
+allowing data circulation and enabling comparability of different 
+systems. A qualitative showcase of the MSWCA framework in a ﬁc- 
+tional case study is also presented in this work, allowing a better 
+understanding of its implementation and use. 
+2. Water Circularity 
+2.1. Water in the centre of CE 
+Naturally, the hydrological cycle is inﬂuenced by weather, cli- 
+mate and physical characteristics of the area (i.e. land and soil 
+formations, vegetation and geology), meaning that land use/land 
+cover (LULC) and climate changes signiﬁcantly impact the hydro- 
+logical cycle ( Ma et al., 2008 ). A disrupted hydrological cycle di- 
+rectly affects ecosystems, species and therefore biodiversity, which 
+in turn is critical to water and nutrients cycling ( Lange et al., 2019 ). 
+Hydrological cycle alterations are further induced by water with- 
+drawals resulted from the various socio-economic activities; e.g. 
+agriculture accounts for 69% of the global water withdrawals, in- 
+dustries for 19% and municipalities for 12% ( FAO, 2016 ). Addition- 
+ally, water with degraded quality that is returned to the basin (i.e. 
+qualitative withdrawals) may result in substantial chemical and bi- 
+ological consequences to human health, ecosystems and biodiver- 
+sity ( Davis et al., 2016 ), but also to amenity and economic activ- 
+ity. Fig. 1 illustrates the interdependencies between the different 
+socio-economic and non-economic (i.e. natural environment) sec- 
+tors. 
+The feedback loops – occurring in the naturally interconnected 
+system –s h o w that any change has an inevitable effect to all 
+the different components of the system (i.e. the ripple effect) 
+( Everard, 2004 ). Thus, water is the ultimate systems challenge. 
+Although this ripple effect is increasingly acknowledged in vari- 
+ous cases, water management is still fragmented ( Everard et al., 
+2016 ). Socio-economic sectors are artiﬁcially divided with water 
+being managed at sectoral level (and seldom at river basin level) 
+and considered as an isolated component of the ecosystem. An ex- 
+ample of the ripple effect caused by sectoral management can be 
+seen in China’s policy to address food security by achieving self- 
+suﬃciency of 95% that resulted in irreversible depletion of water 
+resources and in increased stresses to ecosystems and biodiversity 
+( Ghose, 2014 ). 
+The transition to a holistic and integrated water management 
+at river basin scale was the rational of the European Water Frame- 
+work Directive 20 0 0/60/EC (WFD), which in spite its initial recog- 
+nition as a ground-breaking environmental directive, failed to 
+achieve the initial targets. The failure is attributed to the lack of 
+effort s towards the implementation of the systemic approach man- 
+dated by the Directive ( Voulvoulis et al., 2017 ). The systemic ap- 
+proach appears as a prerequisite for CE ( EMF, 2013 ), raising con- 
+cerns of ampliﬁed risks and not reaching the expected results to 
+water resources, ecosystems and biodiversity in case that effort s 
+are concentrated in sectoral rather than integrated management. 
+In this context, the development of a holistic circularity as- 
+sessment framework is required that would enable and support a 
+strategic circular water management approach. The MSWCA frame- 
+work is encompassing both socio-economic (i.e. water, energy, 
+agro-food, other related industry and waste handling) and non- 
+economic (i.e. ecosystems) sectors, to overcome the issue of frag- 
+mented water management. 
+2.2. Circularity Prerequisites 
+The effective implementation of circularity involves the identi- 
+ﬁcation of clear circularity pathways, e.g. water circularity focuses 
+on using the right water from multiple water sources (i.e. surface 
+and groundwater, desalinated water, industrial brine and wastew- 
+ater, rainwater and stormwater, greywater and blackwater) for the 
+right purpose to the right users in a synergetic combination of cen- 
+tralised and decentralised water systems. Such approach implies 
+the application of different water functionalities ( Stuchtey, 2015 ) 
+that enable a targeted and effective multi-sourcing, recycling and 
+reuse of water. However, in many cases, the circular models do not 
+ﬁt as the arisen challenges are not technical but rather policy re- 
+lated, leading to diﬃculties to make a step change. Therefore, the 
+actual implementation of water functionalities requires the estab- 
+lishment of water quality standards and appropriate policies and 
+regulations at both the centralized and decentralized levels, sup- 
+porting the concept of water circularity. 
+Circularity performance assessment additionally requires the 
+speciﬁcation of clear circularity targets, presented as CE principles 
+by Arup et al. (2018) , i.e. Regeneration of Natural Capital, Keep Re- 
+sources in Use , and Design out Waste Externalities . The CE principles 
+indicate the consideration of environmental, technical, physical and 
+economic aspects in the assessment, as well as the symbiotic man- 
+agement of water-related materials and energy. The World Forum 
+on Natural Capital deﬁnes natural capital as “the world’s stocks of 
+2 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+Fig. 1. Multi-sectoral process diagram illustrating the interdependencies between the different sectors and the natural environment in terms of water and other resources. 
+natural assets, which include geology, soil, air, water and all liv- 
+ing things”. The Natural capital principle aims to ensure functional 
+environmental ﬂows and stocks. “Keep resources in use” CE prin- 
+ciple targets the reduction of extraction/abstraction of natural re- 
+sources and minimization of waste generation by closing the wa- 
+ter, water-related materials and energy loops within the system. 
+The ‘Design out Waste Externalities’ principle targets the reduction 
+of negative externalities by turning them into positive outcomes. 
+Externalities can be both positive (e.g. monetary value attributed 
+to clean water, biodiversity etc.) or negative (e.g. monetary value 
+attributed to pollution) and result from producing or consuming 
+a good or service. Any kind of waste and/or emissions (solid, liq- 
+uid, gaseous) potentially causes environmental impacts translated 
+to negative externalities. Thus, waste reduction and reuse result in 
+reduction of negative externalities and in potential increase of pos- 
+itive externalities. 
+The MSWCA framework enables the incorporation of the three 
+principles to holistically assess the target system. 
+2.3. Symbiotic Management of Resources and Dynamic Interactions 
+Water feedback loops and the associated ripple effect require 
+the implementation of systems approach by using multi-sectoral 
+analysis. However, water can be seen not only as a resource but 
+also as a carrier, both in the human-managed and nature-managed 
+systems; e.g. nutrients are diluted in water, thus their transport, 
+fate and natural cycling is controlled to a high extent by water, 
+while in the human-managed systems various substances (includ- 
+ing nutrients, minerals, metals and other) are concentrated in used 
+water, which can be seen either as a cause of pollution or as an 
+opportunity for resource (other than water) recovery, valorisation 
+and reuse. Energy embodied in water can also be recovered and 
+used. 
+Holistic multi-sectoral assessment implies the simultaneous in- 
+vestigation and management of multiple resources (i.e. water, en- 
+ergy, nutrients and other materials) as they ﬂow through the dif- 
+ferent socio-economic and non-economic sectors. However, symbi- 
+otic management of resources at multi-sectoral systems increases 
+the complexity of managing supply and demand, due to numerous 
+supply and value chains; more complicated and dynamic interac- 
+tions and incorporated processes between them; and various envi- 
+ronmental, economic, social and regulative aspects. 
+To adequately describe the behaviour of the system and en- 
+able the circularity assessment, covering all different aspects, in- 
+tegration of methods, models and metrics is required ( Nika et al., 
+2020 ). The intrinsic purpose of circularity is to reduce the amount 
+of resources used by increasing their recirculation and reuse (i.e. 
+closing the resources loops), which indicates the need for quan- 
+tiﬁcation ( Saidani et al., 2019 ). Therefore, Material Flow Analy- 
+sis (MFA) and Substance Flow Analysis (SFA) are widely used to 
+assess circularity ( Pauliuk, 2018 ; Moraga et al., 2019 ). They sys- 
+tematically quantify the ﬂows and stocks of materials in systems, 
+differentiating between ﬂows of goods (e.g. drinking water) and 
+ﬂows of substances contained within these goods (e.g. nitrogen) 
+( Pivnenko et al., 2016 ). On the other hand, the effects resulted by 
+closing the resources loops (i.e. consequential circularity) need to 
+3 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+be investigated as well, which has led to an increased use of LCA- 
+based methods to assess this aspect ( Saidani et al., 2019 ). While 
+MFA can be applied at different levels of sophistication enabling its 
+use in complex systems, LCA generally neglects the feedback loops 
+between the anthroposphere and the biosphere ( Weidema et al., 
+2018 ) hindering its use in complex systems where interactions be- 
+tween socio-economic and ecological systems are of major impor- 
+tance. Feedback loops are observed at different time scales, re- 
+sulting from “fast” (i.e. occurring over days and years) and “slow”
+(i.e. occurring over decades and centuries) processes ( Ward et al., 
+2019 ). A “fast” process is water withdrawal or crop yield, while a 
+“slow” process is change in biodiversity. Consequential circularity 
+is therefore suggested to be assessed by coupling natural and hu- 
+man system models in an effort to investigate and predict complex 
+system behaviour, emerging from non-linearities, time lags and un- 
+expected results caused by feedback loops. Natural system mod- 
+els are referred here as numerical models to simulate the natural 
+system’s behaviour and dynamics. Nika et al. (2020) presented a 
+variety of hydrologic and biogeochemical models to simulate wa- 
+ter and nutrients (or solutes) transport, fate and cycling. Other 
+types of natural system models including ecological models, such 
+as modelling of biodiversity change, or water quality models, etc. 
+also exist and may be required to be coupled. On the other hand, 
+human system models vary from analytical tools –s u c h as MFA 
+and LCA –a n d more complex agent-based models to capture hu- 
+man system’s dynamics by incorporating market processes, human 
+decision making and behaviour. 
+Integrated modelling or nexus approaches to deal with inter- 
+disciplinary issues emerging from CE and water-related concepts 
+(e.g. Sponge City) or even from water management are increas- 
+ingly acknowledged in the recent literature. For example, available 
+tools investigating interlinkages between different sectors are sug- 
+gested to be used as city circularity tools in the review paper of 
+Paiho et al. (2020) . However, the reviewed tools mainly focus on 
+the socio-economic sectors, while natural environment is underes- 
+timated by not being an integral part of the analysis. On the other 
+hand, Nguyen et al. (2020) incorporate ecosystem services in the 
+developed integrated assessment framework but as the focus is on 
+Sponge Cities, it lacks models or approaches targeted at assess- 
+ing circularity in human-managed systems. Li et al. (2018) devel- 
+oped a watershed modelling framework to “represent the coevo- 
+lution of the water-land-air-plant-human nexus in a watershed”, 
+but the investigation of circularity is again out of the scope of this 
+study. 
+Working towards the direction of integrated approaches, the 
+MSWCA framework allows the assessment of multi-sectoral sys- 
+tems characterized by interdependencies and feedback loops. 
+It suggests the integration of MFA, LCA and economic models 
+for the socio-economic sectors (i.e. human system), and hydro- 
+biogeochemical model(s) and ecological indicators/modelling for 
+the natural/biophysical system to investigate the natural system’s 
+dynamics and behaviour, within a single modelling framework. 
+However, the purpose of the developed framework is not to specify 
+the exact models (both the number and the modelling software) 
+to be used, but rather to recommend concepts and modelling ap- 
+proaches that are required for a multi-sectoral systems assessment. 
+There is not a unique combination of models and tools, as the most 
+appropriate natural and human system models are case-speciﬁc. 
+For example, if natural ecosystems (such as forest) form a ma- 
+jor component of the studied system, then biogeochemical models, 
+considering macropore ﬂow of phosphorus, may be more appro- 
+priate compared to the studied system in which agriculture plays a 
+major role with conventionally tilled soils where macropore ﬂow is 
+less pronounced ( Pferdmenges et al., 2020 ). Additionally, the num- 
+ber of the models and tools to be coupled should be decided with 
+cautious. The higher the number of coupled models and tools, the 
+higher the complexity of the integrated model is, impeding its ap- 
+plication. 
+Therefore, the MSWCA framework considers the interconnec- 
+tions between the different sectors in terms of water, energy, nu- 
+trients and other substances/materials ﬂows and enables the in- 
+corporation of feedback loops –i n terms of physical responses and 
+not human behaviour – between the different socio-economic sec- 
+tors and between the anthroposphere and biosphere as well. More 
+complex agent-based modelling that investigates the human sys- 
+tem’s dynamics can be coupled to the integrated model at a later 
+stage (if necessary). 
+2.4. Common Baseline for Data Requirements 
+The effectiveness of integrated water management depends on 
+accurate information resulted from a holistic assessment; while the 
+effectiveness of the assessment framework depends on securing 
+access to accurate data from different sources ( Fig. 2 ). Collection, 
+Fig. 2. Data requirements for building the puzzle. 
+4 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+standardization, homogenization and exploitation of the multiple 
+heterogeneous and fragmented data sources that are required for a 
+holistic multisector circularity assessment is not trivial. 
+Historical data are conventionally collected for different pur- 
+poses from diverse disciplines following various methodologies and 
+structure resulting in inconsistent forms, resolution and terminol- 
+ogy. Water data are currently trapped in silos, rising issues of data 
+accessibility, ownership, trust, interorganizational-competition, se- 
+curity and privacy for data-sharing among the interested parties. 
+In many cases, there is also a lack of consensus on relevant data 
+needed to feed the frameworks, resulting from different philoso- 
+phies in data importance. Regarding environmental data related to 
+nature-managed systems, there is a two-tier data regime. There are 
+ﬁelds with very good protocols and metadata (e.g. weather and cli- 
+mate), whereas there are ﬁelds that are underdeveloped in terms 
+of data requirements and reporting (e.g. nutrients cycling, ecosys- 
+tem services, etc.). Therefore, decision-makers are often hindered 
+to compare management options, make informed decisions balanc- 
+ing economic, social and environmental interests, and subsequently 
+evaluate and prioritize potential solutions. 
+To overcome this bottleneck, common data policies, data man- 
+agement infrastructures and shared data systems are required be- 
+tween public and private decision-makers, stakeholders and prac- 
+titioners. Therefore, an indicators database, including every data 
+instance required for a holistic approach, is developed within the 
+MSWCA framework. 
+2.5. Data Gathering and Models Uncertainty 
+There are several levels of uncertainty associated with the mod- 
+elling process, from the input data (i.e. quality, reliability, data pro- 
+cessing protocols) to the model or sub-models structure (i.e. con- 
+ceptualization inaccuracies, omission of signiﬁcant mechanisms, ill- 
+deﬁned boundary conditions) and the linkage between different 
+water-subsystems or between human sectors and the natural en- 
+vironment (i.e. gaps in knowledge on the interactions between 
+human–natural systems and their boundaries, issues with the inte- 
+gration of fast and slow process dynamics between natural and hu- 
+man systems). The robust quantiﬁcation of uncertainties and risks 
+of the model outputs increases the predictability and practicability 
+of the model and helps decision makers to develop an understand- 
+ing of the reliability and impact of the uncertainties on the model 
+estimations. 
+The complexity of an integrated circular water management as- 
+sessment model increases with the increase of sectors and com- 
+ponents (i.e. agro-food, energy, waste, natural capital). Mapping 
+of the uncertainty sources, their magnitude and their relation- 
+ships is a signiﬁcant step in the analysis ( Uusitalo et al., 2015 ). 
+The holistic model should consider uncertainties from the dif- 
+ferent water sub-systems modeled and uncertainties due to the 
+coupling of the sub-systems ( Tscheikner-Gratl et al., 2019 ). How- 
+ever, there are differences in the perception of uncertainties across 
+the environmental modelling and integrated water modelling com- 
+munity and across the different water sectors and a standard- 
+ized methodological approach to identify, quantify, reduce, report 
+and communicate uncertainties is still missing ( Bach et al., 2014 ; 
+Montanari, 2007 ; Vanrolleghem et al., 2011 ). An overview on un- 
+certainty sources for the integrated water modelling can be found 
+in the study of Tscheikner-Gratl et al. (2019) , whereas a practi- 
+cal approach for the quantiﬁcation of uncertainty in integrated 
+water models is proposed by Tscheikner-Gratl et al. (2017) . Five 
+generic steps have been identiﬁed for handling uncertainties in 
+Integrated Environmental Models (IEMs) incorporating ecosystem 
+services ( Baustert et al. (2018) ): 1) location, 2) identiﬁcation, 3) 
+characterization, 4) treatment and 5) communication of the uncer- 
+tainties in a cyclic and iterative process. Techniques commonly ap- 
+plied in each of these steps are also discussed. 
+In the current work, the following techniques are suggested 
+to be implemented for the assessment, reduction and control of 
+uncertainties ( Li et al., 2018 ): i) application of a data-model fu- 
+sion and data assimilation framework to integrate heterogenous 
+data into the required spatial and temporal dynamics and con- 
+strain the used water models ( Keenan et al., 2011 ; Li et al., 2018 ; 
+Liu and Gupta, 2007 ), ii) application of multi-objective and mul- 
+tivariate calibration techniques to reduce the bias of the model 
+( Rouholahnejad et al., 2012 ; Zhang et al., 2013 ) and iii) implemen- 
+tation of global sensitivity analysis in which the variation range 
+of all input parameters is considered simultaneously; the contri- 
+bution of input parameters to the total model error is assessed for 
+the entire range space of the input parameter ( Borgonovo and Plis- 
+chke, 2016 ; Gan et al., 2014 ; Sarrazin et al., 2016 ) 
+It is also suggested to expand the boundaries of the uncer- 
+tainty assessment beyond the calibration/validation and uncer- 
+tainty assessment phases. Uncertainties can be located, identiﬁed 
+and mapped during the model conceptualization stage consider- 
+ing the model goal and scope, the model structure and required 
+parameters (considering acceptable uncertainty ranges while ac- 
+counting related risks). Speciﬁc consideration is required for the 
+eﬃcient and standardized communication of the uncertainties to 
+the relevant stakeholders Baustert et al. (2018) . 
+2.6. Valorisation of Resources and Market Analysis 
+The Principle No. 4 of the Dublin Statement on Water and Sus- 
+tainable Development (International Conference on Water and the 
+Environment, organized by the United Nations; Dublin, Ireland, 
+January 1992) highlights that “not recognizing the economic value 
+of water generally leads to wasteful and environmentally damaging 
+uses of the resource. Managing water as an economic good is an 
+important way of achieving eﬃcient and equitable use, and of en- 
+couraging conservation and protection of water resources”. There- 
+fore, value “of water” and “in water” is included in the MSWCA 
+framework, revealing and assessing the economic aspects of the CE 
+principles: Design Out Waste Externalities (e.g., optimization of wa- 
+ter resources use through suﬃcient and correct valuation of wa- 
+ter); Keep Resources in Use (e.g., optimization of resource yields ob- 
+tained from water –e n e r g y , nutrients, minerals and chemicals –
+and water reuse); Regenerate Natural Capital (e.g., correct valuation 
+of natural capital through non-market methods, such as pollution 
+prevention, natural capital restoration, etc.). 
+2.6.1. Value of Water 
+In order to adequately value water, different types of uses in 
+market and non-market sectors must be characterized. Water as an 
+economic good in market sectors, can be considered as an interme- 
+diate or a consumption good. Intermediate goods are employed to 
+make ﬁnal products (e.g., agriculture, industry), while consumption 
+goods provide direct human satisfaction (e.g., water used by house- 
+holds). In the case of intermediate goods, the economic theory 
+of a proﬁt-maximizing producer provides the conceptual valuation 
+framework, while in the case of consumption goods the theory of 
+the utility-maximizing consumer is used ( Young and Loomis, 2014 ; 
+Spellman, 2015 ). As with any other environmental resource, eco- 
+nomic value is measured by the aggregation of many users’ re- 
+vealed preference or willingness to pay (W TP). W TP is straight- 
+forward elicited in the case of market prices, since prices set by 
+market equilibrium show the WTP by the buyer at the margin. 
+Similarly, for non-marketed goods, the WTP elicitation constitutes 
+the theoretical basis to calculate “shadow prices”. The theoretical 
+foundations of nonmarket economic valuation of environmental re- 
+sources are well developed ( Freeman, 2003 ). Since market valua- 
+5 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+tion varies according to spatial, qualitative and temporal attributes, 
+non-market valuation (or ‘shadow pricing’) of water should fol- 
+low similar rules. Economists additionally consider the existence 
+of other non-use values, such as future option, existence and be- 
+quest values, however, the focus of this study is on the economic 
+valuation of use values as an instrument to consider in circularity 
+assessment. 
+The conventional demand or marginal beneﬁt function is the 
+concept measured in economic valuation approaches. For sectors 
+such as agriculture (i.e., irrigation), industry and households (or 
+residential use), an abstract demand function can be formulated 
+in order to connect water use (demanded quantity) and price, to- 
+gether with other factors inﬂuencing demand (e.g., income, tem- 
+perature). Water services (e.g., provision, urban sanitation and 
+treatment) are generally provided under monopoly (public, pri- 
+vate or both) and prices do not generally change enough to elicit 
+a demand function. In this case, a great amount of observations 
+on transactions is needed in order to have suﬃcient variation in 
+price. Additionally, cross-sectional data from different water ser- 
+vice suppliers in different municipalities or locations may also offer 
+suﬃcient price variation. Under this approach, parameters of de- 
+mand functions can be estimated by using statistical inference and 
+econometric techniques. An alternative valuation approach for sec- 
+tors using water as intermediate good (or service), such as agricul- 
+ture and industry, bases on the residual value. If appropriate prices 
+(as determined by the market) can be assigned to all inputs but 
+one, the remainder of total value of product is imputed to the re- 
+maining or residual input, water. 
+Non-market valuation approaches can be divided into either 
+"revealed preference" or "stated preference" approaches, which are 
+both used to elicit the value of water in different sectors (including 
+the environment) and to economically assess environmental posi- 
+tive and negative externalities from economic sectors affecting wa- 
+ter resources (e.g., ecosystem degradation, water pollution). As in 
+the case of market valuation (based on eliciting a demand function 
+upon observed behavior), these methods also base on observed be- 
+havior of water users. Revealed preference methods rely on ob- 
+servations of actual expenditure choices made by users (revealing 
+their preferences) and approach market valuation by inferring the 
+net WTP upon observed changes in user’s expenditure for different 
+levels of the environmental resource (i.e., quantity, quality). This 
+approach generally uses travel cost, hedonic pricing, and choice 
+modelling methods. Under the assumption of utility maximization, 
+users’ WTP can be inferred upon their revealed preferences. In the 
+case of stated preference, methods base on the simulation of a hy- 
+pothetical (non-existent) market in which respondents (or users) 
+are asked to express WTP for existing or potential environmental 
+features. The deployed methods are choice modelling –i n this case 
+when hypothetical alternatives are ordered by respondents’ prefer- 
+ences –a n d contingent valuation method (CVM). CVMs are based 
+on a survey to a sample of respondents (water users) with the 
+aim to elicit how much money respondents will be willing to pay 
+or willing to accept (WTA) to maintain the existence of (or to be 
+compensated for the loss of) an environmental resource or service. 
+Stated preferences of the surveyed individuals are thus obtained. 
+The proposed MSWCA framework accounts for different 
+methodologies to assess the value of water, since an adequate im- 
+plementation of the CE principles require the use of both, market 
+and non-market valuation methods depending on the considered 
+sector and the service/externality to be valued. Speciﬁcally, market 
+valuation method will be used to estimate demand curves upon 
+available data in the different sectors and nonmarket valuation 
+will be preferably performed based on stated-preference methods, 
+though depending on the speciﬁc case-study, revealed-preference 
+methods could also be adequate. It is worth noting that nonmar- 
+ket valuation faces some potential weaknesses, which need to be 
+considered. Though evidence suggests that stated preference meth- 
+ods are able to provide valid and reliable estimates, a carefully de- 
+signed survey and sampling procedure to gather the required infor- 
+mation are of extreme importance. Hypothetical bias, aggregation 
+bias, moral satisfaction, and scope sensitivity represent some of the 
+main limitations that stated preference methods need to handle 
+( Kahneman and Knetsch, 1992 ; Morrison, 20 0 0 ; Harrison and Rut- 
+ström, 2008 ). In the case of revealed preference methods, though 
+widely accepted by economists as reliable valuation methods, ob- 
+served behaviors do not usually provide all information needed to 
+deliver valid estimates in all cases ( Haab and McConnel, 2002 ). 
+Consequently, the use of both methods is usually recommended 
+when suﬃcient data is available. Additionally, commented limita- 
+tions are more likely to occur in the case of non-use values (which 
+are not the focus of the proposed framework). 
+2.6.2. Value in Water 
+The proposed MSWCA framework takes also into account the 
+value in water. Recoverable materials carried by water and recov- 
+ered energy depend on the water source (e.g., hydrologic system, 
+waste water, reclaimed water), the speciﬁc market needs and reg- 
+ulations, and production process requirements of the system. Val- 
+orization of these resources is straightforward based on market 
+valuation techniques since market prices exist for all these ma- 
+terials/resources. Extraction and conveyance costs should be val- 
+uated. The beneﬁts of resources incorporation (e.g., energy from 
+thermal sources, nitrogen for agricultural uses) can be assessed 
+by Life Cycle Assessment (LCA) approaches, through evaluating the 
+environmental positive impacts achieved by using these reclaimed 
+resources (compared to alternative sources) in all the stages of a 
+product’s life. Additionally, using alternative “in water” resources 
+can provide cost savings in the production process (e.g., energy 
+savings), which can be assessed by Life Cycle Cost (LCC) eco- 
+nomic analysis ( Marín, 2015 ). Environmental beneﬁts, such as re- 
+duction/elimination of negative environmental externalities related 
+to mineral extraction (e.g., water, soil and air pollution), achieved 
+savings in energy power from polluting sources, avoidance of ex- 
+cess nutrient loads in water bodies, etc., can be economically val- 
+ued by non-market approaches, as described in previous section. 
+In this sense, LCC helps to identify and assess circularity measures 
+to be implemented in complex water systems. Although LCC eco- 
+nomic analysis is simple to understand and perform, and helps to 
+assess circularity and resource eﬃciency, it also has some limi- 
+tations. On one hand, it is mainly valid on the micro level (e.g., 
+speciﬁc production processes), where data scarcity and calculation 
+uncertainty may represent relevant limitations. On the other hand, 
+LCC is inadequate for assessing environmental impacts (mainly due 
+to market and information failures), being recommended the use of 
+LCA to complement LCC ( Kambanou and Sakao, 2020 ). In this re- 
+gard, it is worth noting that though LCA might imply higher imple- 
+mentation complexities in terms of inputs and resources needed, 
+studies such as Walker et al. (2018) and Potting et al. (2017) assert 
+that circularity indexes should be supported by LCA approaches. 
+The circularity assessment approach proposed in this study takes 
+into account the use of both analytical approaches, LCA and LCC, 
+with the aim to assess the value in water. 
+2.7. Measuring and Assessing Circularity 
+Circularity assessment involves a complex multi-sectoral sys- 
+tems analysis managing different resources and considering feed- 
+back loops and interdependencies. Such a complicated analysis in- 
+evitably produces complicated results, which require simpliﬁcation 
+in order to facilitate communication and comparison. The use of 
+indicators is a common practice in complex systems to simplify re- 
+sults visualization ( Lu et al., 2019 ). 
+6 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+Fig. 3. The MSWCA framework illustrating the different modelling phases and data ﬂows (within the grey arrow in the middle). 
+In the developed indicators database ( Section 4 ), the selection 
+of appropriate existing and newly developed indicators targets at 
+a holistic evaluation of the three CE principles, i.e. three different 
+sets of indicators, one indicator set per principle. The indicators 
+are further differentiated in data-oriented indicators (i.e. indica- 
+tors provided by stakeholders), information-oriented indicators (i.e. 
+calculated indicators from modelling) for system’s understanding, 
+and action-oriented indicators (i.e. Circularity Performance Indica- 
+tors calculated from modelling) for circularity assessment. Thus, 
+information overload is avoided but at the same time access to 
+information-oriented and data-indicators offer the possibility of 
+understanding underlying factors, processes, or interactions that 
+are linked with circularity. 
+3. The MSWCA framework 
+In this section, the conceptual Multi-Sectoral Water Circularity 
+Assessment (MSWCA) framework is presented, aiming to bridge 
+gaps and synthesise highlighted aspects mentioned in previous 
+sections. The framework ( Fig. 3 ), includes ﬁve distinct phases 
+namely, system development, system synthesis, system analy- 
+sis, assessment and system testing. The main components of 
+MSWCA are MFA, natural systems models and economic valua- 
+tion. Information-oriented and Action-oriented (i.e. Circularity per- 
+formance indicators, CPI) indicators, as well as sensitivity and un- 
+certainty analyses are incorporated into a modelling framework. 
+MSWCA follows a multi-sectoral systems approach similar to the 
+one developed by Villarroel-Walker (2010) . MSWCA considers dif- 
+ferent socio-economic (i.e. urban water, energy, food/agriculture, 
+industry, waste handling) and non-economic (i.e. natural environ- 
+ment) sectors and targets the symbiotic management of resources 
+(i.e. water, energy, nutrients and other materials) as they ﬂow 
+through the different sectors. The modelling approach enables the 
+investigation of the feedback loops between the socio-economic 
+sectors and the environment, as well as of the complex interac- 
+tions between them. Therefore, synergies and antagonisms among 
+the different sectors are revealed and a balance between socio- 
+economic activities and environmental resilience is promoted. The 
+MSWCA is developed in line with the following principles: 
+• To unlock data trapped in silos and overcome data ineﬃciencies 
+by developing an indicators database; 
+• To promote systems approach by assessing multi-sectoral sys- 
+tems incorporating various resources, making natural capital an 
+integral component of systems circularity; 
+• To estimate both the value in and of water by considering both 
+market and non-market sectors; 
+• To holistically assess the circularity performance of multi- 
+sectoral systems –b o t h at systems and sectoral levels – con- 
+sidering sensitivity and uncertainty analyses; and 
+• To evaluate the impact of future interventions to achieve future 
+circularity targets. 
+MSWCA stages include: 
+System development: This phase involves the selection of the 
+multi-sectoral system . All the involved socio-economic sectors are 
+speciﬁed and the system boundaries are expanded to include the 
+physical boundaries of the surrounding natural environment. The 
+sectors include all the relevant unit processes (process diagrams 
+of the selected socio-economic sectors - Fig. 1 ) and consider the 
+ﬂows of the targeted resources (i.e. water, energy, nitrogen, carbon, 
+phosphorus, other materials). The inclusion or not of other mate- 
+rials/resources, such as metals, minerals, cellulose etc. depends on 
+the market needs and the additional industrial sector of interest in 
+order to utilize and valorise the speciﬁc material. 
+The second phase of data acquisition is of major importance 
+as it directly affects the quality, accuracy and precision of the re- 
+7 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+sults. Data acquisition enables the calculation of natural and an- 
+thropogenic ﬂows of resources, therefore general data (e.g. cli- 
+mate, geomorphology, LULC), water, energy, nutrients/other mate- 
+rials uses, soil and water quality, resource recovery, etc. are re- 
+quired. Additionally, the state of certain ecological parameters is 
+required to enable correlation between them and natural resource 
+cycles. Several sources of information may be used to obtain the 
+required data. The source of information is related to the uncer- 
+tainty level of the model and therefore to the sensitivity analysis. 
+In order to form a common baseline for data acquisition related to 
+multi-sectoral systems an indicators database is developed, corre- 
+lating the required data – obtained in terms of required parameters 
+and data-oriented indicators –t o information-oriented and action- 
+oriented indicators for circularity assessment ( Section 4 ). 
+System synthesis: The ﬁrst phase of system synthesis involves 
+the geospatial representation of the studied multi-sectoral system, 
+i.e. land use land cover of the system, including number and type 
+of buildings (in their actual location) and population. 
+The next phase –b u i l t upon the previous one –i s the develop- 
+ment of the integrated model for the multi-sectoral system that in- 
+cludes four modelling components, i.e. the socio-economic sectors, 
+the non-economic sector (i.e. natural environment), their nodes of 
+intersection, and the system as a whole. The socio-economic sec- 
+tors are modelled using MFA based on developed mass balances. 
+The resource ﬂows (i.e. water, nutrients, energy and other mate- 
+rials) required to solve the mass balances are calculated based on 
+available data, consumption and production patterns, mass transfer 
+coeﬃcients and process equations. The establishment of resource 
+patterns, transfer coeﬃcients for each process and the application 
+of different products lifetime functions enable the establishment 
+of dynamic MFA that would facilitate the integration to the natural 
+system models. Computational models can be also used to estimate 
+speciﬁc resource ﬂows or air emissions in case that higher pre- 
+cision is required. The developed resource balances –f o r each of 
+the socio-economic sectors - result in quantiﬁcation of inputs and 
+outputs, waste (including emissions to air, water and soil), accu- 
+mulation, internal resource reuse/recycling and resource/materials 
+to be recirculated to another socio-economic sector. At this stage, 
+the information to be transferred from each socio-economic sec- 
+tor to the others, as well as to the natural environment (i.e. in- 
+put to the natural system model) is speciﬁed. The different socio- 
+economic sectors are interconnected in the model via nodes, in- 
+dicating their physical interactions. The nodes can be simulated 
+using linear, nonlinear and differential equations, thresholds, if- 
+then rules and demand-supply functions, integrating market simu- 
+lation that is based on economic valuation and analysis. The nodes 
+also act as modules performing data mediation (both semantically 
+and structurally interoperable data ﬂows, according to Wang and 
+Grant, 2019 ) to enable data transfer from one model to the other. 
+The complexity of nodes simulation increases signiﬁcantly if com- 
+plex agent-based models (ABM) are integrated that can be used to 
+simulate diffusion of innovation and adoption, changes in policies, 
+individual behaviour, etc. 
+The non-economic sector, i.e. the natural environment, is mod- 
+elled using natural system models and input data resulted from the 
+human system models (e.g. water withdrawals, irrigation water, 
+nutrients inputs, emissions, etc.) and entering the natural system 
+models via the feedback loop nodes. Static data (e.g. soil and man- 
+agement conditions, soil type and formations, hydraulic conditions, 
+etc.), as well as dynamic data (e.g. weather conditions) obtained 
+through data acquisition procedure are also used as model inputs. 
+Hydro-biogeochemical modelling – enabling an integrated investi- 
+gation of water, carbon, nutrient and sediment dynamics –i s sug- 
+gested to simultaneously simulate the water and nutrients trans- 
+port, fate and cycling. Mass transfer is at the core of such models 
+using a series of (differential) constitutive equations based on vari- 
+ous processes (e.g. diffusion, reaction etc.) and their corresponding 
+coeﬃcients (e.g. diffusion or mass transfer coeﬃcients). Forces and 
+ﬂuxes are computed to solve ﬁeld balance equations. Additionally, 
+ecological parameters, such as biodiversity, soil erosion, etc. are in- 
+cluded in the model in the form of indicators. As their relationship 
+with the water and nutrients cycles is not straightforward, statis- 
+tical approaches can be used to investigate correlations. The mod- 
+elling output is mainly the quantiﬁcation and qualiﬁcation of dif- 
+ferent resources ﬂows that re-enter (via the feedback loops nodes) 
+or affect the socio-economic sectors. 
+Integrated modelling is interacting –v i a the nodes –w i t h mar- 
+ket analysis and economic valuation . For the non-economic sector 
+of natural environment, non-market valuation approaches, i.e. re- 
+vealed preference and stated preference methods, are deployed for 
+the economic valuation of water resource. For the socio-economic 
+sectors, the economic valuation targets water as an intermediate 
+good, water as a consumption good, and indirect resources recov- 
+ered from water, using market valuation techniques. For the recov- 
+ered resources, LCA and LCC, physical, chemical, and mechanical 
+properties and regulatory standards are included in the analysis. 
+Therefore, this phase focuses on the elicitation of the value of wa- 
+ter and of recovered resources in the different sectors and on the 
+investigation of positive and negative externalities occurred from 
+the socio-economic sectors, affecting the natural capital. 
+At this stage, the multi-sectoral system’s model is solved and 
+calibrated (see the following section of System testing ) for the year 
+of data acquisition and the identiﬁed indicators are calculated. 
+System analysis: The results of the integrated model are in- 
+terpreted. Graphical representations, ﬂow diagrams, table matrices, 
+etc. are created, enabling the multi-sectoral analysis of the system 
+in terms of holistic performance, synergies, antagonisms, feedback 
+loops and identiﬁcation of hotspots. The system analysis phase is 
+completed with the circularity assessment based on speciﬁc circu- 
+larity metrics (i.e. Circularity Performance Indicators – CPIs). The 
+CPIs consist of a set of whole-of-system and sector-speciﬁc indica- 
+tors and are categorized based on the CE principle that they target, 
+holistically assessing circularity of multi-sectoral systems incorpo- 
+rating various resources. 
+System testing: Activities to identify, characterize, treat and 
+communicate the uncertainties of the MSWCA are dynamic and 
+run in parallel to all MSWCA stages, from the selection of 
+the multi-sectoral system and conceptualization of the modelling 
+study, to the model integration and evaluation of the assessment 
+outputs. In the initial phases of the system development, uncer- 
+tainty sources are mapped (qualitatively or quantitatively) and pri- 
+oritised. Acceptable levels of uncertainty are also deﬁned in this 
+phase. This can help evaluate the system boundaries selected, the 
+completeness of sectors and ﬂows considered in the assessment 
+and guide the data collection (i.e. identify data that will impact 
+signiﬁcantly the assessment output focus effort to improve their 
+quality) and model section processes (i.e. identify the requirements 
+and the temporal and spatial resolution of the models). The uncer- 
+tainties map can be updated during model development . 
+The integration of data and models used in the assessment is 
+an important step in the analysis and needs to follow a systematic 
+data assimilation framework, to combine the heterogenous streams 
+of data with the models accounting for the related uncertainties 
+in a transparent and statistically robust way. During the integrated 
+modelling phase, special attention is required to the calibration 
+techniques followed; the parameters of the model need to be se- 
+lected to maximize the ﬁt of the model with the data. It is sug- 
+gested either to calibrate the integrated model simultaneously (can 
+be computationally expensive) or to calibrate the upstream model 
+(e.g. the natural system model) and gradually integrate and cal- 
+ibrate the downstream modules (e.g. the human system model, 
+etc.). 
+8 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+To investigate how the variability of input conditions and how 
+uncertainties of the inputs and models are translated into uncer- 
+tainties of the integrated model outputs, uncertainty and global 
+sensitivity analyses are performed. The sensitivity analysis indi- 
+cates important parameters that signiﬁcantly affect the reliability 
+of the assessment results. Uncertainty analysis is used to obtain 
+probability distributions, the integrated model outputs and indica- 
+tors based on the probability distributions of the input data. The 
+uncertainty of the model’s output due to the uncertainty in the 
+model’s parameters and other input data is calculated, using a set 
+of uncertainty levels based on the quality, range and the applica- 
+bility of different sources of information. Finally, clear communi- 
+cation of the uncertainties and reliability of the assessment results 
+(in a qualitative and quantitative way) is vital to create trust in the 
+assessment results and support decision making of the pathways 
+to achieve the predeﬁned circularity targets. 
+The ﬁnal phase of MSWCA is the assessment by investigating 
+the attainability of speciﬁc circularity targets, in terms of CPIs. The 
+goal of this phase is twofold; to assess the circularity performance 
+of the current system and to predict by understanding potential 
+future behaviour of the system based on today’s decisions (i.e. the 
+model is run again to predict future system trajectories and assess 
+the ability of the system to reach the circularity targets). In case 
+that the system does not reach the quantiﬁable circularity targets, 
+strategic alternative scenarios can be tested. 
+4. Circularity Performance Indicators (CPI) 
+The developed excel tool (Supplementary Materials) includes 
+an indicators database for holistic circularity assessment of multi- 
+sectoral systems, enabling information sharing for integrated man- 
+agement of resources. It includes requirements on data that should 
+be measured and collected for the quantiﬁcation of the CPIs. 
+The tool differentiates between required parameters and three 
+types of indicators, i.e. data-oriented, information-oriented and 
+action-oriented (i.e. CPIs) indicators. Parameters (i.e. data require- 
+ments) and data-oriented indicators (i.e. DOI) are based on in- 
+formation coming from different stakeholders and sources, allow- 
+ing the integrated modelling of the system. Parameter is deﬁned 
+as a factor that can be measured or observed. DOI are indicators 
+that can provide information on matters of wider signiﬁcance or 
+make perceptible a trend or phenomenon that is not immediately 
+detectable ( Hammond et al., 1995 ). The DOI can be provided by 
+stakeholders. For example, water demand/use by sector is deﬁned 
+as a state indicator (e.g. by UNIDO and by European Environment 
+Agency) for recognising potential water conﬂicts. An estimation of 
+water demand can be provided by relevant stakeholders (e.g. mu- 
+nicipalities). Another example is the water supply service coverage 
+or proportion of population served by the water supply industry 
+that is deﬁned by UNSD, 2008 as an indicator for water acces- 
+sibility and its estimation can be provided relevant stakeholders 
+as well. Information-oriented indicators (i.e. IOI) consist of a long 
+list of indicators that are resulted from modelling calculations –
+based on parameters and DOI – during the implementation of the 
+framework and they are not directly used in, but rather support 
+the assessment. The assessment is based on action-oriented indi- 
+cators (i.e. AOI), named here as CPIs. AOI or CPIs are derived from 
+the integrated modelling and are calculated from further process- 
+ing of IOI, DOI and parameters. CPIs are used for communication 
+of the results and consist of a short list of indicators targeted at 
+the three CE principles to reduce the number of indicators used 
+for circularity assessment. The IOI are indicators measuring circu- 
+larity aspects indirectly and therefore, are used to explain the out- 
+comes of the assessment. The IOI are not used for communicating 
+the results of the assessment but they are accessible to the inter- 
+ested parties for informative purposes. The tool includes existing 
+and newly-developed indicators. 
+The indicators tool is tailored to the multi-sectoral system ap- 
+proach by differentiating between whole-of-a-system and sector- 
+speciﬁc indicators, i.e. indicators related to the system as a whole, 
+and to the urban water, agro-food, energy, industrial, waste han- 
+dling sectors and natural capital. The tool also provides informa- 
+tion about the units, methodological aspects (i.e. methodology, 
+equation, or reference in order to calculate the indicator), typology 
+(differentiating between descriptive, eﬃciency and performance in- 
+dicators), level of measurement (i.e. a 1 st level indicator is a value 
+derived from parameters, a 2 nd level indicator is derived from fur- 
+ther processing a 1 st level indicator into an equation or model, and 
+so on), description and goal of the indicator. The indicators are fur- 
+ther categorized based on the type of information they provide, 
+i.e. generic, economic, information related to water, nutrients & 
+substances, energy, biodiversity, and information related to the CE 
+principles. Regenerate Natural Capital and Design Out Waste Exter- 
+nalities principles contain consequential CPIs, while Keep Resources 
+in Use principle is measured with intrinsic CPIs. 
+5. Conceptual Example –A  Circular City 
+The MSWCA framework is applied in a conceptual example of 
+a small city. The imaginary city’s electricity source is from renew- 
+ables (i.e. solar and wind energy), the urban water sector consists 
+of centralized water supply to meet the drinking water demands 
+of the area using a surface natural resource, centralised wastewa- 
+ter treatment receives only blackwater, while greywater from the 
+sinks and taps is treated separately (decentralised greywater treat- 
+ment) and in combination with rainwater harvesting is used to 
+meet the domestic demands (i.e. toilet ﬂushing, washing machines 
+and irrigation of gardens). The centralised wastewater treatment is 
+performed in one treatment plant and the treated eﬄuent (after 
+disinfection) is sent to a set of natural and humanmade wetlands. 
+The wetland system supplies the local agricultural water require- 
+ments. The agro-food sector consists of agriculture (both livestock 
+and crops) and the agricultural production is sold in local markets. 
+The waste handling sector receives the produced sludge, which is 
+composted and used as soil amendment, while livestock manure, 
+food and green waste are composted and sent back to agriculture 
+for fertilization purposes. All other types of waste are disregarded 
+in this example. 
+The required information is collected in the form of parameters 
+and data-oriented indicators via the proposed Indicator Tool. The 
+conﬁguration of the multi-sectoral system is illustrated in Fig. 4 . 
+The next step of the framework includes the development of 
+the integrated model. Parameters and data-oriented indicators are 
+used as inputs to the model. For each one of the socio-economic 
+and non-economic sectors, mass balances are developed and model 
+inputs are used to calculate all the required resource ﬂows and 
+to solve the developed mass balances for all the incorporated re- 
+sources. 
+For the urban water sector, daily water rates –f o r water treat- 
+ment, use, greywater and blackwater production, treatment, re- 
+cycling and discharge –a r e used in combination with precipita- 
+tion data and catchment area (for rainwater harvesting), water re- 
+sources, permanent and seasonal population, centralized and de- 
+centralized water users to calculate all the daily water ﬂows in 
+terms of inputs from the natural environment (i.e. water with- 
+drawals from the natural resource, harvested rainwater), internal 
+recirculation (for domestic water requirements), storage (in case of 
+excess water), and outputs to the natural environment (discharge 
+to the wetlands, leakages, and irrigation of gardens). The nutrient 
+ﬂows of the urban water sector are calculated based on data from 
+nutrient concentrations in raw water, blackwater and greywater, on 
+9 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+Fig. 4. Conﬁguration of the system. 
+the incorporated water volumes, and treatment rates. The calcula- 
+tions result in daily nutrient inputs (from the natural environment 
+and the agro-food sector), internal recirculation (i.e. nutrients in- 
+corporated in the recirculation of domestic water), storage and out- 
+puts to the environment (in terms of emissions and discharge or 
+disposal) and to waste handling sector (nutrients in sludge). Wa- 
+ter ﬂows are also accompanied with other critical substances (e.g. 
+chemicals used for treatment, pathogens and other pollutants) and 
+their ﬂows are also calculated based on their concentrations in wa- 
+ter, waste or usage rates. The energy consumption in centralized 
+and decentralized water and wastewater treatment are also calcu- 
+lated. 
+For the agro-food sector, nutrient and water ﬂows incorpo- 
+rated in the local agricultural production are calculated based on 
+hydro-biogeochemical modelling using soil condition, soil type and 
+formations, hydraulic conditions, management practices, weather 
+data, fertilizer inputs, etc. The quantiﬁcation of water (e.g. inﬁltra- 
+tion, evapotranspiration, irrigation, runoff, etc.) and nutrient (e.g. 
+nutrient surplus, nutrient in crops, nutrient in residuals, gaseous 
+emissions etc.) ﬂows are the modelling outputs. The local market 
+receives locally produced food yields and imported food. The green 
+and food waste resulted in the agro-food sector, as well as the nu- 
+trient content in the waste are also calculated. The energy con- 
+sumption is calculated as well. 
+For the waste handling sector, daily inputs of sludge and ma- 
+nure, green and food waste received as well as their nutrient con- 
+tent are calculated. The outputs include daily amount of produced 
+compost to be recirculated to the agricultural sector and to the 
+natural environment, nutrients amounts in the produced compost, 
+and nutrient outputs diluted in produced wastewater (in case of 
+dewatering) and fate, nutrient emissions, nutrient leakages, nutri- 
+ents in residual waste from screening and fate, water vapour, etc. 
+Energy requirements are calculated as well. 
+Hydro-biogeochemical modelling is deployed to reveal the state 
+of the natural environment in terms of nutrients and water cycles, 
+soil condition and biodiversity as well. The quantiﬁcation of wa- 
+ter (e.g. inﬁltration, evapotranspiration, water withdrawals, runoff, 
+etc.) and nutrient (e.g. nutrient surplus, nutrient in crops, nutrient 
+in residuals, gaseous emissions etc.) ﬂows are the modelling out- 
+puts, as well as the state of soil and biodiversity condition, qual- 
+ity and quantity of water bodies, and air quality or emissions. All 
+the quantiﬁed ﬁnal outputs of the human system model serve as 
+inputs to the natural system model, while the calculated natural 
+capital ﬂows leaving the natural environment, re-enter the human 
+system model. 
+The economic simulation is based on economic valuation of 
+market and non-market services and is run in tandem, revealing 
+economic changes in values (either positive or negative) due to the 
+behaviour of the physical multi-sectoral system. 
+The ﬁnal step is the integration of all the different models by 
+using developed equations, functions and rules that describe the 
+feedback loop and socio-economic nodes. These nodes determine 
+the amount and frequency of the resource ﬂows entering and leav- 
+ing each modelling component. The integrated system model is 
+run, solving the whole-of-a-system daily, seasonal and annual mass 
+balances and revealing potential changes to the natural capital due 
+to fast processes. This is the completion of the ﬁrst simulation 
+loop. Sensitivity and uncertainty analyses are performed to investi- 
+gate the uncertainty of the modelling outcomes and communicated 
+to the relevant parties. 
+After ensuring the computability of the integrated model, the 
+information-oriented indicators that were not used to solve the 
+mass balances and the action-oriented indicators are calculated. In 
+this conceptual example, some of the IOI that are used to solve 
+the water balances in the integrated modelling procedure include 
+rainfall volume, inﬁltration, evapotranspiration, runoff, change in 
+soil moisture, water demand per sector, actual irrigation water de- 
+mand, and others. However, the IOI of irrigation eﬃciency is not 
+required to solve the water balances, but it is further calculated –
+as a ratio of water supplied for irrigation per actual irrigation de- 
+mand –t o evaluate if the agricultural system is overwatered, un- 
+derwatered, or suﬃciently irrigated. Similarly, the AOI of regenera- 
+tive capacity index for water requires further calculation; the total 
+quantitative and qualitative water withdrawals of the system are 
+compared to the natural water recharge (volume of water of im- 
+proved quality that is stored to the water bodies due to natural 
+10 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+hydrological water cycle) taking also into consideration the volume 
+of water (of the same quality) that is returned to the water bodies 
+from the anthropogenic water system. 
+After having calculated all the IOI and AOI/CPIs, the results are 
+presented and assessed. The ﬁrst step of the assessment is the 
+presentation, analysis and evaluation of the CPIs. The analysis re- 
+veals the extent of achieved intrinsic circularity of the different re- 
+sources, the consequent environmental and economic effects, the 
+synergies and antagonisms between the different sectors in terms 
+of resources consumption and circularity and the identiﬁcation of 
+hotspots (both current and future). After the identiﬁcation of sys- 
+tem’s hotspots, the relevant information-based indicators (i.e. the 
+ones connected to the CPIs) are analysed to understand the reason 
+of system’s failure and what actions are required to improve cir- 
+cularity. The reasons might be technical, physical, economic, social, 
+regulatory or policy and they should be communicated to the rele- 
+vant parties to take appropriate actions. For example, if one of the 
+identiﬁed hotspots is the gross P balance, IO indicators related to 
+P cycling are analysed to understand if the reason is overfertiliza- 
+tion, low retention capacity of soil, overwatering, etc. Or if water 
+stress is severe, IO indicators of environmental water use, environ- 
+mental water requirements, water provisioning capacity, alterna- 
+tive water use, internal and intersectoral water recycling, water in- 
+tensity, water demand requiring drinking water standards, etc. are 
+further analysed to understand the reason of failure. The analysis is 
+performed internally and only the most probable reasons of failure 
+are presented to the relevant stakeholders. 
+6. Conclusions 
+To address water circularity, fundamental changes are needed 
+in the way water is managed and valued, and in the way, data 
+is shared among practitioners, policies, regulations and assessment 
+frameworks. The proposed MSWCA framework approaches circular- 
+ity from a multi-sectoral perspective following a systems approach 
+that symbiotically manages key water-related socio-economic and 
+non-economic sectors. A visualization of the MSWCA’s application 
+to a ﬁctional city is presented to enable the understanding of the 
+framework and its practical use. 
+Whilst developing the MSWCA framework, we identiﬁed a 
+number of hurdles. The consistency and valid ﬂow of input infor- 
+mation is one of the identiﬁed hurdles. To overcome this problem, 
+we suggest the indicators tool . The tool establishes a common base- 
+line for data requirements and indicators to be used for the as- 
+sessment. The next identiﬁed issue is the economic valuation of 
+nonmarket goods. To overcome this issue the MSWCA framework 
+suggests the use of both revealed and stated preference methods. 
+The third issue relates to feedback loops and interdependencies be- 
+tween different sectors and the natural environment. This frame- 
+work offers a novel methodology to link natural environment to 
+human system models. Integration also entails seamless data ex- 
+change between different system components, making data inter- 
+operability a necessity. The MSWCA framework provides the en- 
+vironment for the interaction of data from multiple sources thus 
+facilitating integrated modelling integration. Increased data vol- 
+ume and modelling complexities creates uncertainties, the pro- 
+posed framework also suggests qualitative and quantitative meth- 
+ods to manage uncertainty in the framework. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing ﬁnan- 
+cial interests or personal relationships that could have appeared to 
+inﬂuence the work reported in this paper. 
+Acknowledgments 
+This research was supported by the Horizon 2020 research and 
+innovation program HYDROUSA (grant agreement No 776643). 
+Supplementary materials 
+Supplementary material associated with this article can be 
+found, in the online version, at doi:10.1016/j.watres.2020.116423 . 
+References 
+Abu-Ghunmi, D., Abu-Ghunmi, L., Kayal, B., Bino, A., 2016. Circular economy and the 
+opportunity cost of not ‘closing the loop’of water industry: the case of Jordan. 
+Journal of cleaner production 131, 228–236. doi: 10.1016/j.jclepro.2016.05.043 . 
+Arup, Antea Group and Ellen MacArthur Foundation, 2018. Water and Circular Econ- 
+omy: White paper. https://nextgenwater.eu/wp-content/uploads/2018/10/Water _ 
+and _ circular _ economy-Co.Project _ White _ paper.pdf 
+Bach, P.M., Rauch, W., Mikkelsen, P.S., McCarthy, D.T., Deletic, A., 2014. A critical 
+review of integrated urban water modelling –U r b a n drainage and beyond. EN- 
+VIRON MODELL SOFTW 54, 88–107. doi: 10.1016/j.envsoft.2013.12.018 . 
+Baustert, P., Othoniel, B., Rugani, B., Leopold, U., 2018. Uncertainty analysis in inte- 
+grated environmental models for ecosystem service assessments: Frameworks, 
+challenges and gaps. Ecosystem Services, Demonstrating transparent, feasible, 
+and useful uncertainty assessment in ecosystem services modeling 33, 110–123. 
+doi: 10.1016/j.ecoser.2018.08.007 . 
+Borgonovo, E., Plischke, E., 2016. Sensitivity analysis: A review of recent advances. 
+European Journal of Operational Research 248, 869–887. doi: 10.1016/j.ejor.2015. 
+06.032 . 
+Davis, S.C., Kauneckis, D., Kruse, N.A., Miller, K.E., Zimmer, M., Dabelko, G.D., 2016. 
+Closing the loop: integrative systems management of waste in food, energy, 
+and water systems. Journal of Environmental Studies and Sciences 6 (1), 11–24. 
+doi: 10.1007/s13412- 016- 0370- 0 . 
+EMF (Ellen MacArthur Foundation), 2013. Towards the circular economy. 
+European Commission, 2015. Communication from the Commission to the European 
+Parliament, the Council, the European Economic and Social Committee and the 
+Committee of the Regions: Closing the Loop - an EU Action Plan for the Circular 
+Economy. https://www.eea.europa.eu/policy- documents/com- 2015- 0614- ﬁnal 
+Everard, M., 2004. Investing in sustainable catchments. Science of the Total Environ- 
+ment 324 (1-3), 1–24. doi: 10.1016/j.scitotenv.2003.10.019 . 
+Everard, M., Reed, M.S., Kenter, J.O., 2016. The ripple effect: Institutionalising pro- 
+environmental values to shift societal norms and behaviours. Ecosystem Ser- 
+vices 21, 230–240. doi: 10.1016/j.ecoser.2016.08.001 . 
+FAO (Food and Agriculture Organization of the United Nations), 2016. AQUASTAT - 
+FAO’s Global Information System on Water and Agriculture. Website accessed 
+on 13/04/2020. 
+Freeman, A.M. , 2003. Economic valuation: what and why. In: In A primer on non- 
+market valuation. Springer, Dordrecht, pp. 1–25 . 
+Gan, Y., Duan, Q., Gong, W., Tong, C., Sun, Y., Chu, W., Ye, A., Miao, C., Di, Z., 2014. A 
+comprehensive evaluation of various sensitivity analysis methods: A case study 
+with a hydrological model. Environmental Modelling & Software 51, 269–285. 
+doi: 10.1016/j.envsoft.2013.09.031 . 
+Ghose, B., 2014. Food security and food self-suﬃciency in China: from past to 2050. 
+Food and Energy Security 3 (2), 86–95. doi: 10.1002/fes3.48 . 
+Greyson, J., 2007. An economic instrument for zero waste, economic growth and 
+sustainability. Journal of Cleaner production 15 (13-14), 1382–1390. doi: 10.1016/ 
+j.jclepro.2006.07.019 . 
+Haab, T.C. , McConnell, K.E. ,2 0 0 2 . Valuing environmental and natural resources: the 
+econometrics of non-market valuation. Edward Elgar Publishing . 
+Hammond, A. , Adriaanse, A. , Rodenburg, E. , Bryant, D. , Woodward, R. , 1995. Environ- 
+mental indicators: a systematic approach to measuring and reporting on envi- 
+ronmental policy performance in the context of sustainable development. World 
+Resources Institute, Washington, DC . 
+Harrison, G.W., Rutström, E.E., 2008. Experimental evidence on the existence of hy- 
+pothetical bias in value elicitation methods. Handbook of Experimental Eco- 
+nomics Results 1, 752–767. doi: 10.1016/S1574-0722(07)0 0 081-9 . 
+Heshmati, A., 2015. A Review of the Circular Economy and its Implementation. IZA 
+Discussion Paper No. 9611. Available at SSRN: https://ssrn.com/abstract=2713032 
+Hislop, H., Hill, J., 2011. Reinventing the wheel: A circular economy for resource 
+security. Green Alliance. https://www.green-alliance.org.uk/page _ 77.php 
+IWA (International Water Association), 2016. Water utility pathways in a circu- 
+lar economy: Charting a Course for Sustainability. https://iwa-network.org/ 
+water- utility- pathways- circular- economy- charting- course- sustainability/ 
+Kahneman, D. , Knetsch, J.L. , 1992. Valuing public goods: the purchase of moral sat- 
+isfaction. Journal of environmental economics and management 22 (1), 57–70 . 
+Kambanou, M.L., Sakao, T., 2020. Using life cycle costing (LCC) to select circular 
+measures: A discussion and practical approach. Resources, Conservation and Re- 
+cycling 155, 104650. doi: 10.1016/j.resconrec.2019.104650 . 
+Keenan, T.F., Carbone, M.S., Reichstein, M., Richardson, A.D., 2011. The model–data 
+fusion pitfall: assuming certainty in an uncertain world. Oecologia 167, 587. 
+doi: 10.10 07/s0 0442- 011- 2106- x . 
+Lange, M., Koller-France, E., Hildebrandt, A., Oelmann, Y., Wilcke, W., Gleixner, G., 
+2019. Chapter 6 - How plant diversity impacts the coupled water, nutrient and 
+11 
+C.E. Nika, V. Vasilaki, A. Expósito et al. Water Research 187 (2020) 1 16423 
+carbon cycles. Advances in Ecological Research 61, 185–219. doi: 10.1016/bs.aecr. 
+2019.06.005 . 
+Li, X., Cheng, G., Lin, H., Cai, X., Fang, M., Ge, Y., Hu, X., Chen, M., Li, W., 2018. Wa- 
+tershed system model: The essentials to model complex human-nature system 
+at the river basin scale. Journal of Geophysical Research: Atmospheres 123 (6), 
+3019–3034. doi: 10.1002/2017JD028154 . 
+Liu, Y., Gupta, H.V., 2007. Uncertainty in hydrologic modeling: Toward an inte- 
+grated data assimilation framework. Water Resources Research 43. doi: 10.1029/ 
+20 06WR0 05756 . 
+Lu, Z., Broesicke, O.A., Chang, M.E., Yan, J., Xu, M., Derrible, S., Mihelcic, J.R., Schwe- 
+gler, B., Crittenden, J.C., 2019. Seven Approaches to Manage Complex Coupled 
+Human and Natural Systems: A Sustainability Toolbox. Environmental Science & 
+Technology 53 (16), 9341–9351. doi: 10.1021/acs.est.9b01982 . 
+Ludwig, F., van Slobbe, E., Coﬁno, W., 2014. Climate change adaptation and Inte- 
+grated Water Resource Management in the water sector. Journal of Hydrology 
+518, 235–242. doi: 10.1016/j.jhydrol.2013.08.010 . 
+Ma, Z., Kang, S., Zhang, L., Tong, L., Su, X., 2008. Analysis of impacts of climate vari- 
+ability and human activity on streamﬂow for a river basin in arid region of 
+northwest China. Journal of Hydrology 352 (3-4), 239–249. doi: 10.1016/j.jhydrol. 
+2007.12.022 . 
+Marín, D., 2015. AQUAENVEC tool: a decision-making support tool to improve eco- 
+eﬃciency in the urban water cycle. Life + Environmental Policy and Governance, 
+EU AQUAENVEC project. Accessed at http://www.life- aquaenvec.eu/wp- content/ 
+uploads/2015/06/09- D.- Mar%C3%ADn- Presentación- herramienta.pdf . Project 
+website: http://www.life-aquaenvec.eu 
+Montanari, A., 2007. What do we mean by ‘uncertainty’? The need for a consistent 
+wording about uncertainty assessment in hydrology. Hydrological Processes 21, 
+841–845. doi: 10.1002/hyp.6623 . 
+Moraga, G., Huysveld, S., Mathieux, F., Blengini, G.A., Alaerts, L., Van Acker, K., 
+De Meester, S., Dewulf, J., 2019. Circular economy indicators: What do they 
+measure? Resources. Conservation and Recycling 146, 452–461. doi: 10.1016/j. 
+resconrec.2019.03.045 . 
+Morrison, M., 20 0 0. Aggregation biases in stated preference studies. Australian Eco- 
+nomic Papers 39 (2), 215–230. doi: 10.1111/1467-8454.0 0 087 . 
+Nguyen, T.T., Ngo, H.H., Guo, W., Wang, X.C., 2020. A new model framework for 
+sponge city implementation: Emerging challenges and future developments. 
+Journal of Environmental Management 253, 109689. doi: 10.1016/j.jenvman.2019. 
+109689 . 
+Nika, C.E., Gusmaroli, L., Ghafourian, M., Atanasova, N., Buttiglieri, G., Katsou, E., 
+2020. Nature-based Solutions as Enablers of Circularity in Water Systems: A Re- 
+view on Assessment Methodologies, Tools and Indicators. Water Research 183, 
+115988. doi: 10.1016/j.watres.2020.115988 . 
+Paiho, S., Mäki, E., Wessberg, N., Paavola, M., Tuominen, P., Antikainen, M., 
+Heikkilä, J., Rozado, C.A., Jung, N., 2020. Towards circular cities – Conceptual- 
+izing core aspects. Sustainable Cities and Society 59, 102143. doi: 10.1016/j.scs. 
+2020.102143 . 
+Pauliuk, S., 2018. Critical appraisal of the circular economy standard BS 8001: 2017 
+and a dashboard of quantitative system indicators for its implementation in 
+organizations. Resources, Conservation and Recycling 129, 81–92. doi: 10.1016/ 
+j.resconrec.2017.10.019 . 
+Pferdmenges, J., Breuer, L., Julich, S., Kraft, P., 2020. Review of soil phosphorus rou- 
+tines in ecosystem models. Environmental Modelling & Software 126, 104639. 
+doi: 10.1016/j.envsoft.2020.104639 . 
+Pivnenko, K., Laner, D., Astrup, T.F., 2016. Material cycles and chemicals: dynamic 
+material ﬂow analysis of contaminants in paper recycling. Environmental Sci- 
+ence & Technology 50 (22), 12302–12311. doi: 10.1021/acs.est.6b01791 . 
+Potting, J., Hekkert, M.P., Worrell, E., Hanemaaijer, A., 2017. Circular 
+economy: measuring innovation in the product chain (No. 2544). 
+PBL Publishers. https://www.pbl.nl/sites/default/ﬁles/cms/publicaties/ 
+pbl- 2016- circular- economy- measuring- innovation- in- product- chains- 2544.pdf 
+Rouholahnejad, E., Abbaspour, K.C., Vejdani, M., Srinivasan, R., Schulin, R., 
+Lehmann, A., 2012. A parallelization framework for calibration of hydrological 
+models. Environmental Modelling & Software 31, 28–36. doi: 10.1016/j.envsoft. 
+2011.12.001 . 
+Saidani, M., Yannou, B., Leroy, Y., Cluzel, F., Kendall, A., 2019. A taxonomy of circular 
+economy indicators. Journal of Cleaner Production 207, 542–559. doi: 10.1016/j. 
+jclepro.2018.10.014 . 
+Sarrazin, F., Pianosi, F., Wagener, T., 2016. Global Sensitivity Analysis of environmen- 
+tal models: Convergence and validation. Environmental Modelling & Software 
+79, 135–152. doi: 10.1016/j.envsoft.2016.02.005 . 
+Sartal, A., Ozcelik, N., Rodríguez, M., 2020. Bringing the circular economy closer 
+to small and medium enterprises: Improving water circularity without damag- 
+ing plant productivity. Journal of Cleaner Production 256, 120363. doi: 10.1016/j. 
+jclepro.2020.120363 . 
+Sgroi, M., Vagliasindi, F.G., Roccaro, P., 2018. Feasibility, sustainability and circular 
+economy concepts in water reuse. Current Opinion in Environmental Science & 
+Health 2, 20–25. doi: 10.1016/j.coesh.2018.01.004 . 
+Spellman, F.R. , 2015. The Science of Water: Concepts and Applications. CRC Press, 
+Boca Ratón, United States . 
+Stuchtey, M., 2015. Rethinking the water cycle. McKinsey & Company Insights 
+& Publications. https://www.mckinsey.com/business-functions/sustainability/ 
+our- insights/rethinking- the- water- cycle 
+Tscheikner-Gratl, F., Lepot, M., Moreno-Rodenas, A ., Schellart, A ., 2017. QUICS 
+D.6.7 - A Framework for the application of uncertainty analysis. 10.5281/zen- 
+odo.1240926 
+Tscheikner-Gratl, F., Bellos, V., Schellart, A., Moreno-Rodenas, A., Muthusamy, M., 
+Langeveld, J., Clemens, F., Benedetti, L., Rico-Ramirez, M.A., de Carvalho, R.F., 
+Breuer, L., Shucksmith, J., Heuvelink, G.B.M., Tait, S., 2019. Recent insights on 
+uncertainties present in integrated catchment water quality modelling. Water 
+Research 150, 368–379. doi: 10.1016/j.watres.2018.11.079 . 
+Uusitalo, L., Lehikoinen, A., Helle, I., Myrberg, K., 2015. An overview of methods to 
+evaluate uncertainty of deterministic models in decision support. Environmental 
+Modelling & Software 63, 24–31. doi: 10.1016/j.envsoft.2014.09.017 . 
+van der Hoek, J.P., de Fooij, H., Struker, A., 2016. Wastewater as a resource: Strate- 
+gies to recover resources from Amsterdam’s wastewater. Resources, Conserva- 
+tion and Recycling 113, 53–64. doi: 10.1016/j.resconrec.2016.05.012 . 
+Vanrolleghem, P.A. , Bertrand-Krajewski, J.L. , Brown, R. , Croke, B. , Kapelan, Z. , Kleidor- 
+fer, M. , Kuczera, G. , McCarthy, D. , Mikkelsen, P.S. , Rauch, W. , 2011. Uncertainties 
+in water system models–Breaking down the water discipline silos. Watermatex, 
+8th IWA Symp. on Systems Analysis and Integrated Assessment. San Sebastian, 
+Spain . 
+Villarroel Walker, R. , 2010. Sustainability beyond eco-eﬃciency: a multi-sectoral sys- 
+tems analysis for water, nutrients, and energy. Doctoral dissertation. University 
+of Georgia, Athens, United States of America . 
+Villarroel Walker, R., Beck, M., 2012. Understanding the metabolism of 
+urban-rural ecosystems. Urban Ecosystems 15 (4), 809–848. doi: 10.1007/ 
+s11252-012-0241-8 . 
+Voulvoulis, N., Arpon, K.D., Giakoumis, T., 2017. The EU Water Framework Directive: 
+From great expectations to problems with implementation. Science of the Total 
+Environment 575, 358–366. doi: 10.1016/j.scitotenv.2016.09.228 . 
+Voulvoulis, N., 2018. Water reuse from a circular economy perspective and potential 
+risks from an unregulated approach. Current Opinion in Environmental Science 
+& Health 2, 32–45. doi: 10.1016/j.coesh.2018.01.005 . 
+Walker, S., Coleman, N., Hodgson, P., Collins, N., Brimacombe, L., 2018. Evaluating the 
+environmental dimension of material eﬃciency strategies relating to the circu- 
+lar economy. Sustainability 10 (3), 666. doi: 10.3390/su10030666 . 
+Wang, H.H., Grant, W.E., 2019. Integration of existing models. Developments in En- 
+vironmental Modelling 31, 235–248. doi: 10.1016/B978- 0- 4 4 4- 64163- 2.0 0 013-X . 
+Ward, N.K., Fitchett, L., Hart, J.A., Shu, L., Stachelek, J., Weng, W., Zhang, Y., 
+Dugan, H., Hetherington, A., Boyle, K., Carey, C.C., 2019. Integrating fast and slow 
+processes is essential for simulating human–freshwater interactions. Ambio 48 
+(10), 1169–1182. doi: 10.1007/s13280- 018- 1136- 6 . 
+Weidema, B.P., Schmidt, J., Fantke, P., Pauliuk, S., 2018. On the boundary between 
+economy and environment in life cycle assessment. The International Journal of 
+Life Cycle Assessment 23 (9), 1839–1846. doi: 10.1007/s11367- 017- 1398- 4 . 
+Young, R.A. , Loomis, J.B. , 2014. Determining the economic value of water: concepts 
+and methods. RFF Press, Resources for the Future, NY, United States . 
+Zhang, X., Beeson, P., Link, R., Manowitz, D., Izaurralde, R.C., Sadeghi, A., Thom- 
+son, A.M., Sahajpal, R., Srinivasan, R., Arnold, J.G., 2013. Eﬃcient multi-objective 
+calibration of a computationally intensive hydrologic model with parallel com- 
+puting software in Python. Environmental Modelling & Software 46, 208–218. 
+doi: 10.1016/j.envsoft.2013.03.013 . 
+Zhijun, F., Nailing, Y., 2007. Putting a circular economy into practice in China. Sus- 
+tainability Science 2 (1), 95–101. doi: 10.10 07/s11625-0 06-0 018-1 . 
+12 

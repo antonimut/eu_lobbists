@@ -1,0 +1,159 @@
+02.09.2021 
+ 
+1 
+ 
+Microsoft Policy Paper  
+on revised eIDAS Regulation 
+In support of European Commission’s  
+    public consultation 
+07 June 2021 - 02 September 2021  
+ 
+ 
+ 
+Introduction/Executive Summary 
+Our digital and physical lives are increasingly linked to the apps, services, and devices we use on a daily 
+basis to access a rich set of experiences. This digital transfo rmation, accelerated by  the effect of the  
+COVID-19 pandemic and the consequent lockdowns, allows us to interact with hundreds of companies, 
+websites, and thousands of other users in the ways that were previously unimaginable. However, 
+growing digitalizatio n has al so made digital infrastructures and citizens more exposed to breaches, 
+which affects our social, professional, and financial lives.  The pandemic and its inherent effect on the 
+growth of our digital workforce, demonstrates the value of secure, remote identification for all to access 
+public and private services. 
+Microsoft believes that every person has a right to an electronic identity (eID)  that they own and control- 
+one that securely stores elements of their identity and preserves p rivacy. We are committe d to 
+supporting this effort as part of our ‘Tech Fit 4 Europe’ initiative to help Europe realize its eID and tech-
+related aspirations.  We therefore  support the European Commission’s v ision outlined in the 
+Communication “Shaping Europe’s Digital Future” that a universally accepted, public eID is necessary 
+for citizens to have access to their data and securely use digital products and services.1 In the 2021 
+Communication “2030 Digital Compass: the European way for the Digital Decade”, the Commission sets 
+the objective that, by 2030, the Union and its citizens should benefit from a wide deployment of a 
+trusted, user -controlled identity , allowi ng each user to c ontrol their own online interactions and 
+presence – with 100% online provision of key public services and 80% of citizens  using a digital ID 
+solution. 
+Microsoft supports the European Commission’s ambition to improve the security a nd trust in our 
+industry, welcomes the proposal to amend the 2014 E -IDAS regulation (910/2014) , and would like to 
+take this opportunity to share our views  in addition to our earlier input in 2020. Our additional 
+recommendations are focused on the following four points. 
+1. Trust: At Microsoft, we have elected to f ocus on developing tools and services based on open 
+standards and, where appropriate, open -source technologies that support the establishment and 
+maintenance of the trust framework. We believe that secure and autonomous identity cannot be 
+achieved or provided without this common trust framework. We have seen positive reception by 
+private enterprises and many nation states, federal, and provincial agencies. 
+ 
+ 
+1 communication-shaping-europes-digital-future-feb2020_en_3.pdf (europa.eu)  
+Ref. Ares(2021)5401991 - 01/09/2021
+02.09.2021 
+ 
+2 
+ 
+2. Interoperability: The u se of Attribute Certificates to communicate Qualified Website 
+Authentication Certificates ( QWACs) might encount er significant interoperability concerns with 
+existing software that could damage and harm the security, privacy, and interoperability functions 
+of these browser vendors’ products. 
+ 
+3. Harmonization: eIDAS refers to existing and future EU legislation like NIS2 and Cybersecurity Act 
+(Certification), but needs further clarification to avoid regulatory overlap and inconsistencies. 
+ 
+4. Inclusivity: The curre nt proposal lacks structural cooperation with industry throug h a formal 
+platform for structural consultation or expert input. Due to the complexity and global reach of the 
+scope of the proposal, structural multistakeholder cooperation is essential. 
+Trust Framework 
+Today, tools and technology that finally offer a common framework of trust have begun to emerge. This 
+framework can enable the issuance of verifiable credentials by mobile applications, browsers, and other 
+online services directly to individuals in a w ay that the individuals autonomously control. Microsoft 
+encourages the Commission to use this proposal to support, protect, and establish this new approach 
+as the standard for delivering trustworthy identity solutions in the future. 
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. 
+Microsoft believes that individuals should truly own their digital identities. And  through ownership, 
+individuals should have the freedom to determine which organizations verify, authenticate, and use their 
+identities and associated data —other than their own governments as required by law. Therefore, to 
+enable this type of individual ow nership, the next generation of E -IDAS should emphasize the 
+importance of “autonomous control” of digital identities. And like individuals, organizations—public or 
+private—should have the same ability to decide how to process and verify the identities of  the other 
+organizations (and employees that represent them) with whom they partner.  
+At Microsoft, we have elected to focus on developing tools and services b ased on open standards and 
+where appropriate open-source technologies that support the establi shment and maintenance of the 
+trust framework. We believe that  secure and autonomous  identity cannot be achieved or provided 
+without this common trust framework. We have seen positive reception by private enterprises and many 
+nation states, federal, and provincial agencies. We are encouraged by this new way of thinking to 
+facilitate exchange of identity attributes around the world.  
+Microsoft agrees with the Commission’s call for “[a] more harmonized approach to digital identification 
+[to] reduce the risks and costs of the current fragmentation due to the use of divergent national 
+solutions [that] will strengthen the Single Market by allowing citize ns, other residents as defined by 
+national law and bu sinesses to identify online in a convenient and uniform way across the Union.” 2 
+Microsoft also agrees with the Commission that “[e]veryone should be able to securel y access public 
+and private services relying on an im proved ecosystem for trust servi ces and on verified proofs of 
+identity and attestations of attributes . . . everywhere in the Union.”3  
+The Commission’s call for “a common technical architect ure and reference framework and common 
+standards to b e developed in collaboration wi th the Member States” is an essential step toward true 
+ 
+2 E.U. Commission 2021/0136 (COD), at 12 
+3 Id. at 12–13. 
+02.09.2021 
+ 
+3 
+ 
+ownership of digital identity. However , addition to these requirements, a “trust framework” must be 
+decoupled from a technical implementation.  
+True ownership and autonomy of digital identities requires a trust framework—namely, a set of broadly 
+accepted digital identity standards and governance rules for identity establishment, issuance, and 
+verification. The trust f ramework can facilitate the aims of EIDAS  2.0 to supp ort interoperability and 
+portability between the technology solutions or services, whether private or public.  
+ 
+Microsoft recommends that the Commission use this opportunity, the  revision of eIDAS Regulation, to 
+champion such a trust framework for digital identity. By doing so, the Co mmission can better achieve 
+its core goals in addition to allowing more opportunity for new innovators to compete with established 
+industry participants and provide best -in-class experiences for end -users and organizations. For  
+example, such a technology -agnostic approach would enable an EU citizen to access services 
+throughout the Union and around the world, confident that when they present attributes from their 
+digital iden tity—e.g., vaccination status or age —that those att ributes will be accepted as val id. In 
+contrast, without the abstraction of a trust framework, a verifying organization could use a different 
+identity solution. This would result in the need of the EU citiz ens to carry separate and proprietary 
+supporting digital identities—exasperating businesses in the EU that are simply trying to accept digital 
+identities from anyone from around the world —negating any benefits of portable, digital identity 
+solutions. Therefore, an approach that mandates the use of a specif ic technical implementation would 
+only reinforce the fragmentation of digital identity schemes that currently exist today, the very outcome 
+the Commission seeks to avoid with eIDAS 2.0. 
+To conclude, Microsoft believes that decoupling the trust framework from the technical implementation 
+can help EU citizens and businesses alike meet the core aims of the GDPR. Current data protection 
+regulations assume that credentialing, authentication, a nd verification are  done by third -party 
+custodians of an individual’s personal information. Through this decoupling, individuals will have 
+tangible control over their own identities, which opens significant and meaningful opportunities to 
+enhance privacy and security protections. For example, using cryptography, individuals can tender proof 
+of certain f acts about themselves (e.g., their age, employment status, citizenship, etc.) without 
+exchanging any of the underlying personal data. The underlying technology offers the irrefutable proof 
+of the claims presented by the individual—vouched for by the trusted authenticators. Indeed, by putting 
+individuals in direct control of their own data, an E -IDAS 2.0 mandate that includes a trust framework 
+for identity can reduce the need for overly restrictive regulation of data transfers, data col lection, and 
+data use. 
+Interoperability  
+The proposal also requires providers of web browsers to facilitate the use of qualified certificates for 
+website authentication. On this topic, Microsoft has identified the following recommendations:  
+1. Maintain the a bility for our Certificate Consumer root store to independently determine if a 
+Trusted Service Provider (TSP) should be a trusted member of our Trusted Root Program which 
+establishes the websites, code, emails, and documents trusted by Microsoft.  
+2. Ensure TSP ’s meet CA/Browser Forum baseline requirements and are audited against these 
+industry standards by established audit schemes (e.g., WebTrust or ETSI) on an annual basis and 
+that our Trusted Root Program r etains the ability to remove trust when  TSPs no longer align 
+with our interests or are compliant with our program requirements. 
+In general, Microsoft is concerned that, as proposed, the use of Attribute Certificates to communicate 
+QWACs (“ac-QWACs”) will encounter significant  interoperability concerns with existing software and 
+02.09.2021 
+ 
+4 
+ 
+which are highly likely to damage and harm the security, privacy, and interoperability functions of these 
+browser vendors’ products. An alternative proposal for QWACs was previously put forward by browsers, 
+called nt-QWACs, would entirely avoid these concerns, and thus remove barriers to the adop tion and 
+use of QWACs within the Digital Single Market. 
+Harmonization & Inclusivity 
+The proposal rightfully refers to the revised NIS Directive (NIS2) and Cybersecurity Act (CSA) on several 
+occasions. We propose to further clarify the roles and coordination betw een the (national) competent 
+authorities responsible for compliance of NIS2 and the revised E-IDAS. Regarding the references made 
+to the Cybersecurity Act a nd certifications, we invite the Commission to clarify its intentions regarding 
+future certifications under the CSA, as the current Union Rolling Work Programme has not identified  a 
+scheme for trust services to be developed by ENISA.  
+Lastly, as this concerns technical specifications, complex technology, and mandates the Commission to 
+use level 2 EU regulation (Implementing and Delegate Acts), Microsoft recommends to define the 
+intention to structurally cooperate with private actors in shaping and implementing these policies.     

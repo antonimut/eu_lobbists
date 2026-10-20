@@ -1,0 +1,492 @@
+1 
+ 
+ 
+ 
+ 
+EU Transparency register n. 24037141789-48 
+Brussels, October 2025 
+ 
+ 
+ 
+Introduction 
+Intesa Sanpaolo welcomes this Call for Evidence as the need for simplification 
+and clarification of the EU digital regulatory framework is urgent. Financial 
+institutions face significant burdens and regulatory risks due to fragmented 
+legislation, overlappi ng regulatory regimes, and inconsistent interpretations 
+across multiple authorities which prevent legal certainty and predictable 
+outcomes. These challenges increase costs, hinder competitiveness, and may 
+divert resources away from operational and security  priorities. Any 
+simplification initiative must lead to in precise rules which, in a technology-wise 
+manner, enable adaptation to evolving scenarios and operational 
+innovation. Equally important is institutional -level coordination, ensuring that 
+European and national competent authorities communicate effectively.  
+Within the current Call for Evidence, this means addressing: 
+- The clarification and streamlining of core definitions which often rely on 
+excessively broad concepts, leaving interpretative discretion. This is 
+particularly evident in the distinction between personal and non -personal 
+data, where case law and regulatory guidance have failed to provide 
+clear operational boundaries. Similarly, the definition of AI systems remains 
+difficult to apply in practice, while incident reporting obligations are 
+fragmented across DORA, CRA, GDPR, NIS2 and other frameworks. A single 
+shared taxonomy, with aligned thresholds and a unified EU reporting 
+channel could significantly reduce duplicated compliance efforts. 
+- The contractual imbalance in the digital ecosystem, where companies are 
+frequently bound by hardly negotiable or non -negotiable standard terms 
+imposed by ‘big tech’ players. Furthermore, within the AI environment, AI 
+system deployers and downstream provide rs often face significant 
+Ref. Ares(2025)8733768 - 14/10/2025
+
+2 
+ 
+compliance and liability risks vis -à-vis large GPAI model providers. Current 
+regulatory tools insufficiently address such asymmetries. Targeted 
+interventions - such as standard contractual clauses or model terms - are 
+needed to ensure fair allocation of re sponsibilities and balanced 
+contractual relationships. 
+- The interplay between GDPR and the AI Act is also an area requiring urgent 
+clarification. Ambiguities persist between automated decision -making 
+under Art. 22 GDPR and high -risk AI systems, DPIA and FRIA assessments 
+and overlapping transparency obligations. A coordinated and pragmatic 
+approach is needed to align compliance obligations without creating 
+unnecessary duplication. 
+- Equally important is the need for a streamlined institutional architecture. 
+Today, stakeholders must interact with supervisory bodies with overlapping 
+competences. A more centralised structure - potentially through a lead 
+authority or enhanced cooperation mechanisms - could ensure consistent 
+supervision. A single reporting entry point and joint guidelines from relevant 
+EU bodies would further enhance coherence. This is even more critical for 
+stakeholders operating in regulated sectors, which are currently f acing 
+multiple compliance obligations.  
+- The overlaps between cybersecurity regulations, notably CRA and DORA, 
+which require urgent clarification to prevent redundant reporting 
+obligations and compliance requirements. 
+- Predictable rules on the ownership of AI-generated outputs and the use of 
+protected content and datasets for AI training are essential to support 
+innovation. Harmonised contractual templates for licensing content could 
+reduce legal uncertainty and transaction costs. 
+- Soft-law guidance could be built to clarify the allocation of responsibilities 
+and avoid fragmentation across different liability regimes. 
+- Targeted updates to the GDPR could enhance its resilience - such as 
+addressing technology -specific references through soft -law guidance, 
+introducing thresholds for international data transfers, and introducing 
+3 
+ 
+explicit exceptions under Art. 10 (in line with Art. 9) to stimulate 
+convergence of national frameworks for processing judicial data.  
+4 
+ 
+1. Definition review (personal/non -personal data, AI systems, and IT 
+incident) 
+There is an urgent need to establish rules and definitions that do not rely 
+exclusively on broad or abstract principles, which may leave excessive 
+interpretative discretion and ultimately result in cumbersome compliance 
+approaches. In particular, it is worth noting that: 
+- The definition of non -personal data under the Free Flow of Non -
+Personal Data Regulation builds on the definition of personal data 
+under the GDPR. However, the definition of personal data is 
+extremely broad, and recent case law from the Court of Justice of 
+the European Union has confirmed how difficult it is to delineate its 
+boundaries. The definition of non -personal data is also critical to 
+capturing the opportunities offered by AI systems. The challenges of 
+reconciling GDPR - which applies to personal data - with AI systems 
+are well-known. Attempts to determine when data used for training 
+no longer qualify as personal data (e.g. by the Hamburg Authority) 
+have not been endorsed by the EDPB, leaving interpretive 
+boundaries uncertain. 
+- The current definition of AI systems is excessively complex and 
+operationally burdensome, making it difficult for stakeholders to 
+consistently determine whether a given system falls within the 
+regulatory scope. Existing guidance brought by the European 
+Commission Guidelines on the definition of an artificial intelligence 
+system established by Regulation (EU) 2024/1689 (AI Act) has not 
+provided sufficient clarity, for instance, with regards to the concept 
+of “inference”. Further clear guidance on the practic al application 
+of the definition is needed to enable immediate and consistent 
+identification of AI systems in scope, regardless of sector or technical 
+ecosystem in which they are used. 
+- Clarification is also needed for the definition of incidents, the cases 
+in which notification is required, and the timelines for notification. The 
+draft guidance on reporting serious AI incidents recently issued by 
+5 
+ 
+the Commission already provides a clear illustration of the 
+complexity involved, even within its limited scope, in determining (i) 
+when an incident must be notified, (ii) how it should be notified, and 
+(iii) the applicable timelines. A simplification could  involve unifying 
+notification procedures through a single channel, with clear rules - 
+without relying on general principles - for specific types of incidents, 
+and timelines starting from the closure of the incident allowing 
+stakeholders to focus on managi ng the incident and protecting 
+infrastructures and individuals. As mentioned below in the 
+Streamlined Institutional Architecture section, we support the 
+introduction of an EU Hub (Articles 19 - 21 DORA) to centralize the 
+reporting of (at least major) ICT-related incidents. The Hub should be 
+the primary reporting point, avoiding duplication of reporting 
+obligations to individual authorities. Competent authorities should be 
+responsible for coordinating among themselves to verify notifications 
+and carry out the required follow-ups (if any).   
+6 
+ 
+2. Significant imbalance in the digital ecosystem 
+The current regulatory framework insufficiently addresses the significant 
+contractual asymmetries within the digital ecosystem, where stakeholders are 
+often forced to accept standard terms imposed by ‘big tech’ players. This 
+would be increasingly critical if we consider that AI technologies are leading 
+to significant market share concentration: for instance, lacking a specific 
+regulatory action, deployers or downstream stakeholders integrating 
+General-Purpose AI models to AI Systems may face increasing diff iculties 
+setting up fair contractual arrangements due to reduced bargaining power.  
+Further consequences may include imbalanced allocation of responsibilities 
+and asymmetrical liabilities regimes governed by such standard contractual 
+terms imposed unilaterally by model providers. This could result in situations 
+where stakeholders are prev ented from complying with key regulatory 
+obligations (e.g., auditability, risk management, etc.).  
+In light of the above, the European Commission should consider targeted 
+interventions to address such imbalances. 
+  
+7 
+ 
+3. GDPR and AI interplay 
+European Institutions should take a clear, coordinated and forward -looking 
+position on the use of personal data for the training of artificial intelligence 
+systems, by providing consistent, practical and unambiguous guidance on 
+how such processing should be conducted in compliance with data 
+protection principles as well as other applicable laws (e.g., employment law, 
+intellectual property law, etc.). 
+In doing so, it shall be ensured a uniform interpretation and application of the 
+GDPR across the Union, including in the context of AI development and 
+deployment. A consistent approach is essential to avoid fragmentation, 
+reduce legal uncertainty and ensur e a level playing field for all stakeholders 
+operating in the European ecosystem. When addressing the interaction 
+between AI and data protection law, EU institutions and authorities should also 
+focus on the substance rather than the form of compliance mech anisms, 
+aiming at the effective protection of data subjects’ rights and interests over 
+purely formal or procedural considerations. This process may require clarifying 
+or, where appropriate, adapting the interpretation and practical application 
+of GDPR obli gations to reflect the specificities of AI technologies and 
+concrete data usage. 
+Against this background, it would be advisable to: 
+- Clarify and provide a structured alignment between the GDPR and the AI 
+Act, particularly regarding the interplay between the notion of 
+“automated decision-making” processes under Article 22 GDPR and “high-
+risk AI systems” under the EU AI Act. While we agree on the fact that the AI 
+Act should not derogate the GDPR, we believe that a lack of clarity persists 
+where AI tools significantly contribute to employment -related decisions 
+without making the final decision, potentially triggering both regulatory 
+regimes simultaneously, despite the exemptions provided by Article 6 AI 
+Act. Furthermore, it would be helpful to coordinate Article 22 GDPR with 
+Article 86 AI Act, as well as practical indications about how human 
+8 
+ 
+oversight could be granted and explanation obligations can be effectively 
+fulfilled. 
+- Enhance coherence and reduce duplication of efforts between Article 36 
+GDPR regarding the Data Protection Impact Assessment (DPIA) and Article 
+27 AI Act regarding the Fundamental Rights Impact Assessment (FRIA). 
+Considering the scope of such assessments, w e encourage that the FRIA 
+template that will be issued by the AI Office shall also provide clear 
+guidance on how the DPIA should be complemented to meet obligations 
+under Article 27 AI Act by references, e.g., to structured human oversight, 
+decision traceability, relevant security measures, etc. 
+- Transparency obligations’ interplay under the GDPR and the AI Act could 
+be clarified to avoid potential duplication of information contained in 
+privacy notices and AI transparency notices. Ideally, where the information 
+is addressed to the same recipient, the information contained in one 
+notice should not be repeated in the other document.  
+9 
+ 
+4. Streamlined institutional architecture  
+The role and coordination of competent supervisory authorities at the EU level 
+should be (re)designed to address the growing fragmentation that financial 
+institutions face when applying multiple regulatory frameworks. Entities 
+operating across different Me mber States often need to interact 
+simultaneously with, among others, data protection authorities, AI supervisory 
+bodies, financial regulators, cybersecurity agencies and consumer protection 
+authorities, all of which have overlapping competences on the sam e issues. 
+This results in legal uncertainty, duplication of requests for information, 
+inconsistent interpretations of regulatory obligations and unnecessary 
+administrative complexity.  
+More structured and centralised supervisory architecture could therefore be 
+considered. One option would be to identify a single “lead authority” which 
+could oversee cross -cutting digital regulatory areas such as AI, data 
+protection and cybersecurity, so t hat entities operating across the European 
+Union (and/or the European Economic Area) may benefit from a consistent 
+regulatory and enforcement approach. 
+Likewise, incident definitions and notification timelines must be coordinated 
+and clarified, ideally with a single channel for reporting and clear timelines. 
+While a big step towards coordination of incident reporting has been made 
+with DORA, there are sti ll frameworks with diverging timelines, taxonomies, 
+thresholds, and templates (e.g., GDPR, SSM requirements). The financial 
+services sector will undoubtedly benefit from harmonized incident reporting 
+requirements and a shared taxonomy with consistent thres holds for 
+“significant”, “major”, or “severe” incidents. As for the notification channel, 
+the preferred option would be the creation of a single European reporting 
+hub as per Articles 19 - 21 DORA. Information submitted through this entry point 
+could be tr ansferred to other relevant authorities (including those under the 
+Cyber Resilience Act, GDPR, etc.), with additional positive outcomes in terms 
+of mutual information -sharing, crisis management, and enhanced digital 
+resilience. Additionally, joint supervis ory opinions or coordinated decision -
+10 
+ 
+making procedures could be introduced to reduce the risk of divergent 
+national interpretations. For instance, the European Data Protection Board, 
+the AI Office, the ENISA, and the European Supervisory Authorities (EBA, EIOPA, 
+ESMA) could be mandated to ado pt joint guidelines or common supervisory 
+priorities, thereby avoiding conflicting regulatory expectations in areas where 
+AI, cybersecurity, data protection and financial regulation intersect. Such joint 
+guidelines may clarify, among other things, whether stakeholders could (i) 
+adopt DORA’s comprehensive ICT risk framework as a compliance baseline, 
+embedding AI Act -specific assessments to address algorithmic 
+accountability, human oversight, and fundamental rights safeguards; or (ii) 
+effectively incorporate AI systems in their creditworthiness, mortgage 
+origination, and risk modelling processes in compliance with the Mortgage 
+Credit Directive, Consumer Credit Directive, and Capital Requirements 
+Regulation. 
+  
+11 
+ 
+5. IP rights and AI-training datasets 
+A thriving data economy requires a strategic shift towards exchanges of data 
+across sectors. The European Union can help overcome persistent obstacles 
+in AI development: for example, enhancing high data quality accessibility 
+would enable more efficient model training, lower negotiation and 
+transaction costs, and facilitate the emergence of sophisticated, data -
+intensive AI systems.  
+However, in our view, any data sharing among institutions, except when a 
+legal obligation already exists, should remain purely voluntary, and exclusively 
+market, rather than regulatory top-down, driven. This is particularly true for the 
+financial services sector, which is already subject to data sharing obligations 
+under the PSD2 (currently under revision). For instance the European 
+Commission’s proposal for a Regulation on Financial Data Access (FiDA) 
+would add another mandatory sector-specific framework which, considering 
+the absence of a clear customer / market demand, may unreasonably 
+undermine the competitiveness of European financial institutions, impose 
+unjustified costs and divert resources that could be allocated to other 
+projects, such as funding k ey strategic sectors and investments for 
+technological innovation in digital transformation. 
+As far as intellectual property rights over the content used and to be used for 
+training AI systems are concerned, as well as the rights over outputs 
+generated by or with AI systems, clear and predictable rules are essential to 
+avoid legal uncertainty, allowing stakeholders to determine in advance what 
+may or may not be done, and who will hold the rights to AI-generated works. 
+At the same time, there is a need for simplification, flexibility, and 
+harmonization at European level for such use.  
+Any regulatory streamlining in this area must respect the existing acquis, 
+notably Directive 96/9/EC on database protection and Directive (EU) 
+2016/943 on trade secrets. To provide businesses with greater legal certainty, 
+the European Commission should con sider the introduction of harmonised 
+12 
+ 
+contractual templates for licensing copyrighted content also for AI training 
+purposes.  
+13 
+ 
+6. AI liability allocation 
+While we acknowledge the recent withdrawal of the AI Liability Directive 
+proposal, we believe that soft -law guidance for AI -related liability should be 
+nevertheless developed to address damages caused by AI systems, aiming 
+to eliminate the current fragmentation and overlapping rules that exist across 
+multiple legal domains. Indeed, as of today, responsibilities may fall under 
+national civil law, consumer protection regulations, and product liability 
+provisions, each of which may operate differently at natio nal and 
+international levels. This lack of coherence generates legal uncertainty, 
+complicates cross-border enforcement, and increases the risks of inconsistent 
+judgments. Such guidance should not be designed as mere incremental 
+obligations or liabilities t o the existing system, avoiding presumptions of 
+causality, potentially distorting the risk allocation and undermining the 
+balanced application of existing liability frameworks. Should it be decided to 
+resume the AI Liability Directive adoption process, to ensure consistency we 
+would suggest opting for a Regulation to ensure consistency among the EU 
+jurisdictions. 
+  
+14 
+ 
+7.  Overlapping cybersecurity and reporting obligations (CRA and 
+DORA) 
+The interaction between the Cyber Resilience Act (CRA) and the Digital 
+Operational Resilience Act (DORA) requires urgent clarification, as the current 
+overlap creates significant implementation challenges for the financial sector. 
+These two legislative ins truments pursue similar objectives - namely, 
+strengthening cybersecurity and operational resilience - but do so through 
+different mechanisms, scopes and compliance obligations. In the absence of 
+clear coordination, this regulatory layering risks imposing r edundant or even 
+conflicting requirements on financial institutions, undermining legal certainty 
+and increasing compliance costs. This situation may contradict the European 
+Commission’s objective of ensuring regulatory coherence and supporting the 
+European Union’s global competitiveness. Cyber resilience of financial entities 
+and their ICT providers are already comprehensively regulated under DORA 
+and related implementing legislation, which establish detailed rules on ICT risk 
+management, incident reporting , resilience testing and oversight of critical 
+third-party service providers. In this regard, one of the most critical issues 
+concerns the duplication of reporting obligations. Under such framework, 
+financial entities could be required to report cybersecur ity incidents both 
+under DORA and CRA, often to different authorities, with different formats, 
+procedures and timelines. By way of reference, the table below summarizes 
+the main reporting timelines across the EU framework for financial institutions 
+(including also additional pieces of legislation providing for reporting 
+obligations, as NIS2, CER, and GDPR).  
+Overlapping reporting obligations create a major burden, particularly cross -
+border, diverting resources from proactive security measures. Major areas of 
+cost include staff, systems/tools, legal and consulting. A similar duplication 
+occurs with respect to t he obligation to maintain and update registers of 
+information related to ICT products and services. 
+To address these problems, the Commission may consider to adopt clear 
+guidance or legislative amendments to define the respective scopes of DORA 
+and CRA, ideally by explicitly confirming DORA as lex specialis for the financial 
+15 
+ 
+sector or by excluding financial institutions covered by DORA from the scope 
+of the CRA through Article 2(5) of the CRA, which empowers the Commission 
+to adopt delegated acts to exclude products already subject to equivalent 
+EU legislation. In this regard, it would also be advisable to confirm that the NIS2 
+Directive is not relevant to financial entities subject to the DORA. 
+Such measures would promote regulatory clarity, enhance operational 
+efficiency, and allow financial institutions to focus their resources on 
+effectively managing cyber risks rather than navigating overlapping 
+compliance regimes. 
+ 
+  
+ 
+DORA NIS2 CRA GDPR CER 
+Timelines Three-phase 
+regime: 
+Initial phase : 
+within 4 hours from 
+incident 
+classification (no 
+later than 24 hours 
+from detection); 
+Intermediate 
+phase: within 72 
+hours;  
+Final phase: within 
+1 month. 
+ 
+  
+Early warning : 
+without delay or, 
+in any case, within 
+24 hours  from the 
+moment the 
+incident was 
+detected. 
+Incident 
+notification: must 
+be submitted 
+within 72 hours.  
+Final detailed 
+report: within one 
+month from the 
+transmission of the 
+notification. 
+Early warning : 
+without delay and 
+no later than 24 
+hours from the 
+identification of 
+an actively 
+exploited 
+vulnerability or 
+incident. 
+- Notification: 
+within 72  hours 
+(unless all relevant 
+information has 
+already been 
+provided in the 
+early warning 
+related to the 
+exploited 
+vulnerability or 
+incident).  
+Final report: 
+- For exploited 
+vulnerabilities: 
+within 14 days  
+from the 
+availability of a 
+corrective 
+measure. 
+- For incidents:  
+within one month  
+from the 
+transmission of the 
+incident 
+notification.  
+Without delay and 
+no later than 72 
+hours from the 
+moment the data 
+controller 
+becomes aware 
+of the personal 
+data breach. 
+Initial notification : 
+no later than 24 
+hours from the 
+moment the 
+incident is 
+detected.  
+Final report: within 
+one month. 
+16 
+ 
+8. GDPR simplification (security measures, extra-EEA data transfer, Article 
+10) 
+Innovation has rapidly outpaced certain provisions of the GDPR, raising 
+legitimate questions about their long -term adequacy. Article 32 GDPR 
+currently requires controllers and processors to adopt appropriate technical 
+and organisational measures, explicitl y citing encryption as an example. 
+However, emerging technologies such as quantum computing may soon 
+render traditional encryption methods obsolete. Therefore, maintaining an 
+explicit reference to encryption may encourage reliance on outdated 
+techniques, t hereby weakening protection standards. To ensure regulatory 
+resilience, Article 32 GDPR could be amended to remove this explicit 
+reference, and existing authorities may issue soft-law guidance, guidelines, or 
+implementing rules to identify security measure s corresponding from time to 
+time to the state of the art, also taking into account the specificities of 
+different business sectors. A technology -neutral approach would also bolster 
+the role of privacy and cybersecurity certification schemes by detaching 
+them from potentially obsolete references.  
+Likewise, the current rules on international data transfers impose heavy 
+operational burdens that are often disproportionate to the risks involved. 
+While the requirement to assess foreign legal frameworks and implement 
+supplementary measures enhances safeg uards, it applies even to low -risk 
+transfers involving limited data volumes or non-sensitive categories of data, or 
+among entities part of the same group. To restore proportionality, the 
+European Commission may consider introducing a legislative threshold 
+determining when supplementary measures are in fact necessary (e.g., in 
+case of transfers involving third -party recipient entities). Transfers below this 
+threshold could rely solely on internal risk assessment and certain security 
+measures to protect the d ata flow perimeter (e.g., to prevent third parties 
+gaining access to transferred data), whereas transfers of high-risk data - such 
+as health, criminal, or financial data - would continue to fall within current rules 
+of Chapter V GDPR.  
+17 
+ 
+Finally, under Article 10 GDPR, the processing of personal data relating to 
+criminal convictions and offences can be carried out only under the control 
+of official authority, or when the processing is authorized by Union or Member 
+States law providing for appropriate safeguards. Such approach has led to 
+considerable fragmentation, with divergent or absent national rules creating 
+legal uncertainty and high compliance costs for organisations operating 
+across borders. This is especially true within the financi al sector where due 
+diligence processes may require the processing of data close to the definition 
+set forth by Article 10 GDPR (e.g., self -declaration of absence of judicial 
+proceedings). The current framework may undermine the free flow of data 
+within th e internal market and weaken fundamental rights protection. To 
+address this structural gap, European Commission may consider harmonising 
+the national legal frameworks by introducing exceptions and/or EU-level legal 
+bases for processing criminal data under specific circumstances and with 
+adequate safeguards (e.g., modelled on Article 9 GDPR for special 
+categories of data). We would also like to suggest considering the 
+introduction of a requirement for all Member States to keep registers of 
+criminal convictions, offenses, and related security measures, organized by 
+type of offense and status of proceedings. Without such registers, it can be 
+rather challenging to effectively comply with EU regulations like the AML 
+Package, as well as some local laws that requir e checks on the reputation 
+and professionalism of certain professionals, such as financial advisors. 
+Introducing such specific requirement could help avoiding potential conflicts 
+with the minimization principle, while supporting regulatory compliance and 
+simplify the application of GDPR. 
+ 

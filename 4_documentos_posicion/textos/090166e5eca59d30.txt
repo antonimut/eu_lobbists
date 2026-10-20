@@ -1,0 +1,221 @@
+ 
+1 
+ 
+ 
+EU CYBER RESILIENCE ACT: New Cybersecurity Rules 
+for Digital Products and Ancillary Services  
+ 
+SIDE PAPER TO IBM’S RESPONSE TO THE EUROPEAN COMMISSION’S 
+PUBLIC CONSULTATION – 25 MAY 2022  
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION  
+ 
+IBM welcomes the opportunity to contribute to the European Commission’s 
+consultation on the Cyber Resilience Act (CRA) and to offer our views on how we believe 
+the EU can build a strong cybersecurity environment and increase its resilience against a 
+continuously evolving and more complex cyberthreat landscape.  
+ 
+IBM is a business-to-business (B2B) technology company with a large and diverse portfolio 
+of products and services. Those offerings include mainframe hardware, storage, quantum 
+computing, cloud computing, AI, data analytics, Internet of Things (IoT), blockchain, 
+security solutions, etc. For more than a century, IBM has earned the trust of our clients by 
+responsibly managing their most valuable data, and we have worked to earn the trust of 
+IBM is the largest technology and consulting employer in the world, serving clients in more than 170 
+countries. Today, 47 of the Fortune 50 companies rely on the IBM Cloud to run their business and 
+IBM Watson enterprise AI is hard at work in more than 20,000 engagements. IBM is also one of the 
+world’s most vital corporate research organizations, with 29 consecutive years of patent 
+leadership. 
+ 
+With more than 100 years of commitment in Europe, IBM is one of the largest technology employers 
+in the EU and has many cloud data centres, research labs, innovation spaces, centres of excellence, 
+etc. spread across Europe. IBM scientists from 50+ nationalities work in Europe on cutting-edge 
+research and IBM is building Europe’s first quantum computer in Germany. 
+ 
+IBM’s expertise is in the intersection of technology and business, providing artificial intelligence (AI) 
+and cloud-based solutions that are changing the way the world works. Above all, guided by 
+principles for trust and transparency and support for a more inclusive society, IBM is committed to 
+being a responsible technology innovator and a force for good in the world. For more information, 
+visit www.ibm.com  
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. Ares(2022)3935740 - 25/05/2022
+ 
+2 
+ 
+society by ushering powerful new technologies into the world responsibly and with clear 
+purpose. IBM has for decades followed core principles – grounded in commitments to Trust 
+and Transparency – that guide its handling of client data and insights, and also its 
+responsible development and deployment of new technologies. 
+ 
+Security and trust have always been part of the foundation of IBM. As a leading provider 
+of hardware, software, and services that are of high quality, reliability, function, and 
+integrity, IBM strives to provide products and services that match our customers’ demand 
+for high performance, high stress tolerance, high availability, and high security. For 
+example, we make Security and Privacy by Design a mandatory practice within all our 
+business units, ensuring a high level of focused security and privacy practices, including 
+threat models, privacy assessments, security testing, and vulnerability management. 
+ 
+IBM welcomes the Commission’s plans to consider horizontal rules introducing 
+cybersecurity requirements for connected products and ancillary associated services. 
+We believe that improving products and software development practices and transparency 
+will allow businesses and consumers to benefit from more secure and trusted systems.  
+ 
+In this regard, we respectfully submit the following views on how we believe the CRA could 
+best achieve these objectives: 
+ 
+ 
+UNDERSTANDING THAT CYBERSECURITY  IS AN ONGOING  PROCESS  
+ 
+Today’s cybercrime ecosystem has become increasingly complex and brings new, 
+significant challenges to security experts. Businesses and governments must grapple with 
+the ongoing digitalisation of supply chains with new sectors being targeted by 
+cyberattacks1. They must also manage shifts to work-from-home and back-to-office caused 
+by the pandemic, navigate growing security challenges due to geopolitical changes and 
+conflicts, and improve resiliency as cybercriminals become more specialised and 
+professionalised, running illegal business models such as “Cybercrime-as-a-Service”. 
+ 
+This means that cybersecurity should be seen as a continuous process and not an end 
+state: the security of a product changes as its deployment environment changes, as 
+different technology develops, and as attacks evolve, therefore security cannot be 
+measured simply by assessing the product against some abstract concept of “secure”.  
+ 
+1 “For the first time in five years, manufacturing outpaced finance and insurance in the number of cyberattacks levied against 
+these industries, extending global supply chain woes” – IBM X-Force Threat Intelligence Index 2022 
+ 
+ 
+3 
+ 
+However, what can be assessed are the efforts (policies, investments, etc.) a company has 
+placed into ensuring that the security of their products continues to improve. 
+ 
+This threat landscape requires the CRA’s regulatory framework to remain flexible enough 
+and focused on risk-based security practices to allow businesses to evolve products 
+quickly to address ever-changing cyberattacks.   
+ 
+PROVIDING CLARITY IN SCOPE AND DEFINITIONS  
+ 
+The CRA should clearly outline what type of digital products are in scope and include clear 
+definitions of such products. While it is important the CRA covers all digital products, it 
+should take into account differences in the development, functionality and use of these 
+digital products, and apply proportionate rules following a risk-based approach (for 
+example, B2B vs. B2C products, embedded vs. non-embedded software). The EU New 
+Legislative Framework (NLF), which typically includes modules for determining the 
+respective risk, is a mechanism that could serve as a basis for this approach.   
+ 
+“High-risk” products should also be clearly defined, and such definition should consider the 
+environment in which a product is ultimately used, rather than defining entire sectors as 
+“high-risk”. Such an approach would also ensure that the CRA rules can be future-proof and 
+that the legislative framework can remain effective and allow for product innovation, 
+particularly in emerging technologies. 
+ 
+ 
+ENSURING CONSISTENCY WITH EXISTING – AND UPCOMING – LEGISLATION  
+ 
+The current EU regulatory framework already covers many digital products: for example, the 
+Machinery Directive, the Radio Equipment Directive, and the General Product Safety 
+Directive under the NLF. They are complemented by the Cybersecurity Act (CSA), the 
+Network and Information Security (NIS) Directive, and the General Data Protection 
+Regulation (GDPR). Consistency between these pieces of legislation, as well as 
+upcoming regulation (such as NIS 2) must be ensured. 
+ 
+Overall, the CRA should be ‘lex generalis’, outlining baseline cybersecurity 
+requirements for connected products, while avoiding the introduction of mandatory 
+cybersecurity certification schemes replacing existing harmonised standards, as these 
+can overlap or conflict with other EU cyber legislation. Self-assessment against these well-
+known European standards should always be the default option to show evidence of 
+compliance in the area of cybersecurity and lead to the ‘presumption of conformity’ as 
+defined by the NLF and its open and inclusive processes.  
+ 
+4 
+ 
+ 
+FOCUSING ON HARMONISED AND EFFECTIVE RULES  
+ 
+Fragmentation can persist across certain domains due to the number of existing legislations 
+affecting digital products. Individual Member States adopting different national laws also 
+mean that companies could be more subject to conflicting requirements. The CRA should 
+then focus on reducing fragmentation by introducing horizontal, risk-based rules, which 
+could, if aligned with international standards and consistent with existing legislation, help 
+simplify improvements in security. 
+ 
+Such requirements should enable self-assessment as the default conformity 
+assessment procedure (including the possibility to have third party assessments for a 
+certain category of high-risk products). We would caution against developing ad-hoc 
+regulatory rules which may lead to further fragmentation.  
+We also believe that a mandatory introduction of Software Bill of Materials (SBOM) 
+requires thorough consideration, as it might not achieve the intended objectives:  if 
+SBOM includes overly prescriptive transparency requirements, for all kinds of products, and 
+is not aligned with international standards, it will not be effective due to the complexity of 
+today’s software and cloud environments, where application components constantly go 
+through automated updates. In this context, the feasibility and effectiveness of SBOM 
+would soon reach its limits. Moreover, caution should be taken with regards to transparency 
+requirements and the information that should be made available to the public vs. what 
+information should be provided to market surveillance authorities.  
+ 
+ALIGNING WITH INTERNATIONAL STANDARDS  
+ 
+European standards should be aligned with international standards. International 
+standards provide widely vetted, consensus-based information and guidance for defining 
+and implementing effective security methodologies, and facilitate common approaches to 
+common challenges, thus enabling collaboration and interoperability. There are already 
+good examples showcasing close alignment with international standardisation (e.g., product 
+safety, electromagnetic compatibility). 
+ 
+Additionally, ICT standardisation is by nature global, and involvement of all stakeholders 
+is important. The EU has an effective standardisation infrastructure (with CEN-CLC/JTC 13; 
+ETSI TC CYBER, etc.) and it will be critical to continue to closely engage industry in strategic 
+committees for the development of standards. Common (technical) specifications should 
+only be developed following clearly establish criteria, as a last resort.   
+ 
+ 
+5 
+ 
+DIFFERENTIATING B2B AND B2C PRODUCTS  
+ 
+Products designed for B2C and B2B markets have different lifecycles, potential risks and 
+intended purposes: in a B2B environment, products are integrated into highly complex 
+systems.  
+ 
+In B2B software, the supplier typically has little control over what their business clients 
+do with the software and might be limited to intervene by contractual agreements. For 
+example, modern cloud-enabled applications are based on software running as composable 
+micro-services, which are provided and consumable as SaaS (Software-as-a-Service) 
+components. In addition, almost all cloud solutions are built on open-source software 
+stacks and leveraging these commonly available software building blocks to form hundreds 
+of thousands of different applications.  
+ 
+Therefore, the author of a software component could design a software for use in one 
+environment, but it might end up being deployed in a completely different environment for 
+which it is ill-suited – and unbeknownst to the author – for example a similar SaaS 
+component in a smart coffee machine vs. usage of the same software building block in a 
+medical device. The CRA must then consider such specificities (and the context, in 
+which a piece of software is developed, integrated, and utilised) when defining 
+cybersecurity requirements. 
+ 
+ 
+CONCLUSION  
+ 
+IBM has a deep and long -standing commitment to cybersecurity and supply chain integrity. 
+We dedicate significant investment in product security and in developing security standards, 
+notably open-source standards via the Linux foundation. We are also an industry leader in 
+cutting-edge security technologies such as innovative encryption techniques (e.g., 
+homomorphic encryption, quantum-safe encryption). 
+ 
+We share the EU’s objective to protect citizens and businesses from cyber incidents and 
+cyberattacks in an increasingly interconnected world.  The CRA provides an opportunity for 
+the EU to achieve this goal by adopting clear, harmoni sed rules following a ri sk-based 
+approach, aligned with internationally recogni sed standards  and which avoids overly 
+prescriptive requirements and inconsistencies with other EU legislation. 
+ 
+We look forward to contributing to the debate in the months ahead. 
+ 
+ 

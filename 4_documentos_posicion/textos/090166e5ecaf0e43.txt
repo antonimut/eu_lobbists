@@ -1,0 +1,582 @@
+• Number of vulnerabilities/threats increase with the increasing number of connected products: 
+more assets = more corresponding threats. As systems and services become more integrated, the 
+risk of cyber-attack/infiltration has increased. 
+• ENISA’s threat landscape reports: increasing number of incidents for many threats.  
+• The combination of increased internet exposure and lack of user awareness to secure their 
+equipment (i.e. using strong, unique passwords for each account) means that if a password is 
+cracked, it can probably be used to access multiple devices/accounts, gives rise to new 
+opportunities for attack.  
+• Subjective risk seems increased: ransomware as a service, cloud being leveraged for attacks at 
+scale, phishing, hybrid work, etc.  
+• Yet, the CVSS score has decreased from 2016 to 2021 indicating the threats are less effective. 
+• Definition of “level of risk” appreciated (e.g.: combination of possible impact/CVSS score and 
+number of vulnerabilities). 
+• From 2020 to 2021 the average attacks per company over the year went up 31% to 270 attacks. 
+(source: State of Cybersecurity Report 2021 | 4th Annual Report | Accenture). 
+• NB: The number of identified vulnerabilities found annually (CVE ID’s at www.cvedetails.com), is 
+rising. But it can also mean that the increase of CVE counts is due to organizations now having 
+more bug bounty and other offensive research programs, encouraging more vulnerability 
+research. 
+• It can be assumed that identified vulnerabilities are/will be exploited -> connection between CVEs 
+and incidents. Yet, mitigation becomes more sophisticated, too.  
+Public Consultation on the Cybersecurity of Digital Products and Ancillary Services 
+DIGITALEUROPE FEEDBACK TO RESPECTIVE QUESTIONS 
+ 
+Section 1: Cybersecurity of digital products and the users of digital products  
+Q1: In your view, what is the overall level of cybersecurity of digital products marketed within the 
+European Union (on a scale from 1 to 5 with 5 indicating a very high level of cybersecurity)? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q2: In your view, during the last five years, how has the level of risk of cybersecurity incidents 
+affecting digital products evolved? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• The evaluation is, of course, an average as there is a large diversity of “digital products.”  
+• While we believe that for DIGITALEUROPE members the security is rather high (4), we 
+acknowledge that it is likely to have products on the market that have a lower level. The level of 
+inbuilt security is generally improving, however, the users of devices and software tend to be naïve 
+with respect to security, making manufacturers of software and hardware to adopt a more 
+rigorous security posture to protect the end users from accidental misuse or compromise due to 
+lack of security awareness. 
+• Cyber security always needs a holistic approach, assessed on a finished product, so the security of 
+a part of the system, i.e. the products, does not ensure necessarily the system security. 
+• A Definition/Quantification of “level of security” would be a welcomed outcome of the study. 
+• We suggest to also approach national CERT-x or equivalent for best data.  
+ 
+ 
+ 
+-  
+Ref. Ares(2022)3958259 - 26/05/2022
+ 
+Q3: How would you evaluate the actual impact of cybersecurity incidents affecting digital products on 
+you or your organisation (on a scale from 1 to 5 with 5 indicating a very high negative impact)? 
+No DIGITALEUROPE Comment 
+Q4: In your view, if a digital product is not cyber secure, how does it impact the user (on a scale 
+from1 to 5 with 5 indicating that you fully agree)? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+Q5: To what extent do you agree with the following statements as regards your awareness and 
+understanding of cybersecurity properties of digital products (on a scale from 1 to 5 with 5 indicating 
+that you strongly agree)? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+Q6: To what extent do you agree with the following statements on the role of the vendors? Please 
+rate the following statements on a scale from 1 to 5 (with 5 indicating that you strongly agree). 
+No DIGITALEUROPE Comments 
+ 
+Q7: If you are a vendor: which of the following aspects have the biggest impact on your decision 
+related to cybersecurity of your digital product? 
+DIGITALEUROPE Comments  
+ 
+ 
+ 
+ 
+Differentiate B2B – B2C 
+Q1:  B2B: 5 (of course at the end usually the user has the damage), B2C: 3 
+Q2: B2B: 3 (insurances do not cover everything); B2C: 1 no cyber security insurance known 
+Q3: B2B: 4 (better security is more expensive); B2C: 1 = no additional cost for private user: objective 
+is always to have a secure product) 
+B2B: user legal person 
+• On customer expectations: every DIGITALEUROPE member takes customer expectations very 
+relevant. Even if a customer would not demand a secure product, security is a relevant product 
+feature. 
+• Public procurement: Public Procurement (“PP”) is a separate “market” – for those members 
+who serve PP the respective guidelines are as relevant.  
+• In the software development sales space, an aspect to consider would be the potential impact 
+of the use of software. Further to this, the decision related to the cybersecurity of digital 
+products is usually affected by how the digital product addresses data security given the 
+importance of data privacy. 
+ 
+Row 2 in table:  B2C not equal B2B, upstream vs. downstream 
+Row 4 in table: It depends, however, on the risk / intended use, but the risk assessment includes 
+the cybersecurity. 
+Q8: To what extent are hardware manufacturers and software developers taking the cybersecurity 
+of their digital products into account in each of the following phases of the product lifecycle (on a 
+scale from 1 to 5 with 5 indicating that cybersecurity is taken very seriously)? 
+No DIGITALEUROPE Comments 
+Section 2: Improving the cybersecurity of digital products  
+Q9: To what extent do you think that the following measures could be effective in raising the level of 
+cybersecurity of digital products marketed in the Union (on a scale from 1 to 5 with 5 indicating that 
+a measure would be very effective)? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q10: How would you assess the impact of the following measures on the level of cybersecurity of 
+digital products and of the consumers/organisations using such products (on a scale from 1 to 5 with 
+5 indicating that a measure would have a very high impact)? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+Q11: How would you assess the relevance of the following measures for the users’ ability to evaluate 
+the cybersecurity properties of a digital product and to make better informed purchase or usage 
+decisions (on a scale from 1 to 5 with 5 indicating that a measure is very relevant)? 
+DIGITALEUROPE Comments 
+• Amending regulation: We do not support additional amendments before horizontal legislation 
+has set the ground for legal certainty. 
+• Software is very relevant and thus must be addressed. It is difficult to distinguish embedded 
+software from the product. While embedded software (as defined in our position paper 
+attached) should be addressed, we interpret row 6 in Q9 as “stand-alone software” which we 
+believe should not be included for the reasons we explain in our position paper. When it comes 
+to hardware, it is important to ensure that products are not double regulated e.g. when a 
+product is part of critical infrastructure structure. For more details on CRA scope please refer 
+to DIGITALEUROPE’s position paper (attached).  
+• It will be essential that the CRA provides a future-proof policy framework that is adaptable to 
+emerging technologies. 
+• Further to this, creating greater awareness on the importance of these security requirements 
+in products will result in customers considering key security criterion when making purchasing 
+decisions (i.e., in addition to desirability, functionality, attractiveness, and costs). 
+The CE Mark does not enable choice, the point of the CRA should not be about marking abut 
+about baseline requirements 
+In the B2C sector, many end-users are completely unaware of what good security looks like. To be 
+effective, there would have to be an advertising campaign to make people aware of what 
+minimum standards are needed in a given context.  
+Both requirements to make sense, yet they are partly already obligations to vendors. 
+Information on appropriate behaviour when using the product would be helpful as some risks 
+arise from inappropriate use of the product, for instance when not used as intended or when 
+security settings are switched off. 
+  
+Q12: To what extent do you agree that subjecting certain products marketed in the Union to 
+cybersecurity requirements would be effective (on a scale from 1 to 5 with 5 indicating that you 
+strongly agree)? 
+DIGITALEUROPE Comments  
+Q12: To what extent do you agree that subjecting certain products marketed in the Union to 
+cybersecurity requirements would be effective (on a scale from 1 to 5 with 5 indicating that you 
+strongly agree)? 
+ 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q13: To what extent do you agree with the following statements about how cybersecurity is 
+addressed in existing EU legislation (e.g. the  General Product Safety Directive  and the  Machinery 
+Directive, both currently under review; the Delegated Regulation of 29 October 2021 under the Radio 
+Equipment Directive ) (on a scale from 1 to 5 with 5 indicating that you strongly agree with a 
+statement)? 
+No DIGITALEUROPE Comments 
+Comment on line 4 and 6 of the table (high risk products): 
+We strongly support that requirements on products have to be based on risk. To be 
+horizontal, high-risk products should be in scope. However, common requirements (which 
+are the core of the CRA) may be not sufficient to cover highest risk. Also, care has to be 
+taken not to overlap with critical infrastructure legislation in order not to create overlapping 
+conflicting requirements 
+On line 5, 6 (SW products): 
+Standalone software should not be addressed as “products” software can be addressed 
+when necessary for a HW product and by requirements on the relevant economic operators. 
+As row 6 addresses software including embedded software (for definition see our position 
+paper), such software should certainly be in scope.   On the other hand, critical software is 
+already subject to regulation, and as standalone software the legal requirements may not be 
+the same as for tangible products. 
+For more details, please see the attached position paper of DIGITALEUROPE. 
+Software products are a less well-defined issue, and also have to be addressed differently 
+than tangible products. 
+Ancillary service needs to be better defined in order to provide an estimation. 
+If aligned with global international standards such that manufacturers can uniformly require 
+equivalent expectations to their suppliers, it could be effective.  However, many other 
+scenarios would likely lower cybersecurity over time (e.g., by inhibiting innovation, 
+discouraging competition from suppliers outside the EU, expending resources on compliance 
+versus security, etc.) 
+ 
+ 
+ 
+ 
+Q14: In the absence of horizontal cybersecurity requirements at European level, Member States could 
+adopt national laws placing certain requirements on vendors. To what extent do you agree that there 
+is a risk of increasing costs and legal uncertainty for market stakeholders, in the absence of an EU 
+initiative? (on a scale from 1 to 5 with 5 indicating you fully agree)? 
+DIGITALEUROPE Comments 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Q15: If you are a vendor : are your digital products subject to legal requirements as regards their 
+cybersecurity? In your answer, please take into account European, national but also legislation 
+stemming from third countries. 
+No DIGITALEUROPE Comments 
+Q15a: If yes to the above, which of your digital products are subject to which legal requirements as 
+regards their cybersecurity ? Please specify the product categories and applicable legislation? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+Sub-section 2.e. – Cybersecurity requirements for digital products 
+ 
+ 
+ 
+Q16: Should hardware manufacturers and software developers be responsible for the full life cycle of 
+a digital product (such as by being required to provide updates)? 
+No DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+National requirements bear the high risk of fragmenting the EU single market with well-known 
+consequences of additional costs per country and reduction of economy of sales. 
+Of course, this largely depends on what the EU level horizontal legislation is.   
+While there are always cost saving option, it can be generally said that fragmented regulation 
+leads to higher cost as the benefit of the single market (eventually the economy of scales effect) 
+is hampered.  
+ 
+Except for the Regulation 2022/30 (where cyber security is formally only addressed in recitals) 
+cybersecurity on products is already indirectly covered in EU: In GDPR Art 24,28,32 (appropriate measures 
+to ensure security), Safety regulation (risk mitigation when software corruption entails safety risk), 
+Products used within critical infrastructure are on a system level addressed in NIS and soon NIS2. 
+Outside the EU, we note that cyber security requirements are introduced in many parts of the world, but 
+this is a very dynamic situation. 
+Q16a: If you think that hardware manufacturers and software developers should be required to 
+provide security updates, for how many years should they be required to do so?  
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q17: To what extent can the following approaches contribute to the cybersecurity of a digital 
+product (on a scale from 1 to 5 with 5 indicating that a measure would be very effective)? 
+It is important that the “full” life cycle is not well defined. We note that manufacturer alone cannot 
+ensure security along the life cycle (for instance a proper treatment at end of life). 
+In our view, the manufacturer needs to have the possibility to declare for how long which security 
+support can/will be provided along the life cycle. Stronger transparency obligations to disclose the 
+duration of available support (while maintaining flexibility to determine that duration and adjust it) 
+strike the correct balance. In when the customer is known to (registered) an obligation for 
+information on of service could be an additional option 
+For more details se attachment with comments for this question as well as position paper 
+prepared in relation to related proposed requirements in eco-design regulation Lot X 
+(https://www.digitaleurope.org/resources/technical-annex-on-operating-system-update-
+requirements-in-proposed-lot-x-regulation/).  
+Cyber threats can change over the time, new vulnerabilities can be discovered; one obvious 
+solution to this are software updates but there are other systemic solutions, too. Concerning 
+software updates, there is no optimum period applicable to all products, all situation and all 
+customer demands. Obligatory provision for a too long time must cover lots of scenarios and can 
+easily be overdesigned and expensive. The best way to address this is by transparency: as long as 
+there is the legal obligation to be transparent as to the period during which software updates are 
+guaranteed, the market will offer the best solution for all customers.  
+Moreover, in most industrial scenarios good security governance requires the involvement of all 
+stakeholders in the value chain through an overall Risk Assessment specific to the deployment, so 
+that a restrictive legislation putting responsibility only on manufacturers/developers would be 
+counterproductive to the overall ecosystem.  
+Lastly some lifecycle stages are not under the control of manufacturers, so applying very strong 
+constraints to manufacturers/developers may not bring any security improvement in the end if 
+other links in the value chain are left unaddressed by the legislation.In fact, each affected 
+stakeholder (or actor) should secure life cycle stages over which he has control. For instance, apart 
+from vendors and or manufacturers, operators and other service providers of complex IT systems 
+and telecom networks are in charge for operational security of a deployed networks/systems 
+where they need to continuously assess the performance of the network to meet the defined 
+security threshold levels. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIGITALEUROPE Comments  
+ 
+ 
+ 
+ 
+General:  
+Security requirements must be based on a risk analysis and can be completed by compensating 
+countermeasures at the system level. 
+Row 1: For Secure Design developers searching for creating secure products should implement a 
+secure development lifecycle process, capable to manage the right practices for supply chain and 
+product lifecycle.  
+Row 4: We are unclear about what “fully” updatable means. Security updates are certainly a key 
+for cyber security, hence is updatability. Yet, depending on use cases there can be exceptions to 
+the need for full updatability, for instance not every component needs to be / can be updated in a 
+complex system. A further barrier are legacy systems with long life span used in more complex 
+products that need the interoperability with the older component. On update as such see also our 
+position paper (See DIGITALEUROPE, Technical annex on operating system update requirements in 
+proposed Lot X Regulation, available at https://www.digitaleurope.org/wp/wp-
+content/uploads/2022/05/DIGITALEUROPE-Technical-annex-on-software-updates-for-Lot-X-
+09.11.21.pdf.) 
+Row 5: the exact point in time when updates are to be delivered depends on the kind of 
+vulnerability. 
+Row 6: Security updates are certainly a key for cyber security. While there are certainly security 
+updates free of charge (for instance to keep the product in conformity), it should not be a general 
+obligation for updates to be free of charge. The value of these updates depends on the 
+circumstances, the use cases and the timeframe (see also position paper). We believe free 
+security updates should be limited to the requirements of legislations, not in general. For some 
+B2B products, provision of security updates can be depending on support contracts. 
+Row 8: DDoD protection cannot be mitigated at product level alone. DDOS protection shall make 
+use technics and architectures according to state of the art and encompass both products and the 
+environment in which the products operated. 
+Cybersecurity awareness programs to make users aware of how to secure their devices and bad 
+practice.  
+There are several other well-known measures to improve cyber security, which are however 
+dependent on use case, operational environment, intended use and the associated risk. Care 
+should be taken not to stipulate explicit technical requirements in the law itself. 
+ 
+Q18: Under this initiative, hardware manufacturers and software developers would need to 
+demonstrate their compliance with cybersecurity requirements. Should digital products with a higher 
+risk be subject to a stricter process of demonstrating conformity with these requirements? 
+No DIGITALEUROPE Comments 
+Q18a: The way hardware manufacturers and software developers would be required to demonstrate 
+their compliance with cybersecurity requirements could be made dependent on the risk associated 
+with a specific product. What categories of risk should such a risk-based methodology take into 
+account? (multiple answers are possible) 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+Q18b: Who should determine the risk associated with a product and, as a result, its risk 
+categorisation? (multiple answers are possible) 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q19: How would you assess the following statement regarding self-declaration as a way for hardware 
+manufacturers and software developers to demonstrate compliance with security requirements (on a 
+scale from 1 to 5 with 5 indicating that you strongly agree)? 
+No DIGITALEUROPE Comments 
+Q20: If you consider that self-declaration is not enough to demonstrate compliance with security 
+requirements, do you think that the involvement of a third party should be required under certain 
+circumstances? 
+DIGITALEUROPE Comments  
+ 
+ 
+Third party verification as such doesn't make a product more secure. 3rd party verification must be 
+an option when a manufacturer chooses to apply it. 
+Risk of loss of personal data, the "societal importance" as such is difficult to quantify and the 
+number of users alone it is not correlated with the cybersecurity risk, risk should take into 
+account the impact on the number of users, but these are covered by the intended use and risk 
+to safety/data loss. Further, risks should be estimated on the basis of evidence.  
+ 
+The manufacturer is best positioned to know the product and its risk, whereas the legislator can 
+set a certain framework.  
+Authorities are relevant for market surveillance to verify whether the risk was correctly 
+estimated. 
+Authorities are also relevant as a consultancy support early in the design phase. 
+Other: As intended use and operational environment is relevant in B2B also the product 
+customer should be considered and could even participate in the risk assessment. 
+Section 3: Stakeholder impact of potential regulatory measures  
+Q21: To what extent do you agree with the fo llowing statements that look into the potential 
+effectiveness of an EU initiative on horizontal (cross-sectoral) cybersecurity requirements? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+Q22: The EU Action Plan on synergies between civil, defence and space industries  underlines the 
+importance of promoting and applying common standards across sectors and the increased relevance 
+of digital products that are used both in a civilian and military context (‘dual -use products’). To what 
+extent could horizontal requirements applying to digital dual -use products contribute to moving t he 
+security performance of such products closer to the needs of the defense community and to raising 
+the overall level of cybersecurity in civilian uses (on a scale from 1 to 5 with 5 indicating a very positive 
+contribution)? 
+DIGITALEUROPE Comments  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q23: How would you assess the impact of the following types of intervention on the costs of your 
+organisation (on a scale from 1 to 5 with 5 indicating that the intervention would be very costly)? 
+DIGITALEUROPE Comments 
+ 
+ 
+Sub-section 3.c. – Regulatory burden and costs for small and medium-sized companies 
+ 
+ 
+ 
+Horizontal requirements will raise the security level of products and may make them interesting 
+for some "military" but non-operational use (such as connected appliances in military barracks). 
+However, usually mil specs are higher than civil requirements due to a different risk profile. 
+Generally, we’re not in the position to estimate whether there are other benefits. 
+Looking at the threat landscape, threat actors appear to target both the civil and defense 
+sectors. For example, nation state sponsored groups and advanced persistent threats often 
+attack both sectors. Therefore, for dual use devices, a good level of cyber security protection 
+should have standards that are applicable for both civil and defense sectors. 
+However, civilian users especially in B2C context will not use products which are difficult to 
+install or use – even if it means the device is more secure.  
+These are challenging requirements especially when it comes to dual use devices. 
+ 
+ 
+ 
+Any additional requirement costs money. The relevant question is however, if the investment is 
+worth it. Amending existing legislation leads to overlap and thus increased excessively cost due to 
+double testing double documentation possibly solutions for conflicting requirements when more 
+than one law applies. 
+On Guidelines: It would be good guidance for the IT Security team. If there is a priority list for the 
+guidance, then easier to implement. However, Guidelines have the risk to be taken up by some 
+players only thus effectively creating a market fragmentation 
+Quantifying and identifying cost implications is extremely challenging as it varies based on the 
+design processes of the organization, legislative requirements, and business sector. Even a minor 
+security change could have great impact if redesigns were required. Arguably, good security 
+practices (e.g., secure development life cycle) could reduce the likelihood of a major rework to 
+mitigate these redesign costs. Nevertheless, legislative, or other security process requirements may 
+increase costs, e.g., testing/scanning costs. 
+ 
+Row 1 in the table: Alignment at Union level is better than national solutions, yet it’s not enough. 
+Global alignment should be the target. Additional comments on Q21 are added at the end. 
+ 
+ 
+ 
+Q24: Which of the following approaches would in your view ensure that small and medium -sized 
+hardware manufacturers and software developers, including individual entrepreneurs, are subject to 
+proportionate obligations (balance between administrative burden and compliance costs on the one 
+hand and a high level of cybersecurity on the other hand) under a European legislation introducing 
+mandatory horizontal cybersecurity requirements (on a scale from 1 to 5 with 5 indicating that you 
+strongly agree with a statement)? 
+DIGITALEUROPE Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q25: An EU initiative laying down mandatory horizontal cybersecurity requirements would apply to 
+all vendors placing products on the internal market, irrespective of their origin and location. To what 
+extent would you agree with the following statements regard ing the impact on competition of such 
+an initiative (on a scale from 1 to 5 with 5 indicating that you strongly agree with a statement)? 
+No DIGITALEUROPE Comments 
+ 
+Q26: To what extent to you agree with the following statements regarding the impact of horiz ontal 
+cybersecurity requirements on fundamental rights (on a scale from 1 to 5 with 5 indicating that you 
+strongly agree with a statement)? 
+No DIGITALEUROPE Comments 
+  
+Risk-based requirements should be applied equally across businesses of all sizes unless the size of the 
+business directly impacts the risk. It is more likely that the type of product or its breadth of use will 
+differ between smaller and larger businesses in which case the risk-based requirements should be 
+based on those characteristics rather than business size. 
+If EC wants to introduce a levelled play field for the European marketplace all the hardware 
+manufacturers and software developers shall be subject to the same cybersecurity requirements. 
+Having said that, we should not make any compromise on the baseline product security quality. For 
+SMEs, a specific mechanism should be available for the cyber governance of the society to reach 
+business resilience.  
+However, any simplification for SMEs should be only for administrative or governance requirements – 
+the security of their products must not be compromised compared to larger companies. 
+ 
+Section 4: Other issues  
+Q27: In addition to the issues above, are there other cybersecurity related challenges not directly 
+linked to the cybersecurity of products that you think the Cyber Resilience Act should include  to 
+enhance the cyber resilience of the internal market? Please elaborate (1000 characters maximum) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please also consult DIGITALEUROPE’s position paper attached.  
+Other relevant aspects 
+• The CRA should stay as focussed as possible in order not to create regulatory overlap and 
+legal uncertainty. Rather than applying the CRA to every possible situation, it is of utmost 
+importance that the CRA clarifies and simplifies its relationship with existing and 
+upcoming regulations (for example the reuse of the RED conformance within the CRA 
+framework) 
+• Alignment on use of international standards and approaches to cybersecurity (reducing 
+redundant regional policies and certifications), mutual recognition. 
+• The CRA needs to be flexible enough for technology modernization, addressing especially 
+retirement of legacy systems. 
+• The technological requirements and policies for cybersecurity should be developed in a 
+more open and transparent way and be inclusive of industry feedback. 
+• Ensure coherence alignment with already existing cybersecurity legislation – clarification 
+on how the existing cyber legislation (on the local level) will interact with the Cyber 
+Resilience Act. Clear definitions are needed for digital products, hardware products, 
+software products and ancillary services. 
+• Increasing the security of open-source software is an area that commands a significant 
+public value where both users and developers would benefit from increased security of 
+open-source software. To that end, proposals from the European Commission on how 
+this effort could be organized and supported by safeguarding security is welcome. 

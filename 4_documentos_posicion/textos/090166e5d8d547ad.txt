@@ -1,0 +1,329 @@
+EuroHeart: European Unified Registries On
+Heart Care Evaluation and Randomized Trials
+An ESC project to develop a new ITregistry system which will encompass multiple
+features of cardiovascular medicine
+In July 2019, the ESC Board agreed to co-ordinate and sponsor the
+development of the European Unified Registries On Heart care
+Evaluation And Randomized Trials (EuroHeart) for supporting assess-
+ment and improvement of quality of cardiovascular care in Europe
+based on continuous recording of individual patient data. EuroHeart
+will offer a common IT- and dataset infrastructure, which will allow par-
+ticipating countries to undertake continuous quality improvement, with
+the added value of providing a platform for observational and random-
+ized research and post-marketing surveillance of new devices and phar-
+macotherapies. The national quality development programme,
+infrastructure, and the database will belong to each participating coun-
+try. The EuroHeart will have the potential to stepwise include most
+ESC countries, which could either adopt the proposed EuroHeart com-
+mon infrastructure or align already existing systems to the EuroHeart
+data collection. The EuroHeart project will focus on common disease
+areas: ACS-PCI, valve disease, heart failure, and atrial fibrillation. Initially,
+EuroHeart will develop standardized datasets and quality indicators for
+these diseases and devices. In parallel, the SWEDEHEART IT-platform
+will be updated to be internationallyavailable and transferable, under a
+license agreement, to participatingcountries. During the first 2 years,
+the EuroHeart system will be implemented and evaluated in 2–4 coun-
+tries. Following this pilot phase, the EuroHeart project may be rolled
+out to other countries. EuroHeart will also develop a Data Science
+Centre coordinating similar statistical analyses from participating coun-
+tries. When implemented in several ESC member countries, EuroHeart
+will have the potential to improve thestandards of cardiovascular care,
+monitor the safety of new devices and medications, and provide an
+important collaborative infrastructure for observational research and
+within-registry randomized controlled trials.
+Background and rationale
+Major advances in cardiovascular medicine have been driven by inno-
+vations in basic research in biological and technical sciences. The sub-
+sequent testing in prospective randomized controlled trials (RCT) has
+provided the evidence underpinning the introduction of new, more
+effective, and safer treatments.
+In 2009, the ESC launched the EuroObservational Research
+Programme (EORP) which aimed to promote and monitor the imple-
+mentation of new treatments as well as the adherence to the ESC Clinical
+Practice Guidelines. The EORP provides important information on the
+development of the treatment of cardiovascular disease in Europe but has
+been criticized concerning data quality, representativeness and coverage
+regarding common diseases. In 2018, it was agreed that there was a need
+to further develop ESC-generated observational data and simultaneously
+expand the scope of the registry programme to also include a quality
+development programme, long-term monitoring of medical devices and
+pragmatic RCTs and under instruction of the ESC Board, the principles
+and pilot phase of European Unified Registries On Heart care Evaluation
+And Randomized Trials (EuroHeart) project were developed in 2019.
+This article presents a summary of the EuroHeart programme.
+Improving the quality of observational
+data
+For rare cardiovascular diseases, EORP constitutes a unique pro-
+gramme of observational research, providing greater understanding of
+uncommon cardiac diseases and the effects of associated treatments.1–4
+However, when applied to common cardiovascular diseases, EORP
+has been criticized with regard to the quality, representativeness, and
+coverage of the data at the hospital, country, and European level,
+partly because the EORP programme records data from a limited
+number of selected hospitals over short periods of time in each par-
+ticipating country.
+5–7 There was also the perception that such data
+collection would be undertaken for the ESC with limited return to
+the contributing centres and countries. In contrast, continuous indi-
+vidual patient data collection in a large number of hospitals in each
+country would provide reliable, representative, and generalizable
+data, which would help the development and monitoring of quality of
+care programmes at the hospital level both in each country and
+across different countries, as well as provide an infrastructure for
+observational research, long-term safety surveillance, and RCTs.
+Such opportunities are aligned with the ESC’s mission to reduce the
+burden of cardiovascular disease and address three out of the four
+strategic trends identified in the strategic plan for 2016–20, that is,
+technology revolution; globalization, and geographic reach; and the even
+more stringent regulatory environment.
+Improving European cardiovascular care
+The advantages of continuous national registries aiming to support
+continuous quality improvement at the hospital and country level have
+Published by Oxford University Press on behalf of the European Society of Cardiology 2019.
+European Heart Journal (2019) 40, 2745–2759
+doi:10.1093/eurheartj/ehz599
+Downloaded from https://academic.oup.com/eurheartj/article/40/33/2745/5556633 by guest on 01 February 2021
+Ref. Ares(2021)869986 - 01/02/2021
+been demonstrated by the Swedish, and more recently, the UK mod-
+els. These systems use continuous data collection and provide online
+reports focusing on the processes of care and outcomes concerning
+common cardiovascular diseases and interventions.
+8,9 These registry
+models have an established track record of substantially improving
+quality of care, resulting in improved outcomes, which has been docu-
+mented in numerous publications in high-impact journals.
+10–15 The
+ESC, therefore, plans to support a programme for continuous data col-
+lection of standardized and/or harmonized variables in common cardi-
+ovascular diseases and devices using IT-systems that provide
+immediate feedback to the users in order to monitor and influence
+quality of care on a day-by-day basis.
+Providing a system for safety surveillance
+of cardiovascular devices
+Over the last decade, there has been an increase in the development
+and use of new implantable devices for the treatment of cardiovascular
+diseases. The level of evidence required to obtain regulatory approval
+for new devices will increase substantially in the forthcoming years.
+Furthermore, the new European Regulation on Medical Devices man-
+dates that new devices will require post-marketing surveillance for
+safety and efficacy. Ideally, this should be conducted independently by
+an academic body or professional medical association, with compre-
+hensive coverage. We believe that continuous national disease-
+focused registries, coordinated by the ESC, would significantly contrib-
+ute to post-marketing surveillance of devices, improving quality, being
+independent, and with reduced costs.
+16,17
+Performing registry-based randomized
+controlled trials
+In recent years, there has been a considerable reductioni nt h ed e v e l o p -
+ment of new drugs for cardiovascular diseases.18 This is partly due to
+the perception that the price payers would be willing to pay for agents
+that are expected to yield a moderate beneficial effect on a large number
+of eligible patients would not bring sufficient financial gains to industry,
+given the spiralling costs associatedwith bringing a new drug to the mar-
+ket. In particular, the current complex regulatory environment has con-
+tributed to increasing the cost of RCTs manyfold. The ESC believes that
+access systems with continuous registration of high quality, harmonized
+patient data at entry and over time, for different diseases across multiple
+geographies, will allow for performing more pragmatic randomized trials
+in the general patient populations while substantially reducing the cost
+burden, as demonstrated by SWEDEHEART.
+19–21
+How to establish national continuous
+quality registries
+The key to success of national continuous quality registries is establish-
+ing a network of hospitals and healthcare personnel with a culture
+focused on continuous learning and quality development. To maintain
+engagement and enthusiasm, the registries need to provide non-
+selective, continuous monitoring and on-line feedback of patient char-
+acteristics, processes of care, and health outcomes. Another important
+component is the implementation of a reliable, user-friendly infor-
+matics infrastructure to support data entry and immediate online feed-
+back on performance including both system- and custom-designed
+tabular and graphical comparisons over time, with other similar
+centres and with guidelines. A third important option is the
+opportunity to obtain long-term outcomes in all patients by merging
+the data with public registries on vital status, causes of death, hospital
+admissions, records from general practice, pharmaceutical prescrip-
+tions, and eventually patient-related outcome measurements. A fourth
+component is the access to an advanced epidemiology and statistical
+data centre ensuring a scientifically robust assessment of the strength
+of the associations between treatment strategies and health outcomes.
+Finally, a fifth important part is dissemination of the results through
+publication in major cardiovascular journals, followed by their inclusion
+in national and international guidelines, which might lead to changes in
+treatments and improved outcomes.
+Accomplishments by continuous quality
+registers
+To date, the Swedish and UK continuous national cardiovascular regis-
+tries have:
+• Continuously monitored and supported improvements in the qual-
+ity of cardiovascular care at individual centres and nationwide.9–12
+• Conducted novel observational research based on long-term fol-
+low-up of outcomes in all patient s; e.g., concerning temporal and
+spatial variation in care and outcomes; associations between expo-
+sure (environmental/pharmacotherapies) and cardiovascular out-
+comes; international compari sons of care; development and
+validation of prognostic models and indicators of quality; and bur-
+den of disease in specific populations.
+9–15
+• Shown that implementation of new effective treatments is associ-
+ated with a reduction in the mortality and morbidity of patients
+with acute myocardial infarction.
+10–15
+• Enabled continuous safety surveillance of PCI and valve devices
+including comparisons of outcomesof different devices and patients
+managed with and without devices (Sweden).16,17
+• P e r f o r m e dr e g i s t r y - b a s e dr a n d o m i z e dc o n t r o l l e dt r i a l s( R R C T s )t h a t
+have changed international treatment guidelines and improved health
+outcomes and cost-effectiveness ofhealthcare concerning indications
+for invasive coronary treatments, types of coronary stents, medical
+treatments in ACS, and the routine use of oxygen (Sweden).
+19–21
+The SWEDEHEART IT -platform
+Briefly, the Swedish national cardiology quality registries have established
+an infrastructure with continuous and online recording of data and imme-
+diate feedback concerning processes of care and outcomes on all
+patients. The associated IT-platform generates both system- and custom-
+designed user-friendly tabular and graphic reports on processes and
+changes of care and outcomes for each user, whenever requested.5,6
+The system includes information on all implanted devices in enough
+detail to fulfil the regulatory requirements. Thereby the system can moni-
+tor the technical performance of the implanted devices and provide safety
+surveillance also concerning healthoutcomes with different devices.
+5,6
+Finally, the infrastructure also includes an application for prospective
+RRCT, which can be integrated in different registries and may also be
+combined with more conventional collection of follow-up data in so-
+called hybrid trials (combining technologies both from RCT and RRCT).8,9
+EUROHEART: a new ESC
+initiative
+EuroHeart is a new ESC initiative for supporting continuous quality of
+care development based on individual patient data. The main aims are
+2746 CardioPulse
+Downloaded from https://academic.oup.com/eurheartj/article/40/33/2745/5556633 by guest on 01 February 2021
+
+to support continuous quality of care improvement and provide an
+infrastructure for observational and randomized research and safety
+surveillance of new devices and drugs. EuroHeart will be an ESC coor-
+dinated programme, which will support the development of national/
+local registry programmes using a common dataset and where the
+national infrastructure and database will belong to the respective par-
+ticipating country (Figure 1). EuroHeart will, as an option, provide an
+IT- and dataset infrastructure to allow participating countries to under-
+take continuous quality improvement, with the added value of being
+able to perform collaborative observational and randomized research
+and the post-marketing surveillance of new devices and pharmaco-
+therapies. The system will address the common disease areas: ACS-
+PCI, valve disease, heart failure, and atrial fibrillation and the devices
+used in these conditions.
+EuroHeart has the potential to include most ESC country members
+through stepwise implementation. Given a harmonized methodology
+for the collection of standardized data, EuroHeart will enable the pool-
+ing and interrogation of data from participating countries. Moreover,
+this approach has the potential to improve cost efficiency both at the
+country level and at the European level. Notably, EuroHeart is com-
+pletely aligned with the ESC mission to reduce the burden of cardio-
+vascular disease. Acting as the project sponsor, the ESC will create and
+support the EuroHeart organization, which will work with national car-
+diac societies and/or other local stakeholders on the development and
+deployment of an efficient and harmonized infrastructure for running
+continuous quality registries.
+EUROHEART development in practice
+Presently around 20 countries have indicated an interest in developing
+a similar infrastructure and participate in the EuroHeart project.
+During the first 2 years, the plan is to perform a pilot phase by imple-
+menting the international version of the EuroHeart system and IT-
+platform in 2–4 countries (Figure 2). The selection of the countries will
+be based on the availability of dedicated national champions working
+with a network of hospitals willing to join and invest time and efforts in
+the quality registry programme and with the potential to develop and
+sustain an administrative and IT-infrastructure primarily based on their
+own national resources. Participating countries will also need to have a
+Figure 1 Illustration of the EUROHEART network based on ESC co-ordinated national quality registers with collaboration standardized datasets,
+device surveillance, registry-based randomized controlled trial, and with an option to use a common IT-infrastructure and access to the
+EUROHEART data science centre.
+CardioPulse 2747
+Downloaded from https://academic.oup.com/eurheartj/article/40/33/2745/5556633 by guest on 01 February 2021
+
+public healthcare system based on personal identifiers with an option
+to get information on long-term clinical outcomes through linkage of
+their data with other databases. There will also be a requirement of
+the pilot countries to have support from the local health authorities
+and preferably also from the governments.
+The pilot phase will investigate the possibility of promoting and facil-
+itating the adoption of the continuous national registry model, as
+developed by SwedeHeart, for data acquisition, quality development,
+device surveillance, and RRCTs on major cardiovascular disease areas
+across several of the ESC countries. After this pilot study, the
+EuroHeart project may be rolled out to other countries.
+Representatives from the participating and interested countries will be
+involved from the very beginning in the development of EuroHeart
+and be members of the different subcommittees. EuroHeart will be
+organized as an ESC coordinated collaboration between national qual-
+ity registries of cardiovascular diseases where all members are autono-
+mous parts of the system controlling their own registry infrastructure,
+their IT-platform, their databases and all national activities (Figure 1).
+The executive committee coordinating the scheduled activities in the
+pilot phase is presented inFigure 3.
+T o establish EuroHeart the ESC will:
+(1) Initiate, support, and co-ordinate the development of national con-
+tinuous quality registry infrastructures.
+(2) Provide a common dataset of standardized variables and quality indi-
+cators for common cardiovascular diseases for use in the national
+registries.
+(3) Provide an optional IT-infrastructure for quality registries [e.g. the
+QReg5 platform developed and maintained in Uppsala Clinical
+Research Center (UCR), Sweden] providing tools for local quality
+development, data management, local statistical analyses, device
+monitoring, and registry-based clinical trials.
+(4) Support the development and analyses of common datasets by pro-
+viding tools for preparing national datasets of predefined variables
+for use in collaborative analyses.
+(5) Establish a data science centre (IT system and platform) that will co-
+ordinate and support the statistical analyses and reporting of results
+from common datasets based on initiatives from any of the partici-
+pants in the collaborative group.
+(6) Establish a support organization that ensures the sustainability of
+EuroHeart over time.
+Conclusion
+The ESC decision to co-ordinate and sponsor the development of the
+EuroHeart registry system is a change of paradigm on how to further
+reduce the burden of cardiovascular disease with large geographic
+reach in an era of IT-technology revolution but often unsurmountable
+costs of clinical trials and an increasingly stringent regulatory environ-
+ment. When implemented in several ESC member countries,
+EuroHeart will have the potential to continuously improve the stand-
+ards of cardiovascular care, monitor the safety of new devices and
+medications, and provide an important collaborative infrastructure for
+observational research and RCTs.
+Figure 2 EUROHEART—pilot phase overview.
+2748 CardioPulse
+Downloaded from https://academic.oup.com/eurheartj/article/40/33/2745/5556633 by guest on 01 February 2021
+
+Lars Wallentin1, MD, PhD, Chris P Gale2,3 MBBS, PhD; Aldo Maggioni4
+MD, PhD, Isabel Bardinet5 and Barbara Casadei6 MD, DPhil
+1Department of Medical Sciences and Uppsala Clinical Research
+Center, Uppsala University Uppsala, Sweden; 2Leeds Institute of
+Cardiovascular and Metabolic Medicine, University of Leeds, Leeds,
+UK; 3Leeds Institute for Data Analytics, University of Leeds, Leeds, UK
+4EURObservational Research Programme, European Society of
+Cardiology, Sophia Antipolis, France;5European Society of Cardiology,
+Sophia Antipolis, France; 6Radcliffe Department of Medicine, Division
+of Cardiovascular Medicine, NIHR Biomedical Research Centre,
+University of Oxford, Oxford, UK
+Conflict of interest:none declared.
+References
+References are available assupplementary materialat European Heart
+Journalonline.
+Figure 3 EuroHeart—pilot phase organization.
+Correspondence:
+Lars Wallentin, MD, PhD,
+Department of Medical Science and 
+Uppsala Clinical Research Center, 
+Uppsala University, 
+Uppsala, Sweden
+Tel:  +46 18 611 95 00
+Email: Lars.Wallentin@ucr.uu.se
+CardioPulse 2749
+Downloaded from https://academic.oup.com/eurheartj/article/40/33/2745/5556633 by guest on 01 February 2021

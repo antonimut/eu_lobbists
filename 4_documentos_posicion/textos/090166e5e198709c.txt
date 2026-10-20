@@ -1,0 +1,254 @@
+Feedback on the Commission’s EU Digital Identity Proposal  
+We welcome the opportunity to provide feedback on the Proposal for a Regulation of the European 
+Parliament and of the Council amending Regulation (EU) No 910/2014 regarding the establishment 
+of a framework for a European digital identity (“EU Digital Identity Proposal”). We understand 
+that the EU Digital Identity Proposal follows on from the European Council Conclusions which 
+called “for the development of an EU-wide framework for secure public electronic identification 
+(e-ID), including interoperable digital signatures, to provide people with control over their online 
+identity and data as well as to enable access to public, private and cross-border digital services”.  1
+Security, privacy and user experience are of utmost importance for any initiative to digitise identity 
+credentials, and it is imperative to protect an individual’s identity to ensure broad adoption and 
+usage of digital identities. Apple has designed a technical architecture whereby users can easily 
+add, view and manage their identity cards. The Apple Wallet application takes full advantage of the 
+privacy and security built into iPhone and Apple Watch. Users’ identity data is encrypted and 
+protected against tampering and theft. Biometric authentication using Face ID and Touch ID 
+ensures that only the person who added the ID to their device can view or present their ID or 
+driver’s license in the Apple Wallet application.  
+The European Institutions are in a unique position to provide leadership across Member States and 
+to develop a framework based on common international standards and approaches for digital 
+identities, avoiding a fragmented country-by-country approach which fails to account for the 
+mobility of European users and cross-border service offerings. We therefore support the 
+development of an EU-wide framework for digital identities and the objective of providing EU 
+citizens with control over their online identity and data. We further welcome the stated goal of 
+developing a harmonised approach for a digital identity usable across the EU to reduce 
+fragmentation from divergent national solutions. We strongly believe that the European Institutions 
+should work towards the adoption of common international standards for digital identities to meet 
+this objective.  
+We see several opportunities for improvement in the context of the existing EU Digital Identity 
+Proposal. In this document we have laid out our key observations which we are happy to elaborate 
+upon further during technical and implementation discussions (e.g., as part of the development of 
+the Toolbox) in cooperation with the relevant European Institutions, and which we strongly believe 
+the EU Digital Identity Framework should take into account. These observations concern several 
+essential topics, including:
+•data protection and data minimisation requirements;
+•EU Digital Wallet acceptance requirements for private parties, including eligibility criteria; 
+•IP rights holder consultation and engagement; and
+•security certiﬁcation requirements and requirements for qualiﬁed certiﬁcates for website 
+authentication.
+It is critical, in our view, that the EU Digital Identity Framework does not undermine security and 
+privacy for users and does not create avenues for malicious actors to target or compromise 
+sensitive consumer data, posing significant risk of harm to users. 
+1.Adoption of international standards 
+The Commission recommends that Member States develop a Toolbox for a coordinated approach 
+towards a “EU Digital Identity Framework" and that this Toolbox will include a comprehensive 
+technical architecture and reference framework, a set of common standards and technical 
+ https://www.consilium.europa.eu/media/45910/021020-euco-final-conclusions.pdf 1
+1
+Ref. Ares(2021)5422844 - 02/09/2021
+references and a set of guidelines and descriptions of best practices covering at least all aspects 
+of the functionalities and interoperability of the “EU Digital Identity Wallets” .  
+We support the objective of ensuring a common approach and technical architecture for EU Digital 
+Identity Wallets, and we urge the relevant European Institutions to push for the adoption of 
+international standards, specifically, ISO 18013-5 (Mobile driving licence or “mDL”) and 23220 
+(eID) (in the following referred to as “ISO Standards”) as common standards for the EU Digital 
+Identity Framework and Toolbox. There are significant important benefits that derive from an 
+adoption of the ISO Standards as common standards for the EU Digital Identity Framework and 
+Toolbox. These include the following: 
+•Standardisation and acceptance: Adopting the ISO Standards will greatly facilitate the 
+establishment of a standardised identity payload for relying parties to process. This is critical to 
+achieve the stated objective of broad acceptance of digital identities by users and relying 
+parties across Member States. The adoption of the ISO Standards would ensure ease of 
+integration for digital relying parties via a single integration (based on a common API standard) 
+to enable the acceptance of digital identities issued by different Member States. ISO Standards 
+also support multiple methods for physical acceptance (including NFC and QR Code for secure 
+device engagement and BLE, NFC and Wifi Aware for data retrieval).  
+•Identity proof and authentication: The ISO Standards can also ensure that the EU Digital 
+Identity Framework meets sufficient levels of assurance to authenticate identities, enabling 
+proof of a real identity and proof of a citizen’s ownership of that real identity.  
+•Governance: The ISO Standards also support a certification process to authenticate relying 
+parties, which is key to ensure and enhance trust in the EU Digital Identity Framework. The ISO 
+Standards further provide a process to manage and distribute Member State keys to relying 
+parties for the authentication of identity credentials.  
+•Other related identity attributes: The EU Digital Identity Proposal seeks to establish an 
+infrastructure that enables the sharing of attributes and documents related to an individual’s 
+identity (e.g., work status, diploma, etc.). It is possible to leverage existing ISO specifications 
+for additional document types to support this vision. In addition, the ISO Standards support 
+future customer experiences and the European Institutions can leverage the ISO 
+standardisation work that has already been undertaken to meet the vision and requirements for 
+the EU Digital Identity Framework.  
+2.Data protection and data minimisation  
+As would be expected, the Commission is rightly placing data protection at the core of the EU 
+Digital Identity Framework to ensure the offering of user-centric, secure and privacy friendly digital 
+identity solutions. 
+We support the Commission’s data protection objectives, and strongly believe that the use and 
+processing of personal data must be underpinned by strong privacy and security protections. In 
+order to meet this objective, we believe that it is critical that the EU Digital Identity Framework (i) 
+does not cause additional identity usage data to be seen, accessible or collected by Member 
+States or other authorities that would not be currently collected in a non-digital context, and (ii) no 
+mandated intermediary must be interposed between the data being shared directly from the 
+citizen’s electronic device to the relevant relying party.  
+We would welcome clarification from the relevant European Institutions regarding the 
+Commission’s vision for how the protection of identity data, including from third-party access, will 
+be ensured, and how compliance with the General Data Protection Regulation (“GDPR”) will be 
+achieved. In order to foster and maintain user trust, it is necessary, in our view, that the EU Digital 
+Identity Framework ensures that third-party access to data is not mandated, that it is minimised 
+2
+from a technical perspective, and that — unless there is a compelling reason otherwise — identity 
+data is only shared directly between the user’s electronic device and the relevant relying party. 
+Data must also not be tracked across relying parties. This should be underpinned by strong guard 
+rails around data minimisation, requiring only the collection of the absolute minimum amount of 
+identity data that is needed in the specific instance to deliver an individual element of the identity 
+service. For example, if a particular service requires the relying party to verify that a user is over 
+the age of 18, only that piece of identity data should be shared, rather than any additional identity 
+elements such as the user’s date of birth. We believe that an adoption of the ISO Standards will 
+help to achieve this objective, and that it is critical for the relevant European Institutions to ensure 
+that the European Digital Identity Framework sets out minimum criteria to meet the requirements 
+for data protection mandated by the GDPR.  
+3.Interplay with the Digital Markets Act  
+The Commission has proposed that the EU Digital Identity Framework should build on the Digital 
+Markets Act to ensure that business users and providers of ancillary services have access to 
+certain hardware and software features, and interoperate with them through the EU Digital Identity 
+Wallets or Member States’ notified electronic identification means.  
+The Digital Markets Act Proposal is still being reviewed by the co-legislators, and has yet to be 
+adopted, interpreted or applied by the European Institutions and courts. Against this background, 
+the EU Digital Identity Proposal should not anticipate or prejudge the interpretation and application 
+of draft provisions in the Digital Markets Act Proposal.  
+In any event, we believe that any draft proposals for access in the EU Digital Identity Framework to 
+hardware or software of private companies should be analysed carefully in close consultation with 
+all relevant stakeholders, to ensure that proposed measures are proportionate, protect intellectual 
+property rights, and do not detrimentally affect privacy and security features or reduce competition 
+or innovation between different technical architectures.   
+4.Exclusion of user confirmation or simple log-in mechanisms 
+The eIDAS Regulation introduced the mutual recognition of electronic IDs and electronic trust 
+services (including e-signatures, electronic seals, electronic time stamps and website 
+authentication). The eIDAS Regulation does not apply to user confirmation or log-in mechanisms 
+(such as Facebook’s or Google’s account log-in, or Sign in with Apple) which are currently used to 
+access private online services. The Commission rightly points out that these user confirmation or 
+log-in mechanisms are self-asserted and do not offer a link to trusted and secure government 
+electronic IDs.  2
+The currently proposed definitions of “identification” and “authentication” refer to the electronic 
+identification of a natural or legal person, or the origin and integrity of data in electronic form (see 
+Article 3(2) and (5) of the eIDAS Regulation), meaning that user confirmation or log-in mechanisms 
+for access to private online services are out of scope of the eIDAS Regulation.   
+However, in light of the expansive objectives of the EU Digital Identity Proposal, and the aim that 
+EU Digital Identity Wallets be used digitally with very large online platforms, the current definitions 
+of “identification” and “authentication” could also be interpreted as covering user confirmations or 
+log-ins to private services (e.g., social networks and e-commerce services more generally). This 
+would appear to go beyond the objectives of the European Council Conclusions, and would 
+introduce a significant burden on private organisations which do not offer mechanisms that link to 
+ Commission SWD impact Assessment Report SWD(2021) 124 final page 32
+3
+government IDs and do not need to offer the levels of authentication and assurance required under 
+the eIDAS Regulation for access to their services.  
+We would therefore welcome changes to the EU Digital Identity Proposal explicitly excluding from 
+the scope of the eIDAS Regulation (and specifically the definitions of “identification” and 
+“authentication”), those user confirmation and log-in mechanisms that do not aim at or require the 
+actual and formal verification of the identity of an individual (e.g., reviewing name and surname, ID 
+cards, etc.).   
+5.Optional acceptance of EU Digital Identity Wallets and eligibility criteria 
+The Commission is proposing that private relying parties providing services in numerous sectors 
+(e.g., transport, energy, banking and financial services, social security, health, drinking water, 
+postal services, digital infrastructure, education or telecommunications) should be obliged to 
+accept the use of EU Digital Identity Wallets for the provision of services where strong user 
+authentication for online identification is required by national or European Union law or by 
+contractual obligation.  
+While we support the wider usage and acceptance of EU Digital Identity Wallets, we believe the 
+Commission’s proposal imposes significant costs and efforts on private parties, by obliging 
+organisations operating in the EU to integrate with and provide ongoing support for EU Digital 
+Identity Wallets across all Member States. Furthermore, the EU Digital Identity Proposal, as 
+currently envisaged, will create a guaranteed, mandatory cohort of both public and private relying 
+parties that are mandated to support EU Digital Identity Wallets offered by Member States as well 
+as Member State-sponsored digital identity providers. This will disadvantage companies (including 
+start-ups and small developers) offering alternative digital identity solutions, distort competition 
+and stifle innovation, in potential conflict with EU competition policy.  3
+We strongly believe that acceptance by private relying parties should be optional, and that the 
+European Institutions should encourage Member States to offer digital solutions that are attractive 
+and compelling enough for users to adopt them. We are also concerned that the Commission will 
+have the discretion to extend the list of private online service providers that could be mandated to 
+accept the use of EU Digital Identity Wallets in the future, thereby creating significant uncertainty 
+across the entire industry.  
+We would therefore welcome changes to the EU Digital Identity Proposal to state that private 
+relying parties (including online platforms, for the reasons set out in Section 4 above) are not under 
+an obligation to accept EU Digital Identity Wallets, and that such acceptance is instead made 
+optional. 
+6.IP rights holders must be consulted as part of standard setting 
+We would welcome an opportunity to participate in the development of the Toolbox and contribute 
+our expertise and learnings from developing a technical architecture for digital identities and other 
+credentials. As stated above, we strongly believe that the EU Digital Identity Framework should be 
+based on the ISO Standards.  
+Furthermore, as with other standard setting initiatives, we believe it is imperative that the setting of 
+any specification or standard that relies on IP held by a company or organisation should be 
+ Under the new Article 6a of the amending Regulation, a Member State can issue an EU Digital Identity 3
+Wallet, contract a third party to issue one or recognise a wallet issued by a third party. A company that is 
+contracted to offer an EU Digital Identity Wallet or whose wallet is recognised by a Member State under the 
+EU Digital Identity Framework, gains an unfair advantage over competitors if private relying parties are 
+compelled to accept its EU Digital Identity Wallet, and would effectively receive government support for 
+expansion of its wallet. 
+4
+preceded, at the very least, by the consultation of such company/organisation.  This approach is in 
+line with the EU Charter on Fundamental Rights, especially the right to property. It also ensures 
+that the necessary IP will be used as part of the EU Digital Identity Framework under appropriate 
+conditions and compensation for IP holders.  
+Finally, as part of the development of the Toolbox, the European Institutions should identify the 
+relevant intellectual property required to implement the EU Digital Identity Framework, and take 
+steps to ensure that (i) the specifications / standards do not breach third-party IP rights, and (ii) 
+relevant stakeholders (including relevant IP rights holders) are engaged and consulted. 
+7.Security Certification  
+We welcome the approach taken by the Commission to ensure that conformity of the EU Digital 
+Identity Wallets with the requirements under the eIDAS Regulation should be certified by 
+accredited public or private sector bodies. We believe that an approach whereby individual 
+Member States designate their own public or private sector certification bodies is likely to result in 
+fragmentation if they use divergent standards or security evaluation assurance levels.  
+In order to ensure a high level of harmonisation, certification should be based on commonly agreed 
+standards and mutual acceptance. As such, we would suggest to the European Institutions to 
+recommend the adoption of Common Criteria certification as a basis for security certification of EU 
+Digital Identity Wallets. In order to ensure that the security evaluation is proportionate in the 
+context of the solution, the European Institutions should not prescribe security evaluation 
+assurance levels, but should instead recommend high level security standards in the context of the 
+EU Digital Identity Proposal. 
+8.Requirements for qualified certificates for website authentication  
+The Commission has proposed that Qualified Website Authentication Certificates (root 
+certificates) must be automatically recognised by web-browsers (which are also required to ensure 
+support and interoperability with such root certificates). This approach creates significant security 
+risks to users for the following reasons:  
+•Each Member State will adjudicate the standard and establish its own qualified certificate 
+authority, introducing fragmentation and many points of potential failure. 
+•Browsers will lack transparency into what standard a certificate authority has met and will lack 
+recourse if a Trust Service Provider (“TSP”) is found to be acting maliciously. This would set a 
+problematic global precedent and eliminates the ability of browsers to push back on attacks on 
+the integrity of Transport Layer Security (“TLS”).  
+•The proposed changes to the eIDAS Regulation are silent on whether any corresponding 
+standards will be created to meet baseline requirements, or whether baseline requirements will 
+be maintained and improved. 
+•Users do not interact with Extended Validation (“EV”) TLS certificates which is why browsers 
+generally moved the EV information out of the address bar (although users can still click on the 
+lock icon to see it). Qualified Website Authentication Certificates do not appear to have any 
+additional benefit to users over EV TLS certificates. Additionally, there are many examples 
+showing that the organisational identity information provided in a certificate may be 
+misleading. 
+In addition, from a product and user safety perspective, the following considerations should be 
+taken into account: 
+•The creation of user displays on devices as small as a smartwatch is technically challenging. 
+Imposing additional constraints, without data-backed justification for doing so, is detrimental 
+to producers’ ability to innovate and improve. 
+5
+•The best protections for users derive from highlighting danger, rather than safety. Users 
+presume safety, and therefore indicating safety does not statistically change users’ decision-
+making. Highlighting instead those sites which are not secure fosters the objective to ensure 
+effective user protection. 
+We strongly believe that the current proposals will not only undermine the security of browsers, 
+but are in fact contrary to how root programs operate, and will create a problematic global 
+precedent that eliminates the ability of browsers to repel malicious attacks. Consequently, we 
+would welcome it if the European Institutions considered withdrawing these proposals for 
+automatic recognition of and interoperability with Qualified Website Authentication Certificates.  
+Conclusion  
+The European Institutions have an opportunity to deliver on innovation and broad user adoption of 
+electronic IDs and EU Digital Identity Wallets, including on a cross-border basis. In our view, the 
+success of these projects will derive from (i) the reliance on international technical standards 
+which are interoperable and facilitate integration, (ii) a strong focus on security, data protection 
+and user experience as well as (iii) effective and collaborative engagement with industry 
+stakeholders.  
+We look forward to continuing our engagement with the European Commission, the European 
+Parliament and the Member States in this context, including regarding the development of the 
+Toolbox. 
+6

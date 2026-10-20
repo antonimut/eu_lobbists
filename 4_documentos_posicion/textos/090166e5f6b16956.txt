@@ -1,0 +1,235 @@
+The Cyber Resilience Act:Unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+We, the undersigned organisations, are responsible for the development and maintenance ofsome of the most well-known and widely adopted Open Source Internet InfrastructureSoftware.
+NLnet Labs(www.nlnetlabs.nl) is a small, independentpublic benefit organisation foundedin 1999. Its mission is to write open-source software and contribute to open standards for theDomain Name System and (safe) inter-domain routing, thereby improving the robustness,security and reliability of the Internet. NLnet Labs maintains widely used implementations forDNS includingNSDandUnbound, and the safety of inter-domainrouting includingKrill andRoutinator.
+CZ.NIC(www.nic.cz) is an association responsiblefor running the registry for the top leveldomain of the Czech Republic (.CZ). CZ.NIC also develops and maintains a set of opensource software in the area of internet infrastructure like routing daemonBIRDand DNSserversKnot DNSandKnot Resolver.
+Internet Systems Consortium, Inc(www.isc.org) a not-for-profitcompany (operating underUS IRC section 501(c)3) based in the US, is dedicated to developing software and offeringservices in support of the Internet infrastructure.   ISC is responsible for developing anddistributing three widely-deployed open source Internet networking software systems:BIND9,ISC DHCP, andKea DHCP, and operating one ofthe 13 root name server systemsof the Internet.
+The Network Device Education Foundation(NetDEF -www.netdef.org) is a not-for-profitcompany (operating under US IRC section 501(c)3) based in the US. NetDEF maintains,tests and develops the CI/CD infrastructure for and is a major maintainer of theFRR (FreeRange Routing) project. FRR implements OSPF, IS-IS,BGP, RIP, RIPng, and other routingprotocols and is used widely as the routing application in other open source projects.
+Ref. Ares(2023)500015 - 23/01/2023
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+Contents1 Introduction: focus of this submission 3
+2 The organisations making this submission 3
+3 Open Source Internet Infrastructure Software 43.1 Definition of Open Source Internet Infrastructure Software 43.2 Factors that assure security and stability of Open Source Internet InfrastructureSoftware 43.2.1 Diversity of solutions 43.2.2 Stable governance of the open source project 53.2.3 An ethos of releasing software only when it is ready 53.2.4 Making source code available to a large community of sophisticated users 53.2.5 Robust system to enable reporting and addressing vulnerabilities 53.3 The special challenge of recurring finance 6
+4 How the CRA could jeopardise the security and stability of Open Source InternetInfrastructure Software 7
+5 Concerns about the CRA as applied to organisations that manage Open SourceInternet Infrastructure Software 75.1 Proving compliance for our processes of secure development diverts resources froma practice we have run for decades and are fully self-motivated and incentivized toperform and perfect 75.2 Third party audits for “critical products” will be a costly burden unlikely to improve thequality of our software 85.3 A requirement to fix all “known exploitable vulnerabilities” without regard to severitywould skew engineering effort into tasks with increasingly diminished security impact 95.4 Taking away our ability to provide security patches ahead of public availability tooperators of critical internet infrastructure 105.5 Overly broad and novel reporting obligations (Article 11) 105.5.1 Obligations to report incidents related to third party use of our software conflictswith our role in vulnerability remediation 105.5.2 Obligation to report manufacturer’s security incidents is not conditioned onrisk-assessment; over-reporting is burdensome and of little value 115.6 Other issues 125.6.1 Uncertainty related to substantial modification of software triggering conformityreassessment (Recital 23) 125.6.2 Time-limited availability of software for testing purposes is incompatible withcommon open source software practice (Article 4(3)) 12
+6 Risks arising from the overly narrow open source exemption (Recital 10) 136.1 Overly expansive interpretation of “commercial activity” leads to overly narrow scopeof exemption 136.2 Impact of the narrow scope of the exemption 136.2.1 Disincentive to professionalise development and curation 136.2.2 Incentive to move away from open source nonprofit model 146.2.3 Risk of harming product diversity and reducing innovation 146.3 Resolving the scope of the open source exemption 15
+2
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+1 Introduction: focus of this submission
+This submission is focussed on one topic: how the Cyber Resilience Act (CRA)
+1
+could:● create unintended but serious harm to the security and stability of Open SourceInternet Infrastructure Software,● and, as a result, increase the risk to the security and stability of the internet.
+2 The organisations making this submission
+We, the undersigned companies, are responsible for the curated development andmaintenance of some of the most well-known and widely adopted Open Source InternetInfrastructure Software.
+2
+The Domain Name System (DNS)and Border Gateway Protocol(BGP) are two of the key technical systems underpinning the Internet infrastructure: theco-signers of this comment represent the major open source implementations of both DNSand BGP.
+We share some important characteristics that, taken collectively, help to assure the securityand stability of the Open Source Internet Infrastructure Software entrusted to our care.
+● We are organised as not-for-profit entities;● We were created for the purpose of using our engineering expertise to support theinternet for the benefit of humanity – a mission we take seriously;● We maintain a strong and healthy global network of sophisticated users who provideregular feedback and direction on development; and● We maintain robust systems for receiving vulnerability reports and taking appropriateand proportionate action in response.
+We have found a variety of means to secure stable and recurring finance that we apply tothe development and maintenance of our Open Source Internet Infrastructure Software,while preserving the characteristics of that software that promote an environment ofpermissionless innovation for the benefit of society.
+2
+We define this term below in Section 3.1. Open Source Internet Infrastructure Software projects wemanage include: DNS (BIND9, Unbound, NSD, OpenDNSSEC, Knot Resolver, Knot), Routing (BIRD,FRR), Routing safety (Routinator, Krill), DHCP (ISC DHCP, Kea).
+1
+Proposal for a Regulation of the European Parliament and of the Council on horizontal cybersecurityrequirements for products with digital elements and amending Regulation (EU) 2019/1020 (15September 2022).
+3
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+3 Open Source Internet Infrastructure Software
+3.1 Definition of Open Source Internet Infrastructure Software
+We define Open Source Internet Infrastructure Software as any software
+3
+that satisfies all ofthe following characteristics:● it serves predominantly to implement one or more open standards that describe coreoperational functions of internet WAN or LAN infrastructure such as DNS (RFC1035), DHCP (RFC 2131), or routing infrastructure such as BGP (RFC 4271) or RPKI(RFC 6810);● the software that embodies these standards is published under the terms of an opensource licenceas defined by the Open Source Initiative;
+4
+● it is directed to, and intended solely for adoption and implementation by, technicallysophisticated users (typically communications network service operators andequipment manufacturers); and● it is not directed to, or intended for direct adoption or implementation by, consumers.
+5
+This software is, by its very nature, mostly invisible to most internet users most of the time.They constitute important tools in the hands of sophisticated network operators andequipment manufacturers.
+3.2 Factors that assure security and stability of Open Source InternetInfrastructure Software
+Many Open Source Internet Infrastructure Software projects enjoy a strong history ofsecurity and stability. Others do not. This naturally raises the question of what factorscontribute to security and stability.
+3.2.1 Diversity of solutionsMaintaining the diversity of Open Source Internet Infrastructure Software solutions is a keyelement for assuring stability and security. Much akin to biodiversity, diversity of software andoperations is a critical ingredient to resilience. As an example, network operators often adoptmultiple independent software tools to avoid single points of failure in their ability to providereliable internet infrastructure.
+6
+6
+The operators of the DNS root server system, for example, promote multiple independent opensource implementations of DNS server software “to increase the diversity of software in the root nameserver system, the lack of which is widely considered to be a potential vulnerability.” (Email fromDaniel Karrenberg, RIPE NCC and K-root operator, addressed to dns-wg, Feb 14, 2003. Available at:https://www.ripe.net/ripe/mail/archives/dns-wg/2003-February/000891.html)
+5
+We use the term “consumer” in the way it is ordinarily used in European legislation to defineconsumer protection rights. I.e., in the context of the supply of a given product or service, a consumeris normally a person who obtains that product or service for purposes outside the scope of theirbusiness, trade, profession, or craft.
+4
+OSI definition available at:https://opensource.org/osd.
+3
+Our definition is limited to software, as such.
+4
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+3.2.2 Stable governance of the open source projectOpen source software projects can be conducted under many different systems ofmanagement and control. Projects without stable governance have a very low chance oflong-term survival, much less realise the maintenance required to keep its software secureand adapt it to changing requirements.
+Security and stability rests, in part, on a clear system of management controls over howcode is introduced to the definitive corpus of the software. Good stewardship costs time andeffort and therefore money.
+3.2.3 An ethos of releasing software only when it is readyThe development path for this type of software does not follow the common model ofsoftware innovation that has dominated much of commercial software since the late 1970s:early product release encouraged by a profit-driven motive to secure market share. Becausewe are not driven by a need to monetize our software, we can take the time to do it properly.
+The ethos surrounding development and maintenance of this software must instead befounded on a careful and considered accretion of functions and reduction of anomalies. Tobe successful (and trusted by their sophisticated user community), the developers andmaintainers of this software must take a long-term view of their development activity andavoid creating incentives to rush the publication of revised features and functions.
+3.2.4 Making source code available to a large community of sophisticated usersOne of the hoped-for benefits of distributing source code is to enable more people toexamine the code. Though more users does not mean more examiners, Internet protocolsand their implementation in Open Source Internet Infrastructure Software have historicallyattracted the attention of (academic) researchers. By making the source code of OpenSource Internet Infrastructure Software freely available for inspection it is delivered into thehands of people who are most likely (other than the developers) to identify the source of aproblem.
+3.2.5 Robust system to enable reporting and addressing vulnerabilitiesAlthough open source software is naturally more amenable to finding and analysingvulnerabilities, maintaining a robust vulnerability reporting program remains an importantelement in maintaining security and the trust of the user community.
+Addressing vulnerabilities in the Internet Infrastructure space can be challenging. It isimportant to maintain the relationship between the software (under the control of themanager/curator) and the standards which it implements (which are a living expression ofthe internet engineering community). As a result, it occasionally becomes expedient ornecessary for multiple entities (both users and developers) to convene emergency workparties to address vulnerabilities in the underlying protocols, or multiple implementations.This sort of collaboration, once again, is significantly aided by the open source nature of thesoftware.
+5
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+3.3 The special challenge of recurring finance
+Most of the factors described above that promote security and stability depend uponprofessional, timely, and recurring engineering effort and oversight. History teaches that thiscannot be accomplished long-term by the efforts of volunteers alone, no matter howtalented. This, in turn, means that somebody must pay for the effort.
+By definition, the predominant core of Open Source Internet Infrastructure Software is notsold - it is given to the world for free. Similarly, maintenance is not sold - it is given away tothe world for free. The challenge becomes how to secure financing without breaking thebenefits of the open source model. Grant seeking activity alone is not sufficiently predictable.Those who provide grants are typically more interested in funding new features and lessinterested in funding routine maintenance activity that is critical to promote security andstability.
+Many entities that manage Open Source Internet Infrastructure Software projects have useda number of creative methods to secure recurring revenue. One increasingly popular modelis to offer affiliated technical support or consultancy services to implementer/operators.Another emerging practice is to offer units of additional software with adjacent value-addfunctionality on a commercial subscription basis.
+7
+This preserves the open source freedomsof the core software that implements the open standard. A third practice is to cross-subsidizethe development and maintenance by locating the development team within anotherorganisation holding closely aligned goals and ethos that generates recurring revenue (suchas a membership organisation).
+7
+This is often described as an “open core” model. In this submission, however, we assume that(1) the functionality of the relevant open standard remains in the open core, and (2) the predominantpurpose of the relevant software as a whole remains focussed on implementing the relevant openstandard.
+6
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+4 How the CRA could jeopardise the security and stabilityof Open Source Internet Infrastructure Software
+While we applaud the efforts of the European Commission to enhance the cyber security ofproducts with digital components, we fear that the CRA could create a series of unintendedadverse consequences to the security and stability of Open Source Internet InfrastructureSoftware - and by extension to the Internet.
+Problem 1: the CRA as applied. We feel that the regulationas applied would imposedisproportionate regulatory compliance burdens on developers and curators of “criticalproducts” that will strain their existing capacity while failing to enhance the security orstability of this type of software. We address these concerns in Section 5.
+Problem 2: Scope of partial exemption for free and open source software.We areconcerned that the limited scope of the exemption concerning free and open source softwarewould create unwelcome disincentives for some Open Source Internet InfrastructureSoftware developers and curators to professionalise their development activity. We are alsoconcerned that the limited scope of exemption would create unwelcome incentives for someOpen Source Internet Infrastructure Software developers and curators to move away fromtheir not-for-profit open source model and towards a for-profit closed source model. Weaddress these concerns in Section 6.
+5 Concerns about the CRA as applied to organisations thatmanage Open Source Internet Infrastructure Software
+In this section, we highlight a series of challenges presented by the application of the CRA toorganisations that manage what is already secure and stable Open Source InternetInfrastructure Software. These challenges arise from uncertainty of interpretation and/ordisproportionate regulatory burden that could destabilise rather than enhance security andstability of the software.
+5.1 Proving compliance for our processes of secure developmentdiverts resources from a practice we have run for decades andare fully self-motivated and incentivized to perform and perfect
+We are not opposed to the codification of what are essentially high level industry bestpractices in EU law. Our organisations have decades of experience running vulnerabilityhandling and remediation processes. Most of the Annex I vulnerability handling requirementshave been our standard practice.
+8
+The same goes forthe application of the Annex I securityrequirements, with one notable exception (coveredas a concern later). Some of the statedrequirements originated as best practices in the wider free and open source movement.
+8
+The exceptions are the newer SBoM requirement in Annex I, Section 2(1) and the prescriptions onthe timing and availability of vulnerability descriptions (Annex I, Section 2(4)) and security patches(Annex I, Section 2(8). We discuss our concerns with the latter two in Section 5.4.
+7
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+Our concern is with the cost of proving compliance. We worry that the burden of theconformity assessment procedures will divert resources from our actual practice of theseessential security requirementsthat we already arefully self-motivated and incentivized toperform and perfect.
+RECOMMENDATION:We would welcome alternative regulatoryapproaches toencourage third parties to inspect our work, and benefit from the fact that oursoftware and its development history are fully available for inspection. We wouldrather not divert our own limited resources that are already spent in a manner fullyaligned with the security goals of the CRA.
+5.2 Third party audits for “critical products” will be a costly burdenunlikely to improve the quality of our software
+If any of our Open Source Internet Infrastructure software is deemed a “critical product”
+9
+thatwe are “making available on the market”, we are very likely to incur costly third party processaudits as part of the required conformity assessments. Third party process audits are aburden for us unlikely to improve the quality of our software and its security properties.
+The exception explicitly designed to avoid involvement of third party auditors for Class Icritical products in Art 24(2) is unlikely to help us or others in the Free and Open Sourcemovements in practice. We are at present underrepresented in the EU policy
+10
+andstandardisation processes.
+11,12
+This underrepresentationin the EU standards processes willnegatively affect the availability of harmonised standards, common specifications orcertification schemes that are applicable to Open Source Internet Infrastructure Software. Inturn, these will therefore be unavailable for use in self-certification. The only alternative leftavailable are the conformity assessment procedures that involve paying for third partyprocess auditors.
+Business process audits are a very poor match for open-source projects not run by largecommercial enterprises for three reasons. First, audits (and auditors) are very much gearedtowards traditional businesses and business processes, which do not necessarily align wellwith how open-source projects operate. Second, legal, compliance and auditing are skill-sets
+12
+Sidenote: the open hardware movement is even more underrepresented than we are.
+11
+Standardisation for Internet protocols, their implementation in software and their operations bypractitioners happen predominantly in multi-stakeholder forums such as the Internet Engineering TaskForce,  the RIR communities and Network Operator Groups. We are very active in that space.
+10
+The main body of CRA’s impact assessment report contains only one mention of open source,which (ironically) does not take account of the CRA’s impact on open source. (SWD(2022) 282 final)Annex III of that assessment makes the sweeping (and debateable) observation that “According to theliterature, it is in principle possible to segment the open source software (OSS) market intocommercial open source and non-commercial open source.” “The literature” in question, however,appears to be a single paper written by a researcher at a well-known vendor of closed-source ERPsoftware. This does not, in our opinion, constitute sufficient representation of those who are mostfamiliar with the challenges of developing and maintaining open source software, and the benefits thatit provides to society.
+9
+We note in passing that this is not clear to us. The definitions in Annex III are difficult to apply withrespect to some items of Open Source Internet Infrastructure Software. We note generally that AnnexIII would benefit from significant additional guidance on interpretation.
+8
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+not necessarily present in groups of open-source developers who are otherwise wellequipped to develop secure and stable software. Third, audits can be prohibitively expensivefor organisations. Compliance costs can be prohibitive for projects that (partially) rely onvolunteers and/or are (partially) sustained by donations, paid features or in-kind support fromthe users of their software.
+RECOMMENDATION: We have already outlined above thekey factors that enhancesecurity and stability of our software. We suggest that in the circumstances wedescribe, we should be assured of some method that allows us to self-assesscompliance regardless of the availability of EU standards applicable to Open SourceInternet Infrastructure Software.
+5.3 A requirement to fix all “known exploitable vulnerabilities” withoutregard to severity would skew engineering effort into tasks withincreasingly diminished security impact
+Annex I, Section 1(2) prohibits the delivery of software with “known exploitablevulnerabilities.” The term “known exploitable vulnerabilities,” however, does not appear to bedefined.
+13
+As a result, this appears to encompass all security vulnerabilities that are bothknown and can be exploited (ie. leveraged by a threat actor) regardless of severity.
+14
+The result is a prohibition on delivery of software with any known vulnerabilities capable ofexploitation under any conditions (no matter how unlikely), and without any regard to thereal-world impact.
+This sort of unconditional requirement, untethered from any real-world risk assessment,would force developers to spend engineering effort without regard for effectiveness of thateffort. This seems directly opposite of the CRA’s stated goal of having “manufactures takesecurity seriously”.
+RECOMMENDATION: We suggest revising Annex I, Section1(2) so that the securityrequirement concerning known vulnerabilities rests upon a risk based assessment bythe relevant economic operator.
+14
+Such a reading would be consistent with the meaning of “exploited” in the definition of “vulnerability”in NIS2 Article 6(15): “‘vulnerability’ means a weakness, susceptibility or flaw of ICT products or ICTservices that can be exploited by a cyber threat”
+13
+In contrast, the proposal itself defines the term “actively exploited vulnerability” which weunderstand as the class of arbitrary code execution security vulnerabilities which is a specific, morenarrowly defined (and more severe) subclass of all security vulnerabilities.Article 3(39): “‘actively exploited vulnerability’ means a vulnerability for which there is reliableevidence that execution of malicious code was performed by an actor on a system without permissionof the system owner”
+9
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+5.4 Taking away our ability to provide security patches ahead ofpublic availability to operators of critical internet infrastructure
+Annex I, Section 2(8) requires that dissemination of security patches happens without delay.We observe that the users of our Open Source Internet Infrastructure Software operateservices with widely varying levels of societal impact of outages. Taking away our ability toprovide security patched ahead of their public availability to operators that provide theInternet’s most critical functions
+15
+based on our professional judgement of societal impactmay prove detrimental to the requirement’s goals.
+RECOMMENDATION: We suggest revising Annex I, Section2(8) to allow forstaggered release of security patches when not doing so would put Internet users atgreater risk.
+5.5 Overly broad and novel reporting obligations (Article 11)
+We agree that product vulnerability reporting is an important aspect of maintaining softwaresecurity and stability. This is why we operate robust systems for receiving vulnerabilityreports and addressing vulnerabilities in a timely fashion.
+Many of the additional obligations that would be imposed by Article 11 upon persons in theircapacity as a manufacturer, however, seem unfounded and counterproductive when appliedto manufacturers of Open Source Internet Infrastructure Software.
+5.5.1 Obligations to report incidents related to third party use of our softwareconflicts with our role in vulnerability remediationWe are concerned that the new and overly broad obligations introduced by Article 11 wouldmove software manufacturers from the realm ofproductvulnerability management(a naturalactivity for software developers and maintainers) into the process ofsecurity incidentmanagement(a role which, of necessity, involves thosewho use software to provideservices). This expanded role would create tensions that hinder the cause of remediatingsecurity problems.
+Article 11(1) imposes an obligation on manufacturers to notify public authorities quickly (andwithin 24 hours) of any “actively exploited” vulnerability. While vulnerabilities can beassessed by examining the product itself, the status of “active exploitation” depends onknowledge of operational use.
+16
+It specifically dependson having “reliable evidence” that anexploit occurred “without permission of the system owner.”
+We imagine that some software manufacturers might infer active exploitation from softwaretelemetry reports
+17
+(especially software intended foradoption and use by consumers andother non-sophisticated end users). Manufacturers of Open Source Internet Infrastructure
+17
+Which seem to fall into the definition of “remote data processing solutions” in Article 3(2).
+16
+This is supported by the definition of “actively exploited vulnerability” found in Article 3(39): “avulnerability for which there isreliable evidencethat execution of malicious codewas performed byanactoron a systemwithout permissionof the systemowner” (emphasis added).
+15
+Critical functions such as the DNS Root Servers, TLD registries or RPKI trust anchors.
+10
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+Software, however, do not typically introduce software telemetry functions from which suchexploitation could be inferred
+18
+and are most likelyto learn about active exploits from one oftwo possible sources: (1) published reports (which are readily available to the public andavailable for review by authorities); and (2) confidential disclosures from sophisticated endusers who are requesting assistance to remediate an active incident which they aremanaging.
+This reporting requirement would place the manufacturer into the insidious position of beingrequired to report information related to active incidents managed by third parties, whichcould conflict with that third party’s own reporting procedures.
+19
+We fear that this obligationcould discourage end users of Open Source Internet Infrastructure Software from workingwith the very people who may be most able to assist them in resolving their incident andprevent others from falling victim to exploitation.
+RECOMMENDATION:Revise Article 11 so that a manufacturer’sreporting obligationsconcerning vulnerabilities in its own product does not extend to reporting details ofthird party incidents.
+RECOMMENDATION: Revise Article 11 so that a manufacturer can defer reporting toavoid conflict with third party user reporting obligations.
+RECOMMENDATION:Revise Article 11 to clarify that a manufacturer’s obligation toreport vulnerabilities to ENISA (or any other public agency) can be fulfilled bypublishing vulnerability reports in the normal fashion such as the CVE reportingsystem.
+5.5.2 Obligation to report manufacturer’s security incidents is not conditioned onrisk-assessment; over-reporting is burdensome and of little valueArticle 11(2) would obligate all manufactures to notify ENISA about “any incident havingimpact on the security of [their] product”. This includes incidents suffered and managed bythe manufacturer itself (such as an intrusion into the manufacturer’s own technologicalinfrastructure).
+20
+The trigger for reporting, however, does not seem to take account of relevant risk created bythe incident. This appears to impose an obligation to report all such incidents, no matter howtrivial. Further, there is nothing that appears to limit this concept of a reportable “incident” toa breach of technological controls. On its face, it would seem to apply to events thatenhance risk to operational controls (such as unanticipated staff changes).
+20
+If, as we suspect, this was intended to be limited only to incidents suffered by the manufacturer wewould ask for this to be clarified - to make it clear that this does not impose any obligation to report onincidents suffered by third parties.
+19
+For example, an obligation to report incidents under Article 23 of NIS2.
+18
+These would be rejected and/or disabled by sophisticated users of this software as a security threator intrusion into confidential network operations data.
+11
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+This would appear to bring all software product manufacturers into an incident reportingregime that is more aggressive than dictated by NIS2. Such an obligation would produce anunnecessary reporting burden and a body of reports of questionable value.
+RECOMMENDATION:Revise Article 11(2) to clarify that manufacturers are onlyobligated to report first party incidents that present a material risk to the security oftheir software product.
+5.6 Other issues
+In addition to the concerns expressed above, there are a number of additional issues withinthe CRA that would benefit from clarification.
+5.6.1 Uncertainty related to substantial modification of software triggeringconformity reassessment (Recital 23)It is unclear to us what type of software release constitutes a “substantial modification”(Article 3(31)) that requires compliance verification or conformity re-assessment (Recital 23).Even the stable versions of our software receive frequent maintenance updates. We areconcerned that delaying their delivery will not benefit security and stability.
+RECOMMENDATION:Revise Recital 23 and/or Article 3(31) to clarify that “substantialmodification" is a risk-based measurement. I.e., a modification should be considered"substantial" only if it creates a material risk of jeopardising the validity of theunderlying conformity assessment.
+RECOMMENDATION:Revise Recital 23 to clarify thatroutine software maintenanceactivity would not normally constitute “substantial modification” triggering the need tore-verify product compliance.
+5.6.2 Time-limited availability of software for testing purposes is incompatible withcommon open source software practice (Article 4(3))The requirement that “software is only made available for a limited period required for testingpurposes” in Article 4(3) is incompatible with the practice common in the Free and OpenSource movement to make the version control system containing the full developmenthistory of software publicly accessible, and provide (packaged) software builds forpre-release versions for testing purposes.
+21
+RECOMMENDATION:Revise Article 4(3) to exempt opensource software from beingrequired to be “only made available for a limited period required for testing purposes”.
+21
+For example, this web site contains an archive of 20 years worth of open source releases from ISChttps://ftp.isc.org/isc/.
+12
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+6 Risks arising from the overly narrow open sourceexemption (Recital 10)
+The CRA would exempt some, but not all, open source software development and supplyactivity from regulatory coverage.
+22
+We acknowledgeand appreciate that the EuropeanCommission created an exception at all. We now focus upon the specifics of the exemptionand its implications.
+6.1 Overly expansive interpretation of “commercial activity” leads tooverly narrow scope of exemption
+To qualify for the open source exemption currently, the relevant development or supplyactivity must fall “outside the course of a commercial activity.” To the untrained eye this mightappear to exempt development and supply of all Open Source Internet InfrastructureSoftware because this software is given away and not “sold”. Sadly, this is incorrect.
+Recital 10 tells us that the concept of “commercial activity” is incredibly wide. It cites as aspecific example the act of “charging a price for technical support services.” Thus thisexemption, which we feel is important, would not be allowed to the non-profit projectmaintainers
+23
+who have created a limited but stablemethod to finance the very activities thatmake their projects more secure and stablewhile alsoretainingthe open sourcecharacteristics of the software that underpin trust and confidence in the software.
+24
+6.2 Impact of the narrow scope of the exemption
+We fear that the overly narrow definition of this important exemption will produce a series ofincentives that will jeopardise security and stability of Open Source Internet InfrastructureSoftware.
+24
+See discussion above at Sections 3.2 & 3.3.
+23
+Section 2.2 of The “Blue Guide” on the implementation of EU product rules 2022 tells us thatnon-profit organisations may be characterised as carrying out “commercial activities” if they operate ina “business related context”. Assessing the existence of a “business related context” is said to requireassessment on a “case-by-case basis” and depends onfactors such as “the regularity of the supplies,the characteristics of the product,the intentionsof the supplier, etc.” (emphasis added). In contrast,Recital 10 of the CRA appears to draw the blanket conclusion that even when a non-profitorganisation gives open source software to the world for free, demanding nothing in return, anyrelated charged-for activity automatically closes the door to this important exemption.
+22
+Recital 10: “In order not to hamper innovation or research,free and open-sourcesoftwaredeveloped or suppliedoutside the course of a commercial activityshould not be covered by thisRegulation. This is in particular the case for software, including its source code and modified versions,that is openly shared and freely accessible, usable, modifiable and redistributable. In the context ofsoftware, acommercial activity might be characterizednot only by charging a price for a product, butalsoby charging a price for technical support services,by providing a software platform through whichthe manufacturer monetises other services, or by the use of personal data for reasons other thanexclusively for improving the security, compatibility or interoperability of the software.” (emphasisadded)
+13
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+6.2.1 Disincentive to professionalise development and curationThere are a wide variety of projects that seek to manage the development and curation ofOpen Source Internet Infrastructure Software. Some are better managed than others. Onerecurring problem in this field concerns the growing burden suffered by all-volunteerdevelopment teams. Their efforts, begun with the best of intentions, become an unfundedmandate.
+Teams in this position should be given every incentive to seek sustainable sources offinancial support. The narrow scope of the exemption in Recital 10, however, does theopposite. It tells developers in this position that the easiest way to avoid regulatory burden isto continue to close their eyes to the need for financial stability. Worse, it cautions suchdevelopers against selling any technical support services that might somehow be connectedto the software they developed for fear that this will cost them their regulatory exemption.
+The narrow scope of this exemption would penalise the very groups who have found a wayto develop modest recurring (albeit nonprofit) revenue sources
+25
+such as the supply oftechnical support services or small value-add software additions. Both groups developsoftware that underpins the operation of the internet. Imposing regulatory burdens on onegroup, but not the other, creates the wrong incentives for the long-term health of thissoftware.
+6.2.2 Incentive to move away from open source nonprofit modelSo what is a responsible developer of Open Source Internet Infrastructure Software to do?Faced with increasing regulatory burden, the development team will need to find some wayto create significant additional revenue to fund the compliance burden.
+Raising the price of technical support agreements or adjacent software functions is onesolution, although it is not clear how far this can be extended. While the technical staff oflarge user organisations may appreciate the benefit of a commercial technical supportarrangement, it often takes tremendous effort to persuade the finance director of suchentities to pay for such services with respect to software described to them as “free.”
+Responsible developers face increased regulatory pressure and expense to do something tosecure their future. Some may attempt to migrate away from the open source model as theironly certain way to make enough money to pay for the regulatory mandates. Sadly, movingaway from open source will most likely harm security and stability.
+26
+6.2.3 Risk of harming product diversity and reducing innovationFaced with increasing regulatory compliance burdens, some project maintainers mayabandon projects (to avoid the compliance burden entirely) or seek to merge with others whoare similarly situated (to share the compliance burden). Both approaches create the risk ofloss of product diversity, one of the key elements that enhances security and stability in this
+26
+See above at Section 3.2.3.
+25
+We emphasise that these revenue streams are relatively modest compared with the revenues thatcan be generated through rent seeking sales of software licences or the sale of maintenance servicesfor a closed source product.
+14
+The Cyber Resilience Act: unintended harms to security and stability ofOpen Source Internet Infrastructure Software
+space.
+27
+Open Source software helps drive the development of new technical standards (tosecure the Internet infrastructure). As new standards are proposed, the Internet EngineeringTask Force looks for examples of open source implementations as evidence that thestandard is ready for adoption.
+6.3 Resolving the scope of the open source exemption
+We suggest three alternative solutions to address the scope of this regulatory exemption.Any one of these would remedy the problem we describe while preserving the importantpolicy goals of the exemption.
+RECOMMENDATION
+ALTERNATIVE 1: We suggest exempting all open sourcedevelopment and supplyactivity from the scope of the CRA without exception. This is the most simple solutionto the problems described in this section.
+ALTERNATIVE 2: We suggest clarifying the interpretationof “commercial activity” ina way that more appropriately fits the context of Open Source Internet InfrastructureSoftware. This would acknowledge that not all efforts to produce recurring revenue(such as paid-for “technical support services”) should be characterised as“commercial activity”.
+ALTERNATIVE 3:Make the exemption from regulatorycoverage subject toadditional conditions that help to assure security and stability.
+28
+28
+The discussion above at Section 3.2 outlines a series of factors that might be taken into account forthis purpose.
+27
+See above at Section 3.2.1.
+15

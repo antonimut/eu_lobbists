@@ -1,0 +1,173 @@
+Trust Center 
+Model
+Access in -vehicle data 
+to ensure safety for 
+automated vehicles
+21 June, 2021
+F o r  a n y q u e s t i o n s ,  p l e a s e  d o  n o t  h e s i t a t e  t o  
+c o n t a c t  u s  a t  e u . o f f i c e @ d e k r a . c o m
+Ref. Ares(2021)4036823 - 21/06/2021
+A Trust Center is needed to keep the unaltered history of 
+modifications to automated and connected vehicles and 
+their messages.
+2 Trust Center, 21 June, 2021
+▪ Connectivity will enable vehicles to receive safety 
+relevant modifications during their life cycle, vehicle 
+is subject to OTA software updates
+▪ A vehicle does not remain to stay the same as being 
+introduced during Type Approval
+▪ ADAS are developed further to meet AD require-
+ments from SAE Level 3,4 and 5
+▪ Driver acts no longer as a backup if technology fails
+Two game changers disrupt status quo: OTA Software Updates & AD
+Actual status of configurations needs to be known for implementing
+appropriate monitoring of the individual vehicle.
+Vehicle OEMs have established a data transfer system 
+to support their needs. 
+3 Trust Center, 21 June, 2021
+OEM Backend
+Commercial services
+preferably via ExVe
+proprietary interface
+Mobile Network OperatorVehicle
+11 telemetry data
+updates
+computed data3
+The vehicle is the single source of truth.
+22
+3
+Trust Center ensures access for qualified parties using 
+the existing infrastructure to facilitate sovereign tasks.
+4 Trust Center, 21 June, 2021
+PTI, Monitoring
+Police
+Crown Prosecution
+Trust Center
+Commercial services
+preferably via ExVe
+proprietary interface
+Mobile Network OperatorVehicle OEM Backend
+Few Trust Centers could utilize the established 
+infrastructure to gain access to in -vehicle data. 
+Third Party 
+Trust Center
+ Third Party 
+Trust Center
+5 Trust Center, 21 June, 2021
+Few Trust Centers could utilize the established 
+infrastructure to gain access to in -vehicle data.
+Third Party 
+Trust Center
+Third Party 
+Trust Center
+▪ Car manufacturers have set up connectivity to vehicles in 
+their markets with the support of a limited number of Mobile 
+Network Operators 
+▪ The Mobile Network Operators provide global connectivity 
+to the automotive industry and hide underlying complexity 
+of contracts, interfaces and infrastructure
+▪ In vehicle data access is subject to regulation: legislation 
+required
+6 Trust Center, 21 June, 2021
+Implementation effort for Trust Center at a minimum –
+compared to Secure On -board Telematics Platform.
+t
+Implementation 
+effort
+Trust Center
+ExVe
+Secure On-board 
+Telematics Platform
+now months from 
+now
+Several product 
+development cycles from 
+now
+in place
+low
+Orders of 
+magnitude 
+higher
+7 Trust Center, 21 June 2021
+In contrary to others the Trust Center Model supports 
+sovereign tasks and can be deployed instantaneously .
+8 Trust Center, 21 June, 2021
+Time to market for OEM and 
+service providers
+Reliability of data provided
+Implementation effort for OEM
+Very high
+▪ Copy of vehicle status 
+at the source
+Integrative approach
+Sovereign tasks plus 
+commercial business cases
+Low
+▪ Magnitude of few months
+Very high
+▪ Copy of vehicle status 
+at the source
+Low
+▪ Rapid set up
+Unaltered history
+OEM centered
+Data aggregated at the OEM 
+Backend
+Low
+▪ Leverages Connected 
+Vehicle Backend
+Low
+▪ Data processed by OEM
+Low
+▪ Backend prepared and 
+ready to use
+Not applicable
+▪ No access to data 
+source: the vehicle
+Aftermarket centered
+Secure on-board application 
+platform
+Very high
+▪ Magnitude of several car 
+development cycles
+High
+▪ Data access directly at 
+the car
+Very high
+▪ Car hardware + software 
+architecture impacted 
+Not in scope
+▪ Data are volatile on car, 
+history adds complexity
+Third Party Trust CenterExtended Vehicle Secure Onboard-Telematics 
+Platform
+9
+Context, next steps
+Trust Center, 21 June, 2021
+SAE Level 3 vehicles are on the 
+roadmap for the years ahead
+▪ Type approval for those 
+vehicles is imminent
+▪ Vehicles are subject to OTA 
+configuration changes
+Request to the contracting 
+parties:
+▪ Set binding rules for 
+automated and connected 
+vehicles to save the history of 
+modifications and messages 
+independently
+▪ Establish a Trust Center 
+Model as source of truth for 
+PTI, Police, Crown 
+Prosecution
+Initiate a Technical Regulation
+▪ Mobile Network Operators 
+shall be obliged to fork data 
+from vehicles to a Trust 
+Center
+▪ Vehicle OEMs shall be 
+obliged to cooperate with 
+Trust Centers to enable their 
+sovereign tasks
+1 2Context

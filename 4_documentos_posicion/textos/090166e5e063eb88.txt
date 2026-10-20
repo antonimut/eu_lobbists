@@ -1,0 +1,486 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/236060562
+Sewage pre-concentration for maximum recovery and reuse at decentralized
+level
+Article  in  Water Science & Technology · March 2013
+DOI: 10.2166/wst.2013.639 · Source: PubMed
+CITATIONS
+32
+READS
+421
+7 authors, including:
+Some of the authors of this publication are also working on these related projects:
+Development of Ananerobic Ammonia Oxidation process for nitrogen containing wastewaters View project
+Dynamic Sectors of Microbial Technology Driving new Enterprise and Employment Creation. View project
+Vasileios Diamantis
+Democritus University of Thrace
+64 PUBLICATIONS   923 CITATIONS   
+SEE PROFILE
+Alexandros Eftaxias
+Democritus University of Thrace
+16 PUBLICATIONS   182 CITATIONS   
+SEE PROFILE
+Siegfried E. Vlaeminck
+University of Antwerp
+205 PUBLICATIONS   4,910 CITATIONS   
+SEE PROFILE
+Paraschos Melidis
+Democritus University of Thrace
+37 PUBLICATIONS   1,202 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Vasileios Diamantis on 21 November 2018.
+The user has requested enhancement of the downloaded file.
+Ref. Ares(2021)4881275 - 30/07/2021
+Sewage pre-concentration for maximum recovery
+and reuse at decentralized level
+V. Diamantis, W. Verstraete, A. Eftaxias, B. Bundervoet, V. Siegfried,
+P. Melidis and A. Aivasidis
+ABSTRACT
+Pre-concentration of municipal wastewater by chemically enhanced primary treatment (CEPT) was
+studied under controlled laboratory conditions. Both iron and aluminium-based coagulants were
+examined at gradually increasing concentrations (0.23, 0.35, 0.70 and 1.05 mmol/L). The CEPT sludge
+generated from different coagulation experiments was digested in batch anaerobic reactors, while
+the supernatant was tested in a dead-end micro ﬁltration setup. The results of the study show that
+biogas yield was dramatically decreased (from 0.40 to 0.10 m
+3/kg chemical oxygen demand of
+inﬂuent) with increasing coagulant dose. In contrast, supernatant ﬁlterability was improved. Based on
+the laboratory results, a conceptual design was produced for a community of 2000 inhabitant
+equivalents (IE), using CEPT technology (at low coagulant dose) with anaerobic digestion of the
+concentrates. According to this, the capital and operational costs were 0.11 and 0.09 €/m
+3,
+respectively. The biogas generated is used for digester heating and the overall process is energy self-
+sufﬁcient. At a small-scale and in private applications, CEPT technology is preferably operated at
+higher coagulant dose, followed by membrane ﬁltration for water reuse. Accordingly, sewage
+puriﬁcation and reuse is possible without implementing aerobic biological processes.
+V. Diamantis (corresponding author)
+A. Eftaxias
+P. Melidis
+A. Aivasidis
+Laboratory of Wastewater Management and
+Treatment Technologies,
+Department of Environmental Engineering,
+Democritus University of Thrace,
+Greece
+E-mail: bdiamant@env.duth.gr
+W. Verstraete
+B. Bundervoet
+V. Siegfried
+Laboratory of Microbial Ecology and Technology,
+University of Gent,
+Gent,
+Belgium
+Key words | activated sludge free process, chemically enhanced primary treatment, energy
+recovery, municipal wastewater treatment, sewage nutrients recovery, zero energy
+process
+INTRODUCTION
+Sustainability in sewage treatment is of major importance
+both for environmental protection and resource recovery.
+Municipal sewage constitutes a valuable source of water,
+energy and nutrients that can be valorized or reused
+(Verstraete et al. ). In most cases water reuse technol-
+ogies incorporate aerobic biological processes (extended
+aeration), followed by advanced membrane ﬁltration.
+Depending on the membrane process (e.g. ultra ﬁltration
+(UF), reverse osmosis (RO)) the permeate is suitable for
+uses from irrigation to indirect potable reuse ( Dewettinck
+et al. ). The treatment train requires, however, a signi ﬁ-
+cant energy input (up to 1 kWh/m
+3 for the activated sludge
+þ1 kWh/m3 for UF/RO) ( van Houtte & Verbauwhede
+). The potential for energy recovery depends on excess
+aerobic sludge digestibility. However, when the solids re-
+tention time (SRT) in the activated sludge process is
+increased, there is a decrease in both the amount of excess
+sludge and its methane production potential ( Bolzonella
+et al . ).
+One option to decrease energy consumption for waste-
+water puri ﬁcation is to implement an up ﬂow anaerobic
+sludge blanket (UASB) reactor for sewage pre-treatment, fol-
+lowed by a low-energy input aerobic process, such as a
+trickling ﬁlter, a rotating biological contactor or a con-
+structed wetland ( Khan et al. ). In this case, the energy
+required for wastewater processing is lower by 90%, com-
+pared to the conventional activated sludge approach. The
+quantity of biogas recovered by the UASB process is, how-
+ever, limited to 60 –80% of the theoretical values, due to
+methane solubility and loss with the anaerobic ef ﬂuent
+(Seghezzo et al. ). Moreover, the anaerobic degradation
+of organic matter proceeds simultaneously with the
+reduction of sulphates to sulphides, which renders the
+anaerobic ef ﬂuent highly odourous ( Subtil et al . ). This
+1188 © IWA Publishing 2013 Water Science & Technology | 67.6 | 2013
+doi: 10.2166/wst.2013.639
+Downloaded from https://iwaponline.com/wst/article-pdf/440732/1188.pdf
+by guest
+on 21 November 2018
+is a major barrier for broad application of UASB reactors at
+decentralized level, close to densely populated areas.
+Another option to maximize energy (methane) recovery
+from sewage is to pre-concentrate and digest the organics
+present therein. The remaining wastewater (major stream)
+is further upgraded by a low-energy input aerobic process
+(Diamantis et al. ), direct membrane ﬁltration
+(Verstraete et al. ) or even disposed of to non-sensitive
+environments ( Odegaard ). Sewage pre-concentration
+is possible with the so-called chemically enhanced primary
+treatment (CEPT) process ( Harleman & Murcott ).
+The CEPT technology is a high-rate and compact process,
+which incorporates a hydraulic retention time (HRT) of
+20–40 min for the coagulation/ ﬂocculation step and 1 –3h
+for the subsequent clari ﬁcation ( Tchobanoglous et al.
+). In existing sewage treatment plants, CEPT can be
+easily incorporated in overall plant design ( Keplinger et al.
+). Moreover, by dosing coagulant salts (e.g. iron chlor-
+ide) in raw municipal wastewater, the sulphides present in
+sewage are precipitated as metal sulphides, therefore
+odour control is achieved ( Nielsen et al. ).
+In this study, a CEPT process was studied under con-
+trolled laboratory conditions, with original municipal
+wastewater. The effect of coagulant type and dose was exam-
+ined in relation to CEPT supernatant quality and ﬁlterability.
+Moreover, CEPT sludge digestibility was evaluated in batch
+anaerobic reactors. Based on the laboratory results, a
+conceptual design was produced for a decentralized appli-
+cation of 2000 inhabitant equivalents (IE) and the overall
+costs were calculated.
+MATERIALS AND METHODS
+Coagulation studies
+Raw municipal wastewater was sampled daily from the
+wastewater treatment plant of the city of Gent (Belgium).
+Fifty litres of wastewater was used for each coagulation
+experiment. CEPT was performed using iron- or aluminium-
+based coagulants [FeCl
+3 and Al2(SO4)3]. The coagulant dose
+varied from 0.23, 0.35, 0.70 to 1.05 mmol/L. Accordingly,
+the metal ion to P ratio varied from 1.2, 1.8, 3.7 to 5.5.
+The required quantity of coagulant was added into the
+wastewater vessel (50 L) and rapid mixing (100 rpm) was
+applied for 20 min. A polymeric ﬂocculant (Polymer
+1100P) was dosed into the vessel at 0.2 mg/L and slow
+mixing (at 50 rpm) was performed for a further 20 min.
+When the ﬂocculation process was completed, the mixture
+was left to clarify inside the vessel for 1 h, after which
+40 L of supernatant were removed using a pump. The
+remaining sludge (10 L) was placed into Imhoff cones for
+additional thickening for 2 h. The supernatant from the
+Imhoff cones was rejected and the sludge samples were
+used for the anaerobic digestion experiments. Chemical
+analysis of the supernatant and the sludge were performed
+for pH, chemical oxygen demand (COD), PO
+4-P and
+NH4-N according to Standard Methods for the Examination
+of Water and Wastewater ().
+Filterability of the CEPT supernatant
+Supernatant ﬁlterability from different coagulation exper-
+iments was examined in a dead-end micro ﬁltration setup
+(Figure 1 ). A ﬂat-sheet micro ﬁltration membrane, with
+pore size of 0.45 μm and surface area 12.56 cm 2, was used
+for each trial. The trans-membrane pressure (TMP) was
+maintained constant at 0.6 bar using a vacuum pump.
+Wastewater was added into the micro ﬁltration device in
+50 mL portions, while the vacuum pump was in operation.
+Upon addition, the time required for complete water in ﬁl-
+tration was recorded. A second wastewater portion was
+added and the procedure was repeated a total of ﬁve times.
+Digestibility of CEPT sludge
+The sludge obtained from different coagulation experiments
+was digested in batch anaerobic reactors (operational volume
+¼ 1 L). The digesters were installed and operated under
+mesophilic conditions (35
+W
+C), and inoculated with 300 mL
+of anaerobic biomass and 300 mL of CEPT sludge. Metha-
+nostim liquid (Avecom, Belgium) was added to ensure no
+limitation of trace elements occurred. Two reactors were
+Figure 1 | Experimental setup to study the ﬁlterability of the CEPT supernatant on
+microﬁltration membranes.
+1189 V. Diamantis et al . | Sewage pre-concentration for maximum recovery Water Science & Technology | 67.6 | 2013
+Downloaded from https://iwaponline.com/wst/article-pdf/440732/1188.pdf
+by guest
+on 21 November 2018
+seeded with anaerobic seed biomass only for control pur-
+poses, and the quantity of biogas generated by them was
+deduced from the CEPT sludge digesters. The biogas pro-
+duction was measured by the water displacement method.
+RESULTS AND DISCUSSION
+Effect of CEPT on supernatant quality
+Figure 2 shows the effect of coagulant type and dose on
+supernatant COD and phosphorus (PO 4-P) concentrations.
+Both iron- and aluminium-based coagulants were effective
+in decreasing wastewater COD by 50 –60% at doses
+/C21 0.35 mmol/L. Simultaneously a signi ﬁcant part of the sol-
+uble COD (20 –25%) was removed and this was attributed to
+the adsorption of organics onto metal hydroxide precipitates
+(Yan et al. ). For low coagulant dosing ( <0.35 mmol/L),
+residual phosphorus concentration was equal to 1 –2 mg/L.
+Ammonia (NH 4-N) concentration was not affected by the
+CEPT process which is bene ﬁcial in case of wastewater
+reuse for land irrigation/fertilization (see Figure S1,
+Electronic Supplementary Material, available online at
+http://www.iwaponline.com/wst/067/639.pdf).
+Effect of CEPT on sludge digestibility
+Figure 3 shows average values of the quantity of CEPT
+sludge generated as a function of the coagulant dose.
+Indeed, sludge production increased linearly from 1.5 to
+3% of wastewater volume treated, with increasing coagulant
+dose, and this was attributed to the formation of metal
+precipitates ( Tchobanoglous et al. ).
+Figure 4 shows the cumulative biogas production per kg
+inﬂuent COD (CODin) during anaerobic digestion of differ-
+ent CEPT sludges. From the results presented it is evident
+that biogas production ceased within 10 d of residence
+time. This is closely related to the fact that COD of the con-
+centrates was in the medium range [6 ( ±1) g/L], and
+optimum conditions for the anaerobic digestion were main-
+tained during the trials (high activity seed sludge, optimum
+temperature (35
+W
+C) and trace elements supplementation).
+However, increasing the coagulant dose from 0.23 to
+1.05 mmol/L resulted in a dramatic decrease in biogas
+yield, from 0.41 to 0.16 and 0.39 to 0.06 m
+3/kg CODin for
+aluminium- and iron-based coagulants, respectively. The
+biogas generated at high coagulant dose was not considered
+of interest for practical applications. On the other hand,
+lower coagulant doses (e.g. <0.35 mmol/L) generated
+Figure 2 | Supernatant COD (a), (b) and phosphorus (PO 4-P) concentrations (c), (d) after
+CEPT of sewage, as a function of the coagulant dose, for iron-based (a), (c) and
+aluminium-based (b), (d) coagulants. The error bars represent the standard
+deviation of two measurements (supernatant sampling after 1 and 3 h
+sedimentation).
+1190 V. Diamantis et al . | Sewage pre-concentration for maximum recovery Water Science & Technology | 67.6 | 2013
+Downloaded from https://iwaponline.com/wst/article-pdf/440732/1188.pdf
+by guest
+on 21 November 2018
+highly digestible concentrates and the biogas yield was in
+the order of 0.40 m 3/kg CODin. This was the case both for
+iron and aluminium coagulants. It was therefore rec-
+ommended that low coagulant dose should be applied for
+maximum energy recovery from sewage.
+The low digestibility of CEPT sludge with increasing
+coagulant dose is attributed to phosphate and trace elements
+limitation due to adsorption to metal hydroxides ( Dentel &
+Gossett ; Goodwin et al. ), and possible inhibition
+by high iron and aluminium concentrations ( Chen et al.
+).
+Membrane ﬁlterability of the CEPT ef ﬂuent
+Figure 5 shows the effect of increasing coagulant dose on ﬁl-
+terability of the CEPT supernatant (for aluminium-based
+coagulant). The data presented show the time required for
+complete in ﬁltration of 50 mL wastewater portions, in a
+dead-end micro ﬁltration setup. Increasing the coagulant
+dose was bene ﬁcial to achieve rapid water in ﬁltration (or
+high ﬂuxes). Accordingly, membrane fouling was controlled.
+Increasing the coagulant dose >1.05 mmol/L did not result
+in further improvement of supernatant ﬁlterability.
+PROCESS DESIGN AT THE DECENTRALIZED LEVEL
+CEPT system
+Taking as an example a community of 2000 IE, the waste-
+water ﬂow rate is 500 m 3/d ( ∼20 m3/h). The required
+volume for the coagulation tank is equal to 15 m 3 (design
+HRT ¼ 40 min), and the next-step clari ﬁer is 60 m 3
+(design HRT ¼ 3 h), having a surface area of 20 m 2
+(design surface loading rate ¼ 1.0 m3/(m2h)). The capital
+costs (CAPEX) of the CEPT process are in the order of
+60,000 € (personal communication with wastewater
+Figure 4 | Cumulative biogas yield during batch anaerobic digestion of CEPT sludge
+obtained from different doses of iron-based (a) and aluminium-based (b)
+coagulants.
+Figure 3 | Effect of coagulant dose on CEPT sludge production as a percentage of
+wastewater volume treated. The error bars represent standard deviation
+between two measurements (iron and aluminium coagulants).
+Figure 5 | Time required for water in ﬁltration in a dead-end micro ﬁltration setup, as a
+function of cumulative added water volume (membrane surface area ¼
+12.56 cm2, TMP ¼ 0.6 bar).
+1191 V. Diamantis et al . | Sewage pre-concentration for maximum recovery Water Science & Technology | 67.6 | 2013
+Downloaded from https://iwaponline.com/wst/article-pdf/440732/1188.pdf
+by guest
+on 21 November 2018
+contractor, Greece). The latter include: a two-compartment
+coagulation tank with inline and slow mixers, chemicals
+(coagulant and polymer) storage tanks and dosing pumps,
+concrete clari ﬁer, sludge and scum collection equipment,
+pumps, pipes, valves, automation, engineering and design.
+Considering 15 years as the life time of the plant and 6%
+interest, the annual CAPEX is 6,000 € /yr, which corre-
+sponds to 0.03 € /m
+3 of water treated (annual plant
+capacity ¼ 500 m3/d × 365 d ¼ 180,000 m3/yr).
+The CEPT process is preferably operated at low coagu-
+lant dose (e.g. 0.30 mmol/L for a COD concentration of
+250 mg/L). Accordingly, the quantity of coagulant required
+daily is (500 m 3/d) × (0.30 mol/m3) ¼ 150 mol/d or 50 kg/d
+for alum (having a molecular weight of 0.342 kg/mol). The
+latter entails a purchase cost of 0.60 € /kg (personal com-
+munication with chemicals supplier, Greece), thus, annual
+operational expenses (OPEX) are calculated to be equal to
+11,000 € /yr or 0.06 € /m
+3 wastewater treated. The expenses
+for polymer addition are equal to 360 € /yr or 0.002 € /m3,
+considering a purchase cost of 10 € /kg and a dose of
+0.2 mg/L. The total costs of the CEPT process, are therefore
+equal to ∼0.10 € /m3.
+Anaerobic digestion
+The CEPT sludge generated at the designed coagulant dose
+corresponds to 10 m 3/d ( ∼2% of the incoming wastewater
+ﬂow) and the COD concentration is equal to 6 g/L. The
+CEPT sludge is further stabilized and valorized using a con-
+tinuous stirred anaerobic digester. The required volume for
+the digester is equal to 100 m 3 (design HRT ¼ 10 d, organic
+loading rate ¼ 0.6 kg/(m3d)). The CAPEX of the latter is in
+the order of (100 m 3) × (1,000 € /m3) ¼ 100,000 € (Ubaydul-
+laev ), which includes: digestion tank (concrete with
+thermal insulation), sludge pre- and post-thickening tanks,
+biogas handling equipment and boiler, heat exchanger,
+pumps, pipes, valves, process monitoring equipment, engin-
+eering and design. Post thickening tank (10 m
+3 volume) and
+sludge dewatering bags ﬁlters entail an additional cost of
+40,000 € . Considering 15 years as the life time of the plant
+and 6% interest, the annual CAPEX is 14,000 € /yr or
+0.08 € /m3 wastewater treated.
+The biogas recovered by the digester is (10 m 3/d) ×
+(6 kg/m3) × (0.35 m3/kg CODin) ¼ 21 m3/d. Generally,
+such biogas production is considered low for electricity gen-
+eration, but it is suf ﬁcient to maintain the digester
+temperature at mesophilic conditions (see Calculations 1,
+Electronic Supplementary Material, available online at
+http://www.iwaponline.com/wst/067/639.pdf). Biogas gen-
+eration can be further increased if high-strength sewage is
+available, or by co-digestion with organic-rich substrates
+and wastes ( Athanasoulia et al. ). Indeed, the OPEX
+of the anaerobic digester are negligible ( <0.01 € /m
+3).
+A motor of 0.7 kW suf ﬁces for digester mixing ( Tchobano-
+glous et al. ) which entails an electricity cost of
+(0.7 kW) × (24 h/d) × (365 d/yr) × (0.12 € /kWh) ¼ 740 € /yr
+or 0.004 € /m3. An equal amount (740 € /yr) is required
+annually for trace element supplementation (nickel, cobalt,
+molybdenum) at dose 40 mg/m
+3.
+Concluding, implementation of a CEPT process fol-
+lowed by anaerobic digestion of the concentrates for a
+decentralized setting of 2000 IE costs ∼0.20 € /m
+3 waste-
+water treated and the process is energy neutral.
+Recommendations for small-scale applications
+At small-scale and private applications (e.g. from 20 to 200
+IE), it is desirable to operate the CEPT process at higher
+coagulant dose (e.g. 1 mmol/L). Accordingly, the CEPT
+supernatant remains of high quality and post-membrane ﬁl-
+tration is ef ﬁcient. Thus, irrigation water (rich in nitrogen)
+can be recovered as the ﬁrst product of the process, without
+implementing aerobic biological processes. The overall
+system requires minimum reactor volumes (total HRT
+∼3 h). For a 200 IE facility (wastewater ﬂow rate 50 m
+3/d),
+the quantity of sludge generated is approximately 2 m 3/d
+(4% of the incoming wastewater ﬂow) and is considered of
+limited digestibility. This is important for medium-term sto-
+rage of the concentrates, since diffuse methane emissions
+can be minimized ( Diaz-Valbuena et al. ).
+CONCLUSIONS
+– CEPT of sewage can ef ﬁciently decrease wastewater COD
+by 50 –60% and phosphorus by >90% at low HRT (3 h)
+and cost (0.10 € /m3).
+– Increasing the coagulant dose is bene ﬁcial to remove the
+majority of the organics and phosphates, and generate a
+supernatant of good ﬁlterability. Moreover, CEPT sludge
+of limited digestibility is produced, which is important
+for medium-term storage at small-scale and private decen-
+tralized applications.
+– At lower coagulant dose, an organic-rich sludge can be
+harvested which is suitable for a waste-to-energy strategy.
+This is important for larger-scale facilities. Accordingly, it
+1192 V. Diamantis et al . | Sewage pre-concentration for maximum recovery Water Science & Technology | 67.6 | 2013
+Downloaded from https://iwaponline.com/wst/article-pdf/440732/1188.pdf
+by guest
+on 21 November 2018
+is possible to achieve a zero-energy process for wastewater
+treatment.
+REFERENCES
+Athanasoulia, E., Melidis, P. & Aivasidis, A.  Anaerobic waste
+activated sludge co-digestion with olive mill wastewater.
+Water Sci. Technol . 65, 2251 –2257.
+Bolzonella, D., Pavan, P., Battistoni, P. & Cecchi, F. 
+Mesophilic anaerobic digestion of waste activated sludge:
+inﬂuence of the solid retention time in the wastewater
+treatment process. Process Biochem . 40, 1453 –1460.
+Chen, Y., Cheng, J. J. & Creamer, K. S.  Inhibition of anaerobic
+digestion process: a review. Bioresour. Technol. 99,4 0 4 4–4064.
+Dentel, S. K. & Gossett, J. M.  Effect of chemical coagulation
+on anaerobic digestibility of organic materials . Water Res. 16,
+707–718.
+Dewettinck, T., van Houtte, E., Geenens, D., van Hege, K. &
+Verstraete, W.  HACCP (hazard analysis and critical
+control points) to guarantee safe water reuse and drinking
+water production – a case study. Water Sci. Technol . 43,
+31–38.
+Diamantis, V., Melidis, P., Aivasidis, A., Verstraete, W. &
+Vlaeminck, S. E.  Efﬁciency and sustainability of urban
+wastewater treatment with maximum separation of the solid
+and liquid fraction. In: Comprehensive Biotechnology
+(Murray Moo-Young ed.). Elsevier, 2nd edition, Vol. 6,
+pp. 507 –515.
+Diaz-Valbuena, L. R., Leverenz, H. L., Cappa, C. D.,
+Tchobanoglous, G., Horwath, W. R. & Darby, J. L. 
+Methane, carbon dioxide, and nitrous oxide emissions from
+septic tank systems . Environ. Sci. Technol . 45, 2741 –2747.
+Goodwin, J. A. S., Wase, D. A. J. & Forster, C. F.  Effects of
+nutrient limitation on the anaerobic up ﬂow sludge blanket
+reactor. Enzyme Microb. Technol . 12, 877 –884.
+Harleman, D. R. F. & Murcott, S.  The role of physical-
+chemical wastewater treatment in the mega-cities of the
+developing world. Water Sci. Technol .
+40,7 5 –80.
+Keplinger, K. O., Houser, J. B., Tanter, A. M., Hauck, L. M. &
+Beran, L.  Cost and affordability of phosphorus removal
+at small wastewater treatment plants. Small Flows Quart . 5,
+36–48.
+Khan, A. A., Gaur, R. Z., Tyagi, V. K., Khursheed, A., Lew, B.,
+Mehrotra, I. & Kazmi, A. A.  Sustainable options of post
+treatment of UASB ef ﬂuent treating sewage: a review .
+Resour. Conserv. Recyc . 55, 1232 –1251.
+Nielsen, A. H., Lens, P., Vollertsen, J. & Jacobsen, T. H. 
+Sulﬁde-iron interactions in domestic wastewater from a
+gravity sewer. Water Res. 39, 2747 –2755.
+Odegaard, H.  The use of dissolved air ﬂotation in municipal
+wastewater treatment. Water Sci. Technol . 43,7 5 –81.
+Seghezzo, L., Zeeman, G., van Lier, J. B., Hamelers, H. V. M. &
+Lettinga, G.  A review: the anaerobic treatment of
+sewage in uasb and egsb reactors. Bioresour. Technol. 65,
+175–190.
+Standard Methods for the Examination of Water and Wastewater
+ 20th edn, American Public Health Association/
+American Water Works Association/Water Environment
+Federation, Washington, DC, USA.
+Subtil, E. L., Cassini, S. T. A. & Goncalves, R. F.  Sulfate and
+dissolved sul ﬁde variation under low COD/sulfate ratio in
+up-ﬂow anaerobic sludge blanket (UASB) treating domestic
+wastewater. Ambi-Agua Taubate 7, 130 –139.
+Tchobanoglous, G., Burton, F. & Stensel, H. D.  Wastewater
+Engineering: Treatment and Reuse . 4th edition, Metcalf and
+Eddy Inc., McGraw Hill, New York, USA.
+Ubaydullaev, B.  Feasibility Study for the University of Twente
+Campus Closed Water Cycle: Feasibility Study for use of
+Sustainable Energy from Wastewater Sludge and Possibilities
+of Wastewater Sludge Reuse . MSc Thesis, University of
+Twente. http:/ /essay.utwente.nl/60142/1/Bakhtiyor.pdf
+(accessed 11 October 2012).
+Van Houtte, E. & Verbauwhede, J. 
+Operational experience
+with indirect potable reuse at the Flemish coast . Desalination
+218, 198 –207.
+Verstraete, W., van de Caveye, P. & Diamantis, V.  Maximum
+use of resources present in domestic ‘used water’. Bioresour.
+Technol. 100, 5537 –5545.
+Yan, M., Wang, D., Ni, J., Qu, J., Chow, C. W. K. & Liu, H. 
+Mechanism of natural organic matter removal by
+polyaluminum chloride: effect of coagulant particle size and
+hydrolysis kinetics . Water Res. 42, 3361 –3370.
+First received 10 July 2012; accepted in revised form 2 October 2012
+1193 V. Diamantis et al . | Sewage pre-concentration for maximum recovery Water Science & Technology | 67.6 | 2013
+Downloaded from https://iwaponline.com/wst/article-pdf/440732/1188.pdf
+by guest
+on 21 November 2018
+View publication statsView publication stats

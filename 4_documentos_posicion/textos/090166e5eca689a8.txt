@@ -1,0 +1,990 @@
+1 
+Public Consultation on the cybersecurity of digital products and ancillary services 
+ 
+Fields marked with * are mandatory. 
+Introduction 
+ 
+Digital products and ancillary services create significant opportunities for EU economies and societies, along with new challenges that 
+need to be addressed. In a connected environment, a cybersecurity incident in one product can affect an entire organisation o r a whole 
+supply-chain. It can lead to severe disruption of economic and social activities or even become life threatening. The lack of appropriate 
+security in digital products and services constitutes one of the main avenues for successful attacks. 
+In her State of the Union 2021 address, President von der Leyen underlined that the EU should not merely settle to ad dress the cyber 
+threats, but also strive to become a leader in cybersecurity. This could be achieved through legislation on horizontal requirements under 
+a new European Cyber Resilience Act, included in the Commission Work Programme for 2022 under the headline ambition “A Europe 
+Fit for the Digital Age”. This comes against the background of a growing number of high -profile cyberattacks with a global footprint, 
+the annual cost of cybercrime to the global economy in 2020 was estimated to be EUR  5.5 trillion, double that of 2015 1. This is also 
+partly a result of suboptimal cybersecurity measures for digital products and ancillary services. The new European Cyber Resilience Act 
+will also contribute to the EU’s continuous effort for an effective and genuine Security Union in the digital era. 
+This public consultation aims at informing the Commission’s upcoming Cyber Resilience Act init iative. Your answers will help the 
+Commission analyse cybersecurity-related problems associated with the digital products markets, explore possible ways forward and 
+assess the impact of different types of interventions. 
+ 
+Please note that the translations of this consultation in the other EU languages will follow. This consultation will remain open until 25 
+May 2022 
+ 
+Definitions 
+For the purposes of this public consultation, the notion of digital product covers both hardware and software products. A hardware 
+product is defined as any device or group of interconnected or related devices, one or more of which, pursuant to a program, perform 
+automatic processing of digital data. A software product is defined as an intangible good that processes digital data, stored, retrieved 
+or transmitted by a hardware device, by executing encoded instructions. Software products include for example operating systems, user 
+ 
+1 JRC, Cybersecurity – Our Digital Anchor, 2020: https://publications.jrc.ec.europa.eu/repository/handle/JRC121051  
+Ref. Ares(2022)3937893 - 25/05/2022
+2 
+applications or firmware. This includes software that can be made available without hardware (so-called ‘non-embedded software’ or 
+standalone software) as well as specialised software directly supportive to the function of the hardware product on which the  software 
+is run (so-called ‘embedded software’). Ancillary service means a (digital) service, the absence of which would prevent the tangible 
+product from performing its functions (e.g. a website through which you access to the functionality of a device). Cybersecurity means 
+the activities necessary to protect network and information systems, the users of such systems, and other persons affected by cyber 
+threats (Article 2(1) of EU Cybersecurity Act).   
+About you 
+ 
+1) * Language of my contribution      
+ 
+English     
+ 
+2) * I am giving my contribution as     
+ 
+Company/business  
+ 
+If you have selected ‘Other’, please state in which capacity are you replying to this questionnaire: __________  
+[If citizen, skip question 6 to 11] 
+ 
+3) * First name     Rene      
+4) * Surname     Summer      
+5) * Email     rene.summer@ericsson.com  
+     
+6) ↑ * Scope    European 
+7) ↑ * Organisation name   Ericsson 
+8) ↑ * Organisation size   Large          
+9) ↑ Transparency register number  02021363105-42 
+10) * Country of origin    Sweden 
+ 
+11) Only for companies Location of corporate headquarters: European Union  
+     
+ 
+12) Please specify in which capacity are you responding to this questionnaire?     
+User of digital product, Software developer, Hardware manufacturer, Importer of hard- or software,  
+3 
+ 
+If you have selected ‘Software developer’, please specify the category of software you are providing: software intended for Telcom 
+Networks and complex IT-systems.  
+ 
+13) Before starting this survey, please indicate if you have expert knowledge in cybersecurity regulation?  Yes 
+14) * Contribution publication privacy setting 
+The Commission will publish the responses to this public consultation. You can choose whether you would like your details to be 
+made public or to remain anonymous. 
+ O Anonymous: Only your type of respondent, country of origin and contribution will be published. All other personal details  
+ 
+15) * ☐ I agree with the personal data protection provision  
+ 
+How to respond to the questionnaire  
+ 
+The questionnaire and all its questions are open to everyone, from ordinary consumers to cybersecurity experts and other potentially 
+affected stakeholders. In addition, to facilitate responding to the questionnaire, the questions have been grouped into different 
+categories requiring different types of expertise: 
+ 
+Section 1 contains questions on the state of cybersecurity of digital products and users’ ability to choose secure products and use them 
+in a secure manner. 
+Section 2 explores various options to improve the cybersecurity of digital products. This includes also questions on the types of 
+products to be covered by an intervention, on other relevant legislation, on security requirements, on risk, as well as ways to assess 
+the conformity of vendors. 
+Section 3 focuses on the EU added value and the estimated impacts of potential measures on stakeholders. 
+Section 4 focuses on cybersecurity challenges beyond those related to digital products.  
+Whenever the questionnaire refers to ‘users’, the term encompasses both consumers using digital products as well as businesses, public 
+authorities and other types of organisations deploying digital products.  Whenever the questionnaire refers to ‘ vendors’, the term 
+encompasses hardware manufacturers, software developers as well as distributors and importers of digital products. 
+Please note that you can also upload a document (e.g. position paper) at the end of the questionnaire. 
+ 
+Section 1: Cybersecurity of digital products and the users of digital products  
+4 
+This section contains questions on the state of cybersecurity of digital products marketed in the European Union and users’ 
+ability to choose secure products and use them in a secure manner, and the role that vendors can play in securing products 
+and providing cybersecurity related information on their products. 
+ 
+Sub-section 1.a. – The state of cybersecurity of digital products  
+ 
+Q1: In your view, what is the overall level of cybersecurity of digital products marketed within the European Union (on a scale from 1 
+to 5 with 5 indicating a very high level of cybersecurity)? 
+ 
+4  
+ 
+Please elaborate (1000 character(s) maximum)   
+Assigning one specific digit as a representative answer across a vast span of different digital products, consumer, enterpris e, and 
+critical infrastructure providers, as well as for different use cases and different conditions regarding the users’ abilities and capacities 
+to make informed relevant cyber security relevant decisions is a monumental task. Furthermore, different products may have different 
+levels of security based on their intended use and user, balancing the requirements and willingness to pay. 
+ 
+Moreover, focusing on product level security alone is insufficient. If the intended policy objective is to protect the ultimate end users 
+of a service that is rendered by a system/network rather than predominantly by an individual digital product.  From the perspective of 
+complex IT systems and telecom network systems, that provide end users with digital services, the overall security posture of  these 
+systems impacts end -users’ de facto security experience. Before,  specifically addressing the security of a ” digital product” in this 
+context, it is essential to also consider that end-users’ security experience is significantly co-dependent on the security of the standards, 
+defining the base -line security requirements , configuration and hardening of “digital products” comprising the functional complex 
+IT-systems/telecom networks and the daily operational security of those complex IT-systems/telecom networks. 
+ 
+Given these critical security dependencies created through t he configuration and the operation of a complex IT -system/telecom 
+network, impacting end-user security, the security posture of these products building up the complex IT -system/telecom network, is 
+also dependent on the security standards embedded in these products and the vendor specific development process activities. 
+International security standards, for mobile systems such as 5G are set in working group SA3 in 3GPP 
+https://www.3gpp.org/specifications-groups/sa-plenary/sa3-security In the EU, 3GPP securit y standards are realized through ETSI 
+standards. 
+ 
+5 
+In the mobile industry, the 3GPP security standards are either mandatory or optional for the operator of a system/network to procure 
+(not necessarily as frequently optional for a vendor to support). To this end, product security will also depend on service providers of 
+complex IT systems/telecom networks procurement strategies, e.g., to which extent the buyer excludes optional (but mandatory for 
+vendor to support) security features in the procurement decisio ns. Lastly, security requirements defined in standards, such as 3GPP 
+and others may also be optional for vendors to support. 
+ 
+Product security is also impacted by a vendor’s maturity and adherence to a security by design development process and supply chain 
+risk-mitigation framework in place. Most vendors are also dependent on third party hardware and software providers and open-source 
+software as well as their own inhouse development. These different aspects together impact the product security posture. This means 
+that vendors also need to manage the security requirements in their sourcing strategies with third-party suppliers. 
+ 
+Lastly, as a buyer of vendors’ digital products, building up the complex system/telecom network, the operator may have a procurement 
+strategy that does not rely on the latest available software version provided by the vendor, and this means that there may be  more 
+secure product versions in the market than there are actually in use in specific complex IT-systems/telecom networks. 
+ 
+Lastly a vendor’s digital product security posture may be impacted by implementation requirements set by the buyer in the 
+procurement phase, dictating specific use of certain sub-suppliers’ hardware, software including open-source software. 
+ 
+This said and repeating that it is virtually impossible to provide a reliable answer to question 1 by assigning one specific digit that is 
+representative across the vast span of different digital product, but limit to 5G, then our view is that it could be set a digit of 4. 
+ 
+ 
+Q2: In your view, during the last five years, how has the level of risk of cybersecurity incidents affecting digital products evolved? 
+Risk level has increased 
+ 
+Please elaborate (1000 character(s) maximum)  
+The answer is limited to complex IT-system and telecom network systems, one can elaborate as follows. 
+ 
+Firstly, there is no way to entirely remove threats and vulnerabilities in software, hardware, configurations, operations of complex IT 
+systems and telecom networks, they need to be mana ged. The fundamentals of risk management are: (1) identifying threats, (2) 
+6 
+detecting vulnerabilities (3) estimating the probability of an event occurring and (4) estimating the resulting impact, to understanding 
+the risk. 
+ 
+Vulnerabilities can exist at system or product level and can be of different degrees of severity, in this sense not all vulnerabilities have 
+the same impact which means that priority should be given to critical and severe vulnerabilities. Lastly, not all vulnerabili ties are 
+equally exploi table and hence this aspect needs to be considered as well when setting priorities. This means that severity and 
+exploitability should be prioritized for any policy intervention, while avoiding one size fits all approach that strives to a ddress all 
+known vulnerabilities.  
+ 
+In sum: risk is a relationship between, threat actor capability performing actions using the exploitable vulnerability or wea kness at 
+operational, configuration or product level (including third-party sub-components), and the probability of this occurring and the impact 
+of the occurrence.  
+ 
+For an attacker to be able to reach target asset and act on the objective, the attacker would normally have to successfully e xecute all 
+the stages of the Intrusion Kill Chain, from Reconnaissance to Command and Control, see example here 
+https://en.wikipedia.org/wiki/Kill_chain.  
+ 
+Achieving this on a more conventional target like a consumer device or an enterprise office network is not trivial but become s much 
+more difficult in case of a telecom network or complex IT-system. This is because a software vulnerability to be exploited in a network 
+function or node inside telecom network requires multitude of security controls and processes to fail. Due to how a telecom n etwork 
+is defined, designed, developed, and deployed – all this makes it rather difficult to exploit a software vulnerability in the critical – the 
+more interesting from attacker point of view – parts of the network. Only if all these processes fail to catch the attacker, an attack can 
+be successful. 
+ 
+The layered defences in telecom networks, protect the network and provide resilience against trivial attacks. And in the worst case, if 
+an attacker has been able to manoeuvre inside a network and avoid detection, it most likely means that the attacker has established a 
+level of access to the network allowing the attacker to conduct the mission without the need to exploit a software vulnerability in the 
+network equipment. This means that attentions should be also placed on system level vulnerabilities at operational and configrurational 
+level. 
+ 
+7 
+Understanding the complexity of exploiting a software vulnerability in telecom networks in comparison to same vulnerability i n 
+internet facing, consumer-grade or otherwise widely deployed and practically un-managed system affirm the importance of deploying 
+different, fit-for-purpose security frameworks and requirements needed to keep these very different types of systems secure 
+Given this, the overall risk of cyber -security incidents have increased for a number of reasons, the growing trend of threat actors  
+engaging in cyber-attacks is a function of the pay-out ratio (risk/reward). In principle the risks of getting caught and prosecuted with 
+severe penalties is too low while the rewards have increased due to increased degree of digitization. To change the pay-out ratio, it is 
+necessary to increase the cost e.g., risk for criminal actors to engage in illicit cyber activities. The proliferation of off ensive cyber 
+capabilities (OCC) and tools, and the facilitation of such tools by various intermediaries for prof it has also decreased the technical 
+barriers for individuals to engage in illicit cyber activities. Hence, facilitation should also be addressed. Lastly, increas ed activity of 
+state actors or state affiliated actors to attack national critical infrastructure has increased both due to changing geopolitical landscape 
+but also due to lack of progress at international level e.g., adherence, implementation and enforcement of norms.  
+In sum, a primary policy objective should be about decreasing the growing threat  exposure to criminal and state actors that the civil 
+society including business is facing today.  
+ 
+Vulnerabilities (people, processes, and technologies) have also increased with technological developments by adding complexit y. 
+Criminal threat actors ratio nally pursue low risk/high reward strategies that target individuals, organizational processes and 
+technologies.  From a product/system/network perspective the evolution has been heterogenous, while vulnerabilities are virtu ally 
+impossible to remove, incre ased attention has been given to develop risk management frameworks and vulnerability management 
+frameworks. Increased awareness of vulnerabilities with open -source software has also led to increased understanding of associated 
+risks example log4j incident. While open-source software is valuable for the entire ICT industry, increased focus on securing open -
+source software is welcomed including though public support. 
+ 
+Limiting the answer to complex IT -systems and telecom network systems, an increasing risk l evel over the last years  has been a 
+general trend. 
+ 
+ 
+ 
+Sub-section 1.b. – Consequences of cyber incidents and non-secure digital products 
+ 
+Q3: How would you evaluate the actual impact of cybersecurity incidents affecting digital products on you or your organisation (on a 
+scale from 1 to 5 with 5 indicating a very high negative impact)? 
+8 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Financial cost of implementing 
+measures to respond to a cybersecurity 
+incident  
+ X     
+Financial cost of disruption (e.g. due to 
+a ransomware attack)  
+ X     
+Reputational damage    X    
+Compromising the security of our 
+economy and society 
+   X   
+Damage to health and life  X     
+Damage to fundamental rights (e.g. 
+privacy, protection of personal data, 
+consumer protection) 
+ X     
+Environmental damage  X     
+ 
+Please elaborate, if possible quantify (1000 character(s) maximum)  
+No further comments. 
+ 
+Q4: In your view, if a digital product is not cyber secure, how does it impact the user (on a scale from 1 to 5 with 5 indicating that you 
+fully agree)? 
+ 1  2 3 4 5 Don’t know 
+/ no opinion 
+The user bears additional cost 
+when affected by a cybersecurity 
+incident 
+  X     
+The user bears additional costs due 
+to highly priced cybersecurity 
+insurance 
+  X     
+9 
+The user bears additional costs due 
+to the need to deploy highly priced 
+technical security solutions 
+   X    
+ 
+Please elaborate, if possible quantify (1000 character(s) maximum) 
+No further comments. 
+ 
+Sub-section 1.c. – Trust, cybersecurity awareness and capabilities of users 
+ 
+Q5: To what extent do you agree with the following statements as regards your awareness and understanding of cybersecurity 
+properties of digital products (on a scale from 1 to 5 with 5 indicating that you strongly agree)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+In general terms, I am aware of the 
+cybersecurity risks associated with 
+digital products  
+    X  
+There is sufficient and clear 
+information made available on the 
+cybersecurity properties of digital 
+products 
+    X  
+I understand the cybersecurity 
+properties I should expect from a 
+product and have the skills to operate it 
+securely 
+    X  
+I value aspects of usability and price of 
+a digital product higher than its 
+cybersecurity features. 
+  X    
+ 
+Sub-section 1.d. – The role of vendors in providing secure digital products 
+ 
+10 
+Q6: To what extent do you agree with the following statements on the role of the vendors? Please rate the following statements on a 
+scale from 1 to 5 (with 5 indicating that you strongly agree). 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Vendors of hardware are addressing 
+effectively cybersecurity 
+vulnerabilities and incidents affecting 
+their customers. 
+   X   
+Vendors of software are addressing 
+effectively cybersecurity 
+vulnerabilities and incidents affecting 
+their customers. 
+   X   
+ 
+Q7: If you are a vendor: which of the following aspects have the biggest impact on your decision related to cybersecurity of your 
+digital product?  
+ Very 
+relevant 
+Relevant Neither nor Not too 
+relevant 
+Not relevant 
+at all 
+Don’t know / 
+no opinion 
+The potential reputational damage and 
+the loss of trust of the users following  
+an incident  
+X      
+Customer expectations, including 
+contractual obligations 
+X      
+Public procurement practices (e.g. 
+guidelines) 
+X      
+ 
+What are other aspects affecting your decision related to cybersecurity of your digital product? (1000 character(s) maximum) 
+Professional buyers of products intended for complex IT systems and telecom networks have professionals inside their organizations, 
+internal security guidelines and well -defined security requirements to make informed cybersecurity relevant decisions. This security 
+relevant situation is materially different from situations where consumers or SME procure digital products for their own use. 
+ 
+11 
+In the case of professional buyers of complex systems, the above -mentioned conditions do not only govern the security requirements 
+for products being considered but also define the rules f or security relevant decisions concerning configuration and hardening of 
+products into systems/networks as well make security relevant decisions for their operational security processes. 
+ 
+Regarding products, different buyers have different strategies for maintaining legacy products in their systems, included products that 
+are no longer supported by vendors.  
+ 
+Buyers have also differed preferences in using the latest available software version of a given product impacting the securit y posture 
+of their systems. 
+ 
+Buyers may also have preferences of using particular components and products in their existing systems/networks that has secu rity 
+relevant implications for other product vendors. 
+ 
+Lastly, the time to implement a software security fix is a function of product vendors’ internal development process, ensuring that fixes 
+also adhere to security by design and follow all relevant security testing before release to a customer, as well as buyers pr ocesses and 
+procedures to deploy software updates to their live s ystems. This means that lead -times from discovery of vulnerability to 
+implementation in live system is a function of number of activities of vendors and professional buyers of which a number of e ssential 
+activities require time to ensure that software fixes themselves do not create new vulnerabilities. 
+ 
+ 
+Q8: To what extent are hardware manufacturers and software developers taking the cybersecurity of their digital products into account 
+in each of the following phases of the product lifecycle (on a scale from 1 to 5 with 5 indicating that cybersecurity is taken very 
+seriously)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Design     X  
+Development     X  
+Delivery of the product on the market      X  
+Maintenance and evolution of the 
+product (e.g. after-sale)  
+    X  
+ 
+Section 2: Improving the cybersecurity of digital products  
+12 
+This section explores various policy options to improve the cybersecurity of digital products. This includes also questions on 
+the types of products to be covered by an intervention, on other relevant legislation, on security requirements, on risk as well 
+as ways to assess the conformity of manufacturers. 
+ 
+Sub-section 2.a. – Exploring ways to make digital products more secure 
+Q9: To what extent do you think that the following measures could be effective in raising the level of cybersecurity of digital products 
+marketed in the Union (on a scale from 1 to 5 with 5 indicating that a measure would be very effective)? 
+ 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Guidelines or recommendations for the 
+development of secure digital products 
+issued at EU level addressed to vendors 
+   X   
+Further voluntary European 
+cybersecurity certification schemes for 
+digital products and services  
+   X   
+EU public procurement guidelines 
+taking into account cybersecurity 
+requirements 
+   X   
+Amending existing legislation 
+regulating specific products with a 
+digital dimension (such as the 
+legislation on lifts or gas appliances)  
+ X     
+Introducing mandatory horizontal 
+cybersecurity requirements for 
+hardware products 
+ X     
+Introducing mandatory horizontal 
+cybersecurity requirements for 
+software products 
+ X     
+ 
+Please elaborate (1000 character(s) maximum) 
+13 
+A horizontal tiered approach is preferable , which gives a foundation to support a secure and competitive EU.  Guidelines are a welcomed 
+instrument for complex IT systems and telecom networks that allow the elaboration and continuous engagement in a multi-stakeholder 
+format that have the possibility to drive the industry in the right direction. 
+ 
+Any additional, interventions, in the market beyond guidelines and recommendations through legislative acts should be outcome based, 
+technology neutral and should be evolved though effective risk -management frameworks. Product, configuration or system/netw ork 
+security requirements and related product/system lifecycle activities are interlinked and should include feedback loops for c ontinuous 
+improvements. Monitoring of security flaws, doing root -cause analysis, identifying actions for improvements and ensur ing they are 
+implemented appropriately requires continual improvement process for development and product lifecycle. 
+ 
+For some industries, base-line security requirements are set through standards. This is also essential to ensure that security requirements 
+are implemented while ensuring multi-vendor interoperability such as is the case with 3GPP and the relevant security standardization 
+work in WG SA3 https://www.3gpp.org/specifications-groups/sa-plenary/sa3-security .  
+ 
+Development of additional base -line security standards should be achieved through this industry led multi -stakeholder approach to 
+ensure that all participating vendors adhere to same requirements, that those requirements are implement in a way that allows for multi-
+vendor interoperability. Legislative approaches that develop product level requirements outside this regime, risk fragmenting  the 
+standards and creating conflicting requirements, resulting in vendor  lock-ins or that security requirements are supported by some but 
+not other vendors. Nationally fragmented approaches may also result in market access barriers and economic difficulties to de velop 
+cost-effective products. 
+ 
+For other products that are for consumers or enterprises, use of other approaches may be more effective. 
+ 
+ 
+Q10:  How would you assess the impact of the following measures on the level of cybersecurity of digital products and of the 
+consumers/organisations using such products (on a scale from 1 to 5 with 5 indicating that a measure would have a very high impact)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Require vendors to make available 
+information and provide instructions 
+on securely installing, operating and 
+using the product in question 
+ X     
+14 
+Require vendors to take corrective 
+actions (such as patching, recalling or 
+withdrawing a product) when a product 
+is found to be not secure 
+ X     
+ 
+Sub-section 2.b. – Exploring ways to make users more aware  
+ 
+Q11: How would you assess the relevance of the following measures for the users’ ability to evaluate the cybersecurity properties of a 
+digital product and to make better informed purchase or usage decisions (on a scale from 1 to 5 with 5 indicating that a measure is 
+very relevant)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Making available technical 
+documentation (e.g. containing 
+information to demonstrate the 
+conformity of the product to the 
+applicable requirements) on the 
+cybersecurity properties of a product 
+(such as on risks and proper use) 
+X      
+Making available EU Declaration of 
+conformity (e.g. stating that all the 
+relevant requirements of the applicable 
+legislation are satisfied)  
+ X     
+       
+Affixed symbol of compliance (such as 
+CE marking) 
+  X    
+Training on the secure use of digital 
+products 
+    X  
+ 
+Which other measures would allow for better informed purchase or usage decisions by the user? Please elaborate (1000 character(s) 
+maximum) 
+15 
+Answer below includes comments to Q10 and Q11. 
+Q10 
+In professional product markets for IT systems and telecom networks, vendors a re already providing, in a bilateral fashion, tailored 
+security relevant information and security relevant recommendations including secure configuration and safe operations. This 
+information is currently not made publicly available as it would also provide attackers with valuable information. While industry-wide 
+recommendations from competent authority are welcomed that also create a valuable reference point for the industry. 
+ 
+As noted earlier, security posture of complex IT-systems and telecom networks is a function of standards, products, configurations, and 
+operations. Any intervention needs to factor in this crucial dependency. Rules that require vendors to implement risk-management and 
+vulnerability management procedures should be encouraged and are reasonable while the details of these frameworks should be left to 
+market actors to implement, while regulation could point to industry best practices, international standards as well as focus  on clearly 
+articulate the specific security outcomes such mechanisms should achieve.  
+ 
+Policy tools to defend the civil society from threat actors (see answers to Q1 and Q2) should also be sharpened, and more enforcement 
+is needed to address actors that proliferate, facilitate, and develop offensive cyber capabilities and tools. The ever-growing availability 
+and easy access, create unreasonable risks for vendors, operators of digital products, systems and networks and end -users (consumers 
+and enterprises).  For example, see: https://iccwbo.org/publication/icc-cybersecurity-issue-brief-1/  
+ 
+Q11 
+It is critical that a horizontal tiered approach is adopted that reflects the sectorial realities, while digital products may benefit from 
+symbols or labelling program. 
+End-users don’t interact with security relevant factors of complex IT-systems and networks as this is managed by professionals 
+within service providers organizations.  
+While currently consumers have information about network coverage, speed and broadband price comparisons, no transparent and 
+easy to digest information is available about relevant security details to inform end-users’ buying decisions of network services. 
+More complex systems will benefit from risk management frameworks being implemented within supplier’s development process 
+and system/network operators’ operational and configuration process as described in answers to Q1 and Q2. 
+ 
+Sub-section 2.c. – Digital products to be covered by a European initiative 
+ 
+16 
+Q12: To what extent do you agree that subjecting certain products marketed in the Union to cybersecurity requirements would be 
+effective (on a scale from 1 to 5 with 5 indicating that you strongly agree)?  
+ 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Hardware products   X     
+Embedded software  X     
+Ancillary services   X     
+Hardware products subject to 
+higher cybersecurity risks  
+ X     
+All standalone software 
+products  
+ X     
+Software products subject to 
+higher cybersecurity risk 
+ X     
+ 
+Please elaborate (1000 character(s) maximum) 
+Please see also answers to Q1, Q2, Q7, and Q9  
+Furthermore, some additional vital principles regarding product security regulation to consider:  
+• Rules and requirements should be proportionate and relevant to the purpose, fact based, ideally globally harmonized, 
+technology neutral, avoiding technical barriers to trade, and ensure that responsibilities are laid on actors that can be held 
+accountable for the outcome. 
+• The stringency should be sufficient to meet the public interests but performance beyond this should be left for competition in 
+the marketplace. 
+• Furthermore, rules and regulation should be balanced and based on a holistic view, between different policy areas such as 
+environment, safety, security and over the product life cycle. 
+• Avoiding overlapping and contradictory requirements. There is a tendency to extend the scope of legal acts and include 
+requirement from other areas. The obvious risk is contradictory or overlapping obligations and conformity assessment 
+procedures which all must be fulfilled when a product is placed on the market or put into service. 
+• Decisions related to technical regulation and product compliance should be made by the most appropriate body with access to 
+relevant competence.  
+• Essential requirements, i.e., the political goals, should be defined in the political arena. Technical requirements should 
+preferably be defined by recognized standardization bodies, following a well-defined process where all parties can participate. 
+17 
+• The technical security requirements should be prepared by standardization bodies (preferably international) with the 
+participation of all relevant stakeholders to ensure transparency and relevance. 
+ 
+Sub-section 2.d. – Existing legislation on the cybersecurity of digital products 
+ 
+Q13: To what extent do you agree with the following statements about how cybersecurity is addressed in existing EU legislation (e. g. 
+the General Product Safety Directive and the Machinery Directive, both currently under review; the Delegated Regulation of 29 October 
+2021 under the Radio Equipment Directive) (on a scale from 1 to 5 with 5 indicating that you strongly agree with a statement)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Existing EU regulation appropriately 
+addresses cybersecurity of tangible 
+digital products (hardware) throughout 
+their lifecycle 
+  X    
+Existing EU regulation appropriately 
+addresses cybersecurity of intangible 
+digital products (software) throughout 
+their lifecycle 
+  X    
+Existing EU regulation appropriately 
+addresses all relevant cybersecurity 
+risks (material and non-material 
+damages) related to the use or misuse 
+of a digital product 
+  X    
+ 
+Q14: In the absence of horizontal cybersecurity requirements at European level, Member States could adopt national laws placing certain 
+requirements on vendors. To what extent do you agree that there is a risk of increasing costs and legal uncertainty for mark et 
+stakeholders, in the absence of an EU initiative? (on a scale from 1 to 5 with 5 indicating you fully agree)? 
+ 
+5  
+ 
+Please elaborate (1000 character(s) maximum) 
+18 
+To ensure harmonized, well-functioning internal market, it is essential that harmonization occurs at EU level to ensure economies of 
+scale and to avoid contradictory requirements across the EU frontier.  
+Member States are already subjecting vendors of some products through national cyber security (confidentiality, integrity and 
+availability) requirements directly and indirectly through obligations laid down in domestic regulation or through implementation of 
+EU law in domestic regulation. In addition, public procurement rules for certain sectors lay down additional requirements. 
+Again, it is essential to reiterate that end-users’ de-facto security experience from using services rendered by complex IT systems and 
+telecom networks is a function of a number of factors, standards, products, configurations and operations. In this sense rules targeting 
+the systems and networks ensure that policy makers target the security experience of end-users that different stakeholders need to 
+adhere to within their sphere of control to achieve targeted security objective outcomes.   
+ 
+ 
+Q15: If you are a vendor, are your digital products subject to legal requirements as regards their cybersecurity? In your answer, please 
+take into account European, national but also legislation stemming from third countries. 
+ 
+YES 
+ 
+If “yes” Q15a: Which of your digital products are subject to which legal requirements as regards their cybersecurity (500 characters 
+max.)? 
+EU-level, examples are RED, Cybersecurity Act, GDPR. Some EU Member States implementation of NIS1 and European Electronic 
+Communications act. National authorization and testing in selected EU Member States. Increased national security requirements 
+resulting from the implementation of the EU 5G toolbox.  NIS2 implementation by EU Member States is expected to have impact as 
+well. 
+ 
+Sub-section 2.e. – Cybersecurity requirements for digital products 
+ 
+Q16: Should hardware manufacturers and software developers be responsible for the full life cycle of a digital product (such as by 
+being required to provide updates)?  
+Yes 
+19 
+If yes Q16a: If you think that hardware manufacturers and software developers should be required to provide security updates, for 
+how many years should they be required to do so? 
+Other – please specify below/ 
+ 
+Please elaborate (1000 character(s) maximum) 
+Each affected stakeholder (or actor) should secure its own life cycle stages. Vendors are in charge for security by design procedures 
+during the development and testing phases. Operators and other service providers of complex IT systems and telecom networks are in 
+charge for operational security of a deployed networks/systems where they need to continuously assess the performance of the 
+network to meet the defined security threshold levels. 
+Since no ICT supplier develops a given product with indefinite life-time support, a product life cycle approach should also identify 
+and address the situation when ICT users’ continued reliance on ICT products that have surpassed vendor declared product End-Of-
+Life or End of Support.  A mechanism to address this situation would entail options such as an outright prohibition or transfer of 
+responsibility for continued security to the ICT user – depending on the risks for the broader environment and not just to the 
+individual user. 
+Economic lifetime of products used in complex IT-Systems and Networks should be factored in considering the duration of update as 
+well as contractual agreements in B2B sector. Lastly, considerations should also be given to state-of-the-art security by design, 
+architecture and other design improvement in software and hardware that enhance security which older product software 
+patches/support included can’t offer.  
+Product security requirements and product lifecycle activities are interlinked and should include feedback loops for continuous 
+improvements. Monitoring of security flaws, doing root-cause analysis, identifying actions for improvements and ensuring they are 
+implemented appropriately requires continual improvement process for development and product lifecycle. 
+ 
+ 
+Q17: To what extent can the following approaches contribute to the cybersecurity of a digital product (on a scale from 1 to 5 with 5 
+indicating that a measure would be very effective)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Cybersecurity is taken into account 
+during all phases of the development 
+process (security by design) 
+    X  
+20 
+Products are placed on the market with 
+the most secure settings enabled by 
+default (security by default) 
+   X   
+Hardware manufacturers and software 
+developers should make available to 
+relevant stakeholders (e.g. end-users) a 
+list containing the details and supply 
+chain relationships of various 
+components used in building the digital 
+product (so-called (Software) Bill of 
+Materials) 
+X      
+Products should be designed in such a 
+way that they are fully updatable  
+   X   
+Hardware manufacturers and software 
+developers provide updates when 
+vulnerabilities are discovered, 
+including after a product has been put 
+on the market 
+    X  
+Hardware manufacturers and software 
+developers should provide updates free 
+of charge  
+ X     
+Hardware manufacturers and software 
+developers facilitate vulnerability 
+disclosure (e.g. by public authorities; 
+independent researchers)  
+   X   
+Products must feature all the necessary 
+functional (e.g. two-factor 
+authentication) and non-functional (e.g. 
+resilience against DDoS (Distributed 
+Denial of Services) attacks) security 
+requirements 
+     X 
+ 
+21 
+Which other measures taken by hardware manufacturers and software developers could improve the cybersecurity of digital products? 
+(1000 character(s) maximum) 
+Required security controls depend on the context and use case. On top of the basic key (or baseline) security controls, additional ones 
+should be derived through the processes of threat modelling and risk assessment. 
+ 
+In regards, to complex IT-systems/networks providing end-users (example consumers) with supply chain information, is neither 
+relevant as end-users of these systems do not interact or decide security relevant decisions nor is the complexity of such information 
+actionable for end-users. Lastly, making such information widely available would also be to the benefit of attackers. 
+ 
+Required security controls depend on the context and use case. On top of the basic key (or baseline) security controls, additional ones 
+should be derived through the processes of threat modelling and risk assessment. 
+ 
+Resilience is more than cybersecurity alone, while the questionnaire puts a lot of emphasis on cybersecurity, the relationship between 
+resilience and cybersecurity is not elaborated nor seems there be an emphasis on resilience in the questionnaire.  
+ 
+High-performance systems are always available, perform as expected and deliver information uncompromised from the source, and 
+recover quickly when facing disturbances or attacks. The capabilities of a resilient system include a combination of reliability, 
+availability, robustness and security, whilst protecting privacy. More attention in the questionnaire should be put on resilience and 
+definition of resilience should be provided. 
+ 
+In the question, “Products must feature all the necessary functional e.g., two-factor authentication) and non-functional (e.g., resilience 
+against DDoS (Distributed Denial of Services) attacks) security requirements” this question implies that all necessary security 
+requirements have been defined for all products which would imply a one-size fits all approach, going against the principles of a risk-
+based approach.  
+ 
+Sub-section 2.f. – The role of risk 
+ 
+Q18: Under this initiative, hardware manufacturers and software developers would need to demonstrate their compliance with 
+cybersecurity requirements. Should digital products with a higher risk be subject to a stricter process of demonstrating conformity 
+with these requirements?  
+22 
+Yes 
+ 
+[If Yes to Q18] Q18a: The way hardware manufacturers and software developers would be required to demonstrate their compliance 
+with cybersecurity requirements could be made dependent on the risk associated with a specific product. What categories of risk 
+should such a risk-based methodology take into account? (multiple answers are possible) 
+The functionality of a product (such as whether it has a network interface or not, or whether it controls certain security 
+features of a digital system) / 
+The societal importance of a product (for example measured in market share or number of users) / 
+The intended use of a product (such as for the provision of health services, as an industrial control system or in a safety 
+context) / 
+The safety risk associated with a product / 
+Other, please specify:  Operational and configuration security relevant considerations     
+Don’t know / no opinion] 
+ 
+Please elaborate (1000 character(s) maximum) 
+Please see answers to Q1 and Q2.  
+A risk-based approach is a common practice where security controls are implemented based on the risk assessment results. This is an 
+effective way to adapt security requirements from a common baseline where lower-risk products do not need to have the same 
+security requirements as products with a higher risk level. 
+ 
+[If yes to Q18] Q18b: Who should determine the risk associated with a product and, as a result, its risk categorisation? (multiple 
+answers are possible) 
+The manufacturer / 
+A competent authority / 
+An independent body responsible for verifying compliance with the cybersecurity requirements / 
+Legislation / 
+Other (please specify):  
+Don’t know / no opinion ] 
+ 
+Please elaborate (1000 character(s) maximum) 
+23 
+ 
+ 
+Sub-section 2.g. – Demonstrating compliance with security requirements 
+ 
+Q19: How would you assess the following statement regarding self-declaration as a way for hardware manufacturers and software 
+developers to demonstrate compliance with security requirements (on a scale from 1 to 5 with 5 indicating that you strongly agree)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+A self-declaration of conformity by a 
+hardware manufacturer or software 
+developer gives a sufficient confidence 
+that security requirements are met 
+   X   
+ 
+Q20: If you consider that self-declaration is not enough to demonstrate compliance with security requirements, do you think that the 
+involvement of a third party should be required under certain circumstances? 
+[Yes/No/Don’t know] 
+ 
+[if yes to Q20] Q20a: Under which circumstances should third-party verification apply?  
+ 
+If a product presents a higher risk  
+Other, please specify below:       
+Don’t know / no opinion 
+Please elaborate (1000 character(s) maximum) 
+The question does not take into account that, if the policy objective is to protect the end users of complex IT systems and networks, 
+product security focus alone is an insufficient perspective and dependencies described in earlier answers regarding standards, 
+products, configurations and operations are critical to consider. Any product level security assurance assessment should be considered 
+in the broader context including standards, products, configuration and operations.  
+ 
+24 
+In the case of mobile infrastructure, the GSMA Network Equipment Security Assurance Scheme (NESAS), jointly defined by 3GPP 
+and GSMA, provides an industry-wide security assurance framework to facilitate improvements in security levels across the mobile 
+industry. NESAS defines security requirements and an assessment framework for secure product development and product lifecycle 
+processes, as well as using 3GPP defined security test cases for the security evaluation of network equipment. 
+https://www.gsma.com/security/network-equipment-security-assurance-scheme/   
+  
+ 
+ 
+Section 3: Stakeholder impact of potential regulatory measures  
+This section focuses on the EU added value and estimated impacts of potential regulatory measures on stakeholders. 
+ 
+Sub-section 3.a. – Relevance of horizontal requirements for digital products at European level  
+ 
+Q21: To what extent do you agree with the following statements that look into the potential effectiveness of an EU initiative on 
+horizontal (cross-sectoral) cybersecurity requirements? 
+ Strongly 
+disagree  
+Disagree Agree Strongly agree Don’t know / no 
+opinion 
+Cyber risks can propagate across 
+borders and sectors at high speed, 
+which is why cybersecurity rules for 
+digital products should be aligned at 
+Union level 
+   X  
+Horizontal cybersecurity 
+requirements for digital products 
+would increase awareness of users 
+when it comes to cyber risks 
+  X   
+Horizontal cybersecurity 
+requirements for digital products 
+would enhance and ensure a 
+consistently high level of the security 
+ X    
+25 
+of digital products and ancillary 
+services  
+Horizontal cybersecurity requirement 
+would improve the functioning of the 
+internal market by levelling the 
+playing field for vendors of digital 
+products and ancillary services as 
+regards security features 
+  X   
+ 
+Q22: The EU Action Plan on synergies between civil, defence and space industries underlines the importance of promoting and applying 
+common standards across sectors and the increased relevance of digital products that are used both in a civilian and military context 
+(‘dual-use products’). To what extent could horizontal requirements ap plying to digital dual -use products contribute to moving the 
+security performance of such products closer to the needs of the defense community and to raising the overall level of cybersecurity in 
+civilian uses (on a scale from 1 to 5 with 5 indicating a very positive contribution)? 
+2 
+Please elaborate (1000 character(s) maximum) 
+Defence industry’s security requirements are intended for users and use-cases that significantly differ from those for the civilian use 
+of ICT. While there are some degrees of linkages especially in case of private/dedicated networks such as communication networks 
+for police and rescue there are also significant difference. 
+It is recommended to conduct a dedicated stakeholder relevant analysis to further investigate the complexities and possible synergies. 
+ 
+ 
+Sub-section 3.b. – Impact on your organisation in terms of cost 
+ 
+Q23: How would you assess the impact of the following types of intervention on the costs of your organisation (on a scale from 1 to 5 
+with 5 indicating that the intervention would be very costly)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Guidelines or recommendations for the 
+development of secure digital products 
+issued at EU level addressed to vendors 
+  X    
+26 
+Further voluntary European 
+cybersecurity certification schemes for 
+digital products and services  
+  X    
+EU public procurement guidelines 
+taking into account cybersecurity 
+requirements 
+  X    
+Amending existing legislation 
+regulating specific products with a 
+digital dimension (such as the 
+legislation on lifts or gas appliances) 
+  X    
+Introducing mandatory cybersecurity 
+requirements for hardware products  
+  X    
+Introducing mandatory cybersecurity 
+requirements for software products 
+     X 
+ 
+Please elaborate your answer, by quantifying the costs if possible (1000 character(s) maximum) 
+In the mobile network domain both technical and process related ICT security measures are continuously developed within existing 
+standard and industry organizations. Hence guidance to policy makers is to engage with relevant industry best-practices and 
+international standard organizations and drive security requirements via the standard and/or industry bodies such as 3GPP, GSMA, 
+IETF and ETSI. 
+ 
+From cost perspective, in the network equipment domain, it would be more economical to drive EU CRA requirements through 
+standardization than as a separate set of requirements (avoiding unnecessary overlaps and contradicting requirements). 
+ 
+ 
+Sub-section 3.c. – Regulatory burden and costs for small and medium-sized companies 
+ 
+Q24: Which of the following approaches would in your view ensure that small and medium-sized hardware manufacturers and software 
+developers, including individual entrepreneurs, are subject to proportionate obligati ons (balance between administrative burden and 
+compliance costs on the one hand and a high level of cybersecurity) under a European legislation introducing mandatory horizo ntal 
+cybersecurity requirements (on a scale from 1 to 5 with 5 indicating that you strongly agree with a statement)?  
+27 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Subject small and medium-sized 
+companies to the same obligations as 
+larger companies 
+     X 
+Introduce simplified procedures to 
+demonstrate conformity for small 
+companies and individual 
+entrepreneurs 
+     X 
+ 
+Which other approaches could ensure proportionate obligations vis-à-vis small and medium-sized hardware manufacturers and 
+software developers, including individual entrepreneurs? (1000 character(s) maximum) 
+No comment. 
+ 
+Sub-section 3.d. – Impact on competition 
+ 
+Q25: An EU initiative laying down horizontal cybersecurity requirements would apply to all vendors placing products on the interna l 
+market, irrespective of their origin and location. To what extent would you agree with the following statements regarding the impact on 
+competition of such an initiative (on a scale from 1 to 5 with 5 indicating that you strongly agree with a statement)?  
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Mandatory cybersecurity requirements 
+will put smaller hardware 
+manufacturers and software developers 
+at a disadvantage compared with larger 
+competitors  
+    X  
+Mandatory cybersecurity requirements 
+will put EU manufacturers and 
+software developers at a disadvantage 
+on non-EU markets compared to non-
+    X  
+28 
+EU competitors that are not subject to 
+such requirements 
+ 
+Sub-section 3.e. – Impact on fundamental rights  
+ 
+Q26: To what extent to you agree with the following statement regarding the impact of horizontal cybersecurity requirements on 
+fundamental rights (on a scale from 1 to 5 with 5 indicating that you strongly agree with a statement)? 
+ 1 2 3 4 5 Don’t know / 
+no opinion 
+Horizontal cybersecurity requirements 
+for digital products would enhance 
+protection of privacy and personal data  
+ X     
+Horizontal cybersecurity requirements 
+for digital products would ensure a 
+high level of consumer protection  
+ X     
+ 
+ 
+Section 4: Other issues 
+ 
+This section focuses on cybersecurity challenges for the internal market other than those related to digital products. 
+ 
+Q27: In addition to the issues above, are there other cybersecurity related challenges not directly linked to the cybersecurity of 
+products that you think the Cyber Resilience Act should include to enhance the resilience of the Single Market to cybersecurity? 
+ 
+Please elaborate (1000 character(s) maximum)    
+Comment to Q 21 
+ 
+29 
+The level of security understanding among the users and stakeholders varies in different sectors. The horizontal security baseline for 
+all stakeholders may not work optimally since the need of applied security measures and required competence depends on how and 
+where the ICT products are used. The better security awareness and competence among stakeholders, the better security solution can 
+be applied and maintained. 
+As security is always context dependent, a common baseline cannot meet the requirements in all different categories and sectors. For 
+example, a common mandatory baseline can be too large for the end device category in case of constrained IoT devices and too small 
+for the mission critical Servers and systems. Also, as security can only be accurately defined in a specific context, requiring similar 
+security controls for the same product used in different contexts may lead to a false sense of security. 
+The horizontal approach with minimum set of security requirements combined with sector specific additional requirements would 
+potentially be even more effective as that would allow defining minimum security baseline horizontally applicable to all ICT products 
+while requiring stricter sector security controls for higher risk deployments of the ICT products. 
+ 
+If the policy objective is to protect the end users of complex IT systems and networks, product security focus alone is an insufficient 
+perspective and dependencies described in earlier answers regarding standards, products, configurations and operations are critical to 
+consider. Any product level security assessment should be considered in the broader context including standards, products, 
+configuration and operations. 
+ 
+Q27 
+ 
+Increasing the security of open-source software is an area that commands a significant public value where both users and developers 
+would benefit from increased security of open-source software. To that end, proposals from European Commission how this effort 
+could be organized and supported is welcomed. 
+ 
+ 
+ 
+Final feedback 
+ 
+Please upload your file  
+    The maximum file size is 1 MB     Only files of the type pdf,txt,doc,docx,odt,rtf are allowed  
+30 
+     Select file to upload 
+ 
+ 
+Final comments  
+[Free Text] 
+ 
+ 
+*** End of questionnaire *** 
+ 

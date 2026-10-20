@@ -1,0 +1,976 @@
+ 
+ 
+Microsoft  
+carbon  
+removal 
+ 
+An update with lessons learned  
+in our second year 
+ 
+ 
+ 
+ 
+March 2022
+Ref. Ares(2022)3347010 - 30/04/2022
+ 
+2         MICROSOFT CARBON REMOVAL MARCH 2022 
+Contents 
+Foreword ............................................................................................................................................ 3 
+Introduction ...................................................................................................................................... 4 
+Lessons learned in our second year ........................................................................................ 6 
+FY22 additions to our carbon removal portfolio ................................................................ 13 
+Low-durability solutions .................................................................................................. 17 
+Medium-durability solutions ......................................................................................... 20 
+High-durability solutions................................................................................................. 21 
+Looking ahead ................................................................................................................................. 22 
+Acknowledgments .......................................................................................................................... 24 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover image used courtesy of Carbofex.
+ 
+ 
+3         MICROSOFT CARBON REMOVAL MARCH 2022 
+Foreword 
+The burden of climate change is affecting regions around the world more clearly 
+with each passing year, including an increase in the magnitude and frequency of 
+physical climate impacts. The Pacific Northwest—home to our Microsoft 
+headquarters—was hit in 2021 by a punishing heat wave, a spate of wildfires that 
+devastated surrounding forests, and a deluge of rain causing floods and mudslides. 
+Research indicates that the Pacific Northwest heatwaves “would be virtually 
+impossible without human-caused climate change.”  
+The global climate reality is sobering. And yet, we have reason for hope:  
+• There is increased corporate momentum on carbon reduction 
+commitments. 
+• Demand for carbon removal has never been higher and is growing rapidly.  
+• In November 2021, COP26 created greater clarity on Article 6, setting out 
+rules for international trade of carbon credits. Global leaders must be 
+vigilant to ensure that the framework delivers climate outcomes, but this 
+advancement was critical.  
+• In that same month, US President Biden signed into law the bipartisan US 
+Infrastructure Investment and Jobs Act, which includes funding for 
+investments in both natural and technological carbon removal.  
+Although much remains to be done in both the global and US settings to ensure 
+high-quality carbon removal markets can fulfill the promise of recent climate 
+commitments, these are encouraging milestones. 
+At Microsoft, we are focused on becoming carbon negative by 2030—prioritizing 
+carbon reductions first, with carbon removal as a critical second component to our 
+strategy. In the coming year, we will focus even more deeply on our dual mission 
+to make deep cuts in our value chain emissions and help scale the market for 
+carbon removal technologies. This paper reflects our candid reflections on lessons 
+learned as a large buyer in this emerging market.  
+ 
+ 
+Elizabeth Willmott 
+ 
+Carbon Program Director 
+Microsoft Corporation 
+ 
+ 
+ 
+Rafael Broze 
+ 
+Carbon Removal Program Manager 
+Microsoft Corporation 
+
+ 
+4         MICROSOFT CARBON REMOVAL MARCH 2022 
+Introduction 
+For Microsoft, both carbon reduction and carbon removal are pivotal to achieving 
+our commitment to be carbon negative by 2030. Carbon reduction remains first 
+and foremost in our strategy, and we will only use carbon removal to address any 
+remaining unavoidable emissions.  
+We strongly believe that addressing the climate crisis requires us all to collaborate 
+and share information to help the world move as quickly as possible toward 
+climate solutions. In January 2021, we published our first carbon removal white 
+paper, communicating our approach and what we learned during our inaugural 
+carbon removal request for proposals (RFP).1 In September 2021, we shared further 
+observations in a Nature comment.  
+In this follow-up paper, we provide an update on our second year of progress. We 
+describe our top learnings—from the lack of common standards to the high prices 
+and supply shortage for high-quality removals (with implications for meeting both 
+current and future demand). We also share details on FY22 additions to our carbon 
+removal portfolio. 
+Global context: a “code red for humanity” 
+The urgency of scaling the carbon removal market has only increased over the past 
+year. An August 2021 report from the Intergovernmental Panel on Climate Change 
+(IPCC) paints a stark picture and has been called a “code red for humanity” by the 
+United Nations Secretary-General. The IPCC report reinforces the need for the 
+world to remove on the order of 10 gigatons of carbon dioxide annually in the 
+second half of this century—and to make rapid progress today. Crucially, this must 
+be in tandem with, and not as a replacement for, unprecedented carbon emissions 
+reductions. 
+In November 2021, Microsoft served as Principal Partner for COP26. One important 
+outcome of the conference was the advancement of Article 6, which provides the 
+option for countries to voluntarily trade credits generated through emissions 
+reduction and removal projects. Article 6 has the potential to be an important 
+driver of climate finance, clean energy development, and carbon removal 
+advancement. However, global leaders must be vigilant to ensure that it delivers 
+meaningful climate outcomes and does not inadvertently drive unnecessary 
+administrative complexity or greenwashing.  
+ 
+1 We hope that our first carbon removal white paper offers a valuable foundation 
+for anyone exploring this rapidly developing area. 
+ 
+5         MICROSOFT CARBON REMOVAL MARCH 2022 
+At COP26, the strength of private sector support for meaningful climate action was 
+unprecedented. We heard widespread acknowledgement that reaching net-zero 
+carbon emissions by mid-century will be critical to avoiding a climate 
+catastrophe—and that carbon removal is a crucial, urgent part of that path. Many 
+companies are already acting, seeking removals right now or citing removals as an 
+important part of their long-term climate strategies. These include Carbon Direct, 
+GlaxoSmithKline, JPMorgan Chase, Mars Company, Meta, Nestlé, Netflix, 
+Salesforce, Shopify, Stripe, Swiss Re, and others.  
+With more companies setting climate commitments every week, we believe that it 
+is increasingly important for early actors such as Microsoft to convey our 
+perspective on what it means to drive meaningful, measurable climate outcomes. 
+We hope this paper will contribute to that conversation. 
+ 
+6         MICROSOFT CARBON REMOVAL MARCH 2022 
+Lessons learned in 
+our second year  
+ 
+The following sections provide a deeper look at these learnings, including a specific 
+call to action for each, reflecting the key steps we believe are required to help 
+foster and grow the carbon removal market. 
+The market lacks strong, common definitions 
+and standards 
+One of our key learnings from last year was that no consistent set of standards 
+exists for measuring, verifying, and reporting carbon removal. Removals are not 
+consistently distinguished from offsets that cover avoided or reduced emissions, 
+particularly in the most widely used standards. Moreover, different credit systems 
+Highlights of our lessons learned 
+1. The market lacks strong, common definitions and standards. We have 
+developed and communicated our own criteria, and other corporate buyers 
+have done the same. This means that organizations are working in isolation 
+and tracking outcomes in different ways that can’t be compared easily. This 
+leads not only to inefficiency but also to inconsistencies in claims.  
+Jump to section >>> 
+2. High-durability solutions are critical, but supply is limited and 
+expensive, and many companies cannot yet afford them at scale. We 
+need expensive, higher durability solutions to become more affordable. 
+Multiyear demand commitments, direct investment, and supportive policies 
+are all critical to drive costs down. Jump to section >>> 
+3. Forestry and soil carbon removal face sobering challenges in quality 
+but offer short-term climate value and co-benefits beyond carbon 
+removal. Challenges with nature-based solutions underline the fact that 
+removal is not a uniform commodity that can be compared easily across 
+project types. However, we believe that corporate support for nature-based 
+carbon removal remains essential. We have taken critiques of nature-based 
+solutions seriously and developed our own approaches to mitigating risk 
+with these project types. Jump to section >>> 
+ 
+7         MICROSOFT CARBON REMOVAL MARCH 2022 
+make very different assumptions about the durability (the time that carbon dioxide 
+will remain sequestered from the atmosphere—critical to net climate value) of 
+different solution types. 
+Removals are not consistently distinguished from offsets  
+that cover avoided or reduced emissions, particularly in the  
+most widely used standards. 
+Due diligence in the absence of common standards is a heavy burden for 
+corporate purchasers—especially with nature-based solutions, for which it is 
+complicated to prove that carbon removal outcomes are happening. Without clear 
+standards to guide us, we have developed our own criteria, and other 
+organizations have done the same. Not only does the lack of standards to assess 
+carbon removal projects dampen our confidence as we research potential 
+purchases, but it also means that each organization is effectively working in 
+isolation, tracking outcomes in different ways that cannot be easily compared. This 
+is inherently inefficient and introduces the risk of inconsistent claims.  
+For example, as the Environmental Defense Fund (EDF) reports, soil carbon 
+sequestration has the potential to play a valuable role in carbon removal, but lack 
+of standards means that different projects measure, report, and verify their net 
+climate impact differently. This undermines comparability and causes uncertainty 
+for buyers. Moreover, a CarbonPlan review of common protocols for soil carbon 
+sequestration concludes that none of the protocols can guarantee good climate 
+outcomes, which means buyers must assess individual projects themselves. 2 
+Lawrence Livermore National Laboratory (LLNL) explores this topic more fully in 
+Carbon Negative by 2030: CO2 Removal Options in the US for an Early Corporate 
+Buyer.3  
+In this context, we are actively advocating for stronger standards. In May 2021, we 
+responded to a request for public comment by the U.S. Department of Agriculture 
+(USDA) on its climate-smart agriculture and forest strategy, calling out the 
+important role that the USDA can take to help address three challenges with 
+nature-based carbon removal: lack of high-quality standards, lack of clear 
+accounting rules, and the need to significantly scale high-quality carbon removal. 
+In August 2021, we also provided input to a European Commission (EC) survey to 
+assess design options for a European Union (EU)–wide carbon removals 
+certification mechanism. We used the opportunity to highlight our perspective that 
+a mechanism could, for example, help ensure strong benchmarks for measuring 
+carbon removal solutions, avoid potential negative externalities (or minimize their 
+impacts), avoid double counting, and promote additionality.  
+ 
+2 Microsoft funded CarbonPlan to conduct this review.  
+3 Microsoft funded LLNL to conduct this study.   
+ 
+8         MICROSOFT CARBON REMOVAL MARCH 2022 
+Current international policy dynamics create further ambiguity on these topics, as 
+the Article 6 agreement at COP26 left many unanswered questions and laid the 
+task of defining high-quality carbon removal to future working groups. This means 
+that global leaders will now need to build the rulebook for carbon markets, and 
+success will require deep oversight and strong accountability. Strict accounting, 
+governance, contracting, and performance protocols for international trade may 
+take years to complete and even longer to gain wide international acceptance.  
+ 
+High-durability solutions are critical, but supply is 
+limited and expensive, and many companies 
+cannot yet afford them at scale 
+High-durability solutions—such as carbon mineralization and direct air capture—
+are those that sequester carbon dioxide for millennia, making them effectively 
+permanent carbon removals. These high-durability, technology-based solutions 
+generally do not present as high a risk of reversal as natural solutions (such as the 
+risk of a wildfire destroying a forestry project). But these solutions are also currently 
+in very short supply and unaffordable for many companies, costing hundreds to 
+thousands of dollars per ton. For our part, Microsoft uses an internal carbon fee 
+that we charge to our business groups to subsidize our carbon removal purchases. 
+But even with these funds, high costs and limited supply mean that high-durability 
+solutions make up only a small fraction of our current portfolio.  
+One way to help jumpstart affordable supply is for corporate buyers to sign 
+multiyear purchase agreements, as Swiss Re and Climeworks did in August 2021. 
+This type of contract is analogous to renewable energy power purchase 
+agreements, which Microsoft and other corporate energy buyers have signed over 
+the past decade and which have helped to accelerate mainstream renewable 
+energy supply and adoption. We are actively exploring and soliciting opportunities 
+for multiyear carbon removal purchase agreements.   
+CALL TO ACTION: 
+Corporate purchasers should support strong voluntary standards that 
+adhere to the clearest and latest science and actively advocate for 
+governmental and intergovernmental organizations to adopt a role of 
+independent oversight of carbon removal quality.  
+ 
+9         MICROSOFT CARBON REMOVAL MARCH 2022 
+One way to help jumpstart affordable supply is for corporate buyers 
+to sign multiyear purchase agreements. 
+Microsoft further helps to develop projects through capital investments via our 
+Climate Innovation Fund. One example is that we are both a customer of and 
+investor in Climeworks’ direct air capture business, intending to help them scale 
+their first-of-a-kind commercial-grade, fully renewable carbon removal and 
+mineralization model. We have also made a $100 million grant to Breakthrough 
+Energy Catalyst to accelerate the development of technology solutions needed to 
+reach global net zero, including direct air capture.  
+We also advocate for government action to create a healthy enabling environment 
+for high-durability solutions. In January 2022, we responded to a request for 
+information from the U.S. Department of Energy (DOE) on carbon removal with 
+comments on the criticality of federal support for these solutions.  
+As mentioned earlier, we funded Lawrence Livermore National Laboratory (LLNL)—
+a US government lab—to complete a study of projected carbon removal supply 
+across leading project types in the United States for the year 2030. The LLNL study 
+found that the projected available volume of removal in the United States in 2030 
+could far exceed our own individual needs and that the scalable removal solutions 
+for 2030 are likely already piloted today. But key questions remain on how quickly 
+the high-durability removal costs will decline and whether the global volume of 
+these solutions will meet the planet’s collective needs.  
+ 
+Forestry and soil carbon removal face sobering 
+challenges in quality but offer short-term climate 
+value and co-benefits beyond carbon removal 
+Natural solutions currently dominate the carbon removal market—they are the 
+most readily available, at the lowest cost, and remain the mainstay of current 
+carbon markets. However, they are also the most vulnerable to climate risks and 
+human disruptions. We saw this firsthand when a wildfire burned part of a forest 
+carbon project from which Microsoft purchased credits in 2020. This risk of reversal 
+(stored carbon being released back into the atmosphere) is just one 
+underweighted risk of natural solutions; other inherent concerns include greater 
+CALL TO ACTION: 
+Corporate buyers should pursue multi-year purchase agreements, 
+investments, and policy advocacy to help develop affordable high-
+durability removal.  
+ 
+10         MICROSOFT CARBON REMOVAL MARCH 2022 
+risk of leakage (for example, shifting emissions from one timber market to another) 
+and systemic issues such as weak additionality and questionable baselines (true of 
+both forestry and soil projects).  
+Corporations should especially take caution to ensure sound ecological design of 
+reforestation projects. We are working to incorporate principles such as the Kew 10 
+golden rules for restoration into our program.4  
+ 
+ 
+4 Republished here with permission. 
+Kew 10 golden rules for restoration 
+An international group of scientists, led by the Royal Botanic Gardens, Kew, and 
+Botanic Gardens Conservation International (BGCI) have set out 10 golden rules 
+for restoring forests, with the aim of protecting biodiversity and removing 
+carbon from the atmosphere to help fight climate change: 
+1. Protect existing forest first—by creating more protected areas and 
+limiting deforestation. 
+2. Work with local people—helping ensure long-term success and the 
+equitable sharing  
+of benefits. 
+3. Maximize biodiversity recovery to meet multiple goals—by restoring 
+native forests. 
+4. Select the right area for reforestation—by planting on previously 
+forested land, not non-forested lands like natural grasslands or 
+wetlands. 
+5. Use natural forest regeneration wherever possible—making it more 
+affordable and effective on some sites. 
+6. Select tree species that maximize biodiversity—using a mix of mainly 
+native species, including rare and endangered species where possible. 
+7. Use resilient plant material that can adapt to a changing climate—by 
+selecting seeds and seedlings that are genetically diverse and sourced 
+from regions that match current and projected environmental 
+conditions. 
+8. Plan ahead—starting early, using appropriate local infrastructure, and 
+providing relevant training to project teams. 
+9. Learn by doing—consulting existing knowledge and running small-scale 
+trials before starting a project. 
+10. Make it pay—for example, by generating income from carbon credits, 
+sustainably produced forest products, and/or ecotourism. 
+ 
+11         MICROSOFT CARBON REMOVAL MARCH 2022 
+Despite these cautions, short-term nature-based carbon removal can provide 
+important climate and social benefits, helping to decrease peak warming (provided 
+that the world achieves deep decarbonization)5 and build local resilience to climate 
+change impacts (for example, helping prevent erosion and flooding with forest and 
+soil restoration and providing coastal storm buffers with mangroves). As a result, 
+we believe that corporate sustainability programs should not pull back on investing 
+in nature but rather make investments with greater awareness, a deeper 
+commitment to improving standards and safeguards, and transparency about 
+actual management and outcomes.  
+Short-term nature-based carbon removal can provide important 
+climate and social benefits, helping to decrease peak warming and 
+build local resilience to climate change impacts. 
+At Microsoft, we apply internal deductions to projects that have shortcomings but 
+otherwise deliver clear carbon removals. For example, in a hypothetical project in 
+which we detect an issue of questionable carbon baselines, we might deduct 10 
+percent of the credits we purchase and only count 90 percent against our internal 
+footprint. This does lead to a higher effective price per ton for some projects. As 
+clearer standards permeate the market in this decade, we expect to make fewer 
+such internal deductions.  
+On another front, guaranteed durability terms tend to be quite short in many soil 
+carbon projects. We would be interested to see a contractual innovation to extend 
+durability, such as deeper risk pools or a rotating carbon facility whereby new 
+enrollments replace old enrollments.  
+Finally, we also prioritize nature-based projects that advance environmental justice, 
+sustainable livelihoods, and climate goals in tandem. The CommuniTree Carbon 
+Program, Acorn, the TIST Program in Kenya, Jubilación Segura, and Delta Blue 
+Carbon – Phase 1 projects are examples in our current-year portfolio.6  
+ 
+5 Matthews, H. D., Zickfeld, K., Dickau, M., MacIsaac, A., Mathesius, S., 
+Nzotungicimpaye, C., & Luers, A. In Press. “Temporary Nature-based Carbon 
+Removal Can Lower Peak Warming in a Well-below 2° C Scenario.” Nature 
+Communications Earth & Environment.  
+6 As part of our criteria for high-quality carbon removals that we published with 
+Carbon Direct in July 2021, we specifically identified criteria for environmental 
+justice that we use to assess project proposals.  
+ 
+12         MICROSOFT CARBON REMOVAL MARCH 2022 
+ 
+CALL TO ACTION:  
+When buying credits from nature-based removal projects, corporate 
+buyers should educate themselves about both the risks and the benefits 
+of such projects, advocate for higher standards, and be transparent about 
+their project outcomes. 
+ 
+13         MICROSOFT CARBON REMOVAL MARCH 2022 
+FY22 additions to 
+our carbon 
+removal portfolio 
+In response to our FY22 RFP, we received proposals from 67 applicants 
+representing approximately 106 projects in 35 countries. This was considerably 
+fewer than we received for our FY21 RFP, for which there were 79 applicants 
+representing 189 projects. We believe the lower response rate reflects our clearer 
+criteria this year, greater supplier awareness of the distinction between carbon 
+removal and carbon avoidance (despite the lack of common standards), and high 
+demand for projects. Relatedly, some project proponents may not have wanted to 
+complete our lengthy RFP questionnaire and due diligence process.  
+From the FY22 proposals, so far, we have contracted carbon removal credits from 
+21 projects representing more than 1.5 million metric tons of carbon dioxide 
+(mtCO2), meeting our fiscal year goal.7 Our portfolio is once again heavily weighted 
+towards low-durability natural solutions, representing more than 99 percent of our 
+total purchase volume: 
+• Low-durability solutions: nine forestry projects, one soil project, and one 
+blue carbon project (total >1.49 million mtCO2) 
+• Medium-durability solutions: six biochar projects (total >10,000 mtCO2) 
+• High-durability solutions: one bio-oil project and one carbon utilization 
+(CO2U) project (total <1,000 mtCO2) 
+ 
+7 Not all this volume will apply to Microsoft's FY22 emissions. We will report details 
+on how we apply these to our emissions in a future release of our annual 
+Environmental Sustainability Report. 
+ 
+14         MICROSOFT CARBON REMOVAL MARCH 2022 
+ 
+Our weighted average portfolio price was $19.40/mtCO2, compared with a 
+weighted average of $16.85/mtCO2 for all applications we received.8   
+For more information on how we approach project selection and the proposals we 
+received, please consult these additional resources: 
+• To learn more about different project types, our top considerations, and 
+the risks (and remedies) that we have identified, read our 
+FY21 carbon 
+removal white paper.  
+• For detailed guidance on our selection criteria, review our publication with 
+Carbon Direct, Criteria for High-Quality Carbon Dioxide Removal.  
+• For an overview of the project proposals we received in FY22, see our FY22 
+project submissions dashboard.9   
+The following table describes our newly contracted carbon removal purchases, in 
+order of contracted volume.
+ 
+8 Statistics represent RFP respondents who consented to Microsoft using their 
+pricing data in aggregate, anonymized form. Some data points were removed from 
+the aggregate statistics based on professional judgment, for data quality reasons.  
+9 For information on the responses to our previous year (FY21) RFP and the 
+subsequent investments we made, please see our FY21 carbon removal project 
+dashboard. 
+Durability definitions and examples 
+• Low—In general, these are solutions that sequester carbon for 
+less than 100 years. Forestry and soil approaches are the main 
+examples. While some forestry projects in our portfolio have a 
+contracted durability of 100 years or more, we categorize them 
+as low durability because of inherent reversal risks. 
+• Medium—In general, these are solutions that sequester carbon 
+for hundreds of years to 1,000 years. Biochar is the main 
+incumbent medium-durability approach. 
+• High—In general, these are solutions that sequester carbon for 
+thousands of years. Biomass approaches with geologic storage 
+(including bio-oil), direct air capture, and mineralization are the 
+best-known approaches in this category.  
+ 
+15         MICROSOFT CARBON REMOVAL MARCH 2022 
+Supplier Project(s) Location Type Description 
+Newly 
+contracted 
+volume  
+(mtCO2) 
+Certification 
+Contracted 
+durability 
+(years) 
+The 
+Forestland 
+Group, LLC 
+The 
+Forestland 
+Group CT 
+Lakes 
+New 
+Hampshire 
+Forestry Improving forest 
+management on 
+146,435 acres 
+protecting the 
+headwaters of the 
+Connecticut River 
+400,000 ACR, CARB 100 
+Arbor Day 
+Foundation, 
+Natural 
+Capital 
+Partners 
+CommuniTree 
+Carbon 
+Program 
+Nicaragua Forestry Reforestation of 
+underused farmland 
+that was historically 
+deforested 
+ 250,484 Plan Vivo 30 
+Cumberland 
+Forest, LP 
+managed by 
+the Nature 
+Conservancy 
+Cumberland 
+Forest Project 
+Kentucky, 
+Tennessee, 
+and Virginia 
+Forestry Improving forest 
+management on 
+108,182 acres 
+210,341 ACR, CARB, CAR 100 
+Truterra/ 
+Land O’Lakes 
+Soil Carbon 
+Best Practices 
+United 
+States 
+Soil Science-based 
+cropland 
+management 
+200,000 N/A (under 
+development) 
+30 
+Green 
+Diamond 
+Klamath West 
+Improved 
+Forest 
+Management 
+Oregon Forestry Improving forest 
+management on 
+185,000 acres 
+143,965 ACR 100 
+ClimateCare 
+Oxford and 
+PUR Projet 
+Jubilación 
+Segura 
+Peru Forestry Agroforestry and 
+reforestation with 
+small-scale farmers 
+120,000 VCS 29 
+Natural 
+Capital 
+Partners 
+TIST Program 
+in Kenya 
+Kenya Forestry Reforestation practice 
+to increase available 
+agricultural land and 
+improve community 
+livelihoods 
+82,019 VCS 13 
+Coöperatieve 
+Rabobank 
+U.A. 
+Acorn Peru, 
+Colombia, 
+Nicaragua, 
+and Côte 
+d'Ivoire 
+Forestry Agroforestry with 
+smallholder farmers in 
+multiple developing 
+countries 
+39,619 Plan Vivo 20 
+The Nature 
+Conservancy 
+Washington 
+Rainforest 
+and Clinch 
+Valley 
+Conservation  
+Washington 
+and Virginia 
+Forestry Improving forest 
+management in 
+Washington on nearly 
+22,855 acres and in 
+Virginia representing 
+23,000 acres in the 
+globally important 
+Clinch River Valley 
+37,330 CARB, CAR, ACR 40 (WA) 
+and  
+100 (VA)  
+ 
+16         MICROSOFT CARBON REMOVAL MARCH 2022 
+Supplier Project(s) Location Type Description 
+Newly 
+contracted 
+volume  
+(mtCO2) 
+Certification 
+Contracted 
+durability 
+(years) 
+Indus Blue 
+Carbon 
+Delta Blue 
+Carbon – 
+Phase 1 
+Pakistan Blue 
+carbon 
+Mangrove project on 
+350,000 hectares in 
+southeastern Pakistan 
+10,000 VCS and Gold 
+Standard 
+60 
+ACT 
+Commodities 
+Inc. via 
+Puro.earth 
+Freres Biochar 
+CO2 Removal 
+Certificates 
+Oregon Biochar Biochar from 
+biomass-fired rotary 
+bed boiler producing 
+steam for 
+manufacturing 
+lumber-based 
+products and 
+electricity generation 
+6,926 Puro Standard  1,000 
+Carbonfuture 
+GmbH 
+Pacific 
+Biochar 
+ 
+ 
+California Biochar Biochar produced 
+from feedstock to 
+directly lower water 
+consumption of 
+drought-stricken 
+agricultural areas or 
+as soil enrichment 
+with compost 
+additives  
+ 1,500 European Biochar 
+Certificate 
+>100 
+Climate 
+Robotics Inc. 
+In-field 
+Biochar 
+Production 
+from Crop 
+Waste 
+Texas Biochar In-field waste 
+collection, biochar 
+production, biochar 
+disposition system 
+running first field 
+operations in Texas 
+ 1,000 VCS (pending)  200 
+ECHO2 via 
+Puro.earth 
+ECHO2 Australia Biochar Diverting green waste 
+from landfill and 
+converting to bio 
+energy and biochar 
+800 Puro Standard  600 
+Carbofex via 
+Puro.earth 
+Carbofex Oy Finland Biochar Biochar from 
+pyrolysis, with the 
+biochar used as 
+horticultural 
+substrates and surplus 
+energy to heat the 
+city of Tampere 
+600 Puro Standard  800 
+Carbon Cycle 
+via Puro.earth 
+Carbon Cycle Southeast 
+Germany 
+Biochar Producing high-
+quality biochar from 
+sustainable feedstock 
+for use as a soil 
+additive and animal 
+feed 
+400 Puro Standard  800 
+ 
+17         MICROSOFT CARBON REMOVAL MARCH 2022 
+Supplier Project(s) Location Type Description 
+Newly 
+contracted 
+volume  
+(mtCO2) 
+Certification 
+Contracted 
+durability 
+(years) 
+Charm 
+Industrial 
+Bio-oil 
+geologic 
+sequestration 
+Kansas Bio-oil Storing carbon-
+containing fluid 
+produced from 
+biomass in deep 
+geologic storage.  
+ 200  N/A (under 
+development) 
+10,000 
+Neustark AG CO2 
+Sequestration 
+Cluster Bern 
+Switzerland CO2U Carbon removal by 
+sequestering biogenic 
+CO
+2 from biogas 
+production in 
+demolition concrete 
+ 100 N/A (under 
+development) 
+10,000 
+ACR = American Carbon Registry; CARB = California Air Resources Board; CAR = Climate Action Reserve; CO2 = carbon 
+dioxide; CO2U = carbon utilization; CT = Connecticut; FY = fiscal year; mtCO2 = metric tons of carbon dioxide; N/A = not 
+applicable; TIST = International Small Group and Tree Planting Program; VA = Virginia; VCS = Verified Carbon Standard; 
+WA = Washington.
+In the following sections, we provide a description of each of these projects, 
+organized by carbon removal durability (low durability, medium durability, or high 
+durability). 
+Low-durability solutions 
+We selected the following low-durability projects this year (in order of contracted 
+volume, with supplier names in parentheses): 
+• The Forestland Group CT Lakes (The Forestland Group, LLC) is a 146,435-
+acre improved forest management (IFM) project protecting the headwaters 
+of the Connecticut River, developed in conjunction with Finite Carbon. 
+Most credits are for carbon removals achieved through tree growth, with a 
+small portion for emissions reductions from carbon stored in long-term 
+wood products through Forest Stewardship Council (FSC)–certified 
+sustainable harvesting. (Microsoft does not claim the emissions 
+reductions.) The project supports conservation of productive forests; 
+sustains traditional forest uses, including forest management and 
+permitted recreational activities; conserves water resources, biological 
+diversity, fish and wildlife habitat, and rare plants and animals; and 
+conserves high-elevation mountain spruce-fir forest, which supports rare 
+animals and pockets of mature forest stands located above 2,700 feet. 
+• The CommuniTree Carbon Program (Arbor Day Foundation, Natural 
+Capital Partners), managed by Taking Root, is the largest reforestation 
+initiative in Nicaragua. It helps farming families to grow native tree species 
+and build forest-based enterprises on underused farmland, creating 
+sustainable livelihoods for the long term. The project team is made up of 
+cross-disciplinary local and international experts in forestry, business, 
+ 
+18         MICROSOFT CARBON REMOVAL MARCH 2022 
+smallholder economics, computer science, and remote sensing, and the 
+project has been used as a best practice reforestation model by 
+organizations including the United Nations and European Union.  
+• Cumberland Forest Project (The Nature Conservancy) is a 253,000-acre 
+conservation impact investment located in the Central Appalachian region 
+of Kentucky, Tennessee, and Virginia, of which Microsoft’s purchase 
+supported 108,182 acres. It aims to improve the health of working 
+forestland to benefit local economies, wildlife habitat, clean water, and 
+climate resilience in a globally significant biodiversity hotspot. Managed 
+through The Nature Conservancy’s NatureVest impact investing team, the 
+project seeks to achieve financial returns for investors and environmental 
+outcomes generated by sustainable timber management, carbon 
+sequestration, recreational access, and nature-based local economic 
+development. 
+• The Truterra/Land O’Lakes Soil Carbon Best Practices project, based in 
+the central United States, focuses on building an innovative and best-in-
+class soil carbon program. The project leverages existing infrastructure, 
+sociological insights, and an innovative portfolio approach to create a 
+more reliable supply of high-quality, durable carbon removal. 
+• The Klamath West Improved Forest Management (IFM) project (Green 
+Diamond), located in Oregon, addresses impacts of overharvesting by 
+previous owners. This legacy left the forest carbon stocks significantly 
+below the common practice baseline set by the California Air Resources 
+Board (CARB). Forest thinning and other silvicultural tools are being used 
+to improve forest health, manage fire hazard, and maximize long-term 
+forest growth. Atmospheric carbon removal is achieved through 
+incremental tree growth as evidenced by increases in baseline carbon 
+stocks for the project areas. 
+• Jubilación Segura (ClimateCare Oxford and PUR Projet), a grouped 
+afforestation and reforestation project within the Amazon Andean foothill 
+forest in the San Martin region of Peru, addresses widespread 
+deforestation caused by the expansion of agriculture, typically driven by 
+international demand, degraded lands, and low farmer income. Small-scale 
+farmers increase land productivity and diversify incomes through 
+agroforestry and reforestation on previously degraded land. The project is 
+certified under the Verified Carbon Standard (VCS), with timber harvesting 
+certified under the Forestry Stewardship Council Certification.  
+• The Kenya Community Reforestation project, or International Small 
+Group and Tree Planting Program (TIST) in Kenya (Natural Capital 
+Partners), organizes hundreds of small, community-based tree-planting 
+initiatives on lands owned by smallholder and subsistence farmers. Under 
+traditional practices, farmers clear trees to increase available agricultural 
+land and for firewood. Forestry projects such as this combine carbon 
+sequestration with sustainable development, helping to improve 
+community livelihoods through education and training and create 
+additional sources of income. The program helps to break the local cycle of 
+deforestation, drought, and famine by reducing erosion, stabilizing and 
+ 
+19         MICROSOFT CARBON REMOVAL MARCH 2022 
+enriching the soil, and providing shade. Once mature, the trees provide 
+other benefits, including edible fruits and nuts, medicines, windbreaks, 
+firewood, and timber. 
+• Acorn (Agroforestry Carbon removal units for the Organic Restoration of 
+Nature) (Coöperatieve Rabobank U.A.) provides long-term food security 
+for developing countries with indigenous agricultural practices by helping 
+smallholder farmers in their transition to agroforestry with the help of local 
+partners. The benefits of agroforestry for the farmer include a more 
+diversified and higher yield, improved soil health, and better resilience 
+against climate change and weather events. The project uses scalable, 
+transparent, and inexpensive remote sensing technologies to measure 
+yearly biomass increase. Acorn measures the carbon storage yearly, sells 
+ex-post carbon credits, and pays the farmers 90 percent, enabling access 
+to the voluntary carbon market for those who need it most. 
+• The Washington Rainforest project (The Nature Conservancy) is based in 
+the lowland areas of the Washington coast—areas heavily affected by 
+more than a century of industrial forest management that has almost 
+eliminated old-growth forests. By managing Conservancy-owned forests to 
+restore old-growth forest habitat and function, this project can sequester a 
+significant amount of carbon and at the same time restore habitat for wild 
+salmon and other wildlife. It aims to connect forests from summit to sea 
+through a combination of philanthropic capital and proceeds from carbon 
+sales, supporting restoration efforts in the Olympic Rainforest and  
+Willapa Bay. 
+• Clinch Valley Conservation (The Nature Conservancy) is a project in 
+southwestern Virginia. The Clinch River is one of the last free-flowing 
+tributaries of the Tennessee River system and harbors the nation’s highest 
+concentrations of globally rare and imperiled fish and freshwater mussels. 
+The Nature Conservancy has protected its lands and waters since 1990. It 
+launched the Conservation Forestry Program in 2002 and now manages 
+22,000 acres to model sustainable forestry practices. Its on-the-ground 
+operations are designed to provide economic opportunity for forest 
+owners and enhance forest resources such as soil and water quality, high-
+value timber, sensitive wildlife habitat, and carbon storage. 
+• The Delta Blue Carbon project (Indus Blue Carbon) is a mangrove forest 
+restoration project covering 350,000 hectares in southeastern Pakistan. 
+Over several decades, the region’s mangrove forests have experienced 
+massive-scale deforestation and degradation, due in part to their use as a 
+local source of fuel wood, fodder, and open-range grazing by livestock. 
+The project’s climate, community, and biodiversity objectives include large-
+scale mangrove reforestation, access to education, sustainable fisheries, 
+access to safe drinking water and healthcare, and promotion of gender 
+development and income-generating activities for women. The entire 
+project (including but not limited to the credits Microsoft is buying) will 
+sequester an estimated 142 million mtCO
+2 over its 60-year lifetime.  
+ 
+20         MICROSOFT CARBON REMOVAL MARCH 2022 
+Medium-durability solutions 
+We selected the following medium-durability projects this year (in order of 
+contracted volume, with supplier names in parentheses, where applicable):  
+• The Freres Biochar project (ACT Commodities Inc.), run by Freres Lumber 
+based in Lyons, Oregon, produces biochar through a biomass-fired rotary 
+bed boiler that generates steam used in the manufacturing of lumber-
+based products and for electricity generation. The biochar is a byproduct 
+of the steam production. The boiler is fed with a wide range of biomass 
+feedstocks sourced from the local region, including bark and waste from 
+the onsite production of timber products. The biochar is either shipped to 
+a landfill, where it becomes a carbon sink, or used for material purposes. 
+The project issued CO2 Removal Certificates (CORCs) through the 
+Puro.earth marketplace, and the proceeds of our purchase will be used to 
+drive enhanced biochar production in Freres’s system.  
+• California-based Pacific Biochar (Carbonfuture GmbH) harvests biochar 
+from existing biomass power plants. The biochar is then used in soil 
+applications, mainly to decrease water consumption in drought-stricken 
+agricultural areas or enrich soil with compost additives. Through 
+Carbonfuture, Pacific Biochar has the carbon sink for each of these 
+applications independently certified and audited by European Biochar 
+Certificate (EBC), ensuring that the biochar ultimately reaches the soil, so 
+the carbon remains sequestered. The sink portfolio tied to Microsoft’s 
+carbon removal credits is based mainly on feedstock from high-risk wildfire 
+areas; credit revenue will allow Pacific Biochar to expand operations in 
+California and convert two additional existing biomass energy plants. 
+• Climate Robotics is developing a biomass-to-biochar conversion project 
+on 5,000 acres of agricultural and ranch land in and around Houston, 
+Texas. The company has developed a patent-pending tow-behind 
+agricultural implement—similar to a planter or harvester—that is moved 
+across agricultural fields to continuously collect and convert agricultural 
+waste biomass into biochar in the field. The system incorporates the 
+biochar into the upper 10 cm of topsoil (qualifying as conservation tillage). 
+The design allows for repeated, seasonal applications of biochar, 
+maximizing the long-term carbon storage potential of the land. This 
+project will generate annual credits of 2.2 mtCO
+2 per acre.  
+• ECHO2, based in Australia, focuses on developing and supplying modular 
+systems to transform biomass residues to energy and biochar. It tackles 
+the issue of green waste from food, agriculture, and wood processing that 
+is burned or landfilled each year, converting it into high-carbon biochar 
+and clean syngas. The additional revenue from CORCs allows the next 
+ECHO
+2 modules to be commissioned and new biochar commercial 
+products to be developed, increasing the volume of carbon dioxide that is 
+removed and stored in biochar. The project issued CORCs through the 
+Puro Standard. 
+ 
+21         MICROSOFT CARBON REMOVAL MARCH 2022 
+• Carbofex produces high-stability biochar manufactured with spruce 
+thinnings from sustainably managed Finnish forests that would otherwise 
+decompose. Examples of use include city plantations in Stockholm, 
+Sweden, and landfill leachate water filtration in Tampere, Finland. The 
+additional income from CORCs will allow Carbofex to grow its production 
+and develop biochar-based carbon removal projects. The project issued 
+CORCs through the Puro Standard. 
+• Carbon Cycle, a sustainable agriculture company based in southeast 
+Germany, produces high-quality biochar from untreated wood chips 
+sourced locally from forests certified by the Programme for the 
+Endorsement of Forest Certification (PEFC). The biochar is used both for 
+animal feed and as a soil additive. The product helps reduce the loss of 
+nutrients and nitrate leaching from the soil, reduces the need for fertilizers, 
+helps protect groundwater, and improves soil fertility, all while binding 
+carbon dioxide for centuries. As Carbon Cycle is a small operation, income 
+from carbon removal helps expand its production. The project issued 
+CORCs through the Puro Standard. 
+High-durability solutions 
+We selected the following high-durability projects this year (in order of contracted 
+volume):  
+• US-based Charm Industrial has created a novel process for preparing and 
+injecting bio-oil and other carbon-containing liquids into geologic storage. 
+The process takes atmospheric carbon dioxide captured in biomass, 
+converts the biomass to a carbon-containing liquid, and injects it into deep 
+geologic storage. The company has reported completion of its first year of 
+demonstrations, sequestering 5,450 mtCO
+2, and is rapidly scaling up to 
+meet demand. 
+• In Bern, Switzerland, Neustark has established a negative emission value 
+chain that sequesters carbon in demolition concrete. The value chain 
+makes use of existing concrete recycling processes, which collect, crush, 
+and screen demolition concrete to produce new concrete. Biogenic carbon 
+dioxide, sourced from biogas plants, is liquefied and transported to 
+concrete recyclers in the vicinity. There, the carbon dioxide mineralization 
+plant—a silo retrofitted to treat the concrete aggregate with carbon 
+dioxide while it is temporarily stored—fixes the carbon dioxide 
+permanently in demolition concrete. The carbon dioxide undergoes a 
+chemical reaction with the cement phases to form calcium carbonate, a 
+natural, highly safe, and permanent way of storing carbon.  
+ 
+ 
+22         MICROSOFT CARBON REMOVAL MARCH 2022 
+Looking 
+ahead  
+To develop a healthy future global carbon market, stakeholders must 
+work to ensure clear standards, high-quality oversight, supporting 
+policies, and continued corporate demand.  
+ 
+In the second year of our carbon removal program, we have continued to 
+experience the challenges of being a large buyer in a nascent removal market—
+specifically in the absence of common standards and limited supply of high-quality 
+projects. We have found it difficult to value the durability and reversal risk of 
+nature-based removal, and we share stakeholder concerns about the permanence 
+and additionality of many nature-based projects on the market today.  
+Despite these imperfections, we continue to purchase nature-based removals not 
+only because we have a volumetric commitment, but also because we want to help 
+jumpstart important market improvements. We also continue to procure and invest 
+in high-durability removals, aiming to ensure the permanence of our own 
+purchases and to drive affordable supply.  
+To develop a healthy future global carbon market, stakeholders must work to 
+ensure clear standards, high-quality oversight, supporting policies, and continued 
+corporate demand, specifically:   
+• Common definitions of and protocols for what removal really means, as 
+well as more consistent differentiation of removal durability.  
+• Stronger measurement, validation, and oversight of climate outcomes, 
+especially from nature-based solutions.  
+• Public policies and investment from both public and private sectors to help 
+develop high-durability technologies.  
+• Increased corporate demand, especially through multiyear contracts.  
+Looking ahead to the coming year and beyond, at Microsoft we plan to focus on 
+securing an increasing volume of tons to meet our 2030 commitment; advocate for 
+standards to help ensure high-quality removals; innovate contractually to mitigate 
+our risk as a purchaser; and invest to help drive cost reductions, especially in 
+promising medium- and high-durability technologies.  
+ 
+23         MICROSOFT CARBON REMOVAL MARCH 2022 
+Our work on carbon removal is fundamental to achieving our climate 
+commitments, and we recognize that this is not something we can do alone. 
+Sharing our learnings and collaborating closely with others around the world will 
+be vitally important, both to help ensure our own progress and to contribute to the 
+building of a market that can reach the scale needed for the net-zero transition. 
+Please visit aka.ms/carbonremoval for more information.  
+ 
+ 
+ 
+ 
+ 
+24         MICROSOFT CARBON REMOVAL MARCH 2022 
+Acknowledgments  
+In the past year, Microsoft’s carbon removal program and development of this 
+white paper were directly supported by:  
+ 
+• Bridge Partners: Carson Wright, Catherine Martini, Kaycee Keegan,  
+Gordon Smith 
+• Machtley Group: Ken Machtley, Sarah Carson, Claudia Richey, Philip LaRose 
+• Microsoft: Lynne Andersen, Amy Luers 
+• WSP: Bridget Venne, Lakmini Senadheera  
+ 

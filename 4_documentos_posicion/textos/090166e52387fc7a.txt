@@ -1,0 +1,154 @@
+ 
+ 
+ 
+ 
+ 
+AI ACT 
+It must be ensured that the upcoming Digital Omnibus comprehensively eliminates am-
+biguities between the AI Regulation and the GDPR. SMEs must not be left with any un-
+certainty regarding the application of open-source AI-models, as otherwise their use by 
+companies will be out of the question. An important factor here is the design of the 
+guidelines announced in Article 96 of the AI Regulation, which are to be drawn up by 
+the Commission and address the implementation of AI-systems. They must be feasible 
+for SMEs and ensure that no additional or unexpected obligations arise, particularly for 
+craft businesses. An example of these potential ambiguities can be found in Article 3 
+(23) of the AI Regulation, which concerns "significant changes" to an AI system. 
+In particular, it must be clarified: 
+  Which specific types of changes are not considered substantial changes 
+  That providers of AI-systems allow, through testing/conformity procedures, for the 
+necessary flexibility in order to make practical operations and the further develop-
+ment of the systems possible without triggering a new and costly assessment each 
+time 
+  That the guidelines under Article 96 permit the 'fine-tuning' of AI systems by allowing 
+companies to enter their own operational and customer data to optimize the system 
+within the scope of the intended purpose as intended use. Businesses that, for exam-
+ple, use their own data to adapt AI systems to their workflows must not themselves 
+fall into the role of ‘provider’ through this step. The responsibility for conformity as-
+sessments remains with the manufacturers. Only if a craft business makes a funda-
+mental change of purpose or independently implements substantial further develop-
+ment can it legally become a ‘provider’. 
+ 
+Demands on the Digital Omnibus 
+We welcome the European Commission's efforts to create legislative simplifications for com-
+panies as part of the planned Digital Omnibus. Only by harmonizing complex rules, reducing 
+overlaps, and modernizing the regulatory framework can we succeed in strengthening Europe 
+as a center for business and innovation. The Digital Omnibus must strike a balance between 
+simplifying compliance, streamlining obligations, and ensuring competitiveness. However, it 
+should not be about deregulation and groundbreaking laws such as the Data Act must not be 
+weakened under the pretext of “simplification”. 
+Brussels, 14.10.2025 
+Position Paper 
+Ref. Ares(2025)8723654 - 14/10/2025
+
+ 
+ZDH 2025 Seite 2 von 4 
+Legal Uncertainty Regarding the Use of (Modified or Unmodified) 
+Open-Source AI Models 
+The European Data Protection Board (EDPB) highlighted another source of legal uncer-
+tainty for users of (modified or unmodified) open-source AI models in its Opinion 
+28/2024 (https://www.edpb.europa.eu/system/files/2025-05/edpb_opin-
+ion_202428_ai-models_de.pdf) 
+According to the EDPB, the unlawful processing of personal data during the training of AI 
+models may have an impact on the lawfulness of the subsequent use of such models by 
+another operator. “The assessment of the potential impact of the unlawfulness of the 
+initial processing on the subsequent processing carried out by another controller should 
+be made by supervisory authorities on a case-by-case basis.” (ibid., para. 128). 
+This means that if a model was trained unlawfully, its subsequent use may also be prob-
+lematic – even if the user themselves has not committed any wrongdoing. 
+Authorities will therefore decide on a case-by-case basis – resulting in significant legal 
+uncertainty for users. 
+ If the assessment of data protection compliance depends on case-by-case evaluations, 
+the resulting uncertainty will inevitably discourage substantial investments in the adap-
+tation of open-source models or even in the necessary hardware for local deployment. 
+Open-source models are typically developed by much smaller providers than OpenAI or 
+Anthropic and are further adapted by the community. Structurally, this often goes hand 
+in hand with less comprehensive documentation of the training data used, meaning that 
+later users may not be able to determine whether data protection rules were violated 
+during the training process. 
+This interpretation of the law therefore creates significant competitive disadvantages, 
+particularly for small and medium-sized enterprises (SMEs), and limits their ability to use 
+open-source models. 
+A potential solution to this legal uncertainty would be to clarify that the unlawfulness of 
+training an open-source AI model should only affect its subsequent use if the user knew 
+or should have known that the model had been trained unlawfully. 
+ 
+ZDH 2025 Seite 3 von 4 
+Alternatively, as suggested in the discussion paper by the Hamburg Data Protection 
+Commissioner, it could be clarified that large language models (LLMs) generally do not 
+contain personal data and that operating an LLM therefore does not, in itself, constitute 
+a data processing activity (see: Discussion Paper, HmbBfDI, July 2024. 
+(https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/In-
+formationen/240715_Diskussionspapier_HmbBfDI_KI_Modelle.pdf) 
+ 
+GDPR 
+We welcome the exemption from maintaining a record of processing activities as pro-
+posed in the Omnibus IV package. In addition, further adjustments should be made in 
+line with the risk-based approach. 
+The obligations under Articles 13 and 14 GDPR are in no way consistent with the princi-
+ple of proportionality inherent in the risk-based approach. Given that data processing by 
+tradespeople is typically minimal and low risk, the processing can be considered virtually 
+risk-free. 
+There is, in the view of the craft sector, no identifiable interest on the part of website 
+visitors in receiving such information. A consistent application of the risk-based ap-
+proach should therefore lead to a transformation of the information obligation into a 
+right of access for the customer: a customer who wishes to receive specific information 
+should have the right to do so. However, there is no need for unsolicited information 
+about legal bases, deadlines, or rights that are of no practical relevance to the customer. 
+ 
+GDPR / Use of AI 
+In line with the risk-based approach, the regulatory burden for AI-related data pro-
+cessing with minimal risk must be reduced. 
+Firstly, the concept of legitimate interest should be strengthened as a legal basis for the 
+processing of personal data in important AI use cases. 
+Even for low-risk data processing activities, which are appropriately safeguarded 
+through techniques such as pseudonymisation, the legitimate interest basis should be 
+applicable. 
+Where re-identification is not possible, it should be explicitly clarified that such data do 
+not constitute personal data. 
+Data Act 
+Finally, we wish to highlight an essential aspect concerning the Data Act. The regulation 
+strengthens SMEs and supports open and competitive markets. For this reason, it is cru-
+cial that the Data Act is now implemented consistently and without any alteration. Only 
+in this way can it achieve its full potential and strengthen digital services for crafts and 
+small enterprises. 
+ 
+ 
+ZDH 2025 Seite 4 von 4 
+For consistent implementation, the European Commission should therefore: 
+• Reject any attempts to make data sharing voluntary 
+• Maintain mandatory notification obligations with respect to trade secret and cyberse-
+curity exceptions, keeping the burden of proof with the data holder and ensuring robust 
+and accessible review mechanisms. 
+Article 5 (9–11) of the Data Act already establishes specific and strong legal safeguards 
+to balance access rights with the protection of trade secrets and sensitive business infor-
+mation. 
+The agreed text is fit for purpose: the scope of data-sharing obligations is limited to 
+readily available data, not to a product’s internal data. The potential for reverse engi-
+neering of manufacturers’ intellectual property from such data is therefore very limited 
+and is not expanded by the Data Act. 
+The Data Act must not be weakened under the pretext of “simplification.” Its strength 
+lies in enforceable rights, fairness, procedural justice, and legal clarity – principles that 
+are essential for Europe’s long-term resilience, innovation, and competitiveness. 
+ 
+ 
+ 
+Contact: Margarete Rudzki 
+Representation to the EU 
++49 1723610107  
+rudzki@zdh.de · www.zdh.de 
+ 
+Editor:   
+German Confederation of Skilled Crafts and Small Businesses 
+House of European Economy 
+Rue Jacques de Lalaing 4 
+B-1040 Brussels 
+ 
+EU Transparency Register: 5189667783-94 
+ 
+The skilled crafts sector in Germany consists of more than one million mainly small and medium-sized enterprises 
+and approximately 5.6 million employees. It is an economic sector in its own right at the heart of the German 
+economy. The purpose of the German Confederation of Skilled Crafts and Small Businesses (ZDH) is to develop and 
+bring forward a common position on all major policy issues affecting crafts enterprises. It represents the overall 
+interests of the skilled crafts sector vis-à-vis the Bundestag, the Federal Government and other authorities, institu-
+tions and organisations at national, European and international level. Find out more: www.zdh.de/english 
+ 

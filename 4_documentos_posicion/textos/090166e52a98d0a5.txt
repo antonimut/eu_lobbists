@@ -1,0 +1,536 @@
+13 March 2026 
+1 
+ 
+Microsoft recommendations on the Digital and AI Omnibus proposals 
+ 
+We welcome the European Commission’s ongoing work on Digital Simpliﬁcation. By embracing a 
+forward-looking and ambitious approach to simplifying key digital rules, the EU can ensure a 
+pivotal step-change towards strengthening Europe’s competitiveness and meaningfully 
+contribute to achieving its AI continent ambitions. Europe needs a digital acquis adapted to the 
+next decade, anchored in accountability, risk-based regulation and more consistent enforcement 
+across the Union. The Commission’s proposal for the “Omnibus on AI” and the “Omnibus for the 
+Digital Acquis” contain important improvements and clariﬁcations to that end and offer a 
+strategic opportunity for the EU’s co-legislators to further shape Europe’s digital framework, 
+improving its clarity and efficiency, fostering compliance for companies of all sizes. To contribute 
+constructively to that process, please ﬁnd below our key considerations and recommendations 
+to further support the successful implementation and impact of both Commission proposals.  
+ 
+1. Recommendations on the Digital Omnibus Regulation 
+ 
+GDPR / ePrivacy 
+  
+A constructive step to clarify and modernize Europe’s data protection framework –  Ahead of 
+the Digital Omnibus Package, Microsoft’s simpliﬁcation recommendations focused mainly on 
+ensuring more consistent and harmonized enforcement under the GDPR and across other digital 
+regulations. In our view, the Digital Omnibus proposals on data protection mostly clarify, rather 
+than rewrite, the GDPR framework that is largely ﬁt for purpose. We wish to share the following 
+speciﬁc observations:   
+- Acknowledging AI and Sensitive Data – We welcome the new provisions on special 
+categories of personal data in an AI context (articles 9 (2)(k) & 9 (5)), which recognise that in 
+developing AI systems, exposure to special categories of data is in some circumstances 
+unavoidable. This approach aligns with the CJEU caselaw in the landmark Costeja case and 
+with the CNIL’s guidance on sensitive data processing in an AI context.  
+o While we acknowledge that such processing should be done under solid safeguards, it 
+is challenging to capture such safeguards in a single and static legal provision, which 
+could easily become too restrictive or outdated. We therefore recommend more 
+ﬂexibility in the formulation of the safeguards.    
+- New research deﬁnition – We support the new concept of scientiﬁc research (article 4(38)), 
+which clariﬁes that the GDPR rules on academic research also apply to projects with 
+commercial involvement. This is aligned with GDPR recital 159 and will help stimulating 
+Europe’s innovative potential, while maintaining protective safeguards.  
+o We see room to ﬁne-tune the text, which could now be read to only cover research 
+carried out for the “sole” aim of contributing to the growth of society’s general 
+Ref. Ares(2026)2756120 - 13/03/2026
+
+13 March 2026 
+2 
+ 
+knowledge and wellbeing – which would appear contradictory to the goal of the 
+provision.  
+- Codiﬁcation efforts – The amendments to the deﬁnition of personal data (article 4(1)) and 
+the recognition of “legitimate interests” to develop and operate AI systems & models (article 
+88c) aim to respectively codify the SRB caselaw and the EDPB guidance on AI training.  
+o While we welcome the intention to bring more clarity and harmonization, it is important 
+to ensure that legislative negotiations on these provisions do not introduce additional 
+departures from established case law or guidance, which would risk further 
+complicating the legal framework.   
+- Clarity on Data Protection Impact Assessments (DPIAs) – We support the ambition to 
+create more clarity on DPIAs, as well as EU-wide consistency on when they are required. 
+o However, we emphasize that DPIA methodologies and templates should remain non-
+binding rather than prescriptive, as this could add new costs for controllers to adapt 
+their existing frameworks and would reduce their ability to adapt DPIAs to the speciﬁc 
+aspects of processing. 
+The ePrivacy simpliﬁcation does not go far enough – We however regret that the proposal 
+misses an opportunity to efficiently simplify the ePrivacy framework. While we appreciate the 
+intention of the Commission to integrate article 5 of the ePrivacy Directive (ePD) partially under 
+the GDPR (in new articles 88a and 88b), the simpliﬁcation unfortunately does not go far enough 
+and adds new complexities.  
+- The ePrivacy Directive is over 20 years old and was designed for a different era; the Digital 
+Omnibus is the ideal moment to modernize it comprehensively, by merging most of its 
+provisions with the GDPR (e.g., those on traffic data processing), or other legal instruments 
+such as the EECC/DNA.  
+- Second, the newly proposed article 88a foresees only very narrow exemptions to the consent 
+requirement for processing personal data on a device: the exemption for security purposes 
+should at a minimum cover: security, fraud, and related software updates.  We  also 
+recommend including contextual advertising as an exception to the consent requirement – 
+in accordance with the suggestions made by the EDPB/EDPS.   
+- Third, with regard to article 88b GDPR, we question the feasibility of imposing the consent 
+mechanism on the browser community, and how this might impact a wide range of European 
+online publishers and service providers.    
+Opportunities for clarifying International Data Transfers – The digital omnibus package does 
+not include any simpliﬁcation proposals in the data transfers space, where legal uncertainty is 
+causing signiﬁcant transaction costs that are duplicated across all processors who export data. 
+We would welcome greater legal certainty on extra EU data transfers, e.g. around when the 
+Commission’s standard contractual clauses (“SCCs”) apply, or through greater involvement of 
+public stakeholders in assessing the adequacy of data protection regimes in third countries, and 
+guidance on when and which “supplementary measures” are truly necessary for transfers. These 
+steps would signiﬁcantly reduce duplicative compliance efforts and anxiety for businesses, 
+without lowering the level of protection for Europeans’ data. 
+13 March 2026 
+3 
+ 
+Data policy 
+Maintain proposed consolidation of the data policy framework – We welcome the 
+consolidation of the different pieces of legislation into the Data Act. This is an important ﬁrst step 
+in creating more consistency across the different scopes and deﬁnitions and improving 
+readability for companies. The creation of a single and uniﬁed framework for public sector data 
+re-use is also a positive step to minimize the overlaps and could help foster data sharing in that 
+context. We also welcome the proposed integration into the Data Act of the prohibition on data 
+localization requirements. International data ﬂows are a cornerstone of the data economy, and 
+companies rely on them to enhance their global competitiveness, develop products, and gain 
+insights on issues that are global in nature.  
+Remove ability to allow differentiated conditions for “very large companies” in the public 
+sector data reuse context (Article 32.r) – The provision runs counter to the regulation’s stated 
+goal of simpliﬁcation, as it would ultimately limit choices, including through higher fees, and 
+create unnecessary additional complexity in the data sharing value chain, which would be 
+detrimental to reaching the EU’s goals to foster data sharing and data re-use. A likely net effect of 
+such provisions will be to limit the ability of EU businesses to access cutting edge and innovative 
+data analytics, especially in the context of AI development and deployment. Especially the 
+proposed option for public sector bodies to introduce different license conditions for data reuse 
+by very large enterprises instead of using standard open licenses will lead to license 
+incompatibilities and thus limit everyone’s ability, including SMEs and civil society, to reuse 
+public sector data and combine it with other sources into large data sets. Instead of removing the 
+encouragement to use standard licenses, the Digital Omnibus should strengthen standard 
+licenses such as Creative Commons CC 0 or CC BY. 
+Clarify or remove language related to the prohibition on termination fees for IaaS in the Data 
+Act that could be misinterpreted – We are concerned that the current language about limits on 
+fees collected upon termination of IaaS services that has been introduced in Article 31 (1b) could 
+limit EU customers’ access to ﬁxed term agreements and discounted pricing through bulk or 
+minimum purchase agreements. This new term deviates from the original intent of Data Act 
+(particularly Recital 89) that is not making any differentiation between types of data processing 
+services. It also risks misinterpretation by eliminating existing contract structures relied upon by 
+EU customers. Early termination fees enable providers to offer signiﬁcant discounts and added 
+value to customers who commit to multi-year agreements, fostering predictability and long-term 
+investment in innovative services. Eliminating recovery when a contract ends prematurely results 
+in providers facing heightened ﬁnancial risk and discourages them from granting favorable pricing 
+or investing in advanced features. This also creates an incoherent situation and a different regime 
+with SaaS and PaaS provisions. We understand it was not the direct intention of the Commission 
+to create such prohibition and would encourage policymakers to ﬁx this during the negotiation 
+process by removing the IaaS exclusion reference at the end of the Article 31(1.b). 
+Introduce further ﬂexibility and simpliﬁcation on Cloud Switching and interoperability 
+provisions – We welcome the amendments to the Data Act cloud switching rules that better take 
+into account situations of data processing services that are adapted for highly customised 
+services (i.e. “custom-made”). Further ﬂexibility on some of the technical and contractual 
+requirements would be helpful to better reﬂect feasibility of switching scenarios. In particular we 
+13 March 2026 
+4 
+ 
+call for careful consideration regarding the upcoming repository of harmonized standards and/or 
+common speciﬁcations. Digital services are in constant state of evolution while the disruptive 
+innovation that creates whole new classes of digital services forces older technologies to 
+become obsolete. Careful consideration needs to be given to how such open interoperability 
+speciﬁcations are identiﬁed to ensure a future proof framework. 
+ 
+Cyber incident reporting 
+Maintain and build upon the Single-Entry Point for incident reporting – We view the 
+introduction of a Single-Entry Point (SEP) for incident reporting, to be developed and managed by 
+ENISA, as a promising ﬁrst step toward streamlining reporting obligations across key EU 
+cybersecurity and digital regulations. By allowing organizations to submit a single notiﬁcation 
+automatically routed to relevant national authorities, the SEP has the potential to reduce 
+administrative complexity, prevent duplicative or inconsistent queries, and ensure that critical 
+information promptly reaches the appropriate authorities. In order for the SEP to realize its full 
+potential to further materially enhance the simpliﬁcation and alignment of incident reporting 
+across multiple digital domains, we recommend taking the following aspects into consideration: 
+- Use the CRA Single Reporting Platform (SRP) as the foundation for the Omnibus Single 
+Entry Point (SEP) – To ensure a truly uniﬁed and coherent EU-level reporting architecture, 
+the SEP’s scope should be expanded to include incidents notiﬁed under the Cyber Resilience 
+Act (CRA). While Article 4(1) allows ENISA to rely on the CRA S R P, without explicit alignment, 
+there is a risk that the CRA SRP and SEP evolve as parallel systems. We recommend that co-
+legislators designate the CRA Single Reporting Platform as the model and shared 
+infrastructure for the Single-Entry Point (SEP), creating a coherent and uniﬁed EU-level 
+incident reporting framework. 
+- Integrate AI Act serious incident reporting into the SEP mechanism – Allowing providers 
+to submit a single interoperable notiﬁcation that is automatically routed to the relevant 
+authorities and national market-surveillance authorities (MSAs) would prevent up to 27 
+parallel investigations and inconsistent or uninformed queries. It can also offer clear 
+efficiency and oversight beneﬁts for governments and national authorities. By routing 
+notiﬁcations through a single-entry point with national CSIRTs docked in, authorities can 
+more easily identify cross-sectoral trends, detect cross-border risks, and coordinate 
+responses. This approach also eliminates the need for Member States to manually 
+disambiguate overlapping legislative requirements and accelerates information-sharing 
+between various cyber, AI, and product-safety regulators. Over time, it could support a more 
+coherent understanding of emerging risks, including clarifying the boundary between model-
+level and system-level incidents. 
+- Develop a secure and efficient mechanism within SEP to facilitate follow-up 
+communications – We further recommend incorporating within this platform a secure and 
+efficient mechanism for follow-up communications. A centralized system for responding to 
+regulatory inquiries would allow competent authorities to share information, reduce 
+13 March 2026 
+5 
+ 
+redundant requests, and ensure consistency in messaging. This enhancement would 
+improve regulatory coordination and ease the compliance burden on stakeholders. 
+- Harmonize deﬁnitions, timelines, and thresholds for incident reporting – For the SEP to 
+effectively fulﬁl its goal of reducing administrative burden and legal uncertainty, it must be 
+accompanied by harmonization of deﬁnitions, reporting timelines, and thresholds across EU 
+frameworks and aligned with international best practices. This combination would create a 
+coherent, streamlined, and operationally efficient incident reporting system. In line with this, 
+we recommend ENISA to be tasked with conducting a comprehensive study mapping 
+overlaps, redundancies, and inconsistencies across EU regulatory reporting requirements, 
+to inform the design of harmonized templates, aligned procedures, and interoperable 
+technical standards for the S E P. Key areas for alignment include: 
+o Deﬁnitions of cybersecurity incidents: Uniform deﬁnitions are essential to clarify 
+when cyber reporting obligations are triggered, what constitutes a reportable incident, 
+and to prevent duplicative notiﬁcations across frameworks. 
+o Reporting timelines: Aligning deadlines for different stages of reporting, such as 
+early-warning alerts versus full notiﬁcations, and harmonizing reporting channels 
+across jurisdictions would simplify compliance and strengthen early-warning 
+capabilities. 
+o Reporting thresholds: Standardized criteria for what constitutes a reportable incident 
+would streamline incident response, reduce operational costs, and allow 
+organizations to focus on effective mitigation. 
+- Ensure ENISA is adequately resourced to deliver on its expanded technical and 
+operational responsibilities – The Omnibus tasks ENISA with managing the technical and 
+operational aspects of the S E P, ensuring its security, reliability, and interoperability across 
+Member States. Without commensurate increases in ﬁnancial and human resources, 
+ENISA’s ability to fulﬁll these responsibilities will remain constrained. We recommend that 
+any additional responsibilities related to the development of SEP are matched with 
+appropriate increased budgetary and staffing allocations, a consideration that should also 
+inform the upcoming Cybersecurity Act revision. 
+- Ensure the development and maintenance of the SEP are driven by structured multi-
+stakeholder input – Recital 44 mandates ENISA to consult the Commission, the CSIRTs 
+Network, and competent authorities on the SEP’s technical speciﬁcations. To ensure 
+regulatory coherence and practical utility, structured engagement with the private sector 
+should also be embedded into development and ongoing maintenance of the SEP. ENISA 
+should establish a regular consultation mechanism - such as a stakeholder forum or expert 
+group - with opportunities for input through public consultations, written submissions, and 
+technical workshops. Direct engagement with businesses which process and report incident 
+data is essential to design secure, interoperable, and user-friendly reporting mechanisms, 
+strengthen shared cybersecurity responsibility, and mitigate inadvertent compliance 
+burdens. 
+13 March 2026 
+6 
+ 
+2. Recommendations on the AI Omnibus Regulation 
+ 
+2.1 Provisions Microsoft supports and recommends strengthening 
+In this section, we highlight the modiﬁcations that we welcome in the proposal while also 
+recognizing that they require further modiﬁcations to gain clarity and effectiveness and fully 
+enable their objective of legal certainty and simpliﬁcation. 
+- “Grace Period” for requirements on disclosure of AI-generated content (Art. 11): We 
+welcome the Commission’s intention to provide additional time for providers of generative 
+AI systems to comply with any applicable marking obligations under Article 50(2) AI Act 
+without disrupting the market. 
+o However, the Code of Practice detailing the implementation of these requirements will 
+not be ﬁnalized before June 2026. As the proposed six-month grace period applies only 
+to AI systems placed on the market before 2 August 2026, systems placed on the 
+market after that date would need to comply almost immediately on the basis of the 
+ﬁnal Code, creating signiﬁcant legal uncertainty and practical engineering planning 
+and implementation challenges. 
+ We therefore recommend extending the grace period to 12 months and applying it 
+to AI systems placed on the EU market between 2 Aug 2026 and 2 Aug 2027. 
+ For text, a further grace period should be considered given heightened technical 
+challenges and likely time -intensive implementation once an impactful, feasible 
+solution is identiﬁed. 
+o Similarly, the delayed application timeline proposed for Article 50(2) should be 
+extended to the rest of Article 50, in particular Article 50(4), to ensure regulatory 
+coherence and feasible implementation. As the forthcoming Code of Practice will also 
+deﬁne transparency and provenance expectations for deployers under Article 50(4), 
+the absence of any grace period for deployers creates the same implementation 
+challenges that motivated the grace period for providers. 
+ We therefore recommend also extending the timeline for Article 50(4) and the 
+remainder of Article 50 to allow both providers and deployers sufficient time to 
+translate the Code into robust engineering and operational solutions, enabling 
+consistent, technically sound, and interoperable implementation aligned with the 
+Commission’s guidance. 
+- “Grace period” for High-Risk AI Systems (Recitals 21-22, Paragraph 31 amending Art. 113): 
+We welcome the introduction of a grace period due to the unavailability of “adequate 
+measures in support of compliance, ” as companies need sufficient time to assess such 
+measures once available and adjust their compliance investments accordingly. However, as 
+proposed, the transition mechanism is ambiguous and raises concerns about the existing 
+timeline. 
+o Given the short timeframe before high-risk AI obligations apply, and the uncertainty 
+over whether and when the AI Omnibus will be agreed and enter into force, companies 
+13 March 2026 
+7 
+ 
+face a compliance dilemma: either prepare for the existing August 2, 2026 deadline, 
+effectively negating the rationale for the transition period, or rely on the proposal being 
+adopted as drafted, risking non-compliance if it is delayed or amended. 
+o Further uncertainty arises from the proposed mechanism allowing the Commission to 
+determine that “adequate measures in support of compliance” are in place, including 
+potentially on the sole basis of guidelines issued at short notice. We therefore 
+recommend greater clarity by: 
+ Separating the postponement provisions from the rest of the AI Omnibus and 
+negotiating them independently, to reduce uncertainty and ensure timely adoption. 
+ Replacing reliance on the availability of “adequate measures in support of 
+compliance” with a ﬁxed deadline of 24 months for high-risk AI systems covered by 
+both Annex I and III. 
+ 
+2.2 Provisions Microsoft supports and recommends maintaining 
+Aligned with the objective of simplification, we support the following measures proposed by the 
+European Commission: 
+ 
+- More Flexible Post-Market Monitoring (Recital 23 / Art. 72): We welcome the stated 
+objective to offer “more ﬂexibility in the post-market monitoring by removing a prescription 
+of a harmonized post-market monitoring plan” , thereby replacing the harmonized template 
+with a post-market monitoring plan, on which the EC needs to publish guidance. This 
+approach allows companies to develop plans tailored to their speciﬁc AI systems and risk 
+contexts, and that fit their organizational structure and technologies rather than requiring them 
+to follow a set, pre-determined, one-size-ﬁts-all template. 
+ 
+- Legal Basis to Process Special Categories of Personal Data for Bias Mitigation (Art. 4a): 
+We welcome the introduction of Article 4a, which provides a legal basis for providers and 
+deployers to exceptionally process special categories of personal data for bias detection and 
+correction under defined conditions. This enhances legal clarity for companies when 
+processing such data. Article 4a(1d) provides that the exemptions would not apply where 
+special categories of personal data are transmitted, transferred, or otherwise accessed by 
+third parties. We would welcome clarifying language to explicitly recognize situations 
+involving controlled disclosure to business partners under contractual arrangements that 
+impose strict limitations on access, purpose, and data deletion. 
+ 
+- Removal of Registration Obligation for Certain Non-High-Risk Systems (Art. 6 / Art. 49): 
+We welcome the removal of the obligation to register AI systems in the EU database where 
+systems listed in Annex III are exempted from high-risk classiﬁcation under Article 6(3), for 
+example because they are used only for preparatory tasks. This provides greater legal clarity 
+and aligns with the AI Act’s risk-based approach, whereby higher obligations correspond to 
+higher risk, which preparatory uses do not meet. 
+ 
+ 
+13 March 2026 
+8 
+ 
+2.3 New provisions Microsoft recommends introducing 
+ 
+Apply a risk-based and proportionate approach to retroactive application of the AI Act 
+- Retroactive application of AI Act obligations to AI systems or GPAI models placed on the 
+market or put into service before the relevant application dates should be signiﬁcantly 
+narrowed, guided by the level of risk those systems pose to health, safety, and fundamental 
+rights. 
+- Compliance expectations should focus on legacy systems with an especially elevated risk 
+proﬁle and take into account technical feasibility, system maturity, and whether systems are 
+actively maintained or materially modiﬁed. They should also account for signiﬁcant 
+differences in how providers can engage retroactively with suppliers across the AI value 
+chain. 
+- Where retroactive compliance would require disproportionate re-engineering with limited risk-
+reduction beneﬁts relative to the current context of their deployment, authorities should 
+explicitly scope out systems or requirements or favor proportionate mitigation measures and 
+phased enforcement, using supervisory discretion to support good-faith compliance while 
+ensuring meaningful safety outcomes. 
+o We therefore recommend clarifying this approach through an addition to Recital 197: 
+“When exercising their powers under this Regulation in relation to AI systems and 
+general-purpose AI models placed on the market or put into service before its 
+application, competent authorities should act in a proportionate and risk-based 
+manner. In doing so, they should scope out systems where re-engineering efforts are 
+disproportionate to risk-reduction beneﬁts and prioritize cases involving risks to health, 
+safety or fundamental rights. They should also take into account the feasibility of 
+retroactive compliance, the maturity of the AI system or general-purpose AI model, and 
+whether it is actively maintained or substantially modiﬁed. ” 
+ 
+Interplay between the AI Act and EU Cybersecurity Legislation 
+ 
+Clarify interplay with Cyber Resilience Act 
+- We recommend reinstating the clarification, included in the leaked AI Omnibus draft, that high-
+risk AI systems complying with the Cyber Resilience Act’s essential cybersecurity 
+requirements and covered by an EU Declaration of Conformity under the CRA are deemed to 
+meet the AI Act’s requirements on accuracy, robustness, and cybersecurity (Art. 15). 
+- Absent this clarification, providers face legal uncertainty and the risk of duplicative or 
+inconsistent conformity assessments across overlapping EU frameworks. Reinstating it would 
+avoid double testing, reduce administrative burdens for providers and notified bodies, and 
+ensure the EU’s digital product safety framework operates as an integrated system rather than 
+as parallel regimes, thereby supporting legal certainty and more efficient implementation. 
+ 
+ 
+13 March 2026 
+9 
+ 
+AI systems used solely for cybersecurity purposes should not qualify as safety components 
+- Recital 55 already provides an exclusion from qualification as a safety component for certain 
+critical infrastructure uses. The AI Act should therefore apply a consistent approach to AI 
+systems that are not considered high-risk. 
+- We accordingly recommend clarifying that AI systems integrated into products or standalone 
+AI systems listed in Annexes I and III, when used solely for cybersecurity purposes, should not 
+be qualified as safety components. Extending this exclusion across Annexes I and III would 
+enhance legal clarity and help prevent divergent interpretations of high-risk classification, as 
+has been observed in discussions around the interpretation of the Radio Equipment Directive. 
+ 
+Interplay with the GDPR 
+ 
+Avoid duplicative or conflicting frameworks when applying overlapping AI Act and GDPR 
+requirements (Art. 86 AI Act) 
+- Article 15(h) GDPR grants individuals the right to be informed about solely automated 
+decision-making, including meaningful information about the logic involved, signiﬁcance, 
+and consequences of the processing. EU authorities and courts have clariﬁed that this 
+obligation does not require disclosure of algorithms (Dun & Bradstreet ruling). Article 86 of the 
+AI Act similarly provides a right to obtain meaningful explanations of the role of a high-risk AI 
+system in a decision-making process and the main elements of a decision that adversely 
+affects health, safety, or fundamental rights. While the two provisions differ in scope—GDPR 
+focusing on automated decision-making and data use, and the AI Act on the role of high-risk 
+AI systems and the resulting decision—there is signiﬁcant overlap in the information 
+concerned. AI system providers should therefore not be required to respond to multiple 
+requests covering the same information, nor to provide more granular explanations under the AI 
+Act than are required under the GDPR. Given the higher-level framing of Article 86 AI Act, 
+deployers should retain ﬂexibility in how explanations are provided. 
+o Where the deployer under the AI Act is different from the controller under the GDPR, 
+individuals may need to exercise (i) GDPR access rights against the controller and (ii) 
+Article 86 AI Act rights against the deployer—risking fragmented processes or 
+contradictory replies. We recommend endorsing a single, consolidated response 
+workﬂow (and authority cooperation) so that one routed reply can satisfy both 
+frameworks when requests concern the same decision and information, consistent 
+with Article 86(3)’s anti-duplication clause and GDPR’s architecture of rights 
+addressed to the controller. 
+o To reduce uncertainty and compliance burden, we recommend Article 86 (or 
+accompanying guidance) specify minimum elements of an explanation provided to an 
+individual—using “in particular… ”—such as: (i) the AI system’s role in the decision 
+pathway; (ii) the main input categories considered; (iii) whether/where human oversight 
+occurred; (iv) key limitations or error sources etc. This would mirror the GDPR’s 
+intelligibility and usability requirements and support consistent, person centric 
+disclosures. 
+ 
+13 March 2026 
+10 
+ 
+Clarify the interplay between AI Act human oversight requirements and GDPR automated 
+decision-making rules 
+- Article 14 of the AI Act requires high-risk AI systems to be designed and developed so that 
+they can be effectively overseen by natural persons during their use. In parallel, Article 22 GDPR 
+grants individuals the right not to be subject to decisions based solely on automated 
+processing that produce legal or similarly signiﬁcant effects. 
+- There is currently a lack of clarity as to whether, and under what conditions, the forms of human 
+oversight required under Article 14 AI Act would be sufficient for a decision to be considered not 
+“solely automated” for the purposes of Article 22 GDPR, including in light of the amendments 
+currently proposed under the Digital Omnibus. 
+o We therefore recommend that the Commission issue guidance clarifying the interaction 
+between these provisions, including what types of human involvement would be relevant 
+under GDPR, in order to provide legal certainty for providers and deployers. 
+ 
+2.4 Additional Simpliﬁcation Opportunities to consider for the Fitness Check 
+ 
+Avoid new horizontal or sector-specific AI legislation 
+- The EU AI Act entered into force on August 2, 2024, but significant parts of the framework apply 
+only after extended transition periods, with some provisions not applicable until August 2, 
+2027. We therefore recommend that: 
+o Until the AI Act is fully implemented and there has been sufficient time to assess its 
+operation in practice, the Commission should refrain from proposing new horizontal AI 
+legislation (such as the recently withdrawn AI Liability Directive) or sector-speciﬁc 
+measures (for example, rules on AI in the workplace). 
+o If and when new instruments are considered, they should provide regulatory clarity, avoid 
+duplicating existing requirements, and be developed in close consultation with private 
+stakeholders, in line with the Commission’s objective of engaging more effectively with 
+stakeholders. 
+ 
+Clarify cooperation between market surveillance authorities and authorities protecting 
+fundamental rights 
+- To ensure effective coordination, the legal framework should establish clear rules governing 
+cooperation between MSAs and DPAs, while fully safeguarding the independence, mandate, 
+and supervisory powers of DPAs and of MSAs. We therefore recommend: 
+o Specifying information-sharing gateways, joint investigation possibilities, and conﬂict 
+resolution mechanisms under the AI Office/Board umbrella. 
+o Clarifying that MSAs should serve not only as administrative points of contact for 
+executing and transmitting requests to providers and deployers, but also as essential 
+counterparts to DPAs in situations involving both AI and personal data. 
+ 
+ 
+13 March 2026 
+11 
+ 
+Adopt a “qualitative,” capabilities-based threshold to qualify as a GPAI model or a GPAI 
+model with systemic risk 
+- The GPAI Guidelines define GPAI models using a quantitative training compute threshold 
+(exceeding 1023 FLOP), while the AI Act sets a 1025 FLOP threshold to identify GPAI models with 
+systemic risk. 
+- We welcome the AI Office’s acknowledgement that training compute is an “imperfect proxy” for 
+a model’s generality and capabilities. While compute thresholds may offer short-term legal 
+certainty, reliance on compute alone risks capturing an overly broad set of models. The need 
+to frequently adjust such thresholds, given their limited suitability, undermines their claimed 
+clarity and creates unpredictability for companies, particularly SMEs, when making 
+investment and technical decisions. This runs counter to the Commission’s simpliﬁcation 
+objective to keep pace with technological progress and make compliance easier for 
+companies. 
+- We consider capability-based evaluations, which directly assess a model’s generality and 
+capabilities, to be an effective way to refine which models above a compute threshold fall 
+within scope. As evaluation methods, tools, and standards mature, we recommend a 
+combined compute- and capability-based approach to assess GPAI models. For example, a 
+model exceeding the 10^25 FLOP threshold but performing significantly below leading frontier 
+models on state-of-the-art benchmarks should be classified as a GPAI model unlikely to pose 
+systemic risk. 
+- Although benchmarks require periodic updating, increasing uncertainty around indirect 
+proxies and growing investment in standardized evaluation tools make a combined approach 
+more reliable and future-proof. The AI Office could also maintain an updated list of relevant, 
+reliable benchmarks for providers to refer to in capability assessments. 
+o We therefore recommend adopting a threshold focused on whether a model’s 
+capabilities pose systemic risks covered by the Act, and on whether downstream 
+modiﬁcations materially increase those capabilities and risks for the purpose of 
+classifying providers. 
+ 
+Establish a regular process to revise methods for assessing GPAI models with systemic risk 
+(Article 51-52 AI Act) 
+- Article 51 governs the classification of GPAI models with systemic risk, while Article 52 sets out 
+the Commission’s procedure, including the obligation to publish and keep up to date a list of 
+GPAI models with systemic risk (Art. 52(6)). 
+- Consistent with the EU Simplification Agenda’s objective to keep pace with technological 
+development, we recommend: 
+o Introducing a regular review cycle (for example, annually) for systemic risk thresholds 
+as model development techniques evolve. 
+o Subjecting pre-training criteria to more frequent review (for example, every six months), 
+in light of rapid gains in training efficiency and the emergence of techniques that 
+enhance capabilities outside pre-training, including test-time compute. 
+o Where a capabilities-based approach is adopted, establishing a regular process to 
+update performance benchmarks as they become saturated or outdated. 
+ 
+13 March 2026 
+12 
+ 
+Clarify the use of Annex XIII criteria for ex officio designations of GPAI models with systemic 
+risk by the EU AI Office (Annex III AI Act) 
+- For models below the compute threshold, the EU AI Office, with support from the independent 
+scientific panel, may assess models ex officio to determine whether they have high-impact 
+capabilities, using the criteria set out in Annex XIII (such as number of parameters, dataset size 
+or quality, input and output modalities, capability benchmarks and evaluations, and market 
+reach). However, the absence of quantitative indicators or thresholds for these criteria makes 
+it difficult to anticipate how ex officio designations will be determined. We therefore 
+recommend that the EU AI Office: 
+o Provide guidance on how Annex XIII criteria will be applied when assessing models ex 
+officio below the training-compute threshold. 
+o Offer additional clariﬁcation on the application of Annex XIII, with a particular focus on 
+capability-based criteria directly related to a model’s capabilities, such as 
+benchmarks and evaluations of model performance, including task generality, 
+adaptability, autonomy, scalability, and access to tools. 
+ 
+Clarify the research exemption to enable responsible pre-release GPAI model testing 
+(Article 2(8) and Recital 25 of the AI Act) 
+- Article 2(8) excludes research, testing, and development activities conducted prior to placing 
+a GPAI model on the market, except for testing in real-world conditions. Recital 97 and Article 
+3(63) further confirm that models used solely for research, development, and prototyping 
+before market placement fall outside the Act’s scope. However, the scope of “testing in real-
+world conditions” remains unclear pending AI Office guidance, risking a chilling effect on 
+legitimate pre-release testing that is essential for model safety and quality. 
+- In practice, providers often test unreleased GPAI models through limited, non-commercial 
+exposure on public or semi-public platforms to gather human feedback, benchmark 
+performance, and identify safety or robustness issues. This established practice generates 
+insights that cannot be achieved through internal testing or static benchmarks alone. Absent 
+legal clarity, providers may avoid making such models available in the EU, undermining pre-
+deployment safety testing and innovation. 
+- To address this, we recommend a narrow interpretative clarification in Recital 25 confirming 
+that pre-release testing of GPAI models involving limited, non-commercial exposure to real 
+users for research, evaluation, safety testing, or benchmarking does not constitute “testing in 
+real-world conditions” under Article 2(8), provided appropriate safeguards are in place. This 
+would support rigorous pre-market testing while remaining aligned with the AI Act’s risk-
+mitigation and safety objectives. 
+- Suggested addition to Recital 25: 
+o For the purposes of Article 2(8), the use of GPAI models prior to their placing on the 
+market for research, development, prototyping, evaluation, or safety testing, including 
+controlled or limited exposure to real users or researchers to collect feedback, 
+benchmark performance, or identify risks, shall not be considered testing in real-world 
+conditions where such use is non-commercial and subject to appropriate safeguards. 
+ 

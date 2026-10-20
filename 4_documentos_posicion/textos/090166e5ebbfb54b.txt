@@ -1,0 +1,1209 @@
+Contents lists available atScienceDirect
+Cement and Concrete Research
+journal homepage: www.elsevier.com/locate/cemconres
+Carbonation as a method to improve climate performance for cement based
+material
+R. Anderssona,⁎
+, H. Strippleb, T. Gustafssonb, C. Ljungkrantzc
+aUntil June 1th 2018, Lund University, Structural Engineering, Box 118, SE-221 00 Lund, Sweden
+bIVL Swedish Environmental Research Institute, P.O. Box 53021, SE-400 14 Gothenburg, Sweden
+cCementa Ltd, Marieviksgatan 25, SE-117 43 Stockholm, Sweden
+ABSTRACT
+Concrete is today considered to be a crucial material in the ongoing complex transformation of our society in a sustainable direction. One prioritized requirement in
+this transformation is to reduce the emissions of CO2 that are associated with concrete production and use. One well-known factor which, so far, has not been
+considered is (re)carbonation of built concrete products over their life cycle. This paper presents research to quantify such uptake in reports to the United Nations
+Framework Convention on Climate Change (UNFCCC). It also presents the current status of considering carbonation in the EU Emissions Trading System (EU ETS)
+and in International Environmental Product Declarations (EPD). The paper also presents some possibilities for further research on how to improve climate per-
+formance by considering carbonation.
+1. Introduction
+Thepaperdealswithcement-basedmaterials(concreteandmortar).
+Theword concreteishoweverfrequentlyusedasagenerictermandalso
+usedinthispaperforbothconcreteandmortar.Theterm cementisused
+solely for “common” cements with Portland clinker as one component.
+Special cements are not treated, with the exception of a short men-
+tioning inChapter 4.1.
+Concrete is the most used construction material in the world. Its use
+dates back to before and during the Roman Empire, but its modern use
+started around 200years back with the introduction of industrial pro-
+duction of Portland cement. Raw materials for cement are globally
+widely available and today, the properties of concrete are well proven
+both in diverse climates and over a long timeframe. These properties
+are very suitable for sustainable construction.
+However, one important aspect to consider is that cement produc-
+tion is a source of CO2 emissions, mainly due to its high temperature
+process. A global average estimate of the emissions per tonnes clinker
+can be as 36% from use of fuels and 64% from calcination of limestone
+(a primary raw material) at high temperatures [1].
+Several research and development activities related to cement are
+under way including fossil-free energy, complete electrification of the
+process, Carbon Capture Use or Storage (CCU/CCS), development of
+existing binders and additions, as well as introduction of new binders,
+[2,3]. It is also a development work that needs involvement of other
+construction actors, depending on the influence from design, manu-
+facture,constructionetc.aswellasinvolvingsociety'seffortstocreatea
+sustainable society. Reference [2] argues that with engagement from
+different actors and stakeholders, significant reductions in CO
+2 emis-
+sions can be achieved.
+Carbonation is a chemical reaction by which CO2 penetrates the
+concrete and reacts with the hydration products, forming mainly cal-
+cium carbonate. Knowledge of carbonation of existing concrete struc-
+tures is well-established. Both CSH gel (short for Calcium-Silicate-
+Hydrate) and Ca(OH)2 form a part of the cured concrete. CO2 in the
+atmosphere,incontactwithconcrete,willprimarilyreactwithCa(OH) 2
+in the concrete according to the principlereaction (1). below, but will
+also react with the CSH gel. These reactions, which describe the uptake
+of CO
+2 in concrete, are called carbonation, see 1. below.
++ +Ca(OH) CO CaCO H O2 2 3 2
+(1)
+The carbonation reaction takes place in several steps [4,23]. The
+actual uptake reaction between the calcium and carbonate ions takes
+place in the water phase of the pore solution in the concrete. Water and
+moisture are thus an important part of carbonation.
+The table below, taken from FprCEN/TR 17310.2018 [18] (the
+figures are originally presented in [6]) provides the amount of CaO
+available for carbonation for the different reaction products for Port-
+land cement (Table 1).
+The table shows that also other reaction products, such as mono-
+sulphate and ettringite carbonate, but the quantity in common cements
+https://doi.org/10.1016/j.cemconres.2019.105819
+Received 16 February 2019; Received in revised form 12 July 2019; Accepted 12 July 2019
+⁎ Corresponding author at: Cementa Ltd, Dockplatsen 1, SE-211 19 Malmö, Sweden.
+E-mail addresses:ronny.andersson@kstr.lth.se, ronny.andersson@cementa.se (R. Andersson),hakan.stripple@ivl.se (H. Stripple),
+tomas.gustafsson@ivl.se (T. Gustafsson),christer.ljungkrantz@cementa.se (C. Ljungkrantz).
+Cement and Concrete Research 124 (2019) 105819
+0008-8846/ © 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+T
+Ref. Ares(2022)3411294 - 03/05/2022
+is small compared to portlandite and CSH-gel.
+Carbonated concrete is chemically stable and increases the strength
+of the concrete with cements based on Portland clinker. The carbona-
+tion is associated with a lowering of the pH in the concrete, thus re-
+ducing the chemical protection of built in reinforcement.
+Internationally, therefore, construction codes have design rules that the
+built in reinforcement needs to be protected by a concrete layer cov-
+ering the steel rebar and must meet certain criteria based on, for ex-
+ample, climate exposure, material properties and the designed service
+life. Corrosion risk of steel rebar embedded in carbonated concrete
+requires also humidity. Indoor reinforced concrete protected from rain
+and exposed to RH<75% have a negligible corrosion [35].
+This CO2 uptake has historically not been considered in the CO2
+discussion about climate change and calculation methods in this con-
+text are still today not generally considered.
+Calculating the uptake of CO2 in concrete and other cement-con-
+taining products as well as its impact on the global climate is a very
+complex taskand there is also no unambiguous calculation method that
+canbeused,butapproximateandempiricalmodelsmayconstitutesuch
+a calculation base. The purpose of the present article is therefore not to
+present final calculation methods but to initiate a process in which the
+global uptake of CO2 in cementitious products can be calculated and
+taken into account in the global climate work and in assessments of e.g.
+various concrete products. Consequently, this article presents a pro-
+posal for three different calculation methods with different calculation
+complexity and accuracy in accordance with the IPCC guidelines.
+The first part in this paper presents international regulations cov-
+ering calculation and reporting of CO
+2 emissions related to concrete.
+The second part presents an approach to calculate the annual CO2 up-
+take of existing concrete construction. It is based on the report [4],
+which in turn is based on the pioneering paper [5] and six other studies
+[6–13] (8 papers) resulting in three calculation methodologies, with
+different accuracy and complexity, to be in line with the emission in-
+ventory guidelines of the IPCC (Intergovernmental Panel on Climate
+Change). The third part discusses the importance of knowledge of CO2
+uptake to develop new sustainable concrete design processes as well as
+cement and concrete products. Finally, conclusions for further devel-
+opment and research are presented.
+2. Different ways to monitor, quantify and report CO
+2 emissions
+The impact of greenhouse gas emissions on climate change can be
+measured and monitored in different ways, depending on the geo-
+graphical boundaries and methodological approaches. When con-
+sideringdifferentknowledge-basedsystems,one musttake intoaccount
+that these systems have been developed for different goals and with
+different starting points. Thus, the outcome of the systems may differ
+considerably.
+Below, three international systems for monitoring, quantifying and
+reporting CO2 emissions and their consideration to carbonation of CO2
+in concrete are presented.
+2.1. Reporting of national CO2 emissions to the UNFCCC
+During the Rio Conference in 1992, the UNFCCC (United Nations
+Framework Convention on Climate Change) was established as a fra-
+mework for international cooperation with the aim to combat climate
+change by limiting average global temperature increases.
+Countries report annual greenhouse gas emissions and removals
+yearly to the UNFCCC. The annual emissions reported to the UNFCCC
+covers emissions from activities within the country's territorial bound-
+aries. The country reporting is strengthened by legally binding agree-
+ments, such as the Kyoto Protocol and the Paris Agreement. The re-
+quirementsandaccountingproceduresforemissionsandremovalswere
+reached through extensive negotiations by the parties to the agree-
+ments.
+The guidelines for estimating emissions and removals for national
+reporting are developed by the IPCC (Intergovernmental Panel on
+Climate Change) [21]. The carbonation process of CO
+2 in cement pro-
+ducts is mentioned in the latest version of the guidelines (from 2006)
+[21]. But, at that time the scientific consensus was that further work
+was needed before carbonation could be included into national in-
+ventories. Due to the potentially large amount of CO
+2 that has been and
+will be removed from the atmosphere and stored in cement-based
+products, it is vital that the next update of the guidelines include
+methodologies for estimating such activities for country reporting. The
+guidelines also acknowledge that CO
+2 capture and storage (CCS) is an
+option that could be used to reduce greenhouse gas emissions.
+The forest industry, in its annual country-based CO2 balance cal-
+culations, includes both annual emissions and uptake. InChapter 3, a
+similar approach to also include CO2 uptake from existing structures in
+concrete in the calculations is described.
+2.2. EU climate and energy frameworks for lowering climate impact
+The European Union has its own requirements on reduced climate
+impact [39,40], including EU/ETS (Emissions Trading System) for in-
+dustries, like European cement and steel industries, and EU/ESR (Effort
+Sharing Regulation) which deals with emissions from other sectors like
+transport,agricultureandforestry.InordertomeettheEU'snewenergy
+and climate targets for 2030, Member States are required to establish a
+10-year National Energy and Climate Plan (NECP) for the period from
+2021 to 2030 to ensure consistent reporting by the EU and its Member
+States undertheUNFrameworkConventionon ClimateChangeandthe
+Paris agreement. In Sweden, the emissions reported within EU/ESR in
+2014 were 34 million tonnes CO2 eq. [14] while Swedish industry
+emissions, EU/ETS, 2014 amounted to about 20 million tonnes CO2 eq.
+out of which the cement used in Sweden accounts for about 2 million
+tonnes CO2 eq.
+The EU/ETS includes>13,000 industry plants and covers around
+45% of the EU's total greenhouse gas emissions. Both European steel
+and cement industries are encompassed by the requirements based on
+plant-specific emissions.
+The main part of the greenhouse gas emissions in Europe comes
+from traffic, agriculture and forestry and is to be covered by EU/ESR.
+The EU/ESR, in contrast to EU/ETS, includes flexibility related to an-
+nual uptake both in the forestry and CO2 bound in construction timber.
+However, the CO2 uptake by concrete during the use stage is not re-
+garded.
+2.3. Environmental product declaration, EPD
+In a sustainable society, buildings are constructed securing their
+function during the life cycle. To investigate the total environmental
+burdenofaproductorstructure,LifeCycleAssessments(LCA)areused.
+InaLCAtheenvironmentalimpactfromemissionstoair,waterandsoil
+are quantified and declared. For the construction sector, the EPD
+(Environmental Product Declaration) system has been developed based
+Table 1
+Binding capacity of Portland cement in terms of total CaO.
+Calculations. Hydrate phases
+CSH CH AFm Aft All
+a) Hydrate phase content, % 50 25 10 10 95
+b) CaO molar ratio 0,42 0,76 0,36 0,27 –
+c) CaO in cement hydrate phase, % 21 19 3,6 2,7 46*
+d) Assumed degree of carbonation in hydrated
+cement, %
+0,5 1 0,75 0,5 –
+e) CaO available for carbonation in cement
+hydrate, %
+11 19 2,7 1,3 33
+CaO available relative to the total CaO, % 23 41 5,8 2,9 72
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+2
+on thestandardsEN 15804:2012[15] andISO21930:2017[16].EPDis
+increasingly used as a criterion in the various existing environmental
+certification systems.
+The European standard EN 16757:2017 (Sustainability of con-
+struction works – Environmental product declarations - Product
+Category Rules for concrete and concrete elements) [17] provides ad-
+ditional rules specifically for concrete and concrete elements. Even if
+many mortar applications, with only fine aggregate, like rendering, and
+concrete products like paving stones and blocks, are not comprised by
+the definition of concrete in [17], they can from a carbonation and CO2
+uptake view, however be regarded as concrete products with fine ag-
+gregate. Concerning especially the part on CO2 uptake, Annex BB in
+[17], the text is accordingly valid and can be applied also for mortar.
+The impact of the use and end-of-life stages includes carbonation of the
+concrete. When CO
+2 uptake is not considered, this shall be stated in the
+EPD. Annex BB in this standard provides a possible method to assess
+CO
+2– uptake through carbonation in different life cycle stages. Other
+calculation methods may be used if transparently documented. Further
+information can be found in the Technical Report FprCEN/TR
+17310:2018 (Carbonation and CO
+2 uptake in concrete) [18].
+Steel products and constructions are treated in the same way as for
+concrete. For wood products and construction, there is not yet any es-
+tablished product system, instead the same forest system is used as for
+the UNFCCC. There have been several attempts to distribute the CO2
+balance from timber construction over time, but due to the lack of
+defined timber product systems, this is not possible [19,20].
+3. Approach to calculate CO
+2 uptake in existing concrete
+structures in line with IPCC guidelines
+3.1. Introduction
+WiththeaimtoprovidemethodologiesforestimatingCO
+2 uptakeof
+concrete in line with the IPCC, IVL report No. 2309 [4] presents a
+backgroundandcalculationmodels.Thereportisbrieflysummarizedin
+this chapter. The models of carbonation and CO2 uptake in concrete are
+based on existing and well documented knowledge, expressed for in-
+stance in the European standard EN 16757:2017 [17]. This standard
+can be used for calculation of CO
+2 uptake of a product during its life
+cycle, (known as the product approach).
+For the reporting to UNFCCC according to IPCC's guidelines, it is
+however necessary to calculate the annual CO2 uptake of all concrete
+structures in a region or country (known as the society approach). For
+this purpose, one normally needs information about the existing
+building stock, for instance, composition, amount and age of concrete,
+and type and exposure of structures. This can be a challenging work for
+many countries. The IVL report has derived information of the results
+from seven countriesthat havedonethis type of advanced national CO2
+uptake calculations to achieve both simplified and more advanced
+calculation methods.
+3.2. Basic principles of calculation
+When calculating the global environmental effects of the use of
+concrete, one must consider all concrete use at the same time. Cement
+andconcreteareproducedcontinuouslyandgiverisetogreenhousegas
+emissions globally. At the same time, CO
+2 is slowly absorbed in all
+concrete that has been produced that is still in service and can carbo-
+nate. It is this global net emission of CO
+2 (emissions minus uptake) that
+gives the global impact of concrete use on the climate. This method of
+calculation is what is used in the annual national and global calcula-
+tions of CO2 for cement and concrete, except that the uptake of CO2 by
+carbonation is not currently taken into account in any other way. This
+results in misleading emission values for greenhouse gases from con-
+crete products. The international greenhouse gas reporting is done ac-
+cording to the UNFCCC (United Nations Framework Convention on
+Climate Change) protocols, while the methods for the CO
+2 calculations
+are regulated by the IPCC (Intergovernmental Panel on Climate
+Change) through the document, 2006 IPCC Guidelines for National
+Greenhouse Gas Inventories [21]. The uptake of CO2 is not new in the
+climate calculations, but occurs in different contexts, such as in forest
+growth or carbonation of minerals in soil and sea. Time aspects and
+durations for the binding of CO
+2 can sometimes be a problem. When
+carbonating concrete, the binding of CO2 is essentially permanent, as
+heating to the calcination temperature (~850°C) would be required in
+order for CO2 to re-enter the gas phase. Despite solid facts, the in-
+tegration of CO2 uptake and the use and communication of these values
+havebeenremarkablyweak.Therefore, thestudy[4]mainlyfocuseson
+themethodsto integratetheuptakeof CO 2 inconcrete intothenational
+and global calculation models for CO2.
+The calculated amount of CO2 driven off from the material can be
+considered as the maximum theoretical uptake of CO2 due to carbo-
+nationofthedifferentcementcontainingproducts.Aftertheservicelife
+of a concrete structure, it will be demolished and typically crushed into
+finer pieces. This will increase thespecific surface area and increase the
+carbonation rate. A complete CO2 uptake model must therefore calcu-
+late the CO2 uptake in the different cement containing products during
+their lifetime as well as in the end-of-life processes and when used as
+secondary products such as crushed concrete in a road base or as
+landfilling material. The emission and uptake models are illustrated in
+Fig. 1.
+The CO2 uptake in concrete is a relatively slow process that takes
+place over many years. The primary uptake is due to the hydrated
+Portland cement portion of concrete structures, such as bridges, house
+frames, concrete tiles, concrete roads, railway sleepers, cement mortar,
+etc. Also latent hydraulic concrete additions, such as blast-furnace slag
+and pozzolanic additions such as fly ash from coal combustion, which
+also can take up CO2, can be important to include in the calculations.
+3.3. Mathematical model for calculating CO2 uptake in a concrete surface
+and a concrete structure
+The depth of carbonation, d, can be calculated by the well-estab-
+lished formula.
+=d k t,
+(1)
+where t is time and k is the rate of carbonation. It depends on exposure
+and concrete quality. For covered surfaces with an initial resistance to
+penetration by air, the depth of carbonation has been shown to be
+better represented by polynomial equations [22].
+To be able to calculate the CO2 uptake, we also need the degree of
+carbonation, DOC, defined asthe amount of CO2 uptake bycarbonation
+Cement kiln Primary product 
+use
+Secondary 
+product use
+CO2 emission from 
+raw material
+CO2 uptake in e.g.
+concrete products
+CO2 uptake in e.g. 
+crushed concrete
+Example of
+/g415me frame:Year 1 Year 10 Year 100 -
+CO2 emission model CO2 uptake model
+Fig. 1.Schematic figure showing the CO2 balance in cement products over a
+certain period of time.
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+3
+in relation to the theoretical maximum CO2 uptake by carbonation
+(correspondingto100%DOC).ThemaximumtheoreticaluptakeofCO 2
+in the clinker part can be equated with the CO2 emission from calci-
+nation that is driven off from the material. The degree of carbonation is
+definedonlywithintheareawhichhasbeenconsideredcarbonatedand
+this area has been defined as the area exhibiting color change with
+phenolphthalein test. See for instance [17and 23]. Other less distinct
+meanings do occur, but should not be used for the purpose of CO2
+uptake calculation.
+The DOC depends on exposure of the concrete. References [5,17,
+18, 23]. Moist exposure, as in outdoor concrete, especially when ex-
+posed to rain, gives the highest values, while exposure in dry en-
+vironment gives the lowest.
+Values of k and DOC can be found for instance in [17] (EN
+16757:2018, Annex BB). The k-values were original reported in [23],
+which presents evaluated and systematic compiled values, based on a
+number of studies. The values are reproduced in the standard [17] and
+in the IVL-report [4]. It is also reported in [41].
+In [17] are also given corrections for the k-factor for cement with
+additional major constituents or concrete with mineral additions (fly
+ash, GGBS, lime stone and silica fume). Please note that although car-
+bonation rate typically increases with increasing amount of addition,
+the CO
+2 uptake normally decreases due to a reduced amount of car-
+bonating compounds.
+The CO2 uptake in kg per m2 concrete during t years for any ap-
+plication can according to [17] be calculated as:
+= × × ×CO uptake at a surface (k DOC) ( (t)/1000) U C,2 tcc
+(2)
+where
+CO2 uptake is the total uptake in kg CO2/m2 concrete surface.
+k is the rate of carbonation for the surface in mm/√(t).
+DOCisthedegreeofcarbonationforthesurface,andtisthenumber
+of years.
+Utcc is the maximum theoretical uptake in kg CO2/kg cement. The
+value is ≈ 0.49 for Portland cement (CEM I). See [17] for explanation
+and values for cements with lower clinker content.
+C is cement content in kg cement/m
+3 of concrete.
+For an application, structure or product the total CO2 uptake in kg
+will then be calculated based on the sum of the uptake at all the dif-
+ferent surfaces (i) according to;
+= × × × ×The total CO uptake ( (k DOC A )) ( (t)/1000) U C2 i i i tcc
+(3)
+where Ai is the area of surface i in m2.
+The CO2 uptake per m3 can now be calculated by division with V,
+where V is the total concrete volume (m3 for the application, structure
+or product).
+Cement types other than CEM I, or concrete with additions like slag
+and fly ash, are normally considered to have higher carbonation rates.
+Figures are given in [17]. Compare also the first paragraph under the k-
+factorTable2 above.Moreinformation on carbonationrate for blended
+cements can be found in [18,23]. The CO2 uptake is however in-
+sufficiently known for some other cement types, and the temporary
+solution is to consider uptake only in the clinker reaction products. See
+further discussion inChapter 6. For cements other than CEM I, con-
+sideration of clinker content can be done by multiplying theuptake of a
+CEM I cement with a factor,<1, equal to actual clinker content in %
+divided by 95 (the normal clinker content in % of CEM I).
+For very accurate calculations, following Tier 3 methodology, see
+Chapter 3.6.1, a known CO2 content for different exposures or with a
+general increased value, may also be taken into consideration. In [22],
+one example of a theoretical model that offers a possibility to consider
+actual and different CO2 content in the air is presented. In the Swedish
+study [5] results are presented for a general CO2 content value of
+393ppm(6,0E-04kgCO 2/m3 air).Whenusing[22]theincreaseofCO 2
+uptake is about 10% higher compared to the uptake calculated on
+historical levels of CO
+2 content (≈330ppm).
+3.4. Annual CO2 uptake in a concrete product or structure
+In a specific concrete product, such as roof tiles, or concrete struc-
+tural application, such as apartment buildings, there is a dynamic
+yearly input of new construction as well as an outflow of construction
+that is at the end of its service life. Therefore, a yearly input has to be
+calculated for each year the products and structures are used, as well as
+when they are no longer in use. The annual uptake of CO
+2 may be
+described byEq.(4)from [5] where theannual uptakeΔCO2 in year t is
+equal to the difference between the accumulated uptake at the end of
+year t and (t-1), respectively.
+= =CO CO CO CO2 2 uptake in year t 2uptake, (t) 2uptake, (t 1)
+(4)
+Theyearlyinputscanbecalculatedby formulas(2)and(3) basedon
+either the cement used in the segment or by knowing the actual pro-
+duction facts. The yearly output (structures taken out of service) can be
+modelled either by an estimated service-life or by knowing the actual
+output.
+A detailed description of the calculation steps can be found in [5]
+where an example of a numerical calculation for roof tiles is also given.
+3.5. Annual CO
+2 uptake and CO2 balance in concrete structures – the
+Swedish example
+In order to integrate all existing structures in a region or a country,
+one should have knowledge about the total building stock and pre-
+ferably the historical concrete production. These rather laborious in-
+vestigationshavebeencarriedout intheSwedishstudy[5].Also,in the
+global study [11], a similar procedure is carried out.
+The Swedish study uses data for 100years of cement consumption,
+60years of distribution of that cement to different applications, and
+detailed knowledge of how concrete structures are distributed
+throughout the building sector, to estimate the stock of concrete ap-
+plications. The k-values and the degree of carbonation are very similar
+to the ones in EN 16757 [17]. However, polynomial equations are used
+[22]insteadof k-valuesto calculatethedepth ofcarbonationforindoor
+covered surfaces. The uptake each year is calculated as the difference
+between two consecutive years and is summed up for all 7 of the ap-
+plications/products. Material data for two examples, bridges and re-
+sidentialbuildings,areshownin Table3.Theresultofthecalculationis
+shown inFig. 2.
+The paper reports that for the year 2011, the corresponding CO
+2
+balance was reduced by 17% due to the CO2 uptake.
+3.6. Synthesizing annual CO2 uptake in a society – with an IPCC context
+National greenhouse gas emission and removal inventories are re-
+ported to the UNFCCC yearly, based on IPCC methodologies, as de-
+scribedin Chapter2.1 above.TheIPCChasclassifieditsmethodological
+approaches in three different tiers, according to the quantity of in-
+formation required, and calculation accuracy (IPCC, 2006). Generally,
+the higher tier, the more accurate but complex calculation methods.
+Tier 1 represents a general and simplified approach based on na-
+tionalorinternationalstatisticstogetherwithstandardizedassumptions
+(factors and parameters) from the IPCC. Tier 1 can be used as a starting
+point to make an early emission or removal estimate of the level of
+magnitude.Tier1canalsobeusedwhennationalinformationislacking
+or if a specific source is considered to be of minor importance/magni-
+tude. For more significant sources, Tier 2 or Tier 3 should be used. Tier
+2 generally uses the same methodological approach as Tier 1 but ap-
+plies statistics, factors and parameters which are more detailed and
+specific to the country. Tier 3 generally refers to complex models or
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+4
+monitored data (e.g. emission measurements).
+The IPCC (2006) states that emission and removal inventories
+“should be accurate in the sense that they are neither over- nor
+underestimated as far as can be judged, and precise in the sense that
+uncertainties are reduced as far as practicable”. Progressing from Tier 1
+to Tier 3 generally represents a reduction in the uncertainty of emission
+and removal estimates, though at a cost of an increase in complexity of
+data and analyses. Emissions and removals are reported to the UNFCCC
+together with information on estimated uncertainties, typically pre-
+sented as a 95% confidence interval.
+Seven studies from different countries are compiled in Table 4,
+(extract from [4]) representing Ireland, the Netherlands, Norway,
+Spain, Sweden, Switzerland, and “Global”.
+Based on this, three different methods for calculating the annual
+CO2 uptake in a country is suggested, Tier 1, 2 and 3. In the ongoing
+work, the above proposed calculation methods will be tested and
+evaluated in someselected countries. Based on theresults of these tests,
+a broader international implementation with different calculation
+support is then planned.
+3.6.1. Tier 3
+The methodology and accuracy of the calculations in the Swedish
+paper[5]andtheglobalpaper[11]canserveasamodelforTier3.Tier
+3 is the most advanced and accurate model and these two studies es-
+timate the annual uptake in existing building stock by using extensive
+knowledge of historical cement use and distribution among different
+applications. Main prerequisites and results from [5] are presented
+above inChapter 3.5. For detailed information see [5].
+In order to simplify and at the same time make more accurate cal-
+culations of CO
+2 uptake, more advanced computer models are needed
+that take into account many of the different factors that affect CO2
+uptake. In Tier 3, it is also possible to use complex national calculation
+models requiring collaboration with various cement and concrete re-
+searchers. Such complex computer models should, of course, undergo a
+normal scientific review, which is a common procedure within the
+IPCC.
+3.6.2. Tier 2
+Five other national studies of annual CO2 uptake in existing struc-
+tures are also compiled in [4], seeTable 3. These studies [6–10,12,13]
+are used to develop a Tier 2 method, where the requirement for his-
+torical cement and concrete data is less than for Tier 3.
+The studies are based on a single year, or a few years, of data on
+cement and concrete use. They make use of the assumption that the
+uptake during one year in concrete that was produced during the pre-
+vious (100) years, which is the desired information, can equal the up-
+take in the coming (100) years in concrete produced during the same
+year. This can be characterized as “onward” calculation, which is
+Table 2
+k-factors [mm/year½] for calculation ofdepth ofcarbonation for different concrete strength classes (cylinder) and exposure conditions and degree ofcarbonation for
+different exposure conditions. (For Portland cement).
+Concrete strength ≤ 15MPa 15–20MPa 25–35MPa ≥ 35MPa Degree of carb
+Parameters Value of k-factor, in mm/year0,5 Percentage
+Civil engin. structures
+Exposed to rain 2,7 1,6 1,1 85
+Sheltered from rain 6,6 4,4 2,7 75
+In grounda 1,1 0,8 0,5 85
+Buildings
+Outdoor
+Exposed to rain 5,5 2,7 1,6 1,1 85
+Sheltered from rain 11 6,6 4,4 2,7 75
+Indoor in dry climatec
+With coverb 11,6 6,9 4,6 2,7 40
+Without 16,5 9,9 6,6 3,8 40
+In grounda 1,1 0,8 0,5 85
+a Under groundwater level k=0,2.
+b Paint or wall paper. (Under tiles, parquet and laminate k is considered to be 0.)
+c Indoor in dry climate means that the RH is normally between 45 and 65%.
+Table 3
+Swedish data used for bridge and residential building.
+From [5]a.
+Bridge Residential building
+Unit per bridge per apartment
+m2 MPa m 2 MPa
+Type of application/surfaces
+Indoor
+Without surface cover 93 20–25
+Painted 247 20–25
+With tiles/clinkers 20 20–25
+With plastics/linoleum 0.3 20–25
+With parquet/laminate 68 20–25
+Slab on ground
+With mineral wool 0.1 30–45
+With polystyrene 18 30–45
+Without insulation, coarse
+gravel
+170.8 >45 12 30–45
+With insulation, with sand/
+gravel
+22 30–45
+Outdoors
+Exposed to rain 43.8 >45 38 30–45
+Sheltered from rain 422 >45 8 30–45
+Total area A (m2/unit) 636.6 526.4
+Volume V (m3/unit) 277 67.42
+a For the year 2010.
+Fig. 2.Calculation of a future scenario for CO2 uptake in Sweden. From [5].
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+5
+Table 4
+Short overview of existing models for calculation of CO2 uptake and their background.
+Sweden Norway Netherlands Ireland Switzerland “Global” Spain
+General framework
+Reference of study [5] [6] [7] [8,26] ([9,10] recent information) [11] [12,13]
+Fly ash and slag Not taken into account Taken into account Slag taken into
+account for both
+carbonation depth
+and uptake (0.14kg
+CO
+2/kg slag)
+Not taken into account Not relevant Only clinker content
+accounted
+YES included
+Results
+Calculated as Uptake in existing building
+stock, estimated with the
+previous 100years cement
+consumption
+Uptake in the 2011
+production of
+concrete during
+coming 100years
+Uptake in 2015
+production of
+concrete during
+coming 60years.
+Uptake in one year
+production of concrete
+during coming 100years
+Uptake in one year production of
+concrete during coming 50years
+Uptake in existing
+building stock, estimated
+with the previous years
+(1930–2013) cement
+consumption
+Calculated as % of clinker
+fabrication INCLUDING THE FUEL
+(multiply by 1.7 the results for
+referring to decarbonation only
+Corresponding to 17% of production
+emissions year 2011
+15% of production
+emissions (18%
+including recovery)
+19% of production
+(incl. import)
+emissions (23%
+including end of life
+stage)
+16% of calcination
+emissions, corresponding
+to about 10% of total.
+Declaredtobe10%ofthetotalemissions,
+corresponding to (1/0.63)×10=16%
+of the calcination emissions.
+Uptake 1930–2013
+corresponds to 43% of
+calcination emissions
+2.7% of emitted CO
+2 by
+decarbonation
+Carbonation theory
+Exposure classes 11 6 5 Residential 6, Civil
+engineering 3,
+Commercial 7
+5 Standard: interior, outdoors
+sheltered and non-sheltered from
+rain
+Strength classes 4 4 7 5 3 (?) 4 2 concretes and paste
+Carbonation degree 50–90%, specified for each
+exposure
+70% 40–85%, specified for
+each exposure
+Not specified 75%, changed to 50% in [10] 80% for concrete 91.5%
+for mortar
+Main aim of the study
+Concrete data
+No. of applications
+(type of product)
+7 24 5 3 20 Depending on region,
+most detailed from China
+Concrete elements in general
+End-of-life and secondary use
+End-of-life processes Demolished, crushed,
+stockpiled and reused as
+unbound material
+Demolished,
+crushed, stockpiled
+and reused as
+unbound material
+Demolished, crushed,
+stockpiled, and
+reused.
+Only shortly treated Demolished, crushed, stockpiled, and
+reused.
+Demolished, crushed, and
+secondary use. Only small
+uptake
+No recycling or secondary use
+Comments Uptake during one year
+(2011) in existing buildings
+is calculated from 100years
+cement statistics and
+60years concrete
+application statistics
+Concrete blocks are
+responsible for a
+significant proportion
+(24%) of the CO
+2
+uptake.
+Open texture concrete
+blocks and roof tiles are
+responsible for a
+significant proportion of
+the CO
+2 uptake
+The uptake fig. 16% of the calcination
+emissions should according to the later
+recommendations be reduced by a factor
+1.5, that is to 10.7%. In order to be
+consistent with the methods in the other
+countries a 100years perspective should
+be applied, resulting in
+1.414×10.7=16%
+Uptake during 1930–2013
+as well as present (2013).
+Uptake in mortar is
+significantly contributing
+to the large figures
+The low uptake figure of 2.7% has
+been adjusted by a recent paper:
+Andrade C, “experimental
+Evaluation of the Degree of
+Carbonation in three
+Environments” and in [4] (IVL-re-
+port).The new value being 15%
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+6
+further explained in [4].
+The modelled annual CO2 uptake depends on material and design of
+the existing building structures. Previous work [5], has by way of
+sensitivity studies, showed that the knowledge and quality of data for
+material and applications for recent years is important for this aspect,
+since the uptake is proportional to the square root of time. The recent
+years are especially important for slender and low strength products
+like mortar and masonry, which have high rate of carbonation and
+might be carbonated all through in one or a few years. Since this his-
+torical information normally is not available nationally, IPCC re-
+commends that some type of splicing technique is used to resolve the
+data gap, such as expert estimations [21]. This is mainly relevant when
+eithertheapplicationsolutionsaredrasticallychangedorwhenthereia
+a large change in the amount of concrete use in civil engineering and
+housebuilding or masonry construction occur.
+Another important factor for the results is knowledge of historical
+cement use over a long period. In case this information is not available
+nationally, in line with IPCC recommends, expert estimations can be
+used [21].
+Both Tier 2 and 3 require knowledge of cement consumption sta-
+tistics and concrete production and use, but on a different level. The
+calculation as such is simpler with the Tier 2 methodology.
+A suggested general description of the required steps in Tier 2 is
+presented for the use stage. The calculations are based on actual his-
+toricalcementconsumption,atleast20–30yearsback,andmaybeused
+together with knowledge of one recent year of concrete use. Normally,
+at least 5 applications are needed, corresponding to at least 65% of the
+cement consumption, for instance: bridges, residential buildings, office
+buildings, roof tiles, pavement, shotcrete, sleepers, and mortar.
+Applications outside the chosen ones are treated as the ones most si-
+milar to the defined ones. An example of a typical calculation scheme
+can be as follows:
+➢ Estimate the historical annual cement consumption and estimate
+recent annual concrete production and the distribution among the
+different applications.
+➢ Calculate the CO
+2 uptake for each application during 100years.
+(normally).
+➢ Calculate the sum of the annual CO2 uptake of all concrete appli-
+cations.
+➢ The sum of the cement content in the produced concrete should
+always be checked against the cement consumption.
+The CO2 uptake in kg per m3 concrete for each application during t
+years can be calculated as shown above,Chapter 3.3.
+Recommendation for calculating the CO2 uptake at end-of-life stage
+and in secondary use is given in [4]. The result should be presented as
+annual amount of CO
+2 uptake for a country or region.
+3.6.3. Tier 1
+Tier 1 provides a simplified calculation method for estimating the
+annualuptakeofCO 2 inexistingconcretestructuresonanationalbasis.
+The model should be used primarily in cases where resources are
+missing to perform more accurate calculations according to the calcu-
+lation methods described for Tier 2 and Tier 3, since the uncertainty is
+relatively high. The national annual CO
+2 uptake in concrete in the use
+stage (existing structures) can however be estimated according to this
+methodology. The uptake values are related to the reported calcination
+emissions from the consumed clinker (produced – export + import) in
+the corresponding country.
+The seven studies from different countries are compiled inTable 4.
+The methods are all based on the well-accepted and documented car-
+bonationratemodelofsquarerootoftimedependency.Theinventories
+of existing concrete structures comprise different applications, ex-
+posure,andconcretequality.Theagedistributionofconcreteinplaceis
+estimated by cement consumption statistics over time. This makes it
+possible to calculate a good estimate of the annual CO
+2 uptake in the
+existing structures.
+Theannualuptakefigures,in thesestudies,presentedasCO 2 uptake
+in percent of the corresponding calcination emissions, have been used
+forestablishingthissimplified,generalmethod,Tier1,forestimationof
+the annual uptake in a country.
+To get comparable figures from the studies, some adjustments
+(normalization) have been carried out. The high figure in the Global
+study (43%) is adjusted in [4] due to the very large amount of thin
+mortar applications included in the study. The low Spanish value (3%)
+isalsoadjustedin[4]duetolowchosenvaluesofDOC,theuptakeinall
+interior surfaces and surfaces in contact with other materials, as well as
+buried concrete were assumed to be zero and the specificsurface values
+(m2/m3) for the structures are low.
+Numbers that are given as percentage of total production emissions
+have also been multiplied by 1.6 to get the uptake as percentage of
+calcination emissions.
+After this normalization the series of numbers of the CO2 uptake
+related to the calcination emissions are 16, 25, 24, 27 15, 15 and 19%.
+With the help of these seven studies it has been possible to establish a
+relation (Tier 1) for a country or region between the annual concrete
+CO2 uptake and the annual CO2 emissions at clinker calcination.
+To be in line with the recommendation of the IPCC Guidelines, i.e.
+to not overestimate, nor underestimate in the calculations, the mean
+value should be chosen, and uncertainties presented as 95% confidence
+interval [21].
+The population of all countries' annual figures of CO2 uptake in
+cement products, related to the calcination emissions, could be con-
+sidered normally distributed. A simple statistical analysis of the results
+based on the seven studies, assuming normal distribution, ends up with
+a mean value of 20% of the reported emission from calcination of
+consumed cement clinker and a standard deviation of 5.1%. The mean
+value could then be presented as 0.20 ± 0.038 or 0.20 ± 19%.
+However, even if the seven studies are independent of each other, they
+cannot be considered as randomly selected or a statistically re-
+presentative sample of an average country's annual concrete CO
+2 up-
+take. The true mean value could thus deviate from 0.20 and the 95%
+confidence interval is thus likely higher than±19%. The area of un-
+certaintiesthusneedsfurtherinvestigationandresearch.Thecalculated
+CO2 uptake in the use stage is given below.
+The annual uptake in the use stage can accordingly be estimated as
+0.20×(the reported emission from calcination of consumed cement
+clinker).
+If the mortar for rendering applications, in total, amounts to>10%
+but<30% of the cement consumption, the annual uptake factor in the
+use stage can be estimated at
+0.20+0.0115(MR - 10), where MR is the mortar percentage for
+rendering.
+For countries with recent highly increased use of concrete we sug-
+gest that, just as for Tier 2, a correction could be made. This mean that
+instead of the actual cement use a specific year, the mean cement used
+20years backwards could be used. This correction should be validated
+before final decision.
+3.6.4. End-of-life stage and secondary use
+In addition to the CO2 uptake over the use stage of structures, there
+is uptake in the end-of-life stage and the secondary use, normally as
+crushed material. Detailed information on the amount of this material
+and its uptake is rare, so it is currently difficult to give a reliable esti-
+mate. The percentage of concrete recycling, given in some countries is
+unfortunatelynotsufficient, sinceitismainlytheage atdemolition,the
+processing of the demolished material and the applications for the
+crushed concrete that determines the actual uptake.
+The end-of-life stage (demolishing, crushing and storage) normally
+includes storage in large unsheltered piles, during a rather short period
+of time. Moreover,the recyclingrate (the annual amount of demolished
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+7
+and crushed concrete in relation to the annual production) is normally
+low in most countries. The volumes can however be anticipated to in-
+creaseinthefuture,sincemoreconcretestructureswillreachtheendof
+their service lives. It is therefore important to base the uptake calcu-
+lations on the real amounts of concrete in end-of-life handling.
+For Tier 1, the following is proposed in [4]:
+Annual uptake in the end-of-life stage (2%) and secondary use (1%)
+can be estimated at (0.02+0.01)×(the reported emission from cal-
+cination of consumed cement clinker). Alternatively, the following es-
+timation can be done in the end-of-life stage and the secondary use.
+➢ If the annual amount of concrete being taken out of service and
+processed on a recycling plant is known, the CO
+2 uptake in the end-
+of-life stage can be calculated as 10kg CO2/m3 concrete.
+➢ If the annual amount of crushed concrete, entering the secondary
+use as unbound material, is known, the uptake can be calculated to
+10kg CO
+2/m3 concrete.
+For Tier 2 the following is proposed in [4]:
+For normal handling procedure or recycling rate<5%:
+Same as for Tier 1.
+For improved handling procedure:
+A preliminary suggestion is that the uptake could be set to 20kg
+CO2/m3 of concrete if an enhanced procedure with air access in the
+fractions and at least 4months' storage in at least three fractions is
+applied. In this case, the amount of concrete needs to be known.
+Today,mostusedconcreteendsupincrushedformtoberecycledas
+new products i.e. in secondary use. It is therefore important to base the
+uptake calculations on the real amounts of concrete in secondary use.
+The CO2 uptake in secondary use is quite similar to the uptake in pri-
+mary use, so similar calculation methods could be used. However, even
+more factors are unknown for secondary use, so it can be difficult to
+create general but accurate methods. The more exact methods are often
+quite specific and depend on the type of secondary use (country spe-
+cific) and may be treated under Tier 3. In Tier 1 a more general, con-
+servative method is proposed.
+Under favourable conditions, the total uptake (primary use+end-
+of-life+secondary use) can amount to about 75% [18,23] of the
+maximum theoretical potential (equal to the calcination emission),
+corresponding to about 110kg CO
+2/m3 for an average concrete. Fa-
+vourable conditions in the end-of-life stage comprise for instance
+sheltered storage of crushed graded material. See alsoChapter 4.2.
+3.7. Uncertainties
+In the IPCC context, uncertainties in various components of a na-
+tional emissions inventory are used to describe the precision of annual
+emissions at national level, but also to guide decisions on which tier
+level to use for specific sources of emissions and sinks [21]. It is
+therefore important to use pragmatic approaches whendetermining the
+uncertainty values. In many cases, statistical random samples are not
+available, and uncertainties may thus often be a combination of mea-
+sured data, published information, model outputs, and expert judge-
+ment [21].
+As mentioned above, using higher tier methods should typically
+reduce uncertainties in estimates, as they should reduce bias and better
+represent the complexity of a system.
+Model input data, which consists of cement production and cement
+use in various products, as well as cement types and concrete qualities,
+has both high availability and good reliability in most countries, see
+[5]. A dynamic flow macro-model [24] is used to describe the accu-
+mulation of used cement in the products and structures. The model has
+been designed to be robust to historical variations. The quality of the
+results is fully influenced by the quality of the input data and its sta-
+tistical distribution for the most recent year.
+A reference for the uncertainties can be the timber industry inclu-
+sion of temporally bound CO
+2 in carbon stocks as harvested wood
+products (HWP) [25]. This is accepted to be done with simple as-
+sumptions, for example wood panel and round-wood used in con-
+structioninSwedenissaidtoonanaveragehaveaservicelifeof25and
+35years respectively.
+4. Quantitative knowledge of CO
+2 uptake brings new
+opportunities to apply sustainability concepts
+Thispapershowsthatwenowhavepossibilitiestobothquantifythe
+CO2 uptake in concrete products and structures during their lifetimes
+(ref[17],EN16757:2017),butalsotoquantifytheannualuptakeinthe
+existing building stock in a country or region (ref [4], IVL-report B
+2309, 2018).
+These new calculation methods present a reasonable CO2 balance,
+based on scientific methods, for concrete, including the uptake of CO2.
+This knowledge of carbonation can also provide us with new tools to
+further reduce the climate impact of concrete products and structures,
+by choosing solutions that increase the CO
+2 uptake, where it can be
+made without any harm to concrete durability. Some examples of this
+are discussed below.
+AlifecycleapproachisessentialwhencalculatingtheCO
+2 impactof
+concrete, i.e. to estimate the CO2 uptake in concrete from cradle to
+grave. Further information on how to do this for the production stage,
+use stage, and end-of-life stage, can be found in the Technical Report
+FprCEN/TR 17310:2018 [18].
+4.1. Increased CO
+2 uptake in the use stage
+The effect of cement content, cement type and additions, as well as
+structural design, on CO2 emissions is familiar knowledge, which is
+frequently used for designing concrete with low CO2 impact in the
+production stage. The CO2 uptake conditions for different concretes are
+now also to be considered. It involves both the rate of carbonation and
+degreeofcarbonationinthecarbonatedzoneoftheconcreteproductor
+structure.
+Limiting the delivered concrete to the design strength (not too high)
+and allowing using a later age than 28days for fulfilling the require-
+ment on concrete strength (enabling lower W/C-ratio), will normally
+give a faster CO2 uptake.
+The CO2 uptake is well known from the perspective of protecting
+reinforcement bars for reinforced concrete and indirect result is that it
+is well known that unprotected concrete products (that are not re-in-
+forced) can be allowed to carbonate relatively quickly.
+Paint, wallpaper and other coatings decrease the carbonation rate
+and thus the CO2 uptake. The report [22] is presenting a method for
+usingdiffusion resistancefor thecoatingsfor calculationof CO2 uptake.
+More differentiated calculation possibilities give the opportunity to use
+suitable covers for enhanced carbonation, when accepted for corrosion
+reasons.
+Apart from slag and fly ash there is a growing interest in calcined
+clay and other fillers [36].
+Claysuitableforthermalprocessingisavailableinmanypartsofthe
+world. Data on CO2 uptake in binders with calcined clay has not been
+found. Limestone fillers are shown to increase carbonation rate, while
+also contributing to strength, especially with aluminous compounds in
+the cement.
+References of industrial accelerated carbonation of concrete made
+with existing cement for high early strength are presented in [27–30].
+New cements are under development to reduce CO
+2-emissions during
+production [2]. As an example,Carbonatablecalciumsilicatecement and
+Magnesium cementharden by carbonation and have accordingly a large
+uptake potential. For the former product CO2 uptake during curing is
+estimated to be 300kg CO2 per tonne of cement [30], corresponding to
+about 75–120kg CO2/m3 of concrete. The products are reported to
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+8
+require CO2 to penetrate the structure at hardening, meaning either
+thin structures or curing chambers with supply of concentrated CO2
+4.2. IncreasedCO2 uptakeinend-of-lifestages–demolishing,crushing,and
+storage
+This is by far the most discussed potential possibility to increase the
+CO2 uptake in the concrete life cycle. The reason is mainly that de-
+molishing and crushing substantially increase the specific surface (m2/
+m3) of the concrete. Uptake possibilities are discussed in the following
+reports [4,5] and [31–34].
+It is estimated and established in laboratory tests [32] that the total
+potential uptake is in the order of 75% of the calcination emissions,
+corresponding to about 110kg CO2/m3 for an average concrete. The
+value 75% is a general long time figure for DOC of carbonated concrete
+(mean practical maximum uptake) The present normal handling pro-
+cedures of demolished and crushed concrete render the practically
+achieved uptake to be much lower [4].
+Some parts of the hardened cement paste will separate during the
+crushing process as very fine particles. These very fine particles will
+rapidly carbonate, possibly in days but up to a few weeks, [37]. The
+amount of these very fine particles depends on crushing and sieving
+equipment and process, and has not yet been accurately estimated.
+Report [4] is presenting a case with slightly>20% of the cement paste
+is in this very fine fraction.
+The crushed and carbonated material is suitable for replacing virgin
+rock material, in for instance new concrete or as road bases or ground
+filling(in-fill).Enhancedindustrialcarbonationofcrushedconcreteand
+the use of the carbonated material is studied in the French project
+FastCarb [34].
+The recycling rate (the annual amount of demolished and crushed
+concrete in relation to the annual production) is normally low in most
+countries. The volumes can however be anticipated to increase in the
+future, since more concrete structures will reach the end of service life.
+This emphasizes the importance of finding end-of-life procedures that
+allow for a large uptake.
+5. Conclusions
+Design for corrosion durability of concrete structures presupposes a
+calculation of depth of carbonation, which is made according to long-
+standing, well-documented, tested and evaluated models. The same
+models can be used for calculation of the CO
+2 uptake that occurs. The
+calculation requires however also knowledge of the Degree of
+Carbonation (DOC). (SeeChapter 3.3for definition).
+Earlier published papers and reports have shown that the CO
+2 up-
+take during use stage and end-of-life stage can amount to 10–15% of
+corresponding annual total emissions (fuel + calcination) from pro-
+duction of cement.
+For products and structures, it is accepted in the EPD
+(Environmental Product Declarations) to declare environmental impact
+with consideration of CO2 uptake. Detailed examples are provided in
+EN-standards.
+The European Trading System (ETS) does not currently allow con-
+sideration of CO2 uptake for the cement and concrete industry. This
+could be questionedsinceitis acceptedfor theforestryindustry in their
+corresponding system, EU Effort Sharing Regulation (ESR).
+The paper describes newly developed methods for calculation of
+annual national CO 2 uptake, and discusses their accuracy. This
+knowledge is set in line with the IPCC system view, which generally
+opens up for future inclusion and reporting to UNFCCC. A total CO2
+uptake in the use stage and end-of life stage of 23% of the national
+calcinationemission,ispresented,asavalueforuseinTier1.ForTier2
+and 3 methodologies are recommended for more advanced and accu-
+rate calculations.
+The knowledge of CO
+2 uptake and the availability of an accounting
+tool makes it possible to have concrete recognized as a CO2 sink which
+more accurately represents the life cycle perspective. At the same time
+the knowledge makes it possible to use uptake as a new tool to reduce
+climate impact from concrete in a life cycle perspective. Examples are
+given inChapter 4.
+6. Suggestion for further research
+This paper presents three levels of methods for calculating annual
+CO
+2 uptake in cement products. This is the first step towards including
+such estimations in the international reporting to the UNFCCC. Due to
+the lack of representative data on a global scale, we have not been able
+to quantify the uncertainties of the methods. This is an area where
+further research should be accomplished.
+To develop and increase the CO2 uptake in built concrete structures
+andinreuseofcrushedconcreteisanewincrementalwaytoreducethe
+CO2 level in the air. Initially, there is a need to further determine me-
+chanisms, suitable test methods and amount of CO2 uptake in blended
+cements or concrete with additions in different exposures, as well as
+different handling procedures for demolished and crushed concrete in
+order to increase CO2 uptake during end-of-life stage.
+Development of deepened knowledge and use of early reactions in
+calcium silicate phases, in existing cements, by added CO2 gas is also
+interesting. At the same time, further research and focus on CO2 uptake
+of new cements, not based on calcium carbonate as raw material, is
+needed.
+Development of concrete use for instance indoor concrete structures
+with fast CO2 uptake and rendered hollow blocks with quick carbona-
+tion should be researched. Also surface coatings (such as renderings,
+paint, and wallpaper) for indoor use with low CO
+2 diffusion resistance
+should be developed. Studies of indoor CO2 uptake as a function of
+average RH should be conducted.
+Increased empirical knowledge of k-factors and DOC for different
+concrete recipes and exposures should be provided.
+Acknowledgements
+The authors wouldlike to express their sincere gratitude towards all
+referral respondents and towards (i) IVL Swedish Environmental
+Research Institute research foundation and (ii) Cementa AB/Heidelberg
+Cement Group for their financial support in equal shares. The research
+work has been conducted during the period 2011–2019. We give our
+acknowledgements to Katja Fridh and Martin Häglund, both co-authors
+of one of the studies and from Lund University. We also want to thank
+Carmen Andrade, Linus Malmgren, and individuals from Portland
+CementAssociation,CEMBUREAUandtheGlobalCementandConcrete
+Association (which has taken over the work of the ConcreteSustainable
+Initiative)fortheiractiveparticipationinsynthesizingtheinternational
+published results and their valuable comments on the studies.
+Supplementary information
+As we hope is clear for the reader, we do not intend to present any
+final model but instead hope to give the reader an insight in the need to
+clearly and scientifically define also the environmental aspects when
+carrying out research in this complex subject. By this we have not fo-
+cused on the large existing and reported material and structural
+knowledge about carbonation. Instead we strive to present the existing
+knowledge in line of the IPCC, which require complementary in-
+formation rather than existing material data from carbonation. With
+our paper we hope further research will improve the other inputs
+needed to improve the climate models.
+In many studies and peer-reviewed articles, environmental impacts
+are emphasized as important driving forces. However, it is common for
+these impacts not to be quantified instead considered more qualita-
+tively. This can often be a weakness in assessments and comparisons of
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+9
+impact. Our paper deal with the impact on the climate in line with the
+IPCC system, which is important to know about and rely to for all sci-
+entists,justaswithinEuropethecomplementarysystemsEPD,ETSand
+ESR.
+In our paper we have specifically included information about how
+uncertainties are treated scientifically by IPCC.
+References
+[1] GNR – Global Database on CO2 and Energy Information,https://www.
+wbcsdcement.org/GNR-2016, (2016).
+[2] A. Favier, et al., A Sustainable Future for the European Cement and Concrete
+Industry, ETH Zürich, 2018.
+[3] CEMBUREAU, Building Carbon Neutrality in Europe,www.cembureau.eu.
+[4] H. Stripple, et al., CO2 Uptake in Cement-Containing Products. Background and
+Calculation Models for IPCC Implementation, IVL Report no 2309, (October 2018).
+[5] R. Andersson, et al., Calculating CO2 uptake for existing concrete structures during
+and after service life, Environ. Sci. Technol. 47 (20) (2013) 11625–11633 (in-
+cluding supplementary information).
+[6] C.J. Engelsen, H. Justnes, CO2 Binding by Concrete, Report no. SBF2014A0019
+SINTEF Building and Infrastructure, 2014.
+[7] E. Vermulen,Balans tussen emissive en opname CO2, Betoniek Vakblad, vol. 3,
+(2017).
+[8] D. Fitzpatrick, et al., Sequestration of carbon dioxide by concrete infrastructure: a
+preliminary investigation in Ireland, J. Sustain. Archit. Civ. Eng. 1 (10) (2015)
+66–77.
+[9] P.V. Nygaard, A. Leemann, Carbon Dioxide Uptake of Reinforced Concrete
+Structures Due to Carbonation, EMPA, 2012 (Cemsuisse Project 201106).
+[10] A. Leemann, et al., Calculation of CO2 Binding during Service Life of Concrete,
+Cemsuisse, 2018.
+[11] Fengming Xi, et al., Substantial global carbon uptake by cement carbonation, Nat.
+Geosci. 9 (2016) 880–883.
+[12] I. Galan, et al., Summary of the Study of the CO
+2 Sink Effect of Cement Based
+Materials, Spain, (2009).
+[13] I.Galan,etal.,SequestrationofCO 2 byconcretecarbonation,Environ.Sci.Technol.
+44 (8) (2010) 3181–3186.
+[14] Swedish Governmental Prop, vol. 146, (2016/17).
+[15] EN 15804, Sustainability of Construction Works. Environmental Product
+Declarations. CoreRules fortheProduct CategoryofConstruction Products,(2012).
+[16] ISO 21930:2017 sustainability in buildings and civil engineering works - Core rules
+for environmental product declarations of construction products and services.
+[17] EN 16757, Sustainability of Construction Works – Environmental Product
+Declarations – Product Category Rules for Concrete and Concrete Elements, (2017).
+[18] Technical Report FprCEN/TR 17310, Carbonation and CO
+2 Uptake in Concrete,
+(2018).
+[19] D. Penaloza, The Role of Biobased Building Materials in the Climate Impacts of
+Construction:EffectsofIncreasedUseofBiobasedMaterialsintheSwedishBuilding
+Sector, KTH Royal Institute of Technology, Sweden, 2017 (Doctorate thesis).
+[20] T. Helin, et al., Approaches for inclusion of forest carbon cycle in life cycle as-
+sessment - a review, GCB Bioenergy 5 (2013) 475–486,https://doi.org/10.1111/
+gcbb.12016.
+[21] 2006 IPCC Guidelines for National Greenhouse gas Inventories.
+[22] Nilsson L.O,A new model for CO2 absorption of concrete structures, Report TVBM-
+3158, Lund University.
+[23] B. Lagerblad, Carbon Dioxide Uptake during Concrete Life Cycle – State of the Art,
+CBI report 2 (2005).
+[24] A. Kapur, et al., Dynamic modelling of in-use cement stocks in the United States, J.
+Ind. Ecol. 12 (2008) 539–556.
+[25] P.-E. Wikberg, Uncertainties associated with estimating the net emissions of carbon
+dioxide from the carbon pool of wood products under the Kyoto protocol and the
+United Nations framework convention on climate change, Work Report 442 2015,
+The Swedish University of Agricultural Science, Department of Forest Resource
+Management, 2015(ISSN 1401–1204).
+[26] A. Bryne, E. Nolan, Preliminary investigation into the rate of carbonation of con-
+crete blocks under normal production yard conditions, Proceedings of Civil
+Engineering Research Association of Ireland, 2016.
+[27] S. Monkman, et al., Properties and durability of concrete produced using CO
+2 as an
+accelerating admixture, Cem. Concr. Compos. 74 (2016) 218–224.
+[28] J. André, Mixing Cement with Carbon Dioxide – Effect on Early Hydration,
+Department of Chemistry and Chemical Engineering, Chalmers University of
+Technology, Göteborg, Sweden, 2017.
+[29] Monkman S, Sustainable Ready Mixed Concrete Production Using Waste CO2: A
+Case Study, (SP-330-14).
+[30] N. DeCristofaro, A. Opfermann, New CO2 Curing Technology for Concrete, CryoGas
+International, May, 2015.
+[31] H. Stripple, Greenhouse Gas Strategies for Cement Containing Products, IVL report
+B2024 (2013).
+[32] C.J. Engelsen, et al., Carbon Dioxide Uptake in Demolished and Crushed Concrete,
+Norwegian Building Research Institute, 2005 Project report 395.
+[33] P. Rogers, et al., High Quality Reclaimed Concrete Aggregates for New Concrete, In
+Swedish SBUF – The Development Fund of the Swedish Construction Industry, ID,
+2016, p. 12771.
+[34] FastCarb project,www.fastcarb.fr.
+[35] Sergi & Dunster,Corrosion of steel in concrete: a review of the effect of humidity,
+BRE vol. DG491, (2004) (8 pages).
+[36] K.L. Scrivener, et al., Eco-efficient cements: potential economically viable solutions
+for a low-CO
+2 cement-based materials industry, Cem. Concr. Res. 114 (2018) 2–26.
+[37] C. Pade, K. Pommer, Guidelines – Uptake of Carbon Dioxide in the Life Cycle
+Inventory of Concrete, Danish Technological Institute, 2005.
+[39] EU ETS Handbook, European Union,https://ec.europa.eu/clima/policies/ets_en ,
+Accessed date: 19 May 2020.
+[40] https://ec.europa.eu/clima/policies/effort/proposal_en , Accessed date: 19 May
+2020.
+[41] C. Pade, M. Guimaraes, The CO2 uptake if concrete in a 100 year perspective, Cem.
+Concr. Res. 37 (2007) 1348–1356.
+R. Andersson, et al. Cement and Concrete Research 124 (2019) 105819
+10

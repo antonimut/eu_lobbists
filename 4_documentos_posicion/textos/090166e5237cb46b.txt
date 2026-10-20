@@ -1,0 +1,348 @@
+Final draft – Cisco response – 13.10.2025 
+1 
+ 
+Call for evidence on Digital Omnibus - Cisco response  
+The Draghi report on the Future of European Competitiveness highlighted the “rising weight 
+of regulation” as a source of challenges for companies operating in the EU. Building on this 
+conclusion, the European Commission has rightly embarked on a regulatory simplification 
+exercise, with several ‘omnibus packages’ on the policymakers’ agenda in 2025.  
+Cisco welcomes the opportunity to comment on the upcoming Digital Package. Amongst 
+other priorities, we understand the focus will be on streamlining regulations about the 
+reuse of public sector data, cybersecurity incident reporting obligations and the optimal 
+application of the AI Act.  
+Next to overregulation, the Draghi report also shed light on many of the challenges Europe 
+is facing: a growing GDP gap, a talent gap, and low innovation capacity. The EU has lagged 
+behind in the adoption of new technologies such as AI and cloud computing, and on the 
+deployment of fiber and gigabit technologies, hampering the opportunities for growth and 
+deepening the digital divide.  
+The Digital Single Market was launched ten years ago and is still far from being complete.  
+We still have fragmented national regulations creating inefficiencies, preventing cross-
+border collaboration and scaling for European companies. With this paper, Cisco wants to 
+propose several areas of regulatory simplification across the EU digital acquis, to remove 
+particularly burdensome regulatory requirements that do not bring obvious benefits in 
+terms of efficiency or security.  
+1. Simplifying cybersecurity incident reporting obligations 
+We have seen the proliferation of inconsistent cybersecurity reporting requirements in 
+recent years, creating unnecessary and duplicative burdens for businesses. The General 
+Data Protection Regulation (GDPR), the revised Network and Information Security Directive 
+(NIS2), the Cyber Resilience Act (CRA) and the Digital Operational Resilience Act (DORA) all 
+require different thresholds, timelines and contents for incident reports. Under NIS2, the 
+27 Member States will have their own reporting process, forms, or portals. This complexity 
+can ultimately cause businesses to move resources away from mitigation, response and 
+recovery from the incident itself to compliance, in turn, weakening the EU’s cyber 
+resilience. We therefore believe the future digital simplification package must streamline 
+cybersecurity reporting requirements in the following areas.  
+• Main establishment  
+Cisco supports greater use of, and consistent criteria for, the main establishment principle 
+for EU cybersecurity and data governance regulations. This would allow companies to 
+Ref. Ares(2025)8688085 - 13/10/2025
+
+Final draft – Cisco response – 13.10.2025 
+2 
+ 
+report to one EU Member State under multiple regulations, such as GDPR, NIS2, DORA, 
+and CRA, thereby streamlining reporting. The NIS2 Directive enables the use of the main 
+establishment for certain services; however, this must be expanded to cover incident 
+reporting in more sectors such as public electronic communications services which are 
+often offered by vendors on a cross-border basis within the EU.    
+• Reporting templates  
+Together with a more consistent use of the main establishment principle, the European 
+Commission should adopt one harmonised template for cybersecurity and data breach 
+notifications across the EU, replacing the various templates that exist today. To simplify 
+incident reporting under NIS2, the EU could consider developing a common EU-wide 
+portal. Such a portal could contain the option of clicking on or checking off the relevant 
+jurisdictions that should each receive the notification. The single EU intake portal could 
+work for NIS2 reporting and other pieces of legislation as well.  
+• Common EU-wide entry point for reporting  
+To ensure harmonisation with the CRA, the NIS2 Directive should prioritise reporting to 
+national CSIRTs over the competent authorities, potentially through a single, secure, EU-
+wide intake portal, which could also serve as an intake portal for reporting obligations 
+across other pieces of legislation. This approach would also improve trust and streamline 
+the overall information-sharing framework.  
+• Alignment on legal terms 
+The NIS2’s use of ‘significant incidents’ differs from the CRA’s definition of ‘severe 
+incident’, creating inconsistencies. While we recognise they cover incidents in different 
+domains (provision of the service versus build environment of the manufacturer), we 
+recommend the CRA should also set geographical limits that focus on impact within the 
+EU, as found in NIS2.      
+Also, all cybersecurity regulations must be aligned on what it means to ‘become aware’ of 
+the incident or vulnerability. We recommend all cybersecurity regulations be aligned with 
+the European Data Protection Board’s (EDPB) guidelines on personal data breach 
+notification and NIS2 Implementing Regulation 2024/269 - which state that entities are 
+considered to be aware of a breach or incident when they have a reasonable degree of 
+certainty that a security incident has occurred.    
+Member States have been transposing some of the NIS2 obligations in different ways, 
+creating inconsistencies. For example, Article 23(1) of EU NIS 2 requires service providers 
+to report significant incidents to customers: “Where appropriate, entities concerned shall 
+Final draft – Cisco response – 13.10.2025 
+3 
+ 
+notify, without undue delay, the recipients of their services of significant incidents that are 
+likely to adversely affect the provision of those services. ”   
+However, the draft Dutch implementation of the law contains very similar language, but 
+replaces “likely to” with “may” as follows: “Where appropriate, the essential entity or 
+important entity shall without undue delay notify recipients of its services of significant 
+incidents that may adversely affect the provision of those services” . The use of “may” 
+would broaden the scope of reportable incidents and adds uncertainty in how to make 
+such a determination and would create significant divergence of incident reporting 
+requirements among companies that offer services across multiple EU jurisdictions.  
+The NIS2 Directive (Article 23(2)) also requires essential and important entities to report 
+“significant cyber threats” only to recipients of services. Reporting threats to competent 
+authorities or CSIRTs is purely voluntary. However, Member States have been transposing 
+these provisions in an inconsistent manner. Hungary and Slovakia both require essential 
+and important entities to report significant cyber threats to national authorities, and 
+moreover, define “significant cyber threats” differently. 
+To address these inconsistencies in legal interpretation and terminology between Member 
+States’ transpositions of NIS2, the European Commission could provide legal guidance to 
+ensure greater harmonisation and a common interpretation of NIS2 obligations.   
+2. Simplifying compliance with NIS2 security requirements and audits 
+With regards to NIS2, Cisco is concerned by the divergent security requirements and 
+related security audits that entities need to follow in each jurisdiction. These are very time-
+consuming and costly requirements, with no obvious cybersecurity benefit. Even with the 
+main establishment principle, the NIS2 Directive illustrates how inconsistencies among 
+Member States balloon to potentially prohibitive costs.   
+For example, companies offering public electronic communications services (PECS) 
+throughout the EU are subject to 27 separate laws purportedly covering the same topic but 
+with inconsistent results.   
+NIS2 results in a patchwork of security measures, with some Member States going above 
+and beyond what is required under Article 21 of the Directive. Belgium added coordinated 
+vulnerability disclosure policy; Slovakia added malicious code protection; Malta added 
+logging and traceability of network and information systems; Hungary has security 
+standards that map roughly to NIST 800-53, which are much more stringent than NIS2’s 
+minimum security measures.  
+In many cases, while each country requests its own audit, this audit would take place 
+against the same set of central processes within a company, as systems are centralised for 
+Final draft – Cisco response – 13.10.2025 
+4 
+ 
+the EU (the same processes audited 27 different times). Member States should consider 
+mutual recognition of audits to avoid undue bureaucracy, multiplication of efforts and high 
+fees.  
+In Hungary, for example, companies will have to carry out periodic audits by one of four 
+third-party auditors approved by the Hungarian government to Hungarian standards, which 
+will be shared with the Hungarian government. In Belgium, companies will have to carry out 
+a different audit to Belgian government-approved standards (either Belgium’s CyFun 
+standard or ISO 27001) on a periodic basis.  
+Cisco recommends that the European Commission and ENISA work with EU Member 
+States to develop a mutual recognition policy and accept audits that are conducted in 
+other Member States in accordance with that country’s EU NIS2 transposition law, accept 
+a pan-European audit and certification as presumption of conformity on a national level, 
+and recognise audits conducted in third countries subject to mutual recognition of 
+conformity assessment.   
+Cisco welcomes the inclusion of a Mutual Recognition Agreement on Cybersecurity in the 
+recent EU-US Joint Statement. It should aim to deliver outcomes in two areas: first, to ease 
+compliance with EU cyber regulations, the EU should allow companies to do their 
+conformity assessments in the United States. Second, parties should work towards 
+mutually recognisable cyber regulations and certifications. 
+Finally, Article 32(2) of NIS2 directs Member States to ensure that competent authorities, 
+when exercising their supervisory tasks in relation to essential entities, have the power to 
+subject those entities to a variety of inspections and audits, including targeted security 
+audits carried out by an independent body or competent authority. Cisco recommends that 
+principles of mutual recognition and acceptance of audits also apply to such targeted 
+audits as well to avoid having multiple duplicative audits of the same service provided 
+across borders (e.g., public electronic communication services). 
+3. Cyber Resilience Act 
+Even if the Cyber Resilience Act does not seem to be part of what the Commission would 
+like to address in the Digital Omnibus, we would like to make a few comments about the 
+implementation of the CRA.  
+• Timing of implementing guidance  
+The CRA contains a complex set of product security and resilience requirements that 
+hardware and software vendors will need to implement into their product development 
+lifecycles once those requirements are finalised. These lifecycles often take multiple years 
+from the time of a product is initially designed until it is fully developed for release on that 
+Final draft – Cisco response – 13.10.2025 
+5 
+ 
+the market.  Thus, time is truly of the essence for vendors to receive definitive guidance on 
+topics that are key to interpretating CRA requirements, as noted in more detail below.  
+While the final overall implementation deadline for performing conformity assessments is 
+11 December 2027, many of the most crucial requirements are not yet fully defined 
+pending further interpretative guidance from the Commission. The timing of release of 
+some of the key implementing guidance greatly needed by industry is within the EU 
+Commission’s control, including the guidance referenced in CRA’s Article 26 concerning 1) 
+the overall scope of CRA, 2)  the application of support periods to various categories of 
+products with digital elements, and 3) the concept of substantial modification. We strongly 
+urge the Commission to publish drafts of the guidance for industry consultation and 
+finalise such guidance as soon as possible in order to give vendors sufficient time to 
+incorporate the guidance given the long lead times needed to incorporate requirements 
+into the development of their products.  
+• Compliance deadlines 
+CRA horizontal standards are currently being developed. Horizontal standards for Annex I 
+part I are due for publication in Q1 2027, less than 12 months before the compliance 
+deadline in December 2027. Standards for Annex I part II (vulnerability management) are 
+currently scheduled for finalisation in October 2026, after the compliance deadline for 
+incident and vulnerability reporting (September 2026). This timing is challenging for 
+companies as they prepare for compliance.  
+If the CRA harmonised standards are not ready in time, the European Commission should 
+make it possible to postpone the application of CRA essential requirements. To give 
+sufficient time to product manufacturers, the application date should be pushed back until 
+12 months after relevant harmonised standards for Annex I are published. 
+4. Simplifying data legislation  
+The European Commission should use the upcoming Digital Omnibus to streamline 
+existing rules on data. The Digital Omnibus should not only focus on the Data Governance 
+Act and the Open Data Directive (as highlighted in the call for evidence) but also on the 
+Data Act and the GDPR.  Merging the Open Data Directive and the Data Governance Act to 
+streamline rules on the re-use of public data would have limited value to businesses 
+operating in the EU.  
+On the other hand, targeted simplification of the GDPR and the Data Act would have the 
+potential to boost data innovation in the EU. For a thriving AI ecosystem in Europe, the 
+Final draft – Cisco response – 13.10.2025 
+6 
+ 
+GDPR and data regulations must be “fine-tuned” to fit new technology and purposes, while 
+still protecting fundamental human rights and security.  
+4.1. Targeted simplification of the Data Act is needed 
+We understand that the European Commission thinks it is too early to review the Data Act 
+and that a revision could only take place as part of the Digital Fitness Check or even later as 
+part of the review process in 2028.  
+We would however like to point to some issues to be resolved: 
+• Data Act: Trade secrets  
+The Data Act introduces provisions on compulsory sharing of trade secrets (Article 4) if all 
+necessary technical or organisational measures have been taken prior to the disclosure to 
+preserve their confidentiality. If the trade secret owner can demonstrate that it will suffer 
+serious economic damage, it can refuse to provide access to the data, but the data 
+user/requestor can challenge the decision.   
+Compulsory sharing of trade secrets should be removed from the Data Act. The value of a 
+trade secret is precisely because it’s a secret.  Disclosure, even with promises of 
+confidentiality by the recipient, eviscerates the value of trade secrets. The value of a trade 
+secret is often intangible and not easily measured or quantified. By placing a minimum bar 
+of proving damages before trade secrets owners can exercise all of their protective rights, 
+the protections are undermined. No other IP right places such a minimum bar to 
+enforcement. It is imperative in a trade secret regime that trade secret owners have the 
+final say as to whether or not to share information because sharing always bears a risk, and 
+the trade secret owner cannot be made completely whole when a trade secret is 
+misappropriated or copied by competitors.  
+• Data Act/ Data Governance Act: International Data Transfers 
+The Data Act and the Data Governance Act introduce new requirements for transfers of 
+non-personal data that apply over and above the GDPR's framework for personal data 
+transfers. This is particularly challenging for companies handling mixed data sets, creates 
+impediments to companies’ ability to transfer non-personal data like those that the GDPR 
+imposes on personal data and creates administrative burdens that are not commensurate 
+to the risks presented.  
+For this reason, Chapter VII of the Data Governance Act on International Access and 
+Transfer, Article 28 and Chapter VII of the Data Act should be withdrawn to avoid these 
+overlaps and unnecessary complexity.    
+Final draft – Cisco response – 13.10.2025 
+7 
+ 
+4.2. GDPR simplification 
+GDPR simplification should be part of the Digital Omnibus. Three issues should receive 
+particular attention:   
+• GDPR: Processing of pseudonymised personal data should be enabled.  
+While GDPR purports to be risk-based, enforcement and regulatory interpretation has 
+focused on what the data is, rather than the context and purpose for which it is used.  In 
+order to streamline its impact, attention should be paid to the sprawling concept of 
+personal data. To incentivise companies to adopt technical and organisational data 
+protection controls, companies should be given additional latitude to process 
+pseudonymous data with controls to prevent unauthorised re-identification.  
+Recital 26 of the GDPR should make clear that, if a natural person is no longer identifiable, 
+pseudonymised data shall be considered to be non-personal data and processed 
+accordingly.  
+• GDPR prevents legitimate (and necessary) personal data processing for AI 
+training.  
+As already mentioned above, a key concern in the current regime is the legal grounds for 
+repurposing personal data for further use.  When such further use is envisaged, data 
+controllers are required to either justify it via a compatibility assessment, or revert to 
+obtaining data subject consent, which is impractical.  We recommend that the full range of 
+legal grounds for processing personal data under Article 6(1) should remain available.  
+Companies should be allowed to demonstrate that the balancing of legitimate interest 
+(with appropriate controls) versus privacy intrusion weighs in favour of allowing the use of 
+personal data for AI training.  
+• Adopt a new approach to International Data Transfers under GDPR. 
+The essential equivalence standard by which third country data protection laws and 
+practices are assessed in order to establish adequacy of protection of transferred personal 
+data is a hindrance to trade, creates legal uncertainty, and a disproportionate operational 
+burden for companies, while failing to significantly contribute to the data protection 
+posture.  In practice, only a handful of countries have been able to qualify for an ‘adequacy 
+decision’ that requires an almost identical legal regime to be established in the third 
+country.  Outside these limited decisions, companies are not able to rely on their own 
+guarantees for protecting data but must self-assess and be accountable for the 
+commercial, national security, and law enforcement regimes in the third country, over 
+which they have no agency.  
+Final draft – Cisco response – 13.10.2025 
+8 
+ 
+Beyond the EU legal framework, this is also creating issues in third countries which use 
+GDPR as a blueprint and adopt similar transfer regimes without the equivalent privacy 
+culture or institutions to enable and enforce it. If GDPR-like adequacy requirements are 
+imposed on the EU Member States – legal framework, safeguards against commercial and 
+government intrusion, independent oversight, and individual rights – each Member State 
+would have to demonstrate compliance to foreign regimes via a multi-year, political 
+process that gets periodically reassessed before the EU can receive data.  The adequacy 
+regime offers only limited legal certainty for on-going data transfers. 
+Our recommendation is to foster a multilateral approach to recognising personal data 
+transfers by way of reference to an international, principle-based standard (e.g., the OECD 
+Privacy Guidelines and Global Cross Border Privacy Rules) recognised by a treaty or other 
+more durable international instrument. This would ensure a core baseline of protection 
+and legal certainty while introducing a degree of flexibility that allows for mutual 
+recognition of data privacy regimes around the world.  The current framework of unilateral, 
+rigid and prescriptive assessments of each jurisdiction is untenable at scale. 
+5. The ePrivacy Directive (and corresponding Member State legislation) is 
+obsolete 
+As the challenging legislative process and withdrawal of the ePrivacy Regulation 
+demonstrates, applying a specific data privacy regime to the electronic communications 
+sector is not straight forward.  The withdrawal of the ePrivacy Regulation means that the 
+current ePrivacy Directive continues to be the legal instrument in this field. First adopted in 
+2002, many of the provisions are obsolete, such as billing, caller ID, call forwarding and 
+subscriber directory.  We contend that it is no longer fit for purpose and creates an unlevel 
+playing field without adding any clear value. The consent banners we see on every EU 
+website are distracting and useless – putting the onus on the data subject to understand 
+and agree to the use of cookies, for example. Instead, companies should be held 
+accountable for privacy-respectful and legitimate use of cookies without the use of 
+consent banners that are rarely read and have caused notification fatigue.  
+As such, the ePrivacy Directive should be removed from the acquis and national 
+transpositions deleted. Created prior to the establishment of GDPR, which applies in any 
+case to personal data processed in this sector, it includes provisions on security and 
+confidentiality that are already well established in the more recent law.  In addition, it 
+creates a convoluted and restricted set of grounds for processing communications, traffic, 
+location data, and accessing terminal equipment, that would be better served by the 
+general grounds for processing data in Article 6 of GDPR. 
+6. AI Act 
+Final draft – Cisco response – 13.10.2025 
+9 
+ 
+Cisco has been an active stakeholder in the process that led to the approval of the AI Act. 
+As the first comprehensive legislative framework for AI, the Act stands for a complex 
+structure encompassing compliance obligations for all actors along the AI value chain. As 
+the EU AI Office guides its implementation, we believe that the role of stakeholders 
+developing and deploying AI should continue to be central. Moreover, the implementation 
+process should maintain as a central focus the objectives set out in the Draghi Report and 
+in the ambitious announcements made on AI by President Von der Leyen: support 
+investments and simplify to strengthen European competitiveness.  
+• AI Act Implementation  
+The EU AI Office’s role in implementing the AI Act should be clearly affirmed by the 
+leadership of the European Commission. As the AI Act delegates significant portions of the 
+regulation to secondary legislation, it is of fundamental importance to ensure that these 
+rules are coherent, cohesive and in line with the text of the Act. Businesses would be hit 
+with significant uncertainty, should the AI Office not be empowered to centralise this 
+rukemaking process. A specific challenge in this space would be for other DGs to publish 
+rules executing the mandate of the AI Act, without the necessary competences and 
+understanding of the AI Act that the AI Office is instead building.   
+• Stakeholder involvement  
+The AI Office should also ensure that future consultations on the implementation of the 
+Act, are published in a timely manner, and allow for enough time for stakeholders to 
+prepare their responses. Given the clear timeline for the implementation of the Act, Cisco 
+recommends that the future consultations are launched as soon as possible, to avoid any 
+future issues in stakeholder representation.  
+Furthermore, given the importance and sensitivity of these guidelines, we encourage the AI 
+Office to carry out consultations on draft guidelines as early as possible, to better reflect 
+the state of the art of AI development and deployment, and empower companies with 
+information that can support their compliance journey. 
+• Supporting compliance with the Act 
+The obligations applying to High-Risk AI (HRAI) will heavily rely on standards to show 
+compliance. The AI Office launched a verification exercise to estimate whether the 
+standards drafting was in line with the timeline of the AI Act over the Summer. Following 
+this exercise, the European Commission is currently reflecting on whether a grace period 
+for compliance with HRAI requirements would be warranted. Given the current delay in 
+finalising standards, paired with the necessity to produce and evaluate the HRAI 
+Final draft – Cisco response – 13.10.2025 
+10 
+ 
+Guidelines, Cisco would recommend that the Commission includes a grace period for 
+HRAI obligations in the upcoming Digital Omnibus. 
+The delayed application of HRAI obligations would ensure that companies are better 
+prepared to comply with the AI Act, have had enough time to reflect the issued standards in 
+their internal processes, and strengthen the Commission’s objective of creating a 
+European AI Continent. 
+ 
+ 

@@ -1,0 +1,579 @@
+ 
+The Alcatel-Lucent name and logo are trademarks of Nokia used under license by ALE. 
+ 
+Les nom et logo Alcatel-Lucent sont des marques propriété de Nokia utilisées sous licence par ALE. 
+ 
+ALE International | 32 avenue Kléber | 92 700 Colombes, France 
+S.A.S. au capital de 1 521 194,30 Euros | R.C.S. Nanterre 602 033 185 
+ 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+ 
+1 | 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 3rd, 2023 
+ 
+Feedback on the Commission’s new European Cyber Resilience Act (CRA) 
+ 
+ 
+  
+Ref. Ares(2023)460467 - 20/01/2023
+ 
+ 
+   
+2 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+I/ Introduction  
+ 
+Alcatel-Lucent Enterprise’s  (“ALE”) vision is to deliver the customized technology 
+experiences our customers need. Our mission is to make everything connect by delivering 
+digital age networking, communications and cloud solutions with services tailored for your 
+business success. In the Cloud, On Premises, Hybrid. 
+ 
+ALE is committed to developing technology solutions that work for our customers, 
+connecting people, machine, things and processes, while creating a more sustainable future 
+for all. Alcatel -Lucent Enterprise takes pride in its commitment to compliance and 
+consistent operations within the principles of the law, as well as adhering to the strictest 
+standards for global environmental protection. 
+ 
+Therefore, we support the legitimate goal of strengthening the cybersecurity of digital 
+products and recognize the increased threat to security and privacy caused by the growing 
+number of such products.  
+ 
+Nevertheless, the provisions detailed below remain unclear and we do call for  some 
+explanations to make sure we are compliant with the Regulation.  
+ 
+II/ Question n°1: 24-hour clock of Article 11   
+ 
+As a reminder, according to Article 11 “Reporting obligations of manufacturers":  
+ 
+“The manufacturer shall, without undue delay and in any event within 24 hours of 
+becoming aware of it, notify to ENISA any actively exploited vulnerability contained in the 
+product with digital elements. The notification shall include details concerning that 
+vulnerability and, where applicable, any corrective or mitigating measures taken. 
+ENISA shall, without undue delay, unless for justified cybersecurity risk-related grounds, 
+forward the notification to the CSIRT designated for the purposes of coordinated 
+vulnerability disclosure in accordance with Article [Article X] of Directive [Directive 
+XXX/XXXX (NIS2)] of Member States concerned upon receipt and info rm the market 
+surveillance authority about the notified vulnerability.” 
+ 
+Comments:  
+ 
+The start of the 24-hour clock remains uncertain for us.  
+ 
+When does the 24-hour clock start? 
+• When the manufacturer receives a Common Vulnerability Exposure notification? 
+• Once the manufacturer  has analysed the Common Vulnerability Exposure  and 
+concluded that the product is potentially vulnerable? or  
+• When there is an active exploit reported for the vulnerability?   
+ 
+The delay o f 24 hours may induce more risk exposure of having more exploits without a 
+remediation has been actively put in place.  
+ 
+Recommendation: 
+ 
+ 
+ 
+   
+3 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+The term ‘actively exploited vulnerability’ should be clarified, we propose that the 72-hour 
+clock would start when the manufacturer is aware of an actively exploited vulnerability on 
+its product.  
+ 
+A vulnerability can impact or not a product according to the way a component or another is 
+used. To limit the “false positive” vulnerability status, the delay must include a s ufficient 
+time to deeply analyse the impact. Article 23 of NIS 2 reporting Obligations 1 & 3 specifies 
+that "incident shall be considered to be significant". 
+ 
+72 hours to be lined with Article 23.b. of NIS 2 and GDPR should be the relevant delay.  
+ 
+“The manufacturer shall, without undue delay and in any event within 72 hours  of 
+becoming aware of it, notify to ENISA any actively exploited vulnerability contained in the 
+product with digital elements. The n otification shall include details concerning that 
+vulnerability and, where applicable, any corrective or mitigating measures taken.” 
+ 
+CRA must also specify the list of trustable databases related to vulnerabilities and exploits.  
+ 
+III/ Question n°2: Article 55 and former products  
+ 
+As a reminder, according to Article 55 “Transitional provisions”:  
+ 
+“1. EU type-examination certificates and approval decisions issued regarding cybersecurity 
+requirements for products with digital elements that are subje ct to other Union 
+harmonisation legislation shall remain valid until [42 months after the date of entry into 
+force of this Regulation], unless they expire before that date, or unless otherwise specified 
+in other Union legislation, in which case they shall remain valid as referred to in that Union 
+legislation. 
+2. Products with digital elements that have been placed on the market before [date of 
+application of this Regulation referred to in Article 57], shall be subject to requirements 
+of this Regulation only if, from that date, those products are subject to substantial 
+modifications in their design or intended purpose. 
+3. By way of derogation from paragraph 2, the obligations laid down in Article 11 shall 
+apply to all products with digital elements within the scope of this Regulation that 
+have been placed on the market before  [date of application of this Regulation refer red 
+to in Article 57].”  
+ 
+Comments:  
+ 
+This section 3 of Article 55 does not contain any limitation backward in time. This is a main 
+concern that for older and end-of-life products, research and development or intellectual 
+properties might have been removed from our resources. In this respect, w e consider that 
+this should not apply to products considered as end of life but only for the product for which 
+lifetime period has not expired.  
+ 
+Is it possible that the word “not” was mistakenly dropped from this text and that it should 
+instead read “shall not apply”?   
+ 
+Recommendation:  
+ 
+ 
+ 
+   
+4 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+We suggest the following wording for this section:  
+ 
+“3. By way of derogation from paragraph 2, the obligations laid down in Article 11 shall  
+not apply to all  products with digital elements within the scope of this Regulation that 
+have been placed on the market before [date of application of this Regulation referred to 
+in Article 57].”  
+ 
+IV/ Question n°3: patches provided by manufacturers.  
+ 
+As a reminder, according to Article 10 “Obligations of manufacturer”: 
+ 
+“6. When placing a product with digital elements on the market, and for the expected 
+product lifetime or for a period of five years from the placing of the product on the market, 
+whichever is shorter, manufacturers shall ensure that vulnerabilities of that product 
+are handled effectively and in accordance with the essential requirements set out in 
+Section 2 of Annex I.” 
+ 
+Annex 1, Section 2, provides that: 
+ 
+“8. ensure that, where security patches or updates are available to address identified 
+security issues, they are disseminated without delay and free of charge, accompanied by 
+advisory messages providing users with the relevant information, including on potential 
+action to be taken.” 
+ 
+(1) Security patches  
+ 
+In a situation where the product expected lifetime is 2 years but for some customer, a 
+support contract is signed with extended support beyond (i) 2 years but less than 5 years or 
+(ii) 5 years or more, we assume that , as support contracts beyond the product end of life 
+date are beyond the product expected lifetime, we are no longer obliged to issue security 
+patches free of charge and that we could charge such patches.  
+ 
+We consider that major releases are another product, and we commercialize license 
+extension (increment number of users)  on end-of-life product. In this context, do we 
+consider as per section 10. 6 and annex 1.8 that manufacturer is obliged to provide security 
+patch? ALE currently does not provide security patches on end-of-life product even though 
+licenses extension (increment number of users) is authorized.  
+ 
+Recommendation:  
+ 
+We propose to consider that incrementing number of users  (or devices ) for the same 
+purposes shall not be treated as new product. That means that it doesn’t change the 
+previous security patches duration.   
+ 
+In other words, capacity extension for the same set of purposes is not triggering a new 
+lifetime extension.  
+ 
+(2) Product lifetime definition  
+ 
+ 
+ 
+   
+5 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+“Product lifetime” needs to be clarified because of the impact on conformity assessment, 
+security fix duration.  
+ 
+From a financial point of view, as manufacturer we consider it is a new product because we 
+can’t deal with new releases regarding costs engendered: around 10% of the outcome versus 
+2% of the estimated impact by the European Union.  
+ 
+The notion of product lifetime must take in account specificities of product, its nature which 
+might be hybrid (made of components with different lifetime and compliance constraints).  
+ 
+For composite products, product lifetime should be defined on its own.  
+ 
+We also suggest adding the following wording regarding product lifetime:  
+ 
+“Product lifetime, for a product with digital elements, refers only to the lifetime of 
+the major release of given product”. 
+ 
+V/ Question n°4: Conformity assessment procedures and classification  
+ 
+As a reminder,   
+ 
+Article 6 provides that:  
+ 
+“Critical products with digital elements shall be subject to the conformity assessment 
+procedures referred to in Article 24(2) and (3).” 
+ 
+Article 24(2) provides that:  
+ 
+“Where, in assessing the compliance of the critical product with digital elements of class I 
+as set out in Annex III and the processes put in place by its manufacturer with the essential 
+requirements set out in Annex I, the manufacturer or the manufacturer’s authorised 
+representative has not applied or has applied only in part harmonized standards, common 
+specifications or European cybersecurity certification schemes as referred to in Article 18, 
+or where such harmonised standards, common specifications or European cybersecurity 
+certification schemes do not exist, the product with digital elements concerned and the 
+processes put in place by the manufacturer shall be submitted with regard to those 
+essential requirements to either of the following procedures: 
+(a) EU-type examination procedure (based on module B) provided for in Annex VI 
+followed by conformity to EU -type based on internal production control (based on 
+module C) set out in Annex VI; or 
+(b) conformity assessment based on full quality assurance (based on module H) set out 
+in Annex VI.” 
+ 
+Article 24(3) provides that: 
+ 
+“Where the product is a critical product with digital elements of class II as set out in Annex 
+III, the manufacturer or the manufacturer’s authorised representative shall demonstrate 
+conformity with the essential requirements set out in Annex I by using one of the following 
+procedures: 
+ 
+ 
+   
+6 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+(a) EU-type examination procedure (based on module B) set out in Annex VI followed 
+by conformity to EU-type based on internal production control (based on module C) 
+set out in Annex VI; or 
+(b) conformity assessment based on full quality assurance (based on module H) set out 
+in Annex VI.” 
+ 
+Considering Annex VI “CONFORMITY ASSESSMENT PROCEDURES”,  
+ 
+(1) Regarding Annex IV “EU DECLARATION OF CONFORMITY”: 
+ 
+“1. Name and type and any additional information enabling the unique identification of 
+the product with digital elements;” 
+ 
+Comments:  
+ 
+Digital elements included to be compliant with CRA would require continuous fixes and 
+maintenance deliveries, implying continuous conformity assessment renewals not 
+compatible with delay and efforts associated with it without any tangible added value for 
+security.  
+ 
+Recommendation:  
+ 
+We suggest the following modification:  
+ 
+“1. Name and type and any additional information enabling the unique identification of 
+the product with digital elements applied only to major releases;” 
+ 
+(2) Regarding conformity assessment procedures 
+ 
+Context of the proposal, point 5 “Other elements” provides that:  
+ 
+“The manufacturer shall perform a conformity assessment of the product with digital 
+elements and the vulnerability handling processes it has put in place to demonstrate 
+conformity with the essential requirements set out in Annex I by following one of  the 
+procedures set out in Annex VI. Manufactures of critical products of class I and II shall use 
+the respective modules necessary for the compliance. Manufacturers of critical product 
+of class II have to involve a third-party in their conformity assessment.” 
+ 
+“Whereas 45” provides that:  
+ 
+“As a general rule the conformity assessment of products with digital elements should be 
+carried out by the manufacturer, 
+• under its own responsibility following the procedure based on Module A of Decision 
+768/2008/EC. 
+• The manufacturer should retain flexibility to choose a stricter conformity 
+assessment procedure involving a third-party. 
+If the product is classified as a critical product of class I, 
+• additional assurance is required to demonstrate conformity with the essential 
+requirements set out in this Regulation. 
+ 
+ 
+   
+7 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+• The manufacturer should apply harmonised standards, common specifications or 
+cybersecurity certification schemes under Regulation (EU) 2019/881 which have 
+been identified by the Commission in an implementing act, if it wants to carry out 
+the conformity assessment under its own responsibility (module A). 
+• If the manufacturer does not apply such harmonised standards, common 
+specifications or cybersecurity certification schemes, the manufacturer should 
+undergo conformity assessment involving a third party.” 
+ 
+Comments:  
+ 
+For product of class 1, in the absence of standards, the recourse to third parties would be 
+mandatory:  
+- compulsory recourse to evaluation organis ation to evaluate critical products might 
+create bottlenecks and delay to deliver product release major version, leading to an 
+inconsistency with the need of fast reaction time  required by security. For class 2 
+product, the issue is worst, recital 45 mandating third party assessment : e.g., a 
+common criteria certification last between two to three years; and  
+- costs engendered by such procedures as third-party assessment.  
+ 
+Recommendation: 
+ 
+In order to simplify the whole certification process, the manufacturer should perform self-
+certification done by an internal security auditor duly certified on a yearly basis, 
+complemented by a third-party certification performed every three years.  
+ 
+The risk assessment method should be specified and can be inspired by  best practice 
+methodology e.g., EBIOS-RM from ANSSI ( Agence Nationale de la Sécurité des Systèmes 
+d’Information) or COBIT.  
+ 
+(3) Classification of products according to Annex III  
+ 
+Classification of products should not take into account the context of use; it must only be 
+related to the intrinsic intended use and purpose (industrial, retail…).  
+ 
+As an example, the generic product can be configured according to the criticality of the 
+context of use (configuration will follow hardening rules).  
+ 
+“Industrial use” definition must be clarified.  
+ 
+VI/ Question n°5: Delegated acts to be adopted by the Commission  
+ 
+As a reminder, Recital 27 provides that:  
+ 
+“(27) The categories of critical products with digital elements referred to in Annex III of 
+this Regulation should be understood as the products which have the core functionality of 
+the type that is listed in Annex III to this Regulation. For example, Annex III to this 
+Regulation lists products which are defined by their core functionality as general purpose 
+microprocessors in class II. As a result, ge neral purpose microprocessors are subject to 
+mandatory third-party conformity assessment. This is not the case for other products not 
+explicitly referred to in Annex III to this Regulation which may integrate a general purpose 
+ 
+ 
+   
+8 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+microprocessor. The Commission should adopt delegated acts [by 12 months since the 
+entry into force of this Regulation] to specify the definitions of the product categories 
+covered under class I and class II as set out in Annex III.” 
+ 
+Comments:  
+ 
+Article 57 provides that manufacturers  will have 24 months to implement all new 
+requirements.  
+ 
+If delegated acts are issued 12 months after the entry in force of this regulation, we will 
+need as manufacturer 24 months after the release of these texts to implement new 
+requirements.  
+ 
+For instance, for common criteria certification delivered by ANSSI, the average timeframe 
+is 3 years.  
+ 
+Recommendation:  
+ 
+“This Regulation shall enter into force on the twentieth day following that of its 
+publication in the Official Journal of the European Union. It shall apply from [ 36 months 
+after the date of entry into force of this Regulation or 24 months after the publication 
+of delegated acts, whichever is longer].”  
+ 
+VII/ Question n°6: “substantial modification” definition   
+ 
+As a reminder, Recital 22 provides that:  
+ 
+“(22) In order to ensure that products with digital elements, when placed on the market, 
+do not pose cybersecurity risks to persons and organisations, essential requirements should 
+be set out for such products. When the products are subsequently modified, by physical 
+or digital means, in a way that is not foreseen by the manufacturer and that may imply 
+that they no longer meet the relevant essential requirements, the modification should 
+be considered as substantial . For example, software updates or repairs could be 
+assimilated to maintenance operations provided that they do not modify a product already 
+placed on the market in such a way that compliance with the applicable requirements may 
+be affected, or that the intended use for which the product has been assessed may be 
+changed. As is the case for physical repairs or modifications, a product with digital 
+elements should be considered as substantially modified by a software change where the 
+software update modifie s the original intended functions, type or performance of the 
+product and these changes were not foreseen in the initial risk assessment, or the nature 
+of the hazard has changed or the level of risk has increased because of the software 
+update.” 
+ 
+Comments:  
+ 
+As defined above, “substantial modification” must be modified and restricted to the major 
+release delivered by the manufacturer.  
+ 
+Recommendation:  
+ 
+ 
+ 
+   
+9 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+“(22) In order to ensure that products with digital elements, when placed on the market, 
+do not pose cybersecurity risks to persons and organisations, essential requirements should 
+be set out for such products. When the products are subsequently modified, by physical or 
+digital means, in a way that is not foreseen by the manufacturer and that may imply that 
+they no longer meet the relevant essential requirements, the modification should be 
+considered as substantial. For example, software updates or repairs could be assimilated 
+to maintenance operations provided that they do not modify a product already placed  on 
+the market in such a way that compliance with the applicable requirements may be 
+affected, or that the intended use for which the product has been assessed may be changed. 
+As is the case for physical repairs or modifications, a product with digital elements should 
+be considered as substantially modified by a software change where the software update 
+modifies the original intended functions, type or performance of the product and these 
+changes were not foreseen in the initial risk assessment, or the natu re of the hazard has 
+changed or the level of risk has increased because of the software update. It will be limited 
+to substantial modification of an existing purpose or to the creation of new purpose of 
+the product.” 
+ 
+VIII/ Question n°7: Risk assessment  
+ 
+As a reminder, according to Annex I:  
+ 
+“Products with digital elements shall be delivered without any known exploitable 
+vulnerabilities;” 
+ 
+Comments:  
+ 
+Providing a product “without any known exploitable vulnerabilities” seems difficult, even 
+impossible.  
+Product security may be impacted by many factors, such as the changing nature of 
+cyberattacks. Such a requirement could be counterproductive, as it would  discourage 
+manufacturers from conducting certain security tests, which may potentially  increase 
+number of "unknown" vulnerabilities.  
+Moreover, the fact that a vulnerability is actively exploited cannot be formally established.  
+ 
+Recommendation:  
+ 
+We suggest changing the wording for:  
+ 
+“Products with digital elements shall be delivered without any known actively exploited 
+vulnerabilities to the knowledge of the manufacturer  that would come from a  
+recommended trustable source e.g., CERT.” 
+ 
+IX/ Question n°8: Technical documentation  
+ 
+As a reminder, Annex V involves the development and communication by the manufacturer 
+of technical documentation on products that could pose major safety risks.  
+ 
+Comments:  
+ 
+ 
+ 
+   
+10 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+Technical documentation under point 1 corresponds to, for manufacturers, end user 
+technical documentation and the other bullets are specification or design documentation 
+which are manufacturer internal technical documentation which must remain confidential 
+and not publicly published or addressed to clients. 
+ 
+Documentation publicly communicated as an example must be limited and shall not 
+encompass all the IP and secret of fabric of a given product as the design, architecture of 
+the system… 
+ 
+Moreover, display ing all this information  could make it possible for hackers to identify 
+potential weaknesses and arise the risk of cyberattack, jeopardizing the Cyber Resilience 
+Act goals.  
+ 
+Recommendation:  
+ 
+All other documents must remain internal or dedicated for a certification under a 
+confidential agreement. We suggest that the document for external use shall be limited to 
+Annex V. 1.  
+ 
+Documents mentioned at Annex V. 2, 3 and 5 must remain confidential.  
+ 
+X/ Question n°9: Conformity assessment procedures for products with digital elements 
+ 
+Considering Article 6.4 which refers to article 24.2 and 24.3  regarding Conformity 
+assessment procedures for products with digital elements.  
+ 
+For composite products that embed third party complex elements that needs to be 
+compliant, in case of change of compliance status for one of the elements (change of 
+version) time to get a full new conformity will be long. 
+ 
+Recommendation:  
+ 
+To avoid a cascade of non -conformities, we suggest introducing a grace period of e.g., 1 
+year.  
+ 
+XI/ Question n°10: Open-source components  
+ 
+As a reminder, according to Recital 10:  
+ 
+“In order not to hamper innovation or research, free and open-source software developed 
+or supplied outside the course of a commercial activity should not be covered by this 
+Regulation.” 
+ 
+Comments:  
+ 
+We understand that non-commercial open sources’ software are not in the scope of the 
+Regulation. Nevertheless, as open-sources are a key topic for most software manufacturers, 
+it would be relevant to clarify that the responsibility to correct the non-commercial open-
+source does not reside with the manufacturer  within the timeframe required in the 
+regulation.  
+ 
+ 
+   
+11 | 11 
+ALE International | 32 avenue Kléber | 92700 Colombes, France 
+T : +33 1 55 66 70 00 
+www.al-enterprise.com 
+XII/ Question n°11:  
+ 
+According to Recital 9:  
+ 
+“This Regulation ensures a high level of cybersecurity of products with digital elements. It 
+does not regulate services, such as Software-as-a-Service (SaaS), except for remote data 
+processing solutions relating to a product with digital elements understood as any data 
+processing at a distance for which the software is designed and de veloped by the 
+manufacturer of the product concerned or under the responsibility of that 
+manufacturer, and the absence of which would prevent such a product with digital 
+elements from performing one of its functions.” 
+ 
+Comments:  
+ 
+If a product uses SaaS services, that product necessarily uses API libraries to use that service. 
+If SaaS API libraries were to be excluded from CRA as per Recital 9 confusing definition, then 
+products will embed non-compliant components.  
+ 
+Recommendation:  
+ 
+Commission’s choice must be defined and fair regarding compliance rules for every product 
+delivery model (SaaS or purchase).  
+ 
+**** 
+ 
+For any question or demand regarding this document you can contact ALE International 
+CTSO: Vincent LOMBA at vincent.lomba@al-enterprise.com.  
+ 
+ 
+Respectfully submitted,  
+ 
+Alcatel-Lucent Enterprise 

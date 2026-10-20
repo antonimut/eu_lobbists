@@ -1,0 +1,495 @@
+ 
+Sycamore House, Millennium Park 
+Osberstown, Naas, Co. Kildare 
+Phone: 045 899 341 
+Email: info@energystorageireland.com 
+Website: www.energystorageireland.com 
+ 
+ 
+ 
+Energy Storage Ireland  
+ 
+A Procurement Framework for  
+Long-Duration Energy Storage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Position Paper 
+June 2022 
+Contact: Bobby Smith (info@energystorageireland.com)  
+ 
+Ref. Ares(2023)1083801 - 14/02/2023
+2 
+ 
+Table of Contents 
+Executive Summary ................................................................................................................................. 3 
+Need for LDES .......................................................................................................................................... 4 
+Problem Statement ................................................................................................................................. 7 
+Changing Nature of the System ........................................................................................................... 7 
+How to Compare Different Storage Technologies at a System Level? ................................................ 8 
+How should Locational Benefits & Interactions with Renewable Generation and Demand be 
+Considered? ......................................................................................................................................... 8 
+Remuneration Gaps / Revenue Certainty ........................................................................................... 9 
+Operational Signals vs Investment Signals ........................................................................................ 10 
+Interactions with RESS, Clean Energy Package and Firm Access Policy ............................................ 10 
+Energy Storage and Firm Access ........................................................................................................ 10 
+Proposed Principles of the LDES Procurement Framework .................................................................. 13 
+High-Level Design of a Potential Procurement Framework .................................................................. 14 
+Revenue Floor with Shared Upside ................................................................................................... 14 
+New Services ..................................................................................................................................... 14 
+Interactions with Existing Market Structures ........................................................................................ 16 
+Conclusion ............................................................................................................................................. 17 
+ 
+  
+3 
+ 
+Executive Summary 
+Energy Storage Ireland (ESI) is a representative body for those interested and active in the 
+development of energy storage in Ireland and Northern Ireland.  
+We work together to promote the benefits of energy storage to decarbonising Ireland’s energy 
+system and engage with policy makers to support and facilitate the development of energy 
+storage on the island. 
+Energy storage will play an essential role in facilitating the higher levels of renewable 
+generation on the power system required to achieve national renewable electricity targets. The 
+flexibility of storage systems and their ability to contribute to the energy, capacity and system 
+services markets allows them to deliver a wide range of benefits to end consumers such as 
+wholesale energy price reductions, reduced CO2 emissions and flexible system support services 
+to help manage the grid with higher levels of renewables.  
+A coordinated strategy for energy storage is needed to ensure investment is supported through 
+the various pillars of the market and that new energy storage technologies are fully integrated 
+into the electricity system and market to unlock their full potential. This should bring together 
+the relevant stakeholders such as the System Operators, Regulatory Authorities, Government 
+departments and industry to ensure a coordinated approach to energy storage going forward.  
+Long-Duration Energy Storage (LDES) will be essential to decarbonising our energy system by 
+providing a range of valuable servi ces from congestion management, peaking capacity, 
+alternative network solutions, increasing renewables on the grid, delivering cost benefits to end 
+consumers, and ensuring security of supply.  However current market frameworks and 
+incentives are unlikely to  be sufficient to deliver the volumes and capabilities of LDES we will 
+need in future. This will require new frameworks to drive investment similar to how REFiT and 
+RESS have driven investment in renewable technologies with similar high Capex/low Opex 
+characteristics to LDES. The goal of these new frameworks should be to meet two key 
+objectives: 
+1. Provide a stable long-term revenue floor under which LDES can build 
+2. Ensure optimal operation of LDES assets to maximise their value to the system and 
+to consumers through existing and new services/market incentives.  
+To kick-start the process of developing a procurement framework for LDES we propose the 
+publication of a Call for Evidence paper by the relevant Government departments in Ireland & 
+Northern Ireland. This would seek views from a wide spectrum of stakeholders on potential 
+options for a future framework, including the proposal set out in this paper.  
+4 
+ 
+Need for LDES 
+The need for long duration storage technologies has been identified in a number of studies. 
+In May 2022, ESI and Baringa published ‘Game Changer’ a report showing the benefits that 
+various durations of energy storage can bring to the system and to end consumers on the island 
+of Ireland by 2030.1 The key findings from this study are as follows: 
+• By participating in the Irish day -ahead energy market, energy storage can reduce 
+dayahead carbon emissions by 50% by using long -duration storage technologies. This 
+makes a material contribution to meeting ambitious 2030 power sector 
+decarbonisation goals.  
+• Strategic deployment of energy storage in transmission constrained regions of the 
+network reduces the dispatch-down of renewable generation from constraints without 
+the need for network reinforcement, unlocking additional carbon savings.  
+• By contributing to security of supply, helping to support renewable capacity, and 
+displacing fossil fuels in the balancing market, energy storage can deliver a net saving 
+to end consumers in Ireland of up to €85m per year.  
+• These benefits are additional to the carbon, renewable curtailment, and end consumer 
+savings offered by energy storage through the provision of zero-carbon system services. 
+• Energy storage helps the integration of renewables at all stages by ensuring that 
+generation is not wasted; reducing oversupply by up to 60%, constraint volumes by up 
+to 90%, and curtailment by 100%. 
+A 2019 SEAI funded study 2 examining the effectiveness of different renewable curtailment 
+mitigation strategies included a specific work package examining the effectiveness of storage 
+with different energy capacities (MW / MWh ratios). In this study the problem was defined by 
+first adding wind to a 2020 system without implementing any integration / curtailment 
+mitigation solutions until a 70% RES -E level was achieved. This is starting point of all curves in 
+Figure 1 below (top left corner of the graph), and every point on every line represents a 70% 
+RES-E system. In the absence of any curtailment mitigation solution, the levels of renewable 
+curtailment are ext remely high meaning that approximately 44% of the available renewable 
+energy cannot be utilized.  
+In this work package a multi scenario analysis was conducted examining the impact of gradually 
+increasing the “idealised” interconnector capacity and “idealised” storage capacity with varying 
+energy limitations. In this context idealised interconnectors means that the model was always 
+able to export up to the full available capacity to mitigate curtailment.  In the context of storage, 
+it means that the m odel tried every other means of mitigating curtailment before charging a 
+ 
+1 https://www.energystorageireland.com/wp-content/uploads/2022/05/GameChanger-ESI-Report-May2022-
+Web-1.pdf  
+2 https://www.seai.ie/documents/research-projects/RDD-000326.pdf 
+ 
+5 
+ 
+storage technology (due to its energy limitation), and then once a curtailment event was over 
+it sought to discharge the storage technology as quickly as possible to maximise its avai lability 
+for the next event. The results should be considered as the theoretical maximum curtailment 
+benefit that can be provided by each technology. The idealised interconnector could also be 
+considered to closely represent the curtailment benefits of an energy unlimited storage 
+technology. 
+ 
+ 
+Figure 1 - Wind Curtailment vs Additional storage capacity of varying durations and idealised 
+interconnection 
+These results clearly illustrate the importance of energy capacity when seeking t o use storage 
+technologies to directly absorb surplus renewables on systems with very high levels of RES-E at 
+either a system or local network level. Due to the very large energy volumes required it is critical 
+that the storage capex per MWh is extremely low.  Techno-economic optimisations carried out 
+by ESI members indicate that this is much more important than maximising the return trip 
+efficiency of the technology 
+We would also like to note the recent formation of a new Global Long Duration Storage Council.  
+This body includes many technology companies developing new classes of low cost long 
+duration storage with the potential to solve local network constraints and system wide 
+curtailment in an economic manner. This group commissioned McKinsey & Company t o carry 
+0.0%
+5.0%
+10.0%
+15.0%
+20.0%
+25.0%
+30.0%
+35.0%
+40.0%
+45.0%
+0 500 1000 1500 2000 2500 3000
+Total Wind Curtailment (%)
+Additional Interconnection / Storage (MW)
+All Island Wind Curtailment Vs Additional Idealised 
+Interconnection and Storage
+Idealised Interconnection
+3hr Battery Storage
+6hr PHES
+15h PHES
+30h PHES
+6 
+ 
+out a study 3 examining the role of LDES on net zero power systems globally. Some key 
+conclusions from this work: 
+• The report not es that LD ES tech becomes particularly important on power systems 
+attempting to reach 60 -70% RES -E. Irelands 80% target means LD ES could become 
+critical in Ireland earlier than many other markets. 
+• Significant investor interest in recent years with c.a. €2.5b invested in new / emerging 
+LDES contender technologies. 
+• LDES is seen as provi ding four key sources of flexibility to meet future power system 
+challenges;  
+1. Intraday flexibility (<12 hours duration) 
+2. Multiday and multiweek flexibility (12 hours – weeks) 
+3. Seasonal flexibility 
+4. Flexibility to respond to extreme weather events 
+• In Europe the study estimates average durations of installed storage systems will need 
+to be 20-30 hours by 2030, and 50-60 hours by 2040.  Ireland and Northern Ireland will 
+likely be ahead of the average EU figures due to our higher RES-E targets in the nearer 
+term. 
+ 
+ 
+3 https://www.ldescouncil.com/insights 
+ 
+7 
+ 
+Problem Statement 
+Changing Nature of the System 
+It is critically important when considering the market framework under which power 
+generation technologies and supporting system services (including storage) are deployed, to 
+consider the changing nature of the system.  As we transition to 80% RES-E and beyond, we are 
+moving from a system on which the largest cost component is fuel, to one where the largest 
+cost component is capital infrastructure. Figure 2 below provides a crude illustration of the 
+potential change in the underlying cost of providing sufficient generation capacity and fuel to 
+meet demand in a 40% RES -E system vs an 80% RES -E system.  It is note worthy that only the 
+fuel element of this cost is capable of responding in an economic way to short term energy 
+market price signals  i.e. through the burning of more or less fuel. The capital infrastructure 
+component is incapable of responding to these signals economically after it has built.   
+ 
+ 
+Figure 2  Illustration of Capital Cost Components vs Variable Operating Cost Components on a 
+(1) 40% RES-E system, (2) an 80% RES-E system (crude estimate – for illustration purposes only) 
+ 
+On the basis that the clear global and national imperative is to decarbonise the grid as quickly 
+as possible and at least cost, the following key questions emerge: 
+• Which technologies should be deployed? 
+• What market framework / process should they be deployed under? 
+€-
+€20.00 
+€40.00 
+€60.00 
+€80.00 
+€100.00 
+€120.00 
+1 2
+System Cost per MWh Delivered
+Renewable Annuitised Capex Conventionals Annuitised Capex
+Conventional Fuel and Carbon Cost
+8 
+ 
+This paper attempts to address these points by setting out a clear problem statement, 
+proposed principles that should inform a storage services procurement design, and some initial 
+proposals as to how such a procurement framework might operate. 
+ 
+How to Compare Different Storage Technologies at a System Level? 
+Existing and new LDES technologies have very different combinations of energy capacity, 
+duration, return trip efficiency  (RTE), asset lives, capital costs and fixed operating costs.  Each 
+technology has a different floor revenue requirement in order to meet a reasonable investment 
+hurdle rate. Under any new storage procurement framewor k how do policy makers compare 
+these technologies and decide which should clear? e.g. Technology A can provide 24hr 
+discharge, 65% RTE , and is located in a region with existing network constraints of 9% and 
+requires a guaranteed floor revenue of €50k per MW p er annum to build. Technology B can 
+provide 6hr duration, 80% RTE, is located in an area with network constraints of 3% and  
+requires €40k per MW p er annum  to build. Which of these two technologies should be 
+procured?  On what basis do you make that decision? 
+ESI would generally take a tech nology agnostic approach  and believes that ensuring the 
+creation of market frameworks tha t reward the delivery of critical services is important. The 
+parameters should be defined on the basis of system need, allowing the most economically 
+viable and preferably lower/zero carbon technologies to win, ensuring economic efficiency for 
+both the System Operators and consumers.  
+ 
+How should Locational Benefits & Interactions with Renewable Generation and 
+Demand be Considered? 
+Intuitively there are interactions between the cost of available renewable energy in different 
+locations, the level of network constraints and the value of storage services of different 
+durations. For example, If there is a renewable generation resource wi th a very low cost of 
+available energy but facing high network constraints, it is likely that longer duration storage 
+services deployed in that location will provide greater system value, compared with the same 
+technology deployed in an area facing demand side congestion issues, or in areas with low 
+renewable constraints. Should policy makers be willing to procure LDES at a different price in 
+areas of high renewable transmission constraints? If so, what should inform that decision? For 
+example, consented wind energy projects exist with an underlying LCoE based on availability of 
+€50.00 in the same region as technology A above. Wind energy projects in the same region as 
+technology B have an LCoE based on available energy of €80.00. How should these interact with 
+the storage procurement process? 
+Similarly, there are likely to be interactions with locational applications.  E.g. In areas of high 
+demand (Dublin), the demand side transmission congestion issues are likely to be of shorter 
+duration. In these location s, intuitively, storage technologies of shorter durations and higher 
+9 
+ 
+efficiencies are likely to be more optimal. Again, how should policy makers compare bids and 
+decide what clears where? 
+Finally, any storage solution which targets a network constraint sho uld be evaluated against 
+two remaining options to deal with this constraint: 
+1. Building new grid infrastructure to remove all or part of the constraint, noting timelines 
+for deployment need to be included in the evaluation. It is also noted that other 
+jurisdictions, notably GB, are looking at encouraging S ystem Operators to consider 
+flexible alternatives to new grid infrastructure to see if they are cost/time effective.  
+2. Taking no action to alleviate the constraint and accepting that the costs associate d are 
+either built into future renewable energy auction bids or are compensated for by the 
+System Operator. 
+ 
+Remuneration Gaps / Revenue Certainty 
+It seems clear that existing market systems don’t fully remunerate storage for the services that 
+they provide. Some examples include: 
+• Network congestion management– no product or incentive exists.   
+• Carbon abatement (energy storage is a source of clean dispatchable capacity that 
+displaces fossil fuels)  
+• Managing renewable oversupply and contributing to RES-E targets.  
+• Inequitable treatment in the energy market i.e. no ability to bid in negative PN or to be 
+included fairly in scheduling and dispatch. 
+With the exception of capacity market revenues, the majority of available revenues come with 
+limited medium to long term certainty: 
+o DS3 tariff arrangements end in 2024 . N o detail ed design yet on future 
+arrangements but short-term auctions are a key feature. Opportunities for long-
+term revenue certainty may be limited 
+o Energy Arbitrage – energy market revenues are volatile and difficult to forecast 
+with accuracy 
+o Capacity - does allow for 10 -year contracts but structural issues disadvantage 
+long duration storage e.g. de-rating factors do not recognize LDES and price caps 
+are based on new fossil fuel plant. The Capacity Market as currently structured 
+will not make up the ‘missing money’ needed to drive investment in LDES.  
+These uncertainties result in higher investment  hurdle rates and makes it very challenging to 
+develop an investable business case for LDES assets.   
+10 
+ 
+Operational Signals vs Investment Signals 
+Existing market structures are reasonably good at incentivizing appropriate / optimal operation 
+of constructed a ssets but are not good at sending investment signals to the new low to zero 
+marginal cost assets needed to decarbonize the power system.   
+How should policy makers provide the needed revenue certainty to new LDES assets without 
+removing / reducing the effectiveness of short -term price signals driving optimal operation of 
+assets? E.g. If you provide LDES with a simple C ontract for Difference structure, where is the 
+incentive to trade optimally when any revenue above the strike price will be handed back?  
+ 
+Interactions with RESS, Clean Energy Package and Firm Access Policy 
+Under existing RESS auction design, constraint, curtailment and oversupply risk are principally 
+with the gener ator. This means that generators will price in a certain level of dispatch / re -
+dispatch into their bids.  This in turn means that subsequent storage deployments that serve to 
+reduce levels of dispatch will increase revenues to RESS generators and not crea te consumer 
+cost savings to the extent that would otherwise be the case. This diminishes the level of 
+incentive for regulators acting on behalf of consumers to support storage deployments as high 
+re-dispatch and oversupply costs are baked in for the period of support.  
+The recent SEMC decision on Clean Energy Package Electricity Regulation Articles 12 & 13 
+implementation is very unclear. Potential positives are: 
+• Compensation proposals for firm RESS generators might represent a partial fix of the 
+issue noted above. 
+• A move to market based re-dispatch could also help support the case for storage if the 
+intention is to allow all bidders to bid in their opportunity cost in this new regime. 
+Negatives: 
+• Majority of RESS generators don’t yet have firm access, and firm access policy is unclear.  
+Under existing policy, storage wouldn’t be able to create additional firm space 
+• The thrust of the Art12&13 decision is towards compensation being allowable for re -
+dispatch of firm generators only.  This could make it much more challenging for non -
+firm generation to be deployed and this could also reduce the business case for more 
+storage. 
+ 
+Energy Storage and Firm Access 
+Firm access as it applies to storage devices on the grid is an important point to consider. In 
+Ireland, the TSO is obliged to plan and develop the grid infrastructure to provide for firm access 
+to all units using the transmission grid (per their license conditions and the Transmission 
+11 
+ 
+Planning Standards). Connection to the grid is allowed prior to the completion of all grid 
+infrastructure upgrades required so generators or demand units do have an option to connect 
+initially on a non -firm basis until the necessary grid upgrades (known as Associated 
+Transmission Reinforcements or ATRs) are complete to provide them with firm access. 
+Storage technology is an important element of Ireland’s technology mix in working towards our 
+2030 target of 80% RES -E. The reason that storage is so vital to achieving this target is that it 
+presents the opportunity to ‘smooth’ the profile of our abundant , but variable, renewable 
+resource and match it better to the demand profile. In other words, storage projects can be 
+used to charge (or import) energy at times of high renewable output and discharge (or export) 
+at times of low renewable output. This very use-case of storage means that storage will tend 
+to act against the normal flows on the grid  i.e. storage is basically a contra-flow device on our 
+grid. Therefore, applying a ‘firm access’ standard to build out grid for storage connections and 
+impose network charges on them for this purpose is not rational.  
+Instead, storage projects should be provided with two new connection types as options for 
+their connection. They can either connect in a ‘permanent non -firm’ manner, meaning they 
+drive no grid reinforce ments and the TSOs retain the right to constrain the units as needed . 
+This connection type might be particularly suitable for a storage project looking to generate 
+most of its’ revenue via trading and capacity contracts. Or they can connect as ‘contra -flow’ 
+units where they effectively create new firm capacity and the TSOs retain the right to operate 
+the unit proactively in order to maximise its impact in a constraint scenario . This connection 
+type would be particularly suited to storage projects located behind a specific network 
+constraint. The incentive for storage developers to connect by one of these methods is that 
+they can either avoid network charges or even be paid negative charges for acting as an enabler 
+to increase grid capacity. Since network charges are a considerable cost to a storage project 
+this would have a significant benefit for the project’s business case. For the TSOs, they can 
+provide a real incentive for the deployment of multi-hour storage while maintaining operational 
+security and avoiding difficult network build-out. 
+The below table describes the existing connection types and two new types we propose: 
+ 
+It is also important to note that this discussion rela tes primarily to physical firmness and we 
+note that ESI has submitted position papers in recent months in relation to making storage 
+units financially firm in order to ensure that they are treated equitably in the energy market. 
+
+12 
+ 
+However, we see this as a t emporary measure to fix and existing issue in the market and that 
+should not distract from the longer-term proposal described above. 
+13 
+ 
+Proposed Principles of the LDES Procurement Framework 
+We propose the following principles for the LDES Procurement Framework 
+• The LDES procurement framework should be technology agnostic and support 
+investment in an appropriate broad portfolio of storage technologies and capabilities 
+that meet the needs of the system and national decarbonisation objectives. 
+• The procurement process should maximise long term certainty for a floor revenue for 
+winning technologies. This will reduce investment hurdle rates enabling easier, greater 
+and more cost effective deployment. 
+• The procurement should be based on an estimation of overall system value vs cost 
+taking account of any locational benefits. 
+• The selection of “winning” technologies needs to be based on a transparent full system 
+& network model 4 that bidders can understand and replicate. This doesn’t have to be 
+perfectly optimized, but it is critical that it is consulted on and is transparent / replicable. 
+The process should clear projects with the highest deltas between overall system value 
+and bid cost first. 
+• The process should be designed in a manner that recognises the h edging value of 
+storage. LDES investment will be Capex driven rather than Opex which means more 
+stable pricing and less exposure to gas price volatility. 
+ 
+4 Note there is some precedent for this approach.  ECF’s in RESS differentiate between the expected system 
+value of technologies, the calculation of these ECF’s had to be based on system modelling. Similarly locational 
+scalars are considered in system service and capacity markets based on different locat ional values of 
+technology deployment.  This proposal would make this process more transparent in the context of storage 
+technology procurement. 
+14 
+ 
+High-Level Design of a Potential Procurement Framework 
+Revenue Floor with Shared Upside 
+Bidders could bid in a required revenue floor with any upside on actual aggregated market 5 
+revenues shared  proportionately with consumers for the length of the contract . “Floor” 
+revenues to be bid and cleared based on the system Cost Benefit Analysis (CBA) at the bid floor 
+price using a full system model as envisaged above. The objective shouldn’t be to minimise the 
+gap between revenues earned under existing market arrangements and the floor price, rather 
+to maximise the projected net system value that the LDES asset can deliver.  The existing/new 
+system services and energy markets should just be used in conjunction with the broader long-
+term procurement to ensure efficient near-term operation of assets. 
+A cap and floor mechanism has been proposed in G reat Britain to incentivise long -duration 
+storage. This is a regulated long-term contract framework, used to incentivise investment in 
+interconnectors, which provides a guaranteed floor price, supported via Use of System charges 
+where project revenues fall below the floor, and a cap above which excess revenues are handed 
+back to end consumers. This type of framework could be feasible for LDES but the downside of 
+this is that assets are only incentivised to trade optimally and manage near-term operation up 
+to the cap. The incentive to gain more revenue and add more value to the system is lost beyond 
+this. A floor and shared upside mechanism does not set a fixed cap but a  fixed proportion of 
+revenues above the floor price that would be shared with consumers so the incentive remains 
+for assets to trade optimally and try to maximise revenues from existing and new services, and 
+in doing so maximising consumer savings. 
+We also think there is merit in discussing whether such  a system could be added to existing 
+RESS auctions (noting that storage would be floor + shared upside rather than CfD) and allow 
+technologies to clear based on the marginal system value vs cost.  
+ 
+New Services 
+New services, in addition to existing DS3 services, energy arbitrage and capacity market 
+contracts, should be introduced to incentivize locational/strategic deployment and optimal 
+operation of LDES. For instance:  
+• Congestion management service, (potential TUoS payment) 
+• Curtailment management service   
+• New Ramping services- e.g. 12-hour 
+ 
+5 In this context market revenues include arbitrage, capacity, systems services including any new services or 
+products designed to remunerate storage for the value it provides. A shared upside model incentivises storage 
+providers to participate appropriately in all existing market structures.  
+15 
+ 
+• Carbon abatement service 
+• Oversupply management service 
+These services would be in addition to but complementary to the long-term floor price certainty 
+provided by the  LDES procurement framework and could be designed to incentivize optimal 
+operation of built assets. 
+Auctions for long term revenue floors would allow new storage assets to be deployed with 
+relatively low cost of capital.  The addition of new services combined with the continued 
+operation of existing market structures will ensure that these newly deployed assets are 
+operated in a way that maximizes their overall system value. Where revenues exceed the floor 
+price, consumers would share in this upside as a reward for providing the floor. 
+16 
+ 
+Interactions with Existing Market Structures  
+• RESS:  Storage and RESS procurement processes should be compl ementary – e.g.  
+Assigning very significant re -dispatch risks to RESS bidders and driving up RESS prices, 
+and then fixing the problem with a storage procurement  after the RESS assets have 
+built, is not efficient or in consumers interests. Separately, if we have a system model 
+for storage procurement, should or could this be used to determi ne appropriate ECF’s 
+for RESS clearing.  Could this involve moving to a system where bidders bid in based on 
+availability and locational ECF’s are determined that account for expected levels of re -
+dispatch compensation (noted that this could interact with EU energy policy and this 
+could be very challenging)    
+• Firm Access:  Storage deployment should result in the creation of new “firm” capacity 
+for renewable generators. 
+• Energy Market: Existing market structures will incentivise optimal near-term operation 
+of LDES assets.  
+• System Services:  Existing and new system services will incentivise optimal near -term 
+operation of LDES assets. 
+• Capacity Market:  Should a storage technology that has cleared for a revenue floor in 
+the LDES auction be required to be a price taker in capacity auctions? 
+ 
+ 
+ 
+17 
+ 
+Conclusion 
+The development of an LDES procurement framework has the potential to provide significant 
+benefits to Ireland & Northern Ireland in terms of achieving our RES -E targets and broader 
+decarbonisation objectives.  
+To kick-start the process of developing a procurement framework for LDES we propose the 
+publication of a Call for Evidence paper by the relevant Government departments in Ireland & 
+Northern Ireland. This would seek views from a wide spectrum of stakeholder s on potential 
+options for a future framework, including the proposal set out in this paper.  
+ 

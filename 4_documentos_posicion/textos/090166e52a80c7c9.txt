@@ -1,0 +1,288 @@
+ 
+1 
+ 
+SIMPLIFYING THE EU DIGITAL RULEBOOK 
+IBM’S POSITION ON THE DIGITAL  OMNIBUS  PROPOSAL  
+MARCH 2026  
+ 
+ 
+ 
+INTRODUCTION  
+ 
+IBM welcomes the timely publication of the Digital Omnibus proposal, aiming at 
+simplifying the EU’s digital rulebook in cybersecurity, data governance and privacy. We 
+believe these proposals are a good starting point toward cutting red tape for all 
+businesses operating in Europe and will help support innovation. We specifically 
+welcome additional clarifications in GDPR to support the development and deployment 
+of Artificial Intelligence (AI). 
+ 
+However, we believe that overall, the proposals fail to fully address the 
+competitiveness gaps the EU is facing, and which many industries and heads of states 
+have identified – also highlighted by the Draghi report – and which require bold and 
+urgent reforms. The proposals clearly lack ambition in some areas, notably in 
+cybersecurity, where the complexity of existing rules require real simplification 
+measures that go beyond streamlining incident reporting obligations.  
+ 
+Additionally, we are very concerned about some proposed changes to the cloud 
+switching regime of the Data Act that would prevent some cloud providers (i.e. 
+Infrastructure as a Service or IaaS providers) to charge proportionate early termination 
+fees for fixed contracts. This change would not simplify regulatory compliance but 
+IBM is a leading global AI & hybrid cloud company, with technology and consulting expertise in 
+more than 170 countries. We help organisations unlock insights, improve efficiency, and gain 
+competitive edge through the power of AI, data and technology built on a long-standing 
+commitment to trust, transparency, and responsibility. 
+ 
+With more than 100 years of commitment in Europe, IBM has many cloud facilities, research labs, 
+innovation spaces, centres of excellence, etc. spread across Europe. Our state-of-the-art European 
+Quantum Data Centre in Germany is helping propel our European partners on their quantum 
+journey, offering access to IBM’s most-performant quantum chip to date, IBM Quantum Heron. Our 
+quantum scientists in Europe are also at the forefront of developing Post Quantum Cryptography 
+that will protect our data in the quantum era. 
+ 
+For more information, visit www.ibm.com  
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. Ares(2026)2690534 - 12/03/2026
+
+ 
+2 
+ 
+instead negatively impact contractual freedom between cloud providers and their 
+business customers. 
+ 
+Therefore, IBM offers the following recommendations to strengthen the Digital Omnibus 
+proposals and help ensure that Europe achieves its goal of establishing a regulatory 
+framework that fosters innovation rather than hinders it. 
+ 
+ 
+CYBERSECURITY  
+ 
+Single Entry Point (SEP) - Art. 6 of Omnibus (ref. to Art. 23/30 of NIS2): 
+ 
+The Single-Entry Point or SEP for reporting is a good first step towards harmonising 
+incident notifications to the relevant national competent authority. We believe 
+companies in all sectors should be allowed to leverage their country of main 
+establishment for all cybersecurity reporting. This will offer a compromise between 
+harmonising reporting while limiting security risks associated with having a single point 
+of entry at EU level. The SEP platform should serve as a connecting layer for national 
+CSIRTs to disseminate notifications to other affected member states. Finally, the EU 
+should clarify that vulnerability and incident reporting under the CRA is also 
+covered by the SEP mechanism. 
+ 
+However, both NIS2 and CRA are missing liability protection clauses which are 
+necessary to build trust so that companies are comfortable sharing information. This 
+furthers the goals of information sharing for enhanced cybersecurity while also 
+protecting reporting entities. While Article 23(1) of NIS2 provides that notification shall 
+not subject the notifying entity to increased liability, the law should also clarify that 
+reporting companies should not be liable for potential spill-over effects caused by the 
+act of notification. 
+ 
+Additional recommendations to simplify the EU Cyber acquis:  
+ 
+Despite some improvements, IBM believes that the Omnibus proposals strongly fail 
+to address the urgent need to simplify EU cybersecurity rules, which have created 
+resource-intensive and costly processes, without leading to meaningful improvements 
+in risk management. These inefficiencies ultimately increase costs for end-users 
+without achieving the goal of enhanced cybersecurity. Companies need clarity and 
+ 
+3 
+ 
+simplification now, rather than later after overlapping rules and requirements go into 
+effect.   
+ 
+This is why we urge EU legislators to include the following proposals to drive meaningful 
+efficiencies for enhanced cybersecurity: 
+ 
+a) Aligning the concept of “main establishment”: 
+ 
+Article 14(7) of the CRA defines “main establishment” differently from Article 26(2) of 
+the NIS2 Directive. This concept is also present in other (non-cyber) EU legislation, such 
+as the GDPR or the Digital Services Act (DSA). However, Member States have adopted 
+varying interpretations of “main establishment” when transposing or implementing 
+these rules. This lack of consistency undermines the EU’s objective of reducing 
+regulatory fragmentation and creates significant challenges for companies in 
+determining their main establishment—particularly when trying to align it with the 
+location most relevant for compliance. 
+ 
+This is why IBM believes that companies established in the EU should be able to use 
+the same country of main establishment across all legislation that includes this 
+one-stop-shop principle. We encourage EU legislators to focus on the ultimate goals, 
+i.e. improving and simplifying notifications and reporting procedures, as well as 
+reducing unnecessary administrative burden and fragmentation of the single market. 
+ 
+a) Addressing overlap of audits and conformity assessments: 
+ 
+Companies that are in scope of NIS2, DORA, GDPR, and CRA face multiple processes, 
+conformity assessments and audit requirements to demonstrate compliance with each 
+of these regulations. While each regulation has its specificity and scope, numerous 
+security requirements under one regulation could qualify as compliance with another, 
+particularly among those that are applicable to critical infrastructure (i.e. NIS2 and 
+related sector-specific laws such as DORA). In practice, the lack of a coordinated EU-
+wide oversight framework has created a fragmented and unnecessarily complicated 
+compliance environment. Financial institutions and public entities classified as critical 
+infrastructure often impose overlapping audit and certification requirements on their 
+third-party service providers to meet supervisory expectations.  
+ 
+This results in repeated audits where providers must demonstrate the same risk 
+controls to multiple clients and government authorities throughout the year, 
+increasing unnecessary administrative burden and costs, and requiring providers to 
+ 
+4 
+ 
+allocate limited resources to manage repeated audits, rather than focus on other areas 
+that could be more impactful.   
+ 
+Additionally, the harmonisation goal of NIS2 is challenged by varying conformity 
+assessment processes required nationally, which would risk further fragmentation. 
+For example, NIS2 requires similar risk management measures across the EU, yet 
+companies would have to undergo multiple conformity assessments in various forms 
+(e.g. certification or third-party audits) in each of the countries they operate, even 
+though this requirement is similar for all member states.  
+ 
+To address this issue, IBM recommends a common set of tools to demonstrate 
+conformity with NIS2 and mutual recognition of national certifications and frameworks.  
+This would streamline supervision, avoid duplication, and enhance overall efficiency 
+without weakening oversight. 
+ 
+Sector-specific rules, such as DORA and the Network Code on Cybersecurity 
+(NCCS), should be closely aligned with NIS2, as the horizontal framework for critical 
+infrastructure. For any upcoming sector-specific cybersecurity rules, we encourage 
+member states to leverage Recital 22 of NIS2 Directive. Following the principle of this 
+provision, NIS2 should be a baseline legal framework, and more specific sectoral rules, 
+if necessary, should be introduced as implementing acts. 
+ 
+The proposed EU-level “certificate of cyber posture” in the proposed revised 
+Cybersecurity Act is a positive step to reduce administrative burden and compliance 
+costs for companies (i.e. certifying once at EU level). However, we would like to see 
+further and more immediate simplification of conformity assessments across all EU 
+cybersecurity legislation (including CRA). 
+ 
+ 
+DATA GOVERNANCE  
+ 
+We welcome the Commission’s proposal to merge provisions from the Data Governance 
+Act, Free Flow of Non-Personal Data Regulation, and Open Data Directive into the Data 
+Act, creating a single, streamlined framework. It repeals outdated regulations while 
+maintaining core principles such as the prohibition of data localisation. This will help 
+simplify compliance by reducing fragmentation. However, we would like to outline the 
+following concerns/need for clarification: 
+ 
+ 
+5 
+ 
+Cloud switching termination charges for fixed-term IaaS contracts - Art. 1(15) of 
+Omnibus (ref. to Art. 31(1b) of the Data Act): 
+ 
+We are concerned about some provisions that would significantly alter the regime 
+for cloud switching. Indeed, Art.1 (15) of the Commission’s Omnibus proposal includes 
+a provision into the Data Act setting that a cloud provider may include termination 
+charges in contracts of fixed duration other than IaaS (Infrastructure-as-a-Service) 
+contracts. However, recital 18 recognises that “for reasons relating to financial planning 
+and attracting investment, providers of data processing services, especially SMEs and 
+SMCs, may prefer and offer contracts of a fixed duration. It is necessary to clarify that 
+providers of data processing services may include provisions on proportionate early 
+termination penalties in those contracts as long as they do not constitute an obstacle to 
+switching.” 
+ 
+Yet the adopted Data Act clearly reaffirmed that nothing in the Regulation prevented the 
+parties’ contractual freedom of agreeing on proportionate termination charges in line 
+with Union or national law. This reflects common practice in B2B relationships, where 
+enterprise customers understand and agree that committing to a fixed-term contract is 
+generally more cost-efficient but entails termination charges if ended before the 
+commitment ends. These charges are clearly stipulated in the contract upfront and 
+hence agreed by clients and providers.  
+ 
+Therefore, we encourage EU legislators not to use the Digital Omnibus Regulation to 
+insert an arbitrary exception to contractual freedom. While the Digital Omnibus 
+Regulation expressly states that it does “not intend to introduce changes to the 
+achievements of the Data Act”, it substantially modifies the equilibrium reached during 
+the negotiation of the Act. By including distinctions between IaaS, PaaS and SaaS 
+providers, between SMEs and other providers, and including a category of custom-made 
+cloud services (on top of the already existing custom-built services), not only does the 
+Regulation create ambiguity and uncertainty but it also seeks to introduce different 
+cloud switching regimes depending on the type of cloud service and cloud provider.  
+ 
+Consequently, to remove this uncertainty and reinstate the achievements of the 
+Data Act, it should be confirmed that termination fees can be charged by providers 
+irrespective of the type of cloud contract (SaaS, PaaS or IaaS) in accordance with 
+Union or national law, as set forth in the Data Act. 
+ 
+ 
+ 
+ 
+6 
+ 
+Trade secrets protection - Art. 1(3) of Omnibus (ref. to Art. 4(8) of the Data Act): 
+ 
+We support the clarification on trade secrets safeguards, thereby protecting 
+companies’ intellectual property in cross-border contexts. We would encourage EU co-
+legislators to further reinforce trade secrets protection in these provisions, by 
+including a genuine possibility to avoid the sharing of these valuable business secrets, 
+and by clarifying that data should not be shared when it risks exposing cybersecurity 
+vulnerabilities. 
+ 
+ 
+GENERAL DATA PROTECTION REGULATION (GDPR)  
+ 
+Legitimate interest - Art. 3 of Omnibus (ref. to Art 6(1) of GDPR) 
+Definition of personal data - Art. 3 & 4 of Omnibus (ref. to Art 4 of GDPR) 
+Automated decision-making - Art. 3(7) of Omnibus (ref. to Art 22 of GDPR) 
+ 
+IBM supports the confirmation that businesses can rely on legitimate interest as a 
+legal basis for the development of AI models and systems, as well as the clarification 
+of the concepts of personal data (e.g., pseudonymised or aggregated customer data is 
+not personal data). We therefore encourage EU co-legislators to support these 
+provisions.  
+ 
+We also believe that the proposed changes to Article 22 enabling automated decision-
+making under safeguards will provide much needed flexibility and clarification to 
+support the development of AI innovations like Agentic AI, particularly in a B2B 
+context, for example when deploying AI-powered tools for Know-Your-Customer (KYC) 
+verifications.  
+ 
+Proposed exemptions to cookies’ consent rules - Art. 3(15) of Omnibus (ref. to new Art 
+88a of GDPR) 
+ 
+IBM welcomes the Commission’s decision to expand the list of exemptions of required 
+cookies, where processing is lawful without consent, notably for low-risk purposes, 
+such as data analytics. However, this exemption is only valid to the extent the 
+“aggregated information about the usage of an online service to measure the audience of 
+such a service is carried out by the controller of that online service solely for its own use”.  
+This scope remains quite narrow and would not sufficiently benefit B2B companies 
+ 
+7 
+ 
+leveraging data analytics technologies, usually through third-party providers, to allow 
+better data–driven decisions based on deep business customer insights.  
+ 
+We would suggest further clarifying that this provision includes cases where the 
+measurement is done by controllers via the use of third-party cookie providers 
+acting as authorised third‑party processors that operate strictly under the 
+controller’s instructions (i.e. for analytics activities that remain internal and data 
+cannot be used by the third-party for its own purposes) 
+ 
+Other proposed provisions IBM supports and proposes to strengthen include: 
+• Further clarifying data subjects’ information rights and data access requests 
+(Art. 3 of Omnibus, ref. to 15 of GDPR), to help reduce the amount of abusive 
+data access requests and unjustified compensation claims. Ideally, the EU could 
+further clarify this provision by requiring organisations to perform only 
+"reasonable and proportionate searches”, when responding to data subjects’ 
+requests. 
+ 
+• Extend the simplified data‑breach notification process (Art. 3(8) of Omnibus, 
+ref. to Art 33 of GDPR) to data processors, i.e. applying the same risk-based 
+threshold to limit overreporting, and clarifying the conditions to notify “without 
+undue delay, taking into account the nature and gravity of the incident.” In B2B 
+contexts, applying the same standard across both roles would streamline 
+procedures, reduce burden along the service supply chain, avoid duplication, and 
+support faster, more consistent reporting. 
+ 
+• Harmonising Data Protection Impact Assessment (DPIA) processes (Art. 3(9) 
+of Omnibus, ref. to Art. 35 of GDPR), with a single EU-level vs. different national 
+lists to reduce administrative burden and fragmentation.   
+ 
+*** 

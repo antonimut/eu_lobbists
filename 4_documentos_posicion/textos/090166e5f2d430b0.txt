@@ -1,0 +1,1868 @@
+ 
+ 
+ 
+ 
+ 
+EU Ports European Economic Interest Group 
+ 
+ 
+Guidance for Greenhouse Gas Emission Footprinting 
+for   
+Container Terminals 
+ 
+December 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+    
+ 
+ 
+The Federation of European Private Port Companies and Terminals  
+Ref. Ares(2022)7323321 - 21/10/2022
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 2 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Document Information 
+ 
+Project: Guidelines for Common Greenhouse Gas Footprinting for Container Terminals 
+  
+Purpose of this document: To provide container terminal operators with advice and instruction on the 
+elements to be included and excluded in reporting greenhouse gas emissions, 
+as part of terminal-level carbon footprinting and analyses. 
+  
+Key authors & 
+Contributors 
+• APM Terminals, Ashley Woods, Senior Environmental Advisor 
+• Contship Italia, Italy, Paola Pirrello, Senior Quality and Environmental 
+Officer 
+• European Container Terminals (ECT)/ Hutchison Ports, Rotterdam. Stef 
+Capelle, Environment Manager 
+• EUROGATE, Hamburg/Breman, Andreas Schruth, Director Energy and 
+Environmental Managment 
+• FEPORT. Conor Feighan, Policy Advisor 
+• HHLA, Jan Hendrik Pietsch, Corporate Sustainability Manager 
+• PSA, Stefano Mordeglia, QHSSE Manager 
+Contact details Stef Capelle, ECT Rotterdam (stef.capelle@ect.nl) 
+Conor Feighan, FEPORT (conor.feighan@feport.eu) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 3 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+CONTENTS          Page 
+ACKNOWLEDGEMENTS 5 
+GLOSSARY OF KEY GHG AND CONTAINER TERMINAL TERMS 6 
+EXECUTIVE SUMMARY 10 
+1  INTRODUCTION 11 
+1.1 Background to the Guidance 11 
+1.2 Context with International Standards 11 
+1.3 Key Definitions 11 
+ - Greenhouse Gases 11 
+ - Guidance 13 
+ - Role in the Supply Chain 14 
+2 PRINCIPLES AND OBJECTIVES 15 
+2.1 Objectives of the EEEG GHG Footprinting Guidelines 15 
+ - Benefits of Common Footprinting and Reporting 15 
+2.2 Reporting Principles 16 
+2.3 Amendments 17 
+3 ORGANISATIONAL BOUNDARIES 18 
+3.1 Context 18 
+3.2 The Two Approaches 18 
+ - Equity Share Approach 18 
+ - Control Approach 18 
+3.3 Selecting an Approach 19 
+4 OPERATIONAL BOUNDARIES 20 
+4.1 Setting the Operational Boundaries at a Container Terminal 20 
+ - Range of Activities 20 
+ - Non-Containerised Cargo Activity 20 
+4.2 Alignment with International Standards 21 
+ - The Three Scopes 21 
+ - Typical Container Terminal Activity 22 
+4.3 Schematic of a Terminal 24 
+4.4 Reefers 24 
+4.5 Other Activities 25 
+ - On-site Contractors 25 
+ - Off-site Contractors 26 
+4.6 Exclusions 28 
+4.7 Commencing a GHG Footprint 28 
+5 ANALYSIS AND REPORTING OF GHG EMISSIONS 29 
+5.1 Scopes of Reporting 29 
+5.2 Double-counting and Consolidation 29 
+5.3 Base Year 29 
+5.4 Denominator 29 
+ - Unit of Activity 29 
+ - Treatment of Reefers 30 
+5.5 Emission Factors 30 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 4 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+5.6 Reporting 31 
+ - Required Information 31 
+ - Optional Information 32 
+ 
+ 
+ 
+REFERENCES 34 
+APPENDIX 1: FREQUENTLY ASKED QUESTIONS 35 
+APPENDIX 2: TYPICAL ACTIVITIES IN A CONTAINER TERMINAL 37 
+APPENDIX 3: EXAMPLE REPORTING TABLE 41 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 5 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Acknowledgements 
+ 
+The EEEG would like to thank all those who have participated in the first revision of this 
+document. This revision is the result of many meetings (in person and by telephone 
+conference) in which technical views were shared.  
+Special thanks goes to FEPORT for hosting and organising the meetings, as well as carrying 
+out the editing of the guidelines in line with the principles agreed by the EEEG Group. 
+We would also like to express our gratitude to the main author of the original version of the 
+guidance document. Having a well organised and clear existing guidance document made the 
+revision process more straight forward.  
+Thanks also goes to GLEC for participating in the drafting process. They shared their expert 
+knowledge and views from a wider logistics chai n perspective. This added an insightful new 
+perspective to our work which has been incorporated into the final text.  
+We hope this Guidance Document will help terminals while they take their first steps on the 
+path of GHG footprinting, and enable footprint  calculation in a consistent way. And, what is 
+more important, we trust it will increase the understanding of key emission sources so that 
+reduction programmes can be implemented.  
+ 
+Good luck, 
+ 
+Stef Capelle 
+Chairman EEEG a.i. 
+ 
+ 
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 6 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Glossary of Key GHG and Container Terminal Terms 
+ 
+We encourage the reader to browse the glossary prior to reading the main document. We 
+have tried to use consistent terminology throughout the document and appreciate that some 
+terms and their definitions may vary from those used by other organisations. 
+Term Definition 
+AGV Automated Guided Vehicle; unmanned internal trailer guided by transponders 
+located under the road surface and used to transfer containers within the 
+terminal. Power source is an all diesel drive, a diesel/electric drive or a battery 
+drive. 
+ASC Automated Stacking Crane; unmanned electrically driven rail mounted crane 
+used for stacking and retrieving containers in a predefined container stack. 
+Base year The year to which all other subsequent years are compared.  This may change 
+over time as data becomes more robust or circumstances change. 
+Break bulk A variety of goods that must be loaded individually, and not in intermodal 
+containers, nor in bulk as with grain or oils. 
+Carbon/carbon 
+emissions 
+The term ‘carbon’ in the context of climate change is frequently used incorrectly. 
+Carbon is a non -metallic solid element derived from the Latin word carbo 
+(meaning coal). What is usually meant is CO2: a gas. Use of the term ‘carbon’ as 
+a substitute for CO 2 is wrong but is now standard in the media. For instance, 
+“carbon footprint” is really a “CO 2, or GHG, footprint”. This Guidance avoids the 
+use of the term ‘carbon emissions’, preferring instead to use ‘GHG emissions’, 
+‘GHG footprint’ etc. 
+Carbon footprint A term commonly used to describe the total amount of GHG emissions (but 
+predominantly CO2) for which a company or organisation is responsible. 
+Footprints can also be calculated for individual events and products.  Carbon 
+footprints are expressed in tonnes of CO2 equivalent (tCO2e). CO2 is the key 
+GHG that Governments, legislation and companies are currently focusing on 
+reducing. 
+CFC Chlorofluorocarbons 
+CH4 Methane 
+CO2-equivalent 
+(CO2e) 
+The universal unit of measurement to indicate the global warming potential 
+(GWP) of each of the six GHGs named in the Kyoto Protocol – carbon dioxide 
+(CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), 
+perfluorocarbons (PFCs), sulphur hexaflouride (SF6) – expressed in terms of the 
+GWP of one unit of carbon dioxide. It is used to normalize the different GHGs to 
+a common unit of measurement. 
+Container Freight 
+Station (CFS) 
+Facility where containers are stuffed and unloaded, and cargo is stored prior to 
+onward transportation. The CFS facility may be within the container terminal 
+boundary or in the hinterland. 
+Container terminal 
+equipment 
+Fossil fuel, electric or battery powered equipment and machinery that can 
+navigate around a container terminal. It is usually the case that this equipment 
+has a driver (but see AGV). Examples include: RTGs, RMG, straddle carriers, 
+reachstackers, ECHs, sprinters, ITVs, etc. 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 7 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Term Definition 
+Defra UK Government Department: Department of Environment, Food and Rural 
+Affairs:  http://www.defra.gov.uk. 
+Direct GHG 
+emissions 
+Emissions from sources that are owned or controlled by the reporting company. 
+These are commonly referred to as Scope 1 emissions, when they are within 
+the company’s “operational control”. 
+Dry bulk Product cargo transported in loose form such as coal, grain, ore and similar 
+products. 
+ECH   Empty container handler 
+EEEG    EU Ports EEIG Environment Group 
+EEIG   European Economic Interest Group 
+Emission factor (EF) A conversion factor allowing GHG emissions to be estimated from a unit of 
+available activity data (e.g. tonnes of fuel consumed, kWh of electricity 
+purchased). 
+General cargo “Packaged” items such as chemicals, foods, furniture, machinery, motor 
+vehicles, footwear and garments etc. 
+Greenhouse Gas 
+(GHG) 
+A generic term covering many gases that have some level of global warming 
+potential. In particular, GHG is taken to cover the basket of six Kyoto gases 
+listed in section 1.2 of this document. 
+GHG Protocol Greenhouse Gas Protocol  http://www.ghgprotocol.org/.   The GHG Protocol is 
+the most widely used international accounting information source for 
+government and business to understand, quantify, and manage their GHG gas 
+emissions. The GHG Protocol is a partnership between the World Resources 
+Institute and the World Business Council for Sustainable Development.   
+Global warming 
+potential (GWP) 
+A factor describing the degree of harm to the atmosphere of one unit of a given 
+GHG relative to one unit of CO2.  All GHGs have a GWP. This value is used to 
+compare the abilities of different GHGs to trap heat in the atmosphere. GWPs 
+are based on the heat-absorbing ability of each gas relative to that of CO2, as 
+well as the decay rate of each gas (the amount removed from the atmosphere 
+over a given number of years). GWPs can also be used to define the impact 
+GHGs will have on global warming over different time periods or time horizons 
+(e.g. 20, 100 and 500-years). 
+Global  Warming  Potentials (100-year Time Horizon) 
+Gas GWP 
+Carbon dioxide (CO2) 1 
+Methane (CH4)* 21 
+Nitrous oxide (N20) 310 
+HFC-23 11,700 
+HFC-125 2,800 
+HFC-134a 1,300 
+HFC-143a 3,800 
+CF4 6,500 
+C2F6 9,200 
+C4F10 7,000 
+C6F14 7,400 
+SF6 22,900 
+Source: UNFCC 2017-10-10 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 8 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Term Definition 
+HCFC Hydrochlorofluorocarbons (HCFCs) are enabling the phase-out of CFCs.  Their 
+GWP is less than HFCs. 
+HFC Hydroflourocarbons (HFCs) are man-made chemicals containing the element 
+fluorine used predominantly as refrigerants and aerosol propellants. They are 
+colourless, odourless and chemically non-reactive gases. These GHGs are 
+primarily being used as replacements to ozone-damaging CFCs and HCFCs.  
+HSE Health, Safety and Environment 
+H&S Health and Safety 
+Indirect emissions Emissions that are a consequence of the operations of the company but occur 
+from sources owned or controlled by another company or third party, for 
+example, as a consequence of the purchase of electricity, heat, or steam 
+(Scope 2) or by other third parties (Scope 3). 
+Internal transfer 
+vehicle (ITV) 
+Also known as a trailer tractor, toe tractor, bombcart, or tug, the ITV is an 
+internal movement vehicle used to move containers around within the terminal.  
+Inventory 
+Management Plan 
+(IMP) 
+An IMP describes the process for completing a comprehensive and company-
+wide GHG inventory. It is used by companies to document the process for 
+collecting, calculating, and maintaining GHG data. Companies may have a 
+single IMP document that addresses all of the elements that go into developing 
+their inventory, or they might have an equivalent collection of procedures and 
+other relevant information. An IMP can evolve over time and be continually 
+improved as the company’s knowledge and coverage of GHGs increases. 
+ISO International Organisation for Standardisation 
+MHC Mobile harbour crane 
+Mobile sources of 
+emissions 
+Mobile sources are any combustion of fuels in transportation, terminal 
+equipment (e.g. Straddle Carriers, Reach Stackers) and other vehicles such as 
+cars, trucks, buses, trains, aeroplanes, boats, ships, barges and vessels.  
+Cranes, if powered by a fossil fuel (i.e. Mobile Harbour Crane) will also count as 
+mobile.  Any cranes that run on a fixed rail and are connected to an electrical 
+supply fall into the “fixed” category (the GHG Protocol refers to mobile and fixed 
+sources of emissions). 
+N2O Nitrous oxide 
+Non-container 
+cargo 
+Cargo dealt with by the terminal that is non-containerised, i.e., general cargo, 
+break bulks etc. 
+Out-of-gauge (OOG) 
+cargo 
+Cargo dimension exceeding a standard container’s internal dimension which is 
+transported on a flat-bed or open container. 
+Operational 
+boundaries 
+The boundaries that determine the core direct and indirect emissions 
+associated with operations owned or controlled by the company. These 
+boundaries allow the company to establish which operations and sources cause 
+direct and indirect emissions, and to decide which optional emissions to include 
+that are consequences of its operations. 
+Optional emissions Emissions that are a consequence of the activities of the company but are not 
+part of direct or indirect emissions as defined by the GHG Protocol (e.g. 
+employee commuting).  Emissions in this category can be referred to as Scope 
+3 emissions. 
+Organisational 
+boundary 
+The boundaries that determine the operations owned or controlled by the 
+company depending on the consolidation approach taken. 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 9 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Term Definition 
+PFC Perfluorocarbons (PFCs) are fluorocarbons, compounds derived from 
+hydrocarbons.  PFCs are one of the six gases which make up the ‘basket’ of 
+GHGs that the GHG protocol aspires to measure and report on. PFCs are found 
+in some high voltage equipment, refrigeration and medical equipment. 
+Reach Stacker (RS) A reach stacker is a vehicle used for handling containers in the terminal yard.  
+Rail mounted gantry 
+(RMG) crane 
+A container-carrying crane that moves on fixed rails. Considered to be a 
+“stationary” source of emissions when comparing “fixed” and “mobile” sources 
+under GHG Protocol definitions. 
+Rubber-tyred gantry 
+(RTG) crane 
+A container-carrying crane with tyres that moves along a grid in the container 
+stack. Considered to be a “mobile” source of emissions when comparing “fixed” 
+and “mobile” sources under GHG Protocol definitions. 
+Scope 1 Direct GHG emissions from sources owned or controlled by the company, as 
+defined by the GHG Protocol. 
+Scope 2 Emissions associated with the generation of electricity, heating/cooling, or 
+steam purchased for the company’s own consumption, as defined by the GHG 
+Protocol. 
+Scope 3 Indirect emissions (also optional emissions) other than those covered in Scope 
+2, as defined by the GHG Protocol.  
+SF6 Sulphur hexafluoride (SF6) is an inorganic, colorless, odorless, non-toxic and 
+non-flammable gas (under standard conditions).  SF6 is used in the electrical 
+industry as a gaseous dielectric medium for high-voltage (35 kV and above) 
+circuit breakers, switchgear, and other electrical equipment, often replacing oil 
+filled circuit breakers that can contain harmful PCBs.  Its GWP is 22,000. 
+Stationary sources 
+of emissions 
+Stationary emissions are part of Scope 1emissions (alongside mobile sources) 
+as outlined in the GHG Protocol.  Stationary emissions are commonly from 
+diesel or petrol combusted on site. 
+Structural change A change in the company’s organisational or operational boundaries that results 
+from a transfer of ownership or control of emissions from one company to 
+another. Structural changes usually arise from a transfer of ownership of 
+emissions, such as mergers, acquisitions, divestitures, but can also include 
+outsourcing/in-sourcing. 
+TEU Twenty-foot Equivalent Unit 
+Transshipment Cargo which is  offloaded from the vessel and may be trucked into the yard, to 
+be reloaded onto another vessel at a later date. 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 10 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Executive Summary 
+ 
+Greenhouse gas (GHG) emissions footprinting is a complex subject, and particularly so in the context 
+of container terminals, which have multiple emission sources and sometimes complicated 
+organisational and operational boundaries. It is hard to arrive at a ‘right’ answer and it is likely that, 
+faced with the same information, different organisations might generate different GHG footprints. 
+These Guidelines have been prepared by a group of container terminal operator sector experts to 
+throw some light on this subject, against the background of increasing interest by stakeholders in 
+the shipping and logistics s upply chain community. It sets out an agreed approach to calculate a 
+GHG footprint for a container terminal that is broadly in line with the principles contained within the 
+GHG Protocol, itself probably the most widely -accepted international work on the su bject, and the 
+GLEC Framework which carries the ‘Built on GHG Protocol’ mark and provides additional detailed 
+guidance for the logistics sector.  
+ 
+The EEEG supports consistency in calculation methods and reporting. The guidance is not intended 
+to enable companies and organisations up and down the supply chain to publicly compare the GHG 
+footprints of one terminal operator against the other.  In preparing the Guidelines, a fundamental 
+concept is that it is neither logical nor correct to compare one terminal against another on the basis 
+of its GHG footprint, since the local conditions and operating modes differ at every terminal (e.g. size 
+and geographical area of the site, age of equipment portfolio, types of trade and activities, the 
+climate, daylight hours and modal split).  The aim for every container terminal should be to improve 
+its efficiency and carbon performance from year -to-year whilst calculating GHG emissions on a 
+consistent basis. 
+The distinction between container terminals and ports shou ld be noted carefully. Preparing a GHG 
+footprint for a port authority is a related but broader subject. Readers are referred to the International 
+Association of Ports & Harbors (IAPH)/ World Ports Climate Initiative (WPCI) document on this 
+subject (at http://wpci.iaphworldports.org/carbon-footprinting/index.html). In the event that a port 
+does wish to calculate total emissions for the port area, it should be noted that there is a 
+differentiation between terminal emissions and port emissions. 
+ 
+It is also worth noting that terminals may decide to allow their emissions calculations to be used by 
+logistics service providers in order for them to calculate a full carbon footprint for the ir logistics 
+chains. The direct impact of a terminal may be relatively limited 1, but the location and connectivity 
+may be deemed to impact indirectly on the overall emissions of the chain through the opportunities 
+available for modal choice. In this discussion it is also important to note that a terminal does not have 
+a direct relationship with the cargo owner, but rather with the carrier. 
+ 
+Although the intention in producing this document is that it will enable consistency within the 
+container terminal industry in how GHG footprints are prepared, it is, however, only guidance, and 
+container terminal operators are free to develop and use their own methodology if they wish.  
+The authors hope that any comments or questions on the content  of the methodology presented 
+here will be sent to them for the purposes of continual improvement using the contact details on 
+page (v).
+ 
+1 See Section 1.3.3 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 11 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+1  INTRODUCTION 
+ 
+1.1 Background to the Guidance 
+ 
+The EU Ports EEIG Environment Group (EEEG) was initiated by the EU Port Eu ropean Economic 
+Interest Group (EEIG) in 2009 as a platform from which to discuss carbon dioxide (CO 2) and other 
+greenhouse gas (GHG) emissions in relation to container terminal activities. The EEEG comprises 
+leading European container terminal operators, many of which also operate internationally.  
+On this basis, the EEEG has been set up with the following key aims and purposes: 
+ 
+• To develop a standard method of measurement of terminal -level GHG emissions, including 
+the definition of scopes and boundaries, and in line with internationally-accepted standards, 
+by discussion of GHG calculation methods and agreement on minimum information to be 
+reported. 
+• To obtain technical information and data to support the reduction of GHG emissions, 
+including that driven by any impending legislation. 
+• To share best practice in GHG emissions reduction, including low-carbon technologies, tools 
+and techniques. 
+• To be a voice for container terminal operators on carbon and GHG-related issues. 
+• To consider wider environmental sustainability issues relating to terminal operators as may 
+be agreed from time to time by the EEEG or at the request of the EEIG. 
+In line with the aims of the EEEG, this document presents the EEEG guidance for common GHG 
+footprint calculations for container terminals, which has been developed through a series of 
+workshops with group members participating. Each of the members supports the principles 
+described in this document. 
+ 
+1.2 Context with International Standards 
+ 
+In the context of GHG reporting, the most comprehensive and relevant documents currently available 
+are considered to be the internationally -recognised standard developed by the World Resources 
+Institute (WRI) and the World Business Council for Sustainable Development (WBCSD ), The 
+Greenhouse Gas Protocol (“the GHG Protocol”) and the GLEC Framework for Logistics Emissions 
+Methodologies which will adopt the EEEG guidance in its next update . See also the References 
+section . The GHG Protocol is, however, a corporate standard for  portfolio level reporting whereas 
+this EEEG Guidance is aimed at the individual container terminal level. This guidance is written and 
+set-up in accordance with many of the underlying principles and concepts in the Greenhouse Gas 
+Protocol and the GLEC Framework. 
+ 
+ 
+1.3 Key Definitions 
+ 
+1.3.1 Greenhouse Gases 
+ 
+The participating companies have agreed to use the term “GHG emissions” when referring to the 
+huge range of GHGs that are found naturally and also emitted to the atmosphere from 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 12 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+anthropogenic sources.  The Kyoto Protocol references seven key GHGs, which the GHG Protocol 
+also highlights as the key GHG emissions it aims to focus on. Table 1 below shows which GHGs 
+are included under different initiatives. 
+ 
+ 
+Table 1 GHGs under different scenarios 
+ 
+All GHGs Basic carbon dioxide 
+footprint 
+Kyoto Protocol & GHG 
+Protocol target emissions  
+Container Terminal 
+Operators’ Guidelines 
+Carbon dioxide (CO2) ✓ ✓ ✓ 
+Methane (CH4)  ✓ ✓ 
+Nitrous oxide (N2O)  ✓ ✓ 
+Hydrofluorocarbons (HFCs)  ✓ To be considered in the future 
+Perfluorocarbons (PFCs)  ✓ To be considered in the future 
+Sulphur hexafluoride (SF6)  ✓ To be considered in the future 
+Nitrogen trifluoride (NF3)  ✓ To be considered in the future 
+Hundreds of other GHGs    
+ 
+Most organisations begin with reporting just carbon dioxide (CO2).  The next step is to try to include 
+nitrous oxide (N2O) and methane (NH4) in the GHG footprint.  CO2e (carbon dioxide equivalent) is a 
+quantity describing all GHG in terms of the amount of CO2 that would have the same global warming 
+potential (GWP) Often the term isused in GHG footprinting to describe the basket of the six most 
+important GHG, expressed in terms of carbon dioxide. 
+ 
+For the purposes of this report and when embarking upon calculating a quantified carbon footprint, 
+container terminal operators should focus on the three GHGs that we are able to measure: carbon 
+dioxide, methane and nitrous oxide.  Scientists are increasingly focused on the role of potent, short-
+term greenhouse gases, such as methane (which is 25 times as potent as CO 2—though there's far 
+less of it). As we think about how to combat climate change in the short term, ta king these gases 
+into account makes sense. 
+ 
+Information Box 1 shows how a company can calculate and show both CO 2 and carbon dioxide 
+equivalent (CO2e) emissions. We recommend that both CO2 and CO2e are reported, but on different 
+lines. It is a future intention to try and calculate good estimates for the other three GHGs in the basket 
+of six, when more detailed information is available on calculating leakages from their sources (e.g. 
+air conditioning equipment). 
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 13 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+ 
+Information Box 1 – Carbon dioxide equivalent 
+ 
+CO2 equivalent (CO2e) is the concentration of CO2 that would cause the same level of radiative forcing 
+as a given type and concentration of GHG (e.g. methane, nitrous oxide).  Scientifically, CO2e is 
+expressed as parts per million by volume, ppmv. For the purposes of this Guideline, a calculation of 
+CO2e takes into account the three key GHGs: CO2, methane and nitrous oxide.  
+Individual sources of Scope 1 fossil fuels and resources have discrete emission factors (EF) that are 
+used to convert a unit into GHGs.  
+GHG emissions are calculated by multiplying a unit, such as a litre of fuel, by the EF*.  Emission factors 
+from combustion can be expressed as the combination of the emissions that result solely at the point of 
+combustion (often called tank-to-wheel) and the upstream emissions that result from producing the fuel 
+(often called well-to-tank emissions).  Combining these two elements results in a full well-to-wheel 
+emission factor.  Use of the well to wheel emission factor is particularly important in situations where 
+comparisons are made between different fuel types, particularly where electricity is being compared 
+against conventional fossil fuels, because they can have quite different production cycles.  
+The choice of tank-to-wheel or well-to-wheel approach can have a significant difference on the ultimate 
+value because the fuel production can easily represent 20% or more of the total emissions.  
+When considering the combustion of conventional fossil fuels the tank to wheel element should be 
+reported as a scope 1 emission whilst the well-to-tank element should be reported as a scope 3 
+emission. 
+The emission factors to be used to calculate GHG emissions as a result of the combustion of diesel fuel 
+are as follows: 
+Scope 1, tank to wheel element: 2.67 kg CO2e per litre of diesel fuel 
+Scope 3, well to tank element: 0.57 kg CO2e per litre of diesel fuel 
+Remember CO2e takes into account other GHGs besides CO2.  The above figures include the relatively 
+small amounts of other GHGs that are emitted as a result of the combustion.   
+Combustion of 100 litres of diesel fuel produces: 
+Scope 1: 267 kg CO2e, plus 
+Scope 3: 57 kg CO2e   
+ 
+Nitrogen oxides (NOx) and particulates (e.g. PM5 and PM10) are not GHG and are more likely to be 
+taken into account in air quality studies.  They are therefore not included in this guidance.  
+ 
+1.3.2 Guidance 
+ 
+Reference is made to both this report (“Guidelines”) and its contents (i.e. “guidance”). The terms 
+are interchangeable throughout the report. 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 14 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+1.3.3 Role in the Supply Chain 
+ 
+We would also like to note that direct GHG emissions from container terminals represent only a 
+small proportion of total emissions associated with the global supply chain. Studies indicate that 
+within global container supply chains the GHG emissions for handling containers at the points of 
+export and import in the terminals account for somewhere around 2% on intercontinental routes 
+(Heriot-Watt University et al., 2011, and Garrat & Rowlands, 2011 – see Information Box 2). On 
+shorter routes, this percentage may change. 
+ 
+Information Box 2 – Context of container terminals in the supply chain 
+Supply chain research by Garrat and Rowlands (2011) has discussed the role of carbon dioxide 
+emissions of sea transport in the context of between 100 and 120M TEU boxes per year. They refer to 
+an average trip length of approximately 9,000km.  Based on the shipping model developed by MDS  
+Transmodal and Box Trade Intelligence, this results in the emission of 1,410kg of CO2 per TEU. They 
+go on to say that most containers do not originate from anywhere near the port where the sea leg starts. 
+The same is true of their destination.  Therefore a land leg of 200km is included. The emission of the 
+land leg (by truck) is calculated at 1.0kg per km.  The transport of this 20ft. container with an average of 
+14.5 metric tonnes of consumer goods results in the emission of approximately 1,850kg of CO2. 
+Approximately 45kg of this can be attributed to the terminal handling, or just over two percent.  
+ 
+Nonetheless, terminal operators acknowledge their responsibility to improving sustainability, and aim 
+to have strategies and actions in place to measure, monitor, manage and improve performance in 
+GHG emissions from their business activities.   
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 15 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+2 PRINCIPLES AND OBJECTIVES 
+ 
+2.1 Objectives of the EEEG GHG Footprinting Guidelines 
+ 
+The EEEG Guidelines for Common GHG Footprinting for Container Terminals, as presented in this 
+report, have been developed via a series of workshops and meetings with the group members. The 
+guidance has been designed with the following objectives: 
+ 
+• To provide a common methodology that can be followed by marine and inland container 
+terminal operators to calculate their GHG emissions; 
+• To encourage more consistency and transparency in the reporting of GHG emissions 
+associated with container terminals; and 
+• To provide stakeholders with an improved understanding of the methods used to calculate 
+GHG emissions at container terminals. 
+ 
+The EEEG supports consistency in calculation methods and reporting. The guidance is not intended 
+to enable companies and organisations up and down the supply chain to publicly compare the GHG 
+footprints of one container terminal operator against the other. That is why the EEEG guidance 
+document follows the principles of the GHG Protocol. 
+ 
+Indeed, in preparing the Guidelines, a fundamental concept is that it is neither logical nor correct to 
+compare one terminal against another on the basis of its GHG footprint, since the local conditions 
+and operating modes differ at every terminal (e.g. size and geographical area of the site, age of 
+equipment portfolio, types of trade and activities, the climate, daylight hours and modal split).  The 
+aim for every container terminal should be to improve its effici ency and carbon performance from 
+year-to-year whilst calculating on a consistent basis. This is why performance in GHG emissions 
+must also be reported against a base year. 
+ 
+Guidance on supply chain GHG emissions calculation and reporting is not contained i n this 
+document; this is covered in the aligned GLEC Framework for Logistics Emissions Methodologies, 
+which will adopt the EEEG guidance from version 2.0 onwards. 
+ 
+Guidance for measurement and reporting of embodied GHG in construction materials and activities 
+is not included in this document. We acknowledge that this topic is certainly very worthy of future 
+discussion. 
+ 
+2.1.1 Benefits of Common Footprinting and Reporting 
+ 
+A common GHG footprinting and reporting methodology will have the following benefits: 
+ 
+• To collate consistent GHG-related performance data at the terminal level. 
+• To assist terminals new to the discipline of GHG footprinting in collating energy and GHG 
+related data. 
+• To provide stakeholders and companies in the logistics supply chain with data that has been 
+collated in a consistent manner, in the context of sharing performance improvements. 
+• To have a combined dataset representative of a group of terminal operators; this would 
+inform better collaboration within parts of, or along the entire supply chain. 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 16 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+• To pave the way for contributing reliable and quantified data to a container terminal operator’s 
+overall sustainability performance. 
+ 
+2.2 Reporting Principles 
+ 
+The various internal and external stakeholders of container terminals requi re reporting on GHG 
+issues at a range of different levels and for a variety of purposes.  GHG reporting can be undertaken 
+at the global portfolio level, the regional level, national level and at the individual terminal level. 
+ 
+The work on this guidance has  been progressed with a focus at the “terminal level”. It is not a 
+corporate standard that covers the portfolio of an international container terminal operating company. 
+ 
+The principles that underlie the GHG Protocol Corporate Standard are fully embraced by the EEEG 
+in its guidance for GHG footprinting at container terminals. We describe a number of important 
+information points under each principle, below: 
+ 
+Table 2 Principles to be embraced in GHG footprinting at container terminals 
+ 
+Principle Meaning Notes 
+Relevance Ensure the GHG inventory 
+appropriately reflects the GHG 
+emissions of the company. 
+Correct choice of an appropriate inventory boundary is essential, 
+i.e, terminal boundary.  The exact choice of inventory boundary 
+is dependent on the characteristics of the company etc. Need to 
+consider: 
+• Organisational structures: control (operational and financial), 
+ownership, legal agreements, joint ventures, etc. 
+• Operational boundaries: on-site and off-site activities, 
+processes, services, and impacts 
+• Business context: nature of activities, geographic locations, 
+industry sector(s), purposes of information 
+Completeness Account for, and report on, all 
+GHG emission sources and 
+activities within the chosen 
+boundary. 
+All relevant emissions sources within the chosen inventory 
+boundary need to be accounted for so that a comprehensive and 
+meaningful inventory is compiled. 
+ 
+Consistency Use consistent methodologies to 
+allow for meaningful 
+comparisons of emissions over 
+time. Transparently document 
+any changes to the data, 
+inventory boundary, methods, or 
+any other relevant factors in the 
+time series. 
+Users of GHG emissions information will want to track and 
+compare GHG emissions information over time in order to 
+identify trends and to assess the performance of the reporting 
+company. The consistent application of accounting approaches, 
+inventory boundary, and calculation methodologies is essential 
+to producing comparable GHG emissions data over time. The 
+GHG information for all operations within an organisation’s 
+inventory boundary needs to be compiled in a manner that 
+ensures that the aggregated information is internally consistent 
+and comparable. If there are changes in the inventory boundary, 
+methods, data or any other factors affecting emission estimates, 
+they need to be transparently documented and justified. 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 17 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Principle Meaning Notes 
+Transparency Address all relevant issues in a 
+factual and coherent manner, 
+based on a clear audit trail. 
+Disclose any relevant 
+assumptions and make 
+appropriate references to the 
+accounting and calculation 
+methodologies and data sources 
+used. 
+Transparency relates to the degree to which information on the 
+processes, procedures, assumptions, and limitations of the GHG 
+inventory are disclosed in a clear, factual, neutral, and 
+understandable manner based on clear documentation and 
+archives (e.g. audit trail). 
+Information needs to be recorded, compiled, and analysed in a 
+way that enables internal reviewers and external verifiers to 
+attest to its credibility. Specific exclusions or inclusions need to 
+be clearly identified and justified, assumptions disclosed, and 
+appropriate references provided for the methodologies applied 
+and the data sources used. The information should be sufficient 
+to enable a third party to derive the same results if provided with 
+the same source data.  
+Accuracy Ensure that the quantification of 
+GHG emissions is systematically 
+neither over nor under actual 
+emissions, as far as can be 
+judged, and that uncertainties 
+are reduced as far as 
+practicable. Achieve sufficient 
+accuracy to enable users to 
+make decisions with reasonable 
+assurance as to the integrity of 
+the reported information. 
+Data should be sufficiently precise to enable intended users to 
+make decisions with reasonable assurance that the reported 
+information is credible.  GHG emission measurements, 
+estimates, or calculations should be systemically neither over 
+nor under the actual emissions value, as far as can be judged, 
+and that uncertainties are reduced as far as practicable. The 
+quantification process should be conducted in a manner that 
+minimizes uncertainty.  
+Reporting on measures taken to ensure accuracy in the 
+accounting of emissions can help promote credibility while 
+enhancing transparency. 
+ 
+ 
+2.3 Amendments 
+ 
+This document is the first revision of the Guidelines which shall continue to be revised periodically 
+as required to maintain, improve and evolve in line with new developments and best practice 
+procedures for GHG footprinting.   
+ 
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 18 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+3 ORGANISATIONAL BOUNDARIES 
+ 
+3.1 Context 
+ 
+All business operations vary in their legal and organisational structures; they include wholly -owned 
+operations, incorporated and non -incorporated joint ventures, subsidiaries and others. In setting 
+organisational boundaries, a company selects an approach for consolidating GHG emissions and 
+then consistently applies the selected approach to define those operations that constitute the 
+company for the purpose of accounting and reporting GHG emissions. 
+ 
+Container terminals in the EEEG portfolio show great difference in the organisational boundaries. 
+Some focus only on the loading and unloading of containers, while others possess in or off terminal 
+CFS or warehouses and some even act as port authority for the whole port. This makes the 
+determination of a universal organisational boundary impossible.  
+ 
+ 
+3.2 The Two Approaches 
+ 
+The GHG Protocol identifies two distinct approaches that can be used to consolidate GHG emissions 
+in corporate reporting: the “equity share” and the “control” approaches. Companies shall account for 
+and report their consolidated GHG data according to either the equity share or control approach as 
+presented below. 
+If the reporting company wholly owns all its operations, its organisational boundary will be the same 
+whichever approach is used. For companies with joint ownership or joint operations, the 
+organisational boundary and the resulting emissions may differ depending on the approach selected 
+and applied. In both wholly owned and joint operations, the choice of approach may change how 
+emissions are categorised when operational boundaries are set. 
+ 
+3.2.1 Equity share approach 
+ 
+Under the equity share approach, a company accounts for GHG emissions from operations 
+according to its share of equity in the operation. The equity share reflects economic interest, which 
+is the extent of rights a company has to the risks and rewards flowing from an operation. Typically, 
+the share of economic risks and rewards in an operation is aligned with the company’s percentage 
+ownership of  that operation, and equity share will normally be the same as the ownership 
+percentage.  For instance, a company investing and owning 35% of the ownership shares of 
+Company X would report 35% of the total GHG emissions of Company X. 
+ 
+3.2.2 Control approach 
+ 
+Under the control approach, a company accounts for 100% of the GHG emissions from operations 
+over which it has “control”. It does not account for GHG emissions from operations in which it owns 
+an interest but has no control. Control can be define d in either “financial” or “operational” terms. 
+When using the control approach to consolidate GHG emissions, companies shall choose between 
+either the “operational control” or “financial control” criteria. 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 19 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+• Financial Control. The company has financial con trol over the operation if the it has the 
+ability to direct the financial and operating policies of the latter with a view to gaining 
+economic benefits from its activities. For example, financial control usually exists if the 
+company has the right to the m ajority of benefits of the operation, however these rights are 
+conveyed. Similarly, a company is considered to financially control an operation if it retains 
+the majority risks and rewards of ownership of the operation’s assets. 
+ 
+• Operational Control. A company has operational control over an operation if the former (or 
+one of its subsidiaries) has the full authority to introduce and implement its operating policies 
+at the operation. This criterion is consistent with the current accounting and reporting practice 
+of many companies that report on emissions from facilities, which they operate (i.e. for which 
+they hold the operating licence). 
+ 
+3.3 Selecting an Approach 
+ 
+Before determining what activities to include in the GHG inventory, the first action is to choose 
+between the equity and control approach for the container terminal.  
+ 
+The company should be careful in its planning and avoid double-counting.  If the financial owner of 
+the terminal takes the equity approach and the company that runs the day-to-day terminal activities 
+(i.e. the control approach), there is a potential risk of double -counting (see also section 5.2). The 
+danger of double-counting can be reduced if the GHG inventory is a management decision and is 
+done with the help of the financial department . To clarify ownership and responsibility issues, 
+companies involved in joint operations may want to draw up contracts to specify how the ownership 
+of emissions and the responsibility for managing emissions and associated risk is distributed 
+amongst the parties. 
+ 
+The EEEG has discussed the advantages and disadvantages of adopting the control approach (i.e., 
+having management control and/or decision -making abilities) versus the financial approach (also 
+known as equity share) in establishing boundaries for GH G emissions’ footprinting.  The EEEG 
+acknowledges the more proactive benefits of the control approach.  In general, the most beneficial 
+approach will be to set the operational boundaries and calculate the footprint for the terminal as a 
+whole.  This will allow the most straightforward approach to data sharing at port or supply chain level.  
+If it is then necessary to allocate the emissions according to a financial partition then they can be 
+done as a subsequent action. Where ownership and control is complex (e.g. joint ventures), them  
+the approach taken may need to be considered carefully on a case-by-case basis. This choice should 
+be made together with the financial department of the organisation.  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 20 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+4 OPERATIONAL BOUNDARIES 
+ 
+4.1 Setting the Operational Boundaries at a Container Terminal 
+ 
+4.1.1 Range of activities 
+ 
+The terminal operators in the EEEG group collectively cover the following types of core cargo 
+handling activities:  
+• Containers – Twenty-foot Equivalent Unit (TEU) throughput. Handling of containers  usually 
+accounts for far more than 90% of the activities of the operators. 
+• Multi-purpose terminals – TEU throughput and non -container trade (e.g. general cargo, 
+bulks, ro-ro, livestock; administration, mooring activities). In recent times container terminals 
+have become more specialized, meaning that such mixed terminals are much less common 
+than previously. 
+• Non-container trade terminals, i.e., no TEU throughput (e.g. general cargo, break bulk, ro -
+ro). 
+ 
+4.1.2 Non-containerised cargo activity 
+ 
+This guidance document is written for container terminals. An aligned yet distinct approach designed 
+specifically for the cargo handling type in question should be followed for other terminal types. 
+ 
+For container terminals that handle a small amount non -containerized cargo, we suggest using a 
+conversion factor for the non-containerized cargo.  
+ 
+For container terminals that handle more than 20% of  non -containerised cargo (NCC) our 
+recommendation, if at all possible, is that the energy consumption and associated GHG emissions 
+for containers and non -container cargo should be measu red separately to avoid the need for 
+extensive allocation of energy and emissions between cargo types.2.  
+ 
+If a terminal has access to exact weights, or a terminal average for each container from its own 
+operational data then this figure should be used. T he EcoTransIt ratio 3 should be used where 
+information on weight is not available in a specific terminal. 
+ 
+2 NCC shows a great variety and often needs more handling per tonne than containers. If less than 80% is 
+containerised, it becomes difficult to justify the facility as a container terminal and it is probably more relevant to 
+refer to it as a General Cargo Terminal or Multi-purpose Terminal. To establish what percentage of cargo is container, 
+the operator should convert non-containerised cargo to TEU’s. The EEEG will consider expanding the guidance 
+document to include a chapter on NCC in a later version. The main objective of EEEG was to have a guidance 
+document for container terminals. 
+3 EcoTransIT provides a default ratio that 2 out of every 7 containers shifted are 20’ whilst 5 out of every 7 are 40’ 
+containers.  As a result the average container lift represents approx. 1.7 TEUs, which is equivalent to 17T net weight of 
+cargo. 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 21 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+When calculating the ratio of containerised to non-containerised cargo (NCC) in a terminal, a terminal 
+should calculate this by converting non -containerised cargo to TEU’s, using a conversion factor 
+based on an average gross weight of 12.45 metric tonnes equals to 1 TEU. 
+4.2 Alignment with International Standards 
+ 
+We have developed this guidance in line with the key “principles” of the GHG Protocol.  There are 
+specific guidelines to prevent “double -counting” of emissions by multiple entities of one company 
+that may be reporting GHG emissions.   
+ 
+4.2.1 The Three Scopes 
+ 
+According to the GHG Protocol, emission sources associated with a company’s business operations 
+(as outlined in the following tables) are divided and reported according to three scopes: 
+ 
+• Scope 1 refers to a company’s direct GHG emissions from assets that it controls or owns. 
+In a container terminal or its surrounding area. These are dominated by the combustion of 
+fossil fuels (e.g. diesel) from both stationary (e.g. diesel generator) and mobile (e.g. straddle 
+carrier) sources. These are reported as Scope 1. 
+ 
+• Scope 2 and 3 refer to different types of indirect GHG emissions that are a consequence 
+of the activities of the reporting company but occur at sources owned or controlled by 
+another company.   
+ 
+• At a container terminal, these are sources from finished energy “purchase”  (i.e. electricity, 
+chilled water, hot water or steam). These are reported as Scope 2 emissions.   
+ 
+• Multiple Scope 3 categories exist.  This is an “optional” reporting category. That being 
+stated, this guidance is only concerned with those that relate directly to the value chain of 
+a container terminal.  Which scope 3 subcategory a particular source falls under depends 
+on the nature of the source and the organizational relationships at the terminal.  As such 
+the choice of which scope three categories are included in the calculation and how they are 
+reported rests with the individual terminal.   
+ 
+Under these Guidelines, Scope 3, as mentioned above, is an “optional” reporting category that allows 
+for the treatment of all other indirect emission s. Some examples of Scope 3 activities are: the 
+extraction and production of purchased materials; transportation of purchased fuels; subcontractor 
+activities; business travel/commuting; water use; sewage disposal; refrigerated leakage; and waste 
+to landfill.  
+ 
+Reporting in line with this Guidance requires reporting of Scopes 1 and 2 emissions; the EEEG 
+advocates allowing companies to determine for themselves which categories of Scope 3 emissions 
+are relevant to their operational activities. If a terminal wishes to calculate their emissions in line with 
+the GLEC Framework, they will need to include their “well to tank” emissions. Operators can 
+calculate these separately from their “tank to wheel” emissions if they wish, using the emission 
+factors provided. 
+ 
+4.2.2 Typical Container Terminal Activities 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 22 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Table 3 below lists some example activities within a container terminal to demonstrate which of the 
+Scopes (described above) they would fall within. 
+ 
+A more comprehensive list of activities that take place in container terminals is included in Appendix 
+1. The activities are presented in a table that a terminal operator can proactively use to document 
+which activities are included in its GHG footprint and add appropriate notes. 
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 23 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+ 
+Table 3 Example activities under the Scopes of GHG footprinting 
+ 
+Scope Activity Reason 
+Scope 1 (direct 
+emissions) 
+Rubber-tyred gantry (RTG) crane moving 
+containers 
+Diesel used to drive engine; impact is 
+within site boundary 
+ Reach Staker (RS) for handling 
+containers within terminal 
+Diesel to drive and lift container 
+ Diesel powered straddle carrier moving 
+containers within yard 
+Diesel to drive and lift container 
+ Empty Container Handler (ECH) 
+transporting an empty container from 
+position A to B within the Terminal 
+Diesel consumption 
+ Heating unit in Technical Workshop 
+during the winter 
+Combustion of gasoil to power heating 
+unit results in emissions 
+ Mobile Harbour Crane (diesel)  Diesel consumption 
+ Trucks for container moves between 
+different areas in the yard 
+Diesel consumption 
+ Automated Guided Vehicles (AGV) Diesel consumption 
+Scope 2  
+(indirect emissions) 
+Use of Quay Crane (QC) Electrically-powered and that is supplied 
+by external utility company; impact is at 
+the power station, i.e., off-site, hence 
+indirect 
+ Use of rail mounted gantry (RMG) crane Electricity used to power RMG for 
+moving containers in the block 
+ Automated Staking Cranes Electricity used to power automated 
+stacking cranes 
+ Automated Guided Vehicles (AGV) Electricity 
+ Recharging electric forklift in Container 
+Freight Stations (CFS) within Terminal 
+Consumption of electricity in charging 
+the battery 
+ Terminal security lighting Consumption of electricity to power mast 
+lights 
+ Air conditioning in offices Use of electricity from grid 
+ Terminal Vehicles Electricity 
+ Straddle Carriers Electricity 
+ Mobile Harbour Cranes Electricity 
+Scope 3 (optional 
+indirect emissions) 
+  
+ Travel by taxi and train from Terminal to 
+Head office at a different location 
+Mileage and impact of transport modes 
+has an indirect impact.  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 24 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Scope Activity Reason 
+ Commuting and air travel by staff  Mileage and impact of transport modes 
+has an indirect impact. 
+ Fuel Production and Distribution Direct consequence of energy use – 
+must be included for a true and fair 
+comparison of electricity and diesel use. 
+ 
+ 
+At present, most terminal operators are not monitoring any Scope 3 emissions. Some companies 
+are measuring certain elements of Scope 3 emissions, for example, air and rail business travel. 
+However, these are not reported publicly.  Investigations to date suggest that the vast majority of 
+GHG emissions relating to the container terminal are from Scopes 1 and 2. 
+ 
+4.3 Schematic of a Terminal 
+ 
+The schematic drawing (Figure 1) is intended to give a pictorial representation of a typical container 
+terminal with colour codes to indicate whether each item is included or excluded from the GHG 
+footprint. 
+TrainsGate Customs 
+Inspections
+Engineering 
+workshop
+Admin 
+building
+Container 
+repair depot
+3rd party 
+workshop
+3rd party 
+storage
+Reefer * Dry boxDry box Dry box
+Reefer * Dry boxDry box Dry box
+Reefer * Dry boxDry box Dry box
+Reefer * Dry boxDry box Dry box
+CFS
+included
+excluded
+Key
+Empty box 
+storage
+see text*
+ 
+Figure 1:Schematic drawing of a typical container terminal 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 25 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+4.4 Reefers 
+ 
+Emissions associated with electricity (and diesel, e.g., when powered by generators) consumed by 
+refrigerated containers (known as reefers) within a container terminal, are considered the ultimate 
+responsibility of the shipping line; the terminal operators do not own or control the reefers.  
+It is clear that while reefer refrigeration is a critical business activity, the container terminal operator 
+cannot easily control the technology inside the box nor the storage time on the te rminal.  The 
+operator simply provides the electricity, which in turn is most commonly supplied by a landlord port 
+authority or energy provider. The port authority or energy provider also owns the electricity 
+infrastructure (e.g. local grid). These points make it practically impossible for the container terminal 
+operator to manage, control and modify that electricity supply. 
+Nonetheless, the provisions of the GHG Protocol make it clear that emissions associated with reefer 
+electricity consumption should be reported as a scope 2, indirect emission. 
+If a terminal operator is able to measure the overall reefer consumption per year, they can separate 
+the related emissions from other emissions and report them separately in order to identify the 
+contribution made by reefers to their scope 2 emissions . 
+Energy consumption for reefers varies by temperature settings, dwell time, air ventilation frequency, 
+type of reefer, sunlight exposure and outside temperatures. Estimating the reefer’s energy 
+consumption accurately without proper metering would be impossible and should not be attempted 
+for the purposes of this Guidance.  
+The philosophy of GHG footprinting that the EEEG wants to adopt is to take a professional and 
+responsible approach to improve performance, and this i ncludes reefer-related emissions. Future 
+advice will be given on how leakage from refrigeration gases might be included in GHG footprinting, 
+however it should be noted that the terminal has no control over the mechanical or operational 
+condition of any reefer it receives nor does it control any substantive technical or operational aspect 
+of  the reefers including age, technology used, mechanical integrity, efficiency or repair history.  All 
+of these criteria are under the direct control of the owner. 
+All terminal operators in the EEEG agree that electricity used for cooling reefers should be included 
+in Scope 2, until the point where a terminal can obtain more detailed information, for instance in 
+terms of allocating electricity usage more accurately. We encourage terminal operators globally to 
+further investigate reefer related issues with their customers and thus enhance GHG reporting for 
+the benefit of the supply chain.  
+Reference should also be made to section 5.4.2 where there is a worked example o f the treatment 
+of reefer energy consumption. 
+ 
+NB: Some terminals may supply reefers with electricity via generators, in which case the fuel used 
+is accounted for under Scope 1, with no account of the electricity in scope 2. 
+ 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 26 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+4.5 Other Activities 
+ 
+4.5.1 On-site Contractors 
+ 
+If a terminal wishes to determine whether GHG emissions from contractors  need to be reported as 
+scope 3, it should first be determined whether they fall within the organisational boundaries of the 
+terminal operator. It should be noted that these Scope 3 emissions usually add up to a very small 
+percentage of the total terminal emissions.  All GHG emissions within the operational boundary have 
+to be accounted for, if possible. Contract services that fall outside of organisational boundary 
+definition and qualify as Scope 3 as those that are typically non -routine and do not directly support 
+operations. Examples of these services might include building, electrical and civil maintenance, 
+various construction projects, service contractors (HVAC, lighting, waste disposal, delivery, etc.). 
+ 
+Incorporation of the GHG emissions from contractor equipment and facilities is especially important 
+if the contractor carries out work that would otherwise have to be done by the company. Examples 
+of on -site contractors or outsourced activities are Securit y, Maintenance, Lorries, CFS, reefer 
+maintenance, etc. All such emissions should be incorporated in the GHG inventory as Scope 3 
+emissions.  
+ 
+Some contract services fall outside of organisational boundary definitions and are typically non -
+routine and do no t directly support operations. Examples of these services might include building, 
+electrical and civil maintenance, various construction projects, service contractors (HVAC, lighting, 
+waste disposal, delivery, etc.). 
+ 
+On site contractors usually have their  offices, storage sheds and canteens in the terminal. They 
+therefore fall within the physical boundary of the container terminal. The reasons that they have been 
+commissioned to do that work inside the terminal would seem to justify being included within t he 
+operational boundary. They use electricity off the terminal grid and sometimes use fuel from the 
+company fuel station. Examples of subcontractor activities include maintenance, technical workshop, 
+and specialist services. 
+ 
+Use of estimated figures in the GHG inventory should be avoided if possible. If it cannot be measured 
+accurately, or if estimates are made and it is unclear who has ultimate responsibility for the 
+emissions, these should be placed in Scope 3.  
+4.5.2 Off-site Contractors 
+ 
+Some companies use off -site contractors to transport containers to railheads or other intermodal 
+facilities. Sometimes the marine terminal does not have sufficient capacity to store all the containers 
+and the terminal has hired another facility to store inland bound containers. The transport between 
+the two facilities is often also outsourced. The terminal operator decides which container is 
+transported to the storage area at any particular time. It has full operational control over the transport 
+services. This is a good example of an activity outside the organisational boundaries (the terminal 
+operator does not own shares in the transport company, but it does have full operational control). 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 27 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+This explains why, once the organisational boundary is set, it is not a matter of the physical activity 
+being on-site or off-site, but whether the company has “control”. Some examples are shown below. 
+ 
+• Company A has outsourced all security activities. Company A is not financially involved in 
+the company that supplies the secu rity services. This means there is no equity share or 
+financial operational control over the activities of the security company. If Company A wishes 
+to report GHG emissions of the security company in the GHG inventory, this must be done 
+in Scope 3. 
+ 
+• Company B formed a 50:50 joint venture with a transport company to transport containers to 
+warehouses in the CFS just outside the terminal. They buy a couple of trucks together. In an 
+equity share program, Company B will account for 50% of the GHG emissions from the trucks 
+in the GHG inventory in Scope 1. If Company B has chosen the control approach, they can 
+first consider the financial structure. Company B has the ability to direct the financial and 
+operational policies to gain economic benefit from the activities. 100% of the emissions from 
+the joint venture have to be included in Scope 1 and 2 of the GHG inventory of Company B. 
+ 
+ 
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 28 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+4.6 Exclusions 
+ 
+The following should be excluded from the container terminal’s GHG footprint: 
+ 
+• Sites currently being developed (i.e. planned and/or constructed). This is likely to change in the 
+future as investigations are underway to research the quantification of both “embodied” and 
+“activity-based” carbon emissions from marine and land -based civil engineering works, 
+contractor activities and the company presence at the development site. Quantification of 
+construction or project -related GHG emissions is not discouraged, rather it is recommended 
+that these are investigated and, if appropriate, shown on a separate reporting line. 
+ 
+• Third party facilities where only labour/stevedoring services are supplied. In this case, the 
+business supplies a labour resource to third party terminals and therefore owns no significant 
+equipment. 
+ 
+• Other businesses or activities owned by the container terminal that are not related to the core 
+business of moving/handling containers. Examples might include a telecommunications 
+company and warehousing (non-container). 
+ 
+ 
+4.7 Commencing a GHG Footprint 
+ 
+Companies should be careful not to publish a full GHG inventory too soon. Terminals not fully 
+operational(e.g. still in the construction phase of development) or on which there is still a lot of testing 
+going on (e.g. commissioning stage), may have a substantially higher carbon footprint.  
+ 
+When reporting “absolute” GHG emissions (i.e. tonnes of GHG), it may be simpler to start reporting 
+the footprint when full operations are up-and-running as at 1st January in any year. However, when 
+normalised (i.e. GHG emissions per normalisation unit), the calcula tion can be made at any time. 
+Reports from the first year of operation should not be used as a baseline. 
+ 
+ 
+ 
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 29 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+5 ANALYSIS AND REPORTING OF GHG EMISSIONS 
+ 
+5.1 Scopes of Reporting 
+ 
+Container Terminals embarking on GHG footprinting should focus upon Scopes 1 and 2 first and not 
+include Scope 3.  Preliminary investigations suggest that in some cases Scope 3 emissions may 
+comprise less than 1% of carbon emissions at a terminal. However, as knowledge about Scope 3 
+activities increases and techniques for data capture evolve, Scope 3 emissions may become more 
+frequently reported. 
+One important point to consider in collating Scope 3 emissions is the de minimis rule in the GHG 
+Protocol that states a company can eliminate activities that require a disproportionate effort to collect 
+data for which the outcome does not have a significant effect on the overall carbon footprint.  It is for 
+this reason that most container terminals are focusing on Scopes 1 and 2, which maycompromise 
+almost the totality of all GHG emissions, unless  a significant amount of subcontracting has taken 
+place. 
+ 
+ 
+5.2 Double-counting and Consolidation 
+ 
+When two or more companies hold interests in the same company but use different consolidation 
+approaches (i.e. one uses the “equity” method and one uses “control”), emissions from that joint 
+operation could be double-counted. Disclosure of emissions should always be explained and justified 
+so that stakeholders can fully understand the situation. Double-counting must be avoided in trading 
+schemes and certain government reporting mechanisms. 
+5.3 Base Year 
+ 
+It is important to establish a base year against which future years’ emissions can be compared.  The 
+data set in the base year should be comprehensive. The base year may need to be adjusted as a 
+result of acquisitions and divestitures in accordance with the rules described in the GHG Protocol. 
+This is more relevant in the case of comparing one year’s “absolute” GHG emissions with the next. 
+ 
+It is most important that the year selected as base year has a robu st data set which is as complete 
+as possible (i.e. minimal data gaps and omissions). A comprehensive description of how the choice 
+of base year was made and what constitutes the GHG footprint should be kept. 
+ 
+5.4 Denominator 
+ 
+5.4.1 Unit of activity 
+ 
+There is a varie ty of parameters that can be applied to carbon emissions over time; these include 
+TEU throughput, total container moves, paid container moves, millions of USD turnover, and 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 30 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+distance travelled by machinery. However, the core business of container terminals is moving 
+containers into the terminal and onward to the next mode of transport. 
+The EEEG has discussed various measures that could be used. Given that the main focus of GHG 
+emission calculation and reporting is to track the impact of efficiency measures over time it is vital 
+that whatever indicator is used it is used consistently. Changes to the unit of activity will lead to 
+results that are not comparable to previous years. 
+Three examples that have been identified: 
+ 
+1. Total ‘Terminal In and Out Bo xes and/or TEUs counts each box/TEU moved over the 
+quayside and over the hinterland modes, i.e., truck, train and barge, as one move each. Each 
+container is counted once as it arrives and once as it leaves the terminal, regardless of mode 
+of transport used.  Terminal In and Out Boxes/TEUs, aims to minimize the effects of a change 
+in modal split compared to, say, TEU over the quayside. 
+2. Total ‘number of container visits’ to a terminal, which is the method described above, divided 
+by two. 
+3. ‘Total Terminal Moves (TTM)’ counts as all container moves on the quay and yard (including 
+shuffle moves, housekeeping moves and the lifts to load/unload rail wagon), based on twist 
+counts; twin-lift should be counted as two lifts.  TTM should also include, hatch -cover lifts, 
+and gear-box lift.  
+  
+The EEEG strongly recommends that a terminal operator presents mutliple denominators as part of 
+its normalised GHG footprinting data. These can be reported on separate lines. 
+5.4.2 Treatment of Reefers 
+ 
+Reefer consumption may be very significant but not related to the energy used for container handling. 
+As the proportion of electricity consumed by reefers at a terminal varies from year to year, and the 
+influence of the terminal on reefer power consumption is very limited (refer to section 4.4). A terminal 
+operator should use a constant methodology concerning reefer electricity in order to guarantee 
+annual reproducibility. Any changes of methodology must be transparent and traceable. 
+An optional reporting template is provided in Appendix 3. 
+5.5 Scope 2 Emission Factors 
+ 
+The latest version of the GHG Protocol states that each company should aim to use the average 
+emission intensity of the electricity grid that they are connected to (often at national level) and/or the 
+emission factor (EF) of their electricity supplier, if the y disclose this factor. If the electricity supplier 
+does not disclose its own EF then only the former choice is possible. 
+Terminals should use the electricity supplier’s EF if there is sufficient evidence that it is correct, for 
+instance, that it is certif ied by an independent or government body. If the electricity supplier is 
+changed, the new EF should be investigated and used. 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 31 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Several sets of emission factors are available and updated regularly although generally with a 2 to 
+4 year time lag due to the ne ed to collect, process and check data from a wide range of sources 
+before publication (e.g. the GLEC Framework v1.0 published in 2016 contains the most up -to-date 
+IEA data which is from 2013/14).  Other possible sources of country-specific data include: 
+• National Statistics (for example; Defra in regards to the UK), 
+• International Energy Agency (IEA) 
+• World Resource Institute (WRI)/GHG Protocol) 
+• EcoTransIT Methodology Report 
+ 
+It is generally recommended that the most up-to-date set, relevant to a particular terminal, is used. 
+As part of the commitment to keeping this guidance up to date FEPORT/EEEG will periodically 
+publish an updated table of recommended emissions factors in line with best available sources and 
+related guidance. 
+It is important to note that for comparisons of one terminal over time, the same referenced EFs must 
+be used, otherwise the external effects of changing EFs would lead to incorrect conclusions over 
+energy efficiency changes. When a body publishing EFs releases a new set of up -to-date EFs, 
+instructions on how to apply these to historical data will be supplied and explained.  
+5.6 Reporting 
+ 
+Once all the data is gathered and collated, GHG footprints will need to be reported in some form. 
+This could be for internal purposes or for public consump tion. This Guidance recommends that, as 
+a minimum, terminal operators publish the annual percentage relative with a clearly stated and 
+consistent unit of measurement to the chosen base year (see Appendix 3). Publication of other 
+metrics, such as total emissions, are optional. 
+Optional, full public reporting should, as far as possible, be in line with the GHG Protocol’s 
+recommendations (noting that if the full list of required information at 5.6.1 is not included, 
+compliance with the Protocol should not be c laimed). This ensures that the resulting report is 
+credible, complete, consistent, accurate and transparent. For ease of reference, the relevant 
+sections of the GHG Protocol are quoted below, with amendments and omissions in square brackets 
+for relevance and brevity. If clarification is required on the precise content of each item, the reader 
+is referred to the context within the Protocol itself. 
+ 
+5.6.1 Required Information 
+ 
+“A public GHG emissions report […] shall include the following information: 
+Description of the [terminal] and inventory boundary 
+• An outline of the organisational boundaries chosen, including the chosen consolidation 
+approach 
+• An outline of the operational boundaries chosen, and if scope 3 is included, a list specifying 
+which types of activities are covered 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 32 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+• The reporting period covered. 
+ 
+Information on GHG emissions 
+• Total scope 1 and 2 emissions […] 
+• Emissions data separately for each scope 
+• Emissions data for all seven GHGs separately (CO 2, CH4, N2O, HFCs, PFCs, NF 3, SF6) in 
+tonnes of CO2 equivalent (see section 1.3.1 for further clarification) 
+• Year chosen as base year, and an emissions profile over time that is consistent with and 
+clarifies the chosen policy for making base year emissions recalculations 
+• Appropriate context for any sig nificant emissions changes that trigger base year emissions 
+recalculation (acquisitions/divestitures, outsourcing/insourcing, changes in reporting 
+boundaries or calculation methodologies, etc.) 
+• Emissions data for direct CO2 emissions from biologically sequestered carbon (e.g. CO2 from 
+burning biomass/biofuels), reported separately from the scopes 
+• Methodologies used to calculate or measure emissions, providing a reference or link to any 
+calculation tools used 
+• Any specific exclusions of sources, facilities, and/or operations.” 
+ 
+5.6.2 Optional information 
+ 
+“A public GHG emissions report should include, when applicable, the following additional 
+information: 
+Information on GHG emissions and performance 
+• Emissions data from relevant Scope 3 emissions activities for which reliable data can be 
+obtained 
+• Emissions data further subdivided, where this aids transparency, by business units/facilities, 
+[…] source types (stationary combustion, process, fugitive, etc.), and activity types 
+(production of electricity, transportation, generation of purchased electricity that is sold to end 
+users, etc.) 
+• Emissions attributable to own generation of electricity, heat or steam that is sold or 
+transferred to another organisation 
+• A description of performance measured against internal and external benchmarks 
+• Relevant ratio performance indicators (i.e. Box -in and Box -out; a terminal is also free to 
+normalize again other parameters such as US$M turnover; TEU (number, sales etc) 
+• An outline of any GHG management/reduction programmes or strategies 
+• Information on any contractual provisions addressing GHG-related risks and obligations 
+• An outline of any external assurance provided and a copy of any verification statement, if 
+applicable, of the reported emissions data 
+• Information on the causes of emi ssions changes that did not trigger a base year emissions 
+recalculation (e.g. process changes, efficiency improvements, plant closures). 
+• GHG emissions data for all years between the base year and the reporting year (including 
+details of and reasons for recalculations, if appropriate) 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 33 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+• Information on the quality of the inventory (e.g., information on the causes and magnitude of 
+uncertainties in emission estimates) and an outline of policies in place to improve inventory 
+quality 
+• Information on any GHG sequestration 
+• A list of facilities included in the inventory 
+• A contact person. 
+ 
+Information on offsets 
+• Information on offsets that have been purchased or developed outside the inventory 
+boundary, subdivided by GHG storage/removals and emissions reduction projects.  Specify 
+if the offsets are verified/ certified and/or approved by an external GHG programme […] 
+• Information on reductions at sources inside the inventory boundary that have been 
+sold/transferred as offsets to a third party. Specify if the reduction has been verified/ certified 
+and/or approved by an external GHG programme.” (WRI/WBCSD, 2006) 
+  
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 34 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+References 
+ 
+BSI/Defra/Carbon Trust. 2008.  PAS2050: 2008. Specification for the assessment of the life cycle 
+GHG emissions of goods and services.Website: www.bsigroup.com 
+Carbon Trust. 2010. Carbon footprinting - the next step to reducing your emissions.  Website: 
+www.carbontrust.co.uk 
+Defra (Department for Environment, Food and Rural Affairs, UK), 2009. Guidance on how to 
+measure and report your GHG emissions; also annual guidelines on the updated emission factors 
+Website: www.defra.gov.uk 
+Garrat, Mike. and Rowlands, Chris., 2011. Beyond the port fairways: Trends in the carbon footprint 
+of the deep sea container shipping industry.  GreenPort Magazine, Summer 2011.Website: 
+www.greenport.com 
+IFEU Heidelberg, Ok ö-Institut, IVE and RMCON. 2011. EcoTransIT World – Ecological Transport 
+Information Tool for Worldwide Transports, Methodology and Data Update. Commissioned by DB 
+Schenker Germany and UIC (International Union of Railways). Berlin – Hanover – Heidelberg. 31 
+July 2011. 
+Heriot-Watt University, Edinburgh (McKinnon, Dr A. and Robert Woolford, R., Logistics Research 
+Centre), Freight Transport As sociation and EPSRC. Decarbonising the maritime supply chain: the 
+shipper’s perspective. Workshop held in London 15 February 2011. 
+ISO (International Standards Organisation). 2006. ISO 14064 -1: Specification with guidance at the 
+organisational level for qu antification and reporting of GHG emissions and removals.  Website: 
+www.iso.org 
+WPCI (World Ports Climate Initiative). 2009. Carbon Footprinting for Ports - Guidance Document. 
+Website: www.wpci.nl 
+WRI/WBCSD (World Resources Institute and World Business Council for Sustainable 
+Development). 2006. The Greenhouse Gas Protocol: A Corporate Accounting and Rep orting 
+Standard, Revised Edition. Website: www.wri.org 
+ 
+ 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 35 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Appendix 1: Frequently asked questions 
+ 
+Lubricants 
+Q. Should the normal consumption of engine/gear oils, greases and lubricants in plant, equipment 
+and vehicle maintenance be included in the GHG footprint? 
+A. No. Lubricants etc. are not combusted as such but break down naturally and are not considered 
+to be an emissions problem. If, however, lubricants are burned to make heat, that volume of 
+lubricants should be included in the Scope 1 emissions. 
+Port authority activities 
+Q. If a container terminal also has responsibility for port authority activities, should these be 
+included? 
+A. If the activities (e.g. administration, mooring) undertaken as part of being the port authority fall 
+within the boundary being used by that terminal/organisation to measure its GHG footprint, then 
+the emissions associated with them should indeed be included under the appropriate scope. 
+Rented equipment 
+Q. If a terminal leases a mobile harbour crane from its landlord port authority, how should this be 
+accounted for in the GHG footprint? 
+A. A MHC is undoubtedly being used solely for a key activity, i.e., moving container boxes or 
+cargo, and efforts should be made to include the GHG emissions. If the MHC is using terminal 
+owned or purchased diesel fuel, the emissions should be allocated to Scope 1. If the fuel is 
+supplied by the lessor (i.e. port authority as part of the rental deal), effort should be made to 
+quantify that fuel consumption. If the leased MHC is undertaking work for a wider variety of 
+activities (e.g. including lifting for third parties and/or the port authority itself as well as the 
+container terminal), there may be a case for including the emissions in Scope 3. If the leased MHC 
+is operated by port authority or third party contracted staff (i.e. rather than container terminal 
+employees) and the fuel consumed cannot be quantified, an estimate could be made in Scope 3. 
+Inland services 
+Q. A container terminal operates a facility engaged in CFS activities two kilometres inland from the 
+main terminal. Should this be included in the GHG footprint? 
+A. This facility is outside the boundary of the main terminal and should be excluded. Nevertheless, 
+the existence of such facilities and other activities associated with the company’s operations 
+should be described and explained in documentation relating to the GHG footprint. The reasoning 
+for any exclusions should always be provided. 
+ 
+ 
+ 
+Support Services 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators   Page 36 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Q. A terminal is also home to a regional or corporate office function. How should this be managed 
+in the GHG footprint? 
+ 
+A. If the fuels and electricity consumed in the regional or corporate function can be measured, 
+monitored and quantified separately and accurately, then they should be excluded from the 
+individual container terminal GHG footprint. They should be included in the regional/corporate 
+GHG footprinting and communication followed to ensure there is no double-counting. From 
+experiences, however, this is unlikely to be the case and staff in that regional function also do 
+some work or have responsibilities in the local container terminal. In this case, it might be more 
+straightforward to include the fuels and electricity in the container terminal footprint and explain this 
+in accompanying documentation. This is another good reason why it is impossible to compare 
+terminal against terminal. 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators    Page 37 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Appendix 2: Typical activities in a container terminal 
+ 
+Table A2 is provided to enable terminals to determine which of their activities are included in their GHG footprint and thus define their 
+organisational and operational boundaries. It may be printed off and used as a checklist if desired. 
+Table A2: Typical Port Terminal Activities 
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators    Page 38 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+Ref
+No. 
+Activity Description Included in footprint 
+(TO BE COMPLETED BY 
+CONTAINER TERMINAL) 
+Notes 
+(a)  Container unloading Moving of containers from vessels to quay. Usually 
+executed using fixed (typically on rails) Ship-to-Shore 
+(STS) gantry cranes or Mobile Harbour Cranes (MHC). 
+Also, cranes at the railway interface. 
+   
+(b)  Container moving  (by 
+terminal operator) 
+Moving of containers from the quayside to storage in a 
+container stack or direct to transportation vehicles (e.g. 
+internal transfer vehicles, AGV, SC).  
+  
+(c)  Container moving(Sub-
+contracted) 
+Moving of containers from the quayside to storage in a 
+container stack or direct to transportation vehicles (e.g.by 
+a sub-contractor’s trucks using fuel that the subcontractor 
+purchases outside of the terminal)  
+  
+(d)  Container moving  
+and transport (External 
+company) 
+Moving and transporting (out of the terminal) of containers 
+from the quayside or container yard by vehicles owned 
+and operated by an external company (e.g. haulier). 
+  
+(e)  Container storage for 
+MTO and third parties  
+(in or close to main terminal) 
+General handling and storage of cargo in containers in 
+terminals, including regular Container Freight Stations 
+(CFS) or warehousing that are located within or directly 
+adjacent to the terminals, and prior to transportation by 
+third parties. 
+   
+(f)  Container storage for 
+MTO and third parties  
+(separate geographic 
+location) 
+General handling and storage of cargo in containers in 
+specialised CFS and intermodal facilities that are located 
+in geographically separate areas to the container. 
+  
+(g)  Non-container cargo 
+unloading, e.g., 
+general cargo           
+(using terminal operator’s 
+own equipment) 
+Moving of general cargo from vessels to quay. Usually 
+carried out using MHCs or other MTO owned/leased/hired 
+equipment. 
+   
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators    Page 39 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+(h)  Non-container cargo 
+unloading        
+(Ship’s cranes) 
+Moving of general cargo from vessels to quay using the 
+ship’s own gear (i.e. specialised crane equipment fixed to, 
+owned by, and operated by the ship’s crew) 
+  Third party activity 
+(i)  Break bulks 
+ 
+Loading break bulk (converted to TEU equivalent 
+according  to paragraph 4.1.2.) 
+  
+(j)  General cargo 
+moving               (using 
+terminal operator’s 
+equipment) 
+Moving of general cargo from the quayside to storage or 
+onto vehicles within the terminal using owned equipment 
+(e.g. automated RMGs, RTGs, RS) 
+  
+(k)  Non-container cargo 
+moving                
+(External company) 
+e.g., Moving of general cargo from the quayside to 
+outside the terminal using an external company’s 
+transportation vehicles 
+  
+(l)  Reefers (storage of 
+refrigerated 
+containers) – (Electricity) 
+Provision of “electricity” (e.g. obtained from a landlord or 
+self-generated) to refrigerated containers owned by 
+shipping lines. These are stored within the terminal, 
+usually in dedicated electricity plugs. The refrigeration 
+equipment is built-into the reefer container, and is not in 
+the ownership of responsibility of the MTO.  
+ .  
+(m)  Reefers (storage of 
+refrigerated 
+containers) – (Diesel-
+powered) 
+Refrigerated containers (owned by shipping lines) 
+powered with diesel fuel from generators. This is usually 
+only the case when there is insufficient capacity from 
+electrical plugs.  
+   
+(n)  General cargo 
+storage for third 
+parties  
+General handling and storage of cargo in terminals, 
+Container Freight Stations (CFS) or warehousing, prior to 
+transportation by third parties. 
+   
+(o)  Technical, 
+maintenance and 
+repair workshops 
+Mobile equipment (e.g. straddle carrier, reachstacker), 
+crane, trucks  and other vehicle maintenance undertaken 
+on site by the MTO’s staff (or sometimes outsourced 
+contractors) 
+  
+(p)  Technical, 
+maintenance and 
+repair workshops 
+Welding activities in Technical Workshop   
+ 
+Guidelines for Common GHG Footprinting, Container Terminal Operators    Page 40 of 41 
+Version 2.0 December 2017  
+ 
+   
+ 
+(q)  Other activities, e.g., 
+cleaning, repair of 
+containers 
+(by terminal operator’s own 
+staff)  
+Consumption of fuels and electricity etc to run equipment 
+involved in the maintenance of containers falling within 
+MTO’s TEU throughput 
+  
+(r)  Other activities, e.g. 
+cleaning, repair of 
+containers 
+(External company) 
+Consumption of fuels and electricity etc to run equipment 
+involved in the maintenance of containers belonging to 
+non-MTO TEU throughput 
+   
+(s)  Generation of 
+electricity by diesel 
+generator 
+Use of fossil fuel powered generators where electricity 
+supply is not guaranteed 
+ Scope 1 activity 
+(t)  Fuels used for 
+heating 
+Use of fossil fuels, such as natural gas, for heating a 
+variety of buildings 
+ Scope 1 activity 
+(u)  Fuels and electricity 
+used for other 
+vehicles 
+Cars, passenger vehicles (e.g. minibus), pick-ups etc.     Scope 1 activity 
+(v)  General 
+administration offices 
+including Information 
+Technology, security 
+and lighting  
+Electricity and gas and long distance heating used to 
+power, light and heat general office administration, 
+security areas and management functions. 
+Yes Scopes 1 & 2 activity. Items in this category can also be broken 
+out onto individual lines, e.g., information technology, security 
+and lighting.  
+ 
+41 
+ 
+Appendix 3: Example reporting table 
+ 
+ Option A (separate 
+metering for refers) 
+Option B (all electricity 
+together) 
+Energy-consuming 
+activities  
+ 
+CO2e tonnes  
+ 
+CO2e tonnes  
+Reporting year  2016  2016  
+Scope 1 emissions  12,000  12,000  
+Scope 2 emissions  17,000  17,000  
+Scope 3 emissions 5,000 5,000 
+Total terminal emissions  34,000  34,000  
+Total terminal emissions 
+related to handling 
+32,000   
+Total in and out boxes  1,500,000  1,500,000  
+kgCO2e/box  22.67  22.67 
+kgCO2e/box related to 
+handling 
+21.33  
+   
+Baseline year  2014  2014  
+Baseline year kg CO2e 
+/box  
+24  24  
+Change from baseline 
+year (%)  
+5.55%  5.55%  
+Baseline year kg CO2e 
+/box related to handling 
+23   
+Change from baseline 
+year related to handling 
+(%)  
+7.26%   
+ 
+The table above is for internal use only, and illustrates one possible way of presenting results. 
+It shows how reefer-related emissions can be isolated and removed from the calculation of ‘kg 
+CO2e per box’, whilst maintaining transparency of the total terminal emissions. If a terminal 
+wishes to publish figures in line with this Guidance, it is only obliged to publish the 
+increase/decrease compared to baseline year. The terminal should include a rec ord of the 
+decisions, process and calculations leading to the figures in the table. It is recommended to 
+keep the table and records for future reference.  
+ 
+Two methods are presented to show differences in the calculation. ‘A’ has reefer metering in 
+place, and can isolate reefer energy from its other uses. ‘B’ is not able to do so and therefore 
+shows a higher kg CO2e per box. 
+ 
+If a terminal operator is able to separate reefer electricity from other emissions under Scope 
+2, he may choose to publish ‘kgCO 2e per box’ without reefer consumption and declare that 
+reefer consumption is excluded from that measure.  However, the amount of energy so 
+excluded must be declared separately (see also section 4.4). 
+ 
+The table can be replicated and expanded to include as many lines under scopes 1 and 2 as 
+you wish. 

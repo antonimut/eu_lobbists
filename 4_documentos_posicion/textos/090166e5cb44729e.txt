@@ -1,0 +1,439 @@
+ 
+3 January 2020 
+ 
+Comments of the ICC / Banking Commission on the questionnaire issued by 
+FISMA regarding the Finalization of Basel III 
+ 
+ 
+1.1.7.1. New credit conversion factors (CCF) 
+ 
+ 
+57) What are the costs and benefits of the new CCF introduced by the Basel III standards? 
+In particular, how does the Basel III treatment of OBS items compare to the current 
+treatment in terms of risk -sensitivity and impact on RWAs. Please provide relevant 
+evidence to substantiate your views. 
+ 
+In the actual CRR, the CCF which applies to Performance Guarantees is 20%.  
+ 
+The Basel Committee’s position on Performance Guarantees has been that “the CCF 
+expresses the likelihood of an off-balance sheet position to become an on-balance 
+sheet exposure, i.e. it is not related to the riskiness of a counterparty which is 
+expressed by the position’s probability of default.”  
+ 
+In 2011, the Basel Committee considered some early data from the ICC and 
+suggested that at that time the ICC Trade Register did not provide “sufficient 
+analytical evidence for reducing the CCF in the risk-based approach below 20%”. 
+ 
+In 2019, the ICC in conjunction with the Global Credit Data Consortium (GCD) 
+organised a special collection of data covering most recent years from 12 of its 
+largest member banks. This resulted in a large number of observations of 
+performance guarantees issued, claimed, paid or extended and financial guarantees 
+being analysed to determine CCF. To be clear, the transaction types covered were the 
+same as the GCD facility types below, covering both financial and performance 
+guarantees. 
+ 
+Ref. Ares(2020)361627 - 20/01/2020
+ 
+ 
+ 
+For performance guarantees, the level of claims is very low at 2%, and only 14% of 
+these are paid out. This leaves an “ultimate drawing rate” of only 0.25% of issued 
+performance guarantees being paid. This is higher than the default frequency 
+observed in the ICC Trade Register Report of 2018, consistent with the scenario that 
+not all guarantees paid are connected to defaulted borrowers and not all defaulted 
+borrowers with guarantees issued have them called and paid. 
+ 
+Based on the discussion of the special nature of contingent facilities in the previous 
+section, we need to be careful when establishing exactly what method and what data 
+to use for calculation of the historical LGD. Note that the LGD calculations are made 
+using GCD standards with discount of cash flows at the risk free rate, see method 
+notes to the 2019 Large Corporate LGD paper1.  
+ 
+Firstly, to be clear, we are using the calculation method called by GCD as “LGD2” 
+where the starting default outstanding amount is increased by any drawings which 
+happen after default. This method is more appropriate for contingent facilities which 
+often have 0 cash outstanding at date of default as all risk is in issued instruments 
+which may or may not be drawn at a later date. The alternative method “LGD1”, 
+which nets all post default cashflows, often results in incalculable LGD because the 
+divisor of outstanding at default is zero. 
+ 
+Secondly, we have chosen to cap the maximum LGD at 150% and floor it at 0%. There 
+do exist real cases above and below these points, normally smaller size cases, due to 
+legitimate reasons such as workout costs higher than recoveries or payment by the 
+borrower of penalty fees and interest above the discount rate. 
+ 
+Thirdly, we need to factor into our averages what we do with the cases where there 
+is no drawing of the contingent instruments. One method is to exclude these cases as 
+they have the same problem of incalculable LGD due to the divisor of outstanding at 
+default being zero. A second method would be to include these cases as observations 
+of 0% LGD. 
+ 
+                                            
+1 https://iccwbo.org/publication/icc-gcd-performance-guarantee-paper/ 
+Type of Gtee 
+and year
+Number of 
+gtees Issued
+Number of 
+gtees claimed 
+or extended
+Claim Rate Number of 
+gtees paid out
+Claims Paid 
+Rate
+Number of 
+gtees 
+extended ( not 
+paid)
+Ultimate drawing 
+rate. Number of 
+gttes paid out vs 
+number issued
+Count of 
+lender ID
+Financial 105,740        6,198                6% 1,486                 24% 4,101                  1.41% 7
+2016 36,623           2,002                5% 579                     29% 1,442                  1.58% 7               
+2017 34,544           1,779                5% 455                     26% 1,216                  1.32% 7               
+2018 34,573           2,417                7% 452                     19% 1,443                  1.31% 7               
+Performance 1,254,667     23,145              2% 3,197                 14% 18,475               0.25% 12
+2016 409,731        7,378                2% 846                     11% 6,066                  0.21% 12             
+2017 423,463        7,449                2% 1,009                 14% 5,904                  0.24% 12             
+2018 421,473        8,318                2% 1,342                 16% 6,505                  0.32% 12             
+Grand Total 1,360,407     29,343              2% 4,683                 16% 22,576               0.34% 12             
+ 
+ 
+ 
+The LGD2 results for most of the cash type facilities are well below the 20% average 
+we have seen in our Large Corporate studies. Receivables Financing at around 21% is 
+very similar to normal corporate financing, as might be expected, as the recovery of 
+receivables is integral to most liquidation scenarios. The high level of LGD2 for 
+Transactional Traded Finance is unexpected at 38%, however this is a mixed group of 
+both cash and contingent lines, so only the drawn contingents are driving up the LGD 
+here. 
+ 
+The results for contingent and mixed cash and contingent facility types differ starkly 
+dependent on whether the never drawn cases are included or not. For example, 
+when examining only the 7.4% of Payment Guarantees and Standby L/Cs which ever 
+become drawn, then the outcome is a very high 46.8% LGD, however when including 
+the full 100% of these cases the LGD drops to around 3%. 
+ 
+For contingent facilities this supports the arguments and data from the ICC Trade 
+Register study. If the substantial number of undrawn cases are used to support a very 
+low CCF rate, then a normal to high level of LGD results for the remaining cases. If 
+these undrawn cases are included in the LGD calculation then exceptionally low LGD 
+is observed. Clearly it would be methodologically unsound to use these undrawn 
+cases to calculate both a low CCF and a low LGD at the same time. 
+ 
+ICC data shows drawing rates for performance guarantees of less than 1%, for the 
+total population of defaulted and non-defaulted borrowers. 
+ 
+GCD data shows a higher drawing rate of 8% on the same facility types but only for 
+defaulted borrowers. Clearly this indicates that there is some connection between 
+the borrower’s default and the claim and drawing of commercial guarantees issued 
+on their behalf. 
+ 
+Both data sets support the case that a 20% CCF is acceptably conservative and might be 
+used by the BCBS, considering its definition of a CCF. Hence, 20% should remain the CCF for 
+Performance Guarantees in the CRR. 
+ 
+ 
+58) In your view, which other aspect s, if any, should be considered in the context of 
+revising the treatment of OBS exposures? Please provide relevant evidence to 
+Trade Finance Type Risk Type Facility Type
+Number of 
+Defaulted Facilities
+Aggregate 
+Defaulted amounts 
+(€)
+% of facilities never 
+drawn as cash
+Average LGD2 excluding 
+undrawn cases
+(with cap and floor)
+Average LGD2 including 
+undrawn cases as 0% 
+(with cap and floor)
+Medium Term Trade Finance Cash ECA Export Finance 497 4 689 812 239 2,01% 7,57% 6,02%
+mixed Bill accepted by Bank 57 252 014 111 8,77% 9,57% 1,85%
+Cash Pre-export Finance 155 841 926 891 4,27% 3,39%
+mixed Transactional Trade Finance 379 1 346 596 179 12,40% 38,14% 27,17%
+Confirmed Export L/C sight or usance 106 46 428 585 88,68% 40,63% 4,22%
+Import L/C sight or usance 815 174 402 013 88,59% 15,19% 1,64%
+TF Bid or Performance Bond 20 23 329 000 85,00% 4,13% 0,41%
+Trade Related Payment Guarantee 212 23 955 357 81,60% 13,77% 2,47%
+Prepayment Finance 8 10 095 217 2,02% 1,77%
+Receivables Financing 3 436 6 043 282 529 0,09% 21,80% 21,57%
+Structured Inventory Finance 59 291 066 644 3,39% 5,35% 2,63%
+Contract Bonds 1 745 2 123 658 174 88,42% 35,38% 3,61%
+Payment Guarantee and Stand By LC's 6 298 1 031 368 246 92,60% 46,80% 3,19%
+13 787 16 897 935 186 61,28% 23,47% 8,48%Grand Total
+Contingent
+Short Term Trade Finance
+Cash
+Contingent
+Supply Chain Finance
+ 
+substantiate your views. 
+ 
+A) We consider that a revised CRR should not include any reference to Equivalent 
+Countries for Trade Finance instruments, in particular for Letters of Credit.   
+ 
+When a Corporates exports goods or services and questions the capacity of its 
+customer to pay him, it can ask its customers to open a Letter of Credit through its 
+local bank and then request its core bank to confirm the payment to be made by the 
+local bank. Hence the core bank is taking a risk on the local bank.    
+In the final version of Basel III, in the Standardized Approach, exposures to banks are 
+weighted according to their rating. 
+ 
+ 
+Credit Quality Step 1 2 3 4 5  
+Range of rating AAA & 
+AA 
+A BBB BB & B Below B-  
+FI (above 3 months) 20% 30% 50% 100% 150%  
+FI (below 3 months) 20% 20% 20% 50% 150%  
+ 
+It was agreed in 2017, that exposures to banks linked to movements of goods 
+supported by LCs opened for 6 months or less can be dealt as exposures shorter than 
+3 months. And the risk weight for “A” banks was reduced from 50% to 30%. 
+In the EU, with the present CRR, other rules apply. Firstly, the EU published a list of 
+countries whose supervisory and regulatory authorities are considered as equivalent 
+to the ones of the EU; this list includes 21 jurisdictions (most but not all OECD 
+countries). Secondly, if an exposure refers to a bank established in an Equivalent 
+Country, risk weights are calculated according to the Article 120 of the CRR which 
+refers to Financial Institutions. If the bank is not established in an Equivalent Country, 
+then Risk Weights will be calculated according to Article 122 which refers to 
+Corporates.  
+ 
+Credit Quality Step 1 2 3 4 5 6 
+Range of rating AAA & 
+AA 
+A BBB BB B Below B- 
+FI (above 3 months) 20% 50% 50% 100% 100% 150% 
+FI (below 3 months) 20% 20% 20% 50% 50% 150% 
+Corporate 20% 50% 100% 100% 150% 150% 
+ 
+LCs are mostly opened by banks which are established outside of the OECD (non-
+Equivalent Countries) and which have ratings often ranging at the “BBB” level or 
+below. As a consequence, the confirming EU bank uses a risk-weight factor which can 
+be 5-times lower than a non-EU bank. This risk-weight has to be priced by the bank 
+and this can penalize an EU exporter vs a non-EU one. 
+We urge the European Authorities to delete this reference to Equivalent Countries 
+for Trade Finance as it does not exist in the last version of Basel III (d 424). 
+ 
+ 
+B) The new CRR should include the 2 recommendations of the documents d 205 and 
+d 424 
+1. waiving the one-year maturity floor for certain trade finance instruments under 
+the advanced internal ratings-based approach (AIRB) for credit risk; (cf paragraph 
+162 of CRR)  
+2. waiving the so-called sovereign floor for certain trade-finance related claims on 
+banks using the standardised approach for credit risk.  
+ 
+These stipulations are mentioned respectively in the paragraphs 111 and 31 of d-
+424. 
+ 
+ 
+ 
+1.4. CREDIT RISK MITIGATION – IRBA 
+ 
+ 
+109) In your view, which other aspects, if any, should be considered in the context of revising 
+the CRM framework under the IRBA? Please specify and rank your answers from the most 
+important to the least important aspect. 
+ 
+In the paragraph 34 of the consultation paper on the Guidelines on CRM published in March 
+2019, the EBA suggests that, in the presence of partial covers, cash flows coming from the 
+guarantor should be allocated to the guaranteed part of the exposure. As regards the cash-
+flows coming from the obligor, two options were considered  
+ in Option 1, these cash-flows are allocated to the part of the exposure not covered 
+by the unfunded credit protection, which means to the unguaranteed exposure;  
+ in Option 2, these cash-flows are proportionally allocated to the outstanding amount 
+of the guaranteed and unguaranteed exposures (of the bank) 
+ 
+In the paragraph 409 of its Policy Advice on Credit Risk published in August 2019, the EBA 
+suggests to adopt Option 1. However, neither Option 1 nor Option 2 reflect the way cash-
+flows are normally allocated. 
+ 
+As a reminder, in case of partial covers, the guarantor normally shares the risks on a pari-
+passu basis with the bank. And, if an instalment is not paid by the original obligor, the 
+guarantor pays for the percentage it agreed to cover at the beginning.  
+ 
+Option 1 considers that all cash-flows coming from the obligor are allocated to the 
+unsecured tranche and that all cash-flows coming from the guarantor are allocated to the 
+secured tranche. Several consequences appear :  
+1. If the obligor pays normally its first instalments, the unsecured portion will be fully 
+amortized before any reduction of the secured portion, which means that the 
+insurer is junior to the bank.  
+2. It might appear on the last instalment date that the secured portion is not fully paid 
+which means a default of the obligor although it indemnified the bank as scheduled.  
+ 
+3. Finally, the amount of the commitment of the guarantor to indemnify is not always 
+the amount of the secured tranche (and it can be lower, which questions the 
+qualification of secured tranche).   
+This Option 1 does not reflect the normal practices of partial guarantees. 
+ 
+Option 2 considers that the cash-flows stemming from the guarantor are allocated to the 
+secured tranche and that cash-flow stemming from the obligor are shared according to the 
+remaining balances of the secured and the unsecured tranches of the bank’s loan. Several 
+consequences appear : 
+1. The commitment of the guarantor does not necessarily evolve as the amount of the 
+secured tranche   
+2. At the end of the repayment period, the secured tranche might not be fully repaid  
+3. At the end of the repayment period, the final percentage of the unsecured tranche 
+for the bank vs the total remaining debt of the obligor is not always the original 
+percentage of the unsecured tranche, which means a breach of the pari-passu 
+clause.  
+This option does not consider that if the guarantor has to cover one instalment, he becomes 
+a lender and is then entitled to participate in the allocation of cash-flows coming from the 
+obligor. 
+ 
+Hence, it might be appropriate to consider a third option which would reflect normal 
+market practices with  
+- Allocation of cash-flows stemming from the obligor to the unsecured portion in 
+proportion with the percentage of uncovered debt.   
+If the payment is made on an instalment date, this cash-flow is allocated on a-
+prorata basis the unsecured tranche and the secured tranche of the bank 
+If the payment is made on another date, which means that the obligor is covering 
+sums which were due before and that the guarantor had to indemnify the bank, this 
+cash-flow is allocated on a-prorata basis to the unsecured tranche of the bank and 
+the debt assumed by the guarantor    
+- Payments made by the guarantor, in case of a default of the obligor, in proportion to 
+its rate of cover 
+On the last instalment date, it appears that 
+- There is no amount left in the secured tranche, which means that the bank was 
+covered as scheduled by the insurer. 
+- The percentage of the unsecured tranche versus the total remaining debt of the 
+obligor (versus the bank and the insurer) is the original percentage of uncovered 
+debt, which means that the pari-passu applied.  
+ 
+To illustrate these 3 options, let’s consider a loan of 100 with 5 consecutive instalments of 
+20 in principal and a guarantee of 90%. For any reason, the obligor pays the first instalment 
+in full, half of the third one and half of the fifth one; it also makes a payment of 5 between 
+the third and the fourth instalments. Hence it reimburses 45 out of 100 and still ows 55 at 
+the day of the last instalment. 
+ 
+The final LGD on the unsecured tranche goes from 0% (Option 1) or 10% (Option 2) to 55% 
+(Option 3). The final LGD on the secured tranche goes from 0% (Option 2 or 3) to 1% (Option 
+1). 
+ 
+ Committed 
+repayment  
+Real 
+repayment 
+Unsecured 
+part bank 
+Secured 
+part bank 
+Final 
+debt 
+insurer 
+Remaining 
+Obligor 
+debt 
+Origin 100  10 90  0 
+Option 1  45     
+Final Balance   0 1 54 55 
+LGD   0% 1%   
+Option 2  45     
+Final Balance   1 0 54 55 
+LGD   10% 0%   
+Option 3  45     
+Final Balance   5,5 0 49,5 55 
+LGD   55% 0%   
+ 
+ 
+The details of each option appear herebelow. 
+ 
+Option 1 
+ Signed 
+repayment 
+schedule 
+Real 
+obligor 
+repayment 
+Balance 
+unsecured 
+part bank 
+Balance 
+secured 
+part bank 
+Balance 
+commitment 
+insurer 
+Balance 
+debt 
+insurer 
+Obligor 
+debt 
+m 0   10 90 90  100 
+m 6 20 20 0 80 72  80 
+m 12 20 0 0 62 54 18 80 
+m 18 20 10 0 43 36 27 70 
+m 20  5 0 38 36 27 65 
+m 24 20 0 0 20 18 45 65 
+m 30 20 10 0 1 0 54 55 
+Total/LGD 100 45 0% 1%    
+ 
+Option 2 
+ Signed 
+repayment 
+schedule 
+Real 
+obligor 
+repayment 
+Balance 
+unsecured 
+part bank 
+Balance 
+secured 
+part bank 
+Balance 
+commitment 
+insurer 
+Balance 
+debt 
+insurer 
+Obligor 
+debt 
+m 0   10,0 90,0 90  100 
+m 6 20 20 8,0 72,0 72 0 80 
+m 12 20 0 8,0 54 54 18 80 
+m 18 20 10 6,7 36,3 36 27 70 
+m 20  5 5,9 32,1  27 65 
+m 24 20 0 5,9 14,1 18 45 65 
+m 30 20 10 1,0 0,0 0 54 55 
+Total/LGD 100 45 10% 0%    
+ 
+ 
+Option 3 
+ Signed 
+repayment 
+schedule 
+Real 
+obligor 
+repayment 
+Balance 
+unsecured 
+part bank 
+Balance 
+secured 
+part bank 
+Balance 
+commitment 
+insurer 
+Balance 
+debt 
+insurer 
+Obligor 
+debt 
+m 0   90 10 90  100 
+m 6 20 20 8,0 72,0 72 0 80 
+m 12 20 0 8,0 54,0 54 18,0 80 
+m 18 20 10 7,0 36,0 36 27,0 70 
+m 20  5 6,5 36,0  22,5 65 
+m 24 20 0 6,5 18, 18 40,5 65 
+m 30 20 10 5,5 0,0 0 49,5 55 
+Total/LGD 100 45 55% 0%    
+ 
+ 

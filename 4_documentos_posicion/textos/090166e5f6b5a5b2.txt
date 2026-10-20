@@ -1,0 +1,482 @@
+MEETING 
+MINUTES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.unife.org   0 
+ 
+ 
+  
+UNIFE Position Paper 
+on Cyber Resilience 
+in Railways 
+15 December 2022 
+ 
+Ref. Ares(2023)509344 - 23/01/2023
+ 
+ 
+www.unife.org   1 
+ 
+UNIFE Position Paper on Cyber Resilience in Railways 
+About UNIFE 
+Based in Brussels since 1992, UNIFE is the association representing Europe’s rail supply industry at the European Union 
+and international levels. UNIFE’s members include more than 110 companies – from SMEs to major industrial champions 
+– active in the design, engineering and manufacture of rolling stock (i.e., trains, metros, trams, freight wagons) as well as 
+rail signalling and infrastructure equipment. UNIFE also brings together the national rail supply industry associations of 13 
+European countries. 
+Introduction and Executive Summary 
+In order to reap the benefits of digit alization, it is vital that cyber resilience is ensured. Cyber-secure digital products and 
+services are crucial in the increased digitalization of rail transport  and digital products must remain cyber secured 
+throughout their entire lifecycle. UNIFE considers cybersecurity as a priority and believes that a coherent regulatory 
+framework cover ing the cybersecurity of connected products is of utmost importance . UNIFE’s Position Paper on 
+Cybersecurity in Railways 1 published in September 2021  demonstrated the importance of this subject for the European 
+rail supply industry provid ing our assessment and recommendations to secure , with a vertical approach,  Europe’s rail 
+system. Given the size,  scope, and fragmentation of the European rail sector, as well as the multitude of stakeholders 
+involved (including rail manufacturers, operators, infrastructure managers and users), cybersecurity has to be considered 
+through a holistic approach when defining the European regulation to protect our rail systems.  
+ 
+It is worth to highlight that t he European rail supply industry is putting huge efforts to protect rail systems from exploi ted 
+cybersecurity vulnerabilities following the standard IEC 62443. Furthermore, the European rail sector has developed the 
+CENELEC CLC/TS50701 – that builds on the existing IEC 62443 – considering the particularities of rail. This is a landmark 
+and it is currently being migrated at international standardisation level. In addition, in the current rail regulation there are 
+provisions on cybersecurity (i.e., C ontrol Command Signalling Technical Specification for Interoperability) and best 
+practices included in ENISA’s report “Railway Cybersecurity - Good Practices in Cyber Risk Management”2  are nowadays 
+implemented in rail projects. 
+ 
+UNIFE acknowledges the European Commission’s proposal on horizontal cybersecurity requirements for products with 
+digital elements and amending Regulation (EU) 2019/1020 (hereinafter referred to as the Cyber Resilience Act (CRA)) and 
+its aim to “increase the overall level of cybersecurity of all products with digital elements”. This regulation is indeed building 
+on the 2020 EU Cybersecurity Strategy and the 2020 EU Security Union Strategy, ensuring that digital products, such as 
+wireless and wired products and software, are more secure within the EU. It is paramount to consider the particularities of 
+different industrial sectors, like the rail sector, where a vertical approach is key to success in increasing the cyber resilience 
+of products and systems.  For the rail sector, it i s crucial to avoid the setting-up of additional layers of regulation in an 
+already highly regulated industry , whereas cybersecurity provisions are already addressed through European and 
+international standardisation organisations and can be integrated efficiently in the existing European rail  regulation. 
+However, UNIFE is concerned by the lack of consultation of the European rail supply industry for the preparation of the 
+CRA proposal so far. 
+ 
+To avoid overregulation UNIFE firmly believes that the rail sector must be excluded from the scope of the CRA 
+proposal. A non-exclusion of the rail sector from the CRA would result in high risk of overlap with the existing rail 
+regulations and a huge financial impact on the European rail supply industry putting at risk its competitiveness  
+(e.g. product definition in railway, safety & security lifetime ). To be compatible to the rail sector, t he CRA proposal 
+would need to be substantially modified to avoid complex and burdensome overlaps with the existing rail 
+regulations and standard isation framework, verification processes, as well as other European cyber -relevant 
+legislation such as the Artificial Intelligence Act, the NIS2 Directive, the Data Act.  
+UNIFE considers that the best way to ensure a cyber secure and resilient European rail sector is to implement 
+appropriate cyber security provisions in the existing European rail regulation following careful consultation with 
+all the European rail sector stakeholders and considering the measures already being taken by the railway sector 
+ 
+1 https://www.unife.org/wp-content/uploads/2021/09/UNIFE-Cybersecurity-position-paper.pdf  
+2 Railway Cybersecurity - Good Practices in Cyber Risk Management, ENISA’s Report 
+https://www.enisa.europa.eu/publications/railway-cybersecurity-good-practices-in-cyber-risk-management 
+ 
+ 
+www.unife.org   2 
+ 
+in the area of cybersecurity  (e.g., standardisation IEC62443, CENELEC CLC/ TS50701 and its migration into 
+international standardisation level). This approach will allow more efficient rail projects deployment without 
+compromising cybersecurity. 
+This position paper provide s the analysis of the UNIFE on the CRA proposal and highlights the incompatibility 
+between the CRA and the existing legislative framework applicable to the European rail sector and thereby the 
+significant impact on the competitiveness of the European rail supply industry if rail is to be included in the CRA’s 
+scope. UNIFE calls the European Commission, the European Member States and the European Parliament to take 
+into account the UNIFE’s position while assessing the exclusion of the rail sector from the new CRA proposal and 
+calls for further dialogue with the rail sector stakeholders on this matter.  
+1. The European rail sector and the impact of the CRA on the 
+competitiveness of the European rail supply industry 
+Rail transport is a complex and sophisticated system  of systems  or subsystems requiring multiple vendors and their 
+technologies to cooperate and work together . Rail products from various suppliers are combined into subsystems which 
+are in  turn integrated in an overall system at the final stage to be placed in service. The large spatial scale and geographical 
+distribution of the rail system, the co-existence of technology multi generation solution increasing the complexity of the rail 
+system in future together with the increasing degree of connectivity and touchpoints between the infrastructure and rolling 
+stock is creating an enlargement of their attack surface (e.g. between on-board equipment with track signalling). The need 
+for a common approach to cybersecurity for all rail components/elements , adequately  considering the different rail 
+stakeholders and their responsibilities in the rail ecosystem, is therefore recognised and must be defined carefully before 
+being implemented. A holistic approach will minimise the risk of cybersecurity breaches. 
+ 
+The following chapter provides an introduction to the existing  legislative framework , operational model and active 
+cybersecurity initiatives of the European railway sector there by identifying areas for which the compatibility with the CRA 
+proposal and its applicability to the rail sector is challenged by the European rail supply industry.  
+► The legislative framework of the European rail sector 
+UNIFE supports the existing rail  legislation in force, most notably the Technical Pillar of the Fourth Railway Package 
+consisting of the Regulation (EU) 2016/796 on the European Union Agency for Railways (ERA), Directive (EU) 2016/797 
+on the interoperability of the rail system within the European Union and  Directive (EU) 2016/798 on railway safety . The 
+creation of a Single European Railway Area (SERA) by increasing technical and operational interoperability of the different 
+national rail networks across the EU has been a key objective of Europe’s transport policy since the mid-1990s. To achieve 
+this, the European Union has developed a common technical framework, primarily via the Interoperability Directive and its 
+supporting Technical Specifications for Interoperability (TSIs) as the key tools in driving the  gradual harmonisation of the 
+railway systems and in fulfilling the essential requirements to be met by the European rail system. These TSIs (addressing 
+different rail subsystems)  are managed and regularly reviewed by the E RA following a mandate of the Eur opean 
+Commission. 
+ 
+As set out in the above directives, before being used in service/operation the different rail subsystems and vehicles must 
+receive the applicable authorisation from the respective National Safety Authority (NSA) or the E RA. These authorisation 
+processes already include rigorous safety requirements and assessment, including cyber risk assessment and 
+cybersecurity requirements for some of the most important rail subsystems , as safety and cybersecurity are intrinsically 
+linked and bound in Railway standards. Once authorised to be placed on the market or in service the railway undertakings 
+and infrastructure managers are responsible for the operation and often the maintenance of these systems under their own 
+respective Single Sa fety Certifications  and/or Safety Authorisations  granted by the NSAs/ERA  and their Safety 
+Management Systems. 
+ 
+Similarly, changes to existing assets may require reauthorisation by the NSA or ERA. This means that the manufacturer 
+would need to repeat some of the processes carried out during the initial certification and authorisation process. This can 
+also be triggered by the application of security patches, which means that vulnerability management has the potential to 
+impact both systems currently in operation, as well as those that are still under development. Therefore, an agile process 
+should be defined for the management of cyber vulnerabilities, which is compatible with the existing rail regulation 
+and authorisation processes. 
+ 
+ 
+www.unife.org   3 
+ 
+► Timelines compatible with the rail sector 
+The manufacturing process of rail products is lengthy and complex with the final step of the manufacturing process  
+managed by the rail system integrator. For the delivery of a rail subsystem or system (e.g. signalling subsystem or a 
+complete vehicle), it is common for the complete verification process of a vehicle, including the contract, design phase and 
+production phases, to typically last up to 7 years  before the corresponding subsystem or system (vehicle) is placed into 
+service or placed on the market . In addition, once produced and in operation the lifecycle of railway systems is commonly 
+above 30 years, so many s ystems in place today are based on legacy technologies  and new products (from a 
+manufacturing perspective) coexist with products that were installed many years ago, following the principle of non -
+obsolescence. 
+ 
+As a general rule, the rail sector needs pred ictability and transparency of the applicable requirements in order to 
+successfully design, develop and deliver vehicle products to the market using the standard long-term contracts applicable, 
+to minimise industrial risk and to guarantee the investment of  all stakeholders for the projects already signed and 
+calculated. Only as an exceptional case of a major critical safety issue should new requirements invalidate a vehicle design 
+and require mandatory modifications to existing vehicle designs and/or vehicles/infrastructure in operation. 
+ 
+The requirements and corresponding deadlines introduced by the CRA are not compatible with the processes in 
+the rail sector . The application of the CRA  risks significant disruption to be caused to on -going railway projects  and 
+vehicles in operation resulting in detrimental costs linked to project delays, redesign and reauthorisation. Contracts for rail 
+systems that are going to be delivered after mid-2025 (end of transition period) have already been signed and the systems 
+are already in development. 
+► Enhancing cybersecurity in European rail regulation  
+The European Commission's 2020 Mandate to the European Union Railway Agency (ERA)  for the ‘Digital rail and Green 
+freight TSI revision package (2022 revision)’ contained actions on cyber security. This can be found in the concluding ERA 
+Report on TSI Recommendation 2022 3 as change requests (CR) No. 242 and 337 – more information in Annex I of this 
+paper. However, both of these CRs were not  addressed during the process of the 2022 TSI revision (primarily due to 
+resource constraints of ERA) and therefore no proposals made within the final recommendation of the ERA to the EC in 
+June 2022.  
+ 
+UNIFE believes the implementation of these change req uests, in conjunction with existing measures, will result 
+in an adequate level of cybersecurity for the rail sector.  This is the most promising way to efficiently address 
+cybersecurity in the rail sector and avoid additional legislation in an already heavily regulated sector. UNIFE is ready to 
+discuss with the European Commission about the enhancement of the cybersecurity requirements included today in the 
+European rail regulation.  A strong cooperation between ERA and ENISA wi ll be key  to ensure an efficient 
+implementation of cyber provisions in the rail sector benefiting from the return of experience of other sectors 
+► Cybersecurity in railway standardisation 
+The European rail supply industry is putting huge efforts to protect rail systems from exploited cybersecurity vulnerabilities. 
+Currently, IEC 62443 4 - Security for Industrial Automation and Control Systems - is the main existing cybersecurity 
+standard. In the rail sector, it is already a common practice to follow the guide lines’ requirements for manufacturing the 
+products according to the IEC 62443 series – notably the 62443-4-1/62443-4-2. It is important to underline that the widely 
+used standard IEC 62443 series is increasingly applied to products of the rail sector. Therefore, it is assumed that rail 
+products complying with this standard already address state-of-art cybersecurity requirements which are fit for industrial 
+components and systems. It is also worthwhile to highlight that t his standard is not only consistent with the requirements 
+in the CRA  but also goes beyond  considering the preparedness for possible cyber -attacks. It also  aims at business 
+continuity includingcyber resilience. 
+ 
+Moreover, its railway-specific adaptation CENELEC CLC/TS 50701:20215 ‘Railway applications – Cybersecurity’ has been 
+approved and was officially published in June 2021. This Technical Specification is considered a major landmark for the 
+ 
+3 ERA Report - Recommendation ERA 1175-1218 - V 1.0 
+ 
+4 IEC 62443 - www.iec.ch/blog/understanding-iec-62443 
+5 CLC/TS 50701:2021 - www.cencenelec.eu/news-and-events/news/2021/eninthespotlight/2021-06-10-new-clc-ts-50701-railways-
+cybersecurity 
+ 
+ 
+www.unife.org   4 
+ 
+European railway sector, as it aims to provide the requirements from IEC 62443 and additional recommendations to handle 
+cybersecurity in a unified way . It p rovides references to models and concepts from which requirements and 
+recommendations can be derived and that are suitable to ensure that the residual risk from security threats is identi fied, 
+supervised and managed to an acceptable level by the railway system duty holder. It covers also the alignment of the 
+safety lifecycle (based on CENEL EC EN 50126 standard) with the security IACS lifecycle (based on IEC 62443) and 
+addresses numerous key topics such as railway system overview, cybersecurity during a railway application life cycle, risk 
+assessment, security design, cybersecurity assurance and system acceptance, vulnerability management and security 
+patch management. On the basis of the CL C/TS 50701, the international standard IEC 634526 - Railway applications – 
+Cybersecurity is currently under development and expected to be published in July 2025. The use of such standards is of 
+paramount importance to implement a common cybersecurity app roach. This is already being seen in the tendering 
+process today of railway undertakings/infrastructure managers and within the rail supply chain.  
+► Impact on the competitiveness of the European rail supply industry 
+UNIFE considers that the CRA proposal will have significant impacts on  the European rail supply industry, placing 
+additional burden on the activity and trade at EU level, in several key directions:  
+• Disruptions of the rail supply chain: in the rail sector, SMEs are very important. SMEs often supply critical products 
+and for such companies, complying with the CRA regulation proposal could be extremely difficult. They would need to 
+adapt their products, assume the costs for certification and implement cybersecurity policies in a very short period of 
+time. This may also lead to disruptions  for larger companies, that  also need to quickly adapt their products and 
+procedures.  
+• International competitiveness of the EU rail supply industry: The CRA requires changes to development and 
+manufacturing processes, which incur additional costs and lead to higher prices. This will impact the competitiveness 
+of the European rail supply industry when operating in international markets that do not impos e similarly strict 
+requirements, compared to companies operating in non-EU countries. Whereas, it cannot be assumed or guaranteed 
+that the CRA will become a global reference and thereby placing the European rail supply industry at a disadvantage. 
+• Higher costs of rail products: It can already be stated that if the requirements proposed in the CRA are implemented, 
+the cost of all related products and software will increase significantly, as the new proposed approach requires an 
+increase in resources and effort to produce and manufacture such products. This may lead to higher costs of railway 
+transport affecting the competitiveness of the railways compared to e.g. private transport (since ticket prices would 
+have to be increased in order to bear the costs). This in turn has a negative impact on other strategic goals of the EU 
+agenda (e.g., reduce CO2 emissions, etc.) 
+ 
+UNIFE also notes that the study conducted by the European Commission to assess cybersecurity requirements 7 
+makes no reference to cybersecurity in the rail sector. Therefore UNIFE is concerned that the assessment on the 
+cybersecurity requirements in the rail sector made by the European Commission was not complete and the impact 
+of the CRA on the competitiveness of the European rail supply industry not considered. 
+2. Additional constraints imposed by the CRA and modifications 
+required to be compatible with the European rail sector  
+The Cyber Resilience Act is very ambitious and would represent a major step change for digital resilience in the European 
+rail sector. As such it has to be underlined that a non-exclusion of the European rail sector from its scope would significantly 
+harm the European rail supply industry . In the case the rail sector is not excluded from the scope of CRA, it is essential 
+that the new requirements included in the  CRA are compatible with the existing European rail legislative framework and 
+operational model of the European rail sector.  
+The following chapter presents an analysis of additional constraints that will be imposed by specific CRA articles if the rail 
+sector is not excluded from it s scope  and potential recommendations to remedy these . UNIFE call s the European 
+Commission, Member States and the European Parliament to assess carefully the particularities of the European rail sector 
+before deciding on its inclusion in the CRA. 
+UNIFE’s opinion is that to increase cyber resilience  of the European rail sector in scope of the CRA the following areas 
+must be addressed in the CRA proposal:  
+ 
+6 IEC 63452 - www.iec.ch/dyn/www/f?p=103:38:::::FSP_ORG_ID,FSP_APEX_PAGE,FSP_PROJECT_ID:1248,20,109433 
+7 EC Study on the need of Cybersecurity requirements for ICT products - No. 2020-0715, Final study 
+ 
+ 
+www.unife.org   5 
+ 
+► Timelines compatible with the rail sector 
+Cyber resilience is a building process requiring time, especially in the industrial sectors such as rail where the verification 
+process of a vehicle or a complex signalling system , including the design phase and production phases, can last up to 7 
+years. To upgrade or develop new products complying with the CRA’s requirements, the schedule must be compatible with 
+the processes in the rail sector . For the CRA to be compatible with the rail sector, additional definitions (Article 3) are 
+required which respect the timelines of the verification process and transitional rules applicable to rail projects as defining 
+by the rail Interoperability Directive and TSI LOC&PAS 2022, such as ‘project at an advance stage of development’, ‘initial 
+assessment framework’, ‘certification framework’, ‘design phase’ and ‘production phase’  to make sure rail projects have 
+the stability required to be viable . UNIFE believes that the proposed timetable included in the CRA is very ambitious. 24 
+months to implement all technical changes and procedures in the railway sector is too short. 12 months to start notifying 
+ENISA is also very short, especially considering that the update of critical products via delegated acts will take up to 12 
+months after the entry into force of this act (according to Recital (69) and Article 6 (3) and Article 50, respectively). 
+ 
+Moreover, the obligation of reporting actively exploited vulnerabilities shall be extended to 24 months after the entry into 
+force of the CRA proposal (according to Recital 69), allowing companies to set up their process for reporting exploited 
+vulnerabilities in the rail sector. 
+► Impacts on the manufacturing processes 
+UNIFE believes that the statement "any compliance costs for businesses would be outweighed by the benefits brought by 
+a higher level of security of products with digital elements and ultimately an increase of trust of users in these products” 
+fails to recognize the impact the CRA would have to the European rail supply industry. The industry would need to go 
+through significant changes both in processes and technology in a very short time that is without precedent for the sector. 
+Financial mechanisms will be needed to support companies in this process. Such support is vital to avoid disruption in the 
+European rail supply industry, particularly to the SMEs who have less resources and capacity for rapid adaptation to new 
+requirements. As such we consider the following financial support from the European Commission will be needed: 
+ 
+a) Similar financial mechanisms applicable for cyber security in the rail supply industry as the Connecting Europe Facility 
+(CEF) to support the rail industry in the transition and supporting companies to be more competitive in the internal 
+market. 
+b) Financial and technical support to SMEs in order to adapt to this new regulation (e.g., certification bodies, guidance 
+in placing the new cyber security policies, economic support for new investments for the re -engineering processes, 
+etc). 
+► Change in mindset towards higher costs 
+While efforts to address cybersecurity are not new, the CRA proposal brings cybersecurity to a new paradigm. If the CRA 
+obligations are applied to the rail sector, this will lead to a general costs increase of all the products in the rail sector. This 
+requires a change of mindset in the rail sector and acceptance that the rail products will be more costly.  
+UNIFE considers that campaigns to raise awareness across the EU rail sector and simulation exercises would be needed 
+in order to analyse the possible risks and to be able to materialise the benefit for paying more for a product. UNIFE calls 
+the European Commission to support the European rail sector with this objective if the CRA becomes applicable to rail. 
+► Appropriate allocation of responsibilities 
+According to the operational mode of the rail sector , it is the responsibility of manufacturers to provide products /systems 
+that do not have known vulnerabilities. However, once authorised to be placed on the market or in ser vice the railway 
+undertakings and infrastructure managers are responsible for the operation  and often the maintenance  of the se 
+products/systems. Therefore, the following rules would need to  apply in order to have coherent and balanced 
+responsibilities of rail stakeholders within the CRA:  
+• Obligations of manufacturers : The manufacturer shall be responsible for ensuring that the pr oduct has been 
+designed, developed and produced in accordance with the essential requirements set out in Section 1 of Annex I  of 
+the CRA proposal, shall undertake an assessment of the cybersecurity risks, and follow the obligations described in 
+Article 10, including a vulnerability disclosure policy.  
+• Reporting obligations of manufacturers and the “business consumer” or “busines s users” : However, 
+manufacturer is not the main obligation party when it comes to certain obligations including reporting obligations. 
+Firstly, the rail undertakings and infrastructure managers are the ones operating and most of the time maintaining the 
+ 
+ 
+www.unife.org   6 
+ 
+technologies, and it might happen that an exploited vulnerability is known by the rail undertaking or infrastructure 
+manager prior to the manufacturers, as they are the ones operating the technology. For this reason, it is also important 
+to discuss together with the European Commission and the rail sector about the ‘vulnerability handling’ process of the 
+CRA. Please find in the Annex I of this paper proposals for two new definitions proposed for business consumer” or 
+“business users”.  
+ 
+Primary obligation of the manufacturer to report incidents and exploited vulnerabilities (Article 11(1) & 11(2)) is ineffective 
+while transfer the information from rail undertaking /infrastructure manager to manufacturer can take considerably longer 
+time than 24 hours required h ere. While time is undoubtedly critical here, any entity operating the product in wider range 
+or in critical applications (e.g. ‘Business consumers’ or ‘Business users’ proposed  above) shall be obliged to report. 
+ 
+In addition, practice shows that considerable part of incidents and vulnerability exploits is caused not by product properties, 
+but improper operation practice, including but not limited to factory settings held, gaps for easing administration and 
+maintenance tasks opened. Simple shifting all the  cyber resilience responsibility to supply chain bodies can prove 
+ineffective and extremely costly, resulting in “foolproof” devices with any misuse being “foreseen” ( according to Article 
+5(1)). While this approach is defendable for retailed mass consumer market and business-to-consumer sectors, this is not 
+valid for business-to-business sectors such as the railways where skills and responsibilities of largescale users are 
+comparable to the manufacturers. 
+► Vulnerability handling over the lifecycle of railway products 
+In order to maintain in a secure state the products, subsystems and systems, the CRA considers it is the responsibility of 
+the manufacturer to deliver patches for the expected product lifetime up to a maximum of 5 years (according to Article 
+10(6)), which would clearly not cover the typical li fecycle of rail products and systems more than 30 years as mentioned 
+earlier. In order to ensure that rail products are cyber resilient for their life cycle, UNIFE considers the CRA shall consider 
+the entire lifetime rail products and the particular characteristics of the rail sector.  
+ 
+Manufacturers can deliver patches in the case of exploited vulnerabilities occur, during the two  first years after delivering 
+the system, as indicated in the EU guarantee of the products. However, manufacturers cannot be responsible for installing 
+the patches. In the rail sector this is a highly costly procedure with the interaction with different subsystems.  During the 
+lifetime of the products, in order to maintain the products as cyber secured and cyber resilient, the vulnerability handling 
+and installation of patches shall be under the responsibility of the “business consumer” , “business user” or the 
+‘cybersecurity maintenance supplier’ as defined in Annex I below. Due to the complexity of railway systems, patches can 
+be de livered via service contracts with a benefit that the initial investment cost does not increase so much but their 
+associated costs are distributed over the life cycle. 
+ 
+The vulnerabilities handling is an extra cost for the rail sector as in order to implement patches, especially in critical 
+products, it might require to re -open the safety case , leading to a recertification of the product and ultimately a  new 
+authorisation of the rail vehicle type and an updated conformity to type authorisation for all vehicles in operation . Such a 
+process might impact traffic management or maintenance activities as it could lead to the non-operation of trains for an 
+unknown period of time. It is a very costly procedure and it shall be responsibility of the rail undertaking or infrastructure 
+managers as owner of the systems. 
+ 
+Moreover, the process for managing exploited vulnerabilities is not well defined in the CRA. The management of exploited 
+vulnerabilities is a very sensitive issue related to IPR and sometimes to trade or commercial secrets ( according to Article 
+11 and Article 52 ). Therefore, the process for managing exploited vulnerabilities shall be clarified and sanctions shall be 
+imposed on any legal or natural person disclosing this kind of information. 
+ 
+Annex I article 1 (2) states that “Products with digital elements shall be delivered without any known  exploitable 
+vulnerabilities”. As stated before, products in the rail domain have  a serie s of activities after product finalisation ( e.g. 
+integration test, factory acceptance test, site acceptance test, assessment). Current products contain a significant  amount 
+of software (including standard operating systems and open source software ), it is therefore not predictable for any given 
+moment, that a product is without any known exploitable vulnerabilities. A similar issue is addressed in the IEC 62443 6-2 
+Evaluation method for IACS components security requirement (IEC 62443 4 -2). We stron gly advise to rephrase this 
+requirement to “Products with digital elements for critical infrastructure shall be delivered only if there is a vulnerabilit y 
+ 
+ 
+www.unife.org   7 
+ 
+management process in place which tracks the vulnerabilities of the product to closure. Known exploit able vulnerabilities 
+of critical infrastructure products shall be addressed in a time-frame agreed with the customer” 
+ 
+Annex I article 2 (4) states that “once a security update has been made available, publicly disclose information 
+about fixed vulnerabilities”. Due to the planning time required for installing updates in a rail system, this requirement lowers 
+the security for rail systems. Attackers today are analysing publicly available security updates and develop attack methods 
+in a very short time (typic ally in a few days). This makes attack tools earlier available than the rail operators could install 
+the updates. Therefore, this requirement should distinguish between products that can be patched quickly (as consumer 
+goods and device in non-critical infrastructures). For devices in critical infrastructure the requirement should be rephrased 
+to “once a security update has been made available, information about fixed vulnerabilities shall be shared with the 
+customers”. 
+ 
+Finally, all the products supplied fo r systems related to past contracts, i.e. contracts signed before the date of entry into 
+force of the CRA proposal, shall not be subject to apply the requirements of the CRA proposal. These contracts shall be 
+subject to follow the “grandfathering” principl e and considered as exempt. Some of the rail products/concepts are based 
+on elements (e.g. protocols), that cannot be altered easily without jeopardising large infrastructure investments. 
+► Definition of ‘products’ 
+The definition of products (according to Article 3) is very broad, and the proposal for certifying 90% of the products via self-
+assessment is very ambitious.  In its proposal, the European Commission differentiates between three types of products 
+with digital elements: products with digital elements, critical products with digital elements and highly critical products with 
+digital elements. UNIFE appreciates this approach in principle as such a differentiation follows the necessary risk -based 
+approach. However, UNIFE considers the categories of products with digital elements to be defined as ‘critical’ and ‘highly 
+critical’, which include, for example, microcontrollers, industrial automation and control systems or parts of the Industrial 
+Internet of Things, as too broad. 
+ 
+Rather than addressing product groups in terms of a general criticality, the EU co-legislators should consider the intended 
+use of a product with digital elements, as one and the same product can perform a more or less critical function according 
+to the concrete applica tion scenario. This shall be specified by the “business consumer” or “business user” as proposed 
+and defined Annex I.  
+ 
+In addition, considering the complexity of the rail sector products that are integrated to, at the end, have a system of 
+subsystems, a process-wise approach shall be considered instead of a product-based approach for the rail sector. 
+► Penalties 
+In order to ensure that all manufacturers fulfil requirements (according to Articles 10, 11, 13 or 14 respectively) relating to 
+the essential requirements and the procedures on vulnerability handling according to CRA Annex I, as well as the articles 
+relating to the cooperation with market surveillance bodies, the introduction of fines is justified.  
+In general, UNIFE perceives the differentiation according to three types of misconduct proposed as acceptable and would 
+like to propose an additional type of penalty linked to the leak of confidential information . However, UNIFE urges the co-
+legislators to take a company’s annual turnover stemming from the specific product as a basis for the level of fines rather 
+than the annual worldwide turnover of the entire company, as proposed by the European Commission. Too stringent fines 
+may discourage companies to investment in products with digital elements and thereby reduce competition on the market 
+for these products. Please find in the Annex I of this paper proposals regarding the level of penalties to apply. 
+► Overlapping with existent cyber-relevant legislation  
+UNIFE considers t here might be an overlap and conflict with other existing or upcoming cyber relevant legislation, a 
+situation which must be avoided. In particular, the AI Act, the NIS2 Directive and the Data Act should be looked at here. 
+• The Artificial Intelligence Act excludes the transport sectors and therefore it excludes rail. As a result the AI measures 
+of this act should not follow the approach included in the CRA (according to Article 8). 
+• The NIS2 Directive introduces reporting obligation for ‘important entities’, in the case of the rail sector being the large 
+manufacturers. Therefore, there might be an overlapping. In addition, the national cybersecurity strategies as 
+introduced by the NIS2 Directive, shall include provisions on cyber resilience (according to Article 11) 
+• The Data Act has not yet been approved and the overlap with this legislation should be closely monitored.  
+ 
+ 
+www.unife.org   8 
+ 
+Annex I 
+This Annex provides more details to some of the statements and recommendations made in the previous chapters of the 
+position paper. 
+► Enhancing cybersecurity in European rail regulation  
+As stated in chapter 2, the European Commission's 2020 Mandate to the European Union Railway Agency (ERA)  for the 
+‘Digital rail and Green freight TSI revision package (2022 revision) ’ contained actions on cyber security  with change 
+requests (CR) No. 242 and 337. The scope of these CRs were as follows:  
+• CR 242 - Review clause LOC&PAS TSI 4.2.1.3 (4) to streamline management  of changes impacting software while 
+maintaining the safety of the rail system - TSIs should take into account the need to achieve the right balance between 
+a rule -based approach and a risk -based approach, which allows to facilitate technical progress and innovativ e 
+solutions, in particular when specifying functions and performances. CR 242 was the CR resulting from the EC 
+mandate action 49 “Review Safety aspects for software, interoperability and cyber-security” 
+• CR 337 - Enhancing Cybersecurity of the Railway Syste m: The Technical Specifications for Interoperability (TSIs) 
+should take into consideration cybersecurity in line with the conclusions of the first Conference on Transport 
+Cybersecurity organised by the European Union Agency for Network and Information Security (ENISA).  
+• Our transport system should be able to deter attacks and show resilience if they occur. 
+• The Directive on Security of Network and Information Systems (NIS Directive) lays a solid foundation to 
+enhance cybersecurity and resilience in the transport sector. Where appropriate, specific rules may be needed 
+in certain transport modes. 
+Those change requests are aimed at protecting railway systems and to implement the appropriate measures on cyber 
+security at a subsystem level.  
+► Responsibilities 
+Based on the responsibilities found within the railway sector, UNIFE propose t wo new definitions to be included for the 
+business sectors (according to Article 3):  
+• ‘Business consumer’ or ‘Business user’ means any natural or legal person that is the end user, that will operate 
+the product, responsible for its operation, that takes the ownership as indicated by a signed contract, and responsible 
+to install the patches in the exploited vulnerabilities unless by means of a contract, he authorizes other physical or 
+legal entity to maintenance the possible exploited vulnerabilities. 
+• ‘Cybersecurity maintenance supplier’ means any natural or legal person that is authorized by  the “business 
+consumer “or “owner” to maintain by means of a contract the system cyber secure. 
+ 
+In addition, the reporting obligations of manufacturers  (according to Article 11) shall be modified to add the ‘Business 
+consumer” or “Business user” in the responsibilities for reporting.  If the ‘Business consumer” or “ Business user” are the 
+ones notifying a vulnerability, they need to notify the manufacturer as well together with the notification to ENISA. An 
+acknowledgement of the manufacturer shall be received and this shall be the date to start counting to deliver the patch, 
+during the two first years after delivering the product. 
+► Penalties 
+As referenced earlier, please find below proposals regarding the level of penalties to apply: 
+(a) The non-compliance with the essential cybersecurity requirements laid down in Annex I and the obligations set out in 
+Articles 10 and 11 shall be subject to administrative fines of up to 15 000 000 EUR or, if the offender is an undertaking, 
+up to 2.5 % of its total worldwide annual turnover for the preceding financial year stemming from sales of the respective 
+product with digital elements, whichever is higher. 
+(b) The non-compliance with any other obligations under this Regulation shall be subject to administrative fines of up to 
+10 000 000 EUR or, if the offender is an undertaking, up to 2 % of its total worldwide annual turnover for the preceding 
+financial year stemming from sales of the respective product with digital elements, whichever is higher. 
+(c) The supply of incorrect, incomplete or misleading information to notified bodies and market surveillance authorities in 
+reply to a request shall be subject to administrative fines of up to 5 000 000 EUR or, if the offender is an undertaking, 
+up to 1 % of its total worldwide annual turnover for the preceding financial year stemming from sales of the respective 
+product with digital elements, whichever is higher. 
+(d) The leak of confidential information related to the disclosure of a vulnerability th at might affect the reputation of a 
+manufacturer shall be subject to administrative fines of up to 15 000 000 EUR or, if the offender is an undertaking, up 
+to 2.5 % of its total worldwide annual turnover for the preceding financial year, whichever is higher. 
+MEETING 
+MINUTES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

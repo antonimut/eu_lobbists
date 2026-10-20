@@ -1,0 +1,82 @@
+EC adoption consultation on theeIDAS Regulation revision
+2 September, 2021
+Our feedback in a nutshell 1
+About Mozilla 2
+Preliminary reﬂections on the Regulatory proposal 3
+Understanding the role of browsers and website authentication 3
+Browsers are the frontline of security for EU webusers 3
+The website security ecosystem - certiﬁcate authoritiesand root programs 4
+Qualiﬁed Website Authentication Certiﬁcates (QWACs) in the eIDAS 5
+Concerns with Article 45 in 2021 eIDAS Draft 6
+Recommendations to address website authenticationissues in Article 45 8
+Further Technical Background 8
+1. Our feedback in a nutshell
+● The legislative proposal to revise the eIDAS regulationwill undermine akey pillar of security on the web today – website certiﬁcates – that powerencryption and privacy on websites. This will have a signiﬁcantly negativeeﬀect on e-commerce, e-government, and the protectionof fundamentalrights in the EU.
+Mozilla EU Policy  |     brussels@mozilla.com
+1
+Ref. Ares(2021)5424908 - 02/09/2021
+● Article 45 of the legislative proposal allows certiﬁcateauthorities tocircumvent web browsers’ rigorous policies and reviews that protectpeople online.
+● This will increase the risk of EU residents’ web traﬃcbeing interceptedand redirected by cybercriminals. It compromises privacyand security byincreasing the likelihood that passwords, credit carddetails, and personalactivity conducted on a website could be exposed toan unauthorisedparty.
+● This problem can be addressed by amending Article45 such that browsersare not mandated to accept certiﬁcates.
+2. About Mozilla
+Mozillaisdeeplyinvestedincreatingatrustedonlineecosystembothasabrowsermakerand as a stakeholder in the broader internet ecosystem. MozillaCorporationisaprivatecompanyfullyownedbyitssoleshareholder, thenon-proﬁtMozillaFoundation. Tofurtherourmissiontoprotect anopenandaccessibleinternet, theMozillaFoundationfocusesonadvocacy, educational and leadership development while Mozilla Corporation focuses ontechnology and policy development. Mozilla Corporation builds the open source Firefoxweb browser, Mozilla VPN, and the Pocket “read-it-later” application; products that areused by hundreds of millions of individuals aroundthe world.
+As stated in the Mozilla Manifesto, we believe individuals' security and privacy on theinternet are fundamental and must not be treated as optional. We have worked hard toactualise this belief for the billions of users on the web by actively leading andparticipating in the creation of webstandardsthat makethewebmoresecureandmoreprotective of privacy. In that vein, we have long operated our own root program, andcreatedtheCommonCADatabasetoenhancesecurity, transparency, andinteroperabilityin the website security ecosystem.
+It isinthiscontextthatwecontributetothediscussionsaroundthelegislativeproposaltorevise the eIDAS regulation.
+Mozilla EU Policy  |     brussels@mozilla.com
+2
+
+3. Preliminary reﬂections on the Regulatory proposal
+The proposed revision of the eIDAS regulation includes a number of reasonable policyproposals to enhance the interoperability and use of national digital IDs across the EU.These, however, do not drive our core interest inthe proposal.
+Rather, we are moved to engage in these discussions owing to the fact that certainprovisionsintheproposedrevisionoftheeIDASregulationwouldinadvertentlyexposeEUresidents to untenable security risks, and rollback years of advancements insecurityonthe web.
+Thesewebsecurityvulnerabilitiesmanifest inArticle45ofthelegislativeproposal, whichdeals with the recognition of Qualiﬁed Website Authentication Certiﬁcates (QWACs). Ifadopted as is, this provision would compel all browsers oﬀered in Europe, includingFirefox, tolowertherigorousstandardsforauthenticationonthewebthathavedevelopedover the last two decades by individual browser vendors and in multi-stakeholder fora(notably the CA/Browser Forum). As such, ourability toplayourroleinenablingsecuree-commerce and e-government in Europe, and protect EU residents fromcyberattackswould be severely undermined.
+Inwhatfollows, wewilloutlinepreciselyhowthiswebsecurityconcernmaterialisesinthedraft eIDASregulation, andproviderecommendationsforhowit canbeaddressedbytheEU Council and the European Parliament in the co-decision procedure. But in order tounderstandpreciselywhyarticle45issoproblematicfromawebsitesecurityperspective,we must ﬁrst explain how website authentication works today and the crucial rolebrowsers and certiﬁcate authorities play.
+4. Understanding the role of browsers and websiteauthentication
+Browsers are the frontline of security for EU webusers
+Browsers protect individuals in many ways, one of which is through websiteauthentication. For instance, if a person wants to visit Europa.eu, the browser mustreliablyensurethat thesiteisactuallythedomain‘Europa.eu’ andnotanattackeronthe
+Mozilla EU Policy  |     brussels@mozilla.com
+3
+
+networkimpersonating the Commission’s domain. This trust mechanismis essential fore-commerce, e-government, as well as to facilitate everyday uses of the internet and toprotect the public interest work of journalists, politicians, and human rights defenders.Network attacks can lead to sensitive data being intercepted (passwords, credit cards,names, addresses, messagecontentetc.)andcanenablefollow-ononlineattacks(hijackingof email and social accounts, impersonation, leak of sensitive information etc.). As such,insecurity in website authentication can lead to signiﬁcantharm, both online and oﬀ.
+Website authentication depends on a “digital certiﬁcate”, which is a document that tiesthe website server’s name (e.g. “europa.eu”) to a unique cryptographickey. Thewebsite’sserver can then prove its identitytothebrowserusingthat key, andonceit hasdoneso,the browser knows it has connected to the server identiﬁed in the certiﬁcate and canencrypt the connection between the server and the user. This authentication andencryption are the cornerstone of trust on the web (manifested as HTTPS URLs andpadlocks), driving e-commerce and enabling secure interactions for billions of usersaround the world.
+The website security ecosystem- certiﬁcate authorities and browser rootprograms
+Thedigital certiﬁcatesusedbybrowsersforwebsiteauthenticationareissuedbyseparateentities called “certiﬁcate authorities” (CAs). These organisations are responsible forverifying the website server’s identity before issuing a certiﬁcate. This is a signiﬁcantresponsibility – if a Certiﬁcate Authority issues a website certiﬁcate that is incorrect,whetherformalignintentorbecauseofpooroperationalprocesses–theconsequencesforEU residents and organisations can be catastrophic. In other words, for websiteauthentication to work, and by extension e-commerce and e-government, CertiﬁcateAuthoritiesmust be trustworthy.
+To ensure this trust, most major browsers have a rigorous vetting process before aCertiﬁcateAuthoritycanenterits“rootprogram”(i.e. thesetofcertiﬁcateauthoritiesthatthebrowserrecognisesasbeingabletoissuetrustabledigitalcertiﬁcates). Rootprogramsvet candidateCertiﬁcateAuthoritiesbasedonpublic,establishedcriteria.Rootprogramsalso undertake recurring trust assessments, and can remove CAs which violate thoserequirements.
+Mozilla EU Policy  |     brussels@mozilla.com
+4
+
+Source: What Is a Certiﬁcate Authority (CA) and What Do They Do?atTheSSLStore.com
+Qualiﬁed Website Authentication Certiﬁcates (QWACs) in the eIDAS
+The existing eIDAS Regulation, passed in 2014, introduced a parallel framework forwebsite certiﬁcates and authentication, known as ‘Qualiﬁed Website AuthenticationCertiﬁcates’.
+In the existing eIDAS regulation, a QWACis acertiﬁcateforwebsiteauthenticationthatmakes it possible to authenticate a website and links the website to thenatural orlegalpersontowhomthecertiﬁcateisissued. Theyweremotivatedbyfallout of theDigiNotarattack and inspired by Extended Validation TLS certiﬁcates. So-called ‘TrustedServiceProviders’ (TSPs) issue QWACs, and in eﬀect, seek to play the role of CertiﬁcateAuthorities in the website security ecosystem.
+We and the broader browser and CAcommunity have long-standing concerns with theQWACsmodel andsomeof itssuggesteduse-cases. Mostnotably, TSPs–theentitiesthatissue QWACs under the existing eIDAS regulation –are subject to signiﬁcantly weakersecurity, transparency, and auditing requirements compared to the root programsoperated by Mozilla and other browser vendors. We have outlined these concerns in
+Mozilla EU Policy  |     brussels@mozilla.com
+5
+
+rigorous detail on a number of occasions, most recently in the European Commission’s2020 public consultation on the revision of the eIDASregulation.
+5. Concerns with Article 45 in 2021 eIDAS Draft
+Unfortunately the 2021 regulatory proposal resurfaces theselongstandingshortcomingsof QWACsandheightenstherisksassociatedwiththem. ThisisbecausethroughArticle45, the legislative proposal mandates that browsers automatically include TrustedService Providers (TSPs) in their browser root programs, without any restrictions orcaveats.
+As described above, web browsers have rigorous standards for vetting the entities thatthey accept website certiﬁcates from. These rigorous standards are necessary becausewebsitecertiﬁcatesareakeyunderpinningof e-commerce, e-government, andprotectionof fundamental rights ontheweb. IntheexistingeIDASregulation, adoptedin2014, theEUcreated QWACs and TSPs, a parallel speciﬁc mechanismforwebsiteauthenticationand trust that was based on weaker security standards and practices than thosefollowedbyrootprogramsofbrowsers. However, sofar, webbrowserscouldatleastrejectTSPs that failed to voluntarily meet therequiredsecuritystandardsforinclusioninrootprograms.
+SincemanyTSPsdonot meet thesecuritystandardsrequiredforroot programinclusiontoday, the proposed Article 45 means that in eﬀect web browsers would be forced toweaken the protections they oﬀer to users today. This presents substantial risk to EUresidents, contradicting EUcybersecurity policy objectives andthreateningtoturnbackthe clock on web security. Further, because website authentication protects people’ssensitive ﬁnancial data in transit and serves as the foundationfortrust ontheweb, thisprovision also contradicts the eIDAS’ e-commerce ande-government objectives.
+Our speciﬁc concerns with the approach in Article 45 are as follows:
+1. Mandatory Inclusion: Browsers will be forced toinclude, intheirroot programs,Certiﬁcate Authorities that may not followindustry wide security standards andbest practices. This will impair our ability to protect our users from traﬃcinterception and manipulation (e.g in situations where a QWAC-issuing TSPintentionally ornegligentlyissuesanincorrect websitecertiﬁcate). Fundamentallyit also compromises the independent ability of each browser company to makesecuritydecisionsthat arebest fortheirusers. Inaddition, wewill bepowerlessto
+Mozilla EU Policy  |     brussels@mozilla.com
+6
+
+respond in situations where one of these TSPs experiencesasecuritybreachthatundermines the validity of their issued certiﬁcates. In other words, the proposalwould make it illegal for browsers to plug known security holes in active useagainst the public. Amandatory inclusion obligationisinappropriateinadomainwhere ﬂexibility and discretion is essential for browsers to respond to securityrisks to our users. Therefore, browsers should not be forced to recognise CAs, asdoing so will signiﬁcantlyhindertheirfrontlineroleinprotectingtheprivacyandsecurity  of billions of users on the open web.
+2. MultiplePointsof Failure: ByallowingeachMemberStatetoestablishitsownlistof TSPs that can issue QWACs, the law will introduce new points of failure forsecurity and audit compliance for CAs. Underthecurrent proposal, eachmemberstate can set diﬀering criteriaforCAstobeacceptedintotheirrespectivetrustedproviders lists, all of which would have to be accepted by browsers. This lack ofuniformity across the EU, both procedurally as well as in the minimumissuanceand audit criteria, will amplify the security and privacy concerns that we havealready highlighted in this submission.
+3. Insuﬃcientsecurityandtransparencyrequirements: AmajorshortcomingoftheeIDAS approach (in boththeexistingregulationandtheproposedrevision) isthatthe entities that can issue QWACs (so-called TSPs) do not have to meet thehigh-standard of security required to be admitted into a browser root programtoday. Theregulationdoesnot specifythedegreeof preliminaryduediligencethata Member State Supervisory Body has to performin order to determine that anentity is ‘trusted’ enough to issue QWACs. Moreover, the auditingobligationsareweaker under the eIDAS regime than exists for our root programtoday, and thesecurity requirements expected of entities issuing QWACs are opaque andunelaborated. This lack of due diligence and transparency becomes the source ofsigniﬁcant security risk when coupled with the fact that the legislative proposalseekstoobligewebbrowserstoincludetheseTSPswithintheirroot program(seepoint one above).
+4. Global Precedent: Due to the precedent the eIDAS will set by dictating rootprogrampoliciesbylegal compulsion, browserswillbeunabletopushbackagainstincreasing attacks fromstate actors that want to man-in-the-middle web traﬃc(Kazakhstan, Mauritius) by similarly mandating CA inclusion. Interfering withwebsite authentication and root programpolicies has long-been an ambition ofauthoritarian regimes whoseektounderminefundamental rightsanddemocratic
+Mozilla EU Policy  |     brussels@mozilla.com
+7
+
+freedoms. BecausealocallymandatedCAcanpotentiallyman-in-the-middletraﬃcglobally, thoseregimeswouldthenpresent ariskbothtoEUresidentsaswellastotheirowncitizens. Wehavebeenthusfarabletoresisttheseinterferencespreciselybecause there is a trusted, robust, and multi-stakeholder ecosystemthat governswebsiteauthentication. TheeIDASobligationtomandatoriallyincludeTSPswouldundermine our defence against authoritarian regimes.
+6. Recommendations to address website authenticationissues in Article 45
+Based on the above, the elements of the legislativeproposal that concern QWACs, TSPs,and browsers’ relation to themmust be revisited inthe co-decision procedure.
+Speciﬁcally, the co-legislators should amend theproposal such that browsers are notforced to support QWACs nor be compelled to mandatorilyinclude certiﬁcate authorities(CAs) notiﬁed by member states as QWAC-issuing TSPsin their browser root programs.
+7. Further Technical Background
+OursubmissiontotheEuropeanCommission’s2020publicconsultationontherevisionoftheeIDASregulationcontainsmoredetailedfeedbackonthetechnicalaspectsofQWACs.This includes alternative proposals that could help achieve similar outcomes whileupholding privacy and security characteristics that are integral to e-commerce,e-governance and the open web within the EU singlemarket.
+We thank the Commission for this opportunity to provide feedback on the legislativeproposal. We are conﬁdent that on the basis of the above recommendations, it will bepossible to achieve the policy goals of the Digital Identify framework, withoutundermining security on the web.
+-----
+For more information on Mozilla’s perspectives, please contact Owen Bennett(obennett@mozilla.com) or Udbhav Tiwari (utiwari@mozilla.com).
+Mozilla EU Policy  |     brussels@mozilla.com
+8

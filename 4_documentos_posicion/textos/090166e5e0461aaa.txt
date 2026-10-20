@@ -1,0 +1,165 @@
+PAGE 1
+FLI Feedback on
+new EU rules for AI
+liability
+Comments on the "Inception Impact Assessment Adapting
+liability rules to the digital age and circular economy"
+Ref. Ares(2021)4818866 - 28/07/2021
+PAGE 2
+Executive summary
+The Future of Life Institute (FLI) welcomes the opportunity to participate in this consultation on the European
+Commission’s Inception Impact Assessment on “Civil liability – adapting liability rules to the digital age and
+artificial intelligence”. 
+FLI supports revising the Product Liability Directive in a way that protects the rights of consumers in the digital
+age and that encourages AI developers to make their products safer. FLI recommends that: i) a revised
+Directive be extended to cover non-material damage, ii) the burden of proof be reversed, and iii) conditions to
+make claims be eased. FLI further supports iv) harmonising current domestic liability frameworks; v) a ban on
+non-liability clauses; and vi) the introduction of a right for individuals not to be subjected to prohibited AI
+systems, which would enable private enforcement of the requirements set out in the Commission’s proposed EU
+AI Act.
+I. Introduction 
+The Future of Life Institute (FLI) is one of the world's leading voices on the governance of artificial intelligence
+(AI). The institute is an independent non-profit organisation that works on maximising the benefits of
+technology and mitigating its risks. 
+For example, FLI helped to organise the creation of one of the earliest and most influential set of principles on
+the development and governance of AI, the Asilomar AI Principles [1]. FLI has also supported AI safety research
+and organised conferences bringing together hundreds of the world's top AI researchers to address key
+challenges. The Institute, alongside the governments of France and Finland, is also the civil society champion
+of AI-related recommendations in the U.N. Secretary-General’s Digital Cooperation Roadmap. 
+FLI has recently expanded its operations to Europe and is registered in the EU Transparency Register
+(787064543128-10). In Europe, FLI has two key priorities: 1) promoting the beneficial development of artificial
+intelligence; and 2) regulating lethal autonomous weapon systems. Previously, FLI has taken part in the public
+consultations on the European Commission’s AI White Paper and a response to the AI Act is forthcoming.
+We commend the European Commission for undertaking the adaptation of safety legislation to the digital age
+because trustworthy AI requires clear rules on liability.  FLI is honoured to have an opportunity to participate in
+this public impact assessment. For the reasons set forth below, FLI supports policy options 1b, 2.1.b, 2.1.c.,
+2.1.d., and 2.2.d as outlined in the Commission's inception impact assessment (Ares(2021) 4266516,
+30/06/2021).
+ [1] https://futureoflife.org/ai-principles/
+PAGE 3
+II. Options to adapt strict liability rules to the digital age and
+circular economy 
+FLI supports a revision of the Product Liability Directive as described in 1.a. and its extension to non-
+material damages (option 1.b.). We believe this option addresses most of the specific challenges posed by
+digital products today such as the fact that they can be updated after being put in circulation, the complex
+interactions between different products and services, and the cybersecurity risks. We note that including non-
+material damages is especially important for digital products, as was explained thoughtfully by the
+Commission in its prior White Paper. Non-material damages include privacy infringements, consumers' data
+loss, environmental damage, and loss of chance (e.g. if an algorithmic decision-making system deprived
+someone of a job opportunity). 
+III. Other options to address proof-related and procedural
+obstacles to getting compensation under the Directive
+FLI supports reversing the burden of proof (option 2.1.b.), adapting the notion of defect (option 2.1.c.),
+and easing the conditions for making claims (option 2.1.d.). Today, the injured person is required to prove
+the damage they suffered (which has to be material and over 500 euros), the defect in the product, and the
+causal relationship between the two. 
+Three types of defects in products have generally been identified: manufacturing defect (when a single item is
+different from the rest of the batch), information defect (when the risks have not been adequately
+communicated), and design defect (if the design of the product is not safe enough). Given how opaque AI
+systems can be, it would be nearly impossible for a consumer to prove a manufacturing or design defect. And
+even if given access to the model itself, they would still be missing required information on the outcome on
+others. Taking the example of an algorithmic decision-making tool, a single individual would not be able to
+prove they were discriminated against if they did not have access to aggregated data concerning other
+impacted individuals from the same category. We thus believe it is especially important to reverse the
+burden of proof (option 2.1.b.). As consumer organisation BEUC has pointed out in its public response, this
+would help make EU liability rules more relevant to European consumers. After all and under current rules only
+798 claims based on EU product liability rules had been identified between 2000 and 2016.
+Some digital products present unique features, including continuous learning, which can raise unique issues.
+For that reason, we believe it is necessary to revise the notion of defect, as well as remove the
+development risk defence (option 2.1.c.). The development risk defence states that companies can avoid
+liability if the state of scientific and technical knowledge at the time the product was put into circulation was
+not such as to enable the defect to be discovered. We believe this doctrine could create a significant loophole
+in the liability of self-learning and continuous AI systems, and should thus be removed. Different member states
+of the EU (Finland, France, Hungary, Luxembourg and Spain) have adopted the derogation for this clause,
+which demonstrates the feasibility of limiting its application. Furthermore, in contrast to many other goods, a
+producer can more cheaply address potential defects in AI systems as the producer becomes aware of them
+through software updates that are less costly than traditional recalls.
+PAGE 4
+ [2] European Commission. Commission Staff Working Document. Evaluation of Council Directive 85/374/EEC
+of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the Member
+States concerning liability for defective products (SWD(2018) 158) of 5 May 2018.
+ [3] European Parliament Policy Department for Citizens' Rights and Constitutional Affairs. Artificial
+Intelligence and Civil Liability (PE 621.926) of July 2020.
+In addition, and for the same reasons, we also advocate against the later defect defence. Today, it is
+recommended that, when assessing the legitimate safety expectations of the public, "later technical
+developments, as well as subsequent circumstances that may affect the product, should not be taken into
+account."[2] However, continuous learning systems could escape liability under this reasoning. FLI believes that
+the defect of continual self-learning AI systems should not be classified as later defect if the defect is tied
+directly to the fact that the learning done by the system in the product lifecycle produced unanticipated harm.
+The fact that a system can self-learn while being used by a customer is not a ‘later’ defect, as self-learning is
+at the very core of the market value of the product that is known to have possible unintended negative
+consequences. In addition, it is important to avoid the unpredictability of the behavior of autonomous
+machines breaking the chain of causation. If a company is building a system with great autonomy, it must
+acknowledge and accept the risk that their system will perform in ways that are unpredictable, which should
+not be considered as an unanticipated, later defect.
+Finally, we support easing the conditions for making liability claims (option 2.1.d.). We believe there are
+multiple reasons to lower the 500 euros threshold. Some of the non-material damages caused by digital
+products can be hard to quantify (e.g. data loss, environmental damage). In addition, a defective AI system
+could impose a small loss to all the individuals subject to its use, which would amount to a large loss for society
+at large. 
+IV. Options to address proof-related challenges posed by AI
+to national liability rules
+In addition to updating the Directive, FLI believes it is important to harmonise current domestic liability
+framework in relation to the operators and users of AI systems (option 2.2.d.). A fault-based regime
+incentivises companies to make the right decision and prioritise safety over other considerations [3]. FLI
+therefore supports harmonising domestic laws and reversing the burden of proof given how difficult it could be
+for consumers to have the necessary information to prove damage from digital products. 
+V. A rights-based liability regime
+In addition to updating the Product Liability Directive, the European Commission is considering creating a
+separate instrument on civil liability. This is part of a wider effort to adapt European law to the digital age,
+including through the proposal for a Digital Services Act, the proposal for a Regulation on general product
+safety, the proposal for a Regulation on machinery products, and the proposal for an AI Act. The legal basis for
+all of the aforementioned texts is Article 114 of the Treaty on the Functioning of the European Union. This shows
+the European legislators’ intent to promote the proper functioning of the internal market by harmonising the
+rules and promoting safe innovation. 
+PAGE 5
+Fundamental rights play a limited role in this legislative effort. The proposal for a Regulation on general
+product safety is partly grounded in consumer protection, with “due regard to Article 169.” The proposal for an
+AI Act also contains Article 16 as a legal basis (data protection), but only insofar as the rules on biometric
+identification are concerned. None of the proposals related to digital products contain articles from the
+European Union Charter of Fundamental Rights as their legal basis. We recommend strengthening this
+corpus by creating a rights-based approach to citizen’s safety in the digital age.
+In addition to individuals being able to file a suit in cases of harm from a defective digital product, an
+approach grounded in individual rights could allow citizens to seek recourse when they have been subjected to
+certain systems. For instance, the legislation could include the right for individuals not to be subjected to
+prohibited AI systems and to AI systems that fail to meet the requirements set forth according to their
+risk level in the proposed AI Act. Individuals could sue producers or providers when they have been exposed
+to either of these in a manner that causes material or non-material harm to the individual. 
+Enshrining individual rights in the proposed liability instrument completes a system of effective legal protection
+by ensuring not only public enforcement through the national authorities, but also by providing the possibility
+for private enforcement. This approach would need to be coupled with a reversal of the burden of proof, in
+addition to the obligation of transparency by AI producers and providers to users and to all of those affected
+by it.  
+VI. Other considerations
+The Product Liability Directive is a maximum harmonisation directive, which prevents countries from having
+stronger regulations in place. While we acknowledge the importance of having harmonised legislation
+throughout the EU market, we want to make sure that updating the Directive to include digital products does
+not weaken domestic rules in certain member states. 
+We also support a ban on non-liability clauses that could have allowed producers to transfer their
+responsibility to users of AI systems through a contract. Given the asymmetry of information between
+producers and consumers of digital technology, users often don't yet understand what potential damage could
+occur when they first use a product or service. They might also consent to a long contract by clicking in order
+to access a digital service, without realising that they are waiving their rights.
+We would also like to use the opportunity offered by this consultation to express our support for the
+recommendations set forth by the Commission's Expert Group on Liability and New Technologies [4]. We
+believe that most of the challenges they sought to address would be attended to by the options we are
+supporting in this document, especially as they relate to the burden of proof. However, we would like to
+emphasise three recommendations that remain to be incorporated into European or national law: 
+ [4] European Commission Report from the Expert Group on Liability and New Technologies – New
+Technologies Formation. Liability for Artificial Intelligence and other emerging digital technologies, 2019.
+PAGE 6
+A person operating a permissible technology that nevertheless carries an increased risk of harm to others,
+for example AI-driven robots in public spaces, should be subject to strict liability for damage resulting from
+its operation.
+A person using a technology that does not pose an increased risk of harm to others should still be required
+to abide by duties to properly select, operate, monitor and maintain the technology in use and – failing
+that – should be liable for breach of such duties if at fault.
+A person using a technology which has a certain degree of autonomy should not be less accountable or
+ensuing harm than if said harm had been caused by a human auxiliary.
+About the author
+This FLI document has been prepared by Claire Boine. Ms Boine is a French national and FLI's in-house expert
+on AI law. Her research focuses on the law of technology in Canada, the U.S. and Europe. She is a PhD
+candidate in the law of AI at the University of Ottawa, and has previously obtained a Master in Public Policy
+from Harvard University, a Master 2 in International and European Law from Nantes Law School and a Master in
+Political Science from Toulouse University. Claire can be reached for questions or comments through
+claire@futureoflife.org.

@@ -1,0 +1,2482 @@
+DOES BIOENERGY DEMAND IMPROVE 
+FOREST MANAGEMENT? 
+Jacopo Giuntoli and Stephanie Searle
+JULY 2019WHITE PAPER
+BEIJING   |   BERLIN   |   BRUSSELS   |   SAN FRANCISCO   |   WASHINGTON
+www.theicct.org
+communications@theicct.org    
+Ref. Ares(2020)4900805 - 18/09/2020
+ACKNOWLEDGMENTS
+This work was generously supported by the David and Lucille Packard Foundation and 
+the Norwegian Agency for Development Cooperation (NORAD). Thanks to Ragnar 
+Jonsson, Zoltan Rakonczay, Nikita Pavlenko and Peter Mock for helpful reviews.
+International Council on Clean Transportation
+1500 K Street NW Suite 650
+Washington DC 20005 USA
+communications@theicct.org | www.theicct.org | @TheICCT
+© 2019 International Council on Clean Transportation
+i
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+EXECUTIVE SUMMARY
+Policies in the European Union, the United States, and Canada support the use of 
+forest biomass in heating, power generation, and transportation as a climate mitigation 
+strategy. This support continues despite evidence from several scientific studies that 
+forest bioenergy does not generally reduce lifecycle greenhouse gas (GHG) emissions 
+when compared with fossil fuels. Forest bioenergy has even sometimes been erroneously 
+considered carbon neutral. This flawed perception results from a misunderstanding 
+of life-cycle assessment studies that ignored biogenic CO2 emissions and did not 
+consider the counterfactual use of land or biomass in a no-bioenergy scenario. Analyses 
+comparing biomass harvest against a no-bioenergy scenario show that a decrease in 
+forest carbon stock from increased removal of wood for energy is balanced over time 
+by the GHG savings that derive from replacing fossil fuels. Until that point is reached, 
+however, the bioenergy system will release more CO
+2 than the fossil system. This is 
+known as the carbon payback time. The length of the payback time depends on many 
+factors, including the type of woody feedstock and assumptions on alternative land use. 
+The bulk of the scientific literature indicates that using wood for bioenergy increases 
+GHG emissions compared with fossil fuels over a period of decades (Agostini, Giuntoli, 
+& Boulamanti, 2014; European Commission, 2016). A smaller number of studies find 
+the opposite, that forest bioenergy delivers substantial GHG savings over a reasonable 
+timeframe of 20–30 years. In a literature review, though, we found that the latter studies 
+generated this result by assuming that bioenergy demand would spur substantial 
+changes in the forest sector. Such changes would include increased wood growth and 
+productivity through intensive management and planting of forests that would reduce 
+the carbon debt, an umbrella concept we use to indicate time necessary to offset the 
+initial emissions from forest clearance.  
+In this study, we investigate whether there is evidence that bioenergy demand is likely to 
+cause these improvements. We use statistical analysis to test for linkages between the 
+recent ramp-up in bioenergy production and prices, and changes in forest management, 
+residues harvest, and forest area. We focus our analysis on Canada, Sweden, and the 
+United States. These three countries have large forestry sectors and have substantially 
+increased their forest bioenergy production. The bioenergy literature shows they have 
+also been extensively studied. 
+We examine available evidence of changes in the removal of logging residues, such as 
+small branches and treetops; stand management, including site preparation, thinning, 
+and fertilization; forest species composition; and total forest area in the three countries. 
+In addition, we study the use of salvage logs from an extensive mountain pine beetle 
+infestation in Canada, which is not applicable in the two other countries. Our findings 
+are summarized in Table ES 1. Note that the strength of the evidence varies. For example, 
+there is weak evidence that bioenergy demand has resulted in the increased harvest 
+of logging residues in Sweden and Canada, but there is no such evidence in the United 
+States. In some cases, our analysis was limited by data availability. 
+ii
+ICCT WHITE PAPER
+Table ES1. Strength of historical evidence that bioenergy demand has driven forest management 
+changes that can reduce bioenergy carbon debt by region.
+Forest management change Canada Sweden U.S.
+Increased 
+residue 
+removal
+Logging residues Weak Weak None
+Salvage logs from infestation Strong Not 
+applicable
+Not 
+applicable
+More 
+intensive 
+stand 
+management
+Site preparation None Moderate Strong
+Thinning None Strong Strong
+Fertilization None Weak Strong
+Change to higher yielding species None Weak Moderate
+Afforestation / avoided deforestation None None None
+From this analysis, we draw the following conclusions:
+ » Available evidence doesn’t support assumptions that bioenergy demand will 
+improve forest management and encourage new planting. We find no evidence 
+that the rise in bioenergy demand over the past one to two decades has increased 
+forest area in any of the three countries studied. For other improvements to forest 
+management, we find some evidence of a link to bioenergy demand but not in all 
+three countries.
+ » Where there is evidence of a forest management response to bioenergy demand, 
+it is weaker than assumed in the literature. In the United States, for example, there is 
+strong evidence that bioenergy demand has led to a 12% increase in pine plantation 
+productivity, most likely through more intensive stand management (Table ES 1). 
+However, that is far less than the doubling of yields assumed in some studies. 
+ » Policymakers should not assume that forest bioenergy will significantly mitigate 
+climate change. Historical evidence does not support estimates of short carbon 
+payback times for forest bioenergy. Our results suggest that long carbon payback 
+times and poor climate performance are more realistic. Policies promoting energy 
+from existing forests are unlikely to achieve climate mitigation in the near or 
+medium term. Ancillary policy tools to promote improved forest productivity and 
+sustainable forest management are needed to achieve any mitigation in the medium 
+and long term.
+ » Forest bioenergy policy should support only additional biomass. There are two 
+circumstances under which forest bioenergy would deliver meaningful climate 
+benefits: (1) when tops, branches, small wood from thinning, and salvage wood are 
+harvested sustainably, and (2) when biomass is grown on land with low-carbon 
+stocks that would otherwise remain unused. These pathways should be explicit 
+requirements for forest bioenergy policies to ensure climate benefits. We find that 
+bioenergy using only trunks and limbs from existing forests is not likely to be an 
+effective climate mitigation strategy. 
+It is possible for forest bioenergy to be part of effective climate policy, but only with very 
+strong sustainability guardrails to ensure that climate and other environmental benefits 
+are achieved. Policy support for sustainable bioenergy should be provided in the context 
+of a broader climate strategy, including incentives for a broad range of low-carbon 
+energy solutions such as wind and solar power, electric vehicles, advanced alternative 
+fuels produced from wastes, and expanding and safeguarding natural carbon sinks.
+iii
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+TABLE OF CONTENTS
+Executive summary ....................................................................................................................i
+Introduction ................................................................................................................................1
+Canada  .......................................................................................................................................3
+Literature review .......................................................................................................................................5
+Historical trends ........................................................................................................................................6
+Pulp log prices and pellet production ...................................................................................6
+Logging residue utilization .........................................................................................................7
+Site preparation ..............................................................................................................................8
+Site regeneration and site tending ..........................................................................................9
+Afforestation ..................................................................................................................................10
+Canada summary ...........................................................................................................................11
+Sweden .......................................................................................................................................12
+Literature review ......................................................................................................................................12
+Historical trends ......................................................................................................................................14
+Forest fuels extraction and forest product prices ...........................................................14
+Forest productivity .......................................................................................................................15
+Forest management activities ................................................................................................16
+Site regeneration and tree species .......................................................................................18
+Afforestation ..................................................................................................................................19
+Sweden summary ........................................................................................................................20
+United States ............................................................................................................................22
+Literature review .....................................................................................................................................22
+Historical trends ......................................................................................................................................23
+Pulpwood prices and pellet production ..............................................................................23
+Removal of forest residues ......................................................................................................24
+Stand productivity .......................................................................................................................25
+Tree species ....................................................................................................................................27
+Afforestation .................................................................................................................................28
+Timber products composition................................................................................................ 29
+Pulp and paper demand ...........................................................................................................30
+U.S. summary ................................................................................................................................30
+Conclusions and policy recommendations ..........................................................................32
+References ................................................................................................................................35
+Appendix: Methodology & limitations .................................................................................42
+1
+ICCT WHITE PAPER
+INTRODUCTION
+Policies in the European Union and the United States promote the use of forest biomass 
+for energy production as a climate change mitigation strategy. 
+The EU Renewable Energy Directive sets a target of 20% renewable energy use in 2020 
+as well as a 10% renewable energy target in transport (European Parliament & Council of 
+the European Union, 2009). This directive has recently been extended to 2030, with an 
+updated target of 32% renewable energy use and a 14% sub-target for renewable energy 
+in transport in 2030 (European Parliament & Council of the European Union, 2018). In 
+addition, there is a 3.6% sub-target for advanced biofuels in transport in 2030. Biomass 
+supplied 65% of all renewable energy consumed in the EU in 2016 (EUROSTAT, n.d.). 
+Very little forest biomass has been used to produce transport fuels, but the advanced 
+biofuel target could provide an incentive for this pathway. 
+In the United States, many states have renewable energy mandates that include 
+encouraging the use of biomass (National Conference of State Legislatures, 2019), and 
+national law directs federal agencies to count forest bioenergy as carbon neutral in 
+policies (United States Congress, 2018). Canada is designing a Clean Fuels Standard that 
+would encourage the use of forest biomass in stationary sources as well as transport 
+(Environment and Climate Change Canada, 2018). 
+Policy support for forest bioenergy continues despite concerns that the use of forest 
+resources for energy may not reduce lifecycle GHG emissions compared with fossil 
+fuels. Forest bioenergy has sometimes been erroneously considered to be carbon 
+neutral. This flawed concept derives from a misinterpretation of past life-cycle 
+assessment studies that ignored biogenic CO
+2 emissions and did not consider the use 
+of land or biomass in a no-bioenergy scenario (Agostini et al., 2014; Giuntoli & Marelli, 
+2018). Analyses that do compare biomass harvest against a no-bioenergy scenario 
+instead show that a decrease in forest carbon stock from expanded removal of wood 
+for energy is balanced over time by the GHG savings deriving from substitution for 
+fossil fuels. Until that point, though, the bioenergy system will have released more 
+CO2 than the fossil-fuel system. This is known as the carbon payback time. We use 
+the term carbon debt as an umbrella concept to indicate bioenergy systems that are 
+worse than fossil fuels for a period of time. The length of the payback time depends on 
+many factors, including the type of woody feedstock and assumptions on alternative 
+land use. The bulk of the scientific literature indicates that using wood for bioenergy 
+increases GHG emissions compared with fossil fuels over decades or centuries 
+(Agostini et al., 2014; European Commission, 2016). 
+However, a smaller number of studies conclude the opposite: That forest bioenergy, 
+including the use of wood, can deliver substantial GHG savings over the 20–30 year 
+timeframe typically used for carbon accounting in biofuel policy under specific 
+assumptions (European Parliament & Council of the European Union, 2009; U.S. 
+Environmental Protection Agency [U.S. EPA], 2010; Matthews, Hogan, & Mackie, 2018). 
+This divergence in the literature on the climate performance of forest bioenergy 
+largely reflects different modeling methodologies and assumptions on the response 
+of forest management to bioenergy demand (Agostini et al., 2014). Studies finding a 
+positive carbon balance for forest bioenergy assert that growing bioenergy demand 
+could stimulate forest management changes aimed at improving forest productivity 
+and growth. Raising the demand for forest biomass would increase the price of wood, 
+which would create an incentive for forest owners to invest in measures to increase 
+output. Forest owners could then improve the productivity and carbon stocks of their 
+stands through more-intensive management, such as more-frequent fertilization, or by 
+2
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+planting faster-growing tree species. They could also raise biomass output by increasing 
+the harvest of logging residues that otherwise would have been left to decompose on 
+the forest floor, generating CO2, or by carrying out thinning operations. These kinds of 
+removals can achieve carbon benefits within policy-relevant time horizons because they 
+do not affect the growing stock of the forest (Agostini et al., 2014). Some studies on 
+carbon debt also assume that increased bioenergy demand will drive afforestation, or 
+the planting of additional forest, resulting in greater overall forest area and increasing 
+carbon stocks and wood production. The demand responses aim to produce biomass 
+that is ‘additional,’, that is, it would not be produced in the absence of bioenergy 
+demand (Searchinger, 2008). However, such demand might also simply divert resources 
+from other markets and affect the consumption of different types of wood products. 
+Because long-lived wood products continue to store carbon for many years and may 
+displace CO
+2-intensive products used in the construction sector such as concrete, any 
+changes to wood-product consumption can affect the carbon balance of bioenergy. The 
+GHG balance of forest bioenergy varies widely depending on the assumptions chosen for 
+responses to bioenergy demand (Matthews et al., 2018). Even though these assumptions 
+are critical to our understanding of the climate performance of bioenergy, there is very 
+little information available about the empirical bases for such assumptions. 
+This study assesses the evidence on the response of various forest management changes 
+to bioenergy demand. We use historical evidence on forest management intensity, 
+species changes, total forest area, and harvest of residues to track whether these 
+variables have responded to biomass price changes. We focus on Canada, Sweden, and 
+the United States. These countries have large forestry sectors and have experienced 
+booming production of wood for bioenergy in recent years. Several modeling studies 
+have assessed the GHG balance of using forest biomass for energy in each of these 
+countries. We examine each country separately, reviewing the literature modeling 
+carbon accounting of forest bioenergy and analyzing available historical data on forest 
+management practices. We reach conclusions on how well the modeling assumptions are 
+supported by the evidence.
+It is critical for policymakers to understand whether forest bioenergy is capable of 
+delivering meaningful climate benefits, and if so, under what conditions and on what 
+time scale. This study aims to fill a key knowledge gap for parsing the divergent 
+literature on forest bioenergy carbon accounting. If the literature finding a positive 
+contribution of bioenergy to climate change mitigation does so under unrealistic or 
+arbitrary assumptions, this should be brought to light so that decision makers can focus 
+support on lower-risk renewable pathways such as wind and solar power and advanced 
+alternative fuels from wastes. 
+3
+ICCT WHITE PAPER
+CANADA 
+Canada’s forests account for 9% of the world forest cover (Statistics Canada, 2018) 
+and includes large areas of boreal forest (Ecological Framework of Canada, n.d.). The 
+main forest-rich provinces are British Columbia, Ontario, and Quebec. Canada’s forest 
+sector is managed differently from the other countries reviewed in this study because 
+the majority of forest land is public. Provincial governments award different types of 
+contracts for logging and management rights on public land. Commonly they award 
+long-term contracts to private forest companies, which conduct logging and are 
+responsible for forestry operations and management. These private companies earn 
+revenue from selling harvested forest products and in return pay annual rents and 
+stumpage prices to provincial governments (British Columbia Ministry of Forests and 
+Range, 2006).
+Forest companies in Canada thus have less power to influence forestry decisions than 
+in countries with predominantly private forests. The Chief Forester, an independent 
+civil servant, defines the Annual Allowable Cut (AAC) based on scientific analysis to 
+guarantee long-term, sustainable timber yield. Forestry companies under long-term 
+contracts have certain legal responsibilities, including requirements to regenerate 
+harvested stands, either by planting or seeding, and to remove or dispose of harvest 
+residues to limit wildfire risk and the spread of pests (Legislative Assembly of British 
+Columbia, 2002). Forestry companies still have discretion in many management 
+decisions, for example harvesting a lower amount than the AAC, determining on-site 
+preparation methods, fertilization rates, and thinning frequency, and choosing whether 
+to burn on-site or remove forest logging residues. 
+The Canadian forestry industry has experienced large changes in the past two decades. 
+There has been a massive infestation of mountain pine beetle, mostly in British 
+Columbia, that has resulted in widespread tree death. The amount of wood killed by 
+mountain pine beetle in British Columbia over time is depicted in Figure 1. Tree death 
+from the infestation rose rapidly in the early 2000s, peaking in 2005, and has slowly 
+declined since. The provincial government increased the AAC in the early 2000s to 
+allow companies to retrieve as many affected logs as possible before they decayed 
+and became unsuitable for sawmills (Industrial Forestry Service Ltd., 2015). As a result, 
+total wood harvests in Canada peaked in 2004. Total harvests declined sharply from 
+2005–2009, most likely as a result of several factors including the decline in wood 
+volume affected by mountain pine beetle, the economic recession of 2008–2009, and 
+the continuing decline in demand for pulp, which is mainly used for paper and cardboard 
+production, also shown in Figure 1. The total AAC for Canada has also declined, but to a 
+much smaller degree than the decline in harvests (National Forestry Database, n.d.a).
+4
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+0
+0.7
+1.4
+2.1
+2.8
+3.5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2000 2002 2004 2006 2008 2010 2012 2014 2016 2018
+Pellet production [Million tonnes per year]
+Quantity [Million tonnes per year]
+Total harvest Wood killed by mountain pine beetle Wood pulp Pellet production (right axis)
+Figure 1. Total timber harvest, wood pulp production, and forest killed by mountain pine beetle 
+(left axis) and pellet production (right axis) in Canada. Sources: Pellet production data from Wood 
+Pellet Association of Canada (n.d.) and FAOSTAT (n.d.); Wood pulp data from FAOSTAT (n.d.); Total 
+harvest and pine beetle data from National Forestry Database (n.d.b). 
+Canadian production of wood pellet fuel continued increasing throughout this period 
+(Figure 1, right axis), ramping up from 1.5 million to 3.0 million tonnes per year over the 
+past 10 years. More than 80% of Canadian wood pellets were exported in 2017, mainly 
+to the United Kingdom and Japan (Murray, 2018). We focus our attention on British 
+Columbia as it accounts for more than 65% of Canada’s pellet production and has the 
+largest number of pellet mills in the country (Murray, 2018). 
+Recent tree mortality from mountain pine beetle (Dendroctonus ponderosae) and 
+decreasing demand for wood pulp may have contributed to the increase in wood 
+pellet production. Pellets may have been an outlet for salvage logs in the 2000s as 
+well as for sawmill byproducts that 
+would historically have been used by 
+the declining pulp and paper industry. 
+On average, 47% of harvested saw 
+logs ends up as lumber or veneer, with 
+wood chips, sawdust and shavings, 
+and bark and other residues known as 
+hog fuels accounting for the remainder. 
+In 2013, two-thirds of Canadian wood 
+pellets were produced from these mill 
+byproducts (Figure 2). Almost one-
+quarter of Canadian pellets in 2013 were 
+made from logs, most likely salvage logs 
+killed by mountain pine beetle. There 
+may be a time lag between tree deaths 
+from mountain pine beetle (Figure 1) and 
+when salvage logs are used in pellets. 
+British Columbia is the only Canadian 
+province to use harvest residues in 
+pellets (Bradburn, 2014).
+59%
+9%
+22%
+1% 9%
+Mill residues
+Hog fuels
+Logs (incl. pulpwood, salvage)
+Waste Wood
+Logging residues
+Figure 2. Feedstock base for wood pellets in 
+British Columbia in 2013. Source: Bradburn, 2014.
+5
+ICCT WHITE PAPER
+Rising demand for Canadian pellets could result in changes to the mix of feedstocks 
+used in pellet production. If total wood harvests continue to decline in Canada, the 
+production of sawmill residues will also decrease. Salvage logging from mountain pine 
+beetle damage has probably already dropped. Any significant future expansion of 
+Canada’s pellet industry is thus likely to come from increased use of logging residues 
+or nonsalvage stemwood, or limbs and trunks, such as pulpwood (Industrial Forestry 
+Service Ltd., 2015). 
+LITERATURE REVIEW
+Several studies have assessed the GHG balance of using Canadian forest biomass for 
+energy production, with varying results depending on the assumptions on changes 
+in forest management. According to economic theory, we should expect bioenergy 
+demand to affect forest management through price signals. Bioenergy policy raises the 
+demand for pellets, which should lead to price increases for pellet feedstocks. Higher 
+demand for these feedstocks should expand the supply of wood through greater 
+production. Increased output could come from several changes, including collection of 
+additional logging residues, expanded wood harvest from broadened areas, or more-
+efficient production on existing harvested area by fertilization or thinning, for example. 
+Other responses could take place through indirect feedbacks: Jonsson and Rinaldi (2017) 
+report that increased demand for wood pellets could translate into higher demand for 
+sawmill byproducts, which in turn could lead to greater profitability for sawmills and 
+potentially an increase in harvesting of saw logs.
+In this section, we review modeling studies on the GHG balance of Canadian forest 
+bioenergy, focusing on assumptions concerning changes in forest management.
+Forest management strategies that can increase productivity and output as well 
+as those that improve the GHG balance of bioenergy vary somewhat by region. 
+Lemprière et al. (2013) present an extensive review of these potential strategies in 
+the context of Canada’s boreal forests. One set of strategies focuses on accelerating 
+the regeneration of harvested stands through planting, seeding, site preparation, and 
+control of competing vegetation. Tree growth in boreal forests is usually limited by 
+availability of the nutrients nitrogen and phosphorus, so fertilization in the first 10 years 
+of stand growth could accelerate growth and increase yields. The GHG balance of forest 
+bioenergy could also be improved through afforestation or avoided deforestation. 
+Although gross deforestation rates in Canada have been small compared with the overall 
+forest area with 0.02% lost annually, this still translates into high GHG emissions.
+Studies on Canadian forest bioenergy generally find GHG benefits only when logging 
+residues are used, but not for whole-tree harvesting, even when assuming that forest 
+management practices will improve. A large portion of logging residues in Canada 
+are burned at roadside rather than left to decay in the forest. Smyth et al. (2014) 
+found that any dedicated harvest of stemwood for bioenergy would not achieve any 
+climate mitigation. Some scenarios included forest management improvements such 
+as additional pre-commercial thinning; faster regeneration from the previous harvest; 
+fertilization, leading to a 20% increase in volume increment; and improved seeds. 
+However, all scenarios with additional harvest of standing wood for bioenergy cause net 
+additional carbon emissions compared with fossil fuels. Only scenarios that concurrently 
+increase the use of logging residues, expand the recovery of small logs for bioenergy, 
+and avoid residue burning at roadside provide the highest climate mitigation potential 
+by 2050, even after an initial carbon debt of 11 years. 
+6
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+Smyth et al. (2017) made similar findings. This study found that bioenergy from a 
+reduction in slash burning and an increased recovery of harvest residues, without any 
+additional stemwood harvest, would provide climate mitigation across Canada with 
+average payback times of six to nine years. In line with previous results, Smyth et al. 
+(2018) found that for a region in Ontario, climate change mitigation could be obtained 
+simply by reducing residue burning and leaving the residues to decay instead. Xu, Smyth, 
+Lemprière, Rampley, and Kurz (2018) also found that reducing residue burning and using 
+part of the logging residues for energy in British Columbia could produce climate change 
+mitigation starting the first year.
+Laganière, Paré, Thiffault, and Bernier (2017) found that even using logging residues 
+or salvage logs for bioenergy might entail long payback times. This study showed that 
+the use of logging residues, excluding stumps, can indeed provide immediate climate 
+mitigation when the alternative is burning them at roadside. However, the researchers 
+found that bioenergy from logging residues provides carbon benefits compared with 
+being left to decay in the forest only after a period of 10–60 years, depending on the 
+decay rate, the energy source substituted, and the final energy commodity produced. 
+Interestingly, this study also found that the use of salvaged trees for bioenergy has 
+payback times ranging from 25 to more than 100 years. Trees killed by infestations, in 
+fact, remain standing for years after death, decomposing very slowly at around 2% per 
+year, and once fallen continue to decompose slowly at around 4% per year due to their 
+large size. Finally, in agreement with the previous studies, Laganière et al. (2017) found 
+that standing trees harvested specifically for energy provide no climate mitigation 
+within 100 years. Only if forest management changes achieve a doubling of growth 
+after bioenergy harvest would the payback time for fast-growing standing wood be 
+reduced to 40 years. Furthermore, the researchers found that payback time for salvage 
+logs can be shortened to 30 years when actions are taken to double the regeneration 
+growth rate. 
+Overall, these studies find that climate mitigation for Canadian bioenergy can be 
+achieved only through recovering additional logging residues while at the same time 
+reducing the amount of residue burning. Below, we explore the historical evidence 
+to verify whether increased harvest residue usage has indeed been linked to pellet 
+production. We also investigate whether rising pellet production is linked to improved 
+forest management during regeneration and site tending and with changes in the rate 
+of deforestation.
+HISTORICAL TRENDS
+In this section we analyze the available statistical data from the Canadian forest 
+inventory and for British Columbia’s forest sector specifically to investigate whether 
+harvesting-residue collection and other forest management changes may have 
+responded to increasing bioenergy demand in Canada. 
+Pulp log prices and pellet production
+To investigate whether bioenergy demand has influenced forest management practices 
+in Canada, we would ideally compare data on these practices with the prices of pellets 
+or of pellet feedstocks. This comparison would elucidate whether price increases 
+driven by bioenergy demand have incentivized forest managers to increase biomass 
+output. Unfortunately, data over time is not available for the prices of Canadian 
+pellets sold under long-term supply contracts, nor for the main pellet feedstocks of 
+sawmill residues and hog fuels. We use pulp log prices as a proxy for pellet prices 
+even though this is not ideal as pulp logs have not been used in pellet production, at 
+least before 2013 (Figure 2), but the markets for these resources are likely to be linked 
+because pulp logs and sawmill residues are both used in pulp making and other wood 
+7
+ICCT WHITE PAPER
+products. Figure 3 shows pulp log prices for British Columbia on the left axis and pellet 
+production for Canada on the right axis. Both parameters increase over the same 
+time period, and we find that they are significantly positively correlated, suggesting 
+that changes in demand for pellets may translate to changes in pulp log prices and 
+supporting our use of pulp log prices as a proxy for pellet prices. 1 
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+0
+5
+10
+15
+20
+25
+30
+35
+2000 2002 2004 2006 2008 2010 2012 2014 2016 2018
+Pellets production [Million tonnes]
+Pulplog price [2017 EUR/m3]
+Pulplog price Pellets production (right axis)
+Figure 3. Pulp log prices in British Columbia (left axis) and Canadian pellet production (right axis). 
+Source: (BC Ministry of Forestry, as cited in UNECE, 2018).
+Logging residue utilization
+Increasing the use of certain logging residues in pellet production, such as tops and 
+branches, could improve the GHG performance of bioenergy from Canada (Agostini et 
+al., 2014; Giuntoli, Caserini, Marelli, Baxter, & Agostini, 2015; Matthews at al., 2018). The 
+use of harvest residues, including tree tops and small branches but excluding stumps 
+and coarse deadwood, for bioenergy is typically found to deliver climate benefits 
+over shorter timescales than stemwood (Giuntoli et al., 2015; European Commission, 
+2016). However, this practice is limited by the quality of the biomass itself: Slash and 
+stumps cannot be debarked and thus contain higher levels of impurities—ash-forming 
+matter such as minerals and salts (Zevenhoven, Yrjas, & Huppa, 2010)—compared with 
+white, debarked pulpwood. Since industrial wood pellets must comply with quality 
+standards that limit the level of impurities, the quantity of logging residues used in pellet 
+production must be limited (Ter-Mikaelian et al., 2015).
+We have data on pellet composition only for the year 2013, so it is not possible to 
+determine directly whether pellet composition is changing over time. To our knowledge, 
+there is no data on total logging residue collection over time. Instead, since residues in 
+Canada are commonly either removed or burned at roadside, we use the ratio between 
+GHG emissions from slash burning and annual harvested area in British Columbia 
+(Government of British Columbia, n.d.a) as an inverse proxy for logging residue 
+collection (Figure 4). If logging residue collection is increasing, we would expect to see 
+this index decline. This is indeed what we see in the data in Figure 4; furthermore we 
+find that the decline in slash burning is significantly correlated to the trend of pellet 
+1 We consider linear regressions to be statistically significant if p<0.05 throughout this study. Correlation 
+is not causation, and it is not possible to know from a simple linear regression whether pellet production 
+influences pulp log prices or vice versa, nor how both variables may be influenced by extraneous factors. 
+Here, and throughout this study, we interpret simple linear correlations cautiously, as indicative of possible 
+links but not determinative of causal relationships.
+8
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+supply. Based on the information available (Figure 2), we conclude that it is possible 
+that bioenergy demand may be driving increased removal of logging residues and 
+consequently a decrease in emissions from slash burning, although the trend was 
+ongoing before the growth in pellet production, and other drivers may be at play. 
+The use for bioenergy of logging residues that would have been burned in the forest 
+guarantees immediate carbon benefits and could be treated as one of the few carbon-
+neutral biomass sources, provided emissions from forest operations are accounted for 
+(Giuntoli et al., 2015).
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+0
+10
+20
+30
+40
+50
+60
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020
+Pellet production [Million tonnes]
+GHG emissions / annual harvest area [t CO2e / ha]
+GHG Emissions / annual harvested area Pellet production (right axis)
+Figure 4. Ratio between GHG emissions from slash burning and annual harvested area in British 
+Columbia and pellet production over time. Source: Government of British Columbia, (n.d.a.). 
+Site preparation
+Site preparation can influence forest growth rates. Methods typically used in Canada 
+include mechanical treatment such as harrowing, ploughing, and windrowing; herbicides 
+for weed control; and prescribed burning (National Forestry Database, n.d.c).
+Figure 5 shows the trend in area treated with these various operations as well as the 
+share of total logged area over which site preparation treatments were carried out 
+in British Columbia. Since the ‘90s, the area subjected to treatments has decreased 
+significantly, to the point were only 20% of logged stands were treated in 2016. 
+Prescribed burning has decreased except for a spike during the peak years of tree 
+death from mountain pine beetle, when a larger area was treated to contain the spread 
+of the pest. A possible explanation for this is that long-term field studies have shown 
+that site preparation in Canada is not effective. While it has an effect in increasing 
+growth of stands at younger ages, the final yield of merchantable wood at harvest age 
+is not significantly different from that of untreated plots (Cortini, Comeau, Boateng, & 
+Bedford, 2010).
+9
+ICCT WHITE PAPER
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+Share of harvested area [%]
+Area aﬀected [1000 ha]
+Chemical treatment Mechanical treatment Other Prescribed burning Share of harvested stands (right axis)
+Figure 5. Site preparation treatments over time in British Columbia (left axis) and share of annual 
+harvested area over which the treatments are applied (right axis). Source: National Forestry 
+Database, 2018c.
+We conclude that the extent of site preparation has little relation to bioenergy demand. 
+The reduction in site preparation practices may have negative consequences for the GHG 
+balance of Canadian forestry, as Laganière et al. (2017) have shown that increasing stand 
+growth rate in the early years after harvest of the previous stand can reduce carbon 
+payback times for bioenergy, as long as these changes result from bioenergy demand.
+Site regeneration and site tending
+Once a stand is prepared and regenerated through seeding or planting, other silvicultural 
+operations can be carried out to improve stand health and eventually productivity. 
+Since 1987, the British Columbia government has promoted and invested in “incremental 
+silvicultural” practices, including fertilizing, pruning, and planting of selected seedlings 
+from orchards with higher productivity. Figure 6 shows the trend in annual area where 
+certain treatments have taken place in British Columbia. In recent years, pruning and 
+pre-commercial thinning have almost disappeared, despite the government initiative. 
+Fertilized area, on the other hand, has increased slightly since the 1990s. Over the period 
+2011 – 2016 an average of 10% of the area harvested annually was fertilized. The use of 
+selected seedlings has increased linearly since 1990. Over the past five years, an average 
+of 70% of annually harvested area was regenerated with improved seedlings. Removal of 
+competing vegetation has decreased since the 1990s.
+10
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+0
+20
+40
+60
+80
+100
+120
+140
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+Pellet production [Million tonnes]
+Area aﬀected annually [1000 ha]
+Pruning Fertilizing Reforestation
+Precommercial thinning Removing competing vegetation Select seeding
+Pellet production (right axis)
+Figure 6. Site tending treatments (left axis) and pellet production (right axis) in British Columbia. 
+Source: National Forestry Database, 2018c, Government of British Columbia, n.d.c.
+These changes do not appear to be related to bioenergy demand. We could not find 
+any significant correlation between the trends in these operations and pulp log prices. 
+Changes in forest management practices are likely to be the result of government 
+programs. For instance, the increase in planting of select seedlings has been roughly 
+linear since 1990, long before the growth in pellet production, and is most likely a result 
+of a provincial government initiative to promote incremental silvicultural practices that 
+began in 1987. It seems more probable that changes in these silvicultural operations are a 
+result of public investments rather than market mechanisms and that bioenergy demand 
+has not played a role in influencing site-tending practices. 
+Afforestation
+Changes in forest area can have a major impact on the carbon balance of woody 
+bioenergy. If timberland area declined as a result of bioenergy demand reducing forest 
+stocks, this would negatively affect the climate performance of bioenergy. On the other 
+hand, if an increase in demand for bioenergy were to lead to either increased forest area 
+or to a reduction in deforestation, this would increase forest carbon stocks, generate 
+additional biomass, and lead to a positive carbon balance for bioenergy.
+Canada has lost around 1.2 million hectares (Mha) of forest land from 1990–2015 on a 
+fairly linear trend. This was partially mitigated by the Forest for Tomorrow program, 
+which started in 2005 and has promoted the reforestation of areas outside of those 
+that the industry is obligated to regenerate (Government of British Columbia, n.d.b). 
+This program successfully reforested more than 9 thousand hectares (kha) a year since 
+2005 for a total of almost 110 kha in British Columbia. This program has also facilitated 
+the uptake of select seedlings. The rate of afforestation is not correlated with pulp log 
+prices. Although afforestation has increased over some of the same period as the rise in 
+Canadian pellet production, it is more likely that afforestation is a result of the Forest for 
+Tomorrow program than a response to bioenergy demand.
+11
+ICCT WHITE PAPER
+Canada summary
+The forest sector in Canada is heavily regulated by provincial governments, which 
+may shield management decisions from market signals. There is evidence that some 
+management improvements may be contributing to faster forest growth and thus 
+carbon sequestration and to production of additional biomass in British Columbia. 
+However, these changes appear more likely to be driven by specific government 
+policies than by bioenergy demand. Despite the limited data availability, we find 
+that GHG emissions from slash burning are decreasing in British Columbia and that 
+bioenergy demand may be one of the drivers for this decline by providing a market 
+value for residues to be used in pellet mills.
+Table 1. Summary of evidence that bioenergy demand may have led to forest management 
+improvements in Canada.
+Literature 
+assumption Historical trend
+Evidence trend driven by 
+bioenergy demand
+consequences for carbon 
+accounting of bioenergy
+Increased 
+removal 
+of logging 
+residues.
+Ratio of GHG emissions 
+over annual harvested 
+area in British Columbia 
+(inverse proxy for residue 
+collection) has decreased 
+since 1995.
+Plausible. Trend is in line 
+with increased utilization 
+of residues for pellet 
+production, although the 
+trend was ongoing before 
+pellet production picked 
+up. 
+Use of logging residues 
+for bioenergy instead of 
+slash burning provides 
+immediate carbon 
+benefits. 
+Increased 
+removal 
+of salvage 
+logs from 
+infestation.
+Tree mortality from 
+mountain pine beetle 
+infestation peaked in 2005 
+and has declined to near 
+zero.
+Likely. Bioenergy demand 
+may have increased 
+utilization of salvage logs, 
+but this trend is not likely 
+to continue in the future as 
+supply of salvage logs is 
+not elastic.
+Unclear. Use of salvage 
+logs improves GHG 
+performance only if 
+coupled with intensive 
+re-establishment of forest 
+stands.
+More 
+intensive site 
+preparation.
+Extent of site preparation 
+operations has decreased 
+since 1990.
+None. Trend is opposite 
+of what economics would 
+predict.
+Unclear. Recent evidence 
+suggests site preparation 
+may have no effect 
+on long-term stand 
+productivity and thus on 
+GHG performance.
+More intensive 
+site tending 
+practices.
+Some practices have 
+increased since 1990, 
+including the use of 
+selected seedlings and 
+fertilization. Others have 
+declined, including pre-
+commercial thinning and 
+pruning.
+None. Some practices have 
+increased alongside pellet 
+production, but these 
+increases began years 
+earlier at the same time as 
+the start of government 
+programs. 
+Unclear. Increase in some 
+site tending practices 
+could improve GHG 
+balance, but decline 
+in other practices may 
+worsen GHG balance.
+Afforestation
+Afforestation has taken 
+place along with a 
+government program 
+introduced in 2005, 
+however the overall rate 
+of deforestation has not 
+changed in the last 30 
+years.
+None. The timing of 
+afforestation matches the 
+government program, and 
+there is no correlation with 
+pellet production.
+Afforestation would 
+improve GHG balance.
+12
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+SWEDEN
+Sweden’s productive forests span two ecoregions, boreal forests in the north of the 
+country and temperate broadleaf and mixed forests in the south. Sweden has a long 
+history of forest management aimed at sustained production of timber products, based 
+on clear-cut harvests and even-aged stands (Egnell & Björheden, 2016). The Swedish 
+forestry sector is largely characterized by non-industrial private forests and by large 
+forest companies. 
+In 2016, solid biomass produced 6.8% of Sweden’s electricity consumption and around 
+61% of heat (Eurostat, n.d.). Future policies continue to rely on woody biomass to 
+increase Sweden’s share of renewable sources (Government Offices of Sweden, 2019). 
+Production of forest fuels from slash (tops and branches), stumps, and stemwood grew 
+from around 1 million dry tonnes in 1995 to 5 million dry tonnes in 2016. Data from 2017 
+show that fuelwood accounted for 38% of total forest fuels, followed by slash, 33%; 
+roundwood, 24%; whole tree chips, 3%; and a small fraction of stump chips, 0.3%. 
+Similarly to the previous chapter, we first survey the literature to identify potential 
+changes in forest management practices and how these changes could be fostered by 
+bioenergy demand, we then analyze the historical evidence looking for signals that any 
+of these changes may be taking place. Finally, we analyze whether literature assumptions 
+are realistic and the eventual consequences for carbon accounting of forest bioenergy.
+LITERATURE REVIEW
+We group the relevant studies on Swedish forestry into three categories. First we 
+describe studies assessing general strategies to increase the productivity of Swedish 
+forests. Second, we review studies that have quantified the effects of intensified 
+management on forest growth. Third, we introduce studies that calculate the carbon 
+balance of bioenergy produced from Swedish forests. 
+Literature on the Swedish forestry sector has identified potential forest management 
+improvements that could increase growth that are similar to those in Canada. Egnell & 
+Björheden (2016) list options to increase forest productivity, including improved site 
+preparation such as vegetation control, soil scarification, and the use of faster-growing 
+tree species and genotypes; increased fertilization and irrigation; and afforestation. Soil 
+scarification refers to tilling of soil to improve seedling establishment and to reduce the 
+risk of damage from insects. The authors highlight that because of the nature of long-
+rotation forestry, increasing forest growth will reap rewards for forest owners only in the 
+very long term, and the profitability of these management strategies is thus often low. 
+More complete utilization of the forest is a shorter-term option to increase bioenergy 
+production. According to Egnell & Björheden (2016) there is large scope to increase the 
+removal of logging residues as well as to increase the practice of thinning in Sweden. 
+The following studies assessed the effectiveness of these strategies in increasing forest 
+productivity. Nilsson, Fahlvik, Johansson, Lundström, and Rosvall (2011) simulated the 
+potential growth increase achievable from fertilization, high-yielding species, seedling 
+selection, and afforestation, based on historical data on yields and management 
+practices across Sweden. They found that the annual increment could almost double 
+over 100 years when applying a combination of these intensive forestry management 
+practices compared with a business-as-usual scenario. Planting lodgepole pine (Pinus 
+contorta subsp. latifolia), a high-yielding species, combined with intensive fertilization of 
+young stands was the most effective strategy. 
+Sathre, Gustavsson, and Bergh (2010) carried out a life-cycle analysis of forest bioenergy 
+in Sweden assuming an intensive fertilization regimen. This study modeled a treatment 
+13
+ICCT WHITE PAPER
+of 100–150 kg/ha of nitrogen as well as other nutrients biannually in young stands 
+followed by aerial applications of 100–125 kg/ha of nitrogen every 7–10 years in mature 
+stands. They found that this treatment could more than double forest productivity, 
+increasing stemwood volume from the current 5.3 m3/ha/year to 10.8 m3/ha/year. 
+Poudel et al. (2012) simulated Swedish forest growth response to increased pre-
+commercial thinning, fertilization, planting of lodgepole pine, and soil scarification. They 
+found that even in the reference scenario, biomass harvest could increase by 50% in the 
+next 100 years while simultaneously expanding standing biomass by 30%, reflecting 
+the expected impacts of climate change on forest growth. This study estimated that a 
+combination of higher CO2 concentrations, higher temperatures, and longer growing 
+seasons in boreal regions could increase forest productivity in Sweden by 33% without 
+any management change. 
+The following studies have investigated the impact of intensive forestry management in 
+Sweden on the overall carbon balance of bioenergy. It is important to understand that 
+these studies generally do not draw a causal link between bioenergy demand and forest 
+management, but rather exogenously make assumptions on forest management changes 
+and the predicted growth responses. Lundmark et al. (2014) modeled a scenario both 
+increasing the harvest of logging residues and stumps and assuming that wood harvest 
+could climb by 50% as a result of increased fertilization and forest regeneration. The 
+researchers found that the overall carbon benefit of Swedish forests—including the use 
+of bioenergy to substitute for fossil fuels and changes in carbon stocks in forests and 
+harvested wood products—could potentially increase by 66% by 2100 compared with a 
+baseline scenario. 
+Cintas et al. (2017) obtained similar results. The researchers also modeled the overall 
+carbon balance for several forest management scenarios over time, including increasing 
+logging residues and stump extraction and actions to increase forest growth. They 
+found that, while each of these treatments would achieve carbon mitigation compared 
+with a baseline in the long term, the timing and magnitude of GHG savings change with 
+the scenario considered. Increasing forest growth together with bioenergy production 
+generates carbon benefits from the start of the analysis. However, scenarios focusing 
+solely on increased extraction of logging residues and stumps are found to achieve GHG 
+benefits only after 20 and 40 years, respectively.
+In contrast with these studies, Cintas et al. (2016) present the only analysis for Sweden 
+that models the effect of bioenergy demand on forest management changes in addition 
+to the impact of forest management on bioenergy carbon balance. They used a model 
+that calculates the optimal forest management plan to maximize the economic output 
+of the forest. While traditional management is optimized to produce saw timber and 
+pulpwood, the authors changed the management objective to place an equal weight 
+on the production of saw timber, pulpwood, and forest fuels, implicitly assuming that 
+bioenergy demand will increase revenue from forest fuels to match those of saw timber 
+and pulpwood. Their model finds that the economically optimal forest management 
+strategy would be to reduce saw timber output and increase extraction of pulpwood and 
+forest fuels, much of which would result from increased thinning intensity and recovery 
+of logging residues. This is a surprising finding. Increased use of saw timber in long-lived 
+materials results in carbon substitution credits, as well as temporary carbon storage 
+benefits. Other studies discussed in the U.S. section have found increased saw timber 
+production to improve the overall GHG balance of forest systems. Furthermore, for lack 
+of a forest-sector model, the complex interlinkages between material and energy uses of 
+wood were not accounted for in the study.
+14
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+These studies differ in their conclusions on whether increased use of logging residues 
+provides GHG benefits over a reasonable time period. Generally, they find that improved 
+management through increased thinning, fertilization, and switching to higher-yielding 
+species is necessary to increase forest biomass output. It is important to keep in mind 
+that climate change is likely to be increasing growth in Swedish forests in a baseline 
+scenario without bioenergy demand.
+HISTORICAL TRENDS
+In this section we analyze statistical data from the Sweden National Forestry 
+Inventory and from the Swedish Forest Agency (Skogsstyrelsen, n.d.a; Swedish 
+University of Agricultural Sciences, n.d.a) to investigate whether forest management 
+practices have historically responded to changes in biomass prices, and whether the 
+magnitude of changes assumed in the modeling studies is consistent with what has 
+been observed historically.
+Forest fuels extraction and forest product prices
+Increasing demand for biomass for bioenergy is expected to translate into an increase in 
+biomass prices and effect changes in forest management practices. 
+The production of forest fuels in Sweden has grown steadily since 2000. This category 
+includes any forest biomass used for energy purposes. Figure 7 shows the production 
+of primary forest fuels over time. For the period 2000–2006, only data on total forest 
+fuels production is available, while starting from 2007 we can differentiate by type of 
+feedstock. Tops, branches, and stumps have accounted for a large fraction of total forest 
+fuels production in years for which data is available. In the past eight years, however, 
+it appears that the use of residues for energy has decreased while the use of standing 
+trees, including whole tree harvest and roundwood, and firewood have increased. The 
+production of firewood appears to have increased rapidly from 2011 to 2013, but this may 
+reflect a change in classification. The definition of firewood is not clear; this category 
+could include roundwood that is not of high enough quality to be used as saw timber, 
+as well as possibly thinnings and small logs. Because data is not available for 2012, an 
+interpolation of data between 2011 and 2013 is shown in the figure. 
+0
+1
+2
+3
+4
+5
+6
+2000 2002 2004 2006 2008 2010 2012 2014 2016
+Quantity [Million dry tonnes per year]
+Total forest fuel Tops, branches, and stumps Roundwood chips Whole trees chips Firewood
+Figure 7. Primary forest fuels production in Sweden. Source: Skogsstyrelsen (Swedish Forest 
+Agency) (2014) and Energimyndigheten (n.d.).
+15
+ICCT WHITE PAPER
+Over roughly the same period that total forest fuels production increased, prices of 
+forest fuels and similar products rose as well. Figure 8 shows the prices of forest fuels 
+and a few other bioenergy products, including wood pellets, wood chips, and wood 
+residues sold to power stations. All of these prices increased steadily until various points 
+between 2010 and 2013 and then declined slightly. For comparison, Figure 8 also shows 
+prices of pulp logs and saw logs, which are non-energy forest products. These prices in 
+constant 2017 euros have remained stable since the data series began in 1995. It is thus 
+clear that the demand for bioenergy specifically, and not for wood products overall, has 
+been driving the increase in prices for energy products. The prices of wood chips and 
+wood residues sold to power stations are both significantly correlated with total forest 
+fuels production and with removals of tops, branches, and stumps.
+0
+1
+2
+3
+4
+5
+6
+0
+5
+10
+15
+20
+25
+30
+35
+1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018
+Forest fuels production [Million dry tonnes]
+Real prices [EUR(2017)/MWh]
+Wood chips - Power Station Wood residues - Power Stations Wood pellets
+Sawlogs Pulplogs Forest fuels (right axis)
+Figure 8. Price of various forest fuels supplied to power stations and total forest fuel production in 
+Sweden. Prices of forest fuels, chipped or whole, supplied to power stations, and saw logs and pulp 
+logs in 2017 euros per MWh (left axis). The green line shows total production of domestic forest 
+fuels in Sweden (right axis). Source: Statistikdatabas, (n.d.).
+Forest productivity
+Overall forest productivity in Sweden has increased steadily over the past 10 years in 
+parallel with rising harvest levels, but it is unclear whether deliberate forest management 
+practices as a result of bioenergy demand have been driving this trend. Figure 9 shows 
+a five-year running average of the mean annual increment of Sweden’s forest growth, 
+reflecting the average growth of Sweden’s forests in million cubic meters per year (left 
+axis). This metric has been steadily rising since the 1970s. Environmental factors have 
+most likely had a role in this rising growth rate. The change in annual temperatures in 
+Sweden from pre-industrial levels, shown on the right axis in Figure 9, have also been 
+increasing over this period with global climate change. Because of its northern latitudes 
+and relatively cold temperatures, a rise in Sweden’s temperatures can be expected 
+to increase forest growth. In addition, atmospheric deposition of nitrogen from air 
+pollution, which can fertilize forest growth, tripled from the 1950s to the 1980s–1990s 
+before declining starting in the early 1990s (Bertills & Nasholm, 2000). Figure 9 shows 
+atmospheric deposition of ammonium (NH
+4) over the period for which data is available. 
+16
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+Another factor that may have contributed to forest growth in Sweden is a change in age 
+structure with a greater relative proportion of younger trees in Sweden’s forests over 
+time. Younger trees have higher growth rates than older trees. We calculate an age-class 
+index based on the distribution of Sweden’s forest area by age class, shown in Figure 
+9; this shows the average tree age in Sweden’s forests declining from the 1950s to the 
+1990s and remaining stable thereafter. This shift may be due to the past transition to 
+clearcutting and artificial regeneration (Lundmark, Joseffson, & Ostlund, 2013), together 
+with afforestation efforts between 1955 and 1970 and a shift toward harvesting the 
+oldest stands (Lindahl et al., 2017).
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+0
+20
+40
+60
+80
+100
+120
+140
+1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Forest growth (million m3)
+Mean annual growth (million m3, left axis) Age-class Index (years, left axis)
+NH4 deposition (kg/ha/yr, right axis) Temperature change (°C, right axis)
+Linear (Temperature change (°C, right axis))
+Figure 9. Mean annual increment of Swedish forest growth and nonmanagement explanatory 
+factors. Source: Swedish University of Agricultural Sciences (n.d.b,c), Bertilis and Nasholm (2000), 
+and World Bank Climate Change Knowledge Portal, (n.d.).
+Each of these factors has statistically significant correlations with mean annual 
+increment—positive correlations for temperature and atmospheric ammonium 
+deposition, and a negative correlation for age-class index. This suggests these factors 
+have contributed to increased forest growth. This finding does not preclude the 
+possibility that changes in forest management other than changes to age structure have 
+also contributed to increased forest growth. For instance, a peak in artificial fertilization 
+in the mid-1970s might be responsible for the increase in increment shown in those 
+years. In the following sections, we investigate possible links between other management 
+activities and bioenergy demand.
+Forest management activities
+In this section we investigate the trends in annual application of several forest 
+management activities in Sweden, including pre-commercial and commercial thinning, 
+soil scarification, removal of competing vegetation, fertilization, and ash-recycling. These 
+operations are used in intensively managed plantations and are aimed at increasing 
+stand productivity as well as the quality of the timber stock. 
+Figure 10 shows the historical trend of forest area annually affected by several 
+silvicultural practices. The use of each of these practices has either been increasing or 
+has remained steady since the mid-1990s. The largest relative change over this period 
+has been in pre-commercial thinning, the rate of which has quadrupled since the 1990s. 
+Pre-commercial thinning is the removal of selected young trees before they have 
+17
+ICCT WHITE PAPER
+reached a sufficient size to produce merchantable wood in order to improve the quality 
+of the remaining trees. The rates of other practices, regular thinning and the removal of 
+competing vegetation, have also increased over the past two decades. Thinning refers 
+to the removal of select trees at a later stage, when trees have generally reached a 
+sufficient size to be sold at least as pulpwood. The removal of competing vegetation, 
+referred to as “cleaning” in the official Swedish statistics, is essentially pre-commercial 
+thinning at an earlier stage, when trees are saplings, and it removes other types of 
+undesired vegetation as well as very small trees. This practice focuses on removal of 
+nonpreferred tree species. 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Area treated [1000 ha per year]
+Thinning Pre-commercial thinning Removing competing vegetation
+Soil scariﬁcation Forest fertilization Ash recycling
+Figure 10. Annual areal extent of forest management activities in Sweden over time. Source: 
+Swedish University of Agricultural Sciences (n.d.d)
+Traditionally, each of these thinning practices has been used to improve the growth 
+rate of stands and to increase the diameter of remaining trees to improve saw log 
+quality, even at the expense of total production volume, and thus might be expected 
+to respond to saw log price expectations. However, we find significant correlations 
+between the annual area under thinning, pre-commercial thinning, and removal of 
+competing vegetation and the prices of wood chips sold to power stations, while we 
+find no correlation between these practices and pulp log or saw log prices. This finding 
+strongly suggests that all of these thinning practices are responding to bioenergy 
+demand. This especially makes sense for pre-commercial thinning and removal of 
+competing vegetation, which typically do not produce any merchantable wood unless 
+the saplings and young trees are chipped and sold for energy. It is thus logical that 
+forest managers may increase the short-term output of these products in response to 
+higher wood chip prices.
+Application of mineral fertilizer has largely declined since a peak in the 1970s. In 2017 it 
+was practiced on only an eighth of the area as in 1976 (Figure 10). Fertilization rates rose 
+again slightly in the 2000s but dropped after 2010. The long-term decline in fertilization 
+rates could be due to changing societal perceptions of forest fertilization as well as 
+changes in saw log prices. Starting in the 1980s, a growing environmental movement 
+began opposing fertilization in forestry, and this pressure persists (Hedwall, Gong, 
+18
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+Ingerslev, & Bergh, 2014). At the time of the highest rates in fertilization, saw log prices 
+peaked in the 1970s at more than €90/m3 in 2017 euros, most likely linked to the oil crisis 
+and the subsequent increased use of wood for energy (Brunberg, 2010). Prices of saw 
+logs have since decreased to an average of €52/m3 in 2017 euros over the past 30 years. 
+The long-term trend in fertilization rates correlates significantly with saw log prices. The 
+responsiveness of fertilization to saw log prices suggests that a significant increase in 
+the price of wood for bioenergy could also induce a return to higher fertilization rates. 
+However, the absolute frequency of forest fertilization is unlikely to approach the levels 
+assumed in some of the studies on the carbon balance of bioenergy. Nilsson et al. (2011), 
+for instance, assume that fertilization is applied to mature stands every 10 years over 
+an area of 1.7 Mha, and more intensive fertilization is applied every two years to young 
+stands over an additional area of about 1 Mha to achieve their result of doubling forest 
+growth by 2100. At peak forest fertilization rates in 1976, fertilization was applied on 
+only 0.8% of total productive forest area. This is equivalent to fertilizing 1.9 Mha of forest 
+every 10 years. In 2017, fertilized area was equivalent to fertilizing 0.3 Mha of forest every 
+10 years. Fertilization rates would thus have to return to high levels not seen since the 
+1970s to partially replicate Nilsson et al.’s scenario, and they would have to expand much 
+more to achieve the full growth increase modeled. This does not seem likely given the 
+changes in silvicultural practices and views on environmental protection since the 1970s. 
+It would also be likely to require the price of biomass used for bioenergy to reach a 
+similar level as saw log prices at their historical peak.
+Trends in the other forest management practices—soil scarification and ash recycling—
+have remained flat over time. Scarification, or the tilling of soil, improves establishment 
+of seedlings while reducing the risk of damage from the large pine weevil (Hylobius 
+abietic). Ash recycling refers to the application of ash from wood combustion, which 
+contains nutrients from the wood, excluding nitrogen (Emilsson, 2006). Soil scarification 
+already takes place on 88% of the area felled each year, so there is little scope to further 
+increase its rate of adoption in response to bioenergy demand. 
+Thus, there are indications that bioenergy demand is increasing the prevalence 
+of thinning and related operations. However, the main driver of increased forest 
+productivity is drastically increased fertilization, and there is no evidence that this has 
+responded to bioenergy demand in the past 20 years or that it could do so with the 
+same magnitude as assumed in studies.
+Site regeneration and tree species
+Whether a harvested stand is regenerated naturally or artificially through planting or 
+seeding can play an important role in overall forest management. Artificially regenerated 
+stands can achieve higher productivity of industrial-quality roundwood than natural ones 
+(Hallsby et al., 2015) because regeneration enables the application of site establishment 
+measures such as limiting competition from other vegetation, planting improved 
+genotypes or higher-yielding species, and facilitating fertilization in young stands. 
+Further, artificially regenerated stands allow for intensive levels of disturbance of the 
+stands, as required for collection of logging residues. Artificial regeneration has been 
+increasing since 2000, and in 2015, more than 80% of logged stands were replanted. The 
+rate of artificial regeneration is significantly correlated with the price of both wood chips 
+and saw logs. This could be tied to bioenergy or timber demand, or could be a result of 
+unrelated changing forestry practices and legislation. 
+As the rate of artificial regeneration has increased, we might expect to observe increased 
+penetration of more-productive species. Lodgepole pine, a species native to the U.S. 
+Pacific Northwest and Canada, has been reported to have around 30% higher yields 
+compared with Sweden’s native Scots pine (Elfving, Ericsson, & Rosvall, 2001). Artificially 
+19
+ICCT WHITE PAPER
+regenerated stands planted with lodgepole pine could thus increase the productivity of 
+the forest landscape. For this reason, Nilsson et al. (2011) assumed that 1.12 Mha would 
+be planted with lodgepole pine by 2050 in their intensified forestry scenario. It should 
+be noted that Swedish regulations allow the use of so-called exotic, or nonindigenous, 
+tree species as exceptions only (9 § skogsvårdsförordningen [1993:1096]), and that the 
+Swedish Forest Agency interprets this regulation to the effect that regeneration with 
+lodgepole pine should be at most 14 kha per year.
+Figure 11 also shows the change in forest area of various species and stand assemblies in 
+Sweden since 1985. The total area under lodgepole pine, which makes up only around 2% 
+of total forest area, increased by around 200 kha from 1985 to 1993 and has increased 
+very slowly since then. There have also been increases in mixed and broadleaf forests to 
+15% of total forest area and, to a lesser extent, other pine forests to 39% of total forest 
+area, which is likely to include Scots pine. The prevalence of spruce at 27% of total forest 
+area and mixed conifer forest at 14% of total forest area has declined markedly since 
+1985. While the composition of Sweden’s forests is changing, it is doing so relatively 
+slowly; only around 5% of Sweden’s total forest area has changed species composition 
+since 1985.
+-900
+-700
+-500
+-300
+-100
+100
+300
+500
+700
+900
+1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015
+Change in area since 1985 [1000 ha]
+Lodgepole pine forest Other pine forest Spruce forest
+Mixed conifer forest Mixed and broadleaf forest Bare forest land
+Figure 11. Change in area of major forest species in Sweden since 1985 Source: Swedish University 
+of Agricultural Sciences (n.d.e), Skogsstyrelsen (n.d.b).
+The increase in lodgepole pine is significantly correlated with the prices of wood chips 
+sold to power stations and negatively correlated with saw log and pulp log prices. This 
+could mean that lodgepole pine is increasingly planted to supply bioenergy or that 
+lodgepole pine produces poor wood for saw logs and pulp logs, which seems unlikely. 
+In any case, it is important to note that the magnitude in these changes is very slight. 
+At the current rate of lodgepole pine area increase since 1990, we project an additional 
+100 kha of this species in 2050 compared with 2015. This is far lower than the 1,120 
+kha of additional lodgepole pine that is assumed to be planted by 2050 to achieve the 
+increased growth modeled by Nilsson et al. (2011).
+Afforestation
+Total forest area in Sweden has fluctuated since the 1950s, but overall there is no 
+statistically significant correlation between increases or decreases in area or bioenergy 
+prices over this period. As forest fuel and woodchip prices increased from around 
+20
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+2000–2012 (Figure 12), total forest area expanded and contracted without any overall 
+trend. It thus seems unlikely that total forest area has changed or that net afforestation 
+has occurred in response to bioenergy demand in Sweden. This finding is in contrast 
+with the assumption in Nilsson et al. (2011) that the output of Swedish forests could be 
+increased by 2050 by expanding forest area by 0.4 Mha.
+21.4
+21.6
+21.8
+22
+22.2
+22.4
+22.6
+22.8
+23
+23.2
+1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Total forest area [Million ha]
+Figure 12. Total area of productive forest land in Sweden. Source: Swedish University of Agricultural 
+Sciences (n.d.f).
+Sweden summary
+There is evidence that bioenergy demand may have had a modest impact on increasing 
+total forest biomass removals in Sweden. The practice of thinning at several stages of 
+forest growth appears to have grown in response to prices of wood sold for energy 
+purposes. Similarly, the removal of forest fuels has increased with rising bioenergy prices, 
+albeit the share of tops, branches, and stumps has actually decreased at the expense 
+of expanded removals of standing wood. However, it is likely that other changes in 
+Sweden’s forests have occurred independently of bioenergy demand. Increasing forest 
+productivity is most likely primarily a result of climate change, atmospheric nitrogen 
+deposition, legacy management, and changes in fertilization in the 1960s–1990s. No net 
+afforestation has taken place in Sweden since the mid-1900s, and while the prevalence 
+of higher-yielding tree species is increasing, this trend is very slow, and high-yielding 
+lodgepole pine still accounts for a very small fraction of total forest area. There is little 
+evidence that the magnitude of changes assumed in studies that forecast a positive 
+carbon balance for Swedish bioenergy is likely or even possible.
+21
+ICCT WHITE PAPER
+Table 2. Summary of evidence that bioenergy demand may have led to forest management improvements in Sweden.
+Literature 
+assumption Historical trend
+Evidence trend driven by 
+bioenergy demand
+consequences for carbon 
+accounting of bioenergy
+Increased removal 
+of forest fuels
+Overall growth in forest fuels 
+supply, mainly in firewood, whole 
+tree harvest and roundwood 
+chips. 
+Likely. Forest fuels removal 
+correlates with bioenergy 
+prices. 
+Unclear, depending on the 
+wood products included 
+in the statistical data. 
+Increased removal 
+of tops, branches, 
+and stumps.
+Increasing removal until 2011, 
+then decreasing.
+Unlikely. Logging residue 
+and stump removals 
+correlate with bioenergy 
+prices, but overall collection 
+declined while total forest 
+fuel collection increased. 
+The use of tops and 
+branches is linked to short 
+payback times, while 
+use of stumps may have 
+negative carbon balance. 
+Increased thinning 
+intensity.
+Thinning, pre-commercial 
+thinning, and removal of 
+competing vegetation have all 
+increased.
+Likely. Thinning intensity 
+correlates with bioenergy 
+prices.
+Improved carbon balance 
+of bioenergy from 
+increasing biomass output 
+from a forest area without 
+negatively affecting the 
+growth of the remaining 
+stock. 
+Increased forest 
+growth rates 
+through improved 
+silvicultural 
+practices.
+Forest growth has increased 
+continuously for the past 45 
+years
+Unlikely. Fertilizer use 
+has increased recently, 
+but only slightly. Rates of 
+other forest management 
+activities have not changed 
+significantly. Forest growth 
+more likely the result of 
+environmental factors and 
+legacy management.
+Increasing forest growth 
+would produce additional 
+biomass, allowing 
+increased removals with 
+low carbon debt.
+Afforestation. No change. None. 
+Would improve carbon 
+balance of bioenergy by 
+increasing land carbon 
+stocks and biomass 
+resources additional to a 
+no-bioenergy scenario. 
+Change to higher-
+yielding tree 
+species.
+The prevalence of lodgepole 
+pine, a high-yielding species, has 
+increased slightly.
+Plausible. This effect could 
+be a result of bioenergy 
+demand, but it is very small 
+in magnitude.
+Improves carbon 
+balance of bioenergy 
+by increasing forest 
+landscape productivity.
+22
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+UNITED STATES
+Finally we assess the southeastern region of the United States,2 which spans several 
+ecozones, mainly temperate conifer and broadleaf forests. Ecosystems in the 
+southeastern United States are rich in endemic species, and the region has been 
+recognized as an important biodiversity hotspot (Hammel, 2015; Noss et al., 2015). 
+Forest ownership is 87% private, and of this, two-thirds is nonindustrial private, with the 
+remainder owned by forest companies. There are both naturally regenerated forests and 
+more intensively managed pine plantations. In the past decade, wood pellet production 
+has increased rapidly in this region, powered by growing demand from Europe, which is 
+projected to increase further (Dale et al., 2017; Copley, 2018). 
+We first review studies modeling the carbon balance of bioenergy produced from wood 
+pellets in the southeastern United States, focusing on assumptions related to forest 
+management. We then examine the historical evidence for signals that bioenergy price 
+changes have altered forest management practices. We conclude with an assessment 
+of how well the evidence supports these literature assumptions, and what the resulting 
+impact is on the GHG balance of bioenergy in the United States. 
+LITERATURE REVIEW
+Since the United States started exporting large quantities of wood pellets, a number 
+of studies have assessed the potential GHG impacts of bioenergy from wood from 
+this region. Some studies have focused on the impact improved forest management 
+practices could have on forest productivity and consequently on the overall GHG 
+performance of bioenergy. Others have assessed how bioenergy demand could change 
+overall forest area and thus carbon stocks in the region.
+Jonker, Junginger, and Faaij (2014) and Jonker, van der Hilst, Markewitz, Faaij, and 
+Junginger (2018) both assess how improving forest productivity could affect carbon 
+payback times of bioenergy from conifer plantations in the southeastern United States. 
+Jonker et al. (2014) assumes plantation yields of 4, 5.6, and 9.7 dry tonnes per hectare 
+per year (t/ha/yr). The lowest yield is meant to represent limited forest management 
+operations, while the highest would reflect intensive site preparation, two rounds of 
+fertilization during stand rotation, herbicide application, and one thinning operation. This 
+study calculates payback times of 39–57 years for pellets in the low-yield scenario, 21–37 
+years in the medium scenario, and 8–17 years in the high scenario, compared with coal.
+3 
+In a similar study, Jonker et al. (2018) assessed scenarios with combined roundwood and 
+logging residue yields of 8.7–14.1 dry t/ha/yr, depending on forest management intensity. 
+They conclude that the total yield of wood is not the only parameter determining the 
+final carbon balance: The quality of the roundwood produced—saw timber, pulpwood 
+or slash—is crucial. The main reason for these findings is that saw timber is suitable for 
+the production of longer-lasting harvested wood products, which contribute to climate 
+change mitigation by storing carbon as well as substituting for high-carbon intensity 
+structural products such as concrete and steel. Additional thinnings can produce 
+pulpwood and small roundwood without affecting the overall yield of saw timber 
+produced and may thus result in a better carbon balance compared with management 
+strategies that maximize total yield, which would increase the production of smaller-
+sized pulpwood at the expense of saw log production. However, if bioenergy demand 
+were to stimulate changes in management aimed at maximizing total yields, producing 
+2 We use the composition of the southeastern United States as given in U.S. forest statistics, including the 
+following 13 states: Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, 
+Oklahoma, South Carolina, Tennessee, Texas, and Virginia.
+3 For the landscape-level analysis compared with a baseline of no harvest of existing plantations.
+23
+ICCT WHITE PAPER
+greater quantities of smaller roundwood, this would worsen the carbon performance of 
+the forest compared with conventional management strategies.
+Other studies have tried to integrate market dynamics in their analyses. K.L. Abt, R.C. 
+Abt, Galik, and Skog, (2014) and Galik and R.C. Abt (2016) use an economic model 
+to evaluate the potential impacts of additional bioenergy demand on forest carbon 
+stocks. K.L. Abt et al. (2014) find that even in a baseline projection without additional 
+bioenergy demand, the timberland area would decrease between 2010 and 2040 
+both for natural forests and for pine plantations. This study models a loss of around 
+2.2 million hectares of natural forest and around 1.6 Mha of pine plantations. They find 
+that additional bioenergy demand would cause a slight increase of 0.4 Mha in pine 
+plantation area by 2040 compared with 2010, while not affecting the decline in natural 
+forest area. This study thus projects that bioenergy demand would limit forest land 
+loss compared with the baseline scenario. Galik and R.C. Abt (2016), using the same 
+economic model but different assumptions and constraints, similarly modeled 2.3 Mha 
+of avoided deforestation, mainly from an increase in pine plantations compared with 
+the baseline scenario. Similar conclusions were reached by Duden et al. (2017): Using 
+the same economic model they found an increase in pine plantation area of 0.8 Mha 
+and an avoided loss of 0.2 Mha of natural forests compared with the baseline scenario. 
+Supporting these assumptions, Dale, Parish, Kline, and Tobin (2017) and Dale et al. 
+(2017) find that forest area and timber volume in the southeastern United States did 
+not decrease at the same time that U.S. pellet exports increased from 2009–2015. The 
+authors expected that in a baseline scenario, southeastern U.S. forest area should have 
+declined over this period and therefore argue that bioenergy demand prevented net 
+deforestation. These researchers conclude that demand for wood pellets had a positive 
+effect on forest ecosystems by giving forest landowners an economic incentive to 
+retain land in forest cover. The additional market for these products created demand 
+for pulpwood resources that might have been stranded by a decline in demand for pulp 
+and paper while providing economic value for various residual harvest products such as 
+thinnings, logging residues, and small roundwood. 
+The U.S. literature thus finds that a favorable GHG balance of bioenergy depends 
+on either dramatically improved forest productivity resulting from more intensive 
+management, or reduced deforestation compared with expected trends.
+HISTORICAL TRENDS
+In this section we analyze statistical data from the U.S. Forest Service to examine 
+historical evidence for the trends assumed in the literature and whether those trends 
+appear to be correlated with bioenergy demand.
+Pulpwood prices and pellet production
+Wood pellet production in the U.S. has tripled over the past decade. Figure 13 shows 
+U.S. wood pellet production on the left axis. Pellet production expanded from around 2 
+million tonnes produced mainly for domestic consumption in 2008 to 7 million tonnes 
+a year in 2017, with an installed capacity of almost 12 million tonnes in that year (U.S. 
+Energy Information Administration (EIA), 2018). The southeastern region of the United 
+States accounted for around 75% of the installed capacity in 2018 and 100% of the 
+production of wood pellets of industrial quality. Exports of U.S. industrial wood pellets to 
+the European Union increased from 2.3 million tonnes in 2012 to 5 million tonnes in 2017 
+and are forecast to increase further (Dale et al., 2017; Lang, 2016; Copley, 2018). K.L. Abt 
+et al. (2014) reported that the feedstock mix used for pellet production in the U.S. South 
+had shifted from 100% sawmill residues in 2010 to more than 60% pulpwood in 2013, 
+with less than 40% sawmill residues. More recent data shows that the share of residues 
+used in pellet mills rebounded to reach 47% in 2017 (Ekstrom, 2017). While Ekstrom 
+24
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+(2017) reports that both sawmill and logging residues are responsible for this increase, 
+evidence that actual logging residues are used as pellet feedstock is rare (discussed 
+further in section: Removal of forest residues).
+Pellets can be traded on spot markets, but mainly they are sold through long-term 
+contracts between suppliers and buyers, and data on pellet prices defined in contracts 
+over this period is not available. Since pulpwood is currently the main feedstock for 
+pellet production, we show pine pulpwood stumpage prices in Figure 13 (right axis) 
+as an indicator of bioenergy prices. The trend in pulpwood prices has closely followed 
+that of pellet production since 2011. It is likely that pulpwood prices did not follow the 
+increasing trend in pellet production before then because pellet production exclusively 
+used sawmill residues before that point (K.L. Abt et al., 2014). Nonetheless, pulpwood 
+prices and pellet production are significantly correlated over the entire time series 
+shown in Figure 13. This relationship suggests that bioenergy demand (as evidenced by 
+pellet production) influences pulpwood price, although it is likely that other factors drive 
+changes in pulpwood price as well. For the remainder of this section, we investigate 
+possible links between pulpwood price and forest management changes to test whether 
+these changes might be a market-mediated effect linked to bioenergy demand.
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0
+2
+4
+6
+8
+10
+12
+14
+1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018
+Pulpwood price [2016 USD/tonne]
+Pellet production [Million tonnes]
+Pulpwood price (right axis) Pellet production (left axis)
+Figure 13. U.S. pellet production (left axis) and pine pulpwood prices (right axis). Source: U.S. 
+Industrial Pellet Association (2015), Jeffries & Leslie (2017), U.S. EIA (2016).
+Removal of forest residues
+The use of logging residues for energy is generally believed to provide climate change 
+mitigation in the short term (Agostini et al., 2014; Giuntoli et al., 2015; Matthews, Hogan, 
+& Mackie, 2018). Perhaps as a result of these findings, several pellet producers and 
+buyers have claimed most of the feedstocks going to pellet mills to be “logging residues” 
+(Hammel, 2015). However, the devil is in the details: While the authors above refer to 
+logging residues strictly as tops and branches that would decay if left in the forest, other 
+authors include in the “residues” category every wood product that is not economically 
+profitable, including crooked and small stemwood produced during clear-cut operations, 
+thinning stems of pulp log quality, and even stumps. Indeed, data reported by K.L. Abt et 
+al. (2014), Stange Olesen, Bager, Kittler, Price, and Aguilar (2015), and Booth (2018) show 
+that no logging residues were used in U.S. pellet mills until 2014 and only 1% by late 2016. 
+25
+ICCT WHITE PAPER
+Data on the quantity and type of residues removed from forest stands is scarce. We use the 
+quantity of wood products deriving from nongrowing stock4 as a proxy for logging residues. 
+Figure 14 shows the quantity of wood products from nongrowing stock as a ratio of total 
+products output from 1995–2015 (left axis). This measure, which we interpret as indicating 
+the proportion of logging operations that harvested residues, remained fairly stable between 
+1999 and 2015, while in the same period pellet production in the southeastern United 
+States rapidly increased. We find no correlation between this measure of the frequency of 
+residue removal and pellet production or pine pulpwood prices. While the data available are 
+uncertain, we do not detect any evidence that bioenergy demand has increased the harvest 
+of logging residues or their incorporation into pellets used for bioenergy.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020
+Pellet production [Million tonnes]
+Nongrowing/total products [%]
+Share of products from nongrowing stock to total products Pellet production (right axis)
+Figure 14. Logging residue removal as a ratio of total roundwood removals [left axis] and wood 
+pellet production [right axis] in the southeastern United States. Source: U.S. Department of 
+Agriculture, Forest Service (2012).
+Stand productivity
+Increasing the productivity or yield of forest stands can raise biomass output without 
+reducing carbon stocks and thus lower carbon payback times. Here, we examine 
+changes in productivity in private forests of two major forest types in the southeastern 
+United States, loblolly-shortleaf pine and oak-hickory. The U.S. Forest Service conducts 
+a survey every five years and reports statistics on the area of each forest type that is in 
+various productivity classes, ranging from 1.4 to more than 8.4 cubic meters per hectare 
+per year in stand growth (U.S. Department of Agriculture, Forest Service, n.d.a). This is 
+shown on the left axis in Figure 15 for the period 1992–2017, showing the median year for 
+each five-year survey period. 
+For each forest type, there is a distribution across productivity classes, with most forest 
+area generally in the middle productivity classes. Over time, the area distribution for 
+loblolly-shortleaf pine forests has shifted rightward toward more productive classes; 
+in the 2017 survey, the highest productivity class of more than 8.4 m
+3/ha/yr growth 
+represented the greatest area of any class for this forest type. The area distribution for 
+oak-hickory forests has remained fairly constant over time. To help interpret changes in 
+4 According to the U.S. Department of Agriculture, Forest Service. (n.d.a.) (2012, page 20): “Removals can 
+come from two sources: (1) the growing-stock portion of live trees […]; and (2) other nongrowing stock 
+sources such as tops and stumps.” Total removals are thus classified as: Products from growing stocks, 
+products from nongrowing stock, logging residues, other removals.
+26
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+area distribution, we calculate a productivity index, which represents an area-weighted 
+average productivity for each forest type, assuming the median productivity of each 
+class of 11.2 m3/ha/yr for the less than 8.4 m3/ha/yr class, shown on the right axis in 
+Figure 15. We provide more detail on the calculation of the productivity index in the 
+Appendix. The productivity index increases 16% from 6.6 to 7.7 m
+3/ha/yr for loblolly-
+shortleaf pine and remains stable at around 5.5 m3/ha/yr for oak-hickory forests over 
+this period. It is thus clear that the average productivity of loblolly-shortleaf pine forests 
+in the southeastern United States has increased over the past 25 years, while that of 
+oak-hickory forests has not. Unfortunately, to the best of our knowledge, there is no data 
+available on the prevalence of silvicultural practices such as site preparation, thinning, 
+and fertilization in the United States, so we are unable to assess in detail the possible 
+underlying drivers of this trend.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+2
+4
+6
+8
+10
+12
+14
+ 1.4 - 3.4
+ 3.5 - 5.9
+ 5.9 - 8.3
+ > 8.4
+ 1.4 - 3.4
+ 3.5 - 5.9
+ 5.9 - 8.3
+ > 8.4
+ 1.4 - 3.4
+ 3.5 - 5.9
+ 5.9 - 8.3
+ > 8.4
+ 1.4 - 3.4
+ 3.5 - 5.9
+ 5.9 - 8.3
+ > 8.4
+ 1.4 - 3.4
+ 3.5 - 5.9
+ 5.9 - 8.3
+ > 8.4
+ 1.4 - 3.4
+ 3.5 - 5.9
+ 5.9 - 8.3
+ > 8.4
+1992 1997 2002 2007 2012 2017
+Productivity Index [m3/ha/yr]
+Area [Million ha]
+Loblolly - shortleaf pine
+Oak-hickory
+Loblolly - productivity index (right axis)
+Oak / hickory - productivity index (right axis)
+Figure 15. Area in each stand productivity class (provided in the X-axis in cubic meters per hectare per 
+year) for the two main stand compositions in private forests in the southeastern United States. (left axis) 
+and productivity index (right axis). Source: U.S. Department of Agriculture, Forest Service (n.d.a,b).
+We find that the productivity index is significantly positively correlated with pellet 
+production as well as pine pulpwood prices. This suggests that bioenergy demand may 
+have been a positive driver of productivity improvements in pine plantations, generally 
+supporting the assumption in Jonker et al. (2014) and Jonker et al. (2018) that bioenergy 
+demand could result in higher forest productivity. However, it is important to place 
+the specific assumptions on productivity found in the literature in the context of the 
+range of observed historical productivity improvements. Jonker et al. (2014) included 
+a high-productivity scenario with an average yield of 9.7 dry tonnes/ha/yr, roughly 
+equivalent to 21 m3/ha/yr.5 However, the historical data show that until 2017, only a 
+negligible 0.2% portion of the stand area was reported to have a productivity of more 
+than 7.2 dry t/ha/yr, roughly equivalent to 15.7 m
+3/ha/yr.6 The median yield of 5.6 dry t/
+ha/yr, or 12 m3/ha/yr, assumed by Jonker et al. (2014) appears instead more reasonable, 
+5 Assuming a density of 450 kg/m 3.
+6 Resource Planning Act Assessment reports report productivity up to 8.4 m 3/ha/yrHowever, this 
+productivity level is too low for current loblolly pine plantations. The U.S. Forest Service reports data with 
+productivity classes up to 15.7 m 3/ha/yr. Based on the latest available data for loblolly pine yields, our 
+productivity index considers a value for the highest productivity class, which is equal to 11.2 m 3/ha/yr.
+27
+ICCT WHITE PAPER
+although still very much at the high end of the range of reported values. Jonker et al. 
+(2018) assume average yields of roundwood of almost 9 dry t/ha/yr, or around 20 m3/
+ha/yr, for conventional pine cultivation, which is more than double current average pine 
+yields. Thus, while there is evidence that a recent increase in productivity of U.S. loblolly-
+shortleaf forests may be due to bioenergy demand, the scale of productivity increases 
+assumed in studies on U.S. bioenergy cannot be supported by observed data.
+Tree species
+Data assessed in the previous section make clear that not only is the productivity of the 
+U.S. softwood species loblolly-shortleaf pine increasing while that of hardwood oak-
+hickory is not, but also the softwood species deliver consistently higher productivity than 
+the hardwood mix. In addition, most pine stands are intensively managed plantations, 
+while hardwood stands are mainly naturally regenerated forests (U.S. Department of 
+Agriculture, Forest Service, n.d.a). A shift from the lower-yielding hardwoods to more 
+productive pines is in fact something that modeling studies (Galik and R.C. Abt, 2016; 
+Duden et al., 2017) suggest might happen in response to bioenergy demand, contributing 
+to the overall forest productivity increase they assume in their studies.
+Indeed, the area with planted pine has grown from 17% to 23% of all timberland area in 
+the past 20 years. Figure 16 shows the total area of softwood and hardwood timberlands 
+in U.S. South since the 1950s (left axis). From the 1950s until the 1980s, hardwood area 
+increased, most likely following natural regeneration of abandoned cropland, while 
+softwood area declined. Area began to shift back to softwoods starting in the late 
+1990s. The increase in softwood area occurs over a similar period as the increase in pine 
+pulpwood prices (Figure 16, right axis). We find a significant positive correlation between 
+these two variables, and it is logical that an increase in pine pulpwood price could drive 
+an increase in pine area. However, the increase in both pine pulpwood prices and pellet 
+production (Figure 13) began in 2008–2012, while the expansion of softwood area began 
+in the late 1990s. It thus seems likely that factors other than bioenergy demand spurred 
+the reversal from area loss to gain for U.S. softwood timber. While it is possible that 
+bioenergy demand caused the increase in softwood area since around 2010, it is not 
+clear that it is likely to be the sole or main driver of this trend.
+7
+8
+9
+10
+11
+12
+13
+0
+10
+20
+30
+40
+50
+60
+1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 20002005 2010 2015 2020 2025
+Pulpwood price [2016 USD/tonne]
+Area [Million ha]
+Softwoods Hardwoods Pulpwood price (right axis)
+Figure 16. Area of softwood and hardwood timber species (left axis) in the U.S. South in relation to 
+pine pulpwood prices (right axis). Source: U.S. Department of Agriculture Forest Service (n.d.a)
+28
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+Afforestation
+Several studies (K.L. Abt et al., 2014; Galik and R.C. Abt, 2016; Duden et al., 2017) 
+predict that bioenergy demand will increase total forest area by preventing baseline 
+deforestation. These studies follow Wear and Greis (2013), which projects a large loss 
+of forest land to urban development in the southeastern United States over the coming 
+30 years. 
+Historical evidence supports the point that urban development contributes to 
+deforestation, but this appears to be balanced out by afforestation from other land 
+uses. Jeffries and Leslie (2017) report that urban development in the U.S. was indeed 
+the main cause of deforestation from 1982 to 2012, accounting for 49% of total 
+deforestation. Statistics from the U.S. Department of Agriculture (n.d.a) indicate that 
+around 6 Mha, or 8%, of total forest land in the U.S. South was lost from 1964–1987, 
+while at the same time developed land expanded by around 4 Mha. However, in recent 
+years the U.S. South has actually seen an increase in forest area of around 3 Mha 
+(Figure 17). This pattern contrasts sharply with the assumption in K.L. Abt et al. (2014) 
+that 3.8 Mha of timberland will be lost from 2010 to 2040. Furthermore, timberland 
+area has increased since the late 1980s despite an increase in urban land of 2.3 Mha 
+from 1982–2012 (Jeffries & Leslie, 2017).
+7
+8
+9
+10
+11
+12
+13
+72.0
+73.0
+74.0
+75.0
+76.0
+77.0
+78.0
+1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020 2025
+Pulpwood price [2016 USD/tonne]
+Timberland area [Million ha]
+Timberland area (left axis) Pine pulpwood price (right axis)
+Figure 17. Timberland area in the southeastern United States for all ownership categories (left axis) 
+and prices for pine pulpwood (right axis). Source: U.S. Department of Agriculture Forest Service 
+(n.d.a) 
+Pulpwood prices, shown on the right axis in Figure 17, increased over some of the same 
+time period as the increase in timberland area. However, the afforestation trend began 
+far earlier than the recent increase in pulpwood prices, which started around 2012, and 
+we find no correlation between the two variables. It thus seems likely that afforestation 
+from the late 1980s has been driven by other factors such as cropland abandonment, 
+rather than having any specific link to bioenergy. Cropland area declined by 8.6 Mha 
+from 1982–2012, and over this period 86% of afforestation took place on declining 
+cropland and pastureland (Jeffries & Leslie, 2017).
+29
+ICCT WHITE PAPER
+Timber products composition
+We may expect to see a shift in the production of large saw logs toward increased small-
+diameter pulpwood if bioenergy demand increases the relative value of pulpwood. This 
+is relevant because, as shown by Jonker et al. (2018), the management of plantations 
+with the goal of optimizing total wood yield for bioenergy reduces carbon benefits 
+compared with traditional management. This is because total yields may be increased 
+through shorter rotations and greater production of small-diameter pulpwood with less 
+production of saw timber-quality roundwood. A plantation with less saw timber would 
+in turn be expected to produce fewer long-lived harvested wood products and thus to 
+limit the benefits of the associated carbon storage in the products and the substitution 
+benefits of high carbon-intensity structural and nonstructural construction elements 
+such as steel and concrete.
+However, the relationship between bioenergy demand and long-lived wood products 
+may not be what Jonker et al. (2018) modeled. Composite wood products such as 
+oriented strand board, fiberboard, and particleboard can be made from small-diameter 
+pulpwood and still provide storage and substitution benefits as building and furniture 
+materials. Figure 18 shows that the use of composite products has been increasing since 
+the 1960s, while the total amount of traditional lumber including plywood and other 
+veneer products remained constant from the mid-1980s through the mid-2000s. The 
+production of all wood products took a steep dive around the time of the Financial Crisis 
+in the late 2000s and has yet to fully recover. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+Quantity [Million tonnes per year]
+Total long-lived products Lumber Composite products Pellet production
+Figure 18. U.S. national production of long-lived wood products and pellet production in the 
+southeastern United States. Source: Howard & Jones (2016).
+We therefore would not expect a shift in forest management toward smaller-diameter 
+pulpwood to necessarily affect the use of long-lived wood products. In fact, it is possible 
+that technological advances in the production and use of composite products could be 
+shifting forest management toward smaller-diameter trees anyway, regardless of any 
+influence of bioenergy demand, and without negatively affecting the overall carbon 
+balance. Even though the carbon effects of plantations managed with shorter rotations 
+and younger stands may be positive, trade-offs with other ecosystem services, especially 
+habitat quality, should be investigated carefully (Williams, 2018).
+If anything, the rise in composite products is likely to tighten competition between 
+pellets and long-lived wood products as they use the same raw materials (Jonsson 
+& Rinaldi, 2017). This could theoretically increase the use of nonbiological building 
+materials such as concrete. However, it is not clear from the trends shown in Figure 18 
+30
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+that pellet production has directly influenced the output of composite products over the 
+past decade. 
+Pulp and paper demand
+Some studies argue that bioenergy demand has provided a market for stranded 
+pulpwood plantations originally established to meet pulp and paper demand, and that 
+U.S. pulpwood is therefore available for bioenergy with no indirect climate consequences 
+(Dale, Parish, Kline, & Tobin, 2017; Jonker et al., 2014).
+Demand for graphic paper, newsprint, and printing and writing paper has been declining 
+since the late 1990s, consistent with the rise in the use of computers. This trend is shown 
+in Figure 19, along with output of other paper products and paper recycling rates. Total 
+production of pulp for paper mirrors the decline in printing and writing paper. On the 
+other hand, packaging and wrapping paper, reflecting expanding trade and e-commerce, 
+as well as household and sanitary paper show steady or even slightly rising production 
+levels. Part of the decline in pulp production can also be explained by improvements in 
+resource efficiency and use of recovered paper from recycling. 
+0
+10
+20
+30
+40
+50
+60
+70
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015
+Quantity [Million tonnes]
+Wood pulp Wrapping and packaging paper and paperboard
+Recovered paper Printing and writing papers
+Household and sanitary papers
+Figure 19. Production of pulp and paper products in the United States. Source: FAOSTAT (n.d.).
+The evidence supports the conclusion that bioenergy may be replacing the use of 
+pulpwood and sawmill by-products for paper products. However, that does not mean 
+that this resource is available for bioenergy without climate impacts, as argued by Dale, 
+Parish, Kline, & Tobin (2017) and Jonker et al. (2014). If stranded pulpwood plantations 
+were not harvested for bioenergy, the forest carbon stock would remain standing, 
+providing carbon storage benefits (Ter-Mikaelian, Colombo, & Chen, 2015). The reduction 
+in forest carbon stock when harvesting these trees for bioenergy should be accounted 
+for in estimating the GHG balance of bioenergy.
+U.S. summary
+There is evidence that bioenergy demand may have been one of the drivers for 
+modest gains in the productivity of pine plantations and expansion of softwood 
+plantations, but not to any other changes in U.S. forests that could improve the GHG 
+balance of bioenergy. The average productivity of loblolly-shortleaf pine plantations 
+31
+ICCT WHITE PAPER
+in the southeastern United States has increased by around 15% at the same time that 
+U.S. pellet production has ramped up, far less than the doubling assumed in some 
+bioenergy studies. There is little or no evidence that bioenergy has led to an increase 
+in the harvest of logging residues, an increase in total forest area compared with the 
+baseline trend, changes in tree species, or any changes in wood products composition. 
+Although it is possible that bioenergy may use stranded pulpwood plantations no 
+longer needed for paper production, the harvesting of this resource reduces forest 
+carbon stocks, negatively affecting the GHG balance of bioenergy. Overall, there is little 
+evidence for U.S. forest management changes mitigating the carbon debt of bioenergy 
+in recent years.
+Table 3. Summary of evidence that bioenergy demand may have led to forest management 
+improvements in the United States.
+Literature assumption Historical trend
+Evidence trend driven 
+by bioenergy demand
+Consequences for carbon 
+accounting  of bioenergy
+Increased removal of 
+logging residues.
+Logging residue 
+removal has remained 
+stable while pellet 
+production has 
+increased.
+None. There seems 
+to be no connection 
+between residues 
+removal and pellet 
+production.
+Increased residue removal 
+would have improved GHG 
+performance of bioenergy. 
+Evidence suggests this has 
+not occurred.
+More intensive site 
+preparation and 
+tending practices that 
+dramatically improve 
+stand productivity. 
+Average productivity 
+of pine plantations has 
+increased in the last 
+20 years.
+Likely. Productivity 
+significantly positively 
+correlated with pellet 
+production and 
+pulpwood prices. 
+Increased productivity 
+improves the GHG balance 
+of bioenergy. This effect 
+is likely to be smaller than 
+assumed in the literature.
+Shift from natural 
+hardwood forests 
+to more productive 
+softwood plantations.
+Softwood area has 
+increased, but this 
+trend started before 
+the ramp-up in pellet 
+production.
+Plausible. Softwood 
+area significantly 
+positively correlated 
+with pulpwood prices, 
+but the softwood area 
+increase began much 
+earlier than bioenergy 
+ramp-up.
+Increased softwood area 
+would improve the GHG 
+balance of bioenergy. 
+Afforestation 
+compared with a 
+baseline of declining 
+forest area.
+Timberland area 
+has been increasing 
+steadily since the late 
+1980s, well before 
+the ramp-up in pellet 
+production.
+Likely none. 
+Timberland area trend 
+appears to be caused 
+by other factors.
+Afforestation or avoided 
+deforestation would 
+improve GHG balance. 
+Evidence suggests this has 
+not occurred.
+Reduction in long-
+lived harvested wood 
+products.
+Increased use of 
+composite wood 
+products, which can 
+be from pulpwood.
+Unlikely. Production 
+of both pellets 
+and composite 
+wood products has 
+increased together, 
+although it is 
+possible wood pellet 
+production has slowed 
+growth in composite 
+wood product 
+consumption. 
+A reduction in long-lived 
+wood products would 
+worsen GHG balance 
+Pulpwood free of 
+indirect effects due 
+to declining paper 
+industry.  
+Declining pulp 
+demand due to 
+reduced graphic 
+paper production and 
+increased recycling.
+None.
+None. Use of stranded 
+pulpwood plantations for 
+bioenergy reduces forest 
+carbon stock, which must 
+be accounted for.
+32
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+CONCLUSIONS AND POLICY RECOMMENDATIONS
+Given the large spread of estimated carbon payback times and carbon accounting 
+models published across the literature, it can be difficult for policymakers to understand 
+the net carbon impacts of forest bioenergy. In this study, we reviewed several prominent, 
+well-cited studies that reported relatively low carbon payback times for forest bioenergy 
+and concluded that bioenergy can provide climate change mitigation within a reasonable 
+timeframe. We find that these studies rely on assumptions that bioenergy demand will 
+spur substantially more-efficient forest management or increases in forest area to reach 
+their findings of low carbon payback times. 
+This study presents the most extensive comparison of bioenergy literature assumptions 
+and historical evidence of forest management changes published to date. We assess 
+the available historical record looking for indicators of the types of forest management 
+improvements assumed by studies estimating a favorable GHG balance for bioenergy 
+in Canada, Sweden, and the United States. In particular, we assess whether there is 
+evidence that the recent increase in bioenergy demand over the past decade has 
+resulted in any of these assumed responses that might improve the carbon balance of 
+that bioenergy. We find:
+ » Weak evidence that bioenergy demand increases collection of tree tops and 
+branches in Canada and Sweden, although data availability is poor. Bioenergy 
+demand does not appear to have increased the collection of logging residues—
+treetops and small branches—in the United States. In Sweden, logging residues have 
+been used for energy for many years, but the latest statistics indicate that forest 
+fuels may be mainly composed of roundwood and fuelwood, rather than slash. In 
+Canada, bioenergy demand may have decreased the amount of residues burned in 
+the forest and increased usage of wood from trees killed by an extensive mountain 
+pine beetle infestation. Availability of statistical data on quantities and types of 
+residues collected is a limiting factor to the analysis. The use of tops and branches 
+for bioenergy could achieve positive carbon balance in the short term, so the lack 
+of evidence of increased use of these feedstocks indicates that current forest 
+bioenergy is most likely not mitigating climate change as effectively as thought 
+or at all. Nonetheless, the use of forest residues that would have been burned in 
+the forest guarantees immediate carbon benefits, and there is evidence that this is 
+taking place in British Columbia.
+ » Moderate evidence that bioenergy demand drives more-intensive forest stand 
+management, which may have a weak positive effect on growth. Productivity of 
+forests in Sweden and pine forests in the United States has increased alongside 
+bioenergy demand. In Sweden, this is mainly a result of legacy management and 
+a more favorable growing climate, but we find that bioenergy may have played a 
+role in increasing thinning operations. In the United States, loblolly pine plantations 
+have seen increasing productivity, but this effect is far smaller than the magnitude 
+assumed in the bioenergy literature. There is little evidence that bioenergy has 
+contributed to either improved forest management or growth in Canada, where 
+public policy incentives are the main drivers for change in forest management. The 
+bioenergy literature relies on improved silvicultural practices for positive carbon 
+balances for forest bioenergy, but we find that either bioenergy demand is not 
+driving these changes, or it does so to a much smaller degree than assumed in the 
+literature. One possible reason for this finding is that forest owners may be hesitant 
+to invest in management changes that will not produce higher revenue for several 
+decades in response to short-term changes in wood prices. 
+33
+ICCT WHITE PAPER
+ » Weak evidence that bioenergy demand drives a shift toward higher-yielding 
+tree species during replanting. There is evidence that area planted with high-
+yielding pine species is expanding in the United States and Sweden, while improved 
+genotypes are being planted in Canada. Bioenergy demand may have contributed 
+to the increases in Sweden and the United States but not in Canada, and these 
+changes may be driven by other factors. Higher-yielding species increase forest 
+landscape productivity and deliver additional biomass which can be used for 
+bioenergy with positive carbon benefits. Nonetheless, broader considerations on 
+forest ecosystem health should be also taken into account.
+ » No evidence that bioenergy demand results in increased forest area compared 
+with a baseline scenario. There are fluctuating historical trends in total forest 
+area across the three countries studied, but in none of them has the trend clearly 
+changed with the ramp-up in bioenergy demand. There is stronger evidence 
+that changes in forest area are driven by other factors, for example cropland 
+abandonment in the United States. This is critical for the carbon balance of forest 
+bioenergy since multiple sources in the literature link the carbon benefits of forest 
+bioenergy to its capacity to limit deforestation in the southeastern United States. 
+In general, where we do find a link between bioenergy demand and forest management 
+responses, it is weaker than assumed in the bioenergy literature. Overall, we find that 
+most assumptions on forest management changes in these studies cannot be justified by 
+the available evidence. The historical evidence better supports studies that assume little 
+or no change in forest management—and these studies tend to estimate longer carbon 
+payback times and lower climate benefits than the literature reviewed in depth here.
+Our findings indicate that policies that only promote bioenergy from forest biomass 
+without conditional requirements on forest management practices most likely do not 
+deliver GHG benefits over a reasonable timeframe. Climate mitigation from bioenergy 
+can be ensured only if policies require biomass to be additional, leading to improved 
+land carbon balance, either through increased sustainable collection of harvesting 
+residues or through stimulating additional growth such as on previously unused, 
+nonforested land.
+For bioenergy policies to provide any meaningful carbon benefit, it is necessary 
+to couple the demand for forest biomass with specific measures to improve forest 
+management to increase carbon stocks and biomass output simultaneously. Our specific 
+recommendations are:
+ » Provide support only for additional biomass that is produced without reducing 
+growing carbon stocks. This includes:
+ » Additional collection of logging residues—treetops and small branches, not 
+stumps or small trees—at sustainable levels that do not significantly adversely 
+impact soil organic carbon or biodiversity.
+ » Additional harvesting of trees killed by pests and infections.
+ » Additional production of biomass on unused land with low carbon stocks, 
+for example abandoned agricultural land, although establishing new forest 
+plantations would achieve benefits mainly in the longer term.
+ » If stemwood or whole trees from existing forests are harvested for bioenergy, it 
+is not clear that climate mitigation can be achieved even with aggressive forest 
+management improvements. However, if these resources are to be incentivized for 
+reasons beyond climate mitigation, the carbon debt can be somewhat reduced by 
+requiring or encouraging:
+34
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+ » Collection of wood from multiple rounds of thinning at early to middle stages of 
+growth, provided that the operations are additional and are carried out under 
+proper silvicultural guidelines.
+ » Selection of faster-growing species for replanting harvested areas. However, a 
+holistic view should always be applied to assess consequences on ecosystem 
+health, resilience, and biodiversity. 
+ » Increased fertilization rates and extent, placing great care to account for all related 
+GHG emissions and to minimize negative impacts on ecosystems and waterways.
+35
+ICCT WHITE PAPER
+REFERENCES
+Abt, K.L., Abt, R.C., Galik, C.S., & Skog, K.E. (2014). Effect of Policies on Pellet Production 
+and Forests in the U.S. South. A technical document supporting the forest service 
+update of the 2010 RPA Assessment (General Technical Report SRS-202). Retrieved 
+from U.S. Forest Service – Southern Research Station https:/ /www.srs.fs.usda.gov/
+pubs/47281
+Agostini, A., Boulamanti, A.K., & Giuntoli, J. (2014). Carbon accounting of forest 
+bioenergy. Conclusions and recommendations from a critical literature review 
+[JRC Scientific and Policy Report nr. EUR 25354]. Retrieved from European Union 
+Publications https:/ /publications.europa.eu/en/publication-detail/-/publication/
+e6c29d5b-2bef-4ec4-93f5-c3f672af0b47
+Alkama, R. & Cescatti, A. (2016). Climate change: Biophysical climate impacts of recent 
+changes in global forest cover. Science, 351(6273), 600 – 604.
+Bernier, P. & Paré, D. (2013). Using ecosystem CO2 measurements to estimate the timing 
+and magnitude of greenhouse gas mitigation potential of forest bioenergy. GCB 
+Bioenergy, 5, 67 – 72. doi: 10.1111/j.1757-1707.2012.01197.x
+Bertills, U. & Nasholm, T. (2000). Effects of Nitrogen Deposition on Forest Ecosystems, 
+Report 5067, Swedish Environmental Protection Agency. Retrieved from Swedish EPA 
+http:/ /swedishepa.se/Documents/publikationer/620-6137-2.pdf
+Booth, M. (2018). Not carbon neutral: Assessing the net emissions impact of residues 
+burned for bioenergy. Environmental Research Letters 13: 035001. doi: 10.1088/1748-
+9326/aaac88 of residues burned for bioenergy
+Bradburn, K. (2014). 2014 CANBIO Report on the Status of Bioenergy in Canada. 
+Retrieved from CANBIO http:/ /www.fpac.ca/publications/2014_CanBio_Report.pdf
+British Columbia Ministry of Forests and Range. (2006). Timber tenures in British 
+Columbia: Managing public forests in the public interest. Retrieved from https:/ /www.
+for.gov.bc.ca/ftp/dpg/external/!publish/!web/tenures/timber-tenures-2006.pdf
+Brunberg, T. (2010). “Skogsbränsle: metoder, sortiment och kostnader 2009. [Forest 
+fuel: methods, assortment and costs]” Skogforsk. Retrieved from https:/ /www.
+skogforsk.se/kunskap/kunskapsbanken/2010/Skogsbransle-metoder-sortiment-och-
+kostnader-2009/
+Camia, A., Robert, N., Jonsson, R., Pilli, R., Garcia-Condado, S., Lopez-Lozano, R. van der 
+Velde, M. et al. (2018). Biomass production, supply, uses and flows in the European 
+Union. First results from an integrated assessment [JRC Science for Policy report nr. 
+EUR 28993]. Retrieved from European Union Publications https:/ /publications.europa.
+eu/en/publication-detail/-/publication/358c6d4b-1783-11e8-9253-01aa75ed71a1 
+Cintas, O., Berndes, G., Cowie, A.L., Egnell, G., Holmström, H., & Ågren, G.I. (2016). The 
+climate effect of increased forest bioenergy use in Sweden: Evaluation at different 
+spatial and temporal scales. WIREs Energy and Environment, 5, 351 – 369. doi: 10.1002/
+wene.178.
+Cintas, O., Berndes, G., Hansson, J., Poudel, B.C., Bergh, J., Börjesson, P., … Nordin, A. 
+(2017). The potential role of forest management in Swedish scenarios towards climate 
+neutrality by mid century. Forest Ecology and Management, 383, 73 – 84. doi: 10.1016/j.
+foreco.2016.07.015.
+Copley, A. (2018). Wood Bioenergy Update: Q1 2018. Retrieved from Forisk http:/ /forisk.
+com/blog/2018/02/05/wood-bioenergy-update-q1-2018/
+36
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+Cortini, F., Comeau, P.G., Boateng, J.O., & Bedford, L. (2010). Yield implications of site 
+preparation treatments for lodgepole pine and white spruce in Northern British 
+Columbia. Forests, 1, 25 – 48. doi: 10.3390/f1010025.
+Dale, V.H., Kline, K.L., Parish, E.S., Cowie, A.L., Emory, R., Malmsheimer, R.W., … Wellisch, 
+M. (2017), Status and prospects for renewable energy using wood pellets from the 
+southeastern United States. GCB Bioenergy, 9, 1296 – 1305. doi: 10.1111/gcbb.12445.
+Dale, V.H., Parish, E., Kline, K.L., & Tobin, E. (2017). How is wood-based pellet production 
+affecting forest conditions in the southeastern United States? Forest Ecology and 
+Management, 396, 143 – 149. doi: 10.1016/j.foreco.2017.03.022.
+Duden, A.S., Verwij, P.A., Junginger, H.M., Abt, R.C., Henderson, J.D., Dale, V.H., … van der 
+Hirst, F. (2017). Modeling the impacts of wood pellet demand on forest dynamics in 
+southeastern United States. Biofuels Bioproducts & Biorefining, 11, 1007 – 1029. doi: 
+10.1002/bbb.1803.
+Ecological Framework of Canada. (n.d.) Ecozone and Ecoregion Descriptions. Retrieved 
+from http:/ /ecozones.ca/english/zone/index.html
+Egnell, G. & Björheden, R. (2016). Options for increasing biomass output from long-
+rotation forestry. WIREs Energy and Environment, 2(4), 465 – 472. doi: 10.1002/
+wene.25.
+Ekstrom, H. (2017). Almost 50% of the fiber feedstock for wood pellet plants in the 
+US South was industry and forest residues in the 1Q/17, up from 33% five years ago. 
+Retrieved from Wood Resources International LLC http:/ /news.cision.com/wood-
+resources-international-llc/r/almost-50--of-the-fiber-feedstock-for-wood-pellet-plants-
+in-the-us-south-was-industry-and-forest-res,c2213284
+Elfving, B., Ericsson, T., & Rosvall, O. (2001.) The introduction of lodgepole pine for wood 
+production in Sweden – a review. Forest Ecology and Management, 141: 15-29. doi: 
+10.1016/S0378-1127(00)00485-0. 
+Emilsson, S. (2006). International Handbook: From Forest Extraction of Forest Fuels to 
+Ash Recycling. Retrieved from Swedish Forest Agency http:/ /ec.europa.eu/environment/
+life/project/Projects/index.cfm?fuseaction=home.showFile&rep=file&fil=Recash_
+International_Handbook_Final2006_EN.pdf
+Energimyndigheten. (n.d.). Production of unprocessed primary forest fuels of 
+domestic origin by fuel type, GWh, 2013-. Retrieved from http:/ /pxexternal.
+energimyndigheten.se/pxweb/en/Produktion%20av%20of%C3%B6r%C3%A4dlade%20
+tr%C3%A4dbr%C3%A4nslen/-/EN0122_3.px/?rxid=2317b153-6985-401d-96e3-
+354d614f9cde
+Environment and Climate Change Canada. (2018). Clean fuel standard regulatory design 
+paper. Retrieved from https:/ /www.canada.ca/content/dam/eccc/documents/pdf/
+climate-change/clean-fuel-standard-regulatory-design-paper-2018-en.pdf
+European Academies Science Advisory Council (EASAC). (2017). Multi-functionality and 
+sustainability in the European Union’s forests [EASAC policy report 32]. Retrieved from 
+European Academies Science Advisory Council https:/ /easac.eu/publications/details/
+multi-functionality-and-sustainability-in-the-european-unions-forests/
+European Commission. (2016). Commission staff working document. Impact Assessment. 
+Sustainability of Bioenergy, accompanying the document Proposal for a Directive of 
+the European Parliament and of the Council on the promotion of the use of energy 
+from renewable sources (recast). Retrieved from https:/ /eur-lex.europa.eu/resource.
+html?uri=cellar:1bdc63bd-b7e9-11e6-9e3c-01aa75ed71a1.0001.02/DOC_1&format=PDF 
+37
+ICCT WHITE PAPER
+European Parliament & Council of the European Union. (2009). Directive 2009/28/EC 
+of the European Parliament and of the Council of 23 April 2009 on the promotion of 
+the use of energy from renewable sources and amending and subsequently repealing 
+Directives 2001/77/ EC and 2003/30/EC. Retrieved from http:/ /eur-lex.europa.eu/
+legal-content/EN/TXT/?%20qid=1467128713306&uri=CELEX:32009L0028
+European Parliament & Council of the European Union. (2018). Directive 2018/2001 of 
+the European Parliament and of the Council of 11 December 2018 on the promotion of 
+the use of energy from renewable sources (recast). Official Journal of the European 
+Union, L 328/82, 21 December 2018. Retrieved from https:/ /eur-lex.europa.eu/legal-
+content/EN/TXT/PDF/?uri=CELEX:32018L200.
+EUROSTAT. (n.d.). Supply, transformation and consumption of renewables and wastes. 
+Retrieved from https:/ /ec.europa.eu/eurostat/data/database
+FAOSTAT. (n.d.). Forestry Production and Trade. Retrieved from http:/ /www.fao.org/
+faostat/en/#data
+Galik, C.S. & Abt, R.C. (2016). Sustainability guidelines and forest market response: an 
+assessment of European Union pellet demand in the southeastern United States. GCB 
+Bioenergy, 8, 658 – 669. doi: 10.1111/gcbb.12273.
+Giuntoli, J., Caserini, S., Marelli, L., Baxter, D., & Agostini, A. (2015). Domestic heating 
+from forest logging residues: environmental risks and benefits. Journal of Cleaner 
+Production, 99, 206 – 216. doi: 10.106/j.clepro.2015.03.025.
+Government of British Columbia. (n.d.a). Provincial Inventory. Retrieved from https:/ /
+www2.gov.bc.ca/gov/content/environment/climate-change/data/provincial-inventory
+Government of British Columbia. (n.d.b). Forests for tomorrow. Retrieved from https:/ /
+www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/land-based-
+investment/forests-for-tomorrow
+Government of British Columbia. (n.d.c). Summary data - Change in silviculture 
+treatments. Retrieved from https:/ /catalogue.data.gov.bc.ca/dataset/indicator-
+summary-data-trends-in-silviculture-in-b-c-/resource/33055c65-ac86-4612-a4e8-
+bda7e1973830
+Government Offices of Sweden. (2019). Sweden’s draft integrated national energy and 
+climate plan. Retrieved from https:/ /www.government.se/reports/2019/01/swedens-
+draft-integrated-national-energy--and-climate-plan/
+Hallsby, G., Ulvcrona, K.A., Karlsson, A., Elfving, B., Sjörgen, H., Ulvcrona, T., & Bergsten, U. 
+(2015). Effects of intensity of forest regeneration measures on stand development in a 
+nationwide Swedish field experiment. Forestry, 88: 441-453. doi: 10.1093/forestry/cvp010.
+Hammel, D. (2015). Bioenergy in Europe Threatens North American Wetland Forests. 
+Retrieved from Natural Resources Defense Council (NRDC) https:/ /www.nrdc.org/
+experts/debbie-hammel/bioenergy-europe-threatens-north-american-wetland-forests
+Hedwall, P.-O., Gong, P., Ingerslev, M., & Bergh, J. (2014). Fertilization in northern forests 
+– biological, economic and environmental constraints and possibilities. Scandinavian 
+Journal of Forest Research, 29:4, 2014. doi: 10.1080/02827581.2014.926096.
+Howard, J.L. & Jones, K.C. (2016). U.S. timber production, trade, consumption, and price 
+statistics, 1965-2013. USDA Forest Service, Forest Products Laboratory, Research Paper 
+FPL-RP-679. Retrieved from https:/ /www.fs.usda.gov/treesearch/pubs/50895
+Industrial Forestry Service Ltd. (2015). Wood based biomass in British Columbia and 
+its potential for new electricity generation. Retrieved from BC Hydro https:/ /www.
+bchydro.com/content/dam/BCHydro/customer-portal/documents/corporate/
+regulatory-planning-documents/integrated-resource-plans/current-plan/rou-
+characterization-wood-based-biomass-report-201507-industrial-forestry-service.pdf
+38
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+Jeffries, H.M. & Leslie, T. (2017). Historical perspective on the relationship between 
+demand and forest productivity in the US South. Retrieved from Forest2Market 
+Inc. https:/ /www.forest2market.com/hubfs/2016_Website/Documents/20170726_
+Forest2Market_Historical_Perspective_US_South.pdf
+Jonker, J.G.G., Junginger, M., & Faaij, A. (2014). Carbon payback period and carbon 
+offset parity point of wood pellet production in the South-eastern United States. GCB 
+Bioenergy, 6, 371 – 389. doi: 10.1111/gcbb.12056.
+Jonker, J.G.G., van der Hilst, F., Markewitz, D., Faaij, A.P.C., & Junginger, H.M. (2018).
+Carbon balance and economic performance of pine plantations for bioenergy 
+production in the Southeastern United States. Biomass and Bioenergy, 117, 44 – 55. doi: 
+10.1016/j.biombioe.2018.06.017.
+Jonsson R. & Rinaldi, F. (2017). The impact on global wood-product markets of 
+increasing consumption of wood pellets within the European Union. Energy, 133, 864 – 
+878. doi: 10.1016/j.energy.2017.05.178.
+Laganière, J., Paré, D., Thiffault, E., & Bernier, P.Y. (2017). Range and uncertainties in 
+estimating delays in greenhouse gas mitigation potential of forest bioenergy sourced 
+from Canadian forests. GCB Bioenergy, 9, 358 – 369. doi: 10.1111/gcbb.12327.
+Lang, A. (2016). Wood Bioenergy Update: Q1 2016. Retrieved from Forisk http:/ /forisk.
+com/blog/2016/02/25/wood-bioenergy-update-q1-2016/
+Legislative Assembly of British Columbia. (2002). Forest and Range Practices Act [SBC 
+2002] Chapter 69. Retrieved from http:/ /www.bclaws.ca/civix/document/id/complete/
+statreg/02069_01
+Lemprière, T.C., Krcmar, E., Rampley, G.J., Beatch, A., Smyth, C.E., Hafer, M., & Kurz, W.A. 
+(2017). Cost of climate change mitigation in Canada’s forest sector. Canadian Journal 
+of Forest Research, 47, 604 – 614. doi: 10.1139/cjfr-2016-0348.
+Lemprière, T.C., Kurz, W.A., Hogg, E.H., Schmoll, C., Rampley, G.J., Yemshanov, … Krcmar, 
+E. (2013). Canadian boreal forests and climate change mitigation. Canadian Journal of 
+Forest Research, 21, 293 – 321. doi: 10.1139/er-2013-0039.
+Lindahl, K.B., Stens, A., Sandstrom, C., Johansson, J., Lidskog, R., Ranius, T., & Roberge, 
+J.M. (2017). The Swedish forestry model: More of everything? Forest Policy and 
+Economics 77: 44-55. Retrieved from https:/ /www.sciencedirect.com/science/article/
+pii/S1389934115300605
+Lundmark, H., Joseffson, T., & Ostlund Lars. (2013). The history of clear-cutting in 
+northern Sweden – driving forces and myths in boreal silviculture. Forest Ecology and 
+Management, 307: 112-122. doi: 10.1016/j.foreco.2013.07.003.
+Lundmark, T., Bergh, J., Hofer, P., Lundström, A., Nordin, A., Poudel, B.C., Sathre, R., … 
+Werner, F.  (2014). Potential roles of Swedish forestry in the context of climate change 
+mitigation. Forests, 5, 557 – 578. doi: 10.3390/f5040557.
+Luyssaert, S., Jammet, M., Stoy, P.C. Estel, S., Pongrantz, J., Ceschia, E., … Dolman, 
+A.J. (2014). Land management and land-cover change have impacts of similar 
+magnitude on surface temperature. Nature Climate Change, 4, 389 – 393. doi: 10.1038/
+NCLIMATE2196.
+Matthews, R., Hogan, G., & Mackie, E. (2018). Carbon impacts of biomass consumed 
+in the EU. Supplementary analysis and interpretation for the European Climate 
+Foundation. Retrieved from the European Climate Foundation https:/ /europeanclimate.
+org/new-report-carbon-impacts-of-biomass-consumed-in-the-eu/
+Murray, G. (2018). Canadian Wood Pellet Update. Retrieved from https:/ /www.pellet.org/
+images/2018-06-08_GordonMurray.pdf
+39
+ICCT WHITE PAPER
+National Conference of State Legislatures. (2019). State renewable portfolio standards 
+and goals. Retrieved from http:/ /www.ncsl.org/research/energy/renewable-portfolio-
+standards.aspx
+National Forestry Database. (n.d.a). Wood supply. Retrieved from http:/ /nfdp.ccfm.org/
+en/data/woodsupply.php#_ftn2
+National Forestry Database. (n.d.b). Harvest. Retrieved from http:/ /nfdp.ccfm.org/en/
+data/harvest.php
+National Forestry Database. (n.d.c). Regeneration. Retrieved from http:/ /nfdp.ccfm.org/
+en/data/regeneration.php#tab61
+Nilsson, U., Fahlvik, N., Johansson, U., Lundström, A., & Rosvall, O. (2011). Simulation of 
+the effect of intensive forest management on forest production in Sweden. Forests, 2, 
+373 – 393. doi: 10.3390/f2010373.
+Noss, R.F., Platt, W.J., Sorrie, B.A., Weakley, A.S., Means, D.B., Costanza, J.K., & Peet, R.K. 
+(2015). How global biodiversity hotspots may go unrecognized: lessons from the North 
+American Coastal Plain, Diversity and Distribution 21: 236-244. doi: 10.1111/ddi.12278.
+Poudel, B.C., Sathre, R., Bergh, J., Gustavsson, L., Lundström, A., & Hyvönen, R. (2012). 
+Potential effects of intensive forestry on biomass production and total carbon balance 
+in north-central Sweden. Environmental Science & Policy, 15, 106 – 124. doi: 10.1016/j.
+envsci.2011.09.005.
+Poudel, B.C., Sathre, R., Gustavsson, L., Bergh, J., Lundström, A., & Hyvönen, R. (2011). 
+Effects of climate change on biomass production and substitution in north-central 
+Sweden. Biomass and Bioenergy, 35, 4340 – 4355. doi: 10.1016/j.biombioe.2011.08.005.
+Sathre, R., Gustavsson, L., & Bergh, J. (2010). Primary energy and greenhouse gas 
+implications of increasing biomass production through forest fertilization. Biomass and 
+Bioenergy, 34, 572 – 581. doi: 10.1016/j.biombioe.2010.01.038.
+Searchinger, T., Heimlich, R., Houghton, R.A., Dong, F., Elobeid, A., Fabiosa, J., … Yu, 
+T.-H. (2008). Use of U.S. croplands for biofuels increases greenhouse gases through 
+emissions from land-use change. Science, 29, 1238 – 1240. doi: 10.1126/science.1151861.
+Skogsstyrelsen (Swedish Forest Agency). (n.d.a). Statistics. Retrieved from https:/ /www.
+skogsstyrelsen.se/en/statistics/
+Skogsstyrelsen (Swedish Forest Agency). (n.d.b). 01. Regeneration method as 
+percentage of logged area by region, regeneration method and 3-year average. 
+Retrieved from http:/ /pxweb.skogsstyrelsen.se/pxweb/en/Skogsstyrelsens%20
+statistikdatabas/Skogsstyrelsens%20statistikdatabas__Atervaxternas%20kvalitet/
+JO0311_1.px/?rxid=effee662-86f9-4874-a4e7-dff32e6d7d93
+Skogsstyrelsen (Swedish Forest Agency). (2014). Skogsstatistisk årsbok [Forest Statistic 
+Yearbook]. 2014. Retrieved from https:/ /www.skogsstyrelsen.se/globalassets/statistik/
+historisk-statistik/skogsstatistisk-arsbok-2010-2014/skogsstatistisk-arsbok-2014.pdf
+Smyth, C., Kurz, W.A., Rampley, G., Lemprière, T.C., & Schwab, O. (2017). Climate change 
+mitigation potential of local use of harvest residues for bioenergy in Canada. GCB 
+Bioenergy, 9, 817 – 832. doi: 10.1111/gcbb.12387.
+Smyth, C.E., Smiley, B.P., Magnan, M., Birdsey, R., Dugan, A.J., Olguin, M., … Kurz, W.A. 
+(2018). Climate change mitigation in Canada’s forest sector: a spatially explicit case 
+study for two regions. Carbon Balance Management, 13, 11. doi: 10.1186/s13021-018-
+0099-z.
+Smyth, C.E., Stinson, G., Neilson, E., Lemprière, T.C., Hafer, M., Rampley, G.J., & Kurz, W.A. 
+(2014). Quantifying the biophysical climate change mitigation potential of Canada’s 
+forest sector. Biogeosciences, 11, 3515 – 3529. doi: 10.519/bg-11-3515-2014.
+40
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+Statistics Canada. (2018). Human activity and the environment 2017: Forests in 
+Canada. Retrieved from https:/ /www150.statcan.gc.ca/n1/pub/16-201-x/16-201-
+x2018001-eng.htm
+Statistikdatabas. (n.d.). Annual average prices on delivery logs, SEK per cubic meter 
+solid volume excl. bark by region, assortment and year. Retrieved from http:/ /pxweb.
+skogsstyrelsen.se/pxweb/en/Skogsstyrelsens%20statistikdatabas/Skogsstyrelsens%20
+statistikdatabas__Rundvirkespriser/JO0303_1.px/?rxid=39fc1865-c393-4826-8b70-
+0dd7c217e638
+Strange Olesen, A., Bager, S.L., Kittler, B., Price, W., & Aguilar, F. (2015). Environmental 
+implications of increased reliance of the EU on biomass from the South East US 
+(Report for the European Commission, Directorate General for the Environment, 
+ENV.B.1/ETU/2014/0043). Retrieved from European Union publications https:/ /
+publications.europa.eu/en/publication-detail/-/publication/8005fb30-81e9-4399-
+9b19-01af823fa42d.
+Swedish University of Agricultural Sciences. (n.d.a). Forest statistics. Retrieved from 
+https:/ /www.slu.se/en/Collaborative-Centres-and-Projects/the-swedish-national-
+forest-inventory/forest-statistics/forest-statistics/
+Swedish University of Agricultural Sciences. (n.d.b). Figure 3.30 - Mean annual 
+volume increment, annual drain and annual harvest (1954 - date). Retrieved from 
+http:/ /skogsstatistik.slu.se/pxweb/en/OffStat/OffStat__ProduktivSkogsmark__
+Tillv%C3%A4xt/PS_Tillv%C3%A4xt_tab.px/?rxid=f371330b-e920-432d-858a-
+6a2c2a3c8d85
+Swedish University of Agricultural Sciences. (n.d.c). Productive forest area for different 
+age classes (1923 - date). Retrieved from http:/ /skogsstatistik.slu.se/pxweb/en/OffStat/
+OffStat__ProduktivSkogsmark__Areal/PS_Areal_%C3%A5ldersklasser_1923_tab.
+px/?rxid=f371330b-e920-432d-858a-6a2c2a3c8d85
+Swedish University of Agricultural Sciences. (n.d.d). Figure 4.8 - Annual felling area 
+by felling type (1957-date). Retrieved from http:/ /skogsstatistik.slu.se/pxweb/en/
+OvrStat/OvrStat__Avverkning/AVV_%C3%A5rlig_utf%C3%B6rd_r%C3%B6jning_
+huggningsarter_fig.px/?rxid=c32336fc-c696-4a17-9f2b-274b7f576000
+Swedish University of Agricultural Sciences. (n.d.e). Table 3.1 - Productive forest area for 
+different forest types (1983 - date). Retrieved from http:/ /skogsstatistik.slu.se/pxweb/
+en/OffStat/OffStat__ProduktivSkogsmark__Areal/PS_Areal_best%C3%A5ndstyper_
+tab.px/?rxid=f371330b-e920-432d-858a-6a2c2a3c8d85
+Swedish University of Agricultural Sciences. (n.d.f). Area of comparable land use classes 
+(1923 - date). Retrieved from http:/ /skogsstatistik.slu.se/pxweb/en/OffStat/OffStat__
+AllMark__Areal/AM_Areal_%C3%A4goslag_trad_1923_tab.px/?rxid=f371330b-e920-
+432d-858a-6a2c2a3c8d85
+Ter-Mikaelian, M.T., Colombo, S.J., & Chen, J. (2015). The burning question: Does forest 
+bioenergy reduce carbon emissions? A review of common misconceptions about forest 
+carbon accounting. Journal of Forestry, 113(1), 57-68. doi: 10.5849/jof.14-016.
+Ter-Mikaelian, M.T., Colombo, S.J., Lovekin, D., McKechnie, J., Reynolds, R., Titus, B., … 
+Maclean, H.L. (2015). Carbon debt repayment or carbon sequestration parity? Lessons 
+from a forest bioenergy case study in Ontario, Canada. GCB Bioenergy, 7, 704 - 716. 
+doi: 10.1111/gcbb.12198.
+U.S. Department of Agriculture, Forest Service. (n.d.a). Forest inventory and analysis 
+national program, program features, national assessment – Resources Planning Act 
+(RPA). Retrieved from https:/ /www.fia.fs.fed.us/program-features/rpa/.
+41
+ICCT WHITE PAPER
+U.S. Department of Agriculture, Forest Service. (n.d.b). Forest inventory and analysis – 
+southern research station: State inventory data status. Retrieved from https:/ /www.
+fs.usda.gov/srsfia/states/state_information.shtml.
+U.S. Department of Agriculture, Forest Service. (2012). Timber product output (TPO) 
+reports. Retrieved from http:/ /srsfia2.fs.fed.us/php/tpo_2009/tpo_rpa_int1.php.
+U.S. Department of Agriculture. (n.d.). Major land uses. Retrieved from https:/ /www.ers.
+usda.gov/data-products/major-land-uses.aspx
+U.S. Energy Information Administration (EIA). (2016). Manufacturing facilities with 
+capacity and status, December 2016. Retrieved from https:/ /www.eia.gov/biofuels/
+biomass/?year=2016&month=13
+U.S. Energy Information Administration (EIA). (2018). Monthly densified biomass fuel 
+report. Retrieved from https:/ /www.eia.gov/biofuels/biomass/?year=2018&month=07#
+table_data
+U.S. Environmental Protection Agency (U.S. EPA). (2010). Regulation of fuels and fuel 
+additives: Changes to renewable fuel standard program (p. 14670-14904). Federal 
+Register: EPA-HQ-OAR-2005-0161; FRL-9112-3.
+U.S. Industrial Pellet Association. (2015). Wood supply market trends in the US South. 
+Retrieved from https:/ /www.forest2market.com/uploads/Forest2Market/documents/
+US-South-Wood-Supply-Trends.pdf
+UNECE. (2018). Prices. Retrieved from https:/ /www.unece.org/forests/output/prices.html
+United States Congress. (2018). H.R. 1625 – Consolidated Appropriations Act, 2018. 
+Retrieved from https:/ /www.congress.gov/bill/115th-congress/house-bill/1625
+Wear, D.N. & Greis, J.G. (2013). The southern forest futures project. Retrieved from 
+U.S. Department of Agriculture, Forest Service https:/ /www.srs.fs.fed.us/pubs/gtr/
+gtr_srs178.pdf
+Williams, T. (2018). Recovery: America’s giant squirrel back from the brink. Cool Green 
+Science, The Nature Conservancy: https:/ /blog.nature.org/science/2018/07/24/
+recovery-americas-giant-squirrel-back-from-the-brink/ 
+Wood Pellet Association of Canada. (n.d.). Canadian wood pellet production. Retrieved 
+from https:/ /www.pellet.org/production/production
+World Bank Climate Change Knowledge Portal. (n.d.). Temperature. Retrieved from 
+http:/ /sdwebx.worldbank.org/climateportal/index.cfm?page=downscaled_data_
+download&menu=historical
+Xu, Z., Smyth, C.E., Lemprière, T.C., Rampley, G.J., & Kurz, W.A. (2018). Climate change 
+mitigation strategies in the forest sector: biophysical impacts and economic 
+implications in British Columbia, Canada. Mitigation and Adaptation Strategies for 
+Global Change, 23, 257 – 290. doi: 10.1007/s11027-016-9735-7.
+Zevenhoven, M., Yrjas, P., & Hupa, M. (2010). Ash-forming matter and ash-related 
+problems. In: Handbook of Combustion. Online. Eds.: Lackner, M., Winter, F., 
+Agarwal, A.K., & Lighty, J.S. Part 4. Chapter 14. ISBN: 9783527628148; DOI: 
+10.1002/9783527628148. Retrieved from: https:/ /onlinelibrary.wiley.com/browse/
+book/10.1002/9783527628148/toc
+42
+DOES BIOENERGY DEMAND IMPROVE FOREST MANAGEMENT?
+APPENDIX: METHODOLOGY & LIMITATIONS
+Methodology notes:
+1. Correlations in this study are carried out through Excel’s Regression tool in the Data 
+analysis package. We consider linear regressions to be statistically significant if 
+p<0.05 throughout the study. 
+2. In this study we use multiple data sources, reporting data in multiple units, requiring 
+us to define several conversion parameters. 
+a. Whenever possible we reported data in the unit from the official reporting. 
+However, when necessary, data for wood products in m
+3 were converted to kg 
+through a fixed density of 450 kg/m3. We consider this conversion to produce a 
+measure of dry mass.
+b. Data provided on an energy basis (e.g. MJ or MWh) were converted to dry mass 
+through a fixed heating value of 19 MJ/kg dry.
+c. Prices for all commodities were corrected by inflation through Consumer Price 
+Index official statistics. Prices in Swedish Kroners (SEK) and Canadian Dollars 
+were then converted to euros (2017).
+3. Statistical data from the U.S. Forest Service on forest productivity are in terms 
+of area occupied by forest stands within a certain class of productivity. To make 
+data comparable between different stand compositions, we collated these 
+values into a “productivity index,” a single value for each year representing the 
+weighted average of all productivity classes. To do this, we multiplied the average 
+value of productivity within each class by the area occupied by that specific age 
+class. We then averaged over the whole area for all productivity classes. The 
+highest productivity class is simply reported in U.S. Forest Service’s Resource P 
+assessments as 8.4 m
+3/ha/yr. Furthermore, specific statistics for each state report 
+additional productivity classes up to 15.7 m 3/ha/yr. Based on the latest data 
+available (U.S. Department of Agriculture, Forest Service, n.d.b), we calculate that 
+18% of loblolly-shortleaf pine presents a productivity between 8.4–11.5 m
+3/ha/yr, 9% 
+between 11.6–15.7 m3/ha/yr and 0% above 15.7 m3/ha/yr. Similarly, we find that for 
+hickory-oak stand compositions, only 6% presents productivity between 8.4–11.5 
+m
+3/ha/yr, 1% between 11.6–15.7 m3/ha/yr and 0% above. Therefore, we simplify our 
+calculations by considering for our productivity index that the value for the highest 
+productivity class is equal to 11.2 m
+3/ha/yr for loblolly pine and to 10.6 m 3/ha/yr for 
+oak-hickory stands.
+This approach entails several limitations and is not intended to be used for rigorous 
+calculations, but it serves the purpose of grouping multiple data into a single value, 
+which facilitates our analysis.
+4. Similarly, we calculated an age-class index for the Swedish forests. This index is also 
+a weighted average of the area of Swedish forests characterized by different age 
+classes. To calculate the index we used as weights the average value for each age 
+class, while for the highest class (160+ years) we simply chose the value of 160 years.
+Limitations of the study:
+1. Our evaluation of the main assumptions in the studies reviewed appears in the 
+summary section for each country. The summary tables list: i) the main assumption 
+identified; ii) the objective trend resulting from statistical data; iii) a qualitative 
+43
+ICCT WHITE PAPER
+assessment of the evidence available that the trend may be driven by bioenergy 
+demand; and iv) an explicit link of the trend with the potential consequences for 
+carbon accounting of forest bioenergy. The qualitative assessment is based mainly 
+on the regression analysis results complemented with additional sectoral information 
+as well as by the expertise of the authors and reviewers.
+2. In this study we focus solely on carbon accounting of forest bioenergy and its role 
+in mitigating greenhouse gas emissions by substituting fossil fuels. However, it is 
+important to remember that forests and forest management can affect the local 
+and global climate also through bio-geophysical forcers, such as changes in surface 
+albedo and evapotranspiration (Alkama & Cescatti, 2016; Luyssaert et al., 2014). 
+When we mention the potential role of bioenergy in mitigating climate change, 
+though, it should be interpreted strictly as mitigating greenhouse gas emissions.
+3. Similarly, forest ecosystems provide many services beyond carbon accumulation 
+and provision of wood products (EASAC, 2017). Some of the silvicultural practices 
+assessed in this report have a positive effect on the carbon balance of bioenergy. 
+Nonetheless, they may have negative trade-offs on other ecosystem services, and 
+vice-versa. Even if outside the scope of this report, we recommend a holistic view 
+when assessing potential environmental impacts of bioenergy. 
+4. Data referring to the quantity and type of logging residues collected is unfortunately 
+very scarce globally, for several reasons: 1. Economic interest in residues or non-
+merchantable wood is relatively recent; 2. Once residues are removed from the 
+forest, they are classified as “products” in forest statistics and are often mixed in the 
+definition of “fuelwood,” rendering it impossible to distinguish between slash, whose 
+fate would have been to decay, and logs harvested as fuelwood, whose fate would 
+have been to continue growing. As shown in the chapter on Sweden, efforts for 
+better data collection are being put in place, and it will be easier to verify and check 
+these trends in a few years.
+5. Data from forest inventory in the United States is collected gradually via sample 
+plots across the country and is produced at different periods in different states. 
+Reports on forest resources are produced every five years as mandated by the U.S. 
+Forest and Rangeland Renewable Resources Planning Act of 1974. These reports 
+form the invaluable basis of the historical data presented in this report for the 
+southeastern U.S. region. However, data collated under a specific report year may 
+not correspond to the status at exactly that year and may not be coherent across 
+all states of the region. For example, the RPA report for 2012 includes mainly data 
+collected in 2009 and 2011. This could introduce a time bias in our regression as the 
+price data are, supposedly, reported more closely to when they were collected. We 
+have tried to account for this in our regression analysis by introducing time lags and 
+checking whether the regression remained significant.
+6. On a similar note, price data do not reflect physical quantities and are thus more 
+subject to uncertainty concerning the way they were collected, the services included, 
+the geographical coverage, and other factors. We tried to find the best available 
+data series, but it is possible that differing series could be found in the literature.

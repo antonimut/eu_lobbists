@@ -1,0 +1,189 @@
+1 
+ 
+Deutscher Verkehrssicherheitsrat                                                   2017 
+ 
+ 
+ 
+ 
+ 
+Erhöhung der Verkehrssicherheit durch  
+Vehicle-2-X-Kommunikation 
+ 
+Beschluss vom 08. November 2017 auf der Basis einer Empfehlung des Vor-
+standsausschusses Fahrzeugtechnik 
+ 
+ 
+Präambel 
+ 
+Intelligente und vernetzte Verkehrssysteme können zur Steig erung der Ve r-
+kehrssicherheit beitragen. Zu den intelligenten und vernetzten Verkehrssy s-
+temen zählen auch Vehicle-2-X1-Anwendungen, bei denen der drahtlose I n-
+formationsaustausch zwischen Verkehrsteilnehmenden bzw. zwischen den 
+Verkehrsteilnehmenden und der Infrastruktur zur Umsetzung neuartiger 
+Funktionen genutzt wird. Im Rahmen verschied ener nationaler und in ternati-
+onaler Forschungsprojekte wu rden bereits verschiedene Vehicle-2-X-
+Anwendungen entw ickelt. Diese unterscheiden sich stark hinsichtlich der 
+Funktion. So werden je nach Anwendung unterschiedliche Situati onen – von 
+der unmittelbaren Gefahrensituation bis zur einfachen Informationsbereitstel-
+lung – und verschiedene Arten von Verkehrsteilnehmenden adressiert. Darü-
+ber hinaus ko mmen auch unterschiedliche Arten der Informationsbereitste l-
+lung und verschie dene Kommunikationsarten (z.B. p WLAN2, Mobilfunk) zw i-
+schen den beteiligten Verkehrsteilnehmenden bzw. diesen und der Verkehrs-
+infrastruktur zum Einsatz. 
+ 
+ 
+ 
+ 
+Hintergrund 
+                                                 
+1 Der Begriff „Vehicle-2-X“ soll hier die automatisierte Informationsübertragung zwischen Fahr-
+zeugen mit derzeitigem Fokus auf Pkw, Einsatz- bzw. Rettungsfahrzeuge, Nutzfahrzeuge und 
+Motorräder bezeichnen, wobei neben den Kraftfahrzeugen auch Fahrräder oder zu Fuß Gehen-
+de mit entsprechender elektronischer Ausrüstung gemeint sein können sowie andere Fahrzeu-
+ge oder die Straßeninfrastruktur.  
+2 pWLAN ist ein speziell entwickelter technischer Standard für die Fahrzeugkommunikation. Informati-
+onen über kurzfristig entstehende Verkehrsrisiken werden innerhalb von wenigen Millisekunden mit 
+dem lokalen Umfeld ausgetauscht. 
+Ref. Ares(2021)780205 - 30/01/2021
+2 
+ 
+ 
+Ziel ist es, Unfälle zu verhindern oder sie in den Auswirkungen zu reduzieren. 
+Ein automatisiert ablaufender Kommunikationsprozess zu sicherheitsrelevan-
+ten Informationen kann das Ziel dadurch erreichen, dass solche Informati o-
+nen frü hzeitig übermittelt werden, damit rechtzeitig reagiert werden kann. 
+Eine Reaktion kann entweder durch den Fahrzeug Führenden oder durch 
+das Fahrzeugsystem sel bst erfolgen. Dies ist von der Gefahrensituation a b-
+hängig, die verhindert we rden soll. So sind z.B. die Anforderungen an Info r-
+mationen über einen vorausl iegenden Stau weniger zeitkritisch als die über 
+einen unmittelbar bevorstehenden Zusammenstoß in e inem Kreuzungsbe-
+reich.  
+ 
+Der DVR sieht ein großes Unfallvermeidungspotenzial besonders bei solchen 
+Anwendungen, die unmittelbare Gefahrensituationen durch schnelle Informa-
+tionsübertragung im Wesentlichen durch eine Warnung an den Fahrzeug  
+Führenden adressieren. Im zweiten Schritt können die Informationen die 
+Qualität der fahrzeugautarken Funktionen (z.B. Gefahrenbremsung) verbes-
+sern. Um solche besonders effektiven Sicherheitsfunktionen umsetzen zu 
+können, muss die gesamte Pr ozesskette definierten funktionalen Siche r-
+heitsanforderungen genügen. 
+ 
+Datensicherheit und Datenschutz sind zu gewährleisten. 
+ 
+Bei der Umsetzung dieser kommunikationsbasierten  Fahrzeugsicherheits-
+funktionen, die Unfälle vermeiden oder den Fah rzeug Führenden noch eben 
+vor der Kollision warnen, soll die angewandte Kommunikationstechnologie in 
+der Lage sein, 
+ Daten in Echtzeit bereitzustellen (Latenz für Übertr agung <3ms bei 
+Gesamtkommunikationslatenz von maximal 100 ms), 
+ bei car -to-car-Anwendungen überall und jederzeit zur Verfüg ung zu 
+stehen,  
+ Reichweiten von mindestens 300 m zu erfüllen, 
+ einen Bereich von 360° rund um das Fahrzeug abzudecken, 
+ internationalen Standards zu entsprechen, um Fahrze uge unte r-
+schiedlicher Hersteller sowie die Infrastruktur einbeziehen zu können, 
+ die Funktionalität über die Fahrzeuglebensdauer ohne zusätzliche lau-
+fende Kommunikationskosten für den Fahrzeughalter bereitzustellen 
+und 
+ dringliche Sicherheitsnachrichten zu priorisieren.  
+3 
+ 
+Dass solche Technologien zur Erhöhung der Verkehrssiche rheit bereits jetzt 
+eingesetzt werden können, konnte das nati onale Projekt SIM TD (Sichere 
+Intelligente Mobilität – Testfeld Deutschland) bereits 2013 zeigen. In dem bis-
+lang größten Feldversuch zur Vehicle-2-X-Kommunikation wurde erstmals 
+eine kooperative Verkehrszentrale aufgebaut. Diese war mit den Verkehr s-
+zentralen eines Bundeslandes über standard isierte Schnittstellen vernetzt 
+und kommunizierte mit über 100 Roadside Stations  und 120 Fahrzeugen. 
+Zentrales Erge bnis dieses P rojektes war, dass die verwendete Technologie 
+unter Alltagsbedingung ihre Tauglichkeit bewiesen hat. Es konnte gezeigt 
+werden, dass zusätzliche Fahrerassistenzsysteme, wie das elektronische 
+Bremslicht, der Querverkehrsassistent und der Verkehrszeichenassis tent für 
+Stoppschilder zusätzliche S icherheit im Verkehr schaffen.  Mithilfe der 
+GIDAS-Unfalldaten konnte für diese drei Anwendungsfälle ein maximales 
+Wirkfeld3 im Unfallgeschehen von 33 % nachgewiesen werden.4  
+ 
+Der 2015 gestartete „ kooperative ITS Korrido r“ in den Niede rlanden, 
+Deutschland und Österreich trägt den Gedanken weiter und soll zukünftig per 
+Kommunikationstechnologie Ba ustellensperranhänger auf Autobahnen mit 
+dem umgebenden Verkehr kommunizieren lassen, um die Verkehrssicherheit 
+zu erhöhen, indem Auffahrunfälle im Baustellenbereich vermieden werden.5,6 
+ 
+In einer Studie der Unfallforschung der Versicherer konnte anhand von re a-
+len Unfalldaten gezeigt werden, dass die M otorradsicherheit speziell von 
+Sicherheitsfunktionen profitieren würde, die auf d er Grundlage von echtzei t-
+fähiger Kommun ikationstechnologie zwischen den Menschen und der Infra-
+struktur realisiert wird. So wären ein Kreuzungsassistent, ein 
+Linksabbiegeassistent und ein Kurvenwarner in der Lage, mehr als 50% der 
+schweren Motorradunfälle mit Persone nschaden positiv zu beeinflussen. 7 
+Angesichts des hohen Flo ttenalters und der langen Lebens dauer insbeson-
+dere von Moto rrädern sollen auch Nachrüstlösungen in Betracht g ezogen 
+werden.  
+  
+                                                 
+3Wirkfeld bezeichnet die durch die Systeme adressierbaren Unfälle bezogen auf alle Unfälle 
+in Deutschland  
+4 Sichere Intelligente Mobilität – Testfeld Deutschland: Deliverable D5.5, TP5-
+Abschlussbericht – Teil A, 30.06.2013. 
+5 Harrer et al. (2016): Europe’s C-ITS Corridor paves the way for C2X. ITS International, 
+ROUTE ONE Publishing Ltd. Mai/Juni 2016, London. 
+6 Offizielle Projekthomepage; http://c-its-korridor.de. 
+7 Lindenau, Kühn (2014): Intelligente Systeme zur Verbesserung der Motorradsicherheit. 
+Unfallforschung kompakt Nr. 45, Unfallforschung der Versicherer, Berlin. 
+ 
+4 
+ 
+Beschluss 
+ 
+Um die zusätzlichen Sicherheitspotenziale zu erschließen, empfiehlt der DVR: 
+ Zur Erhöhung der Verkehrssicherheit soll die echtzeitfähige Kommuni-
+kation zwischen Verkehrsteilnehmenden bzw. zwischen diesen und 
+der Infrastruktur mit Priorität umgesetzt  werden. Dabei sollen  unbe-
+dingt die Erkenntnisse aus bereits durchgeführten Feldversuchen g e-
+nutzt werden. Datensicherheit und Datenschutz sind zu gewährleisten. 
+ Die verwendete Kommunikationstechnologie soll dabei in der Lage 
+sein, die folgenden Anforderungen zu erfüllen: 
+o Daten in Echtzeit bereit stellen (Latenz für Übertr agung <3ms 
+bei Gesamtkommunikationslatenz von maximal 100 ms) 
+o Bei car -to-car-Anwendungen überall und jederzeit zur Verf ü-
+gung stehen  
+o Reichweiten von mindestens 300 m erfüllen 
+o Einen Bereich von 360° rund um das Fahrzeug abdecken 
+o Internationalen Standards entsprechen, um Fah rzeuge unte r-
+schiedlicher Hersteller sowie die Infr astruktur einbeziehen  zu 
+können 
+o Die Funktionalität über die Fahrzeuglebensdauer ohne zusätzl i-
+che laufende Kommunikationskosten  für den Fahrzeughalter 
+bereitstellen 
+o Dringliche Sicherheitsnachrichten priorisieren  
+ Die umzusetze nden Sicherheitsfunktionen soll en sich am realen U n-
+fallgeschehen orientieren und sich nicht nur auf den Pkw beschränken. 
+Vor allem motorisierte Zweiräder und Einsatz- bzw. Rettungsfahrzeuge 
+sollen von Beginn an von dieser Technologie profitieren.  
+ Die folge nden Sicherheitsfunktionen soll en dabei mit Priorität umg e-
+setzt werden, da sie bereits ihre Wirkung und Alltagstauglichkeit in 
+Feldtests belegen konnten: 
+o Elektronisches Bremslicht 
+o Querverkehrsassistent 
+o Verkehrszeichenassistent für Stoppschilder 
+Weitere sinnvolle Sicherheitsfunktionen sind: 
+o Linksabbiegeassistent  
+o Kurvenwarner für Motorräder 
+o Assistent „Rettungsfahrzeug naht“ 
+  
+5 
+ 
+ Da die Wirksamkeit der Verkehrssicherheitsfunktionen mit der Anzahl 
+der Nutze nden steigt, soll en möglichst schnell viele Fahrzeuge bzw. 
+Verkehrsteilnehmende mit der entsprechenden Technologie ausg e-
+stattet werden. Es sollen auch Nachrüstlösungen in Betracht gezo gen 
+werden, z.B. für Motorräder.  
+ Euro NCAP soll  die Vehicle-2-X-Technologie mit Nac hdruck behandeln 
+und ins Bewertungsschema aufnehmen.  
+ 
+ 
+ 
+ 
+gez. 
+Dr. Walter Eichendorf 
+Präsident 

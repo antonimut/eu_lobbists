@@ -1,0 +1,337 @@
+1 
+ 
+EU Transparency register n. 24037141789-48 
+ 
+Brussels, March 13, 2026 
+ 
+Intesa Sanpaolo Position Paper on the Proposal for a Digital Omnibus on AI  
+and Digital Omnibus Regulation 
+ 
+Digital Omnibus on AI 
+ 
+Introduction 
+ 
+Intesa Sanpaolo welcomes the European Commission (EC) proposal “Digital Omnibus on AI”, as the 
+need for simplification and clarification of the AI regulatory framework is urgent.  
+Overall, w e fully support the EC’s commitment to a clear, simple and innovation -friendly 
+implementation of the AI Act, as outlined in the Regulation’s Explanatory Memorandum. We also 
+welcome the EC’s ongoing efforts to provide additional guidance , offering practical instructions for 
+applying AI Act. 
+ 
+However, we would like also to share several concerns, as follows: 
+ 
+1. Definition of “AI system” 
+ 
+We would like to reiterate our concerns about the current definition of “AI system” provided by the 
+AI Act under Art.3 (1). This is excessively complex and operationally burdensome, making it difficult 
+for stakeholders to consistently determine whether a given system falls within the regulatory scope. 
+Existing guidance brought by the EC’s Guidelines on the definition of an AI system has not provided 
+sufficient clarity, for instance, with regards to the concept of “inference”. Further clear guidance on 
+the practical application of the definition is needed to enable immediate and consistent 
+identification of AI systems in scope,  regardless of sector or technical ecosystem in which they are 
+used. We therefore c all for binding guidance to clarify the scope of this definition, and formally 
+exclude traditional statistic models (e.g., linear/logistic regression) which are not capable of 
+performing inference as defined by Art.3(1) and Recital 12.  
+ 
+2. Application date for high-risk AI systems under Annex III 
+ 
+As noted in the Digital Omnibus on AI, effective implementation has been impacted by “delays in 
+designating national competent authorities and conformity assessment bodies, as well as a lack of 
+harmonised standards for the AI Act’s high-risk requirements, guidance, and compliance tools” (see 
+pg.2, Explanatory Memorandum). We appreciate this acknowledgement, and we generally support 
+the proposal for an extension of the application date for high -risk AI systems under Annex III  in 
+consideration of the absence of detailed guidance and standardization , which are necessary for 
+the practical implementation of High-risk AI obligations.  
+However, to provide market operators with a predictable timeline , we strongly suggest setting 
+December 2027 as the postponed application date, thus deleting the transitional period of 6 months 
+which leads to uncertainty, additional complexity, and it nullifies the purpose of simplification brought 
+by Digital Omnibus itself. Moreover, we also request a clear and predictable timeline for the 
+publication of Guidelines, Code of practise and standards (CEN/CENELEC) by the end of 2026 and 
+the inclusion of a mechanism for further extension , if guidance is not available by this deadline. 
+Ref. Ares(2026)2743928 - 13/03/2026
+
+2 
+ 
+Considering that the possible use of high -risk AI systems under Annex III by business operators will be 
+accompanied by the necessary safeguards, additional time might be useful from an operational 
+perspective (e.g., technical documentation and record-keeping purposes). 
+ 
+Finally, it is worth noting that the postponement covers only Chapter III Sections 1, 2 and 3, but there 
+are obligations for High-risk AI systems which are prescribed outside the referred chapter, such those 
+prescribed by Chapter IX (including monitoring, incident information sharing, and remedies). To 
+ensure coherent application of such requirements, we request the postponement to be applicable 
+to all High-risk AI obligations. 
+ 
+3. Overlapping with sectoral laws 
+ 
+While we welcome the horizontal simplification efforts of Omnibus, we regret that duplication of 
+relevant provisions between the AI Act and the financial sector legislation remain, in particular with 
+regard to the interplay between the prudential framework applicable to IRB models (i.e. CRR/CRD 
+and second level legislation) and the AI Act. Please see the Annex at the end of this position paper. 
+ 
+4. Registration requirement 
+ 
+While we understand the need  to remove the registration requirement for non -high-risk systems 
+(Art.6(4)) following the self -assessment of the provider according to Art.6(3)  as it could be seen as 
+too onerous, we are seriously concerned that under the revised Article 6(4), providers relying on the 
+registration exemption would not be required to proactively inform deployers of their self-assessment 
+that the AI system is no high-risk. We would therefore strongly recommend maintaining (more limited) 
+transparency obligations, requiring providers relying on  Article 6(3) exemption to proactively 
+communicate their se lf-assessment (or a summary thereof) and reasoning to deployers before the 
+system is provided to them. Indeed, we deem it crucial to strengthen deployers’ safeguards to avoid 
+any knowledge gap, since deployers may unknowingly implement what could potentially be a high-
+risk AI system, thereby incurring in compliance obligations and liability under the AI Act without being 
+aware of this risk.  Moreover, transparency provisions are essential for the data controller to comply 
+with their accountability obligations under the GDPR  (please also refer to the Joint Opinion EDP B-
+EDPS 2026/1). 
+ 
+5. GPAI liability in the supply chain 
+ 
+We urge the EC to provide standardized contractual clauses (SCCs) at EU level for the 
+implementation of the provider s’ obligations towards both downstream providers and deployers , 
+and which are currently available only for the Public Administration. SCCs should be mandatory; they 
+should not be waived by the GPAI providers and built on those  ones already available under the 
+GDPR. 
+ 
+6. Alignment between GDPR and AI Act; DPIA and FRIA 
+ 
+We ask for recognizing the GDPR as the main personal data framework for the AI Act  (thus making 
+the GDPR as “lex specialis” of the AI Act)  promoting joint guidance to align assessments, templates 
+and methodologies to comply with art. 9 (risk management system) and art. 27 (FRIA) of the AI Act 
+and art. 35 (DPIA) of the GDPR. 
+On the DPIA and FRIA, we advocate for an “Evaluative Interoperability” approach rather than a full 
+merger of the Data Protection Impact Assessment (DPIA) under Art . 35 of the GDPR and the 
+Fundamental Rights Impact Assessment (FRIA), under Art.27 (4).  While we support the development 
+of a consistent underlying methodology, we believe the two assessments should remain distinct. This 
+modularity allows different specialized departments within a financial institution (e.g., DPO, Risk 
+Management, Compliance ) to maintain their evaluative autonomy and accountability, while 
+3 
+ 
+simultaneously streamlining the process through a 'cross -referencing' mechanism. By allowing the 
+FRIA to 'borrow' technical descriptions and data-flow insights from the DPIA (and vice versa regarding 
+bias and fairness metrics), institutions can avoid the d uplication of efforts and ensure that each 
+fundamental right is analysed with the necessary depth and specific expertise. This approach is also 
+more aligned with the CJEU’s jurisprudence, which recognizes the distinct nature of the various rights 
+enshrined in the Charter. 
+ 
+7. Machine-readable markers in AI-generated output  
+ 
+We ask to align the applicability deadlines for machine -readable markers in AI -generated content 
+with those set for high-risk AI systems given that implementation depends on forthcoming Commission 
+guidance, technical specifications and the sectoral Code of Conduct (par. 30, amending Art.111 of 
+the AI Act). 
+ 
+8. Training of the human overseers 
+ 
+While we acknowledge the EDPB/EDPS concerns regarding AI literacy, we maintain that while large 
+enterprises are equipped to develop internal training, SMEs require coordinated support from 
+Member States and the AI Office to establish comprehensive and safeguarding training frameworks. 
+However, we recommend a clear distinction for human oversight training. Specifically, training for 
+human overseers should remain the responsibility of individual companies. This training must be 
+recognized as distinct from gen eral AI literacy, given its highly interdisciplinary nature and its 
+alignment with the concept of 'moral intellect' as promoted within the AI Pact framework . 
+ 
+Digital Omnibus Regulation 
+ 
+GDPR 
+ 
+9. Definition of Personal Data 
+ 
+We welcome the European Commission’s proposal to clarify  that data will not be considered 
+personal from the perspective of an entity whe re that entity cannot identify the natural person to 
+whom the information relates , considering the means “reasonably likely to be used” by the same 
+entity. This seems to potentially apply to pseudonymized data (e.g., Jack Doe becoming John Smith) 
+but also to data that can be considered “partial” (e.g., IP address with the last octet removed) 
+because in both cases the receiving entity might not have the additional information nee ded to 
+identify the natural persons.  Therefore, we kindly request confirmation that both scenarios would be 
+potentially relevant under the new definition of personal data. Also, while this provision comes from 
+a ruling by the Court of Justice of the European Union, its practical interpretation and implementation 
+may require companies to perform an additional assessment on a case-by-case basis. Therefore, we 
+support further regulatory Guidelines, as envisaged by the newly proposed art. 4 (1)a GDPR, to 
+provide clarifications on the actual implementation of the new definition of personal data.  
+ 
+10. Legitimate Interest as a legal basis to develop and operate AI systems  
+ 
+We welcome the provision under the n ew Article 88c , regarding the explicit confirmation that 
+legitimate interest under Article 6(1)(f) GDPR may be relied upon for AI development and operation 
+(as supported by EDPB and EDPS in their Joint Opinion 2/2026 p. 16). However, we would appreciate 
+clarification on if only this legal basis would require additional safeguards  (described in the second 
+paragraph of the Article 88c) and if so, we recommend seeing this clarification included in a Recital 
+rather in an Article. Finally, we propose to delete the expression  “where appropriate”  because it 
+would have the effect of decreasing rather than increasing legal certainty. 
+ 
+4 
+ 
+11. Processing of Special Categories of Personal Data  
+ 
+We welcome the introduction of a derogation from the prohibition on processing special categories 
+of personal data in the context of the development and operation of AI systems. Nonetheless to 
+ensure legal certainty  we would also welcome further guidance on the related safeguards, with a 
+view to ensuring that they remain proportionate and do not result in a limitation to the practical 
+applicability of the derogation. 
+Furthermore, w e call for a clear extension of the Art. 4a  (1) of Digital Omnibus ’s AI legal basis for 
+processing special categories of personal data to all AI Systems for the mitigation of discrimination 
+risks, ensuring consistency with the Digital Omnibus AI’s Recital (6), which states that it should apply 
+to “other AI systems and AI models as well as deployers of high -risk AI systems" (while Art. 4a(1) uses 
+the wording “may apply”) and ensuring legal certainty and consistency with the GDPR. 
+ 
+12. Processing of Biometric Data for Confirming the Identity of a Data Subject  
+ 
+We welcome the introduction of a derogation allowing the processing of biometric data for the 
+purpose of confirming the identity of a data subject. To further strengthen legal certainty and ensure 
+consistent requirements at the intersection of AI and data protection regulations, we would welcome 
+clarification on the following points: (1) the precise scope of the definition of “biometric data” under 
+both the GDPR and the AI Act; (2) the distinction between the concepts of “verification” and “unique 
+identification”; and (3) the correct interpretation of the phrase “under the sole control of the data 
+subject”. For instance, for verification and authentication purposes, controllers usually engage with 
+processors to carry out identity verification. 
+To this end, w hile Recital 34 of the Proposal intends to clarify this point (“where the biometric data 
+are securely stored solely at the side of the data subject or are securely stored at the side of the 
+controller”), it is unclear whether data stored by the controller can truly be considered to be "under 
+the sole control of the data subject".  
+ 
+13. Data Breach Notifications 
+ 
+We support the extension of the data breach notification deadline, the introduction of a single-entry 
+point and the development of a common notification template by the EDPB together with a list of 
+the circumstances in which a personal data breach is likel y to result in a high risk to the rights and 
+freedoms of a natural person. We propose to align, to the greatest possible extent, the definitions of 
+notifiable data breaches and/or security incidents across the European legislation (e.g. GDPR, CER 
+Directive, DORA and NIS II Directive), to ensure a consistent application and reduce administrative 
+and procedural burdens.  Thereby fostering the harmonisation, simplification and efficiency of 
+regulatory reporting processes. 
+We highlight, however, that from a practical and legal -certainty perspective, an hour -based 
+deadline remains problematic, especially for incidents that occur on Fridays or immediately before 
+public holidays. We therefore suggest aligning the calculation of  the notification period with 
+Regulation No1182/71, expressing time limits in working days (as opposed to hours) and automatically 
+rolling over a deadline expiring on a Saturday, Sunday or public holiday to the next working day. This 
+would enable controllers to comply with the legal requirements while ensuring that investigations and 
+internal clarifications can be carried out with the necessary quality.  
+If co-legislators do not find it feasible, then the 96-hour deadline should instead be defined in business 
+hours, which would provide companies with a greater margin of action.  
+ 
+14. Transparency Obligations 
+ 
+With regard to controllers’  obligation to inform data subjects about the processing of their personal 
+data, and the possibility to waive this obligation where there are reasonable grounds to assume that 
+the data subject already has the relevant information (art. 3 par. 5 Digital Omnibus), we support the 
+5 
+ 
+development of further guidelines, with practical examples, to clarify the conditions under which 
+such a presumption of prior knowledge may be considered valid. In particular, we would welcome 
+clarification as to whether the mere publication of the informa tion on the entity’s website may be 
+deemed sufficient, and whether such knowledge may be presumed where the data subject is the 
+direct source of the data.  For example, clarification would be particularly useful in situations involving 
+natural persons connected to a legal entity (such as legal representatives or shareholders), where it 
+could reasonably be presumed that they are all already aware of the information contained in the 
+privacy notice provided to the legal entity. 
+ 
+Cybersecurity 
+ 
+15. Overlap DORA/CRA 
+ 
+We support a banking exemption from the CRA and the recognition of DORA as lex specialis for the 
+financial sector, in line with the approach already adopted under NIS2. Currently, DORA and the 
+Cyber Resilience Act cover the same banking systems and digital infrastructures, creating 
+overlapping requirements - for example in incident notification, where banks must report to multiple 
+authorities under different timelines - rather than improving the resilience. 
+ 
+16. Incident reporting hub 
+ 
+The creation of a Single-Entry Point for incident reporting should be implemented as the sole reporting 
+channel, fully replacing all existing mechanisms and enabling real simplification through a 
+harmonized and standardized model with aligned definitions, thresholds and timelines across DORA, 
+GDPR, NIS2 /CER, CRA, eIDAS and the AI Act . In this regard , the use of the DORA templates as a 
+methodological reference standard for incident reporting  would support in the harmonisation of 
+reporting activities.  Furthermore, to be effective, submissions made through the Single -Entry Point 
+should be fully recognized by national authorities as meeting all reporting obligations, thereby 
+eliminating duplication and preventing the introduction of additional reporting layers.  
+ 
+ 
+ 
+We stand ready to  discuss any of the above issues further  or provide  you with  further 
+information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ANNEX  
+Clarification on the Scope of "High -Risk AI Systems" – Exclusion of approved models used for 
+prudential purposes to calculate credit institutions’ and insurance undertakings’ capital requirements  
+We welcome the opportunity to provide comments on “the Digital Omnibus on AI” (i.e. Regulation 
+EU 2024/1689) and  fully support the Commission’ s commitment to a clear, simple and innovation -
+friendly implementation of AI Act, as outlined in the Regulation’s Explanatory Memorandum.  
+We also appreciate the Commission’s ongoing efforts to  review the EU digital rulebook through the 
+Digital Fitness Check consultation. 
+In this context, this contribution aims to highlight the interplay between prudential requirements, such 
+as those applicable to IRB model (i.e. CRR/CRD and second level legislation) and Regulation EU 
+2024/1689 (i.e. “AI Act”), with a focus on the classification of credit scoring models 
+Recital (58) of the Regulation EU 2024/689 states th at “AI systems provided for by Union law for 
+prudential purposes to calculate credit institutions’ and insurance undertakings’ capital requirements 
+should not be considered to be high-risk under this Regulation”. 
+At the same time, the AI Act's Annex III, 5.b, currently classifies AI systems used for evaluating the 
+creditworthiness of natural persons as High-Risk.  
+Although recital (58) does not envisage any direct impact of the requirements set out for High-risk AI 
+system on IRB model, the Annex III determines an “indirect substantial effects” on them via the “use-
+test” prudential requirements1.  
+For this reason, in order to ensure legal consistency between the rationale of the Recital and the 
+provision under Annex III, 5, we deem it important to further clarify how these two provisions should 
+apply in situations where the same IRB model used for capital -requirements calculations is also part 
+of the AI system used in the loan-origination process to assess the creditworthiness of natural persons 
+(CWA). We support the general intention to avoid a breach of fundamental rights (introducing 
+unlawful discrimination), nevertheless we consider that a direct application of the AI Act's High-Risk 
+classification to  AI systems used for C WA when they rely on IRB models already employed for 
+prudential capital calculations would generate regulatory overlap and inefficiency, contrary to the 
+simplification principles underpinning the Commission’s proposal. In particular: 
+1. Duplicated Validation Requirements : IRB models are already subject to continuous, rigorous 
+validation and approval by the European Central Bank (ECB) , in its capacity as the primary 
+prudential supervisor, or by National Competent Authorities (NCAs). 
+2. Regulatory Redundancy: Classification as high-risk under the AI Act would impose a second, 
+extensive validation regime, resulting in significant regulatory overlapping without adding 
+substantial safeguards, as the ECB's validation process is extremely robust 2. 
+3. Additional administrative burdens : the co -existence of multiple authorities 
+(prudential/conduct authorities and Market Surveillance Authorities - MSAs) supervising 
+financial entities would further increase compliance complexity for financial institutions. 
+To promote regulatory efficiency, consistency, and align the legal text with the stated intent of 
+Recital 58, we propose a targeted amendment to Annex III, point 5(b ) and 5(c) of the AI Act. The 
+proposed amendment adds an explicit exception for AI systems that utilize approved models  for 
+ 
+1 Cfr. Regulation EU 575/2013 article 144 par. 1(b): “internal ratings and default and loss estimates used in the 
+calculation of own funds requirements and associated systems and processes play an essential role in the risk 
+management and decision-making process, and in the credit approval, internal capital allocation and 
+corporate governance functions of the institution” 
+2 Cfr. “AI act: implications for the EU banking and payment sector” (EBA 21/11/2025) 
+7 
+ 
+prudential purposes  to calculate credit institutions’ and insurance undertakings’ capital 
+requirements. 
+Additional clarifications in the forthcoming “Guidelines on the practical application of High -Risk 
+system classification” (Article 96 of Regulation EU 2024/1689) would also be welcome. 
+ 
+Proposed Amended Text of Annex III: 
+5. Access to and enjoyment of essential private services and essential public services:   
+(b) AI systems intended to be used to evaluate the creditworthiness of natural persons or 
+establish their credit score, with the exception of AI systems used for the purpose of detecting 
+financial fraud and where these AI systems are not based on approved IRB model s used for 
+prudential purposes to calculate credit institutions’ and insurance undertakings’ capital 
+requirements. 
+(c) AI systems intended to be used for risk assessment and pricing in relation to natural persons 
+in the case of life and health insurance and where these AI systems are not based on 
+approved models to calculate insurance undertakings’ capital requirements . 
+ 
+This action supports the goals of the Digital Omnibus Simplification by removing regulatory 
+duplication and ensuring that the AI Act focuses its oversight on novel, less -regulated systems, while 
+respecting the robust risk management framework already supervised by the ECB. 
+ 
+ 
+ 

@@ -1,0 +1,325 @@
+December 2019 0
+Example of Ship Finance with CPRI for an AIRBA Bank 
+100
+mln
+80 mln
+Ship value Loan Principal
+Collateral value 
+100 mln 
+Loan Principal 
+40 
+mln
+40 
+mln
+Clean 
+Portion
+Insured 
+Portion
+•Value of ship:  100 mln
+•Loan amount:  80 mln
+•LTV:  80%
+•CPRI Amount:  40 mln (50% 
+Indemnity)
+• 7 year tenor
+• Amortising with balloon of 
+60% 
+• 40% haircut: secured loan 
+portion of 60m (75% of the 
+principal)
+80% 
+LTV
+Ref. Ares(2020)1329461 - 03/03/2020
+December 2019 1
+AIRBA Method 1
+80M LOAN PRINCIPAL
+Unsecured
+LGD of 
+Obligor
+Clean 
+portion
+10m 10m
+30m 30mSecured
+LGD of
+Obligor
+Insured
+portion
+• PD = PD of loan across the whole piece 
+(modelling approach)
+• Any cover affects LGD only subject to Risk 
+Weight Floor (RWF) test (modelling 
+approach). That said, the RWF Test may 
+result in full substitution with PD & LGD of 
+insurer (when floor applies). 
+• CPRI covers 50% of loan so the 20mln 
+“unsecured” loan portion is covered by 
+10mln CPRI  (although after possible 10% 
+haircut on insurer, this becomes 9mln)
+• (*): RWF test compares RW of unsecured 
+loan vs RW of loan to CPRI provider and 
+takes the higher of the two 
+• (**): Some banks may not take the benefit 
+of double cover on the secured and 
+covered 30mln piece although the EBA has 
+since clarified the principle in this year’s 
+consultation. 
+• On the clean side, there is typically 1 LGD 
+on the 40mln piece as a blend between a 
+secured and an unsecured recovery
+LGD of Insured Loan. 
+Subject to RWF Test 
+(unsecured vs 
+unsecured)*
+LGD of Insured and 
+Secured Loan. Subject 
+to RWF Test (secured 
+vs secured)** 
+December 2019 2
+AIRBA Method 2
+80M LOAN PRINCIPAL
+LGD & PD of 
+Obligor
+Clean 
+portion
+10m 10m
+30m 30m
+LGD & PD of 
+Obligor
+Insured
+portion
+PD of Insurer
+LGD of insurer
+PD of insurer
+LGD of Secured 
+Obligor
+• Insured portion gets the benefit of the PD 
+of insurer (substitution approach)
+• This is in line with Finalised Basel 3 and 
+recognises the insurance as the first 
+recourse for the bank.  
+• Insured portion gets best LGD of both. In 
+this case, the secured LGD will be chosen. 
+In case of an unsecured corporate, the 
+choice may be less obvious. If LGD of 
+insurer was chosen, then the substitution 
+approach would be complete and as 
+recommended by the CRR
+• Method 2 reflects the existence of double 
+covers (if the insurance fails, the mortgage 
+still exists)
+• Method 2 is simpler than the application of 
+RWF tests, especially when these tests 
+need to take into account a multiplicity of 
+covers.
+• Both methods 1 & 2 are conservative 
+compared to the reality, which is in effect 
+double default and combination of 
+recoveries:   
+𝑃𝐷2 𝑎𝑛𝑑 ∑ 1 − 𝐿𝐺𝐷
+December 2019 3
+AIRB / FIRB Approach
+80M LOAN PRINCIPAL
+LGD and PD 
+of Obligor
+Clean 
+portion
+10m
+30m 30mLGD and PD 
+of Obligor
+Insured
+portion
+• The clean portion follows the Revised AIRB 
+(RIRB) approach whereas the insured portion 
+follows the Foundation IRB (FIRB) approach.
+• The haircut for ship finance is prescribed at 
+40% under finalised Basel 3. This means that 
+when a loan is 60% LTV or less, it is fully 
+secured from an RWA perspective. 
+• The RIRB approach is equivalent to the current 
+AIRB approach except for LGD or PD input 
+floors. 
+• In this case, the LTV is high and the input floor 
+does not bite but at 70% or 60%, the 15% LGD 
+floor would kick in. 
+• Finalised Basel 3 implies a substitution 
+approach. Therefore, on the insured side, we 
+apply the PD of the insurer. 
+• Applying the logic suggested by the EBA in its
+guidelines, we apply a mix of secured and 
+unsecured prescribed LGDs, being 25% and 
+45%. 
+• In the present case, we end up with a blended 
+LGD of 30%
+PD of insurer + 
+prescribed 
+secured LGD of 
+25%
+PD of insurer + 
+prescribed 
+unsecured LGD 
+of 45%
+10m
+December 2019 4
+SA Approach
+80M LOAN PRINCIPAL
+Clean 
+portion
+40m 40m
+RW of 
+Secured 
+Obligor 
+(100%)
+Insured
+portion
+RW of 
+unsecured 
+Insurer (30%)
+• The Standardised Approach (SA) is a simple 
+approach, which is already used by many banks 
+now. 
+• No PD or LGD concept here. Just risk weights 
+(RW).
+• IRB banks will get a discount under finalised 
+Basel 3 framework (from 50% in 2022 to 27.5% 
+in 2027).
+• The Risk Weight of the unsecured insurer can 
+either be 30% for (A-rated insurers) or 20% (for 
+AA-rated insurers)
+• No concept of double cover on the loan (the 
+mortgage on the ship is completely ignored) but 
+given the high risk weight on the clean portion, 
+there is significant capital relief on the insured 
+portion
+December 2019 5
+Example of ship mortgage at 80% LTV + 50% credit insurance
+Summary Table
+Scenario No 
+Insurance
+(A)
+AIRB 
+Method 1 
+(B)
+AIRB 
+Method 2 
+(C)
+RIRB / FIRB
+(D)
+SA  (SA Floor)
+(E)
+PD 0.44% 0.35% 0.05% 0.05% N/A
+LGD 18.58% 13.33% 18.58% 30% N/A
+RW on 
+insured 
+portion
+41.3% 16.3% 14.8% 23.8% 30%
+RW on 
+Whole 
+Loan
+41.3% 28.8% 28.1% 32.6% 65% (32.5% in 
+2022 - 47% in 
+2027)
+Assumptions: Underlying loan BB+; Insurer A+
+December 2019 6
+Conclusions from the summary table
+• Column A: Under AIRBA, an 80% LTV mortgage loan for a ship attracts a RW of around 40% without 
+insurance, which is much better than 100% under Standardised Approach. 
+• Columns B and C: when applying credit insurance on top of the mortgage, we obtain lower but still 
+relatively conservative RWs of around 15%. That said, given that most of the margin goes to the insurer, 
+a 25% gain in RWA is not necessarily RoE-enhancing.
+• Column D: 30% is the result of the blend between 25% secured portion and 45% unsecured portion. 
+Assuming this is correct, it ensues that a 60% LTV mortgage loan will be at 25% LGD and there will be no 
+benefit attached to the insurance. By contrast, an unsecured loan will be treated entirely at 45% LGD. 
+The next tables will show these examples.  
+• Column D: the jump in RW is not extremely significant between current practice and FIRBA method but 
+this is because there is a mortgage and the loan is high LTV. The gain in RWA becomes 17.5% down 
+from 25%. So, at equivalent insurance cost, the RoE declines further
+• Column E: interestingly, the starting SA floor is nearly equivalent to the FIRBA method. So, from 2023 
+onwards, SA will be the binding constraint. By 2027, SA will have negated any benefit from credit 
+insurance and the RW will be higher than the mortgage loan without insurance. This is because there is 
+no double cover benefit whatsoever under SA. 
+• One could take more insurance to counter this: at 75% insurance, the max RW is 34% under SA. It 
+reduces the negative effect of FIRB and slows the effect of the SA floor but it is more costly. 
+Example of a ship mortgage at 80% LTV + 50% credit insurance
+December 2019 7
+Example of ship mortgage at 60% LTV + 50% credit insurance
+Other Examples
+Scenario No 
+Insurance
+(A)
+AIRB 
+Method 1 
+(B)
+AIRB 
+Method 2 
+(C)
+RIRB / FIRB
+(D)
+SA  (SA Floor)
+(E)
+PD 0.44% 0.44% 0.05% 0.05% N/A
+LGD 5.19% 5.19% 5.19% 25% N/A
+RW on 
+insured 
+portion
+11.5% 11.5% 4.1% 19.8% 30%
+RW on 
+Whole 
+Loan
+11.5% 11.5% 7.8% 26.5%* 65% (32.5% in 
+2022 - 47% in 
+2027)
+Assumptions: Underlying loan BB+; Insurer A+
+26.5% RW on the whole loan is the average between the insured portion under FIRB (19.8%) and the uninsured portion under RIRB
+(33.2%, which is nearly 3 times more before because of the 15% input floor!).
+December 2019 8
+Example of unsecured corporate loan + 50% credit insurance
+Other Examples
+Scenario No 
+Insurance
+(A)
+AIRB 
+Method 1 
+(B)
+AIRB 
+Method 2 
+(C)
+RIRB / FIRB
+(D)
+SA  (SA Floor)
+(E)
+PD 0.44% 0.05% 0.05% 0.05% N/A
+LGD 35.91% 37.63% 35.91% 45% N/A
+RW on 
+insured 
+portion
+79.8% 30.3% 29% 36.3% 30%
+RW on 
+Whole 
+Loan
+79.8% 55.1% 54.4% 62.6%* 65% (32.5% in 
+2022 - 47% in 
+2027)
+Assumptions: Underlying loan BB+; Insurer A+
+34.2% RW on the whole loan is the average between the insured portion under FIRB (36.3%) and the uninsured portion under RIRB
+(88.9%, based on a 40% corporate unsecured floor).
+December 2019 9
+Conclusions from 2 further examples
+• Unsurprisingly, the example with a conservative LTV at 60% shows a much more favourable RW from 
+the mortgage.
+• Some AIRBA banks may as a result get no further benefit from credit insurance whereas others may 
+obtain further capital relief.
+• The application of finalised Basel III shows a significant uptick in RW from 11.5% to 19.8%. The insurance 
+is still useful in getting RWAs down but taking into account its cost, it is doubtful whether banks will 
+resort to it. 
+• The jump in RW from Basel III to Finalised Basel III was only +14% for the 80% LTV loan. In case of the 
+60% LTV loan, the jump amounts to a doubling or tripling of the RW! This shows the impact of Finalised 
+Basel III on the less risky loans and the fact that insurance will not alleviate this impact. 
+• The SA approach will anyway be the binding constraint and mean a multiplication by 4 of the RWA on 
+this type of loans, unless the bank’s overall business model compensates for it. 
+• The example of the unsecured loan shows on the other hand a significant capital relief (RWAs divided 
+by 2).  So, one may hope that the insurance will serve a purpose here despite its cost. 
+• The FIRB method will be the binding constraint in this case of an unsecured loan. 
+• All in all, these examples show how all low LTV secured loans will be impacted by Finalised Basel III and 
+how insurance will not help much in these situations. This will in turn trigger a greater adverse selection 
+whereby more risky loans will be insured. It will potentially drive away a number of insurers and 
+irreparably harm the market for credit insurance. 
+60% LTV mortgage or no mortgage + in each case 50% insurance

@@ -1,0 +1,2737 @@
+May 2021
+Nixing the Fix: 
+An FTC Report to 
+Congress on Repair 
+Restrictions
+Ref. Ares(2021)3815857 - 10/06/2021
+1 
+ 
+Table of Contents 
+ 
+EXECUTIVE SUMMARY .......................................................................................................... 3 
+I. THE ANTI-TYING PROVISION OF THE MAGNUSON MOSS WARRANTY ACT 7 
+II. COMPETITION ISSUES RELATING TO REPAIR MARKETS .................................. 9 
+A. Antitrust Principles Related to Manufacturer Restrictions on Repair ................... 11 
+C. Monopolization Claims Involving Aftermarket Restrictions ................................... 14 
+III. INFORMATION GATHERING PROCESS ................................................................... 16 
+IV. TYPES OF REPAIR RESTRICTIONS............................................................................ 17 
+A. Physical Restrictions .................................................................................................... 18 
+B. Unavailability of Parts, Manuals, and Diagnostic Software/Tools .......................... 18 
+1. Unavailability of Parts.............................................................................................. 18 
+2. Unavailability of Manuals ........................................................................................ 19 
+3. Unavailability of Diagnostic Software and Tools................................................... 19 
+C. Designs that Make Independent Repairs Less Safe .................................................. 19 
+D. Steering Consumers to Manufacturers’ Repair Networks Using Telematics 
+Systems ..................................................................................................................................... 21 
+E. Application of Patent Rights and Enforcement of Trademarks .............................. 22 
+F. Disparagement of Non-OEM parts and Independent Repair Services ................... 22 
+G. Software Locks, Digital Rights Management, and Technological Protection 
+Measures .................................................................................................................................. 23 
+H. End User License Agreements .................................................................................... 24 
+V. MANUFACTURERS’ EXPLANATIONS FOR REPAIR RESTRICTIONS .............. 24 
+A. Protection of Intellectual Property ............................................................................. 24 
+B. Safety ............................................................................................................................. 26 
+C. Cybersecurity ................................................................................................................ 30 
+D. Liability and Reputational Harm ............................................................................... 32 
+E. Design Choices and Consumer Demand Drive the Repairability of the Devices ... 33 
+F. Quality of Service ......................................................................................................... 36 
+VI. RIGHT TO REPAIR ADVOCATES’ ARGUMENTS AGAINST REPAIR 
+RESTRICTIONS ........................................................................................................................ 38 
+A. Timing of Repairs ......................................................................................................... 39 
+B. Price of Repairs ............................................................................................................ 40 
+C. Environmental Harm ................................................................................................... 41 
+D. Small Businesses and Employment ............................................................................. 42 
+2 
+ 
+VII. APPROACHES FOR INCREASING CONSUMER CHOICE IN REPAIR 
+MARKETS .................................................................................................................................. 44 
+A. FTC Rulemaking or Law Enforcement ..................................................................... 44 
+B. Industry Self-Regulation.............................................................................................. 45 
+C. Legislative Approaches ................................................................................................ 47 
+1. Existing State Right to Repair Laws and Model Legislation................................ 47 
+2. The European Approach ......................................................................................... 48 
+D. Transparency of Repairability by OEMs/Industry ................................................... 50 
+VIII. IDENTIFICATION OF ISSUES TO BE CONSIDERED IN ANY ACTION 
+TAKEN BY INDUSTRY, POLICYMAKERS, OR LEGISLATORS ................................... 50 
+A. Types of Products Covered.......................................................................................... 51 
+B. Components of Covered Products .............................................................................. 52 
+C. Dollar Threshold and the Duration of Repair Commitments .................................. 52 
+D. Protection of IP rights .................................................................................................. 53 
+IX. CONCLUSION ................................................................................................................... 54 
+ 
+  
+3 
+ 
+EXECUTIVE SUMMARY  
+ 
+The Federal Trade Commission (“FTC” or “Commission”) submits this report pursuant 
+to Congress’s directive for the Commission to report to the Committees on Appropriations of the 
+House and Senate regarding anticompetitive practices related to repair markets.1  When directing 
+the Commission to issue this report, Congress noted that it “is aware of the FTC’s ongoing 
+review of how manufacturers— in particular mobile phone and car manufacturers—may limit 
+repairs by consumers and repair shops, and how those limitations may increase costs, limit 
+choice, and impact consumers’ rights under the Magnuson-Moss Warranty Act.”  Congress 
+specifically directed the FTC to include recommendations on how to best address these 
+problems.
+2 
+ 
+To fulfill this Congressional directive, the Commission has synthesized the knowledge 
+gained from its July 16, 2019 workshop titled “Nixing the Fix: A Workshop on Repair 
+Restrictions” (the “Workshop”), public comments, responses to a Request for Empirical 
+Research and Data,
+3 and independent research.  This report examines consumer protection and 
+antitrust issues relating to repair restrictions, with particular emphasis on those imposed by 
+mobile phone and car manufacturers. 
+ 
+Congressional interest in the competition and consumer protection aspects of repair 
+restrictions is timely.  Many consumer products have become harder to fix and maintain.  
+Repairs today often require specialized tools, difficult-to-obtain parts, and access to proprietary 
+diagnostic software.  Consumers whose products break then have limited choices.   
+ 
+Furthermore, the burden of repair restrictions may fall more heavily on communities of 
+color and lower-income communities.
+4  Many Black-owned small businesses are in the repair 
+and maintenance industries,5 and difficulties facing small businesses can disproportionately 
+affect small businesses owned by people of color.6  This fact has not been lost on supporters of 
+                                                 
+1 House Report 116-456 published in the Congressional Record on Dec. 27, 2020 (at 
+https://www.congress.gov/116/crpt/hrpt456/CRPT-116hrpt456.pdf) that accompanied H.R. 7668, Financial Services 
+and General Government Appropriations Bill, 2021. 
+2 Id. 
+3 The full docket of public comments and empirical research submissions is available at 
+https://www.regulations.gov/docket/FTC-2019-0013/document and https://www.regulations.gov/document/FTC-
+2019-0013-0001/comment.  Citations in this report to the public comments or empirical research submitted in 
+connection with the Workshop provide the submitter’s name and whether the document was submitted as a 
+comment or empirical research. 
+4 Commissioners Phillips and Wilson note that the claim suggested in this paragraph, i.e., that the burden of repair 
+restrictions at issue in this Report will fall more heavily on minority communities, is not supported by the evidence 
+cited.  That may very well be the case, as the Report’s caveats with words like “may” and “can” denote.  But the 
+claim is a conclusion drawn by authors of the Report from citations to evidence of other things. 
+5 See, e.g., Interesting Facts & Statistics About Black-Owned Businesses, https://www.blackbusiness.com/p/facts-
+statistics-black-owned-businesses.html (last visited Mar. 19, 2021) (stating that nearly 38 percent of Black-owned 
+businesses are in health care, social assistance, repair and maintenance, and personal and laundry services). 
+6 The pandemic offers a troubling example: “Nationally representative data on small businesses indicate that the 
+number of active business owners fell by 22 percent from February to April 2020 — the largest drop on record. 
+While the overall decline is noteworthy, differences among closure rates across racial and ethnic groups are even 
+more striking. Black businesses experienced the most acute decline, with a 41 percent drop. Latinx business owners 
+4 
+ 
+prior right to repair legislation, who have highlighted the impact repair restrictions have on repair 
+shops that are independent and owned by entrepreneurs from underserved communities.7  Repair 
+restrictions for some products—suc h as smartphones—also may place a greater financial burden 
+on communities of color and lower-income Americans.8  According to Pew Research, Black and 
+Hispanic Americans are about twice as likely as white Americans to have smartphones, but no 
+broadband access at home.9  Similarly, lower-income Americans are more likely to be 
+smartphone-dependent.10  This smartphone dependency makes repair restrictions on smartphones 
+more likely to affect these communities adversely. 
+ 
+The pandemic has exacerbated the effects of repair restrictions on consumers.  As noted 
+by Pew Research, “The pandemic has made living without a computer harder than ever. 
+Employees are working remotely, kids are going to school via laptop, and grandparents are 
+visiting with their grandkids on screens.  At the same time, the pandemic has made it harder to 
+get broken devices fixed, as many big chain stores have ceased offering on-site repairs.  As a 
+result, people have been forced to send their devices to authorized repair facilities—often waiting 
+weeks for them to be returned.”
+11   
+ 
+The pandemic also has revealed a drastic shortage in the availability of new laptops for 
+students.  An Associated Press examination of the availability of school laptops found that the 
+                                                 
+fell by 32 percent and Asian business owners dropped by 26 percent. In contrast, the number of white business 
+owners fell by 17 percent.” Claire Kramer Mills, Ph.D., and Jessica Battisto, Double Jeopardy: COVID-19’s 
+Concentrated Health and Wealth Effects in Black Communities, Federal Reserve Bank of New York (Aug. 2020), 
+https://www.fedsmallbusiness.org/medialibrary/FedSmallBusiness/files/2020/DoubleJeopardy_COVID19andBlack
+OwnedBusinesses;  See also Lydia DePillis, How the Pandemic Economy Could Wipe Out a Generation of Black-
+Owned Businesses, Pro Publica (Mar. 4, 2021), https://www.propublica.org/article/the-pandemics-existential-threat-
+to-black-owned-businesses (stating that “[a]s of 2012 —  the most recent data the Census Bureau has collected — 
+average annual sales for a Black-owned business came to about $58,000, compared to nearly 10 times that amount 
+for the average white-owned enterprise” and arguing that “years of compounding disadvantage have been 
+exacerbated by the pandemic”). 
+7 aftermarketNews Staff, Reps. Towns and Sanchez Call Say Right to Repair Needed to Save Independent, Minority-
+Owned Repair Shops, (Feb. 16, 2006), https://www.aftermarketnews.com/reps-towns-and-sanchez-call-say-right-to-
+repair-needed-to-save-independent-minority-owned-repair-shops-jobs/.  
+8 According to U.S. PIRG, “Repair could reduce household spending on electronics and appliances by 22 percent, 
+which would save an average family approximately $330 per year.” Alex DeBellis and Nathan Proctor, Repair 
+Saves Family Big, U.S. PIRG, 4 (Jan. 2021), 
+https://uspirg.org/sites/pirg/files/reports/RepairSavesFamiliesBig/Repair-Saves-Families-
+Big_USP_Jan2021_FINAL1a.pdf; see also infra note 237. 
+9 Mobile Fact Sheet, Pew Research Center, (June 12, 2019) https://www.pewresearch.org/internet/fact-
+sheet/mobile/#who-is-smartphone-dependent.  
+10 According to Pew Research: “With fewer options for online access at their disposal, many lower-income 
+Americans are relying more on smartphones. As of early 2019, 26% of adults living in households earning less than 
+$30,000 a year are ‘smartphone-dependent’ internet users—meaning they own a smartphone but do not have 
+broadband internet at home. This represents a substantial increase from 12% in 2013. In contrast, only 5% of those 
+living in households earning $100,000 or more fall into this category in 2019.”  Monica Anderson and Madhumitha 
+Kumar, Digital divide persists even as lower-income American make gains in tech adoption, Pew Research Center, 
+(May 7, 2019), https://www.pewresearch.org/fact-tank/2019/05/07/digital-divide-persists-even-as-lower-income-
+americans-make-gains-in-tech-adoption/.   
+11 Elaine S. Povich, Pandemic Drives Phone, Computer ‘Right-to-Repair’ Bills, (Mar. 11, 2021), 
+https://pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/03/11/pandemic-drives-phone-computer-right-to-
+repair-bills. 
+5 
+ 
+increased demand for computers and supply chain challenges posed by the pandemic had 
+resulted in laptop shortages in school districts around the country.12  For instance, California has 
+reported the need for 1 million laptops for students and Alabama was waiting on 33,000 student 
+computers.13  Kinks in the semiconductor supply chain are now posing an additional threat to the 
+supply of new laptops.14  Reducing barriers to repair may permit older laptops to be refurbished 
+more easily, thereby expanding the supply of available laptops.  
+ 
+The Commission’s concern with repair restrictions
+15 dates back more than forty years, to 
+when the Commission’s then-Chairman testified in favor of the anti-tying provision of the 
+Magnuson-Moss Warranty Act (the “MMWA”).16  The anti-tying provision, Section 102(c) of 
+the MMWA, prohibits a warrantor of a consumer product from conditioning its warranty on the 
+consumer’s using any article or service which is identified by brand name unless the article or 
+service is provided for free or the warrantor obtains a waiver from the Commission.  This 
+provision, for example, bars an automobile manufacturer from voiding a warranty if a consumer 
+has scheduled maintenance performed by someone other than the dealer, prohibits a printer 
+manufacturer from conditioning its warranty on the purchaser’s use of the manufacturer’s 
+branded ink, and forbids a smartphone manufacturer from voiding a warranty when a consumer 
+has a new battery installed at a kiosk at the mall.  In short, the anti-tying provision bars 
+manufacturers from using access to warranty coverage as a way of obstructing consumers’ 
+ability to have their consumer products maintained or repaired using third-party replacement 
+parts and independent repair shops.
+17 As discussed in Section I, below, the Commission has 
+actively enforced the anti-tying provision of MMWA and will continue to address illegal 
+practices in the marketplace. 
+ 
+In the 44 years since the enactment of the MMWA, technological developments have 
+introduced new challenges that warrant a reconsideration of whether the anti-tying provision has 
+                                                 
+12 Jocelyn Gecker and Michael Liedtke, AP Exclusive: US Faces Back-To-School Laptop Shortage, (Aug. 22, 2020), 
+https://apnews.com/article/01e9302796d749b6aadc35ddc8f4c946. 
+13 Mackenzie Hawkins, California is short 1 million laptops and hot spots for kids as it prepares online school, 
+Sacamento Bee, (July 22, 2020) https://www.sacbee.com/news/politics-government/capitol-
+alert/article244418057.html.  
+14 Hyunjoo Jin, Douglas Busvine, and David Kirton, Analysis: Global chip shortage threatens production of laptops, 
+smartphones and more, Reuters, (Dec. 17, 2020), https://www.reuters.com/article/us-chip-shortage-
+analysis/analysis-global-chip-shortage-threatens-production-of-laptops-smartphones-and-more-idUSKBN28R0ZL.  
+15 We use the term “repair restriction” to refer to any practice that has the effect of limiting consumers’ ability to 
+repair products that they own.  In using this term, we focus on the impact of practices that limit consumer choice 
+regarding repairs rather than on the intent of manufacturers.  Due to this focus, the report does not delve into the 
+subject of “planned obsolescence”—the argument that manufacturers intentionally design products to fail in order to 
+encourage future replacement purchases.   
+16 Then-Chairman Lewis Engman testified: 
+This provision addresses the anticompetitive practice which the Commission has opposed in 
+numerous court actions wherein a manufacturer uses a warranty unreasonably to tie his 
+supplementary products or services to the warranted product. This leaves the consumer in the 
+undesirable posture of losing his warranty protection if he purchases the supplementary items from 
+another and perhaps less expensive source —even if he does so in complete ignorance of the 
+warranty’s provisions.   
+Statement of Hon. Lewis A. Engman, Chairman, Federal Trade Commission, included in H. Rep. No. 93-17, at 58 
+(1973). 
+17 Independent repair shops are also referred to as independent service organizations (“ISOs”). 
+6 
+ 
+kept pace with the evolving consumer goods repair market.  Even when a warranty does not 
+explicitly require that repairs be performed by the original equipment manufacturer (OEM) using 
+OEM parts, many manufacturers restrict independent repair and repair by consumers through: 
+ 
+• Product designs that complicate or prevent repair; 
+• Unavailability of parts and repair information; 
+• Designs that make independent repairs less safe; 
+• Policies or statements that steer consumers to manufacturer repair networks; 
+• Application of patent rights and enforcement of trademarks; 
+• Disparagement of non-OEM parts and independent repair; 
+• Software locks and firmware updates; or 
+•  End User License Agreements. 
+ 
+ Manufacturers explain that these repair restrictions often arise from their desire to protect 
+intellectual property rights and prevent injuries and other negative consequences resulting from 
+improper repairs. 
+ 
+The report is divided into nine sections.  The first describes Section 102(c) of the 
+MMWA and the Commission’s record of enforcing this provision.  Section Two provides an 
+analysis of the competition issues related to repair markets.  Section Three describes staff’s 
+information gathering efforts, including a description of the Workshop and comments.  Section 
+Four catalogues the types of repair restrictions employed by manufacturers.  Section Five 
+describes the explanations manufacturers offer for repair restrictions.  Section Six examines the 
+arguments of repair advocates.   
+ 
+The final sections of this report propose ways to expand consumers’ repair and 
+maintenance options.  Section Seven describes several approaches that could increase 
+consumers’ choice in repair markets.  Section Eight focuses on challenging issues that would 
+need to be considered by industry, regulators, and legislators that attempt to expand consumers’ 
+repair choices. 
+ 
+Finally, in Section Nine, we conclude by explaining that, based on the record before us, it 
+is clear that repair restrictions have diluted the effectiveness of Section 102(c) and steered 
+consumers into manufacturers’ repair networks or to replace products before the end of their 
+useful lives.  Based on a review of comments submitted and materials presented during the 
+Workshop, there is scant evidence to support manufacturers’ justifications for repair 
+restrictions.
+18  Moreover, the specific changes that repair advocates seek to address manufacturer 
+repair restrictions (e.g., access to information, manuals, spare parts, and tools) are well supported 
+by comments submitted for the record and testimony provided at the Workshop.  While the car 
+manufacturing industry has taken important steps to expand consumer choice, other industries 
+that impose restrictions on repairs have not followed suit.  The Commission will consider 
+reinvigorated regulatory and law enforcement options, as well as consumer education.  In 
+addition to the FTC’s pursuit of efforts under its authority, the Commission stands ready to work 
+                                                 
+18 Commissioner Wilson and Commissioner Phillips note that the report excludes from the scope of its coverage an 
+analysis of manufacturers’ intellectual property rights, which may provide legitimate justification for some repair 
+restrictions.  
+7 
+ 
+with legislators, either at the state or federal level, to ensure that consumers and independent 
+repair shops have appropriate access to replacement parts, instructions, and diagnostic software.  
+ 
+I. THE ANTI-TYING PROVISION OF THE MAGNUSON MOSS WARRANTY 
+ACT  
+ 
+The Federal Trade Commission enforces the MMWA, a consumer protection law passed 
+in 1975 to clarify how written warranties may be used when marketing products to consumers.19  
+The MMWA requires warrantors of consumer products to provide consumers with detailed 
+information about warranty coverage.20  Section 102(c) of the MMWA prohibits warrantors from 
+conditioning warranty coverage on the consumer’s use of an article or service identified by 
+brand, trade, or corporate name, unless the warrantor provides that article or service without 
+charge or the warrantor has received a waiver from the Commission.
+21  Companies may seek a 
+waiver of this prohibition if: (1) the warrantor satisfies the Commission that the manufacturers’ 
+parts or services are necessary for the product to function, and (2) the waiver is in the public 
+interest.
+22  Since 1975, only three waiver requests have been made to the Commission, all of 
+which were denied.23   
+ 
+The FTC has issued three Rules under the MMWA, the Rule on Disclosure of Written 
+Consumer Product Warranty Terms and Conditions (the Disclosure Rule), 16 C.F.R. pt. 701, the 
+Rule on Pre-Sale Availability of Written Warranty Terms (the Pre-Sale Availability Rule),  
+16 C.F.R. pt. 702, and the Rule on Informal Dispute Settlement Procedures (the Dispute 
+Resolution Rule), 16 C.F.R. pt. 703.  Unlike many of the FTC’s Rules, the FTC lacks the 
+authority to seek civil penalties when enforcing the three Rules it promulgated under the 
+MMWA.  Instead, the Commission can obtain an injunction.  In addition, the FTC has issued 
+Interpretations of the MMWA—a document  that clarifies certain terms and explains some of the 
+provisions of the MMWA.
+24  In the Interpretations, the FTC provides guidance on Section 102(c) 
+of the MMWA.  As stated in the Interpretations, Section 102(c) applies not only to express 
+statements, but also implied language that a warranty is conditioned on the use of particular 
+products or services.  For example, a provision in the warranty such as, “use only an authorized 
+‘ABC’ dealer” or “use only ‘ABC’ replacement parts,” is prohibited where the service or parts 
+are not provided free of charge pursuant to the warranty.
+25 
+                                                 
+19 15 U.S.C. § 2301 et seq.   
+20 Id. 
+21 15 U.S.C. § 2302(c). 
+22 Id. 
+23 Denial of Waiver of Section 102(c) of the Magnuson-Moss Warranty Act, 41 Fed. Reg. 17821 (Apr. 28, 1976) 
+(waiver requested by Sohmer & Co., Inc., a piano manufacturer); Denial of Waiver of Magnuson-Moss Warranty 
+Act, 41 Fed. Reg. 34368 (Aug. 13, 1976) (waiver requested by Harmsco, Inc., a manufacturer of swimming pool 
+water treatment systems); Denial of Waiver of Section 102(c) of the Magnuson-Moss Warranty Act, 43 Fed. Reg. 
+1991 (Jan. 13, 1978) (waiver requested by Coleman Co., Inc., a manufacturer of heating and cooling appliances and 
+associated equipment for mobile homes). 
+24 16 C.F.R. pt. 700 (2015). 
+25 The Interpretations explain that Section 102(c) does not preclude a warrantor from expressly excluding liability 
+for defects or damage caused by articles or services not provided by the manufacturer.  Nor does Section 102(c) bar 
+the warrantor from denying liability where the warrantor can demonstrate that the defect or damage was caused by 
+articles or service not provided by the manufacturer.  16 C.F.R. § 700.10 (2015). 
+8 
+ 
+ 
+In recent years, the FTC has actively enforced Section 102(c) of the MMWA.  For 
+example, in October 2015, the FTC approved a complaint and settlement against BMW for 
+violating the anti-tying provision.26  In its complaint, the FTC alleged that BMW violated the 
+MMWA by conditioning the warranties it offered on its MINI cars on the use of MINI dealers 
+and genuine MINI parts without providing such parts and services for free or seeking a waiver 
+from the FTC.  Subsequently, in April 2018, the FTC announced that staff issued several 
+warning letters to companies marketing automobiles, cellular devices, and video gaming systems 
+in the United States.  The letters warned the companies that telling consumers they need to use 
+specified parts or services to keep the warranties intact would violate the anti-tying provision.  
+The letters also placed the companies on notice that violations of the MMWA may result in legal 
+action.
+27  The recipients changed their practices in response to the warning letters.  A consumer 
+education campaign accompanying the warning letters also promoted awareness about 
+consumers’ rights under the MMWA.28  
+ 
+The Commission continues to receive reports of companies not complying with the 
+MMWA.  In response to staff’s call for empirical research and comments related to the 
+Workshop, several organizations reported that warranty tying continues to be prevalent in the 
+marketplace.  For example, the Education Fund of U.S. PIRG, the federation of state Public 
+Interest Research Groups (PIRGs), submitted an October 2018 study analyzing warranties from 
+50 companies.
+29  U.S. PIRG concluded that 45 of the 50 companies had warranties that appeared 
+to violate Section 102(c) of the MMWA.30  Likewise, the Specialty Equipment Market 
+Association (SEMA) submitted a comment stating that it regularly receives complaints that 
+automobile dealerships void automobile warranties if the dealership finds a specialty part (e.g., 
+custom wheels) had been installed on the automobile, regardless of whether the specialty part 
+caused the automobile to malfunction.
+31  Other commenters submitted information claiming that 
+certain warrantors either expressly or by implication continue to condition warranty coverage of 
+the use of particular products or services.32  The Commission takes these allegations seriously 
+and will continue to address illegal practices in the marketplace.   
+                                                 
+26 In re BMW of N. Am., LLC, FTC No. 132-3150, https://www.ftc.gov/enforcement/cases-proceedings/132-
+3150/bmw-north-america-llc-matter. 
+27 FTC Warns Companies that It Is Illegal to Condition Warranty Coverage on the Use of Specified Parts or 
+Services (Apr. 10, 2018), https://www.ftc.gov/news-events/press-releases/2018/04/ftc-staff-warns-companies-it-
+illegal-condition-warranty-coverage.  Some of the warning letters also advised companies to stop placing seals on 
+their products that stated “warranty void if seal removed,” or contained similar language. 
+28 See https://www.ftc.gov/news-events/blogs/business-blog/2018/04/ftc-staff-sends-warranty-warnings.  Notably, 
+however, the Automotive Oil Change Association submitted evidence showing that many consumers are still 
+unaware of their rights under the MMWA.  Automotive Oil Change Association comment (“AOCA empirical 
+research”), at 12-14.  
+29 U.S. PIRG empirical research. See Nixing the Fix: A Workshop on Repair Restrictions, Docket ID FTC-2019-
+0013, https://www.regulations.gov/docket?D=FTC-2019-0013.  In this report, we refer to submissions as 
+“comments” or “empirical research” based on how they were submitted to the Commission.   
+30 Id. at 2-3.  
+31 Special Equipment Market Association comment (“SEMA comment”), at 2.  SEMA urged the Commission to 
+require dealerships to state in writing why the warranty coverage was denied.  
+32 E.g., Peter Pronko comment, at 1-2 (arguing that Rolex materials make statements such as, “only official Rolex 
+repair centers are ‘allowed’ to repair and service a Rolex watch” and that repair work done by anyone other than a 
+Rolex facility will void its warranty); Fixit Clinic empirical research, at 3 (describing “stickers or labels that warn or 
+9 
+ 
+II. COMPETITION ISSUES RELATING TO REPAIR MARKETS  
+ 
+The FTC also enforces antitrust laws that, in some circumstances, could make repair 
+restrictions illegal.  In antitrust parlance, repair restrictions concern aftermarkets—markets for 
+parts or services that are used after the initial purchase of a product.  Products with aftermarkets 
+are very common.  Examples range from simple products like razors and razor blades, to 
+operationally or technically complex products and services like software and software updates.33  
+The ways that businesses provide products and services in aftermarkets are similarly diverse, and 
+lead to a range of participants and competitive dynamics in different markets.   
+ 
+With respect to repairs, the relationships between market participants fall into three main 
+models. 
+• Some manufacturers offer repair services for their products themselves, or through a 
+network of affiliates, as the only authorized means of repair.   
+• In other instances, an original equipment manufacturer (OEM) has no presence in the 
+sale of aftermarket parts or service.  In those cases, independent service organizations 
+(ISOs) sometimes provide repair and maintenance services for the products of various 
+manufacturers.  In addition, consumers may be able to purchase replacement parts in 
+an aftermarket, perhaps to perform repairs themselves.  
+• Some OEMs participate in aftermarket service markets in competition with 
+independent repair shops.  Where that is the case, a manufacturer may steer 
+aftermarket work toward its own services.   
+ 
+Several scenarios described in this report involve business decisions made by the 
+manufacturer that may restrict repair options by consumers or ISOs and make it difficult or 
+impossible for ISOs to compete in aftermarkets.  Tying exists when the sale of one product (the 
+tying product) is conditioned on the purchase of a second product (the tied product) from the 
+same firm.
+34  Tying is illegal where the effect is to impair competition and harm consumers in 
+the market for either the tying product or the tied product.  For example, an illegal tying claim 
+might allege that a manufacturer unlawfully tied the availability of parts to the purchase of its 
+repair service. 
+ 
+Other scenarios describe different types of conduct that may harm competition when 
+adopted by a firm with market power.  For instance, a manufacturer with market power that has 
+refused to provide consumers or aftermarket service providers with key inputs (such as parts, 
+manuals, or diagnostic software and tools) may be subject to antitrust liability for maintaining its 
+monopoly, if the effect of such conduct is to harm competition.
+35  Similarly, a manufacturer that 
+                                                 
+imply that a product warranty will be voided if the product is opened or modified by anyone other than the 
+manufacturer or its agent” which “create a chilling effect because just lifting tape damages it and becomes evidence 
+of tamper….”); Automotive Oil Ch ange Association empirical research (“AOCA empirical research”) at 13-14. 
+33 These products and practices involve “a multitude of industries and hundreds of billions of dollars of sales.”  
+Joseph P. Bauer, Antitrust Implications of Aftermarkets, 52 ANTITRUST BULL. 31, 31 (2007). 
+34 See N. Pac. Ry. Co. v. United States, 356 U.S. 1, 5-6 (1958). 
+35 Eastman Kodak Co. v. Image Technical Services, Inc. 504 U.S. 451 (1992) (allowing to proceed beyond summary 
+judgment plaintiffs’ monopolization and attempt to monopolize claims alleging Kodak refused to sell parts for its 
+copies and micrographic equipment to owners that obtained service from ISOs). 
+10 
+ 
+has succeeded in limiting the availability of parts through explicit or de facto exclusive dealing 
+contracts with preferred service providers may be charged with using such contracts to maintain 
+a monopoly. 36  
+ 
+Other tactics described by commenters involve allegations of potentially exclusionary 
+conduct, such as making products difficult or impossible to disassemble, in order to maintain 
+market position and exclude aftermarket competitors, or the anti-competitive assertion of patent 
+rights and enforcement of trademarks by manufacturers to restrict repairs not authorized by 
+OEMs.  Moreover, the use of embedded software that forces consumers to have the maintenance 
+and repair of their products performed by the manufacturers’ authorized service networks may 
+also raise competition issues.  Such restrictions may take the form of “software locks” that 
+disable a computerized device repaired outside of the manufacturer’s authorized service 
+networks, or the use of firmware updates that limit third-party repairs.  In general, the intellectual 
+property laws and the antitrust laws share the common purpose of promoting innovation and 
+competition.  However, misuses of intellectual property rights may create barriers to independent 
+repairs, and thereby harm competition.   
+ 
+A manufacturer’s explanations for aftermarket restrictions are almost always relevant to a 
+court’s assessment of the overall competitive impact of a particular practice.
+ 37  For example, 
+manufacturers may assert that restrictions on competition in aftermarkets are necessary for 
+privacy, data security, efficient design, manufacture, distribution, and safety reasons, and are 
+thus procompetitive.  Manufacturers may specifically restrict the options of consumers to repair a 
+product, based on certain asserted explanations, such as enhancing efficiency; quality control; 
+protecting intellectual property rights; or preventing injuries, reputational harms, or other 
+negative consequences resulting from improper repairs.  For instance, some manufacturers have 
+asserted that product designs that hamper ISO or consumer repair may prevent injuries while 
+conducting repairs that involve certain dangers, like replacing certain kinds of batteries.  
+Manufacturers also often assert safety and reputational concerns with non-authorized 
+replacement parts or repair services.
+38  Justifications need to be scrutinized on a case-by-case 
+basis and should be rejected if found to be a mere pretext for anticompetitive conduct. 
+ 
+The following discussion highlights antitrust principles that courts have applied to 
+antitrust claims involving aftermarkets.   
+ 
+                                                 
+36 Id. at 458 (discussing Kodak policies restricting the ability of ISOs to service and provide replacement parts for 
+Kodak copiers and micrographics equipment). 
+37 Id. at 466-67 (“Legal presumptions that rest on formalistic distinctions rather than actual market realities are 
+generally disfavored in antitrust law. This Court has preferred to resolve antitrust claims on a case-by-case basis, 
+focusing on the ‘particular facts disclosed by the record.’”) (citations omitted). 
+38 Section V of this Report evaluates manufacturers’ explanations for repair restrictions and finds that that the record 
+contains scant evidence to support them.  As noted below, an antitrust inquiry into a particular manufacturer’s repair 
+restrictions would require a fact-specific analysis of the likely competitive effects of the conduct as well as that 
+manufacturer’s asserted rationale for the restrictions. 
+11 
+ 
+A. Antitrust Principles Related to Manufacturer Restrictions on Repair  
+ 
+ Manufacturer restrictions on aftermarket competition may be subject to claims under 
+Section 1 or Section 2 of the Sherman Act or Section 5 of the FTC Act.  Section 1 of the 
+Sherman Act prohibits agreements that restrain competition.39  Section 2 prohibits 
+monopolization or attempted monopolization by a single entity, as well as by combination or 
+conspiracy.40  Liability for monopolization requires proof that the defendant possesses monopoly 
+power in a relevant market and has engaged in “the willful acquisition or maintenance of that 
+power as distinguished from growth or development as a consequence of a superior product, 
+business acumen, or historic accident.”
+41 Section 5 of the FTC act prohibits unfair methods of 
+competition.42  Section 5’s unfair methods of competition standard encompasses conduct that 
+violates the Sherman and Clayton Acts, but also prohibits conduct that does not meet the 
+technical requirements of those statutes.43  Section 3 of the Clayton Act, which prohibits certain 
+contractual arrangements (such as tying or exclusivity arrangements) involving goods (but not 
+services) that may substantially lessen competition or tend to create a monopoly, also may 
+apply.44   
+ 
+                                                 
+39 “Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce 
+among the several States, or with foreign nations, is declared to be illegal.”  15 U.S.C. § 1.  Supreme Court 
+jurisprudence has held that the Sherman Act does not prohibit every restraint of trade, only those that 
+are unreasonable.  Certain acts, such as price fixing, market division, and bid rigging, however, are considered so 
+harmful to competition that courts treat them as “per se” violations of Section 1, for which no defense or 
+justification is allowed. 
+40 “Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or 
+persons, to monopolize any part of the trade or commerce among the several States, or with foreign nations, shall be 
+deemed guilty of a felony . . . .”  15 U.S.C. § 2. 
+41 United States v. Grinnell Corp., 384 U.S. 563, 570-71 (1966); see also Verizon Commc’ns, Inc. v. Law Offs. of 
+Curtis V. Trinko, 540 U.S. 398, 407 (2004).  A recent FTC decision provides an extended analysis of these 
+requirements.  See In re McWane, Inc., 2014-1 Trade Cases ¶ 78670 (F.T.C. Jan. 30, 2014), aff’d McWane, Inc., v. 
+FTC, 783 F.3d 814 (11th Cir. 2015), cert den. 136 S. Ct. 1452 (2016). 
+42 “Unfair methods of competition in or affecting commerce, and unfair or deceptive acts or practices in or affecting 
+commerce, are hereby declared unlawful.”  15 U.S.C. § 45(a)(1).  See FTC v. Actavis, Inc., 570 U.S. 136, 145 
+(2013); California. Dental Ass’n v. FTC, 526 U.S. 756, 762 & n.3 (1999). 
+43 Congress intended Section 5 to have a broader reach than the existing antitrust laws.  See Neil W. Averitt, The 
+Meaning of “Unfair Methods of Competition” in Section 5 of the Federal Trade Commission Act, 21 B.C. L. REV. 
+227, 239-40 (1980) (describing the Supreme Court’s interpretation of Section 5 and its endorsement of the capacity 
+of Section 5 to reach beyond boundaries of other federal antitrust statutes); FTC v. Indiana Federation of Dentists, 
+476 U.S. 447, 454 (1986).  See Fed. Trade Comm’n, Statement of Enforcement Principles Regarding “Unfair 
+Methods of Competition” Under Section 5 of the FTC Act (Aug. 13, 2015), 
+https://www.ftc.gov/system/files/documents/public_statements/735201/150813section5enforcement.pdf. 
+44 “It shall be unlawful for any person engaged in commerce, in the course of such commerce, to lease or make a 
+sale or contract for sale of goods, wares, merchandise, machinery, supplies, or other commodities, whether patented 
+or unpatented, for use, consumption, or resale within the United States or any Territory thereof or the District of 
+Columbia or any insular possession or other place under the jurisdiction of the United States, or fix a price charged 
+therefor, or discount from, or rebate upon, such price, on the condition, agreement, or understanding that the lessee 
+or purchaser thereof shall not use or deal in the goods, wares, merchandise, machinery, supplies, or other 
+commodities of a competitor or competitors of the lessor or seller, where the effect of such lease, sale, or contract 
+for sale or such condition, agreement, or understanding may be to substantially lessen competition or tend to create a 
+monopoly in any line of commerce.”  15 U.S.C. § 14.  Clayton Act § 3 applies only when both the tying and tied 
+12 
+ 
+B. Tying Claims Involving Aftermarket Products and Services 
+  
+Tying is the sale by a firm of one product (the tying product) only on condition that the 
+customer also purchase a second product (the tied product) from the same firm.  Manufacturer 
+restrictions on aftermarket parts or services may give rise to a claim of illegal tying.  For 
+example, a tying claim might allege that a manufacturer unlawfully tied the availability of 
+replacement parts to the purchase of its repair service.  The tie can be explicit (you must buy 
+Product A in order to get Product B), with the manufacturer refusing to sell the products 
+separately, or implied, such as when products are offered only as part of a bundle and not 
+independently.
+45 
+ 
+In many cases prior to the U.S. Supreme Court decision in Eastman Kodak Co. v. Image 
+Technical Servs., Inc., 504 U.S. 451 (1992), discussed in detail below, courts applied a per se 
+rule of liability to allegations of tying under Sherman Act § 1 or Clayton Act § 3.
+46  Since 
+Kodak, however, courts have imposed a number of requirements for a finding of liability in 
+connection with tying restraints, reflecting cases in which the Court has eliminated per se 
+analysis for all other vertical restraints.47  While some decisions continue to describe tying as a 
+potential per se violation,48 courts now routinely require a showing of cognizable harm in the 
+tying product market or the tied product market, leading to an extensive inquiry into market 
+power and economic affects more akin to a rule of reason analysis.
+49   
+ 
+Kodak is the leading case to address aftermarket issues.50  ISOs challenged Kodak’s 
+policies restricting ISOs’ ability to service and provide replacement parts for Kodak copiers and 
+micrographics equipment.  The ISOs serviced Kodak equipment in competition with Kodak 
+itself.  Because Kodak refused to sell parts directly to ISOs, many ISOs found it impossible to 
+stay in business.  Many equipment owners that preferred ISO service were also forced to obtain 
+service from Kodak.  The case focused on the allegation that Kodak refused to sell parts to 
+equipment owners that obtained service from ISOs.  In their suit, ISOs alleged that Kodak 
+unlawfully tied the availability of Kodak parts to the purchase of Kodak service in violation of 
+                                                 
+products are “goods, wares, merchandise, machinery, supplies, or other commodities,” and thus does not apply when 
+tying arrangements involve intangibles such as services, trademarks, or franchises, among other things.  Id. 
+45 Suture Express v. Owens & Minor Distribution, Inc., 851 F.3d 1029 (10th Cir. 2017), cert. denied, 138 S. Ct. 146 
+(2017). 
+46 See N. Pac. Ry. Co. v. United States, 356 U.S. 1, 5-6 (1958); Int’l Salt Co. v. United States, 332 U.S. 392, 396 
+(1947) (“It is unreasonable, per se, to foreclose competitors from any substantial market.”). 
+47 See, e.g., Illinois Tool Works v. Independent Ink, Inc., 547 U.S. 28, 35 (2006) (“Over the years . . . this Court’s 
+strong disapproval of tying arrangements has substantially diminished.”). See also Leegin Creative Leather 
+Products, Inc. v. PSKS, Inc., 551 U.S. 877, 907 (2007) (holding that “[v]ertical price restraints are to be judged 
+according to the rule of reason.”).  
+48 See, e.g., Suture Express, 851 F.3d at 1037; Cox Enterprises, Inc. v. Cox Communications, Inc., 871 F.3d 1093, 
+1098-1102 (10th Cir. 2017) (discussing the “evolution of tying law” and collecting circuit caselaw). 
+49 See, e.g., Town Sound & Custom Tops, Inc. v. Chrysler Motors, 959 F.2d. 468, 477 (3d Cir. 1992) (“[t]he rule in 
+tying cases is not, however, like other truly per se rules in antitrust law.”); Jefferson Parish Hosp. Dist. No. 2 v. 
+Hyde, 466 U.S. 2, 26 (1984) (holding that analysis of a tying claim still requires inquiry into market power and 
+economic effects of the arrangement).  See also NCAA v. Bd. of Regents, 468 U.S. 85, 104 n.26 (1984) (“Indeed 
+there is often no bright line separating per se from Rule of Reason analysis.  Per se rules may require considerable 
+inquiry into market conditions before evidence justifies a presumption of anticompetitive conduct.”) 
+50 Kodak, 504 U.S. 451 (1992). 
+13 
+ 
+Section 1 of the Sherman Act, and that Kodak monopolized and attempted to monopolize a 
+service aftermarket in violation of Section 2 of the Act. 
+ 
+The Court considered whether Kodak’s high share of parts sales gave it the market power 
+required to support a tying claim and whether Kodak could monopolize a market limited only to 
+servicing its own brand of equipment.  Kodak argued for a substantive legal rule that competition 
+from other suppliers in a market for equipment precluded a finding of monopoly power in any 
+associated aftermarket.
+51  It further argued that it could not raise prices for aftermarket parts and 
+service because such an increase would be offset by lost equipment sales as customers purchased 
+equipment with more attractive service costs.
+52 
+ 
+The Court’s decision allowed the ISOs’ claims to go forward beyond summary judgment.  
+The majority opinion allowed that an OEM in some instances could be a monopolist in 
+aftermarkets relating to its own products.  The Court rejected Kodak’s proposed rule, holding 
+that, “[l]egal presumptions that rest on formalistic distinctions rather than actual market realities 
+are generally disfavored in antitrust law.”
+53  Rather, the Court stressed the need to examine the 
+facts at issue in a case,54 noting that Kodak’s service prices had risen and identifying several 
+“lock-in” factors, including the cost of switching from Kodak equipment to a competing brand’s 
+equipment and imperfect information about total system costs.55  The dissent, however, noted 
+that Kodak had changed its policy during the relevant period and argued the case would have 
+been decided differently if the policy had remained the same during that time.
+56 
+ 
+Courts have generally interpreted Kodak in one of two related ways.
+57  First, they have 
+limited the Kodak holding to a situation where a manufacturer has changed a policy regarding 
+the availability of aftermarket market parts after initial purchase by the consumer, injuring 
+customers who (without notice) are locked in and thus cannot switch to the primary market 
+product sold by a different OEM.58  Second, courts have not analyzed aftermarkets 
+independently from primary markets absent a compelling reason to do so, such as the ability to 
+exercise market power in the aftermarket without fear of offsetting commercial consequences in 
+the primary market.
+ 59  Furthermore, some courts have found little room to impose antitrust 
+liability for a unilateral refusal to deal when intellectual property rights such as patent or 
+                                                 
+51 Id. at 465-66. 
+52 Id. 
+53 Id. at 466-67. 
+54 Id. 
+55 Id. at 472-80. 
+56 Id. at 491-93 (Scalia, J., dissenting).  The majority suggested that, had customers been aware of Kodak’s policy 
+prior to their purchases, a question of fact, it might have decided the case differently.  See id. at 477 note 24. 
+57See generally United States, Roundtable on “Competition in Aftermarkets – Note from the United States,” 
+Submission to OECD Competition Committee 7-10 (DAF/COMP/WD(2017)38), 
+https://www.ftc.gov/system/files/attachments/us-submissions-oecd-2010-present-other-international-competition-
+fora/aftermarkets.pdf (collecting cases). 
+58 Alcatel USA, Inc. v. DGI Technologies, 166 F.3d 772 (5th Cir. 1999) (affirmed summary judgment for defendant 
+as a matter of law where defendant did not change pricing, warranty, or other important terms after customers’ 
+initial purchase decision). 
+59 SMS Sys. Servs. v. Digital Equip., 188 F.3d 11 (1st Cir. 1999) (competition in the original market disciplined 
+aftermarket pricing). 
+14 
+ 
+copyright protect the aftermarket goods.60  In addition, some courts have viewed certain 
+aftermarket practices as being product improvements.61  Also, some courts have been reluctant to 
+find that high switching costs can be the basis of a relevant market claim.62   
+ 
+Subsequent lower court decisions have limited the reach of the decision and affirmed that 
+“significant or long-lived consumer injury based on monopolized aftermarkets is likely to be 
+rare, especially if equipment markets are competitive.”63  A number of principles can be derived 
+from these cases.  If a purchaser signed a contract containing aftermarket obligations for parts or 
+servicing at the initial sale, courts likely will not find liability if the purchaser had other options.  
+As a corollary, if the purchaser was aware of aftermarket costs at the time of sale, courts may 
+deem that the purchaser engaged in “lifecycle” pricing analysis and that competition for the 
+primary product has disciplined such aftermarket costs.  On the other hand, if aftermarket costs 
+were unavailable up front, the courts may find that the purchaser is locked-in and liability is 
+possible.  Also, if there has been no change in policy by the manufacturer, the courts are unlikely 
+to find the policy exclusionary.   
+ 
+C. Monopolization Claims Involving Aftermarket Restrictions 
+ 
+Manufacturer repair restrictions may also raise antitrust claims involving monopolization.  
+Under Section 2 of the Sherman Act, a claim of monopolization requires proof of (1) the 
+possession of monopoly power in the relevant market and (2) “the willful acquisition or 
+maintenance of that power as distinguished from growth or development as a consequence of a 
+superior product, business acumen, or historic accident.”
+64  As the Supreme Court underscored in 
+Spectrum Sports, Inc. v. McQuillan, 506 U.S. 447, 458 (1993), “[t]he law directs itself not 
+against conduct which is competitive, even severely so, but against conduct which unfairly tends 
+to destroy competition itself.”  Accordingly, courts will first determine whether the defendant 
+has monopoly power in a relevant market, and, if it does, whether it acted to maintain or attain its 
+monopoly through anticompetitive conduct.65  
+ 
+Under the jurisprudential standards that apply to single-firm conduct, a manufacturer 
+must have market power in a well-defined relevant antitrust market to be subject to antitrust 
+prohibitions on unilateral conduct (or a dangerous probability of acquiring monopoly power).  In 
+the context of aftermarkets, a key question regarding product market definition is whether the 
+                                                 
+60 OECD Note, Competition in Aftermarkets at 9-10 (collecting cases).  See In re Indep. Serv. Org. Antitrust Litig., 
+203 F.3d 1322 (Fed. Cir. 2000) (a company does not violate antitrust law when it refuses to sell or license its 
+copyrighted works as an aftermarket product). 
+61 Queen City Pizza, Inc. v. Domino’s Pizza, Inc., 124 F.3d 430, 433 (3d Cir. 1997) (affirming dismissal of 
+monopolization, attempt to monopolize, exclusive dealing, and tying claims brought by franchisees against 
+franchisor regarding standard franchise agreement that promoted uniform standards for ingredients, beverages, and 
+packaging materials); SMS Sys. Maintenance Servs., Inc. v. Digital Equip. Corp., 188 F.3d 11, 13-14, 20-21 (1st Cir. 
+1999) (affirming summary judgment for manufacturer against ISO claims that integration of three-year warranty 
+with sale of computer systems constituted attempted monopolization). 
+62 Brokerage Concepts, Inc. v. U.S. Healthcare, Inc., 140 F.3d 494 (3d Cir. 1988) (rejecting plaintiff pharmacy’s 
+argument that high switching costs were sufficiently high to cause lock-in to a health care plan). 
+63 Carl Shapiro, Aftermarkets and Consumer Welfare: Making Sense of Kodak, 63 Antitrust L.J. 483, 485 (1995). 
+64 United States v. Grinnell Corp., 384 U.S. 563, 570-71 (1966). 
+65 United States v. Microsoft Corp., 253 F.3d 34, 79 (D.C. Cir. 2001). 
+15 
+ 
+aftermarket constitutes a relevant product market separate from the market for the sale of the 
+product. 66  If a hypothetical monopolist of an aftermarket (that is not a monopolist in the market 
+for the product) could profitably raise prices above the competitive level by at least a small but 
+significant and non-transitory amount, then competition from other aftermarket firms is not 
+sufficient to prevent anticompetitive behavior in the aftermarket.  Thus, it is sometimes 
+appropriate to analyze competition in a separate relevant market comprising the aftermarket. 
+ 
+But in many situations, application of general principles of market definition leads to a 
+conclusion that a relevant market is not limited to the product of a single manufacturer, which is 
+consistent with the Supreme Court’s discussion of the issue.  Rather, relevant product markets 
+typically include the products of multiple manufacturers.
+67  In a broader market, a single 
+manufacturer’s market share may not be sufficient to establish monopoly power in the relevant 
+market. 
+ 
+Anticompetitive conduct by a monopolist can take many forms.
+68  Examples of 
+potentially anticompetitive conduct described elsewhere as undermining competition from non-
+OEMs include refusals to deal, exclusive dealing, exclusionary design, and aggressive assertion 
+of patent rights.
+69  Conduct that can harm competition may fit into one or more categories,70 but 
+the underlying inquiry is whether the conduct harms consumers.71 
+ 
+While the Supreme Court recognizes that a monopolist’s refusal to deal with its rivals 
+under narrowly circumscribed circumstances may constitute exclusionary conduct supporting a 
+violation of Section 2,
+72 the Court has cautioned against imposing antitrust liability on firms that 
+would require them to do business with other companies, including rivals or potential rivals.73    
+                                                 
+66 A relevant market includes all products “reasonably interchangeable by consumers for the same purposes.” United 
+States v. E.I. du Pont de Nemours & Co., 351 U.S. 377, 395 (1956). The Supreme Court has defined monopoly 
+power in a relevant market as “the power to control prices or exclude competition,” which can be shown through 
+direct evidence or inferred where the defendant has a predominant share of a properly defined relevant market that is 
+protected by entry barriers. See, e.g., United States v. Dentsply Int’l, Inc., 399 F.3d 181, 187 (3d Cir. 2005); 
+Microsoft, 253 F.3d at 51. 
+67 See, e.g., Town Sound & Custom Tops, Inc. v. Chrysler Motors, 959 F.2d. 468, 487-94 (3d Cir. 1992). 
+68 The FTC has several pending cases challenging a variety of exclusionary conduct to maintain a monopoly in 
+violation of the antitrust laws. See, e.g., FTC v. Surescripts, No. 19-1080 (D.D.C.) (complaint filed Apr. 17, 2019) 
+(https://www.ftc.gov/system/files/documents/cases/surescripts_redacted_complaint_4-24-19.pdf); FTC et al. v. 
+Vyera Pharmaceuticals, LLC et al., No. 20-706 (S.D.N.Y) (complaint filed Jan. 27, 2020; amended complaint filed 
+Apr. 14, 2020) (https://www.ftc.gov/system/files/documents/cases/161_0001_vyera_amended_complaint.pdf); FTC 
+v. Facebook, No. 1:20-cv-03590 (D.D.C.) (complaint filed Dec. 9, 2020) 
+(https://www.ftc.gov/system/files/documents/cases/051_2021.01.21_revised_partially_redacted_complaint.pdf); 
+FTC v. Endo Pharmaceuticals et al., No. 1:21-cv-00217 (D.D.C.) (complaint filed Jan. 25, 2021) 
+(https://www.ftc.gov/system/files/documents/cases/redacted_complaint_0.pdf)  
+69 See supra Section II and infra Section IV. 
+70 Trinko, 540 U.S. at 414 (“the means of illicit exclusion, like the means of legitimate competition, are myriad.”) 
+(internal quotes omitted) 
+71 Microsoft, 253 F.3d at 58.  See also Nynex Corp. v. Discon, Inc., 525 U.S. 128, 135 (1998) (plaintiffs “must allege 
+and prove harm, not just to a single competitor, but to the competitive process, i.e., to competition itself.”) 
+72 Aspen Skiing Co. v. Aspen Highlands Skiing Corp., 472 U.S. 585, 601-11 (1985); Otter Tail Power Co. v. United 
+States, 410 U.S. 366, 378 (1973). 
+73 Trinko, 540 U.S. at 400-11 (2004) (such limited exceptions reside “at or near the outer boundary of § 2 liability.”).  
+See also United States v. Colgate & Co., 250 U.S. 300, 307 (1919). 
+16 
+ 
+ 
+Likewise, the Court has been reluctant to impose antitrust liability on a defendant where 
+competitors are denied access to an input that is deemed essential, or critical, to competition.74  
+In these types of cases, antitrust analysis requires a careful application of general legal principles 
+to the specific factual circumstances and regulatory setting.  In addition, as discussed with regard 
+to tying claims analyzed under a rule of reason, defendants in a monopolization case will be 
+allowed to assert and prove that the challenged conduct is procompetitive in its overall effect.
+75  
+In sum, there may be some specific circumstances where the Commission could address repair 
+restrictions as violations of antitrust law.  In many instances, however, repair restrictions may 
+reduce consumers’ options for obtaining spare parts and repair services in the aftermarket 
+without running afoul of antitrust law.   
+ 
+III. INFORMATION GATHERING PROCESS  
+ 
+ In order to examine the effects of manufacturers’ repair restrictions on consumers’ repair 
+options, the Commission used a number of its information gathering tools.  On March 13, 2019, 
+Commission staff issued a Call for Empirical Research asking members of the public to provide 
+data and research regarding the prevalence of repair restrictions, the impact of such restrictions, 
+and the rationale for such restrictions, among other things.
+76  On the same day, staff announced 
+that they were seeking public comments concerning repair restrictions.  Staff received 22 
+responses to its Call for Empirical Research and 68 comments.77   
+ 
+The Commission received research submissions and comments from entities and 
+associations representing the full spectrum of interested parties.  Commenters included 
+manufacturers and their associations, repair advocates, independent repairers and their 
+associations, and consumers. .   
+ 
+Commission staff also hosted a half-day Workshop to examine further the ways in which 
+manufacturers may limit third-party repairs on July 16, 2019.  The Workshop began with 
+opening remarks by Commissioner Christine Wilson,78 which set the stage for the following 
+panels.  The first panel focused on how repair restrictions affect consumers and small businesses, 
+and included presentations by: Walter Alcorn, the Vice President for Environmental Affairs and 
+Industry Sustainability at the Consumer Technology Association, a trade association that 
+                                                 
+74 Although some lower courts have recognized an “essential facilities” doctrine, the Supreme Court has never 
+recognized such a doctrine, and views it as raising the same concerns as mandating dealing with a competitor. 
+Trinko, 540 U.S. at 410-11.  See also Philips N. Am., LLC v. Summit Imaging Inc., 2020 WL 6741966 *6-7 (W.D. 
+Wash. 2020) (dismissing ISO counterclaims against medical equipment manufacturer for monopolization and 
+attempted monopolization, including theories based on refusal to deal and essential facilities). 
+75 Dentsply, 399 F.3d 191, 196-97 (3d Cir. 2005) (defendant’s business justification was pretextual and did not 
+excuse exclusionary practices). 
+76 Federal Trade Commission, Call for Empirical Research: Nixing the Fix: A Workshop on repair restrictions, 
+https://www.ftc.gov/nixing-the-fix-call-for-research (“Call for Empirical Research”). 
+77 See Nixing the Fix: A Workshop on Repair Restrictions, Docket ID FTC-2019-0013, 
+https://www.regulations.gov/docket?D=FTC-2019-0013.  Most of the responses to the Call for Empirical Research 
+did not actually consist of empirical research and were more in the nature of comments.   
+78 Statement of Commissioner Christine S. Wilson Regarding FTC’s Nixing the Fix: A Workshop on Repair 
+Restrictions, https://www.ftc.gov/public-statements/2019/07/statement-commissioner-christine-s-wilson-regarding-
+ftcs-nixing-fix. 
+17 
+ 
+represents the U.S. consumer technology industry; George Borlase, research staff member at the 
+Institute for Defense Analyses Science and Technology Policy Institute; Jennifer Larson, the 
+CEO of Vibrant Technologies, an Eden Prairie, Minnesota-based remarketer of IT hardware; and 
+Theresa McDonough, the owner of Tech Medic, a mobile phone and computer repair shop 
+located in Middlebury, Vermont. 
+ 
+The second panel examined the arguments for and against providing consumers and 
+independent repair shops with the parts, tools and diagnostic software needed to repair products.  
+This panel featured two security experts—Earl Crane, a security advisor with the Se curity 
+Innovation Center and Gary McGraw, a security researcher with Securerepairs.org, an 
+organization of information (“cyber”) security professionals who support the right to repair.  
+Panelists also included Gay Gordon-Byrne, the executive director of The Repair Association, an 
+association that represents people involved in repair and reuse of technology, and George 
+Kerchner, the executive director of PRBA – The Rechargeable Battery Association (“PRBA”), a 
+trade association that represents the rechargeable power industry. 
+ 
+ The final panel explored proposed state legislation and industry initiatives aimed at 
+expanding consumers’ repair choices.  Panelists included:  Aaron Lowe, senior vice president for 
+regulatory and government affairs at the Auto Care Association, a trade association representing 
+businesses that manufacture, distribute and sell motor vehicle parts, accessories, tools, 
+equipment, materials and supplies, and perform vehicle service, maintenance and repair; two 
+state senators who have sponsored fair repair legislation in their states—the Honorable David 
+Osmek (a Republican state Senator from Minnesota) and the Honorable Chris Pearson (a 
+Progressive Party state Senator from Vermont); Kyle Wiens, the co-founder and CEO of iFixit, 
+operator of ifixit.com, a wiki-based site that teaches people how to fix products and sells repair 
+parts; and Sarah Faye Pierce, the director of government relations at the Association of Home 
+Appliance Manufacturers.  
+ 
+ This report is primarily based on the record we developed using the information 
+gathering tools described above.   
+ 
+IV. TYPES OF REPAIR RESTRICTIONS 
+ 
+In this section we describe manufacturer practices that right to repair advocates assert 
+have the effect of limiting consumer repair choices.  In Section V, we evaluate manufacturers’ 
+explanations for these restrictions.  Repair restrictions discussed at the Workshop, described in 
+the empirical research submissions, and delineated in the comments generally fall into eight 
+categories: 
+ 
+• Physical restrictions; 
+• Unavailability of parts, repair manuals, and diagnostic software and tools; 
+• Designs that make independent repairs less safe; 
+• Telematics (i.e., information on the operation and status of a vehicle that is collected 
+by a system contained in the vehicle and wirelessly relayed to a central location, often 
+the manufacturer or dealer of the vehicle); 
+• Application of patent rights and enforcement of trademarks; 
+18 
+ 
+• Disparagement of non-OEM parts and independent repair; 
+• Software locks, Digital Rights Management and Technical Protection Measures; and 
+• End User License Agreements. 
+ 
+A. Physical Restrictions 
+ 
+Physical restrictions, which can take a variety of forms, are restrictions that limit the 
+ability to open devices or physically remove and replace component parts.  These restrictions 
+were raised at the Workshop and in multiple comments as a common practice that limits 
+consumers’ ability to repair products or devices they own.  
+ 
+Repair advocates have identified different ways that manufactures build physical 
+restrictions into their products.  Such restrictions include highly specialized nuts and bolts that 
+require unique screw heads to open a device or machine.
+79   
+ 
+Another physical restriction that was discussed in the record was the use of glue to close 
+device cases or chassis or to secure component parts within a device.
+80  Repair advocates also 
+raised concerns about the increased use of soldering on motherboards and other technical 
+components.  By soldering RAM, storage or other components to a motherboard, manufacturers 
+eliminate the ability of consumers to replace or upgrade individual components of a product.
+81 
+ 
+Finally, commentators highlighted the trend by manufacturers to weld or close the 
+exterior of products.  Eliminating the ability to open a device eliminates the ability to repair a 
+product.
+82 
+ 
+B. Unavailability of Parts, Manuals, and Diagnostic Software/Tools 
+ 
+Repairs may be made more difficult or impossible to perform by individuals or 
+independent repairs shops due to their inability to access parts, manuals, and diagnostic software 
+and tools.  This section discusses each type of restriction in turn.  
+  
+1. Unavailability of Parts 
+ 
+Some manufacturers make parts available only to their authorized repair networks.  For 
+example, LKQ Corporation (“LKQ Corp.”) stated that in the automobile industry, where 
+replacement parts have been generally available outside of manufacturers’ repair networks, 
+several manufacturers, such as Volvo, limit the availability of key replacement parts to only their 
+authorized repair networks.
+83  
+ 
+                                                 
+79 iFixit empirical research, at 11; Transcript of Workshop (“Transcript”), at 38, https://www.ftc.gov/news-
+events/events-calendar/nixing-fix-workshop-repair-restrictions.   
+80 Transcript, at 22; iFixit empirical research, at 12, 21. 
+81 Transcript, at 48; iFixit empirical research, at 13-14.   
+82 Transcript, at 22.  
+83 LKQ Corporation empirical research (“LKQ Corp. empirical research”), at 14. 
+19 
+ 
+ Manufacturers’ control of spare parts makes it a challenge for individuals and 
+independent repair shops to replace consumable parts that are likely to need replacement during 
+the course of a product’s useful life, such as mobile phone batteries.84  Moreover, manufacturers’ 
+control of spare parts may result in consumers’ needing to replace appliances and other products 
+simply because they cannot obtain a spare part.85   
+ 
+2. Unavailability of Manuals  
+ 
+Independent repair shops and repair advocates state that some manufacturers do not 
+release service manuals that would be needed to fix otherwise repairable products.86  Service 
+manuals provide instructions and guidance on how to fix components that may be broken or not 
+functioning properly, or techniques for troubleshooting other issues.  Without these manuals, 
+independent repair providers claim that making repairs can be very difficult or impossible.  
+Furthermore, in certain instances, manufacturers threaten to sue or sue entities who publish 
+repair manuals or diagnostic codes.
+87   
+ 
+3. Unavailability of Diagnostic Software and Tools  
+ 
+Diagnostic software and firmware are often necessary today to make repairs because they 
+help repair shops diagnose problems with devices.88  Repair advocates have indicated that some 
+manufacturers limit the availability of such software and in other instances institute code that 
+prevents ISOs from developing alternative diagnostic software.89  
+   
+C. Designs that Make Independent Repairs Less Safe  
+ 
+The primary safety concern of independent repair raised by manufacturers and right to 
+repair advocates relates to the challenges of replacing lithium ion cells.  Lithium ion cells power 
+numerous devices, ranging from small consumer electronics to automobiles.  Two common types 
+of lithium ion cells are pouches—thin and flexible polymer cells that ar e found in electronic 
+                                                 
+84 Transcript, at 23. 
+85 Transcript, at 155-156. 
+86 Transcript of Judiciary Comm. Meeting, 104th Leg., 2nd Sess. 22 (Neb. 2016) at 22 (2-25-2016), 
+https://www.nebraskalegislature.gov/FloorDocs/104/PDF/Transcripts/Judiciary/2016-02-25.pdf (“Nebraska 
+Transcript”).  
+87 Electronic Frontier Foundation, Defend Your Right to Repair!, https://www.eff.org/issues/right-to-repair. Kyle 
+Wiens stated at the Workshop that he “… learned that there had actually been several  people that had posted [an 
+Apple] service manual online, but that they had gotten [Digital Millennium Copyright Act] copyright take-down 
+complaints from Apple saying, we don’t want you to share this information. And since then, I learned that that’s a 
+trend across the board.”  Transcript, at 165. 
+88 Motor and Equipment Manufacturers Association empirical research (“MEMA empirical research”), at 15; 
+International Association of Medical Equipment Remarketers and Servicers, Inc. empirical research (“IAMERS 
+empirical research”), at 2-3; Nebraska Transcript, at 21. 
+89 Jennifer Larson stated that she wants access to information authorized dealers get: diagnostics and firmware 
+patches.  Transcript, at 66; Nebraska Transcript, at 21; Transcript, at 138 (noting that it is difficult for independent 
+repair shops to fix products when required software patches are not readily available). 
+20 
+ 
+devices— and cylindrical cells that look like extra-large AA batteries and are used in 
+rechargeable power tools and electric cars.90    
+ 
+Lithium ion cells differ from common household batteries (e.g., AA, AAA, C and D) in 
+three important ways.  First, lithium ion cells are generally manufactured to accommodate the 
+specific power demands of a particular device.
+91  Each device may present its own unique power 
+demands.  Thus, a polymer cell from one model’s phone may not necessarily work in another 
+model even if they are the same size.  Second, lithium ion cells need to be handled carefully in 
+order to avoid a thermal runaway event that could lead to a chemical fire.
+92   
+ 
+Third, for common household batteries, the size and shape of the battery—its form 
+factor—in dicates that it can be used in a device that accepts a battery of that particular size and 
+shape.  The common cylindrical version of a lithium ion cell, however, comes in a form factor 
+called “18650” which refers to the cylinder’s dimensions—18mm in diamet er x 65.0mm in 
+length.  Unlike the common household batteries, which come in different shapes and sizes, and 
+are labeled by type, lithium ion batteries are the same size and shape (e.g. 18650 form factor) 
+regardless of internal chemistry, and are not labeled by type or internal chemistry.  As Kerchner 
+of the PRBA explained at the Workshop while holding up two different 18650 cells: 
+So, for example, these two cells look exactly the same. They have 
+the same dimensions. They’re 18650, 18 millimeters in diameter, 65 
+millimeters in length. This cell could have been designed to power 
+a notebook. This cell could have been designed to power a power 
+tool. If you mix these up, while they are the same size, and you put 
+these batteries with these cells together, that ’s where we ’re 
+concerned on some of the safety issues when consumers or repair 
+facilities are unaware of the difference between these individual 
+cells. . . And that’s important to recognize, that when you’re going 
+in and you ’re repairing products and you’ re not aware of the 
+differences between the different cell chemistries -- and there are 
+about six different lithium ion chemistries in the world today that 
+are used, both for consumer and industrial products. There ’s 
+different chemistries. There are dif ferent designs to power certain 
+products. And without that knowledge, there ’s a lot of safety 
+concerns that we, as an industry, have.
+93  
+As such, although they are the same size and shape, one 18650 cell may have a 
+dramatically different internal chemistry from another.  Yet an individual or independent repair 
+shop may not be able to distinguish among 18650 cells because the cylinders’ labels do not 
+                                                 
+90 Transcript, at 83.   
+91 Transcript, at 83. 
+92 A thermal runaway event is “a repeating cycle in which excessive heat causes more heat until the operation ceases 
+or an explosion occurs.”  “Thermal Runaway,” PCMag Encyclopedia, www.pcmag.com/encyclopedia/term/thermal-
+runaway.   
+93 Transcript, at 85-86. 
+21 
+ 
+contain information pertaining to the cells’ internal chemistries or the products for which they 
+were designed.94  The use of 18650 cells with the same form factor but different internal 
+chemistries creates the risk that a replacement 18650 will have a different internal chemistry 
+from the original 18650, placing individuals and independent repair shops at risk of inadvertently 
+causing thermal runaway events.    
+ 
+The use of glue to fasten polymer cells into mobile phones and other devices also 
+increases the risk that the cells will be punctured when they are removed by individuals and 
+independent repair shops that do not have access to specialized solvents or tools.95  These 
+practices reduce the ability of individuals and independent repair shops to remove and install 
+appropriate replacement lithium ion cells in consumer devices. 
+ 
+D. Steering Consumers to Manufacturers’ Repair Networks Using Telematics Systems 
+ 
+Many modern vehicles come equipped with telematics that monitor the status of the car 
+and relay that information to a central location.96  Numerous commenters asserted that these 
+telematics systems serve as a relatively new way of limiting independent repair access and 
+consumer choice in the auto repair industry.  As LKQ Corp. and MEMA described in their 
+submissions, telematics systems, which “provide remote, real-time communications between a 
+vehicle and a remote third party,” are currently only accessible by the vehicle manufacturers.
+97  
+This exclusive possession of information by manufacturers, LKQ Corp. asserted, limits 
+consumers and independent repair shops because: 
+ 
+Vehicle manufacturers retain exclusive insight in vehicle operations 
+and diagnostics systems[, v]ehicle manufacturers control the 
+telematics system for marketing purposes. Information and 
+advertisements sent by the vehicle  manufacturer can appear on the 
+information display[, and f]ollowing an accident, vehicle 
+manufacturers can steer the consumer, perhaps unwittingly and at 
+the time when they are most vulnerable, to a dealership or loyal 
+repair facility….
+98 
+ 
+The Auto Care Association also asserted that if every manufacturer creates a unique 
+system for accessing telematics vehicle repair data, “it will be difficult for aftermarket tools to 
+                                                 
+94 The labels on the 18650s seen by staff simply stated “18650.”  
+95 “[W]hen crushed, punctured, ripped or dropped, lithium-ion batteries can produce what the industry 
+euphemistically calls a ‘thermal event.’ It happens because these batteries short circuit when the super-thin separator 
+between their positive and negative parts gets breached.”  Geoffrey A. Fowler, The explosive problem with 
+recycling iPads, iPhones and other gadgets: They literally catch fire. The Washington Post, Sept. 11, 2018, 
+https://www.washingtonpost.com/technology/2018/09/11/explosive-problem-with-recycling-ipads-iphones-other-
+gadgets-they-literally-catch-fire/.    
+96 Telematics enable manufacturers to provide beneficial services to consumers such as, parking assist, vehicle 
+maintenance warnings, and navigation and emergency support.   
+97 LKQ empirical research, at 18; MEMA empirical research, at 14-15. 
+98 LKQ empirical research, at 18-19; MEMA empirical research, at 14-15. 
+22 
+ 
+navigate the system and repair shops could have difficulty cost effectively providing service for 
+their customers.”99  
+ 
+E. Application of Patent Rights and Enforcement of Trademarks  
+ 
+Intellectual property rights foster innovation by protecting significant investments in 
+research and development.  Two commenters raised intellectual property laws as lessening 
+competition or creating restrictions in the repair marketplace.  First, the International Institute for 
+Industrial Environmental Economics identified patent and trademark laws as “barriers for 
+consumers and the repair sector to buy, sell and carry out repairs,” in both the United States and 
+the European Union.
+100  The submission noted that patent and trademark laws create barriers in 
+conducting repairs not authorized by the OEM, the importing, selling, distribution, or 
+manufacturing of tools, and the manufacturing, selling, and importing of spare parts.101 
+ 
+Second, the Automotive Body Parts Association (“ABPA”) asserted that car 
+manufacturers’ use of intellectual property laws results in rising costs for repairs and repair 
+parts.
+102  In its empirical research submission, the ABPA alleged that “[t]he misuse of design 
+patents on repair parts to block competition from producing equivalent parts is creating an 
+environment with less competition and a significant pricing increase in the marketplace.”
+103  In 
+its post-Workshop comments, the ABPA also asserted that original equipment manufacturers are 
+attempting to disrupt supply chains for aftermarket parts, thus reducing competition for original 
+parts, by increasingly alleging trademark infringement at the point of entry when aftermarket 
+collision repair parts are imported into the US.
+104 
+ 
+F. Disparagement of Non-OEM parts and Independent Repair Services  
+ 
+According to right to repair advocates, another tactic used to restrict independent repair is 
+OEM efforts to promote their own parts and affiliate repair networks.  A number of commenters 
+also raised concerns about OEMs disparaging the quality of aftermarket parts and independent 
+repairs.
+105  The record most strongly reflects this with respect to the automobile industry.  For 
+example, the Auto Care Association cited a bulletin released by Honda “disparaging the use of 
+non-original equipment (OE) parts” and a bulletin from Kia “that warned against the use of an 
+aftermarket oil filter.”106  Safelite AutoGlass, the “nations [sic] largest purchaser of Original 
+Equipment Equivalent (OEE) replacement vehicle glass,” reported that vehicle manufacturers 
+                                                 
+99 Auto Care Association comment, at 3. 
+100 International Institute for Industrial Environmental Economics empirical research, at 4-6. 
+101 Id.  
+102 Automotive Body Parts Association, Consumer Issues in the Collison Repair Industry (“ABPA presentation”), at 
+18-19, https://www.regulations.gov/comment/FTC-2019-0013-0088.   
+103 Automotive Body Parts Association empirical research, (“ABPA empirical research”) at 1. 
+104 ABPA presentation at 13.  
+105 Of course, if a company had appropriate substantiation for a claim that its product or service was superior, that 
+claim would not violate Section 5 of the FTC Act. 
+106 Auto Care Association comment, at 4.  See also MEMA empirical research, at 11-13 (arguing that several 
+automobile manufacturers disparage non-OEM parts in order to “cast doubt on legitimate competitors and encourage 
+consumers and repairers to return to new car dealers for replacement parts.”).  
+23 
+ 
+have cast “any OEE products or non-dealership repair services as dangerous for the driver,” and 
+that individual vehicle owners “will turn away from the aftermarket and head to the new vehicle 
+dealer to ensure that their warranty and safety not be jeopardized.”107 
+ 
+G. Software Locks, Digital Rights Management, and Technological Protection 
+Measures 
+ 
+Software locks, digital rights management (“DRM”) tools or technological protection 
+measures (“TPMs”) are access control technologies implemented by OEMs.  While 
+manufacturers argue that these measures are necessary to protect proprietary hardware and 
+copyrighted technologies, repair advocates argue such tactics lock ISOs and consumers out of 
+basic repairs.  Embedded software may force consumers to have the maintenance and repair of 
+their products performed by the manufacturers’ authorized service networks.  Furthermore, 
+according to iFixit, “if you replace the screen on your iPhone—even if it’s with a brand new 
+OEM screen off of another identical iPhone—certain features like TrueTone won’t work 
+correctly.”
+108   
+ 
+McDonough explained that Apple synchronizes some iPhone parts to the device’s logic 
+board, making the part repairable only by Apple.109  Although McDonough said she does not 
+believe this practice is widespread in the marketplace, she fears that other manufacturers will 
+engage in a similar practice in the future, making it impossible for individuals and independent 
+repair shops to make certain repairs to electronic devices.110   
+ 
+According to LKQ, such a future is already occurring in the automotive industry through 
+“VIN burning”—the practice of limiting  a control module to function with a single vehicle 
+identification number.  With VIN burning, a manufacturer can constrain a part to function with 
+only a single car.  Using the part on another vehicle would be blocked by the vehicle’s embedded 
+software.
+111  This practice is reportedly being used by General Motors as well as a number of 
+European luxury brands.112  At least one manufacturer has also adopted a cybersecurity gateway 
+to reduce the risk of vehicle hacking, but repair advocates argue the manufacturer has 
+implemented the gateway in a manner that prevents legitimate third party repairs.113   
+ 
+Larson, whose company is a seller of refurbished computer servers, explained at the 
+Workshop that some manufacturers also limit third-party repairs through firmware updates to 
+products.  For example, she stated that manufacturers of servers, such as IBM, refuse to provide 
+firmware updates unless owners of equipment purchase maintenance contracts.  Without the 
+                                                 
+107 Safelite AutoGlass comment, at 1, 3. 
+108 iFixit empirical research, at 15. 
+109 Transcript, at 24.   
+110 Id.  
+111 LKQ empirical research, at 4-6.   
+112 Id. at 4.  Although manufacturers did not explain the rationale for VIN burning, we note this practice may have 
+benefits (such as reducing the marketability of stolen airbags and other components).  However, any such benefits 
+could likely be achieved without imposing a substantial burden on independent repair. 
+113 Id. at 16-18.  
+24 
+ 
+firmware updates, many of the used servers that her company acquires cannot be resold.114  
+Businesses that want to purchase such an aftermarket server would need to purchase a service 
+contract from the manufacturer in order to obtain the firmware update.115  Timothy Pearson, a 
+manager in a secure computer design and manufacturing firm, has similarly found that certain 
+vendors require all firmware components to be signed with their vendor key in order for the 
+firmware to execute.
+116   
+ 
+H. End User License Agreements 
+ 
+Both manufacturers and right to repair advocates acknowledge that many products now 
+consist of physical goods and embedded software that the manufacturer licenses to the consumer 
+under the terms of an End User License Agreement (“EULA”).  As Walter Alcorn of the 
+Consumer Technology Association explained:  “It used to be, before software was embedded in 
+these devices, ownership was very cut and dry . . . .  You owned it or you didn’t.  But now with 
+software, that has become a little bit more complicated.”
+117   
+ 
+According to Gordon-Byrne, a study conducted by the Repair Association showed that, 
+“Basically, 100% of manufacturers have restrictions on repair in every one of their [EULAs].”118  
+For this study, the Repair Association reviewed the EULAs of 52 products, including mobile 
+phones, enterprise and personal computers, smart TVs, and agricultural equipment.  The study 
+found that the EULAs restrict repairs by prohibiting modifications of software for any purpose, 
+prohibiting de-compiling or reverse engineering of software.
+119   
+ 
+V. MANUFACTURERS’ EXPLANATIONS FOR REPAIR RESTRICTIONS  
+ 
+Manufacturers have offered numerous explanations for repair restrictions.  In this section, 
+we list and evaluate their explanations.  We note that this section examines the broad effects of 
+repair restrictions concerning all types of products and across multiple industries.120   
+ 
+A. Protection of Intellectual Property 
+ 
+Manufacturers often rely on intellectual property law to protect their substantial investment in 
+the development of the products they create.  Repair advocates argue that the assertion of copyright, 
+trademark, and patent rights impedes independent repair.  As explained below, at present, the 
+assertion of IP rights does not appear to be a significant impediment to independent repair. 
+                                                 
+114 Transcript, at 16.   
+115 Id.  
+116 Timothy Pearson comment, at 1. 
+117 Transcript, at 40.  
+118 Transcript, at 76. 
+119 Repair Association empirical research, at 4-6.  According to the Repair Association, some EULAs specifically 
+prohibit the circumvention of technological protection measures even though the Copyright Office has provided 
+exemptions to the Digital Millennium Copyright Act that allow for the circumvention of TPMs to diagnose, 
+maintain or repair motorized land vehicles, smart phones, home appliances and home systems.  Id.  See infra Section 
+V.A.   
+120 Any law enforcement action concerning a manufacturer’s repair restrictions would need to focus on the particular 
+manufacturer’s repair restrictions and explanations for the restrictions. 
+25 
+ 
+ 
+Manufacturers of products with embedded software rely on copyright law to protect their 
+code from being copied.  Some manufacturers also secure design or utility patents for products 
+they offer or for their component parts.  Manufacturers may also invoke copyright or trade secret 
+law to prevent the public disclosure of their repair protocols and manuals.121 
+ 
+Manufacturers argue that vigorous assertion of their intellectual property rights sustains 
+the health of the vibrant and innovative technology industry
+122 and fosters innovation.123  They 
+argue providing individuals and independent repair shops with access to proprietary information, 
+parts, tools, and equipment without the contractual safeguards currently in place between 
+manufacturers and affiliated service providers would place sensitive protected intellectual 
+property and trade secrets at significant risk
+124 and force them “to reveal sensitive technical 
+information about their products, including source code, tools, and trade secrets.”125  
+ 
+Specifically, as to copyright law, manufacturers of video games and gaming consoles assert 
+that repair restrictions in the form of technological protection measures (“TPMs”) are needed to 
+protect video games from being pirated.  According to the Electronic Software Association 
+(ESA), which “represents the major game console manufacturers and almost all of the major 
+video game publishers in the United States,” “some game console repairs may require replacing 
+hardware components or parts of components, and some of these hardware fixes may require” 
+circumvention of a console’s anti-piracy TPMs.126  Other game console repairs may require 
+components of the console to be “re-authenticated” to restore the console to a functional state.  
+This “re-authentication” enables console makers to ensure that the repairs did not compromise 
+the TPMs.127  According to Microsoft, “unfettered access to diagnostic and proprietary hardware 
+tools increases the potential for malicious actors to circumvent anti-piracy controls.”128   
+ 
+As to patents, the National Association of Manufacturers explains that, although “the 
+purchaser of a patented product is entitled to repair and replace worn or broken parts, patent 
+owners generally have the right to dispose of their patented property as they wish, including by 
+deciding to sell” (or not sell) their products to whomever they choose.129  They assert that any 
+requirement that a company must make available patented replacement parts for repair would be 
+contrary to the statutorily protected right of a patent holder to exclude others from making, using, 
+or selling their patented invention.
+130   
+ 
+                                                 
+121 See, e.g., Kyle Wiens (@kwiens), Twitter (June 11, 2020, 1:39 PM), 
+https://twitter.com/kwiens/status/1271134890872856577, (Letter from STERIS Corp. to Kyle Wiens demanding 
+removal of ventilator repair manuals from iFixit.com’s web site).    
+122 Joint Comment of Association of Home Appliance Manufacturers et al. (“Joint Comment”), at 4. 
+123 National Association of Manufacturers comment (“NAM comment”), at 2.   
+124 Joint Comment, at 4. 
+125 CompTIA comment, at 10.  We note that manufacturers generally discussed trade secrets, but did not provide any 
+explanation of the types of trade secrets that might be implicated in the repair context.   
+126 Entertainment Software Association empirical research (“ESA empirical research”), at 3.   
+127 Id. at 3-4.   
+128 Microsoft Corporation comment (“Microsoft comment”), at 10. 
+129 NAM comment, at 1.   
+130 Id.  
+26 
+ 
+A full discussion of the interplay between intellectual property and repair is beyond the 
+scope of this report.131  Nonetheless, while it is clear that manufacturers’ assertion of intellectual 
+property rights can impede repairs by individuals and independent repair shops, in many 
+instances intellectual property rights do not appear to present an insurmountable obstacle to 
+repair.  For instance, as to copyright law, Section 117(c) of the Copyright Act provides that an 
+owner or lessee of a machine may make a copy of a computer program for purposes of 
+maintenance or repair.
+132  Moreover, in its most recent exemptions to the Digital Millennium 
+Copyright Act’s anti-circumvention provisions,133 the Librarian of Congress has permitted the 
+circumvention of TPMs to diagnose, maintain, or repair motorized land vehicles, smart phones, 
+home appliances and home systems.134  As to trade secrets, information that manufacturers 
+already share with authorized repair centers may not qualify for trade secret protection.  With 
+regards to other possible trade secrets, model right to repair legislation exempts trade secrets 
+from disclosure. With respect to patent law, patents could potentially impact competitive markets 
+for repair parts if there are valid and enforced patents protecting component parts; however, only 
+two commenters noted that manufacturers’ assertion of patent rights impedes independent 
+repair.
+135  Thus, it is not clear that manufacturers are readily turning to patent law to prevent 
+independent repair shops from obtaining spare parts.136   
+ 
+B. Safety  
+ 
+Manufacturers argue that repair restrictions protect repair workers and consumers from 
+injuries that could result from fixing a product or using an improperly repaired product.  
+According to manufacturers, safety risks are mitigated when repairs are performed by authorized 
+repair persons because their contracts with such persons ensure that they have been properly 
+trained and “have the necessary skills to safely and reliably repair products to OEM 
+specifications and standards with OEM-quality parts.”
+137   
+ 
+Individuals and independent repair shops, manufacturers assert, are unlikely to be aware 
+of the dangers inherent in some repairs and may be injured as a result.  For instance, GE 
+Appliances explained that an untrained person attempting to repair a microwave oven could be 
+injured because, “internal microwave oven capacitors can discharge current even when not 
+                                                 
+131 Commissioner Wilson and Commissioner Phillips note that it is difficult to conduct a full weighing of the cost 
+and benefits of repair restrictions without an analysis of the intellectual property rights of manufacturers. 
+132 17 U.S.C. § 117(c). 
+133 17 U.S.C. § 1201. 
+134 37 C.F.R. § 201.40 (2019).  The Digital Millennium Copyright Act prohibits circumvention of technological 
+measures that control access to copyrighted work, but provides the Librarian of Congress with the authority to create 
+temporary exemptions to this prohibition.  One commenter has noted, “While the 2018 exemptions are exciting 
+news for the repair movement and provide individual consumers with greater freedom. . . a major downside is that 
+these exemptions are temporary.”  Leah Chan Grinvald & Ofer Tur-Sinai, Intellectual Property Law and the Right to 
+Repair, 88 Fordham L. Rev. 63, 105 (2019).  Another limitation of the exemptions is that repair shops that 
+circumvent digital locks could possibly be liable for violating the DMCA’s anti-trafficking provisions if they use 
+repair manuals provided by third parties online.  Id. at 106. 
+135 See supra at Section IV.E.  
+136 If assertion of patent rights were to become a significant obstacle to independent repair, Congress could consider 
+how to strike the appropriate balance between incentivizing innovation through patent law and ensuring competitive 
+repair markets. 
+137 Joint Comment, at 3. 
+27 
+ 
+energized because they retain a powerful charge for some time even after unplugged.”138  The 
+National Association of Manufacturers (“NAM”) similarly explained that many consumer 
+electronic products “contain parts that may pose serious safety risks to the physical well-being of 
+consumers when repaired by anyone but an authorized expert.”139  The Computing Technology 
+Industry Association (“CompTIA”) explained that the presence of high-energy lithium batteries 
+in products compounds these safety risks because “[i]mproper alterations or handling of such 
+high-risk components could potentially lead to serious injuries such as burns or blindness.”140   
+ 
+Manufacturers further assert that unauthorized repair presents a safety risk for a device’s 
+user, not just its repairer.  CompTIA stated that an improperly repaired device could harm a 
+consumer long after the repair, noting that “an Internet-connected smoke detector, carbon 
+monoxide detector, or fire alarm that has not been repaired properly could easily 
+malfunction.”
+141  PRBA described how an improperly repaired device could even injure 
+numerous people in the vicinity of the device, quoting a report from the Australian Transport 
+Safety Bureau about a 2011 incident involving a mobile phone that experienced a thermal 
+runaway on an airplane:     
+  
+The report from the investigation included the following: “ The 
+technical examinations found that a small metal screw  had been 
+misplaced in the battery bay of the mobile telephone; the screw 
+puncturing the battery casing and causing an internal short circuit 
+leading to heating and thermal runaway. It was probable that the 
+screw had been misplaced during an earlier repair  carried out on 
+the telephone. That repair had not been conducted by an authorized 
+service provider. This investigation highlights the risks associated 
+with the use of non- authorized agents for the repair of lithium 
+battery-powered devices… .”
+142 
+ 
+The Association of Home Appliance Manufacturers also described additional safety 
+concerns in connection with service technicians entering a person’s home.
+143  For example, 
+AHAM noted that property damage may result if services are not performed correctly, and that 
+manufacturers “generally have processes and procedures in place that track repairs completed 
+through their service networks.”  AHAM also noted that “in addition to the numerous technical 
+and safety certifications service technicians must hold, manufacturers require complete 
+background checks and drug screening for all technicians working for affiliated servicers” and 
+that this “provides a layer of security to customers as well as a layer of traceability for 
+manufacturers.”
+144  By contrast, AHAM stated that  
+ 
+                                                 
+138 GE Appliances comment, at 2. 
+139 NAM comment, at 3. 
+140 CompTIA comment, at 4.   
+141 Id.  
+142 PRBA – The Rechargeable Battery Association empirical research (“PRBA empirical research”), at 3 (emphasis 
+added by PRBA). 
+143 Association of Home Appliance Manufacturers comment (“AHAM comment”), at 2.   
+144 Id. at 12.   
+28 
+ 
+There is a risk with unaffiliated and untrained service technicians. 
+Because they have not availed themselves of the available training, 
+this type of service technician may not be familiar with the appliance 
+at hand or the software manufacturers pro vide for service 
+technicians to repair products correctly and safely. As a result, there 
+could be greater risk of an improper diagnosis, use of incorrect or 
+substandard parts or even, unknowingly, counterfeit parts.
+ The 
+repercussions not only jeopardize the life of the product but may also 
+leave the consumer worse off than before either with a new malfunction 
+or a product rendered unsafe due to a repair conducted improperly or 
+with the wrong parts. For example, a product could experience a major 
+malfunction following the attempted repair causing fire, flooding or 
+other potential hazards (and property damage).
+ 
+  
+Safety considerations are a critical part of any discussion about repairs.  Concerns about 
+the safety of users, repair personnel and the public, however, should not automatically justify 
+restricting repairs to authorized repair networks without further analysis.145  Upon closer review, 
+some of the safety considerations cited give pause.  First, other than citing to the mobile phone 
+thermal runaway occurring in Australia in 2011,146 manufacturers provided no data to support 
+their argument that injuries are tied to repairs performed by consumers or independent repair 
+shops.  This is so despite the fact that the Call for Empirical Research specifically asked for data 
+concerning “[t]he risks posed by repairs made by consumers or independent repair shops”147 and 
+several manufacturers and their associations submitted comments and were provided the 
+opportunity to participate in the Workshop.  Nor have manufacturers provided factual support for 
+their statements that authorized repair persons are more careful or that individuals or independent 
+repair shops fail to take appropriate safety precautions, or that independent repair workers who 
+enter homes pose more of a safety risk to consumers than authorized repair workers.
+148  
+                                                 
+145 By not making parts and manuals available to individuals and independent repair shops, and not including 
+information in these manuals about the dangers of particular repairs, manufacturers may be exacerbating the very 
+safety concerns they have raised.   
+146 Mobile phones that catch on fire on airplanes are a serious safety concern.  But, the record at hand does not 
+support the proposition that phones repaired by individuals or independent repair shops are more likely to result in 
+thermal runaway events than phones repaired by manufacturers.  In fact, new phones have been known to have 
+unsafe designs that result in spontaneous thermal runaway events.  Samsung Recalls Galaxy Note 7 Amid Explosion 
+Worries, https://www.forbes.com/sites/ianmorris/2016/09/01/samsung-galaxy-note-7-recall-
+exploding/?sh=2003b75a152f.  In 2016, the FAA advised consumers to refrain from turning on or charging 
+Samsung Galaxy 7 devices or to stow them in checked baggage. See Federal Aviation Administration, FAA 
+Statement on Samsung Galaxy Note 7 Devices (last modified Sept. 8, 2016), 
+https://www.faa.gov/news/updates/?newsId=86424. 
+147 Call for Empirical Research, https://www.ftc.gov/nixing-the-fix-call-for-research. 
+148 In the context of medical devices, where the potential risks of improperly repaired machinery are especially 
+acute, IAMERS stated that “there is no significant safety problem related to servicing maintenance and repair by 
+independent services,” noting that a 2018 FDA report “evaluated medical device reports [“MDRs”] pertaining to 
+events allegedly involving third party servicing.  Significantly, of the 4,301 MDRs identified (as discussed by the 
+FDA) only three contained sufficient information to conclude that servicing caused or contributed to death. 
+Moreover, the FDA noted that it was unable to establish a conclusive relationship between device third party entity 
+servicing and the subsequent adverse event.”  IAMERS comment at 2.  We note that the FDA concluded that they 
+“believe the currently available objective evidence is not sufficient to conclude whether or not there is a widespread 
+29 
+ 
+ 
+Second, according to Vermont State Senator Pearson, manufacturers’ safety arguments 
+are difficult to square with the experience of repair in the automotive sector: 
+The security and safety issues we heard earlier today were similar to 
+what we heard during the [Vermont legislative] task force. And to 
+me, the arguments are largely bogus, and they fall apart. When we 
+think about motor vehicles,
+ I think we would all agree an automobile 
+is one of the more dangerous products that we own and we control. 
+To say that consumers should not be permitted to take electronics to 
+a repair shop is basically insisting that our cars have to be repaired  
+at the dealer.  
+We’ve rejected this argument as a society, and this has to do with a 
+ton of steel that we ’re hurtling down the road, you know. We ’d be 
+wise to do the same when it comes to lightweight electronics, heavy 
+washing machines, everything in between.
+149 
+Gay Gordon-Byrne of the Repair Association also noted that, “taking an alternator out of a car 
+and putting it up on a hoist and dropping it on my foot is pretty dangerous” compared to opening 
+up the back of a computer and putting in a new motherboard or replacing a screen.150  The 
+automotive sector demonstrates that consumers and independent repair shops are able to repair 
+cars every day even though cars are a diverse group of complex machines that contain gasoline 
+and battery acid and have hundreds of moving parts.  With appropriate parts, repair information, 
+and training, consumers and independent repair shops would similarly be capable of safely 
+repairing other products. 
+ Third, manufacturers can choose to make products safer to repair when considering a 
+product’s design.
+151  For instance, making lithium ion cellular pouches easily replaceable would 
+decrease the likelihood of puncture during replacement and thus thermal runaways.  As Theresa 
+McDonough explained:   
+[T]his is an issue that companies have created themselves. If you 
+don’t want us being injured by repairing the battery, which is going 
+to go, then why glue them in? Why not have them easily removable 
+like they used to be?
+152 
+                                                 
+public health concern related to servicing of medical devices, including by third party servicers, that would justify 
+imposing additional/different burdensome regulatory requirements at this time.”  FDA Report on the Quality, Safety 
+and Effectiveness of Servicing Medical Devices, at 23 (2018), https://www.fda.gov/media/113431/download (last 
+visited Mar. 18, 2021).  
+149 Transcript, at 156-57.    
+150 Id. at 146. 
+151 Id. at 28. 
+152 Id. at 23-24. 
+30 
+ 
+Similarly, by refusing to supply replacement parts outside of their authorized repair 
+networks, right to repair advocates assert that manufacturers increase the dangers associated with 
+independent repair.  According to Gordon-Byrne, consumers often want original parts but cannot 
+get them and therefore turn to substitutes where the quality is variable.153  Furthermore, 
+manufacturers could control the risks associated with repairs by including warnings in their 
+repair manuals about ways to mitigate the dangers of particular repairs and making the manuals 
+available to individuals and independent repair shops. 
+The failure to label 18650 cells serves as a prime example of a manufacturer practice that 
+increases the safety risks of independent repair.  As noted in Section IV.C., all 18650 cells have 
+the same dimensions, but they can have different chemistries.  Replacing one 18650 with another 
+cell of the same size but different chemistry could result in a thermal runaway event.  This risk 
+could be significantly reduced if the chemistry of an 18650 appeared on its label and 
+manufacturers identified the particular 18650 chemistries used in their devices.
+154  Indeed, such 
+disclosure would impose an arguably minimal burden on manufacturers and would likely serve a 
+valuable purpose.   
+C. Cybersecurity  
+ 
+Manufacturers also assert that repair restrictions protect consumers from cybersecurity 
+risks.  Microsoft explained that consumers face significant risks when they provide a device 
+containing sensitive personal information to an independent repair shop because the device may 
+contain a user’s pictures, sensitive documents, financial records, emails, passwords, and personal 
+contacts.
+155  Similarly, CompTIA explained that many manufacturers’ remote diagnostic tools 
+provide access to the entire device, including software, data, and other files.  Providing 
+diagnostic access to individuals or independent repair shops, according to CompTIA, may enable 
+a repairer to identify consumer specific information such as how often a device is used, when the 
+device is used, IP addresses, and other information, which could then be commingled with 
+personally identifiable information.156   
+ 
+Furthermore, Microsoft noted that individuals and independent repair shops that conduct 
+repairs could compromise the embedded hardware security technology that manufacturers use to 
+protect user data and ensure that device integrity is maintained during boot up.
+157  NAM 
+explained that individuals and independent repair shops can introduce new security risks by 
+inadvertently disabling key hardware security features or preventing firmware or software from 
+accepting or installing updates.158  AHAM similarly noted that “[s]ervicing a “smart” appliance 
+may require accessing the appliance’s electronic hardware circuitry, including chip-sets, 
+firmware, security key pairings and/or proprietary technical configurations….T ampering, 
+whether intentional or unintentional, in this area can result in leaving the appliance vulnerable to 
+                                                 
+153 Id. at 105-06. 
+154 According to PRBA, there are currently six different chemistries used in 18650 cells.  Transcript, at 85-86. 
+155 Microsoft comment, at 9. 
+156 CompTIA comment, at 5. 
+157 Microsoft comment, at 8-9.    
+158 NAM comment, at 3. 
+31 
+ 
+hacking and the downloading of malware.”159  CompTIA stated that for connected devices, the 
+harms resulting from insecure repairs can injure third parties.  They noted that “[w]ith more than 
+20 billion connected products by 2020, including appliances, thermostats, fire alarms, 
+automobiles, etc.,” the insecure repair of a device can place numerous other connected devices 
+and the data they hold at risk because “[w]ith access to technical information, criminals could 
+more easily circumvent security protections, harming not only the product owner but also 
+everyone who shares their network.”
+160   
+ 
+Authorized repair professionals, according to the manufacturers, conduct repairs without 
+compromising the privacy of device users or introducing security risks.  AHAM explained that 
+certified service technicians train to understand appliances’ functionality, perform repairs that do 
+not introduce vulnerabilities, and are contractually accountable for their work.
+161  The Consumer 
+Technology Association (“CTA”) posited that prohibiting individuals and independent repair 
+shops from fixing products is in keeping with the FTC’s guidance regarding manufacturers’ 
+responsibility for product security over its lifetime, because the FTC’s 2015 Internet of Things 
+staff report and its Start with Security guidance recommend that companies retain service 
+providers that are capable of maintaining reasonable security, engage in reasonable oversight of 
+these service providers, and monitor products throughout their life cycle.162  As CTA’s Walter 
+Alcorn put it, “if manufacturers are required to provide all the software and the ability to repair, 
+to change products, well, that pretty much goes out the window.”163  Security consultant Earl 
+Crane similarly remarked at the Workshop that “mandating design decisions runs in direct 
+contradiction of policies that focus on manufacturer accountability.”
+164   
+ 
+ The record contains no empirical evidence to suggest that independent repair shops are 
+more or less likely than authorized repair shops to compromise or misuse customer data.  
+Furthermore, although access to certain embedded software could introduce new security risks, 
+repair advocates note that they only seek diagnostics and firmware patches.165  Furthermore, 
+according to Gay Gordon-Byrne, replacing a part on a device with an identical OEM part or 
+functionally equivalent aftermarket part is unlikely to create a cybersecurity risk.166   
+ 
+Providing individuals and independent repair shops with the diagnostic software to fix 
+devices and with firmware patches is fully consistent with Commission staff’s 2015 Internet of 
+Things report and its subsequent Start with Security guidance.  Manufacturers can provide others 
+with access to the same parts and tools that they provide to their authorized service providers.  
+And, by providing such access to individuals and independent repair shops, manufacturers would 
+have greater confidence in the repair activities that occur outside of their authorized networks.   
+As noted above in connection with safety concerns, with appropriate parts and repair 
+                                                 
+159 AHAM comment, at 13.   
+160 CompTIA comment, at 6.   
+161 AHAM comment, at 13. 
+162 Consumer Technology Association comment (“CTA comment”), at 3-4. 
+163 Transcript, at 44. 
+164 Id. at 91. 
+165 Id. at 66.    
+166 See, e.g., Transcript at 118 (swapping out a memory card that is the same brand as the original memory card does 
+not create a cybersecurity risk). 
+32 
+ 
+information, the record supports arguments that consumers and independent repair shops would 
+be equally capable of minimizing cybersecurity risks, as are authorized repairers.   
+ 
+D. Liability and Reputational Harm   
+ 
+Many OEMs have argued that manufacturers will face liability or reputational harm if 
+independent repair shops make faulty repairs, and such a burden is an unfair consequence of 
+lifting repair restrictions.  For example,
+ CTA stated that OEMs suffer “reputational risk and the 
+expense of defending lawsuits that result from improperly repaired devices or use of defective 
+aftermarket parts.”167  Similarly, in the joint comment submitted by several organizations 
+representing manufacturers, OEMs stated that while affiliated repair networks serve to protect 
+brand investment, “[i]nitial press coverage of failures of consumer devices seldom, if ever, 
+attempts to determine whether the device had been repaired by an independent service provider 
+or refurbished with parts that did not meet OEM standards.  Follow-up coverage may ultimately 
+identify inferior third-party repairs and parts as the culprit, but this is likely to do little to 
+overcome the initial impression made on consumers.”168  Similarly, CompTIA stated in its 
+comment: 
+ 
+If an OEM’s brand and warranty are to stand behind repair work and 
+assume product liability, it is only reasonable that the repair facility 
+demonstrates competency and reliability. Without the training and 
+other quality assurance req uirements of affiliated service provider 
+networks—implemented through enforceable legal contracts that 
+ensure compliance and accountability that protect consumers—
+manufacturers would not be able to stand behind their work, 
+warranties, technical support, on going training, and business 
+support.
+169 
+ 
+CompTIA also raised a concern that manufacturers may not be willing to design products in 
+particular ways due to liability considerations if “insecure repair mandates” were put in place.
+170 
+For example, CompTIA stated that “a manufacturer may be required to revisit [new, innovative, 
+and lightweight designs, which enable recent mobile uses such as secure payment, navigation, 
+and video conferencing] because of long-term repair or liability considerations.”
+171   
+ 
+ In addition, AHAM noted in its comment that affiliated third party or local servicers 
+undergo substantial product training and certification and that the certification is, in part, to 
+uphold brand reputation.
+172  AHAM also stated that a benefit of authorized repair in contrast to 
+independent repair is that manufacturers have procedures in place to track repairs completed 
+through their networks.  This in turn helps ensure that “liability claims and determinations can be 
+more easily assessed, especially in cases where the source of the repairs cannot be readily 
+                                                 
+167 CTA comment, at 5. 
+168 Joint Comment, at 4-5. 
+169 CompTIA comment, at 8. 
+170 Id. at 9. 
+171 Id. at 9. 
+172 AHAM comment, at 10-11. 
+33 
+ 
+identified.  Moreover, manufacturers will have [a] record of the repairs, which can assist in 
+insurance claims and / or criminal investigations.”173   
+ By contrast, Workshop panelist Kyle Wiens stated that manufacturers are creating 
+liability for themselves by withholding information from third parties on how to fix products.174  
+In addition, AOCA argued that manufacturers simply use aftermarket parts and service providers 
+as scapegoats for issues that arise with OEM-branded parts and service.  For example, AOCA 
+asserted that automakers engage in this type of restriction when they issue:  
+ 
+a Technical Service Bulletin (TSB) directing its authorized dealers 
+to treat certain aftermarket parts as the de facto  cause of problem 
+engine symptoms that can be caused by a variety of factors including 
+engine defects.  The dealers forgo technical analysis and instead 
+repeat the maintenance process for which th e aftermarket part was 
+employed— this time using the automaker’s recommended brand 
+part.  The automaker and dealer have not proven the particular 
+aftermarket part caused the problem engine symptom as required by 
+MMWA, yet the consumer  gets charged for the mandatory 
+maintenance including when it doesn’t solve the problem  engine 
+symptom.
+175 
+ 
+Other than these assertions of liability exposure and reputational harm, the record is 
+sparse.  In the Request for Empirical Research, staff requested data and research about “[t]he 
+liability faced by manufacturers when consumers or independent repair workers are injured while 
+repairing a product.”176  Staff also sought data on “[t]he liability faced by manufacturers when 
+consumers are injured after using or coming into contact with a product that has been repaired 
+improperly by a consumer or independent repair shop.”177  Staff additionally requested this data 
+in individual meetings with manufacturers and trade associations.  Manufacturers provided no 
+empirical evidence to support their concerns about reputational harm or potential liability 
+resulting from faulty third party repairs.   
+ 
+E. Design Choices and Consumer Demand Drive the Repairability of the Devices  
+ 
+OEMs and the industry trade groups representing them argue that consumer demand and 
+design decisions to service that demand, as well as consumer safety, are the drivers behind 
+various physical repair restrictions.  For instance, in its comment, CTA stated that: 
+ 
+OEMs [] invest in improvements to their product designs in response 
+to consumer preferences. Such improvements may, however, 
+involve trade-offs. For example, customer preferences for a lighter 
+device may require the use of materials that are not as durable, or 
+                                                 
+173 Id. at 12. 
+174 Transcript, at 197 (referring to the release of forklift repair manuals to limit legal liability). 
+175 AOCA empirical research, at 3.    
+176 Call for Empirical Research, https://www.ftc.gov/nixing-the-fix-call-for-research. 
+177 Id. 
+34 
+ 
+the desire for a smaller product profile may dictate that a component 
+be glued rather than mechanically fastened with a space -eating 
+bracket. These design choices may impact the ease or difficulty with 
+which a device, or a component thereof, can be repaired or replaced; 
+a challenge faced by all repair providers, whether affiliated with an 
+OEM or not.
+178 
+ 
+When asked during the Workshop whether methods that some call repair restrictions, like 
+the use of epoxy to glue parts together, are actually just design decisions that are necessary in 
+order to meet consumer demand, Alcorn of CTA said that there was a lot of concern among 
+OEMs about “the wrong battery being put in upon replacement, which creates safety problems.  
+Thermal events, I think as some people call them.  But then the other issue, which is a significant 
+issue, is consumer demand…. c onsumer demand is something that these manufacturers spend an 
+awful lot of time and money trying to figure out and they compete fiercely for that.”
+179 
+ 
+Microsoft made a similar argument, saying that consumer demand and “market 
+requirements” may have an incidental effect on the ease of device repairability.
+180  However, 
+these “design features,” it argued, must be considered in the full context of why they were 
+implemented, and not just as “‘repair restrictions’ in isolation.”
+181  Microsoft cited its choice to 
+use adhesive to secure batteries and design display panels as an example of one such “design 
+feature.”  It asserted that the use of adhesive, over screws, makes for a sounder, more durable 
+and damage resistant device that can better survive “inadvertent drops or mishandling,” while 
+“also meet[ing] consumer demand for a high-quality, tactile, and ‘solid’ product feel by 
+preventing internal components from rattling with the casing.”
+182 
+ 
+Right to repair advocates argue that consumers care about repairability, in addition to 
+aesthetic design, but do not have the necessary information at the point of sale to purchase 
+products that are repairable.  McDonough stated at the Workshop, “I can confidently say that all 
+of my customers have no idea whether or not their devices are repairable.  So many times I’ve 
+heard, ‘had I known I couldn’t fix it I would not have purchased it.’”183  Nathan Proctor also 
+stated in his remarks that “I think the problem is the point of sale, is just— consumers don’t have 
+enough information … people are trying to crowdsource that information, but that’s a problem 
+now …. You can’t say the consumers don’t want it because I hear those complai nts all the 
+time.”
+184  
+ 
+The arguments made in submissions to the docket and at the Workshop on this point, by 
+manufacturers and right to repair advocates alike, were almost entirely anecdotal in nature.  
+Researchers, however, have studied this issue.  First, a 2018 paper examining “whether 
+repairability and functional durability affects reuse [of smartphones] via secondary markets,” 
+                                                 
+178 CTA comment, at 5-6 
+179 Transcript, at 60-61. 
+180 Microsoft comment, at 1. 
+181 Id. at 1. 
+182 Id. at 5-6.   
+183 Transcript, at 25. 
+184 Id. at 59. 
+35 
+ 
+stated that “despite consumers’ proclaimed interest in repairability, evidence suggests that they 
+might be content with product lifespans, and not genuinely interested in fixing their devices.”185  
+Citing to “the limited market success of … phones that are specifically optimized to allow 
+unlimited repair and upgrades,” the authors state that “it remains unclear whether consumers 
+truly value the ability to repair and upgrade devices.”186  However, the study’s authors also 
+noted: 
+ 
+[A]lthough repairability scores varied among the different phone 
+models examined… it is possible that cons umers were unaware of 
+the fact that some phones are easier to repair than others.  Since 
+repairability scores are not commonly advertised, it remains unclear 
+whether given sufficient information regarding product repairability 
+and functional durability in general, economic lifespan of more 
+functionally durable models would increase. Future work should 
+examine the effect of making repairability information more salient 
+to consumers.
+187 
+ 
+A second study, from the 2017 Product Lifetimes and the Environment (“PLATE”) 
+conference found that the appearance of electronic goods was only “moderately” important to 
+consumers,
+188 as opposed to longevity and reliability, which were “extremely” important.189  
+Another paper out of the 2017 PLATE conference, authored by employees of environmental 
+ministries or attached agencies in Austria, Belgium, France, Germany, and Italy, looked at the 
+planned obsolescence of products and concluded that “[m]anufacturers and consumers interact 
+with one another and influence product development and consumption patterns.  The lack of 
+information concerning durable and repairable products causes an asymmetry in the market 
+balance and leaves consumers unable to make the best buying decisions regarding to their own 
+needs.”
+190  
+ 
+Apple’s experience with its battery replacement program also suggests that, given a 
+choice between a low-cost repair and buying a new mobile phone, many consumers will opt for 
+                                                 
+185 Tamar Makov et al. What Affects the Second-Hand Value of Smartphones: Evidence from eBay, at 4 (June 2018) 
+(internal citations omitted), https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12806 (examining listings on eBay 
+during two ten-day periods in 2015-2016 for Samsung and Apple mobile devices and finding that repairability of 
+device did not affect depreciation of device’s value). 
+186 Id.  
+187 Id. at 15.  
+188 The consumers in this study were from the United Kingdom. 
+189 A. Gnanapragasm et al., 2017, Consumer perspectives on product lifetimes: a national study of lifetime 
+satisfaction and purchasing factors. IN: Bakker, C.A. and Mugge, R. (eds.) PLATE: Product lifetimes and the 
+environment: Conference Proceedings of PLATE 2017, 8-10 November 2017, Delft, the Netherlands. Amsterdam: 
+IOS Press, pp. 144-148, at 146. Notably, this point was echoed by Microsoft in its comment: “Our customers 
+demand mobile products that are thin and light, durable and long lasting, and have the maximum possible usage 
+times.”  Microsoft comment, at 5. 
+190 E. Ober et al., Planned obsolescence: the government’s choice?, PLATE: Product lifetimes and the environment: 
+Conference Proceedings of PLATE 2017, 8-10 Nov. 2017, Delft, the Netherlands, Amsterdam: IOS Press, pp. 315-
+318, at 318 (2017).  While this report does not reach planned obsolescence, the paper by Ober et al. nonetheless 
+contained relevant information and insights into the issues that are addressed by this report. 
+36 
+ 
+the low cost repair.  In early 2018, after Apple was found to be slowing down certain models of 
+iPhones in order to compensate for degrading batteries, the company reduced the price of out-of-
+warranty battery replacements for iPhone 6 and later models.  Under the program, Apple reduced 
+the price for a battery replacement from $79 to $29.191  Subsequently, in a January 2, 2019 letter 
+to investors, Apple’s CEO explained that iPhone sales were lower than anticipated due to, among 
+other things, “some customers taking advantage of significantly reduced pricing for iPhone battery 
+replacements.”192   
+ 
+Whether consumers are willing to trade repairability of devices for other design features 
+is a question that remains open.
+193  Further research is required to understand the tradeoffs 
+consumers are willing to make when fully informed about repairability.194 
+ 
+F. Quality of Service  
+ 
+Manufacturers argue that authorized repair facilities provide superior service compared to 
+the service provided by independent repair facilities.  Most of the support for this argument is 
+anecdotal and relates to concerns about independent repair facilities that do not meet safety 
+standards and do not conduct repairs properly.
+195  For example, in a joint comment, several 
+associations representing OEMs stated: 
+ 
+Customers can be sure that a manufacturer’s repair network will 
+conduct repairs using properly trained and vetted professionals that 
+have the necessary skills to safely and reliab ly repair products to 
+OEM specifications and stan dards with OEM -quality parts …. 
+Without contracts, consumers that do not choose manufacturer -
+affiliated repair services are exposed to the potential for unsafe or 
+unreliable repair that could lead to frustrat ing, or even dangerous, 
+results… . And where in-home repairs are concerned, OEMs require, 
+by contract, that repairs be conducted by properly trained 
+                                                 
+191 A Message to Our Customers about iPhone Batteries and Performance, Apple, (Dec. 28, 2017), 
+https://web.archive.org/web/20180208010741/https://www.apple.com/iphone-battery-and-performance/.  
+192 Letter from Tim Cook to Apple investors, Apple, (Jan. 2, 2019), 
+https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/.  Apple reportedly anticipated 
+replacing 1-2 million iPhone batteries under its battery replacement program, but ended up replacing over 11 million 
+batteries.  Killian Bell, Apple wildly underestimates demand for cheap iPhone batteries, Cult of Mac, (Jan. 15, 
+2019), https://www.cultofmac.com/600738/apple-wildly-underestimates-demand-iphone-battery-replacements/. 
+193 It is also possible that this is a false choice.  For instance, even if the use of adhesives rather than screws makes a 
+product more aesthetically pleasing, a manufacturer could provide instructions and supplies for dissolving the glue 
+to individuals and independent repair shops. 
+194 The impact of repairability scores will soon be tested in France, where a new law requires manufacturers of 
+certain consumer products to label the products with such a score.  Repairability Index, Ministère De La Transition 
+Écologique, (Feb. 10, 2020), https://www.ecologie.gouv.fr/indice-reparabilite; Law No. 2020-105 Regarding a 
+Circular Economy and the Fight Against Waste (Feb. 10, 2020).  
+195 When asked at the Workshop if the CTA has studied whether authorized repair providers perform higher quality 
+or more secure repairs compared to independent repair providers, Walter Alcorn said he was not aware that anyone 
+has studied that question.  Transcript, at 53-54. 
+37 
+ 
+individuals who have been subject to appropriate background 
+checks.196  
+ 
+In a separate comment, CompTIA stated that:  
+ 
+Affiliated repair networks guarantee that repairs meet OEM 
+standards. Repair personnel must undergo rigorous training, 
+resulting in a professional who is technically proficient and repairs 
+that meet strict quality control measures.
+197 
+ 
+In addition, Sarah Faye Pierce from AHAM stated that unauthorized repair personnel 
+may be untrained and uncertified and thus “may not understand how to properly repair the 
+product to ensure it continues to meet or exceed the safety standards, particularly, a connected 
+product, which then raises cybersecurity issues.  All of this puts consumers in jeopardy.  A 
+product that once was safe could be rendered unsafe by an improper repair or unintentional use 
+of a counterfeit part.”
+198   
+ 
+Similarly, Microsoft stated in its comment that when repairing devices, Microsoft or its 
+authorized repair providers, “use replacement batteries that meet Microsoft specifications to 
+avoid problems caused by subpar or counterfeit replacement batteries, they meet strict quality 
+and safety standards to ensure proper repair, and they follow specific repair procedures to avoid 
+creating potential safety risks caused by damaged batteries or improperly installed batteries.”
+199  
+Microsoft, without citing specific examples or numbers, stated that it frequently received devices 
+returned due to failures caused by third-party repairs.200  Microsoft also noted that off-
+specification power supply units, which do not meet Microsoft’s quality standards, caused at 
+least 12 “serious overheating incidents” resulting in device damage.201   
+ 
+Two submitters provided information they stated showed the superior service provided 
+by authorized repairers.  First, the PRBA cited the 2011 incident mentioned above, in which a 
+loose screw inside a phone damaged the phone’s battery, which resulted in a thermal runaway.202  
+The Australian Transport Safety Bureau issued a report following the incident and noted that the 
+screw was probably misplaced when the phone was previously repaired, and that the repair was 
+not conducted by an authorized service provider.
+203   
+ 
+Second, a 2019 survey of equipment dealers conducted by the Equipment Dealers 
+Association (“EDA”) and Association of Equipment Manufacturers (“AEM”) showed that of 
+responding dealers who had modified equipment come into their dealership for service in the 
+prior 24 months, 45% reported that the modifications included those “which removed, impaired 
+                                                 
+196 Joint comment, at 3-4.  
+197 CompTIA comment, at 7.  
+198 Transcript, at 163.  AHAM, in its comment, echoes the statements made by Pierce.  AHAM comment, at 1-3.  
+199 Microsoft comment at, 6-7 
+200 Id. at 7.  
+201 Id.  
+202 PRBA empirical research, at 3.   
+203 Id. 
+38 
+ 
+or disabled Federally-required emissions control equipment,” 54% reported that the 
+modifications included those which removed, impaired or disabled OEM safety features, and 
+62% reported that the modifications included those which “could reduce reliability, durability or 
+resale value of the equipment.”
+204  This study, however, is inapposite because it concerns 
+modifications to equipment as opposed to repairs.205  
+ 
+By contrast, advocates for the right to repair submitted evidence that consumers are 
+generally satisfied with repairs made by independent repair shops.  For example, Consumer 
+Reports cited survey results indicating that “consumers who used independent repair shops were 
+more satisfied with the repairs than those who used factory service.”
+206  The Auto Care 
+Association noted in its submission that 70-75% of consumers use independent repair shops due 
+mostly to trust, convenience, and price.207   
+ 
+In addition, repair providers and advocates question the value of OEM repairer 
+certifications.  For example, Workshop panelist Jennifer Larsen stated that although her 
+business’s technicians are not certified by any one OEM, they “go to training like certified 
+technicians.”  She also noted that “any good business owner who wants to keep their brand and 
+reputation is going to make sure they have technicians that can repair appropriately.”
+208   
+ 
+ These concerns generally mirror those discussed above in connection with safety and 
+cybersecurity risks.  The record does not establish that repairs conducted by independent repair 
+shops would be inferior to those conducted by authorized repair shops if independent repair 
+shops were provided with greater access to service manuals, diagnostic software and tools, and 
+replacement parts as appropriate.   
+ 
+VI. RIGHT TO REPAIR ADVOCATES’ ARGUMENTS AGAINST REPAIR 
+RESTRICTIONS  
+ 
+Consumer advocates offer many reasons why they believe repair restrictions should be 
+curtailed.  They argue that repair restrictions prevent timely repairs, raise the prices consumers 
+must pay for repairs, result in harm to the environment, and threaten small and local businesses.  
+This section addresses these arguments and provides an evaluation of each one.   
+ 
+                                                 
+204 Equipment Dealers Association & Association of Equipment Manufacturers empirical research (“EDA & AEM 
+empirical research”). 
+205 Conversations with representations with EDA and AEM confirm the limitations of the study.  The representatives 
+indicated that their members are concerned that individuals purposefully make such modifications, not to repair the 
+products, but to intentionally alter the safety and emission standards for purposes unrelated to repair.  
+206 Consumer Reports empirical research, at 2 (citing Should you Repair or Replace that product?, (January 2014), 
+https://www.consumerreports.org/cro/magazine/2014/02/repair-or-replace/index.htm). 
+207 Auto Care Association comment, at 1. Aaron Lowe from the Auto Care Association was a panelist at the 
+Workshop and reiterated that approximately 70% of car owners use independent repair shops after a car’s warranty 
+expires. Transcript, at 157. 
+208 Transcript, at 55-56.  Workshop panelist McDonough stated that although she is not certified by an OEM, she 
+thinks she knows most of what she would learn from an OEM training because she does the work every day. 
+Transcript, at 54-55.   
+39 
+ 
+A. Timing of Repairs  
+ 
+Multiple Workshop panelists argued that allowing or providing for repair only through 
+authorized repair networks or through the manufacturer can lead to repair taking too long to 
+actually be a feasible option for consumers.  Vermont State Senator Pearson, for example, stated 
+that when his iPhone’s camera broke, “according to Apple, nobody in Vermont could fix it.  
+They wanted me to send it to them.”
+209  However, because he also runs a consulting business 
+from his phone, mailing it away for repair would have had the effect of closing his business for a 
+week and so “[i]t was a non-starter.”
+210   
+ 
+The Commission also received comments and empirical research lamenting protracted 
+repairs for military equipment
+211 and tractors.212  For example, a comment submitted by Major 
+Lucas Kunce and Captain Elle Ekman, two active duty Marine Officers commenting in their 
+personal capacity, stated that, “Marines are less capable of repairing equipment in extreme 
+circumstances because [the contracts between the manufacturer and military do not allow them] 
+to repair the equipment during regular operations and do not have the tooling, diagnostic 
+equipment or diagrams, or hands-on experience.”
+213  Using Medium Tactical Vehicle 
+Replacements as an example, Major Kunce and Captain Eckman stated that, “the restrictions [on 
+who can repair the vehicles] mean limiting the capability, flexibility, and experience of Marines 
+who will be needed to conduct these repairs if they are ever in a hostile, kinetic arms, or D-Day-
+like situation.”
+214  They explained that “[t]his warranty and repair contract was similar in many 
+ways to those in the civilian or commercial world.”215  In addition, during the 2016 right to 
+repair hearing held by the Nebraska legislature’s Committee on Judiciary,  Kenny Roelofsen, a 
+representative of an agricultural replacement company, testified that “if [a tractor is] down for 
+one or two days during planting season or during harvest season, they’re wasting money… if the 
+only person who can repair that equipment is the OEM, then if they have a tech that’s already 
+out.  They don’t have another tech to get out there and essentially plug in a USB port and fix 
+their tractor, then they’re out.  So they’re essentially tying up all the market into a monopoly to 
+themselves, not allowing competition which drives prices up.”
+216  
+ 
+The record contains scant rebuttal from manufacturers to the argument that a more open 
+repair ecosystem would allow consumers to have their goods repaired more quickly or repair 
+them in a timely manner themselves.
+  
+ 
+                                                 
+209 Transcript, at 154. 
+210 Id.  
+211 See Major Lucas Kunce and Captain Elle Ekman comment (“Major Kunce & Captain Ekman comment”).  
+212 Certain models of tractors would be subject to the MMWA’s anti-tying provision in those instances when they 
+are normally used for personal, family, or household purposes.  15 U.S.C. 2301(1). 
+213 Major Kunce & Captain Ekman comment, at 6.  
+214 Id. at 7. 
+215 Id. 
+216 Nebraska Transcript, at 18-19. 
+40 
+ 
+B. Price of Repairs  
+ 
+Right to repair advocates argue that repair restrictions increase the cost of repair.217   
+Several commenters argued that if independent repairers were given access to OEM manuals, 
+tools, and replacement parts, repair costs would be lower due to more competition in the repair 
+market.  For example, the International Association of Medical Equipment Remarketers and 
+Services, Inc., (“IAMERS”) noted that “some independent servicers maintain diagnostic imaging 
+equipment for $150-$250 per hour.  When compared to manufacturer servicing at rates 
+reportedly ranging from $500-$600 per hour (with a four hour minimum), independent servicing 
+may offer a cost-effective alternative to hospitals and healthcare organizations in need of 
+reducing costs.”
+218  According to right to repair advocates, however, many independent repair 
+shops do not have access to replacement parts, diagnostics, and other resources that would enable 
+them to complete the repairs in a cost-effective manner.219    
+ 
+For example, right to repair advocates maintain that where non-manufacturer replacement 
+parts do not exist or their use is not feasible (i.e., because the product will no longer function if a 
+non-OEM part is used), manufacturers have effective monopolies on the repair of their product, 
+allowing for repair costs to be more expensive than they could or should be.  ABPA argued in its 
+comment that “car companies are trying to create a product monopoly by leveraging new 
+technological advantages gained through telematics from the cars and software partnerships with 
+large industry players to eliminate parts competition.  The result is higher parts pricing – leading 
+to increase in repair costs….”
+220  LKQ Corp. similarly pointed to the use of technology in cars to 
+stop independent repair shops from using salvaged parts in the repair process:  “With increasing 
+frequency, vehicle manufacturers embed software restricting the reuse, repair and 
+remanufacturing of an electronic control module or computer.  This limits repair options to new 
+OEM replacement parts only.”
+221 Within the aftermarket industry, dealer prices for OEM parts 
+are almost always the highest.  Alternative parts, including remanufactured or salvage control 
+modules, sell at a fraction of dealer prices.”222  Ultimately, none of the comments or empirical 
+research submitted before or after the Workshop rebuts the right to repair advocates’ argument 
+that repair restrictions increase the price consumers pay for repairs.
+223  
+                                                 
+217 See, e.g., Rob Beschizza, Fix a laptop screen? That’ll cost more than a new laptop, (Sept. 15, 2020 8:30 AM), 
+https://boingboing.net/2020/09/15/fix-a-laptop-screen-thatll.html. 
+218 IMAERS empirical research, at 1-2.  
+219 Where non-manufacturer parts are available, competition can reign in cost, as historically exemplified by the auto 
+industry. For example, the ABPA stated in its empirical research submission that “[f]or more than 60 years, the 
+alternative collision parts industry has been offering quality alternative parts to consumers, typically 15-50% less 
+expensive than car company non patented repair parts.” ABPA empirical research, at 2.  Citing an APICIA Micra 
+Report, ABPA notes that competition in parts had reduced the cost of auto OEM parts by approximately 8%.  ABPA 
+Presentation; IAMERS empirical research, at 2-3; Auto Care Association comment, at 3. 
+220 ABPA empirical research, at 1. 
+221 LKQ empirical research, at 4. 
+222 Id., at 5.  
+223 We note that the higher cost of repairs disproportionally burdens Americans in financial distress.  According to 
+the Federal Reserve, only 48 percent of adults with a family income of less than $40,000 reported that they could 
+cover a $400 emergency expense completely using cash or its equivalent.  Update on the Economic Well-Being of 
+U.S. Households: July 2020 Results, https://www.federalreserve.gov/publications/2020-update-economic-well-
+being-of-us-households-overall-financial-security.htm (last visited Mar. 8, 2021).  The Federal Reserve’s data also 
+41 
+ 
+C. Environmental Harm 
+ 
+Right to repair advocates argue that manufacturers’ repair restrictions contribute to 
+environmental and electronic waste.  Manufacturers dispute this assertion.   
+ 
+Right to repair advocates argue that such restrictions are contributing to the amount of e-
+waste, which the U.S. Environmental Protection Agency (“EPA”) considers to include the subset 
+of discarded, donated, or recycled electronics that end up in a landfill or an unprotected dump 
+site in the US or abroad.224  For example, according to LKQ Corp., and as described above, 
+automobile manufacturers engage in VIN burning, which contributes to electronic waste because 
+parts cannot be reused.225  By contrast, LKQ Corp. alleged that remanufactured parts save up to 
+85% of material and energy costs relative to producing a comparable new product.226  Workshop 
+panelists Theresa McDonough, Jennifer Larson, and Nathan Proctor similarly stated that repair 
+restrictions contribute to e-waste.
+227  Proctor stated that Americans dispose of 416,000 cell 
+phones each day.228   
+ 
+Alcorn of the CTA, however, disputed that statistic, arguing it was more than 15 years 
+old, and stated that the CTA conducts consumer recycling and reuse surveys every couple of 
+years in part to find out what consumers do with their old devices.  According to the CTA, the 
+“vast majority of 
+consumers that removed a mobile device from their household in the year leading 
+up to the study did so by trading it in for a new device, donating it, or recycling it.”229 
+ 
+Like the CTA, several organizations representing manufacturers stated that manufacturer 
+repair restrictions do not contribute to e-waste because manufacturers have implemented 
+protocols and procedures to reduce e-waste.  Specifically, CompTIA, citing a Rochester Institute 
+of Technology study and a 2016 EPA report, stated that e-waste is in a period of steep decline 
+because manufacturers have developed robust policies and programs to ensure that they are 
+continuously improving the sustainability of their products for their whole lifecycle.
+230  And 
+CompTIA stated that existing policies around e-waste and “green procurement” promote repair 
+                                                 
+shows that race and ethnicity are correlated with the way consumers are able to cover a $400 emergency repair, with 
+47 percent of Black adults and 55 percent of Hispanic adults able to cover such a cost with cash or its equivalent 
+compared with 77 percent of White adults.  Id.   
+224 See Cleaning up Electronic Waste (E-Waste), U.S. EPA, https://www.epa.gov/international-
+cooperation/cleaning-electronic-waste-e-waste (“EPA considers e-waste to be a subset of used electronics and 
+recognizes the inherent value of these materials that can be reused, refurbished or recycled to minimize the actual 
+waste that might end up in a landfill or improperly disposed in an unprotected dump site either in the US or 
+abroad.”) (last visited Mar. 22, 2021); according to U.S. PIRG, “The average family generates 176 pounds of 
+electronic waste each year, and the United States generates some 6.9 million tons nationally.”  Alex DeBellis and 
+Nathan Proctor, Repair Saves Family Big, U.S. PIRG, (Jan. 2021), https://uspirg.org/feature/usp/repair-saves-
+families-big. 
+225 LKQ empirical research, at 6. 
+226 Id.  
+227 Transcript, at 25, 62-65. 
+228 Id. at 33 
+229 CTA comment, at 6. CTA also referenced a CTA study claiming that only 1% of respondents throw away their 
+phones. Id. 
+230 CompTIA comment, at 11. Neither the Rochester Institute of Technology study nor the EPA report appear to 
+support a conclusion that e-waste peaked in 2013-2014 and is in a period of steep decline.   
+42 
+ 
+and reuse without the consumer safety, security, or business concerns raised by insecure repair 
+mandates.231  Similarly, in a joint comment submitted to the Commission, several organizations 
+representing manufacturers argued that member organizations ensure that repairs are conducted 
+to manufacturer requirements and thus maximize products’ useful life and “contribute 
+significantly to e-waste reduction by returning products to service, thereby diverting products 
+from end-of-life management.”232   
+ 
+Regardless of whether the total amount of e-waste is on the rise or decline,233 extending 
+the life of consumer products unquestionably delays these products’ entry into the waste stream 
+and reduces the amount of energy used to generate replacement products.  A study conducted by 
+the European Environmental Bureau found that a 1-year lifetime extension of all smartphones in 
+the EU would prevent the release of 2.1 million metric tons of carbon dioxide per year by 2030, 
+the equivalent of taking more than a million cars off the roads for a year. And extending the 
+lifetime of all washing machines, notebooks, vacuum cleaners, and smartphones in the EU by 
+just one year would reduce around 4 million metric tons of carbon dioxide annually by 2030, the 
+equivalent of taking more than 2 million cars off the roads for a year.234  Additionally, the EPA 
+encourages improved life cycle management of electronics, through “source reduction of 
+materials used, increasing reuse, refurbishing, extending the life of products, and recycling of 
+electronics,” to reduce the total quantity of domestic and global waste.
+ 235  And, EPA encourages 
+manufacturers to create products for longevity, durability, reusability and recyclability.  The 
+EPA also recommends that consumers do their part to prevent waste by recycling, donating 
+functional, used electronics for reuse, and buying products with environmental concerns in 
+mind.
+236  Increasing repair options for consumers is harmonious with the responsibilities 
+identified by the EPA (longer-living devices, giving consumers more ability to maintain those 
+devices, and allowing for educated consumer purchases) and is likely to further decrease the 
+production of e-waste.  
+ 
+D. Small Businesses and Employment  
+ 
+Right to repair advocates argue that repair restrictions negatively impact not only 
+consumers, but independent repair shops and the individuals those shops employ, by limiting the 
+                                                 
+231 CompTIA comment, at 12-13.  
+232 Joint comment, at 5-6.  
+233 According to a 2020 report issued by the United Nations, the world generated 44.4 million metric tons (Mt) of e-
+waste in 2014, 53.6 Mt in 2019, and is projected to produce 74.7 Mt by 2030, almost doubling in only 16 years.  The 
+UN concludes that, “The growing amount of e-waste is mainly fueled by higher consumption rates of [electrical and 
+electronic equipment], short life cycles, and few repair options.”  Vanessa Forti et al., The Global E-waste Monitor 
+2020, http://ewastemonitor.info/wp-content/uploads/2020/07/GEM_2020_def_july1_low.pdf (last visited Mar. 22, 
+2021).  
+234 Coolproducts don’t cost the Earth – Report, European Environmental Bureau, (Sept. 18, 2019), 
+https://eeb.org/library/coolproducts-report/.  
+235 U.S. EPA, Basic Information about Electronics Stewardship, https://www.epa.gov/smm-electronics/basic-
+information-about-electronics-stewardship (last visited Mar. 22, 2021). 
+236 Id.  
+43 
+ 
+ability of independent businesses to compete with the OEMs and their authorized repair 
+providers.237 
+ 
+For example, manufacturers argue that the “authorized repair” infrastructure many 
+manufacturers have in place provides small businesses with a chance to compete for consumers’ 
+business in the repair space.  For example, AHAM submitted a survey of member companies 
+regarding their authorized repair networks:  “Of the 20,000 servicers (repairers), over 87 percent 
+are authorized local independent brand/manufacturer affiliated service providers…. This 
+demonstrates that the ‘barriers’ to repair for independent repair shops are imaginary—
+independent repair shops with the desire to repair home appliances can do so if they meet the 
+requirements, such as training and certification.”
+238  CompTIA stated in its comment, “affiliated 
+repair providers, many of which are small businesses, work with manufacturers to provide 
+competitive, quality, cost-effective, and convenient services for consumers…. T he market 
+already provides a wide range of consumer choice for repair with varying levels of quality, price 
+and convenience without any regulatory mandates.”
+239   
+ 
+CompTIA predicted that movement toward a more open repair ecosystem would in fact 
+harm small businesses and competition because it would provide “favorable treatment to one 
+group of businesses at the expense of others by undercutting and minimizing the significant 
+investments entrepreneurs and small businesses across the nation have made to become affiliated 
+repair network providers.  The mandate would infringe on a manufacturer’s ability to establish 
+contractual relationships with these small businesses.”
+240  In effect, AHAM and CompTIA argue 
+that, to the extent small businesses engage in and want to compete for repair business, they 
+should become authorized or affiliated repair providers.  By doing so, they will have access to 
+the parts, tools, and information that they seek through their right to repair advocacy. 
+ 
+Right to repair advocates argue that independent repair has many benefits for consumers.  
+For example, when asked during the Workshop what was wrong with requiring consumers to go 
+to an authorized repair facility if the gasket on their refrigerator door breaks, Kyle Wiens 
+asserted that authorized repair restricts the ability of the market to respond to consumer demand 
+appropriately and absorb demand that manufacturers are not always able to meet.
+241  Aaron 
+Lowe argued that having independent repairers in addition to authorized repair “keeps everybody 
+competitive, keeps everybody honest.  It makes people better at what they do.  It makes people 
+better repairers.”
+242  The Repair Association’s Gordon-Byrne stated at the Workshop that “right 
+to repair allows for competition.  It doesn’t guarantee anyone will win.  It doesn’t guarantee that 
+                                                 
+237 ABPA empirical research, at 2; Transcript, at 47. We note that manufacturers and affiliated repair shops employ 
+thousands of people as well. We have not evaluated the effect of repair restrictions on overall employment, but note 
+that repair restrictions likely result in lower employment by local or independent repair shops.  As noted above, 
+many Black-owned small businesses are in the repair and maintenance industries, and difficulties facing small 
+businesses can disproportionately affect small businesses owned by people of color. See supra notes 5 & 6. 
+238 AHAM comment, at Exh. A pp. 5-6. 
+239 CompTIA comment, at 6. 
+240 CompTIA comment, at 9. 
+241 Transcript, at 177. 
+242 Id. at 174. 
+44 
+ 
+a lousy repair shop will stay in business, and it doesn’t mean that a lousy dealership will stay in 
+business. It just means opportunity.”243  
+ 
+The submissions to the docket and discussion at the Workshop catalogued a variety of 
+benefits independent repair provides to consumers, including access to local and timely repair,244 
+competition in the cost of repairs, and access to repairs that manufacturers do not offer.245  In 
+addition, as Theresa McDonough explained at the Workshop, “I’ve read some of the 
+requirements that these companies have.  You have to have a line of credit. You have to have a 
+certain amount of employees…the bar is very high. And for a small business, when you live in a 
+state of 600,000 people, I just don’t see it beneficial to spend that sort of money on a 
+certification….”
+246  Finally, movement towards a more open repair system does not necessitate 
+giving manuals, tools, and parts away for free, nor does it necessitate doing away with 
+certifications or trainings that businesses can advertise to potential customers. 
+ 
+VII. APPROACHES FOR INCREASING CONSUMER CHOICE IN REPAIR 
+MARKETS  
+ 
+A. FTC Rulemaking or Law Enforcement  
+ 
+The Commission has a number of authorities it can and should deploy to address repair 
+restrictions and help open repair markets.  First, the Commission will enforce existing 
+requirements under MMWA, where appropriate.  Comments submitted by PIRG and others raise 
+serious concerns about the extent to which manufacturers are complying with the MMWA.
+247 
+ 
+In addition, in some instances, a manufacturer’s use of a repair restriction could be 
+challenged as an unfair practice under Section 5 of the FTC Act if the repair restriction causes 
+substantial injury (e.g., monetary harm or unwarranted health and safety risks) that is not 
+outweighed by countervailing benefits to consumers or competition that the practice produces, 
+and the injury could not have been reasonably avoided by consumers.  Moreover, as explained in 
+Section II, there may be some specific circumstances in which the Commission could address 
+repair restrictions as violations of antitrust law.  
+ 
+Alternatively, the Commission could engage in rulemaking to declare certain types of 
+repair restrictions illegal.  The Commission could revise its Interpretations of the MMWA to 
+make clear that certain repair restrictions could violate the MMWA’s anti-tying provision.  Such 
+an amendment would put all parties on notice that certain repair restrictions that have the effect 
+                                                 
+243 Id. at 134. 
+244 See Id. At 155-56; See discussion infra Section V. 
+245 See iFixit empirical research, at 9.  
+246 Transcript, at 55.  See also, Mike Peterson, Lawyers Say Apple’s Independent Repair Program Contract is 
+‘Crazy,’ Onerous’, iDropNews (Feb. 6, 2020), https://www.idropnews.com/news/lawyers-say-apples-independent-
+repair-program-contract-is-crazy-onerous/129006/ (for example, “the contract stipulates repair technicians may be 
+subject to ‘unannounced audits and inspections by Apple’ … And if independent repair shops leave the program, the 
+contract actually includes a term that gives Apple the right to ‘continue inspecting repair shops for up to five years’ 
+after it ends.”). 
+247 See supra Section I.  
+45 
+ 
+of limiting consumer repair choices are illegal.  A revised Interpretation of the MMWA, 
+however, is not a panacea.  First, it would only strengthen repair rights for products that are sold 
+with a written warranty and only during the duration of the warranty period.  Thus, 
+manufacturers could entirely avoid the anti-tying provision by refraining to offer written 
+warranties.  Second, consumers would be left without repair rights during the time period when 
+they are most likely to use them—after the warranty has expired.   Finally, because the MMWA 
+only applies to consumer products, a revised Interpretation would not address repair restrictions 
+imposed on owners of products that fall outside the scope of the MMWA.
+248 
+ 
+The Commission could also pursue a rulemaking under the FTC Act.  Any such 
+rulemaking would require a complex assessment of the variety of repair restrictions, their 
+widespread use by multiple industries, the rationale for the restrictions, and the interplay of 
+repair restrictions with statutorily created intellectual property rights.  Given, however, the 
+breadth of concern about and potential harm to consumers and markets from widespread repair 
+restrictions and the inefficiency of ex post enforcement, the Commission may decide it is worth 
+the investment of its energy and attention to pursue rulemakings in this area.   
+ 
+B. Industry Self-Regulation 
+ 
+While industry self-regulation can be beneficial, the broad range of industries and 
+products involved would make it a challenge to create and implement a single self-regulatory 
+scheme.  And, aside from the auto industry, no other manufacturing sectors have successfully 
+created and implemented one.   
+ 
+For any manufacturing sector interested in creating a self-regulatory mechanism for 
+expanding repair options, the experience of the automobile industry provides some guidance.  In 
+January 2014, two car manufacturer trade groups and two trade groups representing independent 
+repair shops and manufacturers of aftermarket parts entered into a Memorandum of 
+Understanding (“MOU”) that had the effect of creating a broad, if not complete, right to repair in 
+the automotive industry across the United States.
+249 
+ 
+The MOU came about after Massachusetts passed its own automotive right to repair law.  
+In an effort to prevent the passage of state bills around the country that all contained differing 
+requirements,
+250 manufacturers agreed to sell the diagnostic and repair information that 
+manufacturers make available to their dealers to car owners and independent repair shops.251  In 
+                                                 
+248 See, supra, note 212. 
+249 See Memorandum of Understanding (“MOU”), (Jan. 15, 2014), 
+https://web.archive.org/web/20180310231358/https:/www.autocare.org/workarea/DownloadAsset.aspx?id=1440&g
+mssopc=1. Members of the manufacturer trade groups individually executed letters of endorsement to signify their 
+agreement to comply with the MOU. Id. at 1. Every car manufacturer but Tesla has signed on to the MOU. See 
+Transcript, at 179. 
+250 See Gabe Nelson, Automakers agree to ‘right to repair deal,’ Automotive News (Jan. 25, 2014), 
+https://www.autonews.com/article/20140125/RETAIL05/301279936/automakers-agree-to-right-to-repair-deal. 
+251 MOU, at 1.  
+46 
+ 
+exchange, the repair-side trade groups agreed to not fund or otherwise support any new state 
+right to repair legislation.252 
+ 
+The MOU has been raised as a model of self-regulation that could apply in the broader 
+right to repair context.253  Kyle Wiens of iFixit stated at the Workshop, for example, that the 
+MOU is “the direction that we need to go in.  And it’s a question of. . .do you need the regulatory 
+framework.  Can you do it in a voluntary fashion.” 254  
+ 
+In addition, a broader right to repair self-regulatory agreement that would cover all 
+products presents significant complications.  Aaron Lowe of the Auto Care Association 
+expressed his view at the Workshop that the MOU was generally successful because the auto 
+industry is discrete, such that the parties are identifiable and could be brought to the table to 
+negotiate.
+255  As demonstrated by the Nixing the Fix docket and the far-ranging discussion at the 
+Workshop, numerous industries (e.g. mobile devices, home appliances, tractors, medical devices 
+and equipment) as well as component parts (e.g. batteries) are implicated by repair issues.   
+ 
+Moreover, any self-regulatory agreement would also need to be flexible enough to 
+change or grow as the industry and products covered by that agreement change.  For example, 
+Aaron Lowe explained at the Workshop that the automobile MOU, while initially a sufficiently 
+comprehensive agreement, does not necessarily extend in its current form to telematics.
+256  
+Relatedly, on November 3, 2020, Massachusetts voters passed a ballot initiative that extends the 
+state’s 2013 Motor Vehicle Right to Repair Law to telematics.  The new law would require, 
+starting with model year 2022, “manufacturers of motor vehicles sold in Massachusetts to equip 
+any such vehicles that use telematics systems … with a standardized open access data platform,” 
+that would enable vehicle owners to authorize “independent repair facilities (those not affiliated 
+with a manufacturer) and independent dealerships … to retrieve mechanical data from and send 
+commands to, the vehicle for repair maintenance, and diagnostic testing.”
+257 
+ 
+As the MOU illustrates, self-regulation can help address concerns about repair 
+restrictions in discrete markets.  But, no industry sector other than the automotive industry has 
+worked to open repair markets through a self-regulatory framework.  Ways to stimulate self-
+regulation in markets beyond the automotive sector, however, merit further consideration.   
+ 
+                                                 
+252 Id.  
+253 The Equipment Dealers Association and Association of Equipment Manufacturers, trade groups representing 
+manufacturers of agricultural and off-road equipment, also engaged in self-regulation concerning repair issues.  
+They released a “Statement of Principles” on right to repair detailing the steps they would take to expand the right to 
+repair in their industry. See Press Release, AEM, EDA Announce Statement of Principles on ‘Right to Repair,’ 
+Association of Equipment Manufacturers, (Feb. 1, 2018), https://www.aem.org/news/aem-eda-announce-statement-
+of-principles-on-right-to-repair/. 
+254 Transcript, at 180.  
+255 Id. at 183-184.  
+256 Id. at 179.  
+257 See Final Summary for 19-06 Initiative Law to Enhance, Update and Protect the 2013 Motor Vehicle Right to 
+Repair Law, https://www.mass.gov/info-details/ballot-initiatives-submitted-for-the-2020-biennial-statewide-
+election-proposed-laws#19-06-initiative-law-to-enhance,-update-and-protect-the-2013-motor-vehicle-right-to-
+repair-law- (last visited Sept. 23, 2020). 
+47 
+ 
+C. Legislative Approaches 
+ 
+This Section examines legislative approaches for expanding repair options.  The state 
+laws, model state legislation and European approaches described below show the variety of 
+legislation that has been proposed to open repair markets.  Section VIII of his Report identifies 
+issues legislators should consider when drafting right to repair laws.   
+ 
+1. Existing State Right to Repair Laws and Model Legislation 
+ 
+A limited right to repair already exists in at least three states.  Rhode Island has the most 
+expansive such law, requiring manufacturers to “have adequate service information and 
+replacement parts available to warranty stations and independent service facilities,258 to effect 
+repair and restore to operating condition.”  Rhode Island requires that manufacturers make the 
+service information and parts available for at least four years after the date of last sale of any 
+given model or type.
+259  This requirement applies to manufacturers of all new consumer 
+products, regardless of the cost of the products and even when the manufacturer does not make 
+any express warranties regarding the product.   
+ 
+Indiana has a similar law, but it applies only to manufacturers who make an express 
+warranty in connection with the sale of an audio or visual entertainment product costing $50 or 
+more.  Manufacturers of such products must “make available to service representatives or 
+independent service facilities adequate service information and replacement parts” for at least 
+seven years after the date the product model or type was manufactured.
+260   
+ 
+Similar to Indiana’s law, California’s Song-Beverly Act requires manufacturers who 
+make an express warranty when selling an electronic or appliance product to make available to 
+service and repair facilities sufficient service literature and repair parts.  For products with a 
+wholesale price of between $50 and $99.99, this duty to provide service literature and repair 
+parts lasts for three years from the date a product model or type was manufactured.  For products 
+with a wholesale price of $100 or more, the duty lasts for seven years.
+261   
+ 
+In addition to the laws in these three states, right to repair bills have been introduced in at 
+least 20 state legislatures in the last few years.  Although some of these bills differ in their 
+coverage and exemptions, they generally track model legislation advanced by the Repair 
+                                                 
+258 The law does not require manufacturers to make the information and parts available directly to consumers. 
+259 R.I. Gen. Laws § 6A-2-329(5).   
+260 Ind. Code Ann. § 26-2-6-2.   
+261 Cal. Civ. Code § 1793.03.  This particular provision of the Song-Beverly Act requires manufacturers to make 
+service literature and parts available to “service and repair facilities,” while other provisions of the Song-Beverly 
+Act apply to “authorized service and repair facilities.”  See, e.g., Cal. Civ. Code § 1793.2(a)(3)  (requiring 
+manufacturers to “[m]ake available to authorized service and repair facilities sufficient service literature and 
+replacement parts to effect repairs during the express warranty period”).  In an unpublished opinion, however, the 
+Ninth Circuit ruled that the duty imposed by 1793.03 only requires manufacturers to make service literature and 
+replacement parts available to authorized service and repair facilities, despite the qualifier “authorized” not being 
+included in that provision.  Bahr v. Canon USA, Inc., 656 F. App’x. 276 (9th Cir. 2016).  
+48 
+ 
+Association.262  This model legislation would require manufacturers of digital electronic 
+equipment263 to make available to any independent repair provider, or to the owner of digital 
+electronic equipment manufactured by or on behalf of, or sold by, the manufacturer, on fair and 
+reasonable terms, documentation, parts, and tools, inclusive of any updates to information or 
+embedded software.  A manufacturer would only need to make parts available to independent 
+repair providers and owners if the part was available to the manufacturer’s authorized repair 
+networks.  
+ 
+The model legislation also requires a manufacturer to make available to the owner and to 
+independent repair providers, on fair and reasonable terms, any special documentation, tools, and 
+parts needed to reset an electronic security lock or other security-related function when 
+equipment has been disabled during the course of diagnosis, maintenance, or repair.
+264  
+ 
+The model legislation explicitly states that it should not be construed to require a 
+manufacturer to divulge a trade secret to an owner or an independent service provider except as 
+necessary to provide, on fair and reasonable terms, documentation, parts, and tools.  The model 
+further states that the legislation should not be construed to require a manufacturer or an 
+authorized repair provider to give to an owner or independent repair provider access to 
+information, other than documentation, that is provided by the manufacturer to an authorized 
+repair provider.
+265 
+ 
+2. The European Approach 
+ 
+The European Union has adopted a number of regulations aimed at increasing consumer 
+repair options in the home appliance industry, which went into effect on March 1, 2021.  Unlike 
+the model state legislation, which would require a manufacturer to make available to individuals 
+and independent repair shops those parts that the manufacturer provides to its authorized repair 
+network, the EU prescribes the types of parts and time period during which the parts must be 
+made available:   
+ 
+• Refrigerators for a minimum of seven years (ten years for door gaskets)
+266; 
+                                                 
+262 In this report we analyze the version of the Repair Association’s model right to repair legislation existing at the 
+time of the Workshop. Model State Right-to-Repair Law, www.repair.org (saved Nov. 18, 2019).  
+263 The model legislation defines “digital electronic equipment” to mean “any product that depends for its 
+functioning, in whole or in part, on digital electronics embedded in or attached to the product.” 
+264 The model legislation would require a manufacturer to make documentation, parts and tools available “to any 
+independent repair provider, or to the owner,” while any special documentation, tools, and parts needed to reset an 
+electronic security lock or other security-related function must be provided to  the “owner and to independent repair 
+providers.”  Thus, a manufacturer could satisfy the first requirement by providing documentation, tools and parts to 
+independent repair providers, while refusing to provide these items to owners.  
+265 The model legislation would not apply to manufacturers of automobiles, but it would apply to all other products, 
+whether for consumer or business use. 
+266 Commission Regulation, (EU) 2019/2019 laying down eco-design requirements for refrigerating appliances 
+pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission 
+Regulation (EC) No 643/2009 (European Union), https://eur-lex.europa.eu/legal-
+content/EN/TXT/PDF/?uri=CELEX:32019R2019&from=EN. 
+49 
+ 
+• Household washing machines and household washer-dryers for a minimum of ten 
+years267; 
+• Household dishwashers for a minimum of ten years (seven years for some parts 
+for which access can be restricted to professional repairers)268; and 
+• Electronic displays for a minimum of seven years.269 
+ 
+The EU regulations distinguish between repairs that can be commonly performed by 
+purchasers and repairs that should be performed by professional repair workers.  The washing 
+machine regulation, for instance, requires manufacturers to make available to individuals and 
+professional repairers the following parts:  door, door hinge and seals, other seals, door locking 
+assembly and plastic peripherals such as detergent dispensers.  The regulation, however, requires 
+manufacturers to make other parts available only to repair professionals.
+270  
+ 
+The regulations also require manufacturers to ensure that spare parts can be replaced 
+using commonly available tools and without causing permanent damage to the appliance.  
+Moreover, manufacturers must provide a list of spare parts and the procedure for ordering the 
+parts on a free website available to the public.  While these regulations apply to the home 
+appliance industry, on March 1, 2020, the European Commission announced that it will be 
+introducing proposed legislation that will create a right to repair for electronics and other 
+products.
+ 271   
+  
+                                                 
+267 Commission Regulation (EU) 2019/2023, laying down eco-design requirements for household washing machines 
+and household washer-dryers pursuant to Directive 2009/125/EC of the European Parliament and of the Council and 
+amending Commission Regulation (EC) No. 1275/2008 and repealing Commission Regulation No. 1015/2010 
+(European Union), https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2023 
+&from=EN. 
+268 Commission Regulation (EU) 2019/2022, laying down eco-design requirements for household dishwashers 
+pursuant to Directive 2009/125/EC of the European Parliament and of the Council and amending Commission 
+Regulation (EC) No. 1275/2008 and repealing Commission Regulation No. 1016/2010 (European Union), 
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2022&from=EN. 
+269 Commission Regulation (EU) 2019/2021, laying down eco-design requirements for electronic displays pursuant 
+to Directive 2009/125/EC of the European Parliament and of the Council and amending Commission Regulation 
+(EC) No. 1275/2008 and repealing Commission Regulation No. 642/2009 (European Union), https://eur-
+lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2021&from=EN. 
+270 Those parts include motor and motor brushes; transmission between motor and drum; pumps; shock absorbers 
+and springs; washing drum, drum spider and related ball bearings (separately or bundled); heaters and heating 
+elements, including heat pumps (separately or bundled); piping and related equipment including all hoses, valves, 
+filters and aquastops (separately or bundled); printed circuit boards; electronic displays; pressure switches; 
+thermostats and sensors; and software and firmware including reset software.   
+271 European Commission, Circular Economy Action Plan: For a cleaner and more competitive Europe, 
+https://ec.europa.eu/environment/circular-economy/pdf/new_circular_economy_action_plan.pdf. 
+50 
+ 
+D. Transparency of Repairability by OEMs/Industry  
+ 
+One objective of the Workshop was to learn whether consumers understand the existence 
+and effects of repair restrictions.272  At the Workshop, several panelists agreed that repairability 
+should be a factor for consumers to consider when making purchasing decisions.273  Currently, 
+however, right to repair advocates argue that “consumers lack information at the point of 
+purchase about repairability.”274  Similarly, Dr. McGraw stated that among other things, 
+repairability is one thing that consumers are “woefully misinformed about.”275   
+ 
+Panelists and commenters discussed the idea of a “repairability score” or repairability 
+rating to better inform consumers about the repairability of products.
+276  For example, Workshop 
+panelist Minnesota Senator Osmek suggested that a “repair score” could help consumers “make 
+the decision on what they want in a device.”  He went on to say that if consumers “want to have 
+a repairable device, they will look for a high repairable score.”
+277  At least one non-OEM 
+company is doing this to a certain extent; iFixit rates products “for ease of disassembly and 
+repair” to provide consumers “with an educated guess of repair difficulty before they buy the 
+product.”
+  iFixit stated in its empirical research submission that it considers things like, “how 
+time-consuming is [the product] to open? Can broken components be replaced individually, or 
+will you have to swap out more expensive larger modules? Are the components that are most 
+likely to fail easily accessible by consumers?”278   
+ 
+As Dr. Crane stated, “it would be great if we could get people to make consumer-based 
+buying choices because of the security of the device or the repairability of the device in addition 
+to the features of the device....”
+279  Consumers can only make buying choices based on 
+repairability if they are aware of how easily a product can be fixed.280    
+ 
+VIII. IDENTIFICATION OF ISSUES TO BE CONSIDERED IN ANY ACTION TAKEN 
+BY INDUSTRY, POLICYMAKERS, OR LEGISLATORS 
+ 
+The expansion of consumers’ repair options, whether through industry initiatives or 
+through regulations or legislation, raises numerous issues that will warrant examination.  In this 
+section, we identify some of the most significant of these issues—the types of products that 
+should be covered by expanded repair rights, the treatment of component parts, dollar and 
+                                                 
+272 See Call for Empirical Research, https://www.ftc.gov/nixing-the-fix-call-for-research.   
+273 According to Dr. Earl Crane, “consumers should have a choice between a repairable device, a secure device, or a 
+securely repairable device...” Transcript, at 94.  
+274 Transcript, at 58.  
+275 Id. at 97.   
+276 Id. at 25. See also Andrew Keates comment (“I believe a repair-ability rating would be a useful addition to 
+product labeling…. I would certainly give preference to buying a product with a high repair-ability score.”).   
+277 Transcript, at 152.  
+278 iFixit empirical research, at 20. 
+279 Transcript, at 116.   
+280 Furthermore, if a self-regulatory or legislative body were to consider creating a repairability scoring regime, it 
+should also consider having a parallel durability scheme because repairability only tells half the story.  Products that 
+rarely break down but that are costly to repair may be more desirable to some consumers than products that break 
+more frequently but are easier to repair.  Repairability and durability, however, are not necessarily opposite sides of 
+the same coin.  A durable product could also be easy to repair. 
+51 
+ 
+duration thresholds for repair requirements, and the coexistence of repair rights and 
+manufacturers’ intellectual property rights.  
+ 
+A. Types of Products Covered  
+ 
+Any action taken by industry or policymakers will need to define what types of products 
+will be included and whether any products should be explicitly excluded.  For example, should 
+any action only apply to consumer products or products with a computer chip?  Or, should 
+industrial equipment be excluded?       
+ 
+Some industries, such as the video gaming and medical device industries, argue that they 
+are unique and should be excluded from any action.  According to the ESA, “video game 
+consoles are unique in the repair context” in part because console makers “use [technological 
+protection measures] in order to enhance the safety and integrity of their consoles.”
+281  Similarly, 
+medical device manufacturers argue that their products are “categorically different than 
+consumer goods in that they are heavily regulated products which have direct impact on patient 
+care and safety.”
+282  As discussed at the Workshop, there is no consensus about whether such 
+exclusions are appropriate.  For instance, Minnesota Senator Osmek has safety concerns about 
+including medical equipment in his state’s right to repair legislation, although he also expressed 
+an interest in discussing whether such an exclusion should be absolute.
+283  Vermont Senator 
+Pearson, on the other hand, noted that he has not been persuaded by the arguments made by the 
+medical device and video gaming industries that they should be excluded from right to repair 
+efforts.
+284   
+ 
+When deciding the scope of expanded repair rights, policymakers should think about 
+whether the rights should be limited to consumer goods or include capital items.
+285  Given the 
+complexity and variation among products, it seems unlikely that there is a one-size fits all 
+approach that will adequately address this issue.     
+ 
+                                                 
+281 Entertainment Software Association comment, at 5.  See Section V.(A), above for our analysis of this repair 
+restriction used by video game console manufacturers. 
+282 Medical Imaging & Technology Alliance empirical research, at 1. 
+283 Senator Osmek stated, “Maybe there’s some things in a hospital that should be fixable by the custodial staff, and 
+there probably—I don’t know. But let’s talk through those. Up until this point in time, I haven’t gotten that far.”  
+Transcript, at 194.   
+284 Id. at 193.  Senator Pearson stated, “The hospital up the street from me is a level one trauma center, a teaching 
+hospital. The techs there sent me a letter and said, I’m so glad you’re doing this. We are barred from repairing so 
+much of the equipment in the hospital. It costs us tons of money.  We have the ability to do it, but we’re not allowed 
+to.  It cost us money. It takes more time because we’ve got to wait for the authorized repair dealer to get there.” Id. 
+at 192-93.  In 2018, the Food and Drug Administration concluded that, “the objective evidence indicates that many 
+OEMs and third party entities provide high quality, safe, and effective servicing of medical devices.”  FDA Report 
+on the Quality, Safety and Effectiveness of Servicing of Medical Devices (May 2018), 
+https://www.fda.gov/media/113431/download. 
+285 Policymakers could specify whether repair rights apply to, for example, farming equipment such as tractors, 
+medical devices, or other classes of products that may have characteristics both of consumer goods and of capital 
+items. 
+52 
+ 
+B. Components of Covered Products  
+ 
+Any action taken by industry or policymakers will likely include a requirement that 
+manufacturers make replacement parts available for purchase by consumers or independent 
+repair facilities.  But what constitutes a replacement part and to what degree will manufacturers 
+be required to make components of parts available?  
+ 
+This question was touched on briefly in the Workshop by the Repair Association’s 
+Gordon-Byrne, who said that, under the model legislation at least, manufacturers are only 
+required to make available to consumers what they make available to their authorized or 
+affiliated repair providers.
+286  In certain instances, this makes sense.  For example, if a single 
+component of a computer’s motherboard breaks, and a consumer determines that they want to 
+attempt to replace that single component, the manufacturer would be required to make such a 
+component available to consumers or independent repairers so long as it made the components 
+available to its authorized or affiliated repairers.  But what should be required of manufacturers 
+who provide to their affiliated repairers components of parts that could potentially be dangerous 
+when provided to consumers or independent repairers?  Should they be required to provide those 
+components to all who determine that they would like to undertake a more detailed repair 
+themselves?  As discussed above, while concerns about repairer and public safety must be 
+analyzed before they are accepted as a justification for restricting consumer and independent 
+repair, this is an important issue to consider in crafting any right to repair action. 
+ 
+C. Dollar Threshold and the Duration of Repair Commitments  
+ 
+Self-regulatory or legislative efforts to expand consumer repair choices also may want to 
+consider an appropriate monetary threshold for repair rights and the length of time manufacturers 
+should be required to facilitate independent repairs.  The MMWA, the existing Rhode Island, 
+Indiana and California right to repair laws, and the EU’s new regulations regarding home 
+appliance repairs spell out price thresholds and duration requirements for repair rights.
+287  Model 
+right to repair legislation takes a different tack, requiring manufacturers to provide individuals or 
+independent repair shops with access to the same information and parts that the manufacturer 
+provides to its authorized repair networks.
+288  Each approach presents challenges.   
+ 
+Creating a price threshold that is too low could impose significant burdens on 
+manufacturers of products that are designed for single use or are unlikely to be repaired because 
+of their low cost.  As the CTA’s Walter Alcorn noted at the Workshop, some consumer 
+electronic products are so inexpensive that nobody would expect to be able to fix them: 
+ 
+For example, these days you can go into a gas station and buy a cable 
+to basically attach your iPhone to the car. You paid $5 for that. I 
+don’t think anybody is expecting the manufacturer to provide 
+                                                 
+286 Transcript, at 101. 
+287 See supra, Section VII.C.   
+288 Model State Right-to-Repair Law, www.repair.org (saved Nov. 18, 2019).  
+53 
+ 
+diagnostics to the consumer so they can fix the cable. You’re lucky 
+if it works, but you know that going in.289 
+ 
+The type of price—wholesale or retail —would also need to be considered when setting a 
+threshold for repair rights.  The MMWA’s threshold is based on the cost paid by the consumer, 
+while California’s Song-Beverly Act’s threshold is based on the wholesale price to the retailer.  
+If a threshold is based on consumers’ expectations regarding repairability, the threshold should 
+reflect the cost paid by the consumer.  Moreover, consumers would have no insight into the 
+wholesale price of a product.  Therefore, they would have no way of knowing whether they had a 
+right to repair the item if the threshold were based on the wholesale price.  On the other hand, the 
+retail price may not be within the manufacturers’ vision, resulting in some manufacturers being 
+unexpectedly subject to repair requirements if a retailer sells their product at a price higher than 
+the established threshold.   
+ 
+ Determining the appropriate duration for repair rights presents similar challenges.  
+Consumers likely expect different types of products to be more durable than other types of 
+products.  Moreover, some products, because of how they are intended to be used, may not last 
+as long as other products.  The appropriate duration for repair rights will likely vary based on the 
+type of product.
+290 
+  
+ The model right to repair legislation avoids the issues of a price threshold and duration 
+requirement by limiting a manufacturer’s obligations to providing individuals or independent 
+repair shops with access to the same information and parts that the manufacturer provides to its 
+authorized repair networks.  This approach has the benefit of letting manufacturers determine 
+which, if any, of their parts should be repairable.  Yet, it could incentivize manufacturers to stop 
+offering to repair products, making it more difficult for consumers to have their products 
+fixed.
+291  Self-regulatory or legislative bodies interested in expanding consumer repair choices 
+will need to determine whether the model’s approach or a more price and duration-prescriptive 
+approach is appropriate. 
+ 
+D. Protection of IP rights  
+ 
+As discussed above, IP rights play a valuable role in encouraging and rewarding 
+innovation.  Several different governmental entities and laws grant and regulate IP rights.  For 
+example, the USPTO grants patent and trademark registrations and the US Copyright Office, an 
+arm of the Library of Congress, registers copyrights.  In addition, both state and federal law 
+govern trade secrets.  Accordingly, any action taken by industry or regulators to enable 
+                                                 
+289 Transcript, at 41.  
+290 We believe that the CTA’s Walter Alcorn has identified a central consideration for determining appropriate price 
+and duration thresholds:  At what price point do consumers view a product as single use and disposable versus a 
+product that they anticipate should be repairable?  Likewise, as to the appropriate duration for repair rights, how 
+long do consumers expect the product to last?  While individuals may have different views on these issues, self-
+regulatory or legislative bodies can strive to create thresholds based on the views of reasonable consumers.   
+291 On the other hand, requiring manufacturers to maintain a stock of replacement parts for a specific duration could 
+possibly chill innovation.  For instance, such a requirement could cause some manufacturers to limit the number of 
+new models in order to limit the number of repair parts that must be maintained. 
+54 
+ 
+independent repair should seek input from such entities and other stakeholders and be mindful of 
+existing law and policy supporting IP protection.    
+ 
+IX. CONCLUSION 
+ 
+The debate around repair restrictions illustrates the limitations of MMWA’s anti-tying 
+provision in repair markets.  While the anti-tying provision gives consumers the right to make 
+repairs on their own or through an independent repair shop without voiding a product’s warranty, 
+repair restrictions have made it difficult for consumers to exercise this right.  Although 
+manufacturers have offered numerous explanations for their repair restrictions, the majority are 
+not supported by the record.   
+ 
+            The auto industry has shown that in certain contexts, self-regulation can significantly 
+increase consumers’ repair options.  But other industries have not adopted similar self-regulation.   
+ 
+To address unlawful repair restrictions, the FTC will pursue appropriate law enforcement 
+and regulatory options, as well as consumer education, consistent with our statutory authority.  
+The Commission also stands ready to work with legislators, either at the state or federal level, in 
+order to ensure that consumers have choices when they need to repair products that they 
+purchase and own.  
+May 2021

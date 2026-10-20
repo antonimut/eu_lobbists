@@ -1,0 +1,166 @@
+ 
+a Secure Identity Alliance initiative 
+ 
+ 
+OSIA potential 
+complementarity to 
+eIDAS 
+28/10/2020 
+ 
+Ref. Ares(2021)3602156 - 01/06/2021
+a Secure Identity Alliance initiative 
+OSIA potential complementarity to eIDAS  28/10/2020  2 
+Table of contents 
+1. Definitions ...................................................................... 3 
+2. Aim of the document ..................................................... 3 
+3. eIDAS framework – a short summary .......................... 3 
+4. OSIA potential complementarity to eIDAS .................. 4 
+4.1. Benefits ................................ ................................ ................................ ................................  6 
+5. Bibliography .................................................................. 6 
+ 
+ 
+ 
+ 
+1. Definitions  
+Below is a set of definitions as intended in this document: 
+> Public/Private Service Provider is whoever instance that delivers over the internet a 
+dematerialized service or tangible good(s). 
+> Private Attributes Provider is whoever instance that delivers credentials that can later be 
+presented by a user as claims; claims can be of several kind: attributes, assertions, 
+attestations. Private Attributes Providers can be academics, corporate, financial sector, 
+associations, etc. A Private Attribute Provider may act as a Private Service Provider and 
+vice versa. 
+> Public Attributes Provider is an instance part of a National eID scheme.  
+ 
+2. Aim of the document  
+The aim of this document is to describe how the OSIA APIs could act as an interconnection between 
+the user, Public Attributes Providers (national eID schemes) and Private Service/Attributes Providers 
+for the latter to verify or access the user’s ID information.  
+OSIA APIs may act as a limited verification system for private sec tor seconding the existing eIDAS 
+framework. OSIA APIs flexibility would facilitate the adherence of private stakeholders to the current 
+scheme.  
+3. eIDAS framework – a short summary 
+Whenever a European citizen wants to access a Public Service Provider remotely, the connection is 
+subject to several redirections via the eIDAS nodes - a gateway to interconnect cross -border the 
+relevant Public Attributes Provider (national eID scheme) for the verification of the user’s identity.  
+The principle is that each user has his identity verified by his Public Attributes Provider (national eID 
+scheme) and the confirmation of the verification is received by the Public Service Provider.  
+In practice, the Public Service Provider  systematically redirects the user’s request via t he eIDAS 
+nodes towards the adequate national eID scheme to receive in return the confirmation of the user’s 
+ID alongside the set of attributes defined by the implementing Act 2015/1501.  
+The implementing Act 2015/1501 describes a limited set of attributes representing “pivotal 
+attributes”. Attributes can be classified in three layers, pivotal being one of them: 
+> Pivotal (name, first name, birth place, date of birth etc.) 
+> Biological or Physical representation (DNA, fingerprints, iris etc.) 
+> Social footprints (connections to internet, social network information etc.) 
+ 
+a Secure Identity Alliance initiative 
+OSIA potential complementarity to eIDAS  28/10/2020  4 
+ 
+The service providers admitted to take part to the eIDAS framework are only public agency i.e. Public 
+Service Providers.  
+4. OSIA potential complementarity to eIDAS 
+Beyond Public Service Providers, there is a need to extend the verification of the user’s ID to Private 
+Service Providers and to Private Attributes Providers. The former is essential for the verification of 
+the user’s ID before providing a service. The lat ter is essential for Private Attributes Providers to 
+provision user's personal device(s) with attributes on demand only after a thorough ID verification.   
+In this context, further features could be set up:  
+> Depending on the nature of the service, users may need to share with the Private Service 
+Provider/Private Attributes Provider more or less than the defined pivotal set of attributes and be 
+allowed to disclose selectively their attributes (user consent, data minimization) 
+> Unlike for Public Services Providers, Private Service Providers/Private Attributes Provider would 
+need to make use of stringent privacy features like consent management and to grant 
+anonymous access to services  
+> Private Service Providers/Private Attributes Provider would need to assess a variety of claims 
+(depending on the use case requirements) such as assertions (e.g. "I'm over 21-year old"), 
+attributes ("my name is John Smith"), attestations ("I'm graduate of xyz University"). Private 
+Attribute Providers would need to deliver such attributes on demand.  
+> Even with digital proof, the Private Service Provider/Private Attributes Provider may need to 
+check data beyond the very attributes as for instance their associated terms of usage, the 
+attributes validity, the user’s legitimacy (his identification token is not revoked), the fact that the 
+attributes are truly recorded in the civil registry, the fact that the user is still alive and standing 
+for a unique natural person.  
+> The Private Service Providers/Private Attributes Provider that access the user’s ID data need to 
+be registered so to create a chain of trust and avoid fraudulent private access providers from 
+phishing users and collecting and diverting their attributes for unauthorized purposes.  
+The OSIA APIs could act as an interconnection between:  
+> User, Public Attributes Providers (national eID schemes) and Private Service/Attributes 
+Providers for the latter to verify or access the user’s ID information.  
+a Secure Identity Alliance initiative 
+OSIA potential complementarity to eIDAS  28/10/2020  5 
+ 
+ 
+Figure 1 OSIA APIs interactions with eIDAS scheme 
+ 
+A National eID scheme offering restricted and filtered access to identification information would allow 
+for either Private Service Providers or Private Attributes Providers to verify claims (pivotal attributes) 
+received from users. While a claim may be comprised of pivotal attributes alongside other attributes 
+related to user's activities inherent to their third attribute layer (social footprint), a Private Service 
+Provider can check against OSIA API services only the validity of the pivotal attributes through the 
+National eID scheme. Likewise, before delivering some specific attestations, Private Attribute 
+Providers (e.g. a corporate or financial institution or an academic attestation) may need to make sure 
+that the pivotal attributes featured by this attestation are reliable/valid at the moment such attestation 
+is issued.   
+ 
+However, envisioning a notification of all Private Service Providers/Private Attribute Providers to 
+become full part of eIDAS scheme per se is likely to stumble against a process complexity that may 
+not be attractive. Business -wise, as a general statement and by experience, enforcing a Private 
+Service Provider/Private Attribute Provider to abide by regulatory rules without a clear return on 
+investment would not be a promising business model. Instead, a direct registration of Private Service 
+Providers and Private Attribute Providers with a Registrar under EC control to ensure a total trust 
+down the certification chain can be a more convenient process allowing for both user confidence in 
+the registered Service Providers and Private Attribute Providers, and for a proper filtering of National 
+eID scheme service through OSIA API.  
+ 
+The access to OSIA API services shall not necessarily be interpreted as a limited access to National 
+eID registries but rather as an access to a static and updated replica of a dedicated part of such 
+registries e.g. OSIA API could in some implementations act as a service interface to a blockchain.  
+
+a Secure Identity Alliance initiative 
+OSIA potential complementarity to eIDAS  28/10/2020  6 
+ 
+ 
+In conclusion, OSIA API s may act as a limited verification system beside the existing eIDAS 
+framework. OSIA APIs would second the eIDAS framework for private sector and facilitate 
+adherence of private stakeholders by sparing them the constraints of a notification scheme, and 
+sparing the Commission the need to amend the regulation to fit the numerous expectations of private 
+sector and their users in terms of privacy, anonymity, growing diversity of exchanged claims, liability, 
+etc.   
+ 
+4.1. Benefits 
+The approach of leveraging OSIA APIs to allow private sector to verify users’ ID as a parallel 
+scheme to eIDAS brings the following benefits:  
+> The National eID scheme will not be impacted if the OSIA APIs are implemented, OSIA APIs 
+would just be another layer on top of the existing solution 
+> OSIA APIs are an open standard therefore any member state would have the possibility to 
+select the IT integrator of its choice, the part of the API to implement, the kind of information it 
+accepts to deliver, etc.  
+> OSIA APIs would be something working alongside the existing eIDAS framework so that the 
+existing framework does not need to be broken down and reviewed 
+ Moreover, as the two systems can work together side by side, the maintenance and 
+update of the APIs can be tailored without impacting government-based services 
+> Due to the large panel of accesses and services, exposing indirectly some part of the national 
+registry information to Private Service Providers/Private Attributes Providers through OSIA APIs 
+would increase eIDAS scheme performance and appeal 
+> OSIA APIs could be conditional to some requirements among which a registration to make sure 
+that the information/request comes from the appropriate party 
+> OSIA APIs can be subject to filtering and could check the user consent with user authorization 
+tokens, including terms of usage (for Private Service Providers or Private Attributes Providers 
+liability on data collection limitation and use)  
+> OSIA APIs could implement an automatic notification of the user upon demand for each 
+attribute checking event 
+> Traceability through OSIA could be both private (anonymous in that the purpose of the 
+verification remains hidden) and at the same time allowing the tracking back of a user who 
+would have endorsed a false attestation 
+ 
+5. Bibliography 
+[1] OSIA website: www.osia.io 
+[2] OSIA specifications available in GitHub: https://osia.readthedocs.io/en/latest/  
+a Secure Identity Alliance initiative 
+OSIA potential complementarity to eIDAS  28/10/2020  7 
+ 
+ 
+ 
+ 
+ 
+www.secureidentityalliance.org 

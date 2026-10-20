@@ -1,0 +1,404 @@
+  
+1 
+ 
+Position paper: Input consultation on a 
+Cyber Resilience Act 
+ 
+Summary 
+The Belgian, Dutch, French and German CIO-associations represent business users of digital 
+technologies in their countries. As representatives of business users, we firmly support the 
+need for mandatory horizontal cybersecurity requirements for all digital products and 
+services as is envisioned by the Cyber Resilience Act (CRA). We fully support the goals that 
+the CRA envisages and we gladly support the Commission in shaping the text of the CRA. 
+Specifically, we urge the following points to be taken into account: 
+1. The CRA should regulate the cybersecurity of digital technologies throughout their 
+life cycle, from design to integration, administration, operation and configuration in a 
+mandatory, EU wide, approach. 
+2. The CRA should cover digital technologies in products, services and processes, 
+irrespective of use by individual consumers or business users, and during the whole 
+economic life cycle from a user perspective. Vulnerabilities in the current software 
+are increasingly impacting business users, leading to high direct costs and indirect 
+opportunity costs as the security specialist’s skills are turned towards addressing the 
+vulnerabilities.  
+It is important that the cybersecurity risks of non-embedded software products are 
+clearly addressed.  
+3. The CRA must be complementary to regulations in specific sectors  
+4. Compliance with CRA should be monitored and enforced in such a way that the 
+uniform and effective application of cybersecurity requirements is ensured at EU 
+level . 
+5. Enforcement of CRA should be gradual, starting with providers of critical components 
+in enterprise-level information systems and large digital solution providers.  
+ 
+Business users of digital technology welcome the opportunity to provide input on the 
+process to come to a Cyber Resilience Act. We consider that essential ingredients for cyber 
+resilience allow for a flourishing European economy and society; ingredients such as clear 
+norms and standards, assurance of compliance by public authorities, fair competition and 
+equitable liability rules.  
+ 
+Who we are and why our input matters 
+We are the Belgian, Dutch, French and German CIO-associations; the communities of Chief 
+Information Officers (CIO’s) and other senior leaders that are responsible for digital 
+technologies and digital transformations within private or public organisations. All our 
+Ref. Ares(2022)3961190 - 26/05/2022
+  
+2 
+ 
+members are European business users of digital technologies; they acquire, implement and 
+use digital technologies in practise. We do not represent ICT providers and consultants.  
+ 
+Business users of digital technology are a key link in the digital transformation of society and 
+economy: they rely on the digital technologies they use, either hardware or software, and 
+need these to be secure and safe to use and compliant with EU laws and regulations. 
+Business users also play an influential role in keeping digital technologies used in their 
+organizations and across Europe secure and compliant with European standards and values 
+through their combined purchasing power. To reap the benefits of digital technologies in 
+Europe, the position of business users - companies and government organisations - of digital 
+technology must be taken into account.  
+ 
+Context: The position of business users in the markets of digital technologies 
+and software, specifically relating to cybersecurity 
+Before commenting on what business users of digital technology see as essential for the 
+CRA, we set out the context of the digital market and why the European Commission’s 
+proposal for the CRA is such a welcome and necessary legislative proposal. We expand on 
+several elements of the digital market, such as power imbalances and a lack of incentives for 
+vendors to provide secure software.   
+  
+At the foundation of the Cyber Resilience Act, should lie the assumption that producers of 
+digital technology products should have a strong incentive to deliver safe and secure 
+products, services and processes and that consumers and business users should be 
+protected from, or compensated for, costs and other damages caused by non-secure 
+products, services and processes.  
+ 
+Strong dependency on software and suppliers 
+Defective, unsafe or unsecure software and other digital technologies can quickly and easily 
+cause harm or damage to users, both private persons as well as organisations. Hereafter we 
+shall mostly talk about software, as software, either embedded in hardware, stand alone, or 
+provided as a service, is the most versatile, complex and security-relevant part of digital 
+technology. This does not mean we disregard other manifestations of digital technologies. 
+Software is so deeply embedded in almost all products, services and processes nowadays, 
+that defects can easily cause these products, services and processes to become inoperable, 
+insecure or unreliable. This is especially the case where software is used by business users 
+and integrated into their production-, logistical-, security- and other processes.  
+ 
+Furthermore, business users are often in a dependent position with regard to the suppliers 
+of the software they use. This is due to the lock-in effect of software; because of the limited 
+level of standardization, interoperability and modularity on the one hand, and the number of 
+connections software creates with many other systems, processes and users within the 
+organisation, it is very difficult and extremely costly to change from one software product to 
+another. It should also be considered that often, there are not many reasonable alternatives 
+  
+3 
+ 
+to be found. These effects lead to a distinctive unbalance in negotiating power between 
+software provider and business user. 
+ 
+This unbalance also leads to having to accept unfavourable terms and conditions, for 
+instance with respect to liability of the producer/vendor of the digital technology or 
+software product, service or process. As there is freedom of contract, the argument will go 
+that business users are fully aware that they waive liability. The reality is that the business 
+user does not have the negotiating power to demand that liability for faulty or insecure 
+software lies (partially) with the software vendor when (re-)contracting the use of the digital 
+technology.  
+ 
+Restraints on finding and repairing flaws in software 
+Yet another aspect of the digital market is the complexity and other restraints that make it 
+impossible for the business user to adequately inspect or adapt software if it is found not to 
+be secure enough. The source code of software is usually available only to the vendor, 
+making it impossible for entities other than the vendor to scrutinize it. Furthermore, 
+proprietary software code is protected by intellectual property rights. So even if someone 
+was to find flaws or security leaks, they may not alter the code to repair the situation and 
+can only refer the discovery to the vendor, who then has to decide what to do about this. 
+These issues do not always get the attention they deserve.1  
+ 
+Transferal of costs of security flaws to business users 
+Even if the vendor steps in and provides patches for cybersecurity risks in its software, it is 
+then up to the business user to organize testing of the patch to see if it does not impair 
+connections with, or operation of, other software or processes within the organization. As all 
+software vendors make use of such patching practices, business users must employ 
+significant numbers of employees to check and deploy patches to cover mistakes made by 
+the software vendor.  
+ 
+For example, a company with 150,000 employees worldwide and the equivalent in 
+Office 365 licences, mobilizes an average of fifteen FTEs/year to carry out the routine 
+operations of correcting security flaws in Microsoft software and control console. 
+This is equivalent to an average expenditure of more than 1 million euros/year, at the 
+business user’ s expense, to compensate for the by -design security flaws in 
+Microsoft’s products. More recently, the management of the so -called 
+« PrintNightmare » flaw alone repres ented 300 man -days for the company’s IT 
+department.2  
+ 
+ 
+1  The Dutch Safety Board researched software security as part of its investigation of breaches in Citrix 
+software. It explains the complexities, economic incentives etc. around software and vulnerabilities 
+elaborately. See: https://www.onderzoeksraad.nl/en/page/17171/kwetsbaar-door-software---lessen-naar-
+aanleiding-van  
+2  See press release of the four CIO-associations, for instance: https://www.cigref.fr/environmental-
+footprint-and-security-european-user-associations-call-on-microsoft 
+  
+4 
+ 
+In other words, software vendors transfer costs related to their mistakes, oversights, lack of 
+sufficient quality control etc. to business users and consumers. The Dutch Safety Board also 
+found that: ‘At present, government and other organizations have few possibilities for 
+requiring software manufacturers to safeguard cybersecurity in their products. As a 
+consequence, problems arising from vulnerabilities largely come to lie with the user of a 
+product.’3 
+ 
+In well-functioning markets, such situations would cause business users to migrate to other 
+suppliers. We have indicated above why that is not usually possible in the case of digital 
+technologies, especially software. The dependency of the business user on the digital 
+technologies and software they use, also inhibit their possibilities for addressing the 
+situation in court. Confronting a supplier in court with situations a business user deems 
+unlawful, not in accordance with contracts, or with general business practice, could well 
+(and in practise does) result in unfavourable conditions or price raises when the next 
+renewal of contracts is needed. 
+ 
+More efficient use of expertise to prevent security flaws 
+The indicated situation not only impacts costs for business users of digital technologies, it 
+also puts additional strains on the talent pool of cybersecurity specialists. With business 
+users needing to employ relatively large staffs of (security) personnel to cover the 
+vulnerabilities and flaws in digital technologies and software, they need to compete with 
+each other and with the producers/vendors for scarcely available experts. It would be 
+beneficial for all concerned if producers/vendors would be incentivised to ensure higher 
+quality and better security of their products, services and processes. A concentration of 
+security expertise at the core of a system, where the design and production are located, is 
+more efficient than distributed across all endpoints. Examples are found and instituted in 
+many other industries, for instance drinking water, medicines, car manufacturing, etc. 
+ 
+Make use of international initiatives that promote security by design of digital 
+products and services throughout their life cycle 
+Despite the absence of a common legal framework, various international organisations have 
+worked on securing digital products and services by design and throughout their life cycle. 
+We would mention the OECD report, "Enhancing the digital security of products”4, published 
+in February 2021 and whose work should be incorporated in CRA initiative. Similarly, the 
+work of Working Group 6 of the Paris Call on securing the ICT supply chain5 should be taken 
+into account in the CRA as it makes recommendations to implement international 
+frameworks on securing the ICT supply chain. 
+ 
+ 
+3  Dutch Safety Board, ‘Vulnerable through software: Lessons resulting from security breaches relating to 
+Citrix software’, The Hague, 2021, p.83. 
+4  https://www.oecd-ilibrary.org/docserver/cd9f9ebc-
+en.pdf?expires=1652960566&id=id&accname=guest&checksum=C15CE79F527D16DEFFC7FE7F641AC35F 
+5  https://pariscall.international/assets/files/2021-11-12-Paris-Call-Working-Group6-Report-
+SecuringICTSupplyChain.pdf 
+  
+5 
+ 
+Cyber resilient product as reasonable expectation of the customer 
+Given the importance of digital technologies in our economy and society, it would be 
+desirable to promote the emergence of a situation where cyber resilience/security of a 
+product or service is regarded as a common practice. This would mean that the customer, 
+either an individual consumer or a business user, can have the reasonable expectation to 
+have a cyber secure product, that complies with the applicable EU and national legislations 
+and regulations. This is the same principle as in car manufacturing industry. The car 
+manufacturer is responsible and liable for the good functioning of the car. When there is 
+(negative) impact or risk, then the car manufacturer needs to solve the issue. This results for 
+instance in recall of products, and their being fixed without cost to the user. At the moment, 
+this is not the situation with digital technologies. 
+ 
+New, mandatory legal framework only way to really improve security 
+The context described above provides ample indications of the need to ensure that software 
+is developed secure, right from the start and that security is maintained throughout the 
+employment of the software by business users. It would liberate much needed resources, 
+save costs and increase productivity of security specialists. As indicated above, and 
+underscored by the Dutch Safety Board, users often have no way of incentivising the 
+producer to incorporate their requirements into the product, service or process. This means 
+the only way to make sure vendors do the utmost to provide secure software products and 
+services, is to lay down mandatory legal requirements and enforce compliance. 
+ 
+No current legal framework addresses this adequately at this moment. As stated by the 
+Netherlands government in its non-paper of January 2022:  
+ 
+‘While the RED delegated act is key to set mandatory security requirements in the 
+short term for wirelessly connect devices (including many IoT devices), it only 
+addresses wireless products when they enter the market and cannot encompass the 
+broader scope of ICT products, processes and services. Also, at the time the RED was 
+not created with cybersecurity in mind. The CSA on the other hand offers the benefits 
+of a broader scope for ICT products, processes and services, but is a voluntary system. 
+From this perspective, horizontal legislation can contribute to a desired horizontal and 
+mandatory level of security and ensure consistency and legal certainty for both 
+manufacturers and consumers (citizens and businesses).’6  
+ 
+Furthermore, guidelines, where available based on work already undertaken by other 
+international bodies as indicated in the previous paragraph, are needed in order to help both 
+developers, vendors and business users to comply with the legal framework as soon as 
+possible and with the least amount of uncertainty as to what the legal requirements mean in 
+practice. 
+ 
+ 
+6  https://www.permanentrepresentations.nl/permanent-representations/pr-eu-
+brussels/documents/publications/2022/01/12/non-paper-on-the-principles-of-a-cyber-resilience-act, p.2. 
+  
+6 
+ 
+What does this mean for the Cyber Resilience Act? Our four associations urge the European 
+Commission to ensure four aspects in its proposal for a Cyber Resilience Act, as set out 
+below. 
+ 
+1. The CRA should regulate the cybersecurity of digital technologies throughout 
+their life cycle, from design to integration, administration, operation and 
+configuration in a mandatory approach. 
+In the previous chapter, we have explained the need for legislation to make sure vendors of 
+software and other digital technologies have the incentives (and obligation) and the 
+guidelines to provide products, services and processes driven by software and other digital 
+technologies that are secure throughout their life cycle. This means from their design and 
+development to integration, administration, operation and configuration. It is important that 
+the legislation is mandatory. Due to the interconnectedness, by design or in practice, of 
+digital technologies and software, flaws in one product or service may impact others.7 This 
+means that producers of digital technologies and software should adhere to security 
+requirements. As set out above, it is apparent that software vendors are not sufficiently 
+incentivised to provide software that is safe and secure by design. Hence, we call for a 
+mandatory, EU wide approach to the security requirements. 
+ 
+2. The CRA should cover digital technologies in products, services and processes, 
+irrespective of use by individual consumers or business users, and during the 
+whole economic life cycle from a user perspective. 
+‘If everything is connected, everything can be hacked’, as Commission President Ursula von 
+der Leyen stated in her State of the Union speech in 2021. .8 This, together with the 
+previously mentioned practical evidence that systems can be affected even if they are not 
+specifically targeted, can only lead to the following conclusions about security requirements. 
+These requirements should apply to all: 
+a. Digital technologies and software in products, services and processes that are of can 
+be connected, 
+b. Categories of use, irrespective of the user being a consumer, SME or large 
+organization (private or public), 
+c. Digital technologies and software that is brought to the market and/or used within 
+the EU. 
+ 
+Therefore, producers/vendors should be obliged to keep providing necessary updates and 
+patches throughout the economic life cycle, to keep ensuring the security of the software, 
+and by extension all connected systems and users. This applies to all connected products, 
+ 
+7  As an example, the cyberattack on Ukraine in 2017 that involved the NotPetya malware, spread 
+throughout the world causing major disruptions and damage even to organizations with no direct links to 
+Ukraine. See: https://en.wikipedia.org/wiki/Petya_and_NotPetya 
+8  https://ec.europa.eu/info/sites/default/files/soteu_2021_address_en_0.pdf, p.13. 
+  
+7 
+ 
+services and processes, as even the most unlikely ones, like connected fish tanks, can 
+provide a security risk.9 
+ 
+It is important to define the life cycle independently from the producer/vendor. Leaving it up 
+to the producer/vendor to decide when the economic life cycle ends, would, in combination 
+with the lock-in and lack of interoperability explained above, give them the opportunity to 
+force users to invest more than necessary from the user’s perspective. It would create the 
+possibility to ramp up their own sales, by just declaring the end of life of certain 
+technologies/software versions and thereby forcing all users to acquire new versions or 
+products.  
+ 
+On the other hand, if the end of life is declared by an independent party and support for 
+security is subsequently stopped by the producer/vendor, it will be the (business) user’s 
+responsibility to migrate to other digital technology or software, or to make sure the old 
+technology is no longer able to connect to other systems. 
+ 
+Furthermore, producers/vendors should be obliged to inform their customers and act within 
+a reasonable time to correct flaws in their digital products and services throughout their life 
+cycle.  
+ 
+3. The CRA must be complementary to regulations in specific sectors  
+The CRA should implement a basic level of security for all digital technologies and software, 
+especially those that are connected. In some industries, processes, and situations additional 
+measures are, or could be, required, either by law or sectoral regulations. The CRA should be 
+complementary to such regulations and make compliance easier as producers/vendors are 
+incentivised to adhere to higher levels of security. If other regulations already apply and are 
+more stringent, that regulation/framework applies. If not, CRA applies. It should in any case 
+be prevented that CRA creates ambiguity or conflicts in requirements with other legislation. 
+ 
+4. Compliance with CRA should be monitored and enforced in such a 
+way that the uniform and effective application of cybersecurity 
+requirements is ensured at EU level  
+Compliance with CRA should be monitored and enforced in such a way that the uniform and 
+effective application of cybersecurity requirements is ensured at EU level, otherwise the CRA 
+will fail in attaining its objectives. Time and again it was shown by i.a. extensive testing of 
+GDPR-compliance10 that the existence of legal requirements does not mean digital 
+technologies, or the terms and conditions imposed by vendors, are compliant. There needs 
+ 
+9  See: https://www.washingtonpost.com/news/innovations/wp/2017/07/21/how-a-fish-tank-helped-
+hack-a-casino/ 
+10  See for instance media attention given to research on behalf of the Dutch Ministry of Justice and 
+Security into several software products and services: https://slmmicrosoftrijk.nl/links/  
+  
+8 
+ 
+to be an effective and efficient process, with independent assurance, for ensuring digital 
+technology and software products, services and processes comply with the security 
+requirements set in the CRA.  
+ 
+To make sure the requirements are uniformly interpreted and enforced across the EU, there 
+should be a central authority responsible for this. This would also ensure that the cost to 
+producers/vendors of digital technologies and software is not higher than need be, and that 
+the required expertise can be most effectively brought together. This will require a great 
+effort, a lot of expertise and time to set up, but it is essential to start working at this, in order 
+to be able to make sure we can make the EU more secure in the future. Should, 
+alternatively, national authorities be appointed to enforce the CRA, it is of critical 
+importance that coordination between these national regulators is set up in a way that 
+avoids the issues that make enforcing the GDPR less efficient than necessary. For instance, 
+differences in interpretation and application of the regulatory framework creates 
+uncertainty for users. And the differences in size and expertise of the regulators make it 
+relevant which authority is in the lead to pick up cases etc. This could lead to many cases not 
+being enforced when the lead-authority is understaffed or doesn’t have the required 
+expertise at hand. 
+ 
+Similar situations where requirements have to be met for admittance to the EU market are 
+manifold, for instance in the aircraft industry, food, pharma and many other industries. In 
+those situations too, as with digital technologies, the impact and costs of faulty products on 
+individuals, society and economy is large and liability of producers is hard to put into 
+practice. In these cases (centralized) regulations and enforcement thereof have over the 
+years been put into place. This should also be the case for digital technologies, especially for 
+software.  
+ 
+5. Enforcement of CRA should be gradual, starting with providers of critical 
+components in enterprise-level information systems and large digital solution 
+providers. 
+We can imagine that the implementation of a regulatory framework such as the Cyber 
+Resilience Act, and the enforcement thereof, will take some time. And that choices have to 
+be made in what areas to focus enforcement on first. In the paragraphs on the context of 
+digital technologies, business users and cybersecurity above, we explained the strong 
+dependence of business users on software products, services and products, the extensive 
+interconnectedness of some software suites with other processes and systems within an 
+organization and the difficulties and costs related to switching to another provider or 
+software suite, if one is even available. We also indicated the practices and incentives 
+relating to cyber security related flaws and repair policies, as we encounter them. Following 
+from these observations, we would suggest as a first order of priority, to make sure that 
+enterprise level information systems, cybersecurity software and services, and software 
+products and services that are most widely used in business environments, are the first to be 
+made compliant with the requirements of the CRA. These are most critical to business 
+  
+9 
+ 
+continuity and security. This compliance should be assured by a third party, either an 
+independent auditor or a regulatory body.  
+ 
+This suggestion for prioritization does not mean that other digital technologies should not 
+need to comply with CRA requirements, but the focus should in our opinion be on the 
+previously mentioned products, services and processes first. 
+ 
+It will be necessary to work with different ‘levels’, you cannot expect the same level for all 
+applications and vendor size. It is not the intention to block innovation by upfront 
+certification. For less critical industries, software, etc, a light regime with self-assessment 
+could be put in place.  
+Final remarks 
+This comment on the Cyber Resilience Act initiative focusses mainly on the role of vendors, 
+which is indeed an important role that has not received the necessary level of attention in 
+the past. So as a way of correcting this lack of attention, the Cyber Resilience Act is a 
+necessary step. On the other hand, cyber resilience needs more than just secure hard- and 
+software and services. It also needs good implementation and operation, monitoring and 
+well thought out and tested recovery plans, frequent exercises of how to handle incidents 
+etc. Most of all, what is necessary, is that owners/boards of directors of all organizations and 
+companies, both vendors and users of digital technologies, should be made more aware and 
+responsible for the cybersecurity of their organization. In this respect, the name of the Cyber 
+Resilience Act may imply a broader approach than seems to be proposed, if the proposed 
+Act follows the reasoning of the questionnaire. We would like to call attention of the 
+European Commission to also take steps to encourage those responsible for organisations, 
+to take action to ensure the security of both their organisation and its operation on one side, 
+as well as the (digital) security of the products, services and processes it provides on the 
+other side. 
+ 
+Our four CIO-associations are readily available to assist shaping the text of the CRA. We are 
+more than happy to provide more insights into the business user’s perspective on this topic. 
+ 
+ 
+ 
+ 

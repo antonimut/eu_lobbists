@@ -1,0 +1,129 @@
+ 
+ 
+ 
+Westervoortsedijk 73, Industriepark Kleefse Waard, gebouw KB, 6827  AV  Arnhem            
+T  +3126 3120223                             E  info@elaad.nl                            W www.elaad.nl  
+ 
+18 May 2022 
+ 
+Cyber security of recharching infrastructure for electric vehicles 
+ 
+Poor cyber security of recharging points is a threat to the electricity grid 
+ 
+The number of electric vehicles (EVs) and recharging points in Europe is growing rapidly. The vast 
+majority of recharging points are directly or indirectly ‘connected’ to the internet and they collectively 
+represent a very large electric power demand. Good cyber security of recharging points is therefore 
+crucial for the stability of the electricity grid. 
+ 
+In order to prevent overloading of the electricity grid at certain times and locations, and to properly 
+align the recharging of EVs with the availability and price of renewable energy, Smart Charging is or 
+will be applied. Recharging points are then controlled remotely from a back office. Home recharging 
+points can be connected to a home energy management system which in turn is connected to a 
+central system.  
+ 
+If the cyber security of recharging points is not well managed, this is a potential risk not only to the 
+mobility system itself, but also to the stability and security of the public electricity grid. A hack of a 
+large number of recharging points could cause damage on two levels: 
+ 
+1. A disruption of the national system balance. If a hacker were to suddenly switch off a very large 
+number of recharging points, the question is whether the TSO, would be able to adapt production 
+capacity and/or demand quickly enough. If this is not successful, a national blackout could be the 
+result. At a switchable power capacity of 3 GW, the stability of the entire European electricity grid 
+could be at risk. 
+ 
+2. Local overloading of the distribution grid. If the regional grid operator uses smart charging to tailor 
+recharging to the maximum grid capacity and a hacker were to override those control signals, 
+components in the power grid such as cables or transformer stations could be overloaded and, in 
+extreme cases, catch fire. 
+ 
+Recharging eco-system 
+ 
+Recharging points are one component in a recharging eco-system which includes several new market 
+roles. Most recharging points are connected to the backend of a Charge Point Operator (CPO). Most 
+end users have access to public recharging stations through an e-Mobility Service Provider (EMSP). 
+CPO’s and EMSPs may be participating in (international) roaming platforms. Smart Charging Service 
+Providers (SCSP) may aggregate a large number of recharging points in order to adjust the recharging 
+process to the energy markets, both for supply of (renewable) energy and for flexibility/balancing 
+services as requested by DSO’s or TSO’s. Some market parties do not develop the software required 
+for their operation themselves, but procure SaaS from companies offering white label fulfilment for 
+multiple clients. 
+ 
+Since EV-recharging is a relatively young market, new market roles may appear over time.  
+ 
+As a result, cyber security of recharging infrastructure does not stop at requiring security 
+measurements for the recharging stations themselves, but should also cover all these new market 
+roles and the interaction between various parties.  
+ 
+EU-cyber security legislation must therefore cover the hardware and (embedded) software of the 
+recharging point, as well as the connection to the backend system and the interfaces between the 
+systems used by various market parties in the recharging eco-system. It should also cover future 
+technological and market developments. 
+ 
+ 
+ 
+ 
+Ref. Ares(2022)3759835 - 18/05/2022
+ 
+ 
+ 
+Westervoortsedijk 73, Industriepark Kleefse Waard, gebouw KB, 6827  AV  Arnhem            
+T  +3126 3120223                             E  info@elaad.nl                            W www.elaad.nl  
+ 
+Legislation 
+ 
+At this moment in time, there is no comprehensive EU-legislation yet for the cyber security of EV-
+recharging infrastructure.  
+ 
+Several EU-instruments may apply to or refer to recharging points for electric vehicles: 
+ 
+- NIS (Network and Information Security Directive): this is the main legal framework for cyber 
+security in the EU. It applies to Operators of Essential Services (OESs) and Digital Service 
+Providers. These entities are required to implement security measures, will be supervised and 
+are obliged to report cyber incidents to the national Computer Security Incident Response 
+Team. In the energy sector, TSOs and DSOs are OESs however Recharging Point Operators 
+are not. 
+The EC is now preparing an update of the NIS defining Essential Entities (EEs) replacing the 
+old category OES.  
+ 
+- AFID (Alternative Fuels Infrastructure Directive): the AFID mainly focuses on public recharging 
+points which member states must implement and specifies the technical requirements for such 
+recharging points.  
+The EC is now preparing an update which will get the status of Regulation rather than 
+Directive. 
+ 
+- EPBD (Energy Performance of Buildings Directive): this includes rules for implementation of 
+private recharging points for newly constructed buildings and major reconstructions. For the 
+specification of the recharging points reference is made to the AFID/AFIR.  
+ 
+- NCCS (Network Code on Cyber Security): this is a draft network code for cybersecurity 
+aspects of cross-border electricity flows submitted by ENTSO-E and EU DSO entity to ACER. 
+ 
+- ITS (Intelligent Transport Systems): this directive aims to integrate telecommunications, 
+electronics and information technologies with transport engineering in order to plan, design, 
+operate, maintain and manage transport systems. 
+ 
+- Radio Equipment Directive: this addresses the secure communication between information 
+systems and devices. 
+ 
+None of the above-mentioned EU-instruments specifically addresses the cyber security of the 
+recharging infrastructure at this moment in time. The EU-policy regarding the cyber security of 
+recharging infrastructure seems scattered and there is no comprehensive approach. In this context, 
+the proposed Cyber Resilience Act may act as a safety net to fill in the legislative gaps which are not 
+covered by specific instruments. Thus it covers the entire recharging ecosystem, today and in the 
+future. 
+ 
+Furthermore, the CRA offers important benefits: 
+ 
+1. The horizontal approach covers a wide range and includes new market roles and system 
+interfaces that may appear in future. 
+2. SaaS can be included. 
+3. The CRA covers the whole life cycle of a product (please note that for a recharging points this 
+may be 10 years or longer). 
+4. Conformity assessment rules can be based upon a risk-based approach (please note that the 
+risk of a blackout of the electricity grid is the product of a chance that may be very small and 
+an enormous societal and economic impact). 
+ 
+ 
+Authors: 
+Paul Broos  paul.broos@elaad.nl 
+Harm van den Brink harm.van.den.brink@elaad.nl  

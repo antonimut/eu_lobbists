@@ -1,0 +1,424 @@
+Position paper on Digital Simplification Package  
+7 October 2025 
+ 
+ 
+Page | 1 
+    
+ 
+Schneider Electric EU Government Affairs 
+Rue du Commerce 31, Brussels 1000  
+EU Transparency Register: 46302264606-44 
+Digital Simplification Package 
+Schneider Electric position 
+ 
+ 
+Schneider Electric welcomes the European Commission ’s willingness to simplify the 
+European digital regulatory acquis, which has been complexified by overlapping 
+legislations and standards to the detriment of an effective implementation and the 
+development of a trusted environment.  
+ 
+Targeted simplification will bring enhanced  regulatory stability  by addressing the most 
+significant hurdles to European competitiveness . This s implification package should 
+therefore not drastically modify the regulations currently or soon to be implemented. An 
+oversimplification of the rules  could risk undermining legal certainty in the EU.   
+ 
+Schneider Electric  believes simplification should benefit all stakeholders , independent 
+of their size. We operate in an ecosystem. A differentiated approach to simplification would 
+lead to ineffectiveness and could make it impossible for larger stakeholders to meet their 
+own obligations . 
+ 
+Schneider Electric therefore calls for the Digital Simplification Package to:  
+I. Ensure transversal simplification through key principles................................................... 2 
+1. Scope: define a clear scope and key terms................................................................... 2 
+2. Applicability: publish important deliverables 12 months before applicability ................ 2 
+3. Reporting: streamline reporting with one platform, one format, one language ............. 3 
+4. International standards: leverage existing international standards ............................... 3 
+5. Secondary legislation: avoid overinterpretation in secondary acts and guidance ........ 3 
+II. Clarify inconsistencies and overlaps between legislations................................................ 4 
+1. Cybersecurity: facilitate the transition from the RED DA to the CRA ............................ 4 
+2. Cybersecurity: review the purpose of European certification schemes ........................ 4 
+3. Cybersecurity: harmonise NIS2’s implementation across Member States ................... 4 
+4. Data protection: conduct targeted GDPR simplification ................................................ 5 
+5. Artificial Intelligence: support the AI Act’s implementation ............................................ 6 
+Contacts ..................................................................................................................................... 6 
+ANNEX – List of proposals for the Digital Omnibus .................................................................. 7 
+ 
+ 
+Schneider Electric is eager to support the European Commission’s simplification 
+exercise. We are happy to share  use cases and practical examples of the challenges faced 
+by industry stakeholders , as well as solutions to address them.  
+ 
+ 
+ 
+ 
+ 
+  
+Ref. Ares(2025)8739647 - 14/10/2025
+
+Position paper on Digital Simplification Package  
+7 October 2025 
+ 
+ 
+Page | 2 
+    
+ 
+Schneider Electric EU Government Affairs 
+Rue du Commerce 31, Brussels 1000  
+EU Transparency Register: 46302264606-44 
+In detail: Schneider Electric key recommendations  
+I. Ensure transversal simplification through key principles 
+ 
+1. Scope: define a clear scope and key terms 
+ 
+Clearly defining the scope  and key terms of a regulation  is fundamental . Currently, 
+essential concepts are too often not precisely defined or remain unclear. For instance:  
+➢ The broad definition of the data in scope of the Data Act  poses significant 
+interpretation challenges , especially considering the variety of sectors in scope .  
+➢ The distinction between “ data processing services ” and “ related services ” is 
+not always clear, particularly for hybrid or vertical solutions . N either is it clear 
+whether a single service can belong to both categories . Practical examples on 
+how to distinguish between the two would be helpful.  
+➢ Ambiguity remains around the categorisation of AI systems as “ high-risk” under 
+the AI Act . What constitutes a “safety component ” requires more precision. 
+Specifically, we encourage the Commission to clarify the exceptions listed in article 
+6.3. (“perform a narrow procedural task”, “improve the result of a previously completed 
+human activity”, etc.). For this purpose, it should rely on examples from the industry.  
+➢ The definition of an “event” needs to be further clarified: it should not be based on 
+the notion of “occurrence”, it should not be equated to an “ incident”, and it should 
+include all internal measurements when abnormal/out of range (for example IOT 
+temperatures measurements) – thus it should not only focus on circumstances.  
+ 
+Sector-specific guidance and  FAQs with examples, developed in collaboration with 
+relevant stakeholders  should be the first step to facilitate compliance.  
+ 
+In addition , the Commission should focus on  improving  consistency between 
+regulations. Similar but different terms in different regulations hamper compliance , notably: 
+➢ “Data processing services ” (Data Act) and “remote data processing solutions ” (CRA). 
+➢ “Significant incident ” (NIS2) and “severe incident ” (CRA), “serious incident ” (AI Act).  
+ 
+2. Applicability: publish important deliverables 12 months before applicability 
+ 
+Secondary acts and important guidance should be published at least 12 months  
+before the applicability of the related requirements. This has not always been the case. 
+Guidelines on the definition of AI systems and prohibited AI practices were released the 
+same week the corresponding AI Act requirements became applicable. The Commission 
+should commit to strict delivery timelines for guidance on the concept of “ substantial 
+modification”  under the CRA  and on the risk assessment under the AI Act.  
+ 
+Most importantly, because standards  underpin a product’s ability to be placed on the EU 
+market, their timely delivery is essential for manufacturers to adapt their processes. The 
+delayed publication of RED DA standards created challenges that persist today.  This 
+situation should  not be replicated for CRA standards.  Tight timelines and unpredictability 
+are not conducive to a trusted business environment.  The availability of harmonised 
+standards at least 12 months  in advance  should be a precondition to the entry into 
+application o f any New Legislative Framework legislation , such as the CRA . 
+Experience has shown that a few months are not enough neither for entities in scope, nor 
+for notified bodies.  
+ 
+ 
+Position paper on Digital Simplification Package  
+7 October 2025 
+ 
+ 
+Page | 3 
+    
+ 
+Schneider Electric EU Government Affairs 
+Rue du Commerce 31, Brussels 1000  
+EU Transparency Register: 46302264606-44 
+3. Reporting: streamline reporting with one platform, one format, one 
+language 
+ 
+In the current EU regulatory landscape,  cybersecurity incident reporting is 
+fragmented and burdensome , especially when a single incident falls under multiple 
+regulations. Under this complex framework,  CISOs and DPOs must report the same incident 
+to multiple authorities  – up to four per country  – in each impacted country, each report in its 
+own language and format. This creates inefficiencies, diver ts resources from incident 
+response, and increases the  risk of non -compliance. Avoiding unnecessary redundancies  
+within ecosystems  is also crucial : the same incident should not have to be reported  twice. 
+Schneider Electric urges the Commission t o streamline the reporting process, with: 
+➢ One definition:  Harmonise the definition of incident (see section I. i.)  and 
+threshold for reporting across regulations and Memb er States.  
+➢ One format:  Develop a standardi sed European reporting template that allows 
+multi-regulation reporting in one submission.  
+➢ One language:  Enable reporting in English with secure, automatic translation 
+into official EU languages.  
+➢ One platform:  Establish a single EU -wide platform for reporting cybersecurity 
+incidents under all relevant regulations and re -routing notifications to relevant 
+national authorities, building upon ENISA’s future CRA single reporting platform . 
+➢ One authority:  Encourage Member States to designate a single  reporting 
+authority at national level  (especially under CRA and NIS2) .  
+ 
+4. International standards: leverage existing international standards 
+ 
+Broadly adopted i nternational cybersecurity standards and frameworks such as the 
+ISO/IEC 2700X series, ISA/IEC 62443, and the NIST Cybersecurity Framework should be 
+recognised and leveraged as foundational tools for demonstrating compliance  with 
+European regulations like the NIS2 directi ve, the CRA,  the Data Act,  and the GDPR , 
+provided they align with European requirements.  
+ 
+Such rationali sation is already happening in practice. In this respect, Schneider Electric 
+commends Belgium’s incorporation of the NIST framework and ISO 2700X series into its 
+national framework for compliance with the  NIS2 directive (CyFun Framework) , and 
+Romania and Ireland’s endorsement of CyFun . The implementation of NIS2 would greatly 
+benefit from a unified EU-wide framework grounded in these global standards  allowing 
+Member States to add requirements tailored to their national context if necessary. 
+ 
+5. Secondary legislation: avoid overinterpretation in secondary acts and 
+guidance  
+ 
+Secondary acts and guidance should remain strictly within the mandate and scope 
+defined in the ir primary legislation . For instance, the draft guidance document EG RE 
+(19) 21, which addressed the definition of “ safety component”  under the AI Act and proposed 
+its harmoni sation with the Radio Equipment directive’s definition , effectively attempted to 
+broaden the original scope of “ high-risk AI systems ”. By extending the definition from 
+“safety” to include “security”, it risked overstepping the original intent  of the legislator . Such 
+overinterpretation  only brings uncertainty and should not be replicated.  
+ 
+ 
+ 
+Position paper on Digital Simplification Package  
+7 October 2025 
+ 
+ 
+Page | 4 
+    
+ 
+Schneider Electric EU Government Affairs 
+Rue du Commerce 31, Brussels 1000  
+EU Transparency Register: 46302264606-44 
+II. Clarify inconsistencies and overlaps between legislations 
+ 
+1. Cybersecurity: facilitate the transition from the RED DA to the CRA 
+ 
+Schneider Electric emphasises the importance to facilitate the transition from the  RED DA 
+to the CRA.  The RED DA standards were cited only in February 2025, despite the act’s 
+entry into application in August 2025. This left insufficient time for stakeholders to prepare, 
+leading to bottlenecks at notified bodies and increased compliance costs.  It is essential that 
+the Commission capitali se on the lessons learned from the RED DA  experience : 
+➢ CRA essential requirements should only become applicable  at least 12 months 
+after harmonised standards are published in the OJEU .  
+➢ In case the  standards are not ready by December 202 6, we encourage the 
+Commission to postpo ne the applicability of the requirements in order to 
+preserve the possibility for stakeholders to fully benefit from all conformity 
+assessment options  available under the CRA (third -party certification or self -
+assessment).  
+➢ Products deemed  compliant with  the RED DA  should not be  required to 
+demonstrate compliance again for equivalent CRA requirements. Schneider 
+Electric welcomes the  decision to repeal the RED DA  once the CRA becomes fully 
+applicable. This will avoid overlapping obligations and redundant certifications . 
+ 
+Attention should also be paid to the CRA’s interplay and potential overlaps with the 
+revised Machinery directive  which will apply from January 2027. Consistency  and non-
+duplication between regulations is fundamental.  
+ 
+2. Cybersecurity: review the purpose of European certification schemes 
+ 
+The purpose of certification schemes under the Cybersecurity Act  (CSA) should be clarified:  
+➢ With the growing number of cybersecurity requirements  in the EU , the need for 
+additional voluntary certification schemes , in a context of simplification , 
+should be thoroughly reassessed . When defining the schemes to develop in 
+priority, the European Commission should ensure they would be aligned with market 
+needs and would effectively support compliance with  EU regulation.   
+➢ If judged necessary, it is crucial that European certification schemes are based 
+on existing international standards . This would greatly facilitate their adoption and 
+ensure they bring added value .   
+➢ Schneider Electric encourages the Commission to reaffirm the voluntary 
+nature of European certification  schemes. It is presently unclear  whether such 
+schemes could evolve into mandatory tools , as is currently expected under NIS2 and 
+the CRA. Making their use mandatory would incur unreasonable costs on business 
+and would be particularly redundant for global companies which are already subject 
+to extensive legal cybersecurity requirements and invest heavily in strengthening 
+their resilience. Member States should limit as much as possible the scope of ICT 
+products, services, and processes subject to mandatory  certification under NIS2 , 
+based on the risks they pose .  
+ 
+3. Cybersecurity: harmonise NIS2’s implementation across Member States  
+ 
+On top of the much -delayed transposition process , in its current form,  the NIS2 directive 
+does not effectively create the conditions for enhanced cyber resilience in the EU and 
+undermines the EU’s competitiveness . Imposing a flurry of diverging obligations  and 
+redundant processes  does not serve the initial goal of ramping up cybersecurity.  
+Position paper on Digital Simplification Package  
+7 October 2025 
+ 
+ 
+Page | 5 
+    
+ 
+Schneider Electric EU Government Affairs 
+Rue du Commerce 31, Brussels 1000  
+EU Transparency Register: 46302264606-44 
+ 
+Compliance with NIS2 across 27 Member States is especially challenging for 
+companies  operating in multiple jurisdictions . Monitoring the transposition  process, 
+registering entities and defining applications in scope  in each country, mapping national risk 
+management frameworks , tracking audit obligations  etc. are extremely time -consuming 
+tasks that divert significant resources from cybersecurity measures  deployment . Certain 
+requirements are not adapted to the cross -border nature of cybersecurity management in 
+international companies. For instance, the appointment of local cybersecurity manager s 
+proves difficult in practice , considering  that these skills are scarce, and such tasks are often 
+performed at the regional level .  
+ 
+This complexity also creates obstacles for smaller companies to scale up  in the EU. 
+Schneider Electric calls for more pragmatism in NIS2’s implementation. The Commission 
+should introduce prioritisation in the NIS2 requirements , so that entities can identify the 
+most critical ones and quickly reach a base level of cybersecurity. Such a pragmatic 
+approach would allow incremental but consequential progress across entire ecosystems 
+without overwhelming smaller actors.  
+ 
+The Commission and the Member States, via the NIS Cooperation Group,  should rationali se 
+the national implementation of NIS2  through: 
+➢ The development of an EU -wide NIS2 risk management framework grounded 
+in existing international standards  (see section I. iv.) . 
+➢ The streamlining of reporting obligations  (see section I. iii.): the Commission 
+should press Member States to  align on the threshold and the timeline to report an 
+incident. National variations are counterproductive, and sometimes unrealistic.  
+➢ The centralisation of compliance in a single country  for global entities  (as is  
+already the case under the main establishment rule for certain categories of entities) : 
+entities operating in multiple jurisdictions  should be able  to leverage their size  to 
+drive compliance and achieve higher maturity . 
+➢ The establishment of a n easy -to-access tracker which would also monitor  
+secondary legislation  at national level .  
+➢ The recognition of NIS2 audits across Member States : many applications and 
+processes are global, thus their certification  in multiple countries is inefficient and  
+unwarranted from a cybersecurity point of view. The Commission should require 
+Member States to accept audits conducted under another Member’s transposition.  
+ 
+To prevent these difficulties  in the future, NIS3 should be a regulation, not a directive .  
+ 
+4. Data protection: conduct targeted GDPR simplification  
+ 
+Schneider Electric strongly supports the principles of the General Data Protection 
+Regulation (GDPR) and is committed to maintaining high standards in personal data 
+protection. We believe that reopening the GDPR could introduce significant risks and 
+undermine legal certainty. Simplification efforts should thus focus on very specific and 
+targeted amendments , as well as on the ecosystem surrounding the GDPR, such as:  
+➢ Streamlining cybersecurity and personal data breach reporting requirements  
+(see section I. iii.), especially with new regulations like the CRA and the AI Act.  
+➢ Publishing clearer guidance on risk -based assessments  for data controllers on 
+when to notify Data Protection Authorities and data subjects.  
+➢ Harmonising model contractual clauses across jurisdictions  such as the EU, 
+the UK, and Switzerland, and updating guidance on impact assessments for 
+third-party data transfers . Additionally, the identification of high -risk data 
+Position paper on Digital Simplification Package  
+7 October 2025 
+ 
+ 
+Page | 6 
+    
+ 
+Schneider Electric EU Government Affairs 
+Rue du Commerce 31, Brussels 1000  
+EU Transparency Register: 46302264606-44 
+processing remains fragmented and should be clarified, particularly regarding 
+instances when  Data Protection Impact Assessments (DPIAs) are required.  
+➢ Introducing a dedicated framework for sandboxing  (similar to the AI Act ’s) to 
+allow real -world testing  and innovation while maintaining strong data protection.   
+ 
+ 
+5. Artificial Intelligence: support the AI Act’s implementation 
+ 
+Schneider Electric is committed to leading responsible industrial AI take-up under the EU 
+AI Act. We believe a few modifications of the Act would ensure effective implementation and 
+help maintain a healthy balance between innovation and regulation :  
+➢ Attention should be paid to  the AI Act ’s interaction with other regulation s, such 
+as the CRA, notably regarding  robustness and  incident reporting (see section I. iii.). 
+➢ Schneider Electric strongly supports the risk -based approach adopted by the AI Act. 
+However, we believe the European Commission should introduce more flexibility in 
+its implementation . Indeed, the AI Act should leave more room for exceptions 
+when they can be duly justified and when they can bring added value without 
+increasing risks . A hypothetical example would be the introduction of an algorithm 
+based on AI technology to detect arc faults and differentiate between dangerous arcs 
+and false positives . Such application  would create a safer world by reducing fires 
+and preventing users from removing devices due to false positives. However, it may 
+not comply with  all the logging and supervision applicable to high -risk systems under 
+the AI Act. Many similar examples could be gathered from other sectors. We 
+encourage the Commission to engage with industry to identify use cases  of high-
+risk AI systems which reduce the overall risk level  and could thus constitute 
+exceptions. This would boost AI deployment and European competitiveness .  
+➢ It is also essential that risks are assessed at system level, and not only at 
+component level . AI systems are often used as component s in products . 
+Safeguards can be introduced in a product to mitigate the risks posed by an AI 
+system and make the final product secure.   
+➢ Market surveillance bodies should be  staffed with skilled  and mature 
+regulators with industry and product/system level  expertise covering the whole 
+lifecycle of a high -risk AI s ystems (including a practical understanding of complete 
+product architecture (AI and non -AI interactions),  design and development, as well 
+as prelaunch phases ). The AI Office should introduce an EU-wide certification 
+program to train authorities and stakeholders on the technical and procedural 
+aspects of the AI Act, to foster  consistent compliance across the Union.  The 
+Commission should also support initiatives to strengthen the maturity of all actors – 
+from management, to marketing, quality, sales, and support – inside organi sations.  
+ 
+ 
+Contacts 
+  
+Adèle Naudy-Chambaud 
+Vice President  EU Government Affairs, Schneider Electric  
+adele.naudychambaud@se.com  
++32 488576929  
+  
+Karla Fontaine  
+Europe Digital Policy  Analyst, Schneider Electric  
+karla.fontaine@non.se.com  
++33 623831078  
+Position paper on Digital Simplification Package  
+7 October 2025 
+ 
+ 
+Page | 7 
+    
+ 
+Schneider Electric EU Government Affairs 
+Rue du Commerce 31, Brussels 1000  
+EU Transparency Register: 46302264606-44 
+ANNEX – List of proposals for the Digital Omnibus 
+ 
+I. Ensure transversal simplification through key principles 
+1. Scope: define a clear scope and key terms 
+• Data Act: data in scope; distinction between data processing services and related services 
+• AI Act: categorisation of high-risk AI systems; definition of event 
+2. Applicability: publish important deliverables 12 months before applicability 
+• Publish secondary acts and important guidance at least 12 months before the   applicability of the 
+related requirements 
+• Ensure the availability of harmonised standards at least 12 months before the entry into application of 
+NLF legislation, such as the CRA 
+3. Reporting: streamline reporting with one platform, one format, one language 
+• Harmonise the definition of incident and the threshold for reporting 
+• Develop a standardised European reporting template for multi-regulation reporting 
+• Enable reporting in English with secure, automatic translation 
+• Establish a single EU-wide platform for reporting cybersecurity incidents under all relevant regulations 
+• Encourage Member States to designate a single reporting authority at national level 
+4. International standards: leverage existing international standards 
+• Recognise and leverage international standards such as ISA/IEC 62443 and ISO/IEC 2700X series as 
+tools for demonstrating compliance  
+• Develop an EU-wide NIS2 framework based on existing international standards 
+5. Secondary legislation: avoid overinterpretation in secondary acts and guidance 
+• Limit secondary acts and guidance to the mandate of the primary legislation 
+II. Clarify inconsistencies and overlaps between legislations 
+1. Cybersecurity: facilitate the transition from the RED DA to the CRA 
+• Ensure CRA essential requirements only become applicable 12 months after publication of the 
+harmonised standards 
+• Allow RED DA compliant products to be deemed compliant with equivalent CRA requirements 
+• Ensure consistency between the CRA and the revised Machinery directive 
+2. Cybersecurity: review the purpose of European certification schemes 
+• Assess the need for additional voluntary certification schemes 
+• Base European certification schemes on existing international standards 
+• Reaffirm the voluntary nature of European certification schemes 
+3. Cybersecurity: harmonise NIS2’s implementation across Member States 
+• Develop an EU-wide NIS2 risk management framework based on existing international standards 
+• Streamline reporting obligations between Member States 
+• Centralise compliance in a single country for global entities 
+• Create a tracker of national level secondary legislation 
+• Recognise NIS2 audits across Member States 
+4. Data protection: conduct targeted GDPR simplification 
+• Streamline cybersecurity and personal data breach reporting requirements 
+• Publish clearer guidance on risk-based assessments for when to notify DPAs and data subjects 
+• Harmonise model contractual clauses across jurisdictions and updat e guidance on impact 
+assessments for third-party data transfers 
+• Introduce a dedicated framework for sandboxing 
+5. Artificial Intelligence: support the AI Act’s implementation 
+• Clarify the AI Act's interplay with other EU regulations, notably the CRA 
+• Identify high-risk AI use cases that could constitute exceptions 
+ 

@@ -1,0 +1,2615 @@
+April 2020
+EU Consolidated Tape for Bond Markets 
+Final report for the European Commission
+ICMA MiFID II Consolidated Tape Taskforce 
+Ref. Ares(2020)2722317 - 26/05/2020
+2
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+Disclaimer 
+This paper is provided for information purposes only and should not be relied upon as legal, financial, or other 
+professional advice. While the information contained herein is taken from sources believed to be reliable, ICMA 
+does not represent or warrant that it is accurate or complete and neither ICMA, nor its employees, shall have any 
+liability arising from or relating to the use of this publication or its contents. © International Capital Market Association 
+(ICMA), Zurich, 2020. All rights reserved. No part of this publication may be reproduced or transmitted in any form or 
+by any means without permission from ICMA.
+Author: Elizabeth Brooks Callaghan (ICMA) 
+Elizabeth.Callaghan@icmagroup.org 
+ICMA would like to thank the individual experts, and their firms, who participated in the ICMA Taskforce and Working 
+Group to carry out the European Commission report on EU bond consolidated tape. 
+3
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+1. Introduction 6
+2. Executive Summary 7
+3. EU bond consolidated tape - background 9
+3.1  Introduction 9
+3.2  The importance of a consolidated tape 9
+3.3  ICMA CT Taskforce 10
+3.4  Bond/Equity markets – drivers for CT 11
+3.5  Benefits of an EU post-trade bond consolidated tape 11
+4. Principles for an EU Consolidated Post-Trade Tape for bonds 13
+5. Post-trade transparency – key differences between US TRACE and EU MiFID II 14
+6. What should the EU CT borrow from the US regimes?  16
+6.1  What should the EU CT borrow from US TRACE?  16
+6.1.1  Liquidity analysis 16
+6.1.2  Gradual roll-out 16
+6.1.3  Uniformity of reporting requirements 16
+6.1.4  Data quality standards 16
+6.1.5  Testing and phase-in 16
+6.1.6  Active industry participation 16
+6.2  What should the EU CT learn from other US regimes? 16
+6.2.1  No mandatory trading protocols 16
+7. Current State: EU post-trade bond consolidated data – baseline study 18
+7.1  Current post-trade data operations in the EU: Approved Publication Arrangement (APA) 18
+7.1.1  Definition  18
+7.1.2  Purpose  18
+7.1.3   Role   18
+7.2  Current level of available post-trade data 18
+7.2.1  Scope of instruments  18
+7.2.2   Level of information  19
+7.2.3  Reporting timelines  19
+7.2.4  Deferrals 19
+7.2.5  Method of reporting (electronic or website, if applicable)  19
+7.3  Current level of post-trade aggregation 20
+7.3.1  EU market participant observations 20
+7.3.2  EU APAs registered on ESMA website 22
+8. End State: EU bond consolidated tape 23
+8.1  Governance models 23
+8.1.1  CTP governance summary 24
+8.1.2  CTP Governance model option overview 25
+Contents
+4
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.1.3  Governance model options: positives and negatives 27
+8.1.4  Taskforce views on best governance model options 30
+8.2  Contribution and consumption 34
+8.2.1  Mandatory contribution 34
+8.2.2  Non-mandatory consumption  34
+8.3  Reporting model options 35
+8.3.1  Option 1 36
+8.3.2  Option 2  36
+8.3.3  Option 3 37
+8.3.4  Reporting design positives and negatives 38
+8.4  Revenue sharing model 39
+8.5  Data transformation, repackaging and distribution models 39
+9. Scope of instruments to be reported 41
+9.1  Instrument reporting and level of information per/instrument to be reported 41
+9.2  European trading time zone post-trade ‘virtual’ consolidated tape  41
+9.3  Timing of reporting 42
+10. Consolidated tape – data quality & standards 43
+10.1 Data quality  43
+10.1.1  Misclassification of CFI codes 43
+10.1.2  Notional vs quantity 43
+10.1.3  Flags and details for the purpose of post-trade transparency 43
+10.1.4  Publication of ‘Zero’ price trades.  44
+10.1.5  Incorrect publication timestamp compared with time of execution 44
+10.1.6  Aggregated trades 44
+10.2  Reporting methodology & format 44
+10.3  Data standards 44
+11. IOSCO recommendations on regulatory reporting and public transparency in 
+corporate bond markets 45
+11.1  Recommendation 2 45
+11.2  Recommendation 6  45
+11.3  Recommendation 7  45
+12. Annex 46
+12.1  Data Quality Scorecard 46
+12.2  No mandatory trading protocols 46
+12.3  US TRACE – Factsheet (how TRACE operates today) 47
+12.3.1  Background – creation of TRACE 47
+12.3.2  Governance 48
+12.3.3  Where to report 48
+12.3.4  Obligation to report 48
+12.3.5  Scope - Eligible Security Types Include: 49
+12.3.6  Level of information Reported: 49
+12.3.7  Timing of reporting by FINRA members: 50
+12.3.8  How bond trades are reported 51
+5
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+12.3.9  Distribution & Consumption model - timing 51
+12.3.10  Trade Dissemination Volume Caps: 51
+12.3.11  Access to data (market participants, retail, academics etc.) 52
+12.3.12  Ownership of data 52
+12.3.13  Distribution & Consumption model – pricing 52
+12.4 TRACE Observations of impact on market participants  53
+12.4.1  Buy-side 53
+12.4.2  Sell-side 54
+12.4.3  Trading venue 55
+12.4.4  Data provider 55
+12.5  References - MiFID II/R Post-trade transparency: deferral regimes 56
+12.6  References - MiFID II/R Post-trade transparency: RTS 2, Annex II, Table 2  57
+6
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+1. Introduction
+This report has been prepared by ICMA in response to a request from the European Commission’s DG-FISMA for 
+considerations related to the establishment of a post-trade consolidated tape (CT) for the European bond markets. 
+It is based on input from a broad spectrum of ICMA’s members, representing sell-side, buy-side, trading venues, 
+and data providers active in the European fixed income secondary markets. However, consensus view could not be 
+reached on every single aspect of the report. This final report follows an earlier, interim publication, and responds to 
+further feedback from DG FISMA.
+The report attempts to address a number of fundamental questions relating to the context, relevance, comparability, 
+scope, design, and governance of a potential consolidate tape. In doing so, it is organised on the basis of the following 
+key questions: 
+• What is the background for the push for a consolidated post-trade tape for European bond markets, and what 
+should be the principles underlying its design?
+• What are the differences to, and the potential lessons learned from the TRACE reporting model in the US?
+• What is the current state of the MiFID II post-trade transparency landscape for bonds?
+• What are possible options for a re-imagined European consolidated tape, and the key consideration with respect 
+to governance, mandatory contribution, reporting design, revenue sharing, data transformation, repackaging and 
+distribution models?
+• What should be the scope of instruments reported?
+• How to ensure consistent data quality and standards?
+In regard to consolidated tape provider (CTP) potential models, the ICMA CT Taskforce is not advocating for any one 
+particular consolidated tape model or provider. The Taskforce is acting solely in an advisory capacity as to what could 
+be the most widely supported model of CTP .
+It is hoped that this report will provide a useful reference point for the ongoing discussions around the creation of a 
+consolidated tape for European bond markets and a representative reflection of the views of market participants, in 
+particular the eventual users of such a tape.
+7
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+2. Executive Summary
+This report is the culmination of work undertaken by ICMA’s Consolidated Tape Taskforce in response to a request 
+from the European Commission to assist in its work in reviewing the regulatory parameters and assessing the feasibility 
+of implementing a consolidated tape for EU bond markets. The Taskforce is made up of thirty-six ICMA member firms, 
+including nine buy-sides, twenty-one sell-sides and six trading venues and data providers. The Final Report builds on 
+an interim study published in February 2020.
+Greater transparency in OTC bond markets and other “non-equity” asset classes is one of the key objectives of MiFID 
+II and MiFIR. However, in bond markets, MiFID II has yet fully to achieve its objective of creating greater transparency. A 
+key reason for this is held to be the lack of a central database, which aggregates the various post-trade data sources 
+into a single view: also referred to as a “consolidated tape”. Instead, post-trade data is fragmented across the different 
+APAs with inconsistent presentation formats and differing modes of machine readability. In addition, insufficient data 
+quality poses a further challenge. 
+The goal of the bond CT, as perceived by Taskforce members, is to improve transparency, assist decision-making 
+and provide market insights to end-investors, large or small. Adoption of the appropriate structure would benefit the 
+whole market, by providing a centralised, high quality, affordable, trustworthy data source, offering a comprehensive 
+market view. This would bring immediate benefits to the professional bond market but could also benefit the retail 
+sector more widely. 
+A bond consolidated tape would provide an overview of the bond market (taking into account deferrals) with raw 
+(un-enriched) post-trade data which is available to the public, both professional and retail clients. In achieving this 
+objective, relevant and necessary changes to level one of MiFID II are required. Furthermore, CT development paths 
+for both equities and fixed income should be parallel and not sequential (even though implementation of a fixed income 
+CT may take longer).
+The ICMA Consolidated Tape Taskforce recommends considering borrowing a number of elements from TRACE, 
+in particular: (i) Analysis on market liquidity prior to and following any introduction of CT, in order to understand 
+impact on bond markets; (ii) Gradual roll-out of CT by (sub)asset class; (iii) Uniformity of reporting requirements and 
+publication of technical specifications; (iv) Analysis of data to maintain robust data quality standards prior to public 
+dissemination of data; (v) Testing and phase-in procedures for introduction of changes (such as new reporting fields); 
+(vi) Communication and consultation with stakeholders to validate changes on a technical level. 
+The CTP contract should be awarded for no less than five years. This is to allow whoever is awarded the contract, to 
+have sufficient time to recoup any development costs. In addition, the firm awarded the contract should have robust 
+conflict-of-interest rules in place to assess whether its policies, procedures and corporate governance structure ensure 
+independence of the CTP and the avoidance of conflicts of interest. Day-to-day CT costs to industry participants 
+should be kept to a minimum.
+The view of the ICMA Taskforce is that ESMA should have oversight of the CTP contract and monitor for any breach of 
+contract, and that supervision should start as of January of 2022 or as soon as the CTP commences service. ESMA 
+would also work closely with industry participants (buy-sides, sell-sides trading venues, data providers and retail) who 
+are best positioned to advise with collective market functioning expertise and stewardship. 
+In order to determine the best governance model for the CTP and CT operation, it is necessary to assess the 
+likelihood of the CTP becoming a successful ‘going concern’. This involves assessing potential funding, stewardship, 
+management structure and IT operation models. The Taskforce sets out a number of potential models for CTP 
+governance along with the perceived positives and negatives of each model and a view from Taskforce members as 
+to the percentage chance of success for the governance model or combination of models.
+According to ICMA’s CT Taskforce, there are a few potential governance model options which could in all probability 
+deliver a CT for EU bond markets. Any of the model options outlined could be achieved with decisive strong EU 
+leadership and the will to surmount any associated negative of relevant option models: 
+• A limited company working with ESMA in a close public- private partnership with outsourced IT operations, could 
+take out a loan to be paid back on a cost recovery basis from user fees, to provide a CTP .
+• ESMA could govern through an SRO data entity mechanism. Recovering costs through subscription/membership 
+fees to provide a CTP and.
+8
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+• ESMA could work with the industry (stewarding day- to- day operations) but have overall governance, recovering 
+costs through NCA increased contributions, to provide a CTP . 
+• APAs could converge on technical standards and a single business model, recovering costs through industry 
+accepted user fees, in order to work together to provide a CTP .
+It is essential that the responsibility for data feed provision should be changed from the CTP’s obligation to ‘obtain’ 
+data, to stating that trading venues and APAs have an obligation to ‘provide’ data to the CTP , in level one of MiFID II/R 
+legislative framework. This obligation would be extended to self-reporting firms as applicable.
+There should be no mandatory ‘consumption’ of the tape. Good quality, comprehensive post-trade data is only one 
+component in evaluating best execution in bond market. The best execution process is a complex matrix of pre-trade 
+decision making and tools and much more than about execution ‘prices.’
+Revenue sharing for APAs and trading venues is recommended in order to create timely and reliable post-trade data 
+and to share the costs of producing good quality post-trade data with the CTP . Revenue in the form of revenue sharing 
+will be derived through the concept of a ‘data quality score card’ and will be proportionate to the volume of data 
+provided by the contributing firm. However, penalties may be considered, such as withholding the revenue ‘share’, 
+based on the “data quality score card”. Once the data quality has reached the required standard, and the reporting 
+standards from firms are operating as should, the view is that the revenue sharing regime may no longer be needed. 
+(A review of the scheme is suggested after the first five years to assess if the revenue sharing scheme should be 
+extended, continue as a permanent scheme or whether it should end.) 
+The CTP will collect the raw data and will make it available to all market participants, through a minimum-cost model. 
+Firms and/or vendors (including the CTP) will be permitted to purchase the (intraday, one week or full historical) raw 
+post-trade data at a reasonable price and for some, possibly a discounted price, in order to repackage/enrich the 
+raw data for client use or to sell as a value added service. Tiered pricing based on usage (or proportion of usage) will 
+apply (see section 8.5). The enriched data sets for example could be broken out by tenor, credit rate etc. In addition, 
+it is important to note that the raw data version of the CT is in an easily analysed useful form to ensure the tape can 
+be a utility for all market participants. ESMA will monitor data availability and reasonable pricing through oversight and 
+supervision from January 2022. 
+Regarding data ownership, trading venues, APAs and self-reporting firms should not retain any claim or ownership 
+for the raw post-trade data and therefore should not be able to ‘license’ the reported post-trade raw data to the CTP . 
+However, it should be noted this is not a ‘consensus’ Taskforce view among APAs and trading venue members as 
+they do not support this approach, which is a significant change to existing business models (also a departure from 
+existing MiFID II/R publication requirements). 
+The post-trade consolidated tape should aim to provide a comprehensive, detailed, accurate and meaningful view 
+of where, when and how all price forming trades occurred. Post-trade data must be of the highest quality if it is to 
+be useful for market participants. For example, aiding decision making. The scope of the EU bond CT should aim to 
+cover approximately 80% or better by volume of all bond transactions and across all trading venues and APAs. This 
+is intended to avoid further exacerbating the existing fragmentation in the market and the possibility of different CTPs 
+covering different and potentially overlapping asset classes, which would fail to provide a truly consolidated view of 
+trading across the EU. It is important to note that the total transaction coverage may need to be phased in over time, 
+with ESMA monitoring this process. For example, beginning with 65% of all transactions, moving to 70% and then 
+aiming for 80% or better.
+Clear concise and unambiguous instructions for individual MiFID II reporting fields are needed. Reference codes that 
+are used also must be absolutely correct. Currently, data fields in MiFID II are open to ambiguous interpretation, leading 
+to, incorrect data downstream in many instances. For a consolidated tape to be useful, more concise instructions, 
+followed correctly by reporting parties, will need to be implemented. 
+9
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+3. EU bond consolidated tape - background
+3.1  Introduction
+The concept of a public consolidated tape for EU bond markets has been a priority of ICMA and its members since 
+the earliest discussions around MiFID II/R. In December 2016, ICMA responded to the ESMA Consultation Paper on 
+the regulatory technical standards specifying the scope of the consolidated tape for non-equity financial instruments. 
+The ICMA response, 1 drafted by a working group consisting largely of buy-side heads of fixed income or credit 
+trading, endorsed a single consolidated source of raw bond market post-trade data. The response further highlighted 
+concerns that a ‘numerous tape’ approach could compromise data quality and integrity, and that multiple tapes would 
+likely increase costs for users.
+In September 2019, ICMA responded to the ESMA Consultation Paper on the MiFID II/R review report on the 
+development in prices for pre- and post-trade data and on the consolidated tape for equity instruments. While the 
+consultation focused primarily on the development of a consolidated tape for equity markets, ICMA saw this as 
+an opportunity to articulate members’ views on the importance of developing an affordable, usable, single-source 
+consolidated tape for EU bond markets. The response 2 was drafted with direct input from dedicated taskforce 
+member firms, representing sell-side, buy-side, trading venues, and data providers. Members also viewed this as 
+an opportunity to outline the market specific considerations that underly the creation of an appropriate consolidated 
+tape for fixed income, and the importance of recognising the differences in instrument characteristics and valuation 
+dynamics between equities and bonds. 
+During the latter part of 2019, ICMA delivered an interim study to the European Commission as a precursor to 
+this final bond CT report, to assist in its work in reviewing the regulatory parameters and feasibility of implementing 
+a consolidated tape for EU bond markets. In addition to the earlier interim study (covering: an in-depth study of 
+US FINRA’s TRACE consolidated tape, a description of the current state of aggregation and desired state for EU 
+bond CT) the final report covers: workable governance model options, mandatory/non-mandatory contribution and 
+consumption, reporting design, revenue sharing model and data distribution.
+3.2  The importance of a consolidated tape
+Greater transparency in OTC bond markets and other “non-equity” asset classes3 is one of the key objectives of MiFID 
+II and MiFIR. Comprehensive transparency requirements were introduced through MiFID II, MiFIR and related legislative 
+acts which entered into force on 3 January 2018. 
+Accordingly, market participants and trading venues have published post-trade data 4 on executed bond and other 
+non-equity transactions through Approved Publication Arrangements (APAs), a reporting entity created for the sole 
+purpose of trade reporting5 (i.e. the public dissemination of transaction details). 
+However, in bond markets, MiFID II has yet fully to achieve its objective of creating greater transparency.6 A key reason 
+for this is held to be the lack of a central database, which aggregates the various post-trade data sources into a single 
+view: also referred to as a “consolidated tape”. Instead, post-trade data is fragmented across the different APAs with 
+inconsistent presentation formats and differing modes of machine readability. In addition, insufficient data quality poses 
+a further challenge. 
+The concept of a consolidated tape originates from equity markets in the US and dates back to the late 1970s. The 
+purpose of the consolidated tape was to provide an aggregate view of trade and quote information of equities in real-
+time across stock exchanges.7 In US fixed income markets, a consolidated tape was set up in 2002 in the form of the 
+Trade Reporting and Compliance Engine (TRACE) which is operated by FINRA ( Financial Industry Regulatory Authority 
+is an independent, nongovernmental organization that writes and enforces the rules governing registered brokers and 
+broker-dealer firms in the United States) to disseminate transaction data for a diverse range of debt instruments in real-
+time. More information on TRACE can be found in the Annexes 12.3 TRACE Factsheet and 12.4 TRACE Observations 
+of impact on market participants.
+1 See: www.icmagroup.org/assets/documents/Regulatory/MiFID-Review/ESMA-CP-on-CTP---ICMA-Submission-for-publication_071216.pdf
+2 See: www.icmagroup.org/assets/documents/Regulatory/MiFID-Review/ESMA-CP-on-CT-ESMAMDAICMARESPONSEFORM-5-Sept-2019-060919.pdf
+3 Structured finance products, emission allowances and derivatives, in addition to bonds, are referred to as “non-equities” in MiFID II/R.
+4 MiFID II/R also introduced pre-trade transparency requirements; however, this is outside the scope of this report which focuses on post-trade transparency.
+5 As stipulated in MiFIR Article 21, the term “transaction reporting” refers to non-public reporting of transaction data to national regulators (“national competent 
+authorities”) as opposed to “trade reporting” ie public reporting through APAs.
+6 See: https://www.icmagroup.org/assets/documents/Regulatory/MiFID-Review/MiFID-II-R-and-the-bond-markerts-the-second-year-201219.pdf
+7 https://www.nyse.com/data/cta; https://www.ctaplan.com/index
+10
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+In Europe, the Capital Markets Union (CMU) recognises the importance of a consolidated tape for financial markets 
+under MiFID II, which “should increase the attractiveness of the EU capital markets as investment destinations.” 8 
+In its Report of October 2019, 9 the Next CMU High-Level Group also recommends the establishment of a single 
+Consolidated Tape facility:
+“Achieving a Consolidated Tape would make all European market data easily accessible both for professional and 
+retail investors and increase trust for cross-border investments. The European Commission should specify criteria for 
+a single Consolidated Tape covering all execution venues in a delegated act based on MiFID II. Enhancing the quality 
+of market data is needed to make such a tape useful. Such a facility should be non-profit, fall under the responsibility 
+of ESMA and may as a first step cover equity post-trade data.”
+The creation of a CT is also a recommendation of the European Commission’s Expert Group on Corporate Bonds:10 
+“A consolidated tape should be created to collect data on corporate bonds, together with an easy to use interface 
+that allows the extraction of data by markets participants. The creation of this instrument would also greatly facilitate 
+the analysis, supervision and legislation of European corporate bond markets by the national and European authorities. 
+To ensure the quality and comparability of the data, it should be collected by ESMA, who should be responsible for 
+producing this consolidated tape.”
+The promotion of transparency of trading information is a principle of IOSCO. 11 IOSCO further recommends (in the 
+context of corporate bond markets) that “[w]here there is transparency of post-trade data…regulatory authorities 
+should take steps to facilitate the consolidation of that data.”12 
+However, efforts to develop a consolidated tape have been unsuccessful in the past due to concerns around the 
+high costs for its development in a restrictive regulatory environment with a lack of clear commercial benefits, despite 
+widespread demand from market participants in both equities and bond markets. MiFID II laid out requirements for 
+the voluntary establishment of consolidated tape providers (CTPs), thereby paving the way for multiple rather than a 
+single CTP . Furthermore, the fact that MiFID II does not mandate the submission of transaction data to CTPs, as is the 
+case in the US, is considered to be a key hindrance for the emergence of a consolidated tape. In other words, there 
+is no commercial incentive for potential CTPs to acquire the post-trade data, nor for APAs to provide the post-trade 
+data to a CTP . 
+Nonetheless, it is important to take note of ESMA’s recent announcement: 
+“ESMA recommends real-time consolidated tape for Equity”
+5 December 2019; ESMA has published a first review report on the development of prices for market data and on 
+the consolidated tape for equity, following the application of the Markets in Financial Instruments Directive (MiFID II) for 
+nearly two years.
+This seems to open the way for an EU bond consolidated tape.
+3.3  ICMA CT Taskforce
+Following the request from the European Commission, ICMA created and mobilised a dedicated Consolidated Tape 
+taskforce (“the Taskforce”) to produce the CT report. 
+This report is based on direct contributions from ICMA Taskforce members, providing market intelligence of post-trade 
+transparency frameworks in both EU and US bond markets. The Taskforce draws on a variety of perspectives from a 
+diverse group of ICMA members. However, consensus Taskforce view could not be reached on every single aspect 
+of this report. The Taskforce represents nine buy-side firms, twenty-one sell-side firms and six trading venue and data 
+provider firms, thirty-six members in total.
+These firms are part of a wider ICMA consultative Consolidated Tape working group (“the Working Group”) of 
+65-member buy-side, sell-side, trading venue and data provider firms. ICMA believes that there is unique value in 
+distilling and conveying such a broadness and depth of views from across the industry and hopes this report, and the 
+8 An Action Plan on Building a Capital Market Union (2015), European Commission
+9 See: https://nextcmu.eu/wp-content/uploads/2019/10/The-Next-CMU-HL_DO.pdf
+10 Improving European Corporate Bond Markets (2017), European Commission Expert Group on Corporate Bonds
+11 Objectives and Principles of Securities Regulation (2017), IOSCO
+12 Regulatory Reporting and Public Transparency in the Corporate Bond Markets (2018), IOSCO
+11
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+subsequent Final Report, provide useful context and intelligence for the European Commission, as well as other EU 
+market regulators and policy makers. 
+The Taskforce attempts to provide the European Commission with a better understanding of the need for a CT in the 
+European bond market and the unique problems that a CT for bonds would solve, while also identifying the workable 
+models for structure and operation. 
+3.4  Bond/Equity markets – drivers for CT
+While bond markets and equity markets share a few challenges – such as fragmentation of infrastructure, and an 
+unlevel playing field, that benefits those who can afford to pay for data – it is widely understood that their ecosystems 
+are profoundly different. One only has to view the asset classes’ market structure and protocols to see the differences: 
+Request-for-Quote (RFQ) protocols in fixed income versus order books for equities; OTC trading (more OTC trading 
+than on-venue trading in bonds) versus local equity exchanges; and the fact that there are approximately thirty-three 
+times more listed bonds than listed equities in Europe. 
+These differences suggest that the drivers for a CT in these markets are also different. For bonds, the rationale is 
+principally the need for a true consolidated picture of the market that is reliable, accessible and trustworthy. 
+3.5  Benefits of an EU post-trade bond consolidated tape
+The goal of the bond consolidated tape (CT), as perceived by Taskforce members, is to improve transparency, assist decision-
+making and provide market insights to end-investors, large or small. Adoption of the appropriate structure would benefit the 
+whole market, by providing a centralised, high quality, affordable, trustworthy data source, offering a comprehensive market 
+view. This would bring immediate benefits to professional bond markets and benefit the retail sector as well. 
+Potential benefits:
+Levelling the playing field with respect to access to information. A post-trade CT removes existing information 
+asymmetries, where certain market participants may have greater visibility regarding ongoing trading activity than other 
+investors. This enables investors to assess more accurately current market dynamics, increasing overall investor 
+confidence, particularly during times of market volatility.
+Promoting market resilience. The removal of existing information asymmetries contributes to market resiliency by 
+ensuring that changes in supply and demand are more efficiently reflected in current price levels. In addition, without 
+a neutral and reliable source of current market trading activity, investors may be more likely to pull back during times 
+of volatility.
+Promoting competition. By enabling investors to compare the prices they receive from liquidity providers with 
+concurrent (and anonymous) trading activity across the market, a post-trade CT promotes price competition as 
+investors are able to demand more accountability from their liquidity providers. In addition, new liquidity providers are 
+more likely to enter the market, as they are able to access information regarding current market dynamics, including 
+trading volumes and pricing, on an equal basis as existing liquidity providers.
+Improved fund valuations. The accuracy and immediacy of fund valuations is directly contingent on the ability to 
+value accurately the underlying securities. Improved transparency in bond markets will help managers to maintain 
+accurate valuations of their fixed income funds. This equally applies to fixed income exchange traded funds (ETFs) and 
+would help to maintain a closer relationship between the net asset value (NAV) of the underlying fund and the price of 
+the related ETF through better facilitation of the creation and redemption process.
+Facilitating more accurate assessments of execution quality. A post-trade CT can be used for transaction cost 
+analysis and best execution assessments, as it provides a neutral and reliable source of current market trading activity 
+against which to reference execution quality. Evidencing best execution is also generally a compliance requirement, 
+where again the existence of a CT could support observance. 
+More accurate pricing of derivatives. Prices in derivatives, such as futures, options, and credit default swaps, 
+should reflect the value of the underlying cash instruments. Where it is difficult to find accurate market valuations of 
+the underlying security, derivatives pricing can diverge from fair value, creating additional risks and costs for investors 
+looking to hedge their exposures. Improved transparency in bond markets will therefore help to facilitate more accurate 
+pricing, and potentially greater liquidity, in related derivatives.
+12
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+Improved fund valuations. The accuracy and immediacy of fund valuations is directly contingent on the ability to 
+value accurately the underlying securities. Improved transparency in bond markets will help managers to maintain 
+accurate valuations of their fixed income funds. This equally applies to fixed income exchange traded funds (ETFs) and 
+would help to maintain a closer relationship between the net asset value (NAV) of the underlying fund and the price of 
+the related ETF through better facilitation of the creation and redemption process.
+Informed decision making. The CT may allow regulators and NCAs to understand the evolution of liquidity in order 
+to make informed decisions.
+Facilitating automation. Greater efficiencies in bond markets can be achieved through the automation of many 
+processes, including the pricing and execution of orders. The ability to automate such processes successfully is 
+contingent on comprehensive, accurate, and timely market data, which a CT would go far in providing. 
+Supporting the CMU. A post-trade CT for bonds strengthens EU capital markets by linking together the disparate 
+trading venues and APAs across the EU, enhancing investor confidence due to increased transparency in the market. 
+Stronger and more liquid EU capital markets promote capital formation, job creation, and economic growth.
+13
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+4. Principles for an EU Consolidated Post-Trade Tape for 
+bonds
+When considering a consolidated tape for EU bond markets, The Taskforce believes it is important to keep in mind 
+five driving principles: 
+1. MiFID II Level one changes: Relevant changes to level one of MiFID II are required to alter the responsibility 
+for data feed provision from the CTP’s obligation to obtain, to the venues’, APAs, and eligible Investment Firm 
+obligation to provide data to the CTP
+2. Scope: Relevant and necessary changes to level one of MiFID II required to enable a bond consolidated 
+tape to make public at least the following bond data: date, time of execution, reported date & time (taking 
+into account current publication and deferral obligations under MiFID II), ISIN, price, venue, volume (taking into 
+account various member state deferral regimes regarding volume omission and/or aggregation), amendment 
+or cancel. 
+3. Timeline: There is a view that an equity CT should be developed and delivered first, followed by a bond 
+CT. This view is not shared by ICMA’s Taskforce. The Taskforce believes IT development paths should have 
+parallel equity and bond asset class commencement and not sequential. It is the industry’s understanding 
+that equity and bond consolidated tapes will both face technical implementation challenges, but it is the 
+Taskforce’s impression that bond markets have particularly challenging data quality issues to overcome. Time 
+and investment will be required for data quality and complex deferral regime improvements, before a reliable CT 
+for bonds can be realised. Therefore, there should be no delay, in relation to timeline of an equity consolidated 
+tape, for commencement of IT development for a bond CT.
+4. Balanced governance & cost model: Any governance model should have ESMA working closely with 
+industry participants (buy-side, sell-side, trading venues, data providers and retail), who are best positioned to 
+advise with collective market functioning expertise and stewardship, to enable the CTP to become a successful 
+‘going concern’. 
+ Furthermore, in order to facilitate data quality and reliable post-trade consolidation, an incentive may be 
+considered in the form of revenue sharing for trading venues and APAs. Such a revenue sharing initiative may 
+incentivise data contributors to more accurately and efficiently provide data to the CT by receiving a ‘share’ of 
+the revenue, based on their data submission qualities. This may help create a balanced revenue potential for a 
+CTP and data contributors.
+5. Purchase of post-trade data: Firms and/or vendors (including the CTP) will be permitted to purchase the 
+(intraday, one week or full historical) raw post-trade data at a reasonable price and for some, possibly a 
+discounted price, in order to repackage/enrich the raw data for client use or to sell as a value added service. 
+Tiered pricing based on usage (or proportion of usage) will apply (see section 8.5). The enriched data sets 
+for example could be broken out by tenor, credit rate etc. In addition, it is important to note that the raw 
+data version of the tape is in an easily analysed useful form to ensure the tape can be a utility for all market 
+participants. ESMA will monitor data availability and reasonable pricing through oversight and supervision from 
+January 2022.
+In order to meet the needs of the market and satisfy the bottom line of any prospective CTP (whether public, private 
+or combination of both), it is necessary to assess the key differences between TRACE and MiFID II and what should 
+be borrowed from the TRACE regime for the creation of an EU bond CT. What follows, represents a contrasting study 
+between current EU post-trade bond aggregation practices and the qualities desired for the ‘end-state’ EU post-trade 
+bond CT. 
+14
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+5. Post-trade transparency – key differences between US 
+TRACE and EU MiFID II
+TRACE MiFID II Post-trade Transparency
+Real-time submission • Obligation to submit trade real-
+time and in less than 15min.
+• Obligation to submit trade real-time and in 
+less than 15min.
+• From 03 Jan 2022, real-time and in less  
+than 5min.
+Single- or double-
+sided reporting
+• Single sided reporting (Double 
+sided if two FINRA firms involved, 
+leading to double reporting, 
+market volumes can be 
+overestimated).
+• Single sided reporting
+Trade price • Visible for all trades • Visible for trades of liquid instruments and 
+under SSTI and LIS thresholds = not subject 
+to any deferrals.
+Real-time 
+publications
+• Yes • Yes, for trades of liquid instruments and under 
+SSTI and LIS thresholds i.e. not subject to 
+any deferrals.
+Deferrals • Deferrals are based on trade 
+size and are composed of 2 
+publications:
+      - Real-time: trade details with  
+        volume capped  
+        (1m HY, $5m IG)
+       - Publication: 6 months later:  
+         all trade details
+• FIMSAC proposed 48hours 
+deferral for block trades (>$1m 
+NIG, >$5m IG)
+• 7 deferrals regimes, based on SSTI, LIS and 
+liquidity.
+• The volume omission regime is composed of 
+2 publications: 
+• The volume omission regime is composed of 
+2 publications:
+     -  D+2, before 19h00: trade details  
+        without volume
+     - Publication: 4 weeks later before 09h00:  
+       all trade details
+Trade direction • Yes • No
+Individual trade legs 
+are visible? 
+• Yes, in real-time except for block 
+trades, which are published 
+with capped notionals. The full, 
+uncapped size of block trades is 
+published as part of a historical 
+dataset six months after the 
+calendar quarter in which they 
+were reported.
+• Yes, for liquid trades below SSTI.
+• Yes, in real-time except for illiquid and above 
+SSTI/ LIS thresholds which trigger deferrals
+• Deferred trades may have individual trade 
+details published after expiration of applicable 
+deferrals when “full details” of the trade are 
+made public (second publication) The longest 
+deferral period is 4 weeks from the initial 
+publication for non-sovereign debt.
+• For sovereign debt where deferrals are 
+applied, no individual trade leg detail is 
+published, there is an initial publication only 
+providing all details except quantity, or, an 
+aggregated publication of more than two 
+trades
+Who determines 
+grouping/liquidity 
+metrics for deferrals?
+• TRACE rules define investment 
+grade and non-investment 
+grade categories determining 
+application of block-size 
+thresholds
+• Thresholds and liquidity are specified in MiFID 
+rules (level 2 rules). 
+• ESMA calculates SSTI and LIS on a yearly 
+basis and liquidity assessment on quarterly 
+basis.
+15
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+TRACE MiFID II Post-trade Transparency
+Who reports • All registered dealers report (not 
+the Buy-Side)
+• Trades between 2 dealers are 
+reported by each dealer and 
+made public = market volume 
+can be overestimated
+• Trades executed on trading 
+venues are reported either by 
+the dealer the buy-side entity 
+transacts with, or the trading 
+venue’s registered broker dealer.
+• If however, the trade is executed 
+through an all- to- all protocol on 
+a trading venue, then the trading 
+venue, as the intermediary 
+between two buy-sides/sell-
+sides– will report the trade.
+• All MiFID II Investment Firms must report
+• There is a reporting hierarchy (Systematic 
+Internaliser & seller) so that only 1 trade 
+between 2 counterparties is made public = 
+market volume published is representative. 
+• The reporting hierarchy may have led to an 
+increased number of sell-side investment 
+firms to opting-in as systematic internalisers, 
+to take on the reporting obligation for their 
+clients.
+o This reporting hierarchy has some 
+limitations in terms of “right reporting” as 
+SI status is defined at the level of a LEI. 
+For example, how to differentiate between 
+an EEA branch (SI) of a non-EEA firm and 
+the same non-EEA firm (not SI), while both 
+have the same LEI.
+• Where a trade has been executed on a 
+venue, the venue has the obligation to report 
+the trade.
+Assisted Reporting • No • Possible for any firm but requires dedicated legal 
+contract between firms.
+• Where a sell-side firm is not required to be an SI 
+(does not meet the criteria) and does not choose 
+to opt-in, the firm may offer “assisted reporting” 
+to their clients which allows the client to leverage 
+their connectivity to an APA and submit the trade 
+on their behalf. Note: the reporting obligation still 
+remains with the client and therefore may require 
+additional bilateral legal contracts between firms.
+OTC Derivatives • Not covered by TRACE
+• Covered by CFTC rules
+• Reported to Swap Data 
+Repository (SPR)
+• Mostly covered by CFTC rules 
+(except for single-name CDS, 
+which is subject to SEC rules)
+• Reported to a Swap Data 
+Repository (SDR), with real-time 
+publication of all trades, except 
+a 15-minute deferral for block 
+trades (which have volume 
+capped)
+• Reported per MiFID II obligations
+Single-name CDS • No (pending implementation of 
+SEC rules)
+• Reported per MiFID II obligations (per the 
+above)
+     (Many are illiquid, yet Index CDS are not.)
+16
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+6. What should the EU CT borrow from the US regimes? 
+6.1  What should the EU CT borrow from US TRACE? 
+The ICMA Consolidated Tape Taskforce and Wider Group recommends considering the following elements from 
+TRACE:
+6.1.1  Liquidity analysis
+• Analysis on market liquidity prior to and following any introduction to the CT, in order to understand impact on bond 
+markets.
+6.1.2  Gradual roll-out
+• Gradual roll-out of CT by (sub)asset class.
+6.1.3  Uniformity of reporting requirements
+• Uniformity of reporting requirements and publication of technical specifications.
+6.1.4  Data quality standards
+• Analysis of data to maintain robust data quality standards prior to public dissemination of data. 
+6.1.5  Testing and phase-in
+• Testing and phase-in procedures for introduction of changes (such as new reporting fields).
+6.1.6  Active industry participation
+• Communication and consultation with stakeholders to validate changes on a technical level.  
+6.2  What should the EU CT learn from other US regimes?
+Next to the US TRACE framework, it is appropriate to draw attention and learn from the experience of the US regulatory 
+framework on swap trading.
+6.2.1  No mandatory trading protocols
+Several protocols and workflows will contribute to a bond consolidated tape either bilaterally or multi-laterally. Workflow 
+could include some of the following: agency trading, portfolio trading, ETF trading, anonymous trading or voice trading. 
+Trading protocols to further contribute to the consolidated tape would likely be: RFQ (request for quote), RFS (Request 
+for streaming), Click to Trade, Move to Venue (Processed Trades), All-to-All etc (non-exhaustive list). 
+Selective or multiple RFQ will continue to dominate as the primary protocol 13, due to the customised nature of bond 
+markets but the protocols and workflows mentioned above will continue to make their presence known and contribute 
+to bond trading and post-trade reporting onto the bond consolidated tape. 
+However, it is unlikely that a CLOB (central limit order book, more suited to equity or exchange based asset classes) 
+will become the main protocol for bond trading, as CLOBS require a ‘coincidence of want’ and natural liquidity.
+One only has to look at the experience of Swap Execution Facilities (SEF) in the US under Commodities and Futures 
+Trading Commission (CFTC) obligations, to see evidence of what happens when imposing a specific trading protocol 
+to a market and asset class, onto another. The following excerpt from a CFTC white paper outlines an example, 
+https://www.cftc.gov/sites/default/files/2018-04/oce_chairman_swapregversion2whitepaper_042618.pdf (26 April 
+2018, page 47, see annex III):
+13 https://www.icmagroup.org/assets/documents/Regulatory/Secondary-markets/Time-to-act-ICMAs-3rd-study-into-the-state-and-evolution-of-the-European-
+investment-grade-corporate-bond-secondary-market-040320.pdf
+17
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+“The Order Book Requirement. The Order Book Requirement required SEFs to incur costs to develop and maintain 
+Order Books for every swap listed by a SEF, … The CFTC imposed the requirement based upon its belief, at the time, 
+that market participants would utilise the Order Book…including prices and quantities.”
+The adverse consequences of restrictive execution methods have been global fragmentation of swaps markets and 
+pushing swaps liquidity formation and price discovery away from the SEF platforms, contrary to Congressional intent.
+The authors concluding; “A better approach would be to follow the clear intent of Title VII of Dodd Frank and allow 
+SEFs to trade swaps ‘through any means of interstate commerce’ instead of through artificial, prescriptive execution 
+methods. Swaps markets have unique challenges in liquidity formation that are only exacerbated by imposing forms 
+and practices taken from highly liquid, exchange-traded futures markets.”
+As a final point, if mandatory cleared and largely standardised, products such as Swaps cannot function on an order 
+book, bonds which are not mandatorily cleared and standardised, will clearly not be suitable on a central limit order book.
+While the US derivatives market and SEF trading pre- and post-trade practices are not identical to EU post-trade bond 
+markets, the example of the failure of one market’s protocol incorrectly mandated onto another is useful. Particularly 
+when it comes to determining the best way forward for sensible EU trading practices, trade contribution to EU bond 
+consolidated tape and a workable bond market overview for the EU.
+18
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+7. Current State: EU post-trade bond consolidated data – 
+baseline study
+7.1  Current post-trade data operations in the EU: Approved Publication 
+Arrangement (APA)
+7.1.1  Definition 
+‘Approved publication arrangement’ or ‘APA’ means a person authorised under this Directive to provide the service of 
+publishing trade reports on behalf of investment firms pursuant to Articles 20 and 21 of Regulation (EU) No 600/2014 
+[MiFIR], as stipulated in article 4 (52) of MiFID II. 
+7.1.2  Purpose 
+An APA is an organisation authorised to publish post- trade transparency reports on behalf of investment firms and 
+some trading venues to increase transparency in bond markets. Some APAs also provide a service to publish SI 
+quotes for pre-trade transparency, however, unlike post-trade reports, this is an optional service for SI’s who may 
+choose to publish their own quotes. One of the differences between post-trade and pre-trade SI quote publications 
+is SI quotes are attributed whereas post-trade reports are unattributed i.e. anonymous. Therefore, as the SI is named 
+in the quote, they may publish the quotes directly themselves.
+APAs are required to ensure they accurately publish the trade reports received from investment firms; and that they 
+have arrangements in place to identify on receipt any trade reports that are incomplete or contain information that is 
+likely to be erroneous. To do this, APAs use a range of validation rules to identify erroneous reports.
+APAs are required to ‘efficiently and consistently disseminate [post trade reports] in a way that ensures fast access to 
+the information, on a non-discriminatory basis and in a format that facilitates the consolidation of the information with 
+similar data from other sources’.
+7.1.3  Role  
+Beyond its core regulatory functions, APA may provide additional services such as 
+• Deferral management: to determine the timeliness of the publication i.e. whether the trade report should be 
+published real-time or is subject to a deferral depending on the liquidity classification of the instrument and/ or the 
+trade size according to the relevant thresholds calculated by ESMA.
+• Filtering of non-reportable trades and suppression from publication, based on eligibility of instruments ToTV (with 
+the exception of instruments out of scope e.g. US treasury bill and other money market instruments) reporting party 
+responsibility, venue of execution etc. Investment firms choose to submit all their trade reports to their APA for a 
+more accurate and standardised eligibility validation.
+• Current level of available post-trade data.
+7.2  Current level of available post-trade data
+7.2.1  Scope of instruments 
+• Instruments that are ToTV (traded on [EU] trading venues – RMs, MTFs or OTFs) eligible, are subject to the MiFIR 
+transparency requirements, with the exception of instruments out of scope e.g. US treasury bill and other money 
+market instruments.
+19
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+7.2.2   Level of information 
+• Trading date and time 
+• Instrument identification code type 
+• Instrument identification code 
+• Price 
+• Venue of execution 
+• Price notation 
+• Price Currency 
+• Quantity 
+• Notional amount 
+• Notional currency 
+• Publication Date and Time 
+• Venue of publication 
+• Transaction Identification Code 
+• Applicable Post Trade Indicator flags
+7.2.3  Reporting timelines 
+• Trade reports are required to be reported to the APA as soon as technically practicable (ASATP) from trade 
+execution and within 15 min, for non-equity and 1 min. for equity.
+• Trade reports are required to be made public:
+o Real-time ASATP
+o +15mins after the initial publication (delayed data) details.
+“Real-time” publications are required where bonds are considered liquid and/ or are below SSTI/ LIS (size specific 
+to the instrument & large in scale respectively) size thresholds as determined by ESMA. Liquidity levels for bonds 
+are calibrated each quarter and bond size thresholds are calibrated annually by ESMA. The results are published on 
+ESMA’s website. 
+7.2.4  Deferrals
+• Deferrals are available to “delay” the initial trade report publication by certain prescribed periods. There is a standard 
+ESMA deferral of T+2 and further supplementary deferrals which each NCA has discretion to authorise for the 
+investment firms within its jurisdiction. Where trades have a deferral regime applied, the associated deferral type 
+is required to be published by including the relevant flags (post trade indicator flags) along with the required trade 
+details. See MiFIR Article 11 Deferral regime diagram (section 6e – timing of reporting), summarising the seven 
+possible deferral regimes. For more MiFIR deferral details see section 10.3.
+Furthermore, MiFIR provides the ability to defer publication for bonds meeting the following criteria:
+• Exceed certain size thresholds as determined by ESMA
+• Are illiquid instruments as determined by ESMA, and
+• For certain types of package transactions
+7.2.5  Method of reporting (electronic or website, if applicable) 
+• Via API/ feed (e.g. FIX)
+• File upload/ cut & paste
+• User interface (UI)
+20
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+7.3  Current level of post-trade aggregation
+7.3.1  EU market participant observations
+Experiences of post-trade data aggregation today:
+Buy-side Sell-side
+Overall view • In the current state, the buy-side 
+carry much of the cost (in relation to 
+IT budgets) of creating aggregated 
+transparency but do not get much 
+gain from it yet. This would significantly 
+improve with a TRACE-like consolidated 
+tape.
+• It is very hard to determine regional 
+coverage gaps or accurate size 
+distributions – the picture is partial  
+and noisy.
+• Post-trade data is scattered amongst 
+20 different authorised publication 
+arrangements (APAs) in the EU (17 
+understood to be operating bond 
+APAs). It is extremely difficult and 
+quite expensive to aggregate due 
+to difficulty accessing the “public” 
+websites, lack of consistency in 
+format and data errors.
+• 285 venues add to the fragmentation.
+View on whether 
+there is aggregation 
+of post-trade data 
+today
+• Some providers offer a comprehensive 
+a la carte menu, I.e. they resell the post 
+trade feeds in one place which in theory 
+enables aggregation. In practice the 
+cost (significant 6-digit yearly cost) and 
+the resource required to fully aggregate 
+and quality control for the data, makes 
+this challenging to use, especially when 
+compared with TRACE. 
+• Outcome: de facto the current 
+aggregation does not provide investors 
+with the transparency they need.
+• Some vendors, notably 3, are 
+aggregating various APAs data to 
+different degrees, but their product 
+is still in development. Their main 
+challenges are access to other APAs 
+data and data licencing.
+Experiences of 
+reporting to APAs
+No comment • Sell-sides had a reasonable 
+experience reporting to APA of  
+choice with no major issues.
+Percentage level 
+today of trade 
+capture, offered by 
+aggregators
+• Buy-sides are being told that the 
+percentage of acquiring the MTF and 
+APA data from MTF X and APA Y is 
+around 70% but have no way to validate 
+this and are unsure if that percentage 
+is applicable at a granular level. It is 
+extremely costly to buy more than one 
+APA’s data – yet to see 90%+ you would 
+need to buy ALL data sources; buying 
+one APA is unlikely to be more than 50% 
+of market, additionally lowered by the 
+many data errors.
+• It is difficult to identify precisely what 
+buy-sides are missing, but it is estimated 
+buy-sides are receiving 60% of the total, 
+and the cost of getting that extra 40% is 
+substantial.
+• Sell-sides think that aggregators 
+capture between 50 and 75% of 
+market volume, but there is no 
+empirical way for to ascertain. The 
+vendor that currently captures the 
+largest share is not using MIFID 
+2 data sources but sources that 
+were applicable pre-MIFID 2. Their 
+information is still the most complete 
+and timely in the market.
+21
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+Experiences of post-trade data aggregation today:
+Buy-side Sell-side
+Comments on 
+usability of currently 
+available post-trade 
+data
+• Not usable yet, due to high level of data 
+cleansing, costly and inefficient process 
+of acquiring the data. Additionally, a time-
+consuming and complex second layer of 
+aggregation across APAs was necessary. 
+In future buy-sides see potential for TCA 
+if data quality is better / buy-sides have 
+a TRACE style tape. Price discovery 
+benefits are very limited currently, not 
+least because of the delays, exacerbated 
+by the extra aggregation and cleansing 
+layers (cleansing: format differences, data 
+errors, extreme values, data spikes etc)
+• Some degree for price discovery/
+pricing.
+• For market share and decisions, it is 
+possible to see the MIC for trading 
+venues if it is an SI (SINT) or XOFF, 
+reported so it is possible to see 
+market share between trading venues 
+and trading venue vs non-trading 
+venues.
+• 
+Impact of deferrals 
+on post-trade 
+aggregation, if any
+• While deferrals are important for large/
+illiquid trades, aggregated data that is 
+delayed becomes of limited use.
+• Deferrals are appropriately calibrated 
+to protect and incentivise liquidity 
+provision. If data is complete, 
+deferrals may only impact usability for 
+real time algorithms. 
+How aggregation 
+vendors compare 
+with one another
+• The aggregated post-trade data is 
+different from vendor to vendor.
+• There are differences in quality control, 
+ids, formats etc – aggregation is 
+expensive and a substantial challenge, in 
+particular for those who do not have the 
+size of the largest asset managers.
+• Most operate APAs and trading 
+venues. Different degrees of 
+completeness and pricing.
+The one key 
+requirement 
+according to the 
+buy-side regarding 
+post-trade data
+• The buys-side requires “one view of all 
+post-trade bond data”. 
+• A central self-contained consolidated 
+tape at reasonable commercial costs and 
+quality.
+• It must be complete in one source.
+22
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+7.3.2  EU APAs registered on ESMA website
+STATUS APA Home Member State Regulator
+Active Bloomberg Data Reporting 
+Services B.V.
+NETHERLANDS Netherlands Authority for the 
+Financial Markets (AFM)
+Active BME REGULATORY SERVICES SPAIN Comisión Nacional del Mercado 
+de Valores (CNMV)
+Active BULGARIAN STOCK 
+EXCHANGE
+BULGARIA Financial Supervision Commission 
+(FSC)
+Active CBOE Europe B.V. NETHERLANDS Netherlands Authority for the 
+Financial Markets (AFM)
+Active CME Amsterdam B.V. NETHERLANDS Netherlands Authority for the 
+Financial Markets (AFM)
+Active Deutsche Börse 
+Aktiengesellschaft
+GERMANY Federal Financial Supervisory 
+Authority (BaFin)
+Active Euronext Paris SA FRANCE Autorité des Marchés Financiers 
+(AMF)
+Active Hellenic Exchanges - Athens 
+Stock Exchange SA
+GREECE Hellenic Capital Market 
+Commission (HCMC)
+Active KELER Központi Értéktár Zrt. HUNGARY Central Bank of Hungary
+Active Nasdaq Stockholm Aktiebolag SWEDEN Finansinspektionen (FI)
+Active Oslo Børs APA NORWAY Norwegian Financial Supervisory 
+Authority
+Active Tradeweb EU B.V. NETHERLANDS Netherlands Authority for the 
+Financial Markets (AFM)
+Active Trax NL B.V. NETHERLANDS Netherlands Authority for the 
+Financial Markets (AFM)
+Active UnaVista TRADEcho B.V. NETHERLANDS Netherlands Authority for the 
+Financial Markets (AFM)
+Active Wiener Börse AG AUSTRIA Austrian Financial Market Authority 
+(FMA)
+Active Zagrebačka burza d.d. CROATIA Croatian Financial Services 
+Supervisory Agency (HANFA)
+Total 16
+*Inactive vwd TransactionSolutions AG GERMANY Federal Financial Supervisory 
+Authority (BaFin)
+23
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8. End State: EU bond consolidated tape
+CT as it relates to governance, mandatory contribution, reporting design, revenue sharing, data 
+transformation, repackaging and distribution models
+The CTP contract should be awarded for no less than five years. This is to allow whoever is awarded the contract, to 
+have sufficient time to recoup any development costs. In addition, the firm awarded the contract should have robust 
+conflict-of-interest rules in place to assess whether its policies, procedures and corporate governance structure 
+ensure independence of the CTP and the avoidance of conflicts of interest. Conflicts may arise where the CTP 
+is engaged in other activities such as acting as a market operator, investment firm or trade repository. Lastly, it is 
+understood that day-to-day CT costs to industry participants should be kept to a minimum.
+The view is that ESMA should have oversight over the CTP contract and monitor for any breach of contract e.g. data 
+quality, access, pricing etc. This includes the awarding of the contract “on an exclusive basis and that no other entity 
+shall be authorised as a consolidated tape provider in accordance with Article 27a of regulation (EU) No 600/2014”. 
+(ESA review) Furthermore, it is known that in January of 2022, ESMA will have supervisory authority and enforcement 
+powers over the consolidated tape provider (https://www.esma.europa.eu/sites/default/files/library/esma80-199-
+332_confidential_supervision_ar_2019_wp_2020.pdf p. 33). However, the Taskforce view is that ESMA should work 
+closely with industry participants (buy-side, sell-side and retail) to advise, providing collective market functioning 
+expertise and stewardship. 
+8.1  Governance models
+In order to determine the best governance model for the CTP and CT operation, it is necessary to assess the 
+likelihood of the CTP becoming a successful ‘going concern’. This involves assessing potential funding, stewardship, 
+management structure and IT operation models. In regard to stewardship, it is important to have bond market expertise 
+to provide insight and input into the board. Asset class expertise and stewardship should be at the forefront of 
+any model design for a consolidated tape, whether bonds or indeed beyond bonds (e.g. equities, derivatives etc). 
+Industry participants from each asset class should have control of their own products, ensuring sweeping cross-asset 
+statements will not be enforced, which could create operational challenges. 
+The Taskforce sets out below the potential models for CTP governance along with positives and negatives of each 
+model and a view from the CT Taskforce and wider CT working group as to the percentage chance of success for the 
+governance model or combination of models. In order for one model or a combination of models to become the likely 
+CTP candidate, it will be necessary to resolve any of the perceived ‘negatives’ outlined.
+24
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.1.1  CTP governance summary
+CTP Governance
+Model options
+Managed
+by
+Stakeholder 
+stewardship -
+ESMA?
+Stakeholder 
+stewardship - 
+Industry rep.?
+IT by
+Mandatory 
+membership fees 
+from IFs & TVs to 
+ESMA
+Mandatory fee 
+increase for NCAs 
+and/or EC to ESMA
+Private
+funding 
+(TBD) 
+Initial
+funding
+Data feed -
+end user 
+fee?
+Pricing methodology 
+determined by?
+Profit
+Making 
+Scope of 
+traded 
+vol.
+1. ESMA governance
+a. SRO Data Entity, 
+governed by ESMA SRO Data Entity and 
+outsourced 3rd party Y Y Outsourced to 3rd 
+party Y n n Fees from IF & 
+TVs to ESMA n
+SRO, ESMA AND 
+industry 
+stakeholders
+n 80%
+b. CT operated and 
+governed by ESMA ESMA Y Y* ESMA n Y n
+Mandatory fee 
+increase for 
+NCAs
+n ESMA n 80%
+2. Public/Private Partnership - Limited company 
+Public/Private 
+Partnership - Ltd cy 
+Limited Company 
+with ESMA & 
+industry 
+stakeholders
+Y Y
+Limited Company 
+(potentially using 
+some outsourced 
+services)
+n n Y Initial loan Y
+Limited Company 
+with ESMA & 
+industry 
+stakeholders
+Reinvested 80%
+3. APAs consortium
+a. Managed by APAs 
+consortium APAs consortium n n APAs consortium n n Y Investment by 
+APAs Y APAs consortium Y 80%
+b. With Industry 
+Stakeholders 
+Committee
+APA consortium & 
+industry 
+stakeholders
+n Y APAs consortium n n Y Investment by 
+APAs Y
+APA consortium & 
+industry 
+stakeholders
+Y 80%
+4. Independent firm
+a. By Non-financial 
+markets firm Independent firm n n Independent firm n n Y Investment by 
+Ind. firm Y Independent firm Y 80%
+b. By financial markets 
+firm Independent firm n n Independent firm n n Y Investment by 
+Ind. firm Y Independent firm Y 80%
+* High-level industry represenstation/advisory but no industry involved in day to day-to-day activity.
+Note: As of January 2022, ESMA will supervise directly all APAs and the CTP.
+Legend
+CTP = Consolidated Tape Provider
+EC = European Commission
+IF = Investment Firm  = Buy-side, Sell-Side, SI or not
+SRO = self regulatory organization
+TV = Trading Venue = RM, MTF, OTF
+Funding ModelOperating model
+25
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.1.2  CTP Governance model option overview
+Options 1. ESMA governance 1. ESMA governance 2. Public/Private Partnership - 
+a. SRO Data Entity, governed by ESMA b. CT operated and governed by ESMA      Limited company  
+Funding Mandatory/subscription fee Mandatory fee increase for NCAs
+Supervision
+Board / Stakeholders /
+Stewardship ESMA Industry
+representatives ESMA Industry
+representatives* ESMA Industry
+representatives
+Managed by
+IT by
+Tapes Bonds Bonds Bonds
+Loan w/cost recovery through end-
+user fees
+ESMA
+Limited Company with ESMA & 
+industry stakeholders
+Limited Company (potentially using 
+some outsourced services)
+* High-level industry represenstation 
+/ advisory but no industry involved in 
+day to day-to-day activity.
+ESMA
+Outsourced
+to 3rd party
+SRO Data Entity and 
+outsourced 3rd party
+ESMA
+ESMA
+ESMA
+26
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+Options 3. APAs consortium 3. APAs consortium 4. Independent firm 4. Independent firm
+a. Managed by APAs consortium b. With Industry Stakeholders Committee a. By Non-financial markets firm b. By financial markets firm
+Funding Consortium investment Consortium investment
+Supervision
+Board / Stakeholders /
+Stewardship
+Industry
+representatives
+Managed by
+IT by
+Tapes Bonds Bonds Bonds Bonds
+Independent non-financial firm 
+investment
+Independent financial firm 
+investment
+ESMA
+Independent firm
+Independent firm
+ESMA
+APAs consortium
+APAs consortium
+ESMA
+Independent firm
+Independent firm
+ESMA
+APAs consortium
+APAs consortium
+27
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.1.3  Governance model options: positives and negatives
+Positives Negatives
+1. ESMA governance
+a. SRO Data Entity, 
+governed by ESMA
+1. Funding spread across EU, no end user 
+specific fee. 
+2. ESMA and industry involved in 
+governance. 
+3. More palatable for trading venues to 
+mandatorily provide post-trade data to 
+ESMA rather than commercial entity. 
+4. ESMA (with possibly NCAs) and industry 
+“in the driving seat” and to collaborate 
+in stewardship, i.e. at finding pragmatic 
+solution to complex and costly detailed 
+reporting implications (problems of 
+reference data, lack of golden sources, 
+asset classes mapping…). Better 
+understanding of challenges, possibly 
+quick adaptation of regulatory guidance 
+(e.g. phase approach per product type).
+5. Gain in pragmatic and financial market 
+products knowledge from the regulators 
+/ industry collaboration.
+1. Collection of membership fees will 
+be a challenge. Many firms will not 
+pay up front and on time. This could 
+prove a problem for cash flow.
+2. First movers will end up subsidising 
+other firms, which will be financially 
+punitive for the firms that pay the 
+membership fee first.
+3. Mandatory subscription/membership 
+with mandatory payments, may 
+not be legally acceptable in various 
+countries across the EU. Some 
+member states may not be able 
+to regulate and force their region’s 
+investment firms to pay for the CT.
+4. If there is mandatory subscription/
+membership, it could mean if a firm 
+wanted to opt out, they couldn’t. If a 
+firm does not want to use the data, 
+they should not be forced to subscribe 
+and should be able to opt out.
+b. CT operated and 
+governed by ESMA
+1. Avoids conflicts of interest
+2. Share core costs across NCAs, as a 
+public good 
+3. ESMA has control over fees
+4. ESMA (with possibly NCAs) and industry 
+“in the driving seat” and to collaborate 
+in stewardship, i.e. at finding pragmatic 
+solution to complex and costly detailed 
+reporting implications (problems of 
+reference data, lack of golden sources, 
+asset classes mapping…). Better 
+understanding of challenges, possibly 
+quick adaptation of regulatory guidance 
+(e.g. phase approach per product type).
+5. Gain in pragmatic and financial market 
+products knowledge from the regulators 
+/ industry collaboration.
+1. A CT operated and governed by 
+ESMA as an independent body has 
+been ruled out by the European 
+Commission. The European 
+Commission has said they will not 
+fund ESMA operating the CT, it needs 
+to be a commercial self-funding 
+operation. 
+2. Member states funding the CT, would 
+in reality mean the NCAs fund the 
+CT. Member States may not wish to 
+increase their contributions to ESMA’s 
+budget to fund the tape.
+28
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+Positives Negatives
+2. Public/Private Partnership - Limited company
+Public/Private 
+Partnership - Ltd 
+company
+1. No mandatory subscription/membership 
+fees
+2. Industry and ESMA influence on day- to 
+-day activity though board membership 
+or observer status
+3. Loan based, so no cash flow issues. 
+Cost recovery comes from end user 
+fees. Once the data quality is sorted, the 
+view is the CT will be a ‘going concern’ 
+and will easily pay for itself through 
+market demand.
+4. While there are differences in operating 
+models, this model is similar to current 
+existing industry providers.
+1. Unclear as to whether a Limited 
+company can have ESMA as board 
+members or observers.
+2. Also unclear as to whether ESMA can 
+together with industry representatives 
+co-direct operational strategy 
+3. Cost recovery is based on end user’s 
+usage and fees. 
+3. APAs consortium
+a. Managed by APAs 
+consortium
+1. Speedy implementation as APAs could 
+leverage existing infrastructure and 
+resources.
+2. No disruption to current business models
+3. No amending of current reporting 
+obligations
+4. No impact from Brexit, APAs would 
+already be operating within both the UK 
+and EU. 
+1. ESMA will have oversight of all APAs 
+and of the CTP as of January 2022. 
+This may act as a disincentive to 
+create the consortium in the first 
+place, due to oversight of any 
+consortium revenue model.
+2. Other firms (outside the consortium) 
+may not be able to redistribute or 
+transform the raw data. In effect, 
+the consortium would control all use 
+in the market of the post-trade raw 
+bond data.
+3. No industry input into pricing 
+methodology
+4. No industry input into operational 
+direction
+5. May prove challenging for APAs to 
+converge on technical standards and 
+one business model
+6. Regional APAs may be prevented 
+from joining the consortium, if there is 
+no oversight by ESMA.
+29
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+Positives Negatives
+b. With Industry 
+Stakeholders 
+Committee
+1. Industry representation and input for 
+actioning
+2. Industry input into pricing methodology
+3. No disruption to current business models
+4. No amending of current reporting 
+obligations
+5. No impact from Brexit, APAs would 
+already be operating within both the UK 
+and EU.
+1. Conflicting ‘wants’ from industry 
+representatives who may 
+want something for free that 
+the consortium would view as 
+chargeable. This could prove 
+challenging to overcome.
+2. APAs may not want oversight from 
+ESMA. As of January 2022, ESMA 
+will have oversight of all APAs and 
+of the CTP . This may act as a 
+disincentive to create the consortium 
+in the first place, due to oversight of 
+any consortium revenue model.
+3. May prove challenging for APAs to 
+converge on technical standards and 
+one business model
+4. Regional APAs may be prevented 
+from joining the consortium, if there is 
+no oversight by ESMA.
+4. Independent firm
+a. By Non-financial 
+markets firm
+1. May have superior technology and data 
+management and storage. 
+2. With pre-existing knowledge of data, 
+may be cheaper for the end-user (TBD).
+3. May be able to take on all data 
+management activities from ESMA, 
+including FIRDS and FITRS calculations.
+4. Market is not required to fund initial build 
+costs. 
+5. Profit motivated, so may build a superior 
+product.
+1. No industry input into pricing 
+methodology and governance, 
+leading to conflicts of interest
+2. May not want to be regulated, 
+which could prove a disincentive in 
+becoming a CTP .
+3. No industry end-user control 
+or input into raw post-trade 
+data consumption, distribution, 
+redistribution or transformation.
+4. If a radical model is produced, this 
+may prove too disruptive for the 
+industry to adopt. 
+5. May not really understand the 
+complex interdependent nature of 
+bond market trading.
+6. End user fees may be higher 
+b. By financial 
+markets firm
+1. Has an understanding of trading 
+relationships, expertise in terms of bond 
+market and bond data management. 
+2. Infrastructure in place for existing market 
+participants.
+3. Oversight by ESMA, January 2022.
+4. Market is not required to fund initial build 
+costs. 
+5. Profit motivated.
+1. No end-user input into pricing 
+methodology, governance, conflicts 
+of interest
+2. No end-user control or input into 
+raw post-trade data consumption, 
+distribution, redistribution or 
+transformation.
+3. Other trading venues and APAs 
+may not wish to send data to a 
+competitor.
+4. Fees may be higher.
+ 
+30
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.1.4  Taskforce views on best governance model options
+0% 5% 10% 15% 20% 25% 30% 35% 40%
+4.b
+4.a
+3.b
+3.a
+2
+1.b
+1.a 6.3%
+37.5%
+25.0%
+12.5%
+6.3%
+6.3%
+6.3%
+Q1 Which CTP governance model option do you like best?
+1. a.   ESMA governance of an SRO Data Entity, governed by ESMA. Funded through mandatory membership/
+subscription industry fees.
+1. b.   ESMA governance of a CT operated and governed by ESMA. Funded by mandatory fee increase for 
+NCAs.
+2.   Public/Private Partnership - Ltd company. Funded through loan w/cost recovery through end-user fees.
+3. a.   APA consortium managed by consortium of APAs. Funded by consortium investment and cost recovery 
+through end-user fees.
+3. b.   APA consortium with Industry Stakeholders Committee. Funded by consortium investment and cost recovery 
+through end-user fees.
+4. a.   Independent firm by non-financial markets firm. Funded by the non-financial market firm investment and cost 
+recovery through end-user fees.
+4. b.  Independent firm by financial markets firm. Funded by the financial market firm’ investment and cost recovery 
+through end-user fees.
+31
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+0% 5% 10% 15% 20% 25% 30%
+No answer
+4.b
+4.a
+3.b
+3.a
+2
+1.b
+1.a 18.8%
+12.5%
+25.0%
+12.5%
+12.5%
+12.5%
+0.0%
+6.3%
+Q2 Which CTP governance model single option 
+ do you think is the most realistic to emerge?
+1. a.   ESMA governance of an SRO Data Entity, governed by ESMA. Funded through mandatory membership/
+subscription industry fees.
+1. b.   ESMA governance of a CT operated and governed by ESMA. Funded by mandatory fee increase for NCAs.
+2.   Public/Private Partnership - Ltd company. Funded through loan w/cost recovery through end-user 
+fees.
+3. a.   APA consortium managed by consortium of APAs. Funded by consortium investment and cost recovery 
+through end-user fees.
+3. b.   APA consortium with Industry Stakeholders Committee. Funded by consortium investment and cost recovery 
+through end-user fees.
+4. a.   Independent firm by non-financial markets firm. Funded by the non-financial market firm investment and cost 
+recovery through end-user fees.
+4. b.  Independent firm by financial markets firm. Funded by the financial market firm’ investment and cost recovery 
+through end-user fees.
+ 
+ 
+32
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+0% 5% 10% 15% 20% 25% 30% 35%
+No answer
+Other
+1.a + 3.a
+1.a + 4.a
+1.a + 1.b
+3.a + 3.b
+1.b + 2
+1.a + 2 31.3%
+12.5%
+6.3%
+6.3%
+6.3%
+6.3%
+12.5%
+18.8%
+Q3 Which CTP governance model combination of options do 
+ you think is the most likely to emerge - 1a + 2, 1b + 2 or other?
+1. a.   ESMA governance of an SRO Data Entity, governed by ESMA. Funded through mandatory 
+membership/subscription industry fees.
+1. b.   ESMA governance of a CT operated and governed by ESMA. Funded by mandatory fee increase for NCAs.
+2.   Public/Private Partnership - Ltd company. Funded through loan w/cost recovery through end-user 
+fees.
+3. a.   APA consortium managed by consortium of APAs. Funded by consortium investment and cost recovery 
+through end-user fees.
+3. b.   APA consortium with Industry Stakeholders Committee. Funded by consortium investment and cost recovery 
+through end-user fees.
+4. a.   Independent firm by non-financial markets firm. Funded by the non-financial market firm investment and cost 
+recovery through end-user fees.
+4. b.  Independent firm by financial markets firm. Funded by the financial market firm’ investment and cost recovery 
+through end-user fees.
+Other comments relating to potential combination of models that may be the most likely to emerge for a 
+CTP:
+• 1b, with outsourced IT to 3rd party or 1a with mandatory contribution from NCA / EC to ESMA
+• No combination will emerge
+• Like for the governance model single option, the firm does not know and thinks it is impossible to predict at this 
+stage.
+33
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+0% 5% 10% 15% 20% 25% 30%
+No answer
+Other
+3.a + 3.b
+1.a + 1.b
+4.b
+4.a
+3.b
+3.a
+2
+1.b
+1.a 6.3%
+6.3%
+6.3%
+12.5%
+6.3%
+0.0%
+6.3%
+6.3%
+25.0%
+12.5%
+12.5%
+Q4 Which CTP governance model option or combination of model options is
+ best suited for multiple asset classes (e.g. equities and bonds) CTP governance?
+1. a  ESMA governance of an SRO Data Entity, governed by ESMA. Funded through mandatory membership/
+subscription industry fees.
+1. b.   ESMA governance of a CT operated and governed by ESMA. Funded by mandatory fee increase for NCAs.
+2.   Public/Private Partnership - Ltd company. Funded through loan w/cost recovery through end-user 
+fees.
+3. a.   APA consortium managed by consortium of APAs. Funded by consortium investment and cost recovery 
+through end-user fees.
+3. b.   APA consortium with Industry Stakeholders Committee. Funded by consortium investment and cost recovery 
+through end-user fees.
+4. a.   Independent firm by non-financial markets firm. Funded by the non-financial market firm investment and cost 
+recovery through end-user fees.
+4. b.  Independent firm by financial markets firm. Funded by the financial market firm’ investment and cost recovery 
+through end-user fees.
+Other comments relating to model (s) that may best suit multi-asset class (exchange/non-exchange 
+based) CTP:
+• “1c” i.e. 1b but where the IT is outsourced to a 3rd party like in 1a as ESMA often does not have either the budget, 
+the skillset or the capabilities.
+• 1b, with IT outsourced to 3rd party or 1a with mandatory contribution form NCA / EC to ESMA
+• Should be an independent regulated operator due to the potential conflicts of interest.
+The survey was answered by ICMA’s CT Taskforce members (9 buy-sides, 21 sell-sides, 6 trading venues and data 
+providers) as they had the most informed views regarding potential CTP models. The models options supported the 
+most were: 1. Public/private partnership - Ltd company. Funded through loan w/cost recovery through end-user 
+fees. 2. ESMA governance of an SRO data entity, governed by ESMA. Funded through mandatory membership/
+subscription industry fees and 3. ESMA governance of a CT operated and governed by ESMA. Funded by mandatory 
+fee increase for NCAs. 
+The most popular combination of models supported were: ESMA governance of an SRO data entity, governed by 
+ESMA. Funded through mandatory membership/subscription industry fees combined with public/private partnership 
+- Ltd company. Funded through loan w/cost recovery through end-user fees.
+Lastly, the model or combination of models that Taskforce members viewed as best suited to multiple asset classes 
+(exchange based e.g. equities, exchange traded derivatives and non-exchange based e.g. bonds and non-exchange 
+traded derivatives) was the public/private partnership – Ltd company. Funded through initial loan w/cost recovery 
+through end user fees. 
+34
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+The ICMA CT Taskforce believes there are a few governance potential model options which could in all probability 
+deliver a CT for EU bond markets. Any of the governance models outlined could be achieved with decisive strong EU 
+leadership and the will to surmount any associated negative of relevant model options: 
+• A limited company working with ESMA in a close public- private partnership with outsourced IT operations, could 
+take out a loan to be paid back on a cost recovery basis from user fees, to provide a CTP .
+• ESMA could govern through an SRO data entity mechanism. Recovering costs through subscription/membership 
+fees to provide a CTP .
+• ESMA could work with the industry (stewarding day- to- day operations) but have overall governance, recovering 
+costs through NCA increased contributions, to provide a CTP . 
+• APAs could converge on technical standards and a single business model, recovering costs through industry 
+accepted user fees, in order to work together to provide a CTP . 
+8.2  Contribution and consumption
+8.2.1  Mandatory contribution
+It is essential that the responsibility for data feed provision should be changed from the CTP’s obligation to ‘obtain’ 
+data, to stating that trading venues and APAs have an obligation to ‘provide’ data to the CTP in MiFID II/R. This 
+obligation would be extended to self-reporting firms if applicable.
+APAs, self-reporting firms (where applicable) and trading venues would be required to mandatorily provide the post-
+trade data to the CTP as soon as technically possible, taking into account deferrals. 
+8.2.2  Non-mandatory consumption 
+There should be no mandatory ‘consumption’ of the tape. It has been suggested that the only way to operate 
+the CTP as a ‘going concern’ is to mandate consumption of the CT by all market participant end users. ICMA buy-
+side and sell-side members do not agree. The expectation is that if the quality of the tape is high, affordable and 
+accessible then this in itself will generate demand for the tape, without forcing users to purchase it. Even at the 
+start, if the CTP solely aggregates what is currently being published by APAs, the result will be a reduction in cost for 
+end users as market participants will not have to purchase the traditionally more expensive and purely commercial 
+aggregators on top of the already purchased APA data feeds. The consolidated tape with good quality post trade 
+data providing an overview of the market, could be enough for firms who only want to view raw post-trade data. 
+Furthermore, the data volumes the end users would be viewing at the start should be in the 60% – 70% range of 
+total trading (maybe even more). Therefore, there is no reason to consider this centralised aggregated post-trade 
+CT will not create high demand. 
+However, providing flexibility and optionality is also important for the EU market participants. It is likely that some 
+firms will not wish to consume the full raw post-trade consolidated tape and may instead prefer to purchase data 
+directly from selected venues/APAs. Users may only be interested in trading in particular instruments or in particular 
+geographic markets. Thus, providing further reason why the consolidated tape should not be mandatorily consumed 
+through regulatory obligation. For further information on uses and benefits of a consolidated tape, see section 3.5. 
+Mandatory consumption of post-trade execution data does not equal ‘best execution’. Proving best 
+execution (or ‘achieving the best possible result for customers when executing their orders via execution venues or 
+OTC’) should not be overly simplified to observing just post-trade pricing. The best execution process is a complex 
+matrix of pre-trade decision making and tools and much more than execution ‘prices.’ 
+One only has to look at the RTS 28 best execution reporting framework under MiFID II/MiFIR. RTS 28 which has so 
+far proved unsuccessful, as firms cannot illustrate exactly what is the best ‘price’. For example, when evidencing best 
+execution for corporate bonds, pricing is not the determining factor, best execution is mostly analysed on a spread 
+basis. 
+Moreover, it is is unrealistic to expect a firm to provide a ‘price’ as evidence of best execution when that firm’s trade 
+may be the only trade for that bond in a week. 
+Lastly, when it comes to best execution, size does matter. A major buy-side participant can often be observed 
+trading in large block sizes, that trade may involve a sell-side providing balance sheet and other sell-side risk taking 
+assistance (execution immediacy, hedging w/ derivatives, repos etc). This sell-side risk assistance is reflected in a 
+35
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+higher executed price. If a smaller firm or retail market participant were to execute the same bond but in a smaller 
+or retail size, that trade price would be lower, as sell-side balance sheet would not have been used. Therefore, 
+obligating market participants to mandatorily consume the post-trade data for best execution purposes would likely be 
+impractical at best, and misleading at worst.
+Instead, the buy-side views a CT as a further valuable tool in the toolbox for pre-trade price discovery. In 
+addition to consumption of pre-trade axe and inventory data, the CT will also provide buy-side market participants with 
+an overview of the market, resulting in informed investment decision making. 
+8.3  Reporting model options
+Most of the large APAs and trading venues operate in both the EU and UK. The APA and trading venue numbers used 
+in this report reflect operating entities within the EU. Currently in the EU and UK there are 430 + trading venues and 20 
++ APAs as well as 12,000 + investment firms. However, the following tables cover only the EU, 160 + trading venues, 
+16 (active) bond APAs and 10,000 + investment firms.
+It is key to get the reporting model correct as it will have to support the EU 160 + trading venues and 16 APAs and 
+possibly a few self-reporting firms. All reporting workflow options will flow into one centralised consolidated tape 
+provider. 
+In the current situation, 
+• Investment firms must report to APAs and
+• Trading Venues display their MiFID II transparency on their own platform, with some TV using APAs.
+Legend
+CTP = Consolidated Tape Provider
+TV = Trading Venue = RM, MTF, OTF
+IF = Investment Firm  = Buy-side, Sell-Side, SI or not
+Links / List
+List of Investment Firms, RM, MTF, OTF, APA
+   - 160+ TV is the number of Equity & Non-Equity Trading Venues in the EU, excluding UK.
+   - 10k+ IF is the number of all MiFID Investment Firms (accross all asset classes)
+https://registers.esma.europa.eu/publication/searchRegister?core=esma_registers_upreg#
+Contribution
+Source
+Publication
+platform
+Contribution
+Source
+Publication
+platform
+Consolidated 
+Tape Provider
+10k+ IF 16 APAs Option 1 10k+ IF 16 APAs
+160+ TV 160+ TV 10k+ IF
+ + TV to report to CTP 160+ TV
+Option 2 10k+ IF
+160+ TV
+Option 3 10k+ IF 16 APAs
+160+ TV
+AS IS Proposed: Trade reporting workflow
+1 CTP
+1 CTP
+1 CTP
+16 (or many 
+more) APAs
+IF may report 
+to either APA or or CTP
+All IF & TV must report 
+to APAs
+Status quo: IF to APA, 
+TV to CTP
+36
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.3.1  Option 1
+Besides APAs and trading venues reporting to the CTP , MiFID II (Title V) language could be modified to allow investment 
+firms to have the option to self-report to the CTP. The Investment firm will register first as a ‘self-reporting’ investment 
+firm with ESMA.
+The CTP would be permitted to carry out assisted reporting activities (determining who reports, applying MiFID II 
+deferrals, data cleansing etc) similar to APA services for self-reporting investment firms, if they wished to pay for those 
+services. The quality of the CTP assisted reporting services would be required to be of similar standard to APAs. 
+• The ‘Self-reporting investment firm’ will be subject to similar regulatory requirements as APAs (eg data 
+cleansing and data quality) , and will have the obligation for correctly applying MiFID II transparency regime e.g. 
+ESMA liquid bond list, post-trade deferrals, daily quantitative transparency reporting to the regulator (ESMA) etc, if 
+not using the CTP for assisted reporting. 
+• The ‘Self-reporting investment firm’ will not be required to publish their name. Currently APAs mask the 
+names of the individual investment firm’s trade reporting. 
+• The ‘Self-reporting investment firm’ will be subject to fines similar to APAs for suboptimal data quality 
+and procedures. The obligations regarding data quality are the same for the self-reporting investment firm, 
+whether using the CTP for assisted reporting or reporting directly to the CTP themselves. This is in order to create 
+good quality data and a standard in the bond market. Lastly, should the investment demonstrate continual breach 
+of its reporting obligations the “self-regulatory” status may be denied.
+8.3.2  Option 2 
+• Trading venues and investment firms report to APAs. Then APAs mandated to report into single-source CTP . 
+• All MTFs, OTFs, RMs and SIs are required to report to APAs. All APAs, through a standardised API pipe, report to 
+the single-source CTP .
+• Change in concept for APAs, will be reflected in MiFID II level one.
+Contribution
+Source
+Publication
+platform
+Consolidated 
+Tape Provider
+Option 1 10k+ IF 16 APAs
+10k+ IF
+ + TV to report to CTP 160+ TV
+Proposed: Trade reporting workflow
+1 CTP
+IF may report 
+to either APA or or CTP
+Contribution
+Source
+Publication
+platform
+Consolidated 
+Tape Provider
+Proposed: Trade reporting workflow
+Option 2 10k+ IF
+160+ TV 1 CTP16 (or many 
+more) APAs
+All IF & TV must report 
+to APAs
+37
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.3.3  Option 3
+• Who reports: “Status quo” to today but mandated to report into single-source CTP .
+Contribution
+Source
+Publication
+platform
+Consolidated 
+Tape Provider
+Proposed: Trade reporting workflow
+Option 3 10k+ IF 16 APAs
+160+ TV 1 CTPStatus quo: IF to APA, 
+TV to CTP
+Legend
+CTP = Consolidated Tape Provider
+TV = Trading Venue = RM, MTF, OTF
+IF = Investment Firm  = Buy-side, Sell-Side, SI or not
+Links / List
+List of Investment Firms, RM, MTF, OTF, APA
+   - 160+ TV is the number of Equity & Non-Equity Trading Venues in the EU, excluding UK.
+   - 10k+ IF is the number of all MiFID Investment Firms (accross all asset classes)
+https://registers.esma.europa.eu/publication/searchRegister?core=esma_registers_upreg#
+38
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.3.4  Reporting design positives and negatives
+Positives Negatives
+Option 1
+1. Firms will have the flexibility to use 
+their own technology resources 
+(which would need to be robust) 
+to build APA capabilities to report 
+directly to a CTP . 
+2. Costs are internal to the firm for 
+reporting to the CT, no middleman. 
+Cost savings for firm in the long run.
+3. Problem resolution is potentially 
+faster. Communication is direct 
+between firm and CTP .
+4. More streamlined reporting process 
+for investment firms, potentially less 
+chance of errors.
+1. Increases the touchpoints and costs for the 
+CTP to connect with. This could possibly result 
+in making it less attractive for a prospective 
+provider to volunteer to take on the role of CTP , 
+too many connections. 
+2. Self-reporting firms (trading across multiple 
+asset classes) will have to report direct to CTP 
+for bonds but could find themselves, in the 
+beginning, reporting through APAs for other 
+asset classes, such as derivatives and even to 
+a different CTP for equities. This could increase 
+costs instead of decrease cost for the self-
+reporting investment firms
+3. The CTP may be forced to pass on the costs 
+to the industry for multiple self-reporting 
+investment firm connection costs.
+4. Increased risk of data quality issues, if self-
+reporting firms do not cleanse post trade bond 
+data accurately.
+Option 2
+1. Small chance of post-trade 
+publishing errors with less 
+touchpoints/connections to the CTP .
+2. APAs will be regulated by ESMA 
+2022, which could involve oversight 
+regarding pricing methodology, data 
+quality and access -TBD.
+1. For those not currently trade reporting to an 
+APA, they will incur the cost of doing so.
+2. No flexibility to self-report, if desired.
+3. Trading venues could end up creating their 
+own APAs as they will not want to report to 
+rival venues, incurring costs for those trading 
+venues. However this could depend on each 
+venue’s cost / benefit analysis.
+Option 3
+1. No change required, stay the same 
+as today allowing priority focus on 
+other initiatives.
+2. No additional cost/ resource burden 
+for industry participants
+3. Majority of key reporting parties (SI/ 
+sell-side) bedded down process & 
+happy with existing APA reporting 
+lines.
+1. No flexibility for firms who wish to self-report 
+and no potential benefit of CTP cost savings 
+and error resolution streamlining.
+39
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+8.4  Revenue sharing model
+The purpose of revenue sharing for APAs and trading venues is to create timely and reliable post-trade data and to 
+share the costs of producing good quality post-trade data with the CTP . However, penalties may be considered, such 
+as withholding the revenue ‘share’ or reduced ‘share’ due to low performing data cleansing determined by an industry 
+accepted ‘data quality score card’. ‘Higher score equals greater share’ (more details below and in Annex 12.1).
+A revenue share time limit review will be built into the revenue share regime. 5 years after go-live of bond CTP , a review 
+of the revenue share scheme will take place to consider continuing with the revenue sharing regime or removing. Once 
+the data quality has improved and the reporting standards from firms are operating to a high standard, the Taskforce 
+view is twofold, the revenue sharing regime may not be needed and could be removed or it may be necessary to 
+continue CTP revenue sharing as a more permanent regime.
+To qualify for a ‘share’, the data provider must be able to demonstrate the required data cleansing validation rules. 
+Entities carrying out data cleansing exercises on aggregated post-trade data, should qualify to receive revenue sharing 
+from the CTP (regardless of who governs and/or operates the CTP). The amount of the share will be determined by the 
+‘data quality score card’ and will be proportionate to the volume of data provided by the contributing firm. The exception 
+would be self-reporting firms as the revenue sharing scheme is only considered for firms that cleanse ‘aggregated’ 
+data i.e. have multiple data submissions from multiple entities or are a “trading venue” with multiple member firms. 
+• The ‘data quality score card’ validates the quality of the data received from the aggregating trading venues and 
+APAs to determine the proportion of revenue share. The specific details and outline of the data quality scorecard 
+can be found in the Annex 12.1. 
+• APAs may decide to incentivise firms to ensure higher quality data being sent to APAs. They may pass a portion 
+of their share back to their clients.
+o Alternatively, as per RTS13, APAS may look to penalise member firms for data quality issues such as errors and 
+number of cancel/ amends processed.
+• Trading venues, APAs and self-reporting firms should not retain any claim or ownership for the raw post-trade data 
+and therefore should not be able to ‘license’ the reported post-trade raw data to the CTP . However, it should be 
+noted this is not a ‘consensus’ Taskforce view among APAs and trading venue members as they do not support 
+this approach, which is a significant change to existing business models (also a departure from existing MiFID 
+II/R publication requirements). Various raw post-trade data usage types will apply as stated below in section 
+8.5. Revenue in the form of revenue sharing will be derived through the ‘data quality score card’ and will be 
+proportionate to the volume of data provided by the contributing firm.
+• Trading venues and APAs will continue to charge for proprietary market data that they directly distribute ‘at source’. 
+o This would ensure no disruption to this revenue stream and will provide more flexibility for firms who prefer to 
+buy data directly from venues and APAs or that do not wish to buy a full consolidated tape.
+8.5  Data transformation, repackaging and distribution models
+Firms and/or vendors (including the CTP) will be permitted to purchase the (intraday, one week or full historical) raw 
+post-trade data at a reasonable price and for some, possibly a discounted price, in order to repackage/enrich the raw 
+data for client use or to sell as a value added service. Tiered pricing based on usage (or proportion of usage) will apply 
+(see section 8.5). The enriched data sets for example could be broken out by tenor, credit rate etc. ESMA will monitor 
+through oversight and supervision from January 2022.
+However, important to note that the raw data should be in usable form, meaning the data should be easily downloadable 
+and understood by all users. The raw data feed for market participants who only need the raw data content should 
+need no other data feeds.
+Data Publication: 
+Post-trade bond data is published in real-time, taking into account relevant MiFID II deferrals and;
+• Should be “made public” as soon as technically practicable and within 15 minutes from executions.
+• Publicly available to all market participants - at the same time, including retail participants.
+40
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+Tiered fees
+Differentiated fees, based on various usage types will apply such as: 
+1. Ad hoc or retail use [TBD]
+2. Market participant use [TBD]
+3. Redistributor of raw post-trade data for reselling or client [significant proportion] servicing provision use [TBD]
+4. Distributor for derived data for reselling or client [significant proportion] servicing provision use [TBD]
+Data provided to professionals should be in a standardised machine-readable format. Non- professional end-users 
+would require it in a variety of suitable formats including flat files to ensure that they will be able to access the data, 
+even if their own systems are not sophisticated.
+The Taskforce view is that ESMA should have oversight over the CTP contract and monitor for any breach of contract 
+e.g. data quality, access, usage, pricing etc. Industry participants (buy-side, sell-side, trading venues, data providers 
+and retail) should advise with market functioning expertise. 
+41
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+9. Scope of instruments to be reported
+The post-trade consolidated tape should aim to provide a comprehensive, detailed, accurate and meaningful view 
+of where, when and how all price forming trades occurred. Post-trade data must be of the highest quality if it is to be 
+useful for market participants. For example, aiding decision making.
+Under the current Article 65 of MiFID II and European Commission Delegated Regulation 2018/63, a non-equity CTP 
+is not required to consolidate 100% of all transactions for all non-equity instruments across all trading venues and 
+APAs. Instead, the current MiFID II rules envisage that there could be multiple non-equity CTPs, which may choose to 
+specialise in one or more asset classes. This would be on the provision that any such non-equity CTP must meet the 
+minimum coverage requirements to consolidate at least 80% of the total volume and transactions for each relevant 
+asset class published by all trading venues and APAs in the EU.
+Recital 3 of the European Commission Delegated Regulation states that the intention of this approach was to lead 
+CTPs to publish information that is of significance from a user perspective while avoiding the high costs stemming 
+from including all information published by all APAs and all trading venues. However, adopting this model going forward 
+could further exacerbate the existing fragmentation in the market as it could lead to different CTPs covering different 
+and potentially overlapping asset classes and fail to give a truly consolidated view of trading across the EU. 
+For this reason, the scope of the EU bond CT should aim to cover approximately 80% or better of all volumes of 
+bond transactions and across all trading venues and APAs. It is important to note, the total transaction coverage 
+may need to be phased in over time. For example, beginning with 65% of all transactions, moving to 70% and then 
+aiming for 80% or better. The phase-in staging will need to be monitored by ESMA and adjusted accordingly based 
+on consultation with CTP governance committee representatives, which should include industry representatives. 
+Important to note that again this report and its proposals relate solely to EU bonds and does not include derivative 
+instruments (the post-trade reporting of derivatives such as CDS and IRS would be a separate initiative). 
+9.1  Instrument reporting and level of information per/instrument to be reported
+Eligible instruments to be reported to the CT, would be determined by ToTV (traded on a trading venue) under MiFID II/R 
+guidelines, with the exception of instruments out of scope e.g. US treasury bill and other money market instruments.
+Raw post trade data covers: ISIN, date, time of execution, reported date & time [taking into account current publication 
+and deferral obligations under MiFID II], price, venue, cancel or correction. While the CT should have execution prices 
+(taking into account MiFID II’s deferrals) as a mandatory data item in the CT, additional data items such as yields, will 
+in all likelihood be required by market participants. Therefore, once there is a consolidated view of prices in the CT, 
+the CTP could then derive yields which are fundamental data points in the relative valuation of bonds and comparative 
+analysis of best execution. 
+9.2  European trading time zone post-trade ‘virtual’ consolidated tape 
+The CT will remain valuable data source after Brexit. The ICMA CT Taskforce preference is to encourage an industry 
+(virtual) ‘trading time zone-dependent’ consolidated tape. With this in mind, the Taskforce suggests the CTP should 
+not be prevented from offering a service that incorporates individual CT ‘modules’, comprising non-EEA and/or UK 
+bonds, using appropriate country flags [Swiss flag, UK flag etc] to create the ‘virtual’ European time zone bond 
+consolidated tape.
+The Taskforce would like to stipulate, even if a (virtual) ‘trading time zone-dependent’ CT was not feasible and the 
+CT only consolidated EU27 transactions (where firms had to separately ‘bolt on’ UK transactions as such), given the 
+fragmentation across the EU27, an EU27 CT would be greatly valuable to the market. 
+42
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+9.3  Timing of reporting
+The timing of reporting should be in line with the existing MiFID II/R post-trade transparency regime. However, 
+harmonisation of MiFID II deferral regimes (including aggregation and omission) across the EU should be considered 
+in order to avoid fragmentation (see diagram below) and ensure a level playing field for all EU market participants as 
+set out in ICMA’s position paper on MiFID II/R trade reporting deferral regimes of May 2017. 
+The ICMA Consolidated Tape Taskforce working with ICMA’s MiFID II Working Group (MWG) plans to provide feedback 
+on the MiFID II/R transparency requirements as part of a broader ESMA review of MiFIR transparency for bonds, due 
+14 June 2020.
+ 
+ 
+ 
+154 
+Table 39: General description of the supplementary deferral regime at the discretion of the CA (part II) 
+ 
+ 
+Article 10(1)(a)(i) of the draft RTS Article 10(1)(a)(ii) of the draft RTS Article 10(1)(b) of the draft RTS Article 10(1)(c) of the draft RTS
+(non-sovereign debt only)
+Article 10(1)(d) of the draft RTS 
+(sovereign debt only)
+Article 10(1)(b) and (d) of the 
+draft RTS applied consecutively 
+(sovereign debt only)
+Content All details except the quantity 
+using the flag "LMTF"
+Aggregated publication of at least 
+5 transactions using the flag 
+"DATF"
+All details except the quantity 
+using the flag "VOLO"
+Aggregated publication of 
+transactions executed over the 
+course of one calendar week 
+using the flag "FWAF"
+Aggregated publication of 
+transactions executed over the 
+course of one calendar week 
+using the flag "IDAF"
+All details except the quantity 
+using the flag "VOLW"
+Timing As close to real time as possible The next day before 09.00 am 
+local time As close to real time as possible The following Tuesday before 
+09.00 am local time 
+The following Tuesday before 
+09.00 am local time
+As close to real time as possible 
+and 
+Content All details of the transaction and 
+using the flag "FULF"
+All individual transactions with all 
+details using the flag "FULA"
+All details of the transaction and 
+using the flag "FULV"
+All individual transactions with all 
+details and using the flag "FULJ" -
+Aggregated publication of 
+transactions executed over the 
+course of one calendar week 
+using the flag "COAF"
+Timing
+Before 7pm local time on the 
+second day after initial 
+publication
+Before 7pm local time on the 
+second day after initial 
+publication
+Before 9am local time four weeks 
+after initial publication
+Before 9am local time four weeks 
+after initial publication -
+The following Tuesday before 
+09.00 am CET  four weeks after 
+the initial publication
+Initial 
+publication
+Second 
+publication
+43
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+10. Consolidated tape – data quality & standards
+10.1 Data quality 
+Clear concise and unambiguous instructions for individual MiFID II reporting fields are needed. Reference codes that 
+are used also must be absolutely correct. Currently, data fields in MiFID II are open to ambiguous interpretation, leading 
+to in many instances, incorrect data downstream. For a consolidated tape to be useful, more concise instructions, 
+followed correctly by reporting parties, will need to be implemented. 
+Specific examples of post-trade reporting fields that go to APAs and how they impact the bond market follow:
+10.1.1  Misclassification of CFI codes
+Some bonds can have incorrect CFI (classification of financial instrument) codes, which completely change their 
+characteristics e.g. a bond that has an incorrect CFI code indicating it is an asset backed or money market instrument 
+instead of a bond. This results in trade reports receiving incorrect treatment when published due to conflicting 
+instrument classification upstream. 
+Although this is seen to be an “edge-case” impacting a small population of bonds However, it should be addressed..
+10.1.2  Notional vs quantity
+Instructions should be made clearer regarding populating the fields for ‘quantity’ and ‘notional’. Including, what 
+exact circumstances qualify a bond for an exception to the rule for ‘notional amount’. For example, it is understood 
+sovereign bonds and corporate bonds should have “notional amount” populated whereas, ETC’s and ETN’s should 
+have “quantity”. Is the notional amount the “face-value” of the trade executed or monetary value. See Annex 12.6 for 
+more information.
+10.1.3  Flags and details for the purpose of post-trade transparency
+While it is evident that clear concise and unambiguous instructions for individual MiFID II reporting fields are needed, 
+reporting parties must also follow those instructions. In table 3, Annex II of RTS 2 (https://ec.europa.eu/finance/
+securities/docs/isd/mifid/rts/160714-rts-2-annex_en.pdf) example (see below), it is understood some reporting 
+parties populate ‘PERC’ instead of ‘MONE’ in the “price notation” field, causing inaccuracies in published data. See 
+example of RTS 2 in table below with correct instructions: 
+Price notation For all financial 
+instruments
+Indication as to whether 
+the price is expressed 
+in monetary value, in 
+percentage or in yield
+RM, MTF, OTF, 
+APA, CTP
+‘MONE’ – Monetary value
+‘PERC’ – Per-centage
+‘YIEL’ – Yield
+‘BAPO’ – Basis points
+• Flags are required in order to identify whether a particular trade was executed as part of a portfolio trade or 
+ETF. These trades involve a basket of securities of unique issuers for a single agreed price for the entire basket 
+executed. Pricing per ISIN is sometimes not in context, as it is part of the overall basket. Hence, the net proceeds 
+are not indicative of the pricing of the individual constituents.
+• Some reporting parties populate equity flags in reports for bonds. For example, ‘TNCP’ (transactions not contributing 
+to price discovery) an equity only flag, can at times be found in a bond only reporting field.
+• Furthermore, there appears to be a non-standard practice for cancel/amend flags. Resulting in inaccurate reporting 
+on trades and volumes.
+• Incorrect use of supplemental deferral flags. Sometimes the full details, post deferral, are not provided with the 
+relevant deferral flags.
+44
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+10.1.4  Publication of ‘Zero’ price trades. 
+• APAs in some instances are publishing trades with zero prices. These zero trades are bypassing current validation 
+process. E.g. OTR US treasuries. 
+10.1.5  Incorrect publication timestamp compared with time of execution
+• Trades published with much earlier timestamps 
+• Trades published with execution times at weekends
+• In certain circumstances, trades for bonds have not been reported after an extended deferral period (non-sovereign 
+bonds)
+10.1.6  Aggregated trades
+• Some aggregated trades are published as a single execution, with one single timestamp, not reflecting the aggregation.
+10.2  Reporting methodology & format
+Reporting format from APAs and trading venues to Consolidated Tape Provider:
+• CTP makes available a standard API across all APAs and TVs (with standardised unambiguous formatting with a 
+connectivity protocol standard such as FIX). All APAs and trading venues code to the CTP provided API.
+Trading venues, SIs and OTC to public.
+• FIX, CSV
+10.3  Data standards
+The primary standard used in bond trading (and indeed in other asset classes) is FIX. The recommendation from 
+industry participants is to use FIX to streamline and standardise post-trade practices in relation to consolidated tape 
+activities.
+FIX Background:
+The Financial Information eXchange (FIX ®) Protocol effort was started in 1992 by a group of institutions and brokers 
+interested in streamlining their trading processes and FIX has allowed firms globally to benefit from efficiencies derived 
+through the electronic communication of the full trading lifecycle.
+FIX is an open message standard controlled by no single entity, that can be structured to match the business 
+requirements of each firm and their trading partners (including pre-trade, trade and post trade partners). It covers all 
+data elements that are required to be shared between firms to ensure a robust trading process that is understood 
+across the industry and it sits within a framework that provides structure (through message definitions), but allows 
+flexibility for bi-lateral bespoke process to exist (for example the creation of a user defined data elements).
+ Benefits of FIX:
+• Provides institutions, brokers, and other market participants a means of reducing risk by through the automation of 
+the trading process and provides clear and unambiguous implementation guidance
+• Provides an open standard that leverages the development effort so that industry participants can efficiently create 
+links with a wide range of counterparties.
+• Provides ready access to the industry by vendors, with the incumbent reduction in marketing effort and increase 
+in potential client base.
+Openness has been the key to FIX’s success. For that reason, FIX has remained vendor and infrastructure neutral and 
+is used by a variety of firms and vendors. It has become the inter-firm messaging protocol of choice. 
+FIX has grown from its original buy-side to sell-side roots and is now used by markets (exchanges, electronic crossing 
+networks, etc) and other market participants. In addition to fixed income, supports four other asset classes - equities, 
+derivatives, foreign exchange and collective investment schemes.
+45
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+11. IOSCO recommendations on regulatory reporting and 
+public transparency in corporate bond markets
+For the establishment of a Consolidated Post-Trade Tape for bonds in Europe, the 2018 IOSCO Recommendations 
+on Regulatory Reporting and Public Transparency in Secondary Corporate Bond Markets 14 should be taken into 
+considerations, notably:
+11.1  Recommendation 2
+To facilitate cross-border understanding amongst regulators of corporate bond markets, regulatory authorities should 
+make a clear framework and underlying methodology of regulatory reporting and transparency available.
+11.2  Recommendation 6 
+Regulatory authorities should implement post-trade transparency requirements for secondary market trading in 
+corporate bonds. Taking into consideration the specifics of the market these requirements should be calibrated in a 
+way that a high level of post-trade transparency is achieved. They should also take into account the potential impact 
+that post-trade transparency may have on market liquidity. Post-trade transparency requirements should include at a 
+minimum, the disclosure of information about the identification of the bond, the price, the volume, the buy/sell indicator 
+and the timing of execution.
+11.3  Recommendation 7 
+Where there is transparency of post-trade data relating to corporate bonds, regulatory authorities should take steps to 
+facilitate the consolidation of that data.
+14 See https://www.iosco.org/library/pubdocs/pdf/IOSCOPD597.pdf
+46
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+12. Annex
+12.1  Data Quality Scorecard
+• Due to Coronavirus, ICMA’s CT Taskforce resources have dispersed and are currently unavailable to provide the 
+scorecard’s granular detail. Once the current situation normalises the annex will be updated with the data quality 
+scorecard outline.
+12.2  No mandatory trading protocols
+https://www.cftc.gov/sites/default/files/2018-04/oce_chairman_swapregversion2whitepaper_042618.pdf   
+(page 47, 26 April 2020)
+• Focus on trading protocols in the US Swap markets
+• Swaps Markets in Transition: Understanding the CFTC’s Proposed Rule on SEFs, 20 December 2018
+On November 30, 2018, the Commodity Futures Trading Commission (“CFTC”) proposed extensive amendments to 
+the rules applicable to trading swaps on a swap execution facility (“SEF”).15 Many of these amendments are in line with 
+recommendations contained in CFTC Chairman J. Christopher Giancarlo’s white paper on swaps regulation reform, 
+which he published in March 201816, as well as other comments of market participants.
+If adopted, the SEF Proposal would transform the manner in which market participants transact on SEFs and the 
+regulatory requirements applicable to SEFs. According to the CFTC, the SEF Proposal is designed to tailor the 
+regulatory requirements for SEF trading to the swap markets. […]
+Notably, the amendments would eliminate current requirements for the use of order book and/or request for quote 
+(RFQ) methodologies for certain categories of swaps that are subject to the mandatory trading requirement under the 
+Commodity Exchange Act (the CEA), and instead allow execution of swaps through a SEF or DCM using a wide range 
+of execution methodologies. 
+• As described in the SEF Proposal, when the CFTC first adopted its regulatory framework for SEFs in 2013, it 
+relied too heavily upon its experience regulating the futures markets where contracts are standardized. 17 The 
+standardization of futures contracts allowed futures trading to occur via bids and offers executed on a structured 
+order book (or through limited exceptions). 
+• With this experience in mind, in the 2013 SEF Rule, the CFTC transplanted the concept of order book trading onto 
+the market for swaps traded on a SEF.
+• However, through its implementation efforts, the CFTC has found that because swaps are more customized 
+relative to futures, the use of an order book to trade swaps on a SEF is not suitable in all instances. 
+• In an attempt to increase trading activity on SEFs, the SEF Proposal moves away from the futures model of an 
+order book, and toward a more flexible approach that provides SEFs with significantly more discretion regarding 
+the methods of execution for swaps traded on their respective platforms. 
+Sources: 
+• Willkie Farr & Gallagher LLP , Swaps Markets in Transition: Understanding the CFTC’s Proposed Rule on SEFs, 20 
+December 2018, 
+ https://www.willkie.com/~/media/Files/Publications/2018/12/Swaps_Markets_in_Transition_Understanding_the_
+CFTCs_Proposed_Rule_on_SEFs.pdf 
+• Shearman & Sterling, CFTC Considers Revamp of SEF Regulatory Framework, 05 February 2019, 
+ https://www.shearman.com/perspectives/2019/02/cftc-revamp-of-sef-regulatory-framework 
+15 See Swap Execution Facilities and Trade Execution Requirements, 83 Fed. Reg. 61946, 30 November 2018 (“SEF Proposal”). 
+16 See CFTC, “CFTC Chairman Unveils Reg Reform 2.0 Agenda”, 26 April 2018, https://www.cftc.gov/PressRoom/PressReleases/7719-18
+17 See also Core Principles and Other Requirements for Swap Execution Facilities, 78 Fed. Reg. 33476, 04 June 2013 (“2013 SEF Rule”).
+47
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+12.3  US TRACE – Factsheet (how TRACE operates today)
+12.3.1  Background – creation of TRACE
+The Trade Reporting and Compliance Engine (“TRACE”) is the FINRA-developed vehicle that facilitates the mandatory 
+reporting of over-the-counter secondary market transactions in eligible fixed income securities.18 It is the successor to 
+the Fixed Income Pricing System (“FIPS”) developed by the NASD in the early 1990s.
+In March 1990 the United States Senate Committee on Banking, Housing, and Urban Affairs convened hearings 
+into “Lessons to be Learned from the Drexel Failure [bankruptcy of Drexel Burnham Lambert in February 1990] and 
+Possible Regulatory Changes”. In those hearings, senators were concerned about the lack of transparency in the high 
+yield secondary market and suggested developing a quotation system for those securities. In his response Chairman 
+Breeden indicated that the SEC shared this concern and in May 1990 had requested the NASD consider whether any 
+existing quotation systems could be adapted to high yield securities. By March 1991, NASD had largely completed 
+the development of the Fixed Income Prototype System, later renamed the Fixed Income Pricing System (“FIPS”). 
+Daily high and low prices of 35 actively traded high yield bonds became public information in April 1994, by June 
+2001 there were 3,000 issues in the FIPS database. All NASD-regulated broker dealers were required to report trades 
+in the 50 most actively traded high yield securities within 5 minutes of the trade and trades in all other issues had to 
+be reported by the end of the day. Quotes and pricing for the top 50 or “FIPS 50” bonds were then made available 
+to the public.
+In 1998, SEC Chairman Arthur Levitt sought to expand transparency in fixed income markets saying:
+“The sad truth is that investors in the corporate bond market do not enjoy the same access to information as a car 
+buyer or a homebuyer or, dare I say, a fruit buyer. And that’s unacceptable. Guesswork can never be a substitute for 
+readily available price data.”19 
+To address this issue, he directed the NASD to “adopt rules requiring dealers to report all transactions in U.S. corporate 
+bonds and preferred stocks to the NASD and to develop systems to receive and redistribute transaction prices on 
+an immediate basis”. As a result, on January 23, 2001 the Securities and Exchange Commission approved rules 
+proposed by the NASD requiring NASD members to report secondary market transactions in eligible securities and 
+rescinding the FIPS reporting requirements.
+To promote transparency without negatively impacting liquidity, FINRA adopted a measured, phased approach to 
+corporate bond trade dissemination that began in 2002 with the most actively traded and liquid bonds. 
+Public dissemination of transaction information was implemented in three phases. This allowed FINRA to study the 
+impact of transparency on liquidity in the U.S. corporate bond market.
+In a parallel effort, the time in which to report a transaction was reduced gradually from 75 minutes on July 1, 2002, 
+to 45 minutes on October 1, 2003, to 30 minutes on October 1, 2004, and finally to 15 minutes on July 1, 2005, to 
+allow for more timely data to be disseminated to the public with minimal impact to reporting firms.
+During Phase I, effective on July 1, 2002, public transaction information was disseminated immediately upon receipt 
+for the larger and generally higher credit quality issues: (1) Investment-Grade debt securities having an initial issue of 
+$1 billion or greater; and (2) 50 Non-Investment-Grade (High-Yield) securities disseminated under FIPS2 that were 
+transferred to TRACE. Under these criteria, FINRA disseminated information on approximately 520 securities by the 
+end of 2002.
+Phase II, fully effective on April 14, 2003, expanded public dissemination to include transactions in smaller Investment-
+Grade issues: (1) all Investment Grade TRACE-eligible securities of at least $100 million par value (original issue size) 
+or greater rated A3/A- or higher; and (2) a group of 120 Investment-Grade TRACE-eligible securities rated Baa/BBB 
+and 50 Non-Investment-Grade bonds. As Phase II was implemented, the number of disseminated bonds increased 
+to approximately 4,650 bonds.
+In Phase III, fully effective on February 7, 2005, approximately 99 percent of all public transactions and 95 percent of 
+par value in the TRACE-eligible securities market were disseminated immediately upon receipt by the TRACE System. 
+18 See https://www.finra.org/filing-reporting/trace
+19 The Importance of Transparency In America’s Debt Market”, Speech by SEC Chairman Arthur Levitt. 
+ https://www.sec.gov/news/speech/speecharchive/1998/spch218.htm
+48
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+However, transactions over $1 million in certain infrequently traded Non-Investment-Grade securities were subject to 
+dissemination delays, as were certain transactions immediately following the offering of TRACE-eligible securities rated 
+BBB or below.
+Since January 9, 2006, all transactions in public TRACE-eligible securities have been disseminated immediately upon 
+receipt. Effective March 1, 2010, TRACE began requiring the reporting of transactions in U.S. Agency debentures, 
+as well as primary market trades transactions in TRACE-eligible securities. Primary market transactions are subject to 
+dissemination, with the exception of list or fixed offering price and takedown transactions.
+Effective May 16, 2011, TRACE began requiring the reporting of transactions in asset-backed and mortgage-backed 
+securities. Since November 2012, TBA transactions are disseminated to the public, and since July 22, 2013, MBS 
+transactions also became subject to dissemination. Effective June 30, 2014, TRACE began disseminating transactions 
+executed pursuant to SEC Rule 144A.
+12.3.2  Governance
+TRACE is managed by the Financial Industry Regulatory Authority, Inc. (“FINRA”), a successor to the National 
+Association of Securities Dealers and the member regulation and enforcement operations of the New York Stock 
+Exchange. FINRA is a private, non-governmental organisation and acts as a self-regulatory organisation (SRO). A self-
+regulatory organisation (SRO) is a non-governmental organisation which has the power to create and enforce stand-
+alone industry and professional regulations and standards. In the case of a financial SROs, such as a stock exchange 
+or FINRA, the priority is to protect the investor by establishing rules, regulations, and set standards of procedures 
+which promote ethics, equality, and professionalism.
+The Securities and Exchange Commission is the government agency which acts as the ultimate regulator of the 
+securities industry, including FINRA.
+The NASD was founded in 1939 and was registered with the SEC in response to the 1938 Maloney Act amendments 
+to the Securities Exchange Act of 1934, which allowed it to supervise the conduct of its members subject to the 
+oversight of the SEC. 
+In July 2007, the SEC approved the formation of a new SRO to be a successor to NASD. The NASD and the member 
+regulation, enforcement and arbitration functions of the New York Stock Exchange were then consolidated into the 
+Financial Industry Regulatory Authority (FINRA).
+FINRA regulates OTC trading in equities, corporate bonds, securities futures, and options. Firms dealing in securities 
+that are not regulated by another SRO (including equity exchanges), such as by the Municipal Securities Rulemaking 
+Board (MSRB), are required to be member firms of FINRA.
+12.3.3  Where to report
+FINRA members report trades directly to FINRA through the TRAQS system (web-interface): www.finratraqs.org
+Trades may also be reported via FIX, CTCI (until Feb. 2020).
+12.3.4  Obligation to report
+The FINRA member reports in transactions in secondary market in eligible securities between a FINRA member and a 
+customer or a non-FINRA member. 
+For transactions between two FINRA members, both FINRA members will be obliged to report the transaction. Asset 
+managers are not required to report.
+“Dealers” are required to register with FINRA as members. Not all firms who trade securities are registered with FINRA. 
+Some market participants are not FINRA registered. For example, many principal trading firms are not registered 
+because they do not meet the definition of “dealer,” as set forth in the Exchange Act and interpreted by the SEC. 
+Because they are not dealers, they are not required to register with the SEC, become members of FINRA, or report 
+their activity to TRACE. 
+49
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+12.3.5  Scope - Eligible Security Types Include:
+“Eligible” TRACE bonds are any bonds that are US dollar denominated. TRACE members determine which bonds 
+qualify as ‘eligible’. US denominated bonds that are traded outside the US by TRACE members, will still have to report 
+to TRACE. Sovereign and private issuers (domestic or foreign) are not considered ‘eligible’ for TRACE reporting.
+FINRA currently exploring foreign sovereign US denominated bonds as potentially eligible for TRACE reporting. FINRA 
+soliciting comment from members. 
+If this moves forward, FINRA would file a rule change with SEC. This would be followed with more opportunity for 
+FINRA members to comment and FINRA to analyse. Once comment period concludes and the concept is accepted, 
+foreign sovereign US denominated bonds eligible for TRACE reporting, could then become a rule.
+(a) Credit & Agency:
+• Investment-grade debt, including Rule 144A
+• High-yield and unrated debt of U.S. companies and foreign private companies, including PORTAL-designated debt
+• Medium-term notes
+• Convertible debt and other equity-linked corporate debt not listed on a national securities exchange
+• Capital trust securities
+• Equipment trust securities
+• Floating rate notes
+• Global bonds issued by U.S. companies and foreign private companies
+• Risk-linked debt securities (e.g. “catastrophe bonds”)
+• Effective March 1, 2010, U.S. Dollar denominated debt securities issued by an Agency or issued or guaranteed 
+by a Government Sponsored Enterprise (i.e. FNMA, FHLMC)
+To summarise: US dollar denominated debt issued by a private company and traded through a FINRA member is 
+subject to reporting.
+(b) Securitised:
+• Asset Backed Securities (ABS)
+• Asset Backed Securities that are not Disseminated (ABSX)
+• Mortgage Backed Securities (MBS)
+• Collateralised Mortgage Obligations (CMO)
+• To Be Announced (TBA)
+(c) Treasuries/Sovereigns:
+• On October 2016, the Securities and Exchange Commission (“SEC”) approved proposed rules requiring FINRA 
+members to report certain transactions in Treasury Securities. The requirement applies to all Treasuries except 
+Savings Bonds. Transactions in Treasury Securities are not subject to public dissemination. Excludes auctions, 
+repo and non-marketable securities (savings bonds).
+• In July 2019, FINRA published a proposal to expand TRACE reporting requirements to collect information on trades 
+in foreign sovereign debt securities that are U.S dollar denominated. If adopted, trades in U.S. dollar-denominated 
+foreign sovereign debt securities would be subject to same-day reporting and would not be disseminated publicly.
+12.3.6  Level of information Reported:
+Each TRACE trade report shall include the following:
+• CUSIP number or if a CUSIP number is not available at the Time of Execution, a similar numeric identifier (e.g., a 
+mortgage pool number) or a FINRA symbol;
+• Size (volume) of the transaction:
+o For a transaction in a Securitised Product traded TBA (“TBA transaction”), report the original face value of such 
+security.
+50
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+o For a transaction, other than a TBA transaction, in a Securitised Product that is subject to amortisation, report 
+the original face value of such security and, if a member uses a Factor to execute the transaction that is not the 
+most current Factor publicly available at the Time of Execution, report the Factor used.
+o For a transaction in a Securitised Product that does not amortise, report the total par value, principal value or 
+original face value of such security.
+o For a transaction, other than a TBA transaction, in a Securitised Product that is executed in an agency capacity 
+and subject to a commission charge, report the original face value of such security and the Factor used to 
+execute the transaction.
+• Price of the transaction (or the elements necessary to calculate price, which are contract amount and accrued 
+interest) or, for When-Issued Transactions in U.S. Treasury Securities executed before the Auction for the security, 
+the yield as required by paragraph (d)(1) of this Rule; 
+o For When-Issued Transactions in U.S. Treasury Securities executed before the Auction for the security and 
+conducted on a principal basis, report the yield, which must include the mark-up or mark-down, of the security 
+in lieu of price.
+• A symbol indicating whether the transaction is a buy or a sell;
+• Date of Trade Execution (“as/of” trades only);
+• Contra-party’s identifier (MPID, customer, or a non-member affiliate, as applicable);
+• Capacity — Principal or Agent (with riskless principal reported as principal);
+• Time of Execution
+• Reporting side executing broker as “give-up” (if any)
+• Contra side Introducing Broker in case of “give-up” trade
+• The commission (total dollar amount), if applicable
+• Date of settlement
+12.3.7  Timing of reporting by FINRA members:
+(a) Credit
+A FINRA member must report a transaction in a TRACE-eligible security as soon as practicable but no later than within 
+15 minutes of the Time of Execution.
+Trades executed prior to 8AM EST must be reported on the same day but no later than 15 minutes after TRACE 
+opens.
+Trades executed less than 15 minutes before TRACE closes (6:30 PM EST) must be reported no later than 15 minutes 
+after the TRACE system opens on T+1 and if reported on T+1 must be designated “as/of” and include the date and 
+time of the transaction. 
+(b) Adjust reporting times by the following for other asset classes20:
+Credit: 15 minutes
+Agencies: 15 minutes
+TBAs: 15 minutes
+Spec-Pools: 60 minutes
+CMOS: 60 minutes
+CDOs and CMBS: Same day
+Treasuries: Same day
+Note: the definition of “Time of Execution” is the time when the Parties to a Transaction agree to all of the terms of the 
+transaction that are sufficient to calculate the dollar price of the trade (additional details for when-issued trades)
+20 https://www.finra.org/filing-reporting/trade-reporting-and-compliance-engine-trace/trace-reporting-timeframes
+51
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+12.3.8  How bond trades are reported
+Trades are reported via FIX, CTCI (Computer to Computer Interface) or via TRAQS (Web interface).
+12.3.9  Distribution & Consumption model - timing
+See Distribution and Consumption Model section for form of distribution.
+Segment Trade Reporting Current Status
+Corporate Debt July 1, 2002 Reportable within 15 minutes, Real-time 
+dissemination of all securities. 
+Agency Debentures March 1, 2010 Reportable within 15 minutes, Real-time 
+dissemination of all securities. 
+To-Be-Announced May 16, 2011 GD reportable in 15 minutes.  
+NGD reportable in 1 hour.
+Disseminated as of November 12, 2012
+Specified Pools Reportable within 1 hour of execution.
+Dissemination based on pool 
+characteristics as of July 22, 2013. 
+Asset Backed 
+Securities
+Reportable within 15 minutes of 
+execution
+Dissemination as of June 1, 2015
+CDO & CMBS Reportable on T (as of 11/18/2011). 
+No Dissemination.
+CMO/REMIC/RMBS Reportable on T (as of 11/18/2011). 
+Dissemination implemented on March 
+20, 2017. Trades under $1 million 
+disseminated real-time. Information on 
+trades over $1 million provided in weekly 
+and monthly reports.
+US Treasury July 10, 2017 Reportable on T+0. No Dissemination
+12.3.10  Trade Dissemination Volume Caps:
+As part of the initial TRACE implementation in July 2002, FINRA established dissemination protocols that included 
+certain caps to protect market liquidity. Disseminated TRACE transaction data includes price, time of execution, size 
+and other information. The size disseminated is the total par value of the trade, subject to the limits of the applicable 
+dissemination cap 
+• For investment grade TRACE-eligible securities and agency debt securities, the current dissemination cap is $5 
+million, and a transaction in excess of $5 million is disseminated as “$5MM+.’’
+• For non-investment grade TRACE-eligible securities, the current dissemination cap is $1 million, and a transaction 
+in excess of $1 million is disseminated as “$1MM+.”
+Effective October 2, 2017, FINRA is reducing the delay period applicable to Historic TRACE Data for corporate bonds 
+and agency debt, including Rule 144A transactions in such securities, from 18 months to 6 months. The text of the 
+amendments is available in the online FINRA Manual. 17 Jul 2017.
+Trades volumes are then disclosed after 6 months.
+FINRA recently announced additional caps as part of the dissemination of transaction information on agency pass-
+through mortgage-backed securities traded to be announced (TBA transactions). 
+• For TBA transactions eligible “for good delivery,” the dissemination cap is $25 million, and a transaction in excess 
+of $25 million will be disseminated as “$25MM+.” 
+52
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+• For TBA transactions “not for good delivery,” Agency Pass-Through MBS traded in Specified Pools, SBA-backed 
+ABS traded in TBA and Specified Pool transactions, the dissemination cap is $10 million, and a transaction in 
+excess of $10 million will be disseminated as “$10MM+.’’21
+In another recent development, the SEC’s transparency subcommittee of the fixed income market structure advisory 
+committee (FIMSAC), formed to consider the impacts of transparency on corporate and municipal bond markets, 
+developed the concept for a pilot’’22 to analyse the current dissemination protocols for block trades in corporate bonds 
+and whether there should be an alternative approach, for example 48-hour deferred trade reporting rather than the 
+immediate reporting with masked volumes which is currently in place. The idea is to test if a 48-hour deferral of large 
+block trades would spur liquidity in block-side trades of corporate bonds. 
+The Subcommittee identified the potential impact of current dissemination protocols for block trades in corporate 
+bonds. Accordingly, the Subcommittee developed the concept for a pilot to study an alternative approach. The 
+alternative approach would raise the dissemination caps (for investment grade corporate bonds from: “5MM+” to 
+“10MM+”, for non-investment grade corporate bonds from: “1MM+”to “5MM+”and modify the dissemination time 
+frames by 48 hours after execution time (or later depending on the time of receipt of the trade report i.e., trades 
+reported after hours will be disseminated more than 48 hours after execution time) for trades above the caps.
+In April 2019, FINRA released a request for comment on the design of the pilot. FINRA received more than 30 
+comment letters in response. At the February 2020 FIMSAC meeting the Chairman noted that FINRA continues to 
+evaluate the comments received. If there is a decision to move forward with the pilot, the design would be open to 
+further public comment prior to implementation. Any FINRA decision to move forward with a 48hr deferral, is pending 
+consultation with the Securities and Exchange Commission.
+12.3.11  Access to data (market participants, retail, academics etc.)
+FINRA requires all REAL TIME feed recipients to execute a Distributor License Agreement. The agreement requires 
+feed recipients to report the number of REAL TIME display users, and if external distribution, the number of displays 
+per firm. Distributors are not permitted to re-distribute a REAL TIME feed without first confirming with FINRA that the 
+recipient has entered into a Distributor Agreement.
+12.3.12  Ownership of data
+Members report the post-trade data to FINRA. FINRA then owns the data. FINRA then monetises the data through 
+distribution and consumption fees.
+12.3.13  Distribution & Consumption model – pricing
+Data is distributed through a broadcast feed from FINRA to authorised resellers. The broadcast feed is in XML format. 
+FINRA decides the specification for the proprietary field names and values (very clear cut).
+Data fees23 
+(a) Authorised Re-sellers
+Current Data
+• $60/month per display application per Data Set of Real-Time TRACE transaction data, or
+• a flat fee of $7,500/month per Data Set of Real-Time TRACE transaction data, entitling Professionals to make 
+unlimited internal use of such Data Set(s) through any number of display applications.
+• Vendor real-time data feed: $1,500 per month for continuous receipt of TRACE transaction data
+o Can be discounted to $400 /month for qualifying tax-exempt firms
+• Vendor daily snap-shot feed: $250 per month for end of day receipt of data
+Historical data:
+• One-time set-up fee of $2,000, may be discounted to $1,000 for tax-exempt firms
+21 https://www.sec.gov/rules/sro/finra/2013/34-70009-ex2.pdf
+22 https://www.sec.gov/spotlight/fixed-income-advisory-committee/fimsac-block-trade-recommendation.pdf
+23 https://www.finra.org/rules-guidance/rulebooks/finra-rules/7730
+53
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+• $2,000/calendar year per Data Set for receipt of Historic TRACE Data, except for qualifying Tax-Exempt 
+Organisations. The data is enabled for internal use and internal and/or external display application. Bulk re-
+distribution of data is not permitted.
+o Re-distribution fee: Charge of $1/CUSIP per calendar year within each dataset per recipient of the data with a 
+maximum fee of $1,000 per calendar year per recipient
+(b) End-Users
+• Fee imposed by authorised re-distributor
+• Real-Time data fee pass-through payment to FINRA of $60 per user/month for real-time TRACE access or a flat 
+fee of $7,500 for a firm-wide license
+• Non-real time data charge: None
+(c) Academic Access
+• $500 set-up fee
+• $500/calendar year for receipt of Academic Corporate Bond TRACE Data. Redistribution of data is not permitted.
+(d) TRACE Security Activity Report
+• $750 per month, $250 per month for qualify institutions
+(e) End-of-day TRACE Transaction File
+• $750 per month for each data set
+• $250 per month for qualifying institutions
+• Free for real-time data feed subscribe 
+12.4 TRACE Observations of impact on market participants 
+Market liquidity has changed significantly over the time in which TRACE has been phased-in, due to a confluence of 
+factors, including: ongoing electronification of secondary market trading, changes in market participants’ behaviour, 
+monetary policy, and regulatory change (both prudential and markets regulations). Below are anecdotal ICMA member 
+comments and observations of TRACE impacts on buy-side, sell-side, trading venue and finally data provider market 
+participants. Some of the comments within these sections may contradict other member’s comments in the same 
+section. 
+12.4.1  Buy-side
+Pros
+• The impact of TRACE on the market was largely driven by the actual public dissemination of transaction data, 
+reporting all trades within 15 minutes in sizes up to $5m in IG corps and $1m in non-IG corps. The transparency 
+caused traders to widen spreads and reduce the size they would price, according to one buy-side firm.
+o 20 years on, the market has adapted, wider spreads are the norm. Traders take into consideration the impact 
+publishing the price on TRACE will have on their resultant position post-execution. This is also factored into the 
+risk price available to the client.
+• The fact that TRACE immediately discloses the occurrence of all trades, including blocks (but with capped notionals 
+to reduce information leakage), directly contributes to the benefits of TRACE. This comprehensive coverage of 
+market trading activity facilitates more accurate assessments of execution quality, a clear understanding of market 
+dynamics, and levelling of the playing field, promoting competition. 
+o The buy-side commented further; some academic research found that TRACE has reduced transaction 
+costs for block trades, citing the ‘Stacey Jacobsen, Southern Methodist University and Kumar Venkataraman, 
+Southern Methodist University - April 30, 2018.’ study. 
+• More accurate end of day pricing used to calculate Net Asset Valuation (NAV) for mutual funds and ETFs. Particularly 
+important because retail investors enter and exit these products at NAV.
+• More pricing data facilitates measuring bond liquidity and the liquidity risk of mutual funds and ETFs. This gives retail 
+holders greater understanding of the liquidity risks implicit in these products.
+54
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+• Greater ability to check execution against prevailing market prices and keep trading costs low (this is supported 
+by the academic literature).
+• Increases competition among liquidity providers, lowering the barrier to entry for new market makers while also 
+providing market context around bids/offers
+• TRACE is an important input into both sell-side pricing algorithm and automated execution processes on the buy-
+side. As such it is a catalyst for more electronic trading.
+• TRACE is consistent, clear where the data is coming from, readily available to all and there is a decent ability to 
+provide input from market participants int the trade process.
+• Improved transparency of prices
+• Reduced transactions costs
+• Ability to price curves, relative value ETF baskets because of high confidence in pricing quality and availability.
+Cons
+• Potentially reduces the ability to trade larger size e.g. block. 
+• Reported prices may be stale
+o Late reporting e.g. 3pm may mean a price is printed that is from earlier in the day e.g. 10am and is not 
+relevant to where the market actually is at present time. However, important to consider the nuances around 
+the reporting as some market participants can become ‘married’ to the TRACE print seeing that as the correct 
+price. 
+o The Dealer (sell-side) may work an entire indication of interest (or request for quote), fill a part of it initially, but will 
+not book the trade until the end of the day when the total indication or part thereof, has been completed. They 
+will book and report the trade at an average price. This can result in prices appearing stale. 
+o Furthermore, Dealers (sell-sides) face a penalty for late bookings or rebooking of trades, so sell sides can 
+become sensitive to TRACE violations. E.g. Clients and dealers agree to work the order over the day and book 
+the executed trades at the end of the day. But Dealers incur penalties from TRACE when executing this way, 
+so at times can be reluctant.
+• Trades executed in different jurisdictions are not reported (e.g. EMEA) so market practitioners can’t always be 
+sure they have the total transparency picture (A further help to market participants would be to have some way of 
+consolidating an EU/US view as an add on service to TRACE/future EU CTP for a global picture).
+12.4.2  Sell-side
+Pros
+• TRACE has sensible rules for the intraday price and volume with block size delay/cap at a specific threshold.
+• TRACE is operated by FINRA which is a non-profit Self-Regulatory Organisation, operated by a Board of Governors 
+with broad representation from across the industry and public. As such, TRACE is operated on a non-commercial 
+and impartial basis at reasonable cost to providers and users of the data.
+• Measured, phased-in approach to the introduction of TRACE: 
+o The ultimate aim of TRACE was to increase transparency and at the same time optimise liquidity. To ensure 
+liquidity was not negatively affected, a phased approach was adopted, beginning with the dissemination of 
+the most actively traded and liquid bonds. In 2003, smaller investment grade issues were phased in and later, 
+in 2005 this was extended to non-investment grade corporate bonds, delaying dissemination for certain non-
+Investment Grade trades. The creation and rollout of a consolidated tape for fixed income instruments in the 
+U.S. was gradual and phased in to allow for the adjustment in additional transparency. Valued by users.
+Cons
+• Certain aspects of TRACE reporting require manual input by members, including setting up new bonds and 
+making amendments. This is inefficient and creates the risk of human error. The platform would benefit from use of 
+modern API technologies for submission.
+Impact on block trades 
+• Real-time TRACE reporting has contributed to a decline in block size liquidity.
+• Being able to trade larger blocks is crucial for both buy-side and sell-side market participants. Where buy-side 
+55
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+counterparties of FINRA members have large positions to liquidate or purchase, trading larger blocks allows 
+these counterparties to manage their liquidity needs in a cost-effective and efficient manner. With market impact 
+concerns in mind, if a sell-side firm looks to break a large trade into smaller trades, trading costs can increase in 
+line with operational risk. 
+• The existing price transparency regime, with near-immediate dissemination of trades, does not facilitate block 
+liquidity as it could impact the ability of broker-dealers to offset the risk undertaken when transacting with their 
+clients. While volumes can be masked, trade prices are still disclosed, and it can be relatively easy for certain 
+market participants to identify when a block trade has taken place when coupled with valuations and market colour. 
+This market impact risk has the effect of further deterring broker-dealer willingness to take on more principal risk. 
+• Between 2007 and 2013, the average trade size for the 1,000 most active issuers has dropped almost 35% 
+between 2007 and 2013, and the portion of block trades greater than $5mm has declined over this same period 
+by almost 15%, according to one sell-side’s response (2 June 2018) to the SEC FIMSAC’s24 recommendation to 
+create a pilot program to study the implications on market liquidity of a change in the disclosure regime for block-
+size trades in corporate bonds.25  
+12.4.3  Trading venue
+Pros
+• Trading venues leverage the TRACE data primarily for client service offerings and also internal analysis.
+• For price discovery and pre-trade analytics
+• Provide Transaction Cost Analysis for execution on the platform
+• Normalise, Enrich and distribute data to clients
+• Leverage TRACE data with other inputs to construct a composite price
+• Input to several proprietary pricing and analytic modules
+• Reference prices for post-trade analysis
+• Enhanced displays of real-time and delayed TRACE reports
+Cons
+No obvious ‘cons’ to report.
+12.4.4  Data provider
+Pros
+• Continuous Evaluated Pricing for Best Execution
+• Fixed Income Best Execution Score Calculation
+• Fixed Income Best Execution Score Uses: 
+o Best Ex Scores rank the execution quality of a trade versus other comparable trades within a selected universe. 
+The Best Ex Score represents the percentage of trades that were executed at a less favourable level within the 
+selected universe compared to our Continuous Evaluated Price. The numerical value of the score represents 
+the percentage of all trades executed with larger price mark-ups than the selected trade. The higher the score, 
+the “better” the execution quality of the trade compared to the intra-day reference price.
+Cons
+No obvious ‘cons’ to report.
+24 A formal mechanism through which the SEC can receive advice and recommendations on fixed income market structure issues.
+25 See https://www.sec.gov/comments/265-30/26530-3974442-167144.pdf
+56
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+12.5  References - MiFID II/R Post-trade transparency: deferral regimes
+• ICMA, May 2017, MiFID II/R Post-trade transparency: trade reporting deferral regimes. An ICMA Position Paper,
+www.icmagroup.org/assets/documents/Regulatory/Secondary-markets/MiFID-II-Post-trade-transparency---
+ICMA-Position-Paper---trade-deferral-regimes-%284-May-2017---Final%29.pdf 
+• BNP Paribas, February 2018, Factsheet MiFID II - Focus on Post-Trade Transparency - Feb 2018, see Deferral 
+regimes for Non-Equity instruments on pp. 10-14,
+https://cib.bnpparibas.com/documents/factsheet-mifid-ii-focus-on-post-trade-transparency.pdf 
+• MiFIR Regulation (EU) No 600/2014, Article 11 - Authorisation of Deferred Publication
+MiFIR - ARTICLE 11 - AUTHORISATION OF DEFERRED PUBLICATION
+1.  Competent authorities shall be able to authorise market operators and investment firms operating a trading venue 
+to provide for deferred publication of the details of transactions based on the size or type of the transaction.
+In particular, the competent authorities may authorise the deferred publication in respect of transactions that:
+(a)  are large in scale compared with the normal market size for that bond, traded on a trading venue, or for that 
+class of bond traded on a trading venue; or
+(b)  are related to a bond, traded on a trading venue, or a class of bond traded on a trading venue for which there 
+is not a liquid market;
+(c)  are above a size specific to that bond, traded on a trading venue, or that class of bond traded on a trading 
+venue, which would expose liquidity providers to undue risk and takes into account whether the relevant market 
+participants are retail or wholesale investors.
+Market operators and investment firms operating a trading venue shall obtain the competent authority’s prior approval 
+of proposed arrangements for deferred trade-publication and shall clearly disclose those arrangements to market 
+participants and the public. ESMA shall monitor the application of those arrangements for deferred trade-publication 
+and shall submit an annual report to the European Commission on how they are used in practice.
+2.  The competent authority responsible for supervising one or more trading venues on which a class of bond is traded 
+may, where the liquidity of that class of financial instrument falls below the threshold determined in accordance with 
+the methodology as referred to in Article 9(5)(a), temporarily suspend the obligations referred to in Article 10. That 
+threshold shall be defined based on objective criteria specific to the market for the financial instrument concerned. 
+Such temporary suspension shall be published on the website of the relevant competent authority.
+The temporary suspension shall be valid for an initial period not exceeding three months from the date of its publication 
+on the website of the relevant competent authority. Such a suspension may be renewed for further periods not 
+exceeding three months at a time if the grounds for the temporary suspension continue to be applicable. Where the 
+temporary suspension is not renewed after that three-month period, it shall automatically lapse.
+Before suspending or renewing the temporary suspension of the obligations referred to in Article 10, the relevant 
+competent authority shall notify ESMA of its intention and provide an explanation. ESMA shall issue an opinion to the 
+competent authority as soon as practicable on whether in its view the suspension or the renewal of the temporary 
+suspension is justified in accordance with the first and second subparagraphs.
+3.  Competent authorities may, in conjunction with an authorisation of deferred publication:
+(a)  request the publication of limited details of a transaction or details of several transactions in an aggregated form, 
+or a combination thereof, during the time period of deferral;
+(b)  allow the omission of the publication of the volume of an individual transaction during an extended time period 
+of deferral;
+(c)  regarding non-equity instruments [bonds] that are not sovereign debt, allow the publication of several 
+transactions in an aggregated form during an extended time period of deferral;
+(d)  regarding sovereign debt instruments, allow the publication of several transactions in an aggregated form for an 
+indefinite period of time.
+In relation to sovereign debt instruments, points (b) and (d) may be used either separately or consecutively whereby 
+once the volume omission extended period lapses, the volumes could then be published in aggregated form.
+57
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+12.6  References - MiFID II/R Post-trade transparency: RTS 2, Annex II, Table 2 
+• List of details for the purpose of post-trade transparency: 
+https://ec.europa.eu/finance/securities/docs/isd/mifid/rts/160714-rts-2-annex_en.pdf
+58
+EU Consolidated Tape for Bond Markets Final report for the European Commission   April 2020
+ICMA Zurich
+T: +41 44 363 4222
+Dreikönigstrasse 8 
+CH-8002 Zurich
+ICMA London
+T: +44 20 7213 0310
+5th floor 
+110 Cannon Street 
+London EC4N 6EU
+ICMA Paris
+T: +33 1 70 17 64 72
+62 rue la Boétie 
+75008 Paris
+ICMA Hong Kong
+T: +852 2531 6592
+Unit 3603, Tower 2, 
+Lippo Centre 
+89 Queensway 
+Admiralty 
+Hong Kong
+icmagroup.org

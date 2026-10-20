@@ -1,0 +1,1757 @@
+ 
+ 
+ 
+ 
+ITI’s Comments on the Digital Simplification Package and Omnibus 
+ 
+ITI - the Information Technology Industry Council  - is the global trade association of the 
+technology industry, representing 80 of the world’s most innovative tech companies . Our 
+membership spans across the entire spectrum of technology, including global leaders on 
+software and AI, hardware, cloud, infrastructure, cybersecurity and semiconductors. 
+ 
+Introduction 
+ITI welcomes the Digital Omnibus proposals as important steps toward improving legal clarity 
+for innovators, reducing fragmentation, and supporting the competitiveness of businesses 
+operating in the EU. At a time when companies face an increasingly complex and overlapping 
+regulatory environment, these initiatives signal a recognition of the need to streamline the 
+EU digital acquis and to pr ovide greater certainty for innovation and investment across 
+Europe. We strongly support the overall direction of the p roposals and their objective of 
+addressing challenges arising from the cumulative impact of EU digital regulation. 
+A timely adoption of the proposals by co -legislators will be critical, especially for the AI 
+omnibus. In particular, the Commission’s proposal to delay the entry into application of parts 
+of the AI Act must be approved as soon as possible, since the releva nt requirements will 
+otherwise apply as of 2 August 2026. A smooth and timely  legislative process will send a 
+strong, positive signal to businesses that the EU is committed to supporting legal certainty 
+and innovation. 
+At the same time, greater ambition will be needed as the legislative process moves forward, 
+particularly in the areas of data and cybersecurity. While the Data and Cyber Omnibus 
+introduces positive elements, including the proposal for a Single Entry Point,  it does not yet 
+resolve a number of critical issues. These include concerns around overlapping compliance 
+and documentation requirements,  insufficiently consistent and harmonized oversight, a 
+proliferation of auditing obligations across cybersecurity fra meworks, persistent legal 
+uncertainty and complexity created by the Data Act and the Cyber Resilience Act (CRA). 
+Addressing these shortcomings will be essential to ensure that the package delivers 
+meaningful simplification in practice. 
+Balancing timelines and ambition will be fundamental for the success of the proposals. This is 
+why we believe the package should be understood as a first step rather than a finished work. 
+Significant work remains to fully assess and address the interaction  and combined effects of 
+EU legislative frameworks, including the AI Act, Data Act, GDPR, DSA, online platform 
+regulations, and cybersecurity legislation such as the NIS2, CRA and DORA, as well as relevant 
+sectoral rules. In this context, we welcome the wi der review of the EU’s Digital Rulebook in 
+the form of the Commission’s announced Digital Fitness Check initiative and urge EU 
+institutions to maintain strong momentum toward further simplification, alignment, and 
+coherence across the digital regulatory landscape. 
+You can find below ITI’s specific comments to the two proposals.  
+Ref. Ares(2026)2271118 - 02/03/2026
+
+ 
+ 
+ 
+ 
+2 
+AI Omnibus 
+ 
+Summary of ITI’s Key Recommendations: 
+ 
+1. Timelines for high-risk AI systems: 
+o Support a single fixed deadline for the entry into application of high -risk AI rules for 
+both Annex I and Annex III on 2 August 2028 
+ 
+2. Timelines for Article 50 Transparency requirements: 
+o Extend the proposed delay for the entry into application of article 50 to 12 months. 
+o Extend the grace period to the entirety of article 50, and especially article 50(4) 
+o Extend the grace period to cover systems placed into the EU market after 2 August 
+2026.  
+ 
+3. Bias detection and mitigation – Art. 4a: 
+o Ensure companies can process special categories of personal data for bias detection 
+and mitigation, in line with the GDPR’s safeguards 
+o Allow processing of special categories of personal data for bias detection and 
+mitigation for AI models and non high-risk AI systems 
+ 
+4. Annex I – interplay with sectoral regulation:  
+o Move Section A of Annex I into Section B to better take into account sectoral 
+specificities. 
+ 
+5. Interplay with the Cyber Resilience Act (CRA):  
+o Clarify that AI systems that are compliant with the CRA should also be considered 
+compliant with the AI Act’s cybersecurity requirements in Article 15  
+ 
+6. Registration requirements for non-high risk AI systems – art. 49(2):  
+o Support the Commission’s proposed deletion of registration obligations for non high-
+risk AI  
+ 
+7. Interplay with the GDPR: 
+o Align the AI Act’s definition of biometric data with the GDPR’s 
+o Streamline AI Act’s requirements for Fundamental Rights Impact Assessments 
+(FRIAs) with the GDPR’s Data Protection Impact Assessments (DPIA) 
+ 
+8. Enforcement:  
+o Clarify independence and quality safeguards of the AI Office’s proposed new 
+competences 
+o Ensure consistent and pro-innovation application of the AI Act across the Single 
+Market 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Detailed Comments: 
+ 
+1. Clarify the delay of the application of high-risk AI systems rules – Art. 113 AI Act 
+ 
+ITI strongly welcomes the proposal to delay the entry into application of the AI Act’s high-risk 
+AI systems requirements (Chapter III of the AI Act). This measure is essential to support the 
+EU innovation ecosystem, given the current lack of relevant stand ards, necessary guidelines 
+and implementing legislation, as well as to ensure optimal preparedness for setting up 
+oversight structures at national level.  
+ 
+While the measure is positive, it currently lacks predictability  – which is needed to 
+meaningfully produce legal certainty for companies. The proposal provides that the high-risk 
+AI systems requirements of the AI Act would apply following a decision from the Commission 
+establishing that ‘adequate measures in support of  compliance’ are in place. From that 
+moment, companies would have 6 months (for Annex III) or 12 months (for Annex I) to comply 
+with the regulation. The notion of ‘adequate measures in support of compliance’ lacks clarity, 
+and makes the postponement in its current form unpredictable and discretionary. The 
+proposal also provides that, in absence of such Commission decision, Chapter III of the AI Act 
+would apply as of 2 December 2027 for Annex III systems, and as of 2 August 2028 for Annex 
+I systems.   
+ 
+A fixed deadline for compliance would provide more clarity for businesses , and help them 
+better time their compliance preparedness and investments. We urge co -legislators to 
+remove the references to a Commission’s decision establishing that ‘adequate measures in 
+support of compliance’ are in place, and more simply set a practical and realistic deadline for 
+compliance. Setting the deadline to 2 August 2028 for all high-risk AI systems would provide 
+additional time for businesses to advance ongoing standardiz ation work and implement 
+relevant standards and expected guidelines, and for regulators to ensure preparedness for 
+oversight.  
+ 
+Importantly, this measure will only be helpful if it is passed well ahead before the AI Act is 
+poised to enter into application on 2 August 2026. This is why we urge co-legislators to swiftly 
+conclude negotiations on the AI Omnibus. While our preference is that the whole package is 
+passed as soon as possible, if it becomes clear that no agreement can be reached on the whole 
+proposal on time, the Commission and co-legislators should separate this article from the rest 
+of the AI Omnibus and fast-track its approval.  
+ 
+Proposed amendment Article 113:  
+(31) Article 113 is amended as follows: 
+a) In the third paragraph, point (d) is added: 
+(d) Chapter III, Sections 1, 2, and 3, shall apply following the adoption of a decision 
+of the Commission confirming that adequate measures in support of compliance with 
+Chapter III are available, from the following dates: 
+ 
+ 
+ 
+ 
+4 
+(i) 6 months after the adoption of that decision as regards AI systems classified as 
+high-risk pursuant to Article 6(2) and Annex III; and 
+(ii) 12 months after the adoption of that decision as regards AI systems classified as 
+high-risk pursuant to Article 6(1) and Annex I. 
+In the absence of the adoption of the decision within the meaning of subparagraph 1, 
+or where the dates below are earlier than those that follow the adoption of that 
+decision, Chapter III, Sections 1, 2, and 3, shall apply on 2 August 2028. 
+(i) on 2 December 2027 as regards AI systems classified as high-risk pursuant to 
+Article 6(2) and Annex III; and 
+(ii) on 2 August 2028 as regards AI systems classified as high-risk pursuant to Article 
+6(1) and Annex I. 
+2. Expand the grace period for transparency obligations – Art. 111 AI Act 
+ 
+The proposed Article 111 (4) provides for a 6 -month grace period for the generative AI 
+transparency requirements in Article 50(2) of the AI Act – shifting the compliance deadline 
+from 2 August 2026, to 2 February 2027. The grace period is however only limi ted to AI 
+systems that have been placed in the market before 2 August 2026. While the proposal goes 
+in the right direction, it should be significantly expanded to allow for feasible timelines for 
+compliance.  
+ 
+First of all, the grace period should be extended to 12 months. The requirements on marking 
+and labelling for generative AI in article 50 (2) and (4) of the AI Act will need to be further 
+specified in a Code of Practice, which is currently under preparation, and expected to be 
+finalized in the summer of 2026. The Code of Practice is an important tool to provide technical 
+and legal clarity on a complex and nascent subject matter – and companies will need several 
+months after its finalization to implement it in existing and new products. We urge co -
+legislators to extend the grace period to 12 months, since the proposed 6-month delay would 
+be insufficient to appropriately implement the Code.  
+ 
+Second, the grace period should be extended to all systems – not just those already in the 
+market. Since the current proposal limits the grace period to systems that have been placed 
+on the market before 2 August 2026, any system placed in the EU market after 2 August would 
+have to be compliant immediately. This would be technically unfeasible and cou ld delay the 
+placement in the EU market of new and innovative generative AI systems. This is why we 
+recommend extending the grace period to any system that has  been placed in the market 
+between 2 August 2026 and the (extended) grace period 2 August 2027. 
+ 
+Third, the grace period should cover the entirety of article 50, and especially article 50(4).  
+Since the forthcoming Code of Practice will clarify the transparency and marking obligations 
+for deployers under Article 50(4), the lack of any grace period for deployers creates the same 
+implementation challenges that justified delaying Article 50(2). To allow deployers adequate 
+time to translate the Code’s requirements into robust engineering and operational practices, 
+ 
+ 
+ 
+ 
+5 
+the application timeline for Article 50(4) and the remainder of Article 50 should likewise be 
+extended. This alignment will help ensure that both providers and deployers can implement 
+the Code of Practice in a consistent, technically sound, and interoperab le manner that fully 
+reflects the Commission’s forthcoming guidan ce. In addition, entities will find it challenging 
+or even impossible to adhere to a Code that will only be finalized a few weeks before the rules 
+will be enforced. 
+ 
+Finally, as mentioned above, the grace period is only helpful if it is passed on time . This is 
+why we reiterate that the proposal should be negotiated and agreed upon as soon as possible 
+before 2 August 2026. Should that not be possible, this article should be negotiated separately 
+from the rest of the proposal together with the amendments to article 113 discussed above. 
+ 
+Proposed amendment article 111 para 4: 
+(30) Article 111 is amended as follows: 
+(b) The following paragraph 4 is added: 
+4. Providers and deployers of AI systems, including general -purpose AI 
+systems, generating synthetic audio, image, video, or text content, that have 
+been placed on the market before 2 August 2026 shall take the necessary steps 
+in order to comply with Article 50(2) by 2 February August 2027. 
+3. Support the deletion of the registration requirements in Art. 49(2) AI Act 
+ 
+We urge co-legislators to support the proposed deletion of Article 49(2) of the AI Act . The 
+proposal exempts from registration requirements those AI systems that are not in scope of 
+the high -risk AI requirements, even if they are intended to be used in the high -risk areas 
+mentioned in Annex III – in line with relevant exemptions in article 6 of the AI Act. This would 
+reduce administrative burden and security risks, as well as more proportionately calibrate the 
+impact of the AI Act on non -high-risk AI system s. This provision ensures legal clarity and is 
+fully consistent with the risk -based approach of the EU AI Act, i.e. the (high) level of risk 
+mandates the (high) level of obligations and procedural tasks do not qualify in that matter. 
+ 
+4. Support Article 4a AI Act on processing special categories of personal data for bias 
+mitigation and detection  
+ 
+The AI Act includes requirements to assess and mitigate potential biases in training, testing 
+and validation datasets of high-risk AI systems (Article 10). Similarly, requirements for General 
+purpose AI models with systemic risk (Article 55) require provid ers to assess and mitigate 
+‘systemic risks,’ which could potentially include biases. To comply with these requirements, 
+developers will need to process data about different topics – including sensitive topics – which 
+may be restricted under the GDPR. This creates an important point of tension between the AI 
+Act and the GDPR, which causes significant legal and operational uncertainty for companies. 
+ 
+To address that, the EU AI Act currently allows for the processing of special categories of data 
+(as defined in the GDPR) by providers of high-risk AI systems when it is “strictly necessary for 
+ 
+ 
+ 
+ 
+6 
+the purposes of ensuring bias monitoring, detection and correction.” Article 10(5) AI Act says 
+this processing shall be “subject to appropriate safeguards for the fundamental freedoms of 
+natural persons.” However, this allowance is limited to high -risk systems, creating a gap for 
+other AI systems and, crucially, General Purpose AI (GPAI) models. 
+ 
+The proposed Article 4a of the AI Omnibus would extend the current Article 10(5) allowance 
+to providers and deployers of AI systems and models, and therefore increase legal certainty 
+for the entire AI ecosystem and allow operators to adequately balance between bias 
+mitigation and data privacy objectives. This is why we urge co-legislators to strongly support 
+the newly proposed article 4a of the AI Act. 
+ 
+In doing so, some adjustments are needed to make the measure more proportionate and 
+risk-based, and aligned with the GDPR. The proposal currently sets out a list of safeguards in 
+Art. 4a (1) (a-f) that should be in place before processing special categories of personal data 
+for the purpose of bias mitigation and detection. However, these safeguards go beyond those 
+set out in  article 9 GDPR and elsewhere in the GDPR – even though the GDPR already 
+adequately addresses fundamental right risks related to processing of such special categories 
+of data.  
+ 
+Some examples of inconsistencies with the GDPR created by Art 4a (1) (a-f) include:  
+ 
+• Article 4a(1)(b) mandates “state -of-the-art security and privacy -preserving measures.” 
+However, when deciding on appropriate measures under the GDPR, one should not only 
+look at ‘state of the art’ but also at the nature, scope, context and purposes of processing 
+as well as the risk of varying likelihood and severity of risks for individuals. 
+• Article 4a(1)(d) forbids access to the special categories of personal data for third parties. 
+However, companies should be allowed to work with processors and subprocessors, as 
+long as this is done in compliance with the obligations imposed by the GDPR. 
+• Article 4a(1)(e) would require companies to delete the special categories of personal 
+data once the bias has been corrected. This provision overlooks the fact that  bias is not 
+a one-time issue but a dynamic risk that can emerge or evolve throughout the lif ecycle 
+of an AI system - particularly when the system is implemented in real world setting. 
+Framing bias as something that can be definitively “corrected” at a single moment 
+creates a false sense of finality and would deprive providers of the ability to ve rify 
+whether the system reintroduces bias later on. 
+• Article 4a(1)(f) would require companies to include in the GDPR records of processing 
+activities the reasoning as to why processing of special categories of personal data was 
+necessary to detect and correct biases. Under the GDPR framework, the register of  
+processing activities (RoPA) required by Article 30 is intended as a concise, factual 
+inventory of processing operations, documenting who processes what categories of 
+personal data, for what purposes, with which safeguards, and not as a vehicle for 
+normative justification or legal ‑reasoning. Expanding RoPA to demand detailed 
+justification for the necessity of special‑category data would effectively convert it into a 
+quasi‑impact‑assessment tool, conflating distinct compliance instruments 
+(documentation under Article 30, necessity/proportionality under Article 9, and 
+risk‑based evaluation under Article 35). This conflation undermines the structural clarity 
+ 
+ 
+ 
+ 
+7 
+GDPR deliberately establishes, duplicates analyses already required in Data Protection 
+Impact Assessments (DPIAs), and risks administrative overload, inconsistent 
+documentation and blurred compliance responsibilities.  
+ 
+To address these inconsistencies, we suggest the amendment below:  
+ 
+Article 4a 
+Processing of special categories of personal data for bias detection and mitigation 
+ 
+1. To the extent necessary to ensure bias detection and correction in relation to high-risk AI 
+systems in accordance with Article 10 (2), points (f) and (g), of this Regulation, providers 
+of such systems may exceptionally process special categories of personal data, subject to 
+appropriate safeguards for the fundamental rights and freedoms of natural persons in line 
+with the safeguards set out in Regulations (EU) 2016/679 and (EU) 2018/1725 and 
+Directive (EU) 2016/680, as applicable.  In addition to the safeguards set out in 
+Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, as 
+applicable, all the following conditions shall be met in order for such processing to occur:  
+(a) the bias detection and correction cannot be effectively fulfilled by processing other data, 
+including synthetic or anonymised data;  
+(b) the special categories of personal data are subject to technical limitations on the re -use of the 
+personal data, and state -of-the-art security and privacy -preserving measures, including 
+pseudonymisation;  
+(c) the special categories of personal data are subject to measures to ensure that the personal data 
+processed are secured, protected, subject to suitable safeguards, including strict controls and 
+documentation of the access, to avoid misuse and ensure that on ly authorised persons have 
+access to those personal data with appropriate confidentiality obligations;  
+(d) the special categories of personal data are not transmitted, transferred or otherwise accessed 
+by other parties;  
+(e) the special categories of personal data are deleted once the bias has been corrected or the 
+personal data has reached the end of its retention period, whichever comes first;  
+(f) the records of processing activities pursuant to Regulations (EU) 2016/679 and (EU) 
+2018/1725 and Directive (EU) 2016/680 include the reasons why the processing of special 
+categories of personal data was necessary to detect and correct biases, and why that  objective 
+could not be achieved by processing other data.  
+ 
+2. Paragraph 1 may apply to providers and deployers of other AI systems and models and 
+deployers of high -risk AI systems where necessary and proportionate if the processing 
+occurs for the purposes set out therein and provided that the conditions set out under  the 
+safeguards set out in this paragraph.  
+ 
+5. Clarify the interplay between the EU AI Act and the Cyber Resilience Act (CRA) 
+ 
+We recommend adding clarifications to the AI Omnibus on the relationship between the AI 
+Act’s cybersecurity requirements for AI systems and the Cyber Resilience Act (CRA). In 
+particular, we urge co -legislators to confirm that a high -risk AI system which co mplies with 
+the CRA’s essential cybersecurity requirements and holds an EU Declaration of Conformity 
+under the CRA is deemed to meet the AI Act’s Article 15 requirements on cybersecurity, 
+robustness, and accuracy. 
+ 
+ 
+ 
+ 
+ 
+8 
+In the absence of such clarification, providers face legal uncertainty and the risk of duplicative 
+or inconsistent conformity assessments across overlapping EU regulatory frameworks. This 
+alignment would prevent duplicative testing, reduce administrative b urdens for both 
+providers and notified bodies, and ensure that the EU’s acquis functions as an integrated 
+system rather than a set of parallel obligations.  
+ 
+6. Clarify the new oversight powers of the AI Office – Art. 75 AI Act 
+ 
+The proposed amendments to Art. 75 of the AI Act would extend the enforcement and 
+supervision powers of the AI Office to cover AI systems in scope of the AI Act that also 
+constitute or are integrated in Very Large Online Platforms (VLOPs) or Very Large Onl ine 
+Search Engines (VLOSEs) under the EU Digital Services Act (DSA).  
+ 
+Overall, we agree that centralizing oversight for these categories of providers helps mitigate 
+potential conflicts with existing digital legislation and aligns supervisory responsibilities with 
+the approach under the DSA, where the Commission supervises the largest platforms in light 
+of their cross -border impact. This approach can help prevent fragmented oversight and  
+enforcement across the Single Market and therefore promote legal certainty for these 
+providers.  
+ 
+While we encourage co -legislators to support the Commission’s proposal, additional 
+safeguards and clarifications are needed:  
+ 
+1) Clarify independence and quality safeguards: Under the proposed amendments to 
+Article 75, the Commission is set to become the sole organizer of pre -market 
+conformity assessments for certain high-risk AI systems. It would be helpful to clarify 
+in the law the independence (including from the rest of the Commission and AI Office 
+themselves) and quality criteria that the AI Office would be subject to in its role as 
+conformity assessment body, in line with the rules laid out in Section 4 of Chapter 3 
+of the AI Act.  
+2) Leave providers flexibility to choose other accredited third -party conformity 
+assessors if applicable: The approach of having the Commission as the sole conformity 
+assessment body for certain high -risk AI systems creates a single point of failure and 
+potential bottlenecks for high-risk systems. We recommend amending this to ensure 
+providers retain the flexi bility to choose accredited third -party conformity assessors 
+directly, avoiding a lock -in to the European Commission that is inconsistent with 
+standard EU product safety legislation.     
+3) Include all internal and external AI systems and tools operated by or on behalf of 
+VLOPs and VLOSEs:  It would be helpful to clarify that the broadened enforcement 
+powers will include all internal AI systems and tools operated by or on behalf of VLOPs 
+and VLOSEs, regardless of whether their use is external or internal in nature. This 
+precision is necessar y to avoid gaps in oversight and to ensure that the regulatory 
+framework is comprehensive, effective, and future-proof. 
+ 
+7. Clarify interplay between GDPR’s Data Protection Impact Assessments (DPIAs) and the 
+AI Act’s Fundamental Rights Impact Assessments (FRIAs) 
+ 
+ 
+ 
+ 
+ 
+9 
+The GDPR’s DPIAs and the AI Act’s FRIAs – while having a different focus – cover overlapping 
+concerns in practice.  Conducting both assessments would lead to redundancy and increase 
+the compliance burden for public authorities and companies in scope. To avoid unnecessary 
+duplication in line with the EU’s simplification objectives, companies should be clearly allowed 
+to leverage DPIAs to fulfill AI Act obligations. The FRIAs should only cover the parts that are 
+not already addressed in the DPIA. This would re duce duplication, streamline internal 
+governance, and ensure consistency in risk identification and mitigation. 
+ 
+While Article 27(4) of the AI Act allows some alignment, it does not create sufficient legal 
+certainty and it may be  applied inconsistently by different authorities across the EU. This is 
+why we recommend clarifying that deployers may satisfy both requirements through a single 
+comprehensive assessment.  
+ 
+Proposed amendment - Article 27 AI Act 
+ 
+(new) Deployers shall be able to comply with the requirements of Article 35 of Regulation 
+(EU) 2016/679 or Article 27 of Directive (EU) 2016/680, when applicable, and the 
+requirements of paragraph 1 of this Article by conducting a single comprehensive data and 
+fundamental rights impact assessment. 
+ 
+8. Align the AI Act’s definition of biometric data with the GDPR’s 
+ 
+The AI Act's definition of "biometric data" in article 3 (34) diverges from the GDPR's well -
+established definition (article 4(14)), creating legal uncertainty and complexity. We 
+recommend replacing the AI Act's definition with a direct reference to the GDPR definition to 
+ensure consistency.  
+ 
+Proposed amendment – Article 3 (34) AI Act:  
+ 
+'biometric data' means biometric data as defined in Article 4, point (14) of Regulation (EU) 
+2016/679, Article 3, point (18) of Regulation (EU) 2018/1725 and Article 3, point (13) of 
+Directive (EU) 2016/680 personal data resulting from specific technical processing relating 
+to the physical, physiological or behavioural characteristics of a natural person, such as 
+facial images or dactyloscopic data  
+ 
+9. Further streamline interplay between the AI Act and sectoral regulation – Annex I AI 
+Act 
+ 
+While the proposed AI Omnibus contains some helpful measures aimed at streamlining 
+conformity assessment processes for AI systems covered by both the AI Act and sectoral 
+regulations in Annex I of the Act, it still falls short of addressing key points of tension.  
+ 
+Better alignment and more clarity are needed on the interplay between the EU AI Act and 
+sectoral regulation, especially those listed in Annex I (section A), for which the AI Act applies 
+directly. Market operators in these sectors – which are regulated by specific and well -
+functioning vertical product safety frameworks - are facing growing uncertainty, which is 
+impacting their ability to place products in the market in critical sectors and generally delay 
+ 
+ 
+ 
+ 
+10 
+innovation. For example, there are overlaps and inconsistent definitions across horizontal and 
+vertical rules– such as the divergent definitions of ‘safety component’ or ‘safety function’ 
+under the AI Act and the Machinery Regulation, or the definition of ‘substantial modification’ 
+in the AI Act and in the Medical Devices Regulation and In Vitro Diagnostic M edical Devices 
+Regulation. This uncertainty is compounded by delays in the preparations of harmonized 
+standards, potential divergences between vertical and horizontal standards as well as 
+questions related to the preparedness of the existing conformity assessment infrastructure 
+to fulfil its functions under the AI Act, especially given the nascent nature of conformity 
+assessment for AI.  
+ 
+To address these issues, we recommend: 
+ 
+• The Omnibus should move section A of Annex I under section B.  Section B of Annex I 
+better takes into account the specificities of regulated sectors, by maintaining the 
+governance and conformity assessment framework of existing sectoral regulations while 
+specifying that the AI Act’s requirements will be taken into ac count in future delegated 
+and implementing acts relevant to those legislations, on the basis of the technical and 
+regulatory specificities of each sector. However, the Commission must ensure that  any 
+future amendments of such regulations remain grounded in the principle of the risk -
+based approach of the AI Act, to avoid overreach or excessively stringent interpretations 
+in different sectoral rules.  
+o The European Commission has already proposed this approach for the Medical 
+Devices and In -Vitro Diagnostics Regulations in the recent medical devices 
+simplification package (COM(2025)1023, 16 December 2025) , noting that parallel 
+obligations in horizontal and vertical regulations would “lead to overlaps of 
+requirements and stifle innovation.” This is very welcome. We believe this 
+approach should be extended to all the sectoral frameworks in Annex I Section A of 
+the AI Act.  
+• Definition of safety component:  Products covered by Annex I sectoral regulations will 
+fall in the scope of the AI Act as a high-risk AI system if two conditions apply – as defined 
+in Article 6(1) of the AI Act: 1) an AI system is a ‘safety component’ of the product or is 
+the product its elf; and 2) the product is required to undergo third party conformity 
+assessment under the relevant Union harmonization legislation. Recital 55 of the AI Act 
+clarifies that components used solely for cybersecurity purposes should not be 
+considered safety c omponents, in the specific case of management and operation of 
+critical infrastructure (as per Annex III point 2 of the AI Act).  
+▪ However, draft Commission guidelines on the interpretation of the notion of 
+safety component for the Radio Equipment Directive (RED) noted that 
+cybersecurity components mentioned in Articles 3(3)(d -f) of the RED could be 
+considered safety components under the AI Act. This would potentially bring into 
+the scope of the AI Act a large number of products, beyond the initial targeted 
+approach of the Act. 
+▪ In order to provide clarity to operators in the market, the Omnibus should clearly 
+state that components used solely for cybersecurity purposes should not qualify 
+ 
+ 
+ 
+ 
+11 
+as safety components under the EU AI Act.  This would be more in line with the 
+targeted risk-based logic underpinning the AI Act.  
+ 
+10. Address Diffusion of Enforcement Responsibilities Across Authorities & Fragmentation 
+Risks 
+ 
+The AI Act's enforcement structure creates significant complexity for businesses providing or 
+deploying high-risk AI systems across multiple EU markets. While the GDPR allows companies 
+to primarily work with a single national authority where they have their main establishment, 
+the AI Act creates a more complex structure. Thus, some companies will be required to 
+engage with multiple national Market Surveillance Authorities for general compliance across 
+and within different Member States and additionally may face oversight from the European 
+Commission's AI Office for matters relating to general -purpose AI models or systems. This 
+complex structure poses challenges for companies regardless of size who must navigate 
+multiple regulatory interfaces.  
+ 
+As a result, different individual market surveillance authorities will need to decide how to 
+regulate a specific use case, even if the same use case is provided in several Member States. 
+Under this framework, similar products and use cases risk being subje ct to different AI Act 
+provisions, depending on the market surveillance authority. In addition, national laws 
+implementing the AI Act in different Member States may introduce diverging provisions which 
+further fragment the Single Market and create inconsis tencies for companies operating in 
+different Member States. The financial and administrative burden of this fragmented 
+enforcement approach is substantial for companies of all sizes. 
+ 
+The AI Act describes several coordination mechanisms for high-risk AI systems which build on 
+product safety regulation mechanisms, such as mutual exchange of information and possible 
+alignment of decisions. While these are positive, there is still a substa ntial risk of 
+fragmentation of competencies within the same jurisdiction which creates complexity and 
+harms legal certainty for businesses operating across jurisdictions. 
+ 
+Our preferred solution would be to allow companies to interface primarily with one single 
+national authority, rather than multiple national market surveillance bodies, following the 
+country-of-origin/main establishment principle. However, as an immediate s implification 
+measure, it would also be helpful to establish a mechanism for mutual recognition between 
+national market surveillance authorities , enabling companies to operate EU -wide without 
+country-specific product modifications. This mechanism would red uce administrative 
+burdens, particularly for SMEs, by establishing that when a market surveillance authority 
+(MSA) conducts a comprehensive risk classification assessment, other MSAs should rely on 
+that determination unless significant new evidence emerges . This approach would provide 
+legal certainty for providers scaling AI solutions across the EU Single Market while maintaining 
+robust oversight. 
+ 
+11. Introduce a common duty for regulators to promote AI innovation  
+ 
+ 
+ 
+ 
+ 
+12 
+The implementation and application of the AI Act should aim to deliver on its original 
+objective: creating an ecosystem of excellence and trust in Europe. This requires fostering an 
+environment where technological advancements can flourish while ensuring t he protection 
+of all individual rights and safety. To achieve that, competent authorities should be equipped 
+with the necessary tools to maintain a delicate balance between different policy objectives 
+such as fundamental rights, competition, innovation, pr ivacy, and security. In addition, to 
+avoid fragmentation in the Single Market and boost legal certainty for companies, increased 
+efforts must be made to ensure a coherent application of EU rules applying to AI across 
+Member States. 
+ 
+To address that, the AI Omnibus can be used to introduce a common statutory duty for all 
+regulators and authorities tasked with enforcing the AI Act at EU and national level to 
+promote technological innovation, growth and competition as part of their manda tes. An 
+explicit mandate is needed to help reflect the AI Act objectives as well as the EU’s ambition in 
+the AI Continent Action Plan.  
+ 
+12. Avoid limiting simplification measures to SMEs and SMCs 
+ 
+The proposed AI Omnibus contains several measures aimed at reducing the regulatory burden 
+for small and medium sized enterprises (SMEs) and small -mid cap enterprises (SMCs). While 
+we agree that it is important for EU regulations to remain simple and consid er the needs of 
+smaller companies, we believe that  asymmetric regulation is not the right approach.  
+ 
+For simplification to be truly effective and deliver concrete benefits to the EU tech ecosystem, 
+streamlined processes and proportionate obligations should be delivered for companies of all 
+sizes. Importantly, asymmetric regulation could fragment the Singl e Market and create 
+unintended impact in B2B relations and partnerships between smaller and larger companies, 
+where divergent regulatory standards apply. Moreover, the AI Act is a risk-based framework, 
+whereby obligations are tied to the specific risk to f undamental rights and safety posed by a 
+specific system – not to the size of the provider of said system. Therefore, the proposed 
+asymmetric treatment of smaller companies runs counter to the risk-based logic of the Act. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Data and Cyber Omnibus 
+ 
+Summary of ITI’s Key Recommendations: 
+ 
+1. Clarify the scope and functioning of the Single Entry Point (SEP) for cyber incident 
+reporting: 
+o Clarify that one report in the SEP automatically satisfies the obligations to report 
+cybersecurity incidents under all applicable reporting regimes. 
+o Ensure robust industry involvement in the development of the SEP 
+o Clarify that the SEP covers CRA incident notifications 
+o Include AI Act serious incidents in the scope of the SEP 
+o Introduce a common template for incident reporting under the SEP 
+ 
+2. More ambitious cyber simplification: 
+o Harmonize key definitions under EU rules like NIS2, CRA and DORA: 
+i. Definition of ‘main establishment’ 
+ii. Definition of ‘becoming aware’ of an incident 
+iii. Thresholds of incident severity/significance 
+o Streamline overlapping auditing and conformity assessment rules across NIS2, CRA, 
+DORA 
+ 
+3. Support helpful clarifications to the GDPR: 
+o Support the proposed clarifications of the definition of personal data in the GDPR 
+o Introduce a risk-based clarification of the definition of ‘special categories of 
+personal data’ in the GDPR 
+o Ensure companies can intentionally use ‘special categories of personal data’ to 
+develop and deploy AI, subject to GDPR safeguards 
+o Support legitimate interest as a legal basis for training AI models and avoid leaving 
+the door open for national exceptions 
+o Support the proposed simplification of data breach reporting – Art. 33 GDPR and 
+Art. 4 ePrivacy Directive 
+o Support and clarify proposed simplification of Data Protection Impact Assessment 
+requirements 
+ 
+4. Support meaningful and effective simplification of cookie rules: 
+o Increase the ambition of proposed exemptions from consent in article 88a to cover 
+contextual advertisement and personalization, fraud detection and load balancing 
+o Recognize the role of third parties in digital supply chains 
+o Reject complex new rules on automated consent choices – new Art. 88b 
+ 
+5. Increase ambition of changes to the Data Act  
+o Further strengthen the protection of trade secrets under the Data Act 
+o Preserve the possibility to use fixed-term-contracts for all data processing services 
+– Art. 31 Data Act 
+o Remove restrictions on access to public sector data for very large companies 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+Cybersecurity 
+ 
+1. Increase ambition of cybersecurity simplification measures in the Omnibus 
+ 
+ITI supports the creation of a single -entry-point (SEP) for incident reporting as proposed in 
+article 23a of the NIS2 Directive (Directive (EU) 2022/2555). The single reporting platform is 
+a good first step towards harmonizing incident notifications and st reamlining overlapping 
+incident reporting rules across frameworks.  
+ 
+When the SEP is implemented, it should allow for reporting obligations to be fulfilled in a 
+further simplified manner. Once  submitted, incident reports should be  disseminated to 
+relevant authorities securely, accessible upon request or limited in line with legal obligations 
+and subject to clear safeguards. This information flow would be consistent with the 
+Commission’s “once -only” reporting principle. This approach would also simplify the 
+provision of information for reporting entities and would reduce admi nistrative burdens 
+while retaining commitments to strengthening cybersecurity awareness. The Digital Omnibus 
+proposal, however, lacks clarity in this regard. The text should therefore clarify that a single 
+submission via the SEP automatically satisfies the obligations to report cybersecurity 
+incidents under all applicable reporting regimes. 
+ 
+As industry, we would also welcome additional clarity around how the private sector can 
+contribute in the development and testing of the SEP platform. Collaboration with relevant 
+industry stakeholders will be essential for developing a trusted, secure and workable tool for 
+all impacted actors. Recital 44 mandates ENISA to consult the Commission, the CSIRTs 
+Network, and competent authorities on the SEP’s technical specifications. To ensure 
+regulatory coherence and practical utility, structured engagement wi th the private sector 
+should also be embedded into development and ongoing maintenance of the SEP. ENISA 
+should establish a regular consultation mechanism - such as a stakeholder forum or expert 
+group - with opportunities for input through public consultat ions, written submissions, and 
+technical workshops. Direct engagement with businesses which process and report incident 
+data is essential to design secure, interoperable, and user -friendly reporting mechanisms, 
+strengthen shared cybersecurity responsibilit y, and mitigate inadvertent compliance 
+burdens. 
+ 
+To truly simplify incident reporting, additional and complementary elements must also be 
+addressed in the Omnibus beyond the creation of the SEP. While the SEP can help facilitate 
+incident reporting, the proposal does not clarify which regulations apply to specific security 
+incidents, who must be notified, or what information must be reported, and it leaves existing 
+reporting obligations unchanged. In addition, the parallel compliance, documentation and 
+auditing obligations across frameworks like the NIS2 Directive, the Cyber Resilience Act (CRA), 
+and the Digital Operational Resilience  Act (DORA) remain unchanged. These complex and 
+overlapping requirements have increased compliance costs without materially improving risk 
+management, ultimately raising costs for end users without enhancing cybersecurity. 
+Therefore, simplifying and streamlining the EU cyber acquis remains very urgent, and 
+companies need clarity as soon as possible.  
+ 
+ 
+ 
+ 
+ 
+15 
+While we understand that simplification of EU cybersecurity rules  is also being discussed  
+under the review of the Cybersecurity Act (CSA), co-legislators should address the most 
+critical issues already in the current Omnibus package. Since the new CSA is expected to take 
+years before being negotiated, approved and implemented, legislators must not miss the 
+opportunity to drive meaningful efficiencies for enhanced cybersecurity already in the current 
+package. In particular, we urge legislators to prioritize the following measures: 
+ 
+A. Clarify that the SEP mechanism covers vulnerability and incident reporting under the 
+CRA: 
+ 
+The Omnibus proposes a new paragraph 12 of article 23 of the NIS2 Directive noting that 
+severe incidents notified under article 14(3) of the CRA shall also constitute reporting under 
+the NIS2 Directive. While this is very welcome, it remains unclear whethe r severe incidents 
+under the CRA which do not fall under NIS2 can be reported using the SEP mechanism.  
+ 
+While we understand that the SEP will build on the single reporting platform established 
+under the CRA, we believe it would be a missed opportunity not to fully streamline these 
+processes and include CRA incident reporting in the scope of the SEP.  
+ 
+Article 6 of the Digital Omnibus adds Article 23a to NIS2, stating ENISA “may” ensure the 
+single-entry point builds on the single reporting platform under the CRA. This should be 
+changed to “shall” to guarantee integration and avoid duplication. 
+ 
+Article 23a NIS2 Directive (EU) 2022/2555 
+Single-entry point for incident reporting 
+ 
+1) ENISA shall develop and maintain a single -entry point to support the obligation to  
+report incidents and related events under the Union legal acts where those Union  legal 
+acts provide so (‘single -entry point’). Without prejudice to Article 16 of  Regulation 
+(EU) 2024/2847 of the European Parliament and of the Council, ENISA  may shall 
+ensure that the single -entry point builds on the single reporting platform  established 
+under that Regulation. 
+ 
+B. Ensure reciprocity between NIS2 and CRA Incident Notifications  
+ 
+The proposed new paragraph 12 of Article 23 of the NIS2 Directive would ensure that 
+notifications pursuant to Article 14 of the CRA that are also in scope of NIS2 shall satisfy the 
+reporting requirements of NIS2. This approach is positive and allows to avo id double 
+reporting. To further support this streamlining objective, we would also encourage a 
+reciprocal approach whereby severe incidents notified under the NIS2 Directive would also 
+constitute reporting under article 14(3) of the CRA where relevant. Thi s would better reflect 
+the reporting reality for certain companies which are subject to NIS2 across a broad range of 
+services, and to which the CRA reporting obligations apply only for a more limited subset of 
+products. 
+ 
+Amendment to Article 14 of the Cyber Resilience Act Regulation (EU) 2024/2847 
+ 
+ 
+ 
+ 
+ 
+16 
+‘When a manufacturer notifies a severe incident pursuant to Article 23(4) of Directive (EU) 
+2022/2555 and the incident reporting under that Article contains relevant information as 
+required under paragraph 3 of this Article, the reporting of the manufacturer under Article 
+23(4) of Directive (EU) 2022/2555 shall constitute reporting of information under 
+paragraph 3 of this Article.’; 
+ 
+C. Establish and maintain a common notification template for the single-entry point 
+ 
+To ensure consistency and reduce administrative burden, the legislation should require ENISA 
+to develop and maintain a standardized notification template via the single -entry point. A 
+common template will enable entities to “report once” while meeting mult iple legal 
+requirements. This approach promotes interoperability, legal certainty, and efficiency, while 
+avoiding duplication and inconsistent reporting formats. 
+ 
+By defining baseline fields and modular sections for act-specific requirements, the framework 
+promotes legal certainty and operational efficiency, while ensuring competent authorities 
+receive all information required under their respective regimes. 
+ 
+ 
+Amendment to Article 23a NIS2 Directive (EU) 2022/2555 
+Single-entry point for incident reporting 
+ 
+3) ENISA shall provide and implement the specifications on the technical, operational 
+and organisational measures regarding the establishment, maintenance and secure 
+operation of the single-entry point. ENISA shall develop the specifications in 
+cooperation with the Commission, the CSIRTs network and the competent authorities 
+under the Union legal acts referred to in paragraph (1). The specifications shall ensure 
+that: [...] 
+ 
+g. a common notification template for the single -entry point is established and 
+maintained, covering core elements required under Union legal acts that 
+provide for notification through this single -entry point. The template shall 
+define a harmonised set of bas eline fields and allow for modular sections to 
+capture additional information specific to each Union legal act. It shall enable 
+entities to submit a single notification to fulfil multiple reporting obligations 
+while ensuring that competent authorities rece ive all information required 
+under their respective Union legal acts. 
+ 
+D. Align the definition of ‘main establishment’ across frameworks:  
+ 
+The digital omnibus should align the definition of ‘main establishment’ across multiple 
+frameworks including the CRA and NIS2 so that entities falling under the scope of more than 
+one act can rely on a legally consistent definition and interpretation of ma in establishment. 
+Art. 14(7) of the CRA provides a different definition of “main establishment” than Art. 26(2) 
+of the NIS2. This can lead to uncertainty for companies that must determine reporting points 
+under both legal frameworks. In addition, for the p urposes of NIS2, some Member States 
+appear to have adopted an interpretation of ‘main establishment’ that goes beyond the 
+Directive’s text whereas others have excluded the concept altogether. This divergence raises 
+ 
+ 
+ 
+ 
+17 
+concerns, as NIS2’s goal was to reduce fragmentation, yet conflicting interpretations of ‘main 
+establishment’ create additional complexity for companies operating cross -border, 
+undermining the one-stop-shop mechanism.  
+ 
+The European Commission should also issue guidance clarifying the legislative intent behind 
+the concept of ‘main establishment’ under NIS2, to promote uniform interpretation and 
+application across all 27 Member States and safeguard the functioning of the One-Stop-Shop 
+mechanism. Our recommendation is to have a harmonized definition of main establishment 
+across legislations, allowing companies to identify a single country of main establishment. 
+ 
+E. Align the threshold of incident severity: 
+ 
+The NIS2 Directive refers to “significant incidents”, while the CRA introduces the term “severe 
+incident”, each with differing scopes and thresholds. Although these definitions apply to 
+distinct environments - service provision under NIS2 and product secur ity under the CRA - 
+such inconsistencies create uncertainty in assessing reporting obligations. 
+ 
+Legislators should align the thresholds of incident  severity used across the CRA, NIS2, the AI 
+Act, and DORA to ensure the threshold is high enough to avoid regulators receiving large 
+volumes of reports regarding non-severe incidents. 
+ 
+F. Align the concept of “becoming aware” of an incident: 
+ 
+EU cybersecurity frameworks lack a harmonized understanding of what constitutes the 
+moment an entity “becomes aware” of a cybersecurity incident or vulnerability, which is 
+critical for the calculation of statutory reporting deadlines. 
+ 
+All cybersecurity-related regulations should adopt a consistent definition for when an entity 
+is considered to have become aware of an incident or vulnerability. We recommend all 
+cybersecurity regulations be aligned with the European Data Protection Board’ s (EDPB) 
+guidelines on personal data breach notification and NIS2 Implementing Regulation 2024/269 
+- which state that entities are considered to be aware of a breach or incident when they have 
+a reasonable degree of certainty that a security incident has o ccurred. This should take 
+account of incidents that occur in complex supply chains and it may take time for an affected 
+provider to become aware of an incident and its impact on their service.  
+ 
+G. Include liability clauses in the reporting framework: 
+ 
+While Article 23(1) of NIS2 provides that notification shall not subject the notifying entity to 
+increased liability, the law should also clarify that reporting companies should not be liable 
+for potential spill-over effects caused by the act of notification. Liability protections should be 
+incorporated into the reporting framework to provide legal clarity and reassurance for 
+companies. Enhanced legal certainty will encourage more timely and complete reporting, 
+improving situational awareness and response across the EU. 
+ 
+H. Address overlaps of audits and conformity assessments: 
+ 
+ 
+ 
+ 
+ 
+18 
+NIS2, DORA, GDPR, the CRA, and other EU regulations and mechanisms (e.g. Network Code 
+on CyberSecurity (NCCS)) establish security requirements and compliance processes for 
+organizations and products sold in the EU. While multiple regulations often apply to  a single 
+entity, the overlapping requirements differ across regulations, and each regulation has a 
+separate process to demonstrate compliance. The resulting complexity creates challenges in 
+tracking each regulation, integrating the disparate requirements into an organization -wide 
+security program, and working with customers and regulators to document compliance. Even 
+when a company’s compliance strategy is simply to adhere to the strictest security 
+requirements among the overlapping regulations, the company still faces multiple processes 
+and audits to demonstrate compliance with each regulation. This diverts company resources 
+to inefficient compliance processes rather than truly impactful security activities and 
+innovation. 
+ 
+This is why the Omnibus should strengthen security outcomes and reduce unnecessary 
+regulatory burdens by harmonizing security requirements and compliance processes across 
+regulations, as well as providing clear reciprocity where compliance with one regulation 
+qualifies as compliance with other regulations. Recognition of internationally recognized 
+industry standards will help achieve these outcomes. Some helpful measures would include: 
+ 
+• Harmonizing definitions. Ensure terms that are used in multiple regulations are defined 
+consistently.  
+• Mapping and harmonizing security control requirements. Ensure security control 
+requirements are harmonized, do not overlap within NIS2, CRA, DORA and GDPR and 
+provide interframework reciprocity for compliance.  
+• Reciprocity of audits. Clarify that security and compliance audits performed under one 
+EU regulation qualify towards fulfilling audit requirements under other regulations for 
+both entities that are required to perform audits and supervisory authorities when 
+conducting audits. M oreover, it should be clarified that certifications and attestations 
+such as applicable ISO certifications and SOC 2 reports may be used to fulfill audit 
+requirements (see also subpoint on standards below).  
+• Reciprocity of testing. Clarify that security testing performed under one EU regulation, 
+such as vulnerability scans and penetration tests performed under DORA, qualifies 
+towards fulfilling testing requirements under other EU regulations.  
+• Streamlining documentation and reporting processes. The EU should establish a single 
+streamlined process for entities to document and report compliance with multiple 
+overlapping regulations.  
+• Harmonizing subcontractor risk management.  Regulations requiring supplier and 
+subcontractor to adhere to security standards should have consistent requirements, and 
+compliance with one regulation should qualify towards compliance with others.  
+• Reciprocity for standards compliance. The EU should clarify that it provides reciprocity 
+for compliance with internationally recognized standards and certifications such as, but 
+not limited to, ISO 27001 and SOC2.  
+• Ensure coherence between horizontal and sectoral standards: The Commission should 
+prioritize alignment with existing international and sector-specific (vertical) standards to 
+avoid conflicting obligations. Additionally, the Commission should clearly articulate 
+which standards take precedence in cases of overlap or potential conflict. 
+ 
+ 
+ 
+ 
+19 
+• Avoid duplication in product certification requirements under CRA and NIS2.  
+Article 24(2) of the NIS2 Directive allows for the introduction of delegated acts requiring 
+the mandatory use of certified ICT products. This could directly overlap with the CRA, 
+which already establishes conformity assessment and CE marking requirements f or ICT 
+products. To avoid duplicative certification obligations and increased administrative 
+burden for manufacturers, we recommend that CE marking under the CRA be deemed 
+sufficient for compliance with any NIS2 delegated act on ICT product certification. 
+• Provide additional guidance and support. The CRA, NIS2, DORA, AI Act and GDPR each 
+create separate  notification procedures across different types of incident and involving 
+different authorities, reporting channels and requirements. Authorities should provide 
+common guidance to help companies cla ssify an incident and assess reporting 
+requirements, and ideally bring all notifications within the scope of the SEP. 
+Furthermore, in addition to the harmonization of reporting obligations, it would be 
+beneficial for the purpose of the (proposed) regulations, if companies could voluntarily 
+obtain government support in the security incident analyzing and triaging process – to 
+better understand the root cause of the incident and the potential impact. Upon these 
+results, security subject matters experts could be provisioned to help further investigate 
+the cause of the incident, minimize the impact and support (digital) recovery.    
+ 
+2. Expand the SEP to cover serious incidents under the AI Act 
+Article 73 of the EU AI Act requires reporting of serious incidents. Given the wide scope of the 
+EU AI Act, such incidents are potentially reportable under different frameworks such as the 
+CRA, NIS2, DORA, the GDPR or the General Product Safety Regulation.  To reduce 
+fragmentation, duplicative reporting and to simplify compliance, the Omnibus should include 
+serious incidents under the EU AI Act in the scope of the proposed SEP mechanism. 
+This approach would eliminate the need for Member States to manually reconcile overlapping 
+legislative obligations and would accelerate information -sharing among cyber, AI, and 
+product-safety regulators. Over time, it could also support a more coherent understanding of 
+emerging risks, including clearer distinctions between model-level and system-level incidents. 
+3. Take into account persistent challenges with the Cyber Resilience Act (CRA) timelines  
+ 
+The effective implementation of CRA depends on the timely availability of harmonized 
+standards. To support effective CRA implementation, EU policymakers must recognize  the 
+need to align compliance timelines with the availability of CRA harmonized standards.  
+Industry requires at least 8 –12 months to integrate standards into product development 
+cycles—often longer for products like microprocessors. Standards must therefore be available 
+well before compliance deadlines, ideally before conformity assessments can even begin.  
+ 
+Given that sufficient time should be ensured for the development and integration of 
+harmonized standards and that delays in the standardization process may occur, industry had 
+asked for an extension of the CRA’s applicability timeline. As with the RED fram ework, 
+postponing applicability is more practical than imposing unrealistic development timelines.  
+ 
+ 
+ 
+ 
+20 
+However, despite these important challenges, the proposed Omnibus does not propose any 
+adjustment of the CRA timeline, therefore maintaining significant uncertainty for industry. 
+ 
+While we understand that negotiating such postponement of the CRA’s timelines  under the 
+current simplification package may present challenges, we urge EU policymakers to take into 
+account the challenges described above. Ideally, we urge the EU to work towards allowing for 
+an extension of the CRA’s implementation timeline in the current Digital Omnibus, 
+acknowledging that delays in the standardization process may occur and that industry 
+requires adequate time to integrate standards into product development cycles.  
+ 
+Privacy: GDPR and ePrivacy 
+ 
+1. Support and clarify the changes to the definition of personal data – Art. 4 GDPR 
+ 
+We support the Commission’s proposed changes to the definition of personal data in Article 
+4(1) of the GDPR. These changes help in clarifying and harmonizing the definition of personal 
+data under the GDPR. The proposal confirms that information qualifies as personal data only 
+where a specific controller can reasonably identify an individual using the means available in 
+practice, de-facto codifying the "relative approach" applied by the Court of Justice of the EU, 
+for example in the Breyer ruling of 2016 (Ca se C -582/14) and several times since then, 
+including the Nowak, CRIF, Scania, OLAF and IAB Europe cases, and most recently in the  EDPS 
+v SRB ruling.  This codification from a theoretical to an operational standard strengthens 
+legal certainty and supports more consistent enforcement across Member States , while 
+repeating what the CJEU has said and maintaining the core protections and principles of the 
+GDPR. 
+ 
+The proposal underlines the entity-relative test for identifiability (i.e., information is not to be 
+considered personal data for entities who cannot identify the person to whom that 
+information belongs.) This makes it clear  that the GDPR applies only where identification is 
+realistically feasible. 
+ 
+However, we urge co -legislators to further clarify the proposal . In particular, it would be 
+helpful to clarify the notion of “means reasonably likely to be used by that entity” to identify 
+a natural person. The Omnibus should explicitly require that the assessment of whether 
+information constitutes personal data takes  into account factors such as the time, cost, 
+technological resources, and safeguards available to the controller, as well as lawfulness and 
+foreseeability of identification, and the specific c ircumstances of the processing (e.g., where 
+data is processed for security/performance purposes and an entity lacks the means for 
+identification). Crucially, illicit activities like hacking or unauthorized access by rogue 
+employees constitute security brea ches or legal violations rather than "reasonable means" 
+for identification and should not factor into the identifiability threshold. Adding these 
+considerations would reinforce the principle of proportionality and ensure closer alignment 
+with Recital 26, s upporting a more balanced and coherent application of the Regulation. In 
+addition, the proposed amendment should also explicitly state that the assessment of 
+whether the entity has reasonable means available to identify the data subject applies even 
+in the case of data sharing within the same corporate group. One entity may treat data as 
+ 
+ 
+ 
+ 
+21 
+personal while another does not, provided each conducts a genuine assessment of its own 
+means of identification. This clarification would ensure that obligations are proportionate and 
+based on actual identification capability, not on what another entity could theoretically do. 
+ 
+Finally, we urge co ‑legislators to ensure that the Commission meaningfully involves a broad 
+range of stakeholders, including industry and business representatives in the consultations 
+foreseen under Article 41a (4) on the criteria for pseudonymisation and identification. Such  
+engagement is essential to ensure that the implementing acts reflect real ‑world technical 
+constraints and operational practices. Companies across sectors work daily with diverse 
+datasets, complex data architectures, and modern privacy ‑enhancing technologies, and can 
+provide concrete, evidence‑based insights into how pseudonymisation techniques perform in 
+practice, where residual re ‑identification risks persist, and which safeguards are technically 
+feasible at scale. Without this practical expertise, there is a risk that implementing criteria 
+may be misaligned with existing data processing realities, difficult to operationalize, or 
+inadvertently hinder innovation. Consultation with industry will therefore be critical to ensure 
+that the im plementing acts are workable, proportionate, and capable of delivering 
+meaningful legal certainty for all actors in the data ecosystem. 
+ 
+2. Support and clarify the definition of scientific research – Art. 4 (38) GDPR 
+ 
+We welcome the proposed definition of scientific research (article 4(38)), which confirms that 
+the GDPR specific rules for research apply also to research that furthers commercial interests. 
+This change results, at last, in an alignment with recital 159 of  the GDPR (which supports a 
+broad interpretation of research) and will help stimulate Europe’s innovative potential, while 
+being accompanied by solid safeguards.   
+ 
+While the text refers to contributions to “knowledge and wellbeing,” this should be 
+understood as illustrative rather than limiting. The key criterion should be a broader positive 
+impact on society, extending to research that improves safety, security, eff iciency or 
+accessibility of goods and services. To maximize societal benefit, we suggest lighter and more 
+flexible conditions in the definition, avoiding overly narrow concepts that could inadvertently 
+exclude legitimate industrial research. As such, we su ggest the amendment below to article 
+4(38) of the GDPR: 
+ 
+(38) “scientific research” means any research which can also support innovation, such as 
+technological development and demonstration. These actions shall contribute to existing scientific 
+knowledge or apply existing knowledge in novel ways, be carried out with the aim of contribute to 
+positive impact on society, including but not limited to  contributing to the growth of society´s 
+general knowledge and wellbeing, safety and security , efficiency or accessibility of goods and 
+services and adhere to ethical standards in the relevant research area. This does not exclude that the 
+research may also aim to further a commercial interest.’ 
+ 
+2. Support and clarify changes to Article 9 GDPR on special categories of personal data 
+ 
+ITI welcomes the Commission’s changes to Article 9 of the GDPR, related to the processing of 
+special categories of personal data for the purpose of AI training and operation and urges co-
+legislators to support the European Commission’s proposal. The amendments recognize that 
+ 
+ 
+ 
+ 
+22 
+processing of certain sensitive categories of data (e.g., in relation to health or gender) is 
+needed to develop and operate accurate AI models and systems that reflect wider cultural 
+and social contexts. A pragmatic interpretation of Article 9 of the GDPR is crucial to provide a 
+more comprehensive framework for lawful processing of special categories of personal data 
+in AI contexts, and ensure the development of AI models adapted to the European continent. 
+At the same time, article 9 imposes strict safeguards which aim to protect fundamental rights. 
+ 
+While the Commission’s proposal is a step in the right direction, we would welcome additional 
+clarifications in the Omnibus aimed at ensuring a truly risk -based application of the 
+safeguards in Article 9.  
+ 
+A. The proposal should clarify the scope of measures in Article 9 (1) GDPR.  
+ 
+The scope of Article 9 has expanded beyond its original intent to protect the most sensitive 
+categories of data due to court decisions and wide interpretations from Data Protection 
+Authorities (DPAs). For instance, the CJEU’s Lindenapotheke ruling confirms that Article 9 may 
+apply even where there is only a potential for data to reveal special category data (SCD), while 
+the Bundeskartellamt and OT v Vyriausioji tarnybinės etikos komisija decisions further extend 
+coverage to incidental or indirect processing, regardless of intent.  
+ 
+These expansive interpretations have been reinforced by DPAs and have resulted in almost 
+any personal data risking classification as ‘special category of data,’ thus making it increasingly 
+challenging to process data in the absence of explicit consent. Labelling too many data types 
+as “sensitive,” without a clear risk rationale dilutes the focus on truly high -risk data uses, 
+leading to inefficient allocation of privacy resources and barriers to safety and innovation. 
+This approach is impractical and misalig ned with the original purpose of Article 9, especially 
+in the context of AI and large -scale automated systems. This is why we urge co-legislators to 
+support amending Article 9(1) of the GDPR in the Omnibus. 
+ 
+Suggested amendment to Article 9(1) 
+ 
+1. Processing of personal data for the  purpose of directly  revealing a specific data  
+subject’s racial or ethnic origin, political opinions, religious or philosophical beliefs, or 
+trade union membership, his or her health status or sex life or sexual orientation and the 
+processing of genetic data or of biometric data for the purpose of uniquely identifying 
+a natural person shall be prohibited. 
+ 
+B. Co-legislators should expand the scope of the derogation for processing special 
+categories of data for AI in the proposed articles 9(2) and 9(5).  
+ 
+The Omnibus proposal introduces in Article 9(2)(k) of the GDPR an explicit legal basis for the 
+residual processing of special categories of data (SCD) in the context of the development and 
+operation of AI systems and models. The legal basis in the new Article 9(2)(k) is however 
+conditional to a number of strict safeguards spelled out in the newly -proposed article 9(5) 
+GDPR in the Omnibus.  
+ 
+ 
+ 
+ 
+ 
+23 
+Article 9(5) creates a three -tier framework of safeguards for the processing of SCD for the 
+purpose of training and operating AI. These would include: 1) Implementing measures to 
+avoid collection and processing of SCD, 2) if SCD is identified in a dataset,  it should be 
+removed, 3) if removal requires disproportionate effort, protective measures must be 
+implemented. Article 9(5)  positively recognizes  that the presence of residual SCD in large 
+datasets is sometimes unavoidable. However, by restricting processing to cases where SCD 
+cannot be technically removed, article 9(5)  would hinder  its intentional use in training  
+datasets - even when such data is necessary for developing accurate and representative  AI 
+models and systems. This could impact legal certainty for entities training and operating AI 
+models and systems in the EU, with potential negative effects on innovation and 
+competitiveness.  For example, processing of SCD would be needed for hospitals to train 
+certain AI systems (e.g., for clinical trials) or to train certain fraud detecting systems – even 
+where there is no intent or risk of re-identification.  
+ 
+To address this issue, article 9(5) should be amended to allow for processing of SCD  used 
+solely for technical training or validation , where there is no intent or realistic risk of re -
+identification. With sufficient safeguards and adherence to data minimization and purpose 
+limitation, this processing remains consistent with data protection principles while enabling 
+trustworthy, safe, and competitive AI systems. 
+ 
+Suggested amendment to Article 9(5) 
+ 
+5. For processing referred to in point (k) of paragraph 2, appropriate organisational and 
+technical measures shall be implemented  in line with Article 89 GDPR to limit the 
+processing of special categories of personal data. to avoid the collection and otherwise 
+processing of special categories of personal data. Where, despite the implementation of 
+such measures, the controller identifies  special categories of personal data in the 
+datasets used for training, testing or  validation or in the AI system or AI model, the 
+controller shall remove such  data. If removal of those data req uires disproportionate 
+effort, the controller  shall in any event effectively protect without undue delay such 
+data from being  used to produce outputs, from being disclosed or otherwise made 
+available to third parties 
+ 
+C. Refine the proposed biometric provision in Article 9 (2)(l) 
+ 
+The Omnibus proposal introduces in Article 9(2)(l) of the GDPR an explicit legal basis for the 
+processing of special categories of data (SCD) in the context of biometric verification. The 
+proposal is helpful and it should aim to ensure data can be used to support the deployment 
+of innovative industrial applications in Europe (e.g. workforce identity, access management, 
+infrastructure management, authorizations for high -risk machinery, supply chain logistics 
+security, etc.). While we generally support the provision, we urge co-legislators to refine the 
+proposed language.  
+ 
+As drafted, the provision may inadvertently narrow the lawful use of biometric 
+authentication. By creating a bespoke Article 9(2) exception, the proposal implicitly assumes 
+that all biometric authentication is special category processing and can impact a r ange of 
+authentication practices. The reference to “sole control” is ambiguous and risks excluding 
+ 
+ 
+ 
+ 
+24 
+common, privacy-preserving architectures, such as hardware -secured, on-device matching, 
+simply because device manufacturers retain control over firmware, security patches, or 
+platform integrity. What matters in practice is not exclusive possession, but effective control, 
+meaning that only the data subject can authorize use of their biometric data for verification, 
+and that technical and contractual measures make it impossible for any third party to access 
+or repurpose the biometric template. 
+ 
+This is why we suggest replacing “sole control” with “effective control” and clarifying that the 
+assessment of “necessity” must be internal to the chosen authentication method. If the 
+exception then applies only where “sole control” is met, mainstream implementations, device 
+based verification, secure enclaves, or ecosystems with cloud linked enrolment may fall 
+outside the exception and be pushed into explicit consent models where none was previously 
+required.  A shift to “effective control,” combined with a purpose -specific necessity test, 
+would provide legal certainty while supporting secure, user -controlled biometric 
+authentication 
+ 
+Suggested amendment to Article 9 (2)(l) 
+ 
+(l) “Processing of biometric data is necessary for the purpose of confirming the identity of 
+a data subject (verification) through means of biometric data processing , where the 
+biometric data or the means needed for the verification is under the sole effective control 
+of the data subject” 
+ 
+3. Support the proposed simplification of data breach reporting – Art. 33 GDPR and Art. 4 
+ePrivacy Directive 
+ 
+The proposed amendment to Article 33 of the GDPR and repeal of Article 4 of the ePrivacy 
+Directive introduce many welcome changes which will significantly reduce complexity of data 
+breach notification requirements under the two frameworks. We urge co -legislators to 
+support these Commission’s proposals. These include: 
+ 
+• Article 33(1) of the GDPR in the Omnibus raises the threshold of reportable data 
+breaches under the GDPR, by focusing on situations where the data breach is ‘likely to 
+result in a high -risk to rights and freedoms of a natural person.’ The Omnibus would 
+also extend the deadline for reporting data breaches, from 72 hours to 96 hours. The 
+new threshold and extended timelines will ensure that authorities no longer receive 
+reports about minor incidents, and help companies focus effort and resources on 
+incident mitigation and direct regulators’ resources to truly high-impact incidents. 
+• The Omnibus also introduces a uniform template which will greatly simplify the 
+reporting process for businesses.     
+• The new Article 33(1) would allow controllers to leverage the proposed single -entry-
+platform (SEP) for incident reporting to notify possible data breaches under multiple 
+frameworks. The repeal of Article 4 of the ePrivacy Directive and the integration of 
+GDPR data breach reporting in the SEP mechanism will remove the duplicative 
+notification requirement and streamline reporting by providers who would otherwise 
+have to deal with overlapping obligations.     
+ 
+ 
+ 
+ 
+25 
+• Taken together, we understand that the extended deadline, template and SEP will 
+help companies in scope of multiple data breach and cybersecurity reporting 
+obligations submit only one report to the SEP and be compliant with all applicable 
+rules, and this will remove obligations to report to each authority individually under 
+each applicable framework and significantly reduce the cost and effort involved in 
+reporting an incident in scope of overlapping reporting obligations.  The Commission 
+should clarify that this is the intention. Some areas where it would be helpful to have 
+additional clarification include:  
+o Who will assess the case (ENISA or competent DPA)?  
+o Whether ENISA will forward reports to DPAs. 
+o How timelines will be streamlined across regulations.  
+o How incidents will be reported to the relevant supervisory authority for the 
+controller.  
+o Whether competent authorities will respond to companies or if this will be 
+handled by the SEP. 
+o Whether information can be submitted in English and no extra information is 
+requested beyond the common template when using the SEP. 
+• The proposed article 33(6) GDPR tasks the European Data Protection Board to prepare 
+the common template for the notification of data breaches as well as additional 
+guidance on the circumstances where a data breach is ‘likely to result in a high-risk to 
+rights and freedoms of a natural person.’ This is a very welcome proposal which will 
+help increase legal and operational certainty for companies in the Single Market, 
+especially those operating cross-border. 
+ 
+Finally, it is important to underscore that while the creation of the SEP will likely require time 
+to set up a centralized and secure IT system, it should not delay the introduction of the new 
+threshold and deadline or the development of the template for r eporting data breaches. 
+Ensuring these adjustments can apply immediately after the finalization of the legislative 
+process will deliver a significant level of simplification for a very large number of providers in 
+the short term.  
+ 
+4. Support proposed clarifications on automated decision making – Art. 22 GDPR 
+ 
+We urge co -legislators to support the Commission’s proposal in article 3(7) of Omnibus 
+regarding automated decision making under article 22 of the GDPR. The proposal clarifies that 
+automated decisions are permissible when certain conditions are met, even i f human 
+decision-making is possible. This flexibility supports innovation and digital transformation in 
+the EU while upholding high standards of fundamental rights protection in genuinely 
+consequential decisions. 
+ 
+5. Support and clarify legitimate Interest for AI training – new Art. 88c GDPR  
+ 
+We support the proposed new Article 88c of the GDPR , which clarifies that legitimate 
+interest may serve as a lawful basis for the training and operation of AI systems and models. 
+This proposal explicitly aligns the legal text of the GDPR with the European Data Protection 
+Board’s (EDPB) opinion on AI models which confirmed that legitimate interest can be used as 
+ 
+ 
+ 
+ 
+26 
+a legal basis for training and deploying AI, while upholding fundamental rights. 1 Such 
+interpretation is also aligned with previous guidance from certain Data Protection Authorities, 
+such as the French CNIL. Transforming the EDPB’s opinion into binding law in article 88c of 
+the GDPR will help create legal certainty in the Single Market and providing stable compliance 
+foundations for AI innovators in Europe. 
+ 
+The current text of the proposal should be further amended to increase clarity and 
+consistency of the measure. In particular, we suggest the following changes:  
+• Remove the reference to “national laws” as an exception, which undermines GDPR 
+harmonization, risks regulatory fragmentation and could create a patchwork of laws 
+complicating compliance; 
+• Avoid listing specific technical, organizational measures and safeguards in the legal 
+text of article 88c, which could undermine flexibility. The GDPR’s existing 
+requirements already provide for appropriate measures to uphold data subject rights.  
+ 
+Proposed amendment:  
+Article 88c 
+Processing in the context of the development and operation of AI 
+Where the processing of personal data is necessary for the interests of the controller in the 
+context of the development and operation of an AI system, as defined in Article 3(1) of 
+Regulation (EU) 2024/1689, or of an AI model, such processing may be carried out on the basis 
+of legitimate interests within the meaning of Article 6(1)(f) of Regulation (EU) 2016/679, 
+where appropriate, except where other Union or national law explicitly requires consent, or 
+where such interests are overridden by the interests or fundamental rights and freedoms of the 
+data subject which require the protection of personal data, in particular where the data subject 
+is a child. 
+Any such processing shall be subject to appropriate organisational and technical measures and 
+safeguards to protect the rights and freedoms of the data subject. These shall include, as 
+appropriate, measures to ensure respect for data minimisation during the selection of data 
+sources and the training and testing of the AI system or AI model, to prevent the disclosure of 
+residually retained personal data by the AI s ystem or AI model, to ensure enhanced 
+transparency for data subjects, and to provide data subjects with an unconditional right to object 
+to the processing of their personal data. 
+6. Increase scope of the exemptions in new cookie rules – new Art. 88a  
+ 
+The new Article 88a of the GDPR proposes a new, consent -centric framework for accessing 
+and storing information on users’ devices. The proposal would build on the ‘cookie’ rules in 
+Article 5(3) of the ePrivacy Directive by making consent the default legal basis for processing 
+personal data in the terminal equipment of natural persons, and permitting only four narrow 
+and unclear exemptions (88a (3) (a -d)). Article 88a (4) would further impose detailed user 
+interface (UI) obligations, including mandatory sing le-click consent mechanisms and a six -
+ 
+1 https://www.edpb.europa.eu/news/news/2024/edpb-opinion-ai-models-gdpr-principles-support-
+responsible-ai_en  
+ 
+ 
+ 
+ 
+27 
+month prohibition on repeated consent requests, which apply to both initial access and 
+subsequent processing activities. 
+ 
+This approach is a missed opportunity to modernize, simplify and align the outdated 
+ePrivacy framework, which is no longer fit for purpose . In combination with Recital 44, the 
+proposed approach in article 88a is restrictive and leaves minimal scope for reliance on 
+legitimate interests or other legal bases under Article 6 of the GDPR, therefore diverging from 
+the GDPR’s risk -based framework. While this measure seeks to simplify existing rules, the  
+proposal instead creates a complex sub -regime by layering new technical obligations and 
+consent infrastructure onto the existing GDPR and ePrivacy frameworks, thereby increasing 
+regulatory complexity and legal uncertainty. It also creates a dual regime where some cookie 
+uses are brought within the scope of the GDPR while others are not, and oversight is further 
+fragmented across even more regulators. 
+ 
+We are particularly concerned with the narrow scope of the exemptions in 88a (3) (a -d), 
+laying out circumstances in which access to and processing of personal data stored in the 
+terminal equipment of a natural person is lawful without consent. The proposed exemptions 
+are too narrow to be practical for most companies , and do not reflect a proportionate 
+approach. The provision fails to introduce exemptions for low -risk cookie uses that are 
+essential for different players in the digital economy, including adve rtisers, service providers 
+and device manufacturers. As such, it does not meaningfully enhance user experience or 
+reduce consent fatigue from a customer perspective. 
+ 
+This is why we urge co-legislators to amend the exemptions in article 88a (3) to cover a wider 
+range of transparent, low -risk processing activities that should not strictly require consent, 
+such as (i) security; (ii) fraud prevention; (iii) product maintenance; (iv) software updates; (v) 
+contextual advertising; (vi) aggregated analytics, including via third parties; (vii) frequency 
+capping; and (viii)  personalization based on first -party data. In particular, we recommend 
+addressing the following points: 
+ 
+1) Introduce wider exemptions for contextual advertising and contextual 
+personalization: The lack of ambition of the proposal misses a vital opportunity to 
+simplify rules for cookies and incentivize privacy -centric models like contextual 
+advertising ( i.e.,  that is not  behavioural). Co-legislators should amend article 88a to 
+extend the exemption to  contextual advertising along with the basic functions 
+required to ensure advertising is safe and effective, specifically frequency capping, ad 
+fraud and brand saf ety and third party analytics. It should also support essential and 
+non-intrusive activities such as ad verification and ad measurement required to 
+accurately invoice for advertising services. Similarly, the provision should be amended 
+to extend the consent exemption to contextual personalization, that is, 
+personalization that does not rely on behavioural tracking or cross ‑site profiling. 
+Contextual personalization is used for language or currency display based on basic 
+device information, or layout settings that users reasonably expect as part of normal 
+service functioning. As such, it poses minimal privacy risks and it is essential for 
+ensuring accessible, friction‑free digital experiences. 
+ 
+ 
+ 
+ 
+28 
+2) Recognize role of third -parties in digital supply chains:  the proposed approach fails 
+to take into account the important role of third parties in digital supply chains. Point 
+c) of paragraph 3 would allow access and processing of personal data for audience 
+measurement of an online service without consent, but only where the measurement 
+is performed by the controller of the online service ‘solely for its own use.’ This 
+approach would preclude the media sector from sharing non-aggregated information 
+with business partners and authorized measurement vendors, which is crucial for the 
+sector as recognized by the European Media Freedom Act (EMFA). It is therefore 
+essential that co-legislators amend this provision to include authorized third parties 
+acting as joint controllers and clarify that “for its sole purpose” does not preclude the 
+controller or joint -controller from sharing the non -aggregated information resulting 
+from the measurement process. 
+3) Clarify the security exemption and widen exemptions for fraud detection and 
+prevention: point d) of paragraph 3 regarding security is narrowly described; we 
+consider that it should at least be made explicit that the exemption applies for 
+objectives of security protection, combatting fraud and related software updates.  
+Co‑legislators should introduce a clear and consistent exemption from the 
+cookie‑consent requirement for processing necessary for fraud detection and 
+prevention. Under the proposed Article 88a, fraud ‑related processing does not 
+provide an explicit exemption from consent requirements. This is a missed 
+opportunity to align cookie -based fraud detection and prevention with the GDPR, 
+which already recognizes fraud prevention as legitimate, non‑consent‑based grounds 
+for processing personal data. Given the limited pr ivacy risks associated with this use 
+of cookies typically used for fraud controls and the essential role of fraud prevention 
+processing in maintaining trust in digital transactions, the exemption should be clearly 
+recognized to ensure a coherent legal framework.  
+4) Extend the exemption to processing which is necessary to comply with legal 
+obligations (such as the PSD2 or the Data Act). For example, regulations such as the 
+Payment Services Directive 2 explicitly require processing of personal data for fraud 
+monitoring and Strong Customer Authentication, and compliance with these 
+obligations cannot depen d on individuals’ consent. Refusal of consent in this case 
+would make legal compliance impossible and would render fraud controls ineffective. 
+Fraudsters would not conse nt, and legitimate users may be unable or unwilling to 
+navigate repeated consent prompts. Lack of clear recognition of the necessity to 
+comply with the legal obligation may lead to inconsistency exposing organizations to 
+conflicting obligations under GDPR and other laws and undermining the stability and 
+integrity of the payments ecosystem.  
+5) Introduce a new exemption for load balancing technologies : Load ‑balancing 
+technologies are strictly technical measures required to distribute network or server 
+traffic efficiently and have no meaningful impact on users’ privacy. Given their 
+low‑risk, service‑enabling nature, these operations should fall clearly within the list of 
+permitted, non‑consent‑based purposes 
+6) Clarify that exemptions apply to all devices: the Omnibus should clarify that the 
+proposed exemptions encompass not only all storage and access technologies but also 
+all devices, including IoT products, tablets, computers and peripherals, applications on 
+mobiles and devices. Additionally, more clarity is needed around how the exemptions 
+ 
+ 
+ 
+ 
+29 
+apply to the use of devices in a commercial setting (such as office printers), e.g. 
+consent should not be required by employees in cases where a company administrator 
+has consented to their use on behalf of an organization. Finally, the exemptions should 
+also consider the need for greater flexibility around low privacy risk uses in IoT, devices 
+and app ecosystems that support technological innovation. For instance, clarifying 
+that exemptions apply to preinstalled applications on devices would facilitate fas ter 
+communication between these applications and system providers, enabling more 
+effective planning for required storage and computing capabilities to respond to user 
+needs. 
+ 
+We are also concerned with the prescriptive user interface requirements in paragraph 4 of 
+the proposed article 88a. The proposed user interface requirements in paragraph 4 entrench 
+today’s prescriptive regulatory guidance to present an ‘accept all/reject all’ button on the first 
+layer and limit regulator discretion to recognize future innovation in consent management, 
+making it difficult for publishers and advertisers to process cookie data, even with consent. 
+This leads to a disproportionate compliance burden, a heightened risk of GDPR sanctions, 
+inconsistent enforcement, and increased user consent fatigue.  
+ 
+In addition, the Omnibus in its current form adds further complexity by expanding the 
+instances where different national authorities are competent to supervise the amended rules 
+for cookies as they fall under both ePrivacy and GDPR, leading to legal uncertainty and higher 
+compliance costs for providers.  
+ 
+To achieve genuine simplification quickly, the Omnibus should also fully phase out the Article 
+5(3) of the ePrivacy Directive and move all rules regarding terminal equipment into the 
+GDPR. Having the entire terminal equipment regime under the GDPR’s "one -stop-shop" 
+mechanism would ensure a unified, consistent, risk-based approach for companies and avoid 
+parallel oversight and enforcement by lead DPAs and national regulators.  
+ 
+In the long term, the European Commission should ideally phase out the rest of the ePrivacy 
+Directive from the EU acquis and repeal its national transpositions, for example as a follow up 
+to the Digital Fitness Check. This would allow the GDPR to serve as the horizontal legal 
+framework governing the processing of personal data in the electronic communications 
+sector, including for cookies, as well as traffic and location data. Ultimately, the EU should 
+pursue harmonization of regulatory approaches to cookie s and similar technologies and 
+ensure a proportionate implementation grounded in the GDPR’s risk-based approach. 
+ 
+7. Reject complex new rules on automated consent choices – new Art. 88b 
+ 
+The proposed new Article 88b of the GDPR would introduce a framework for consent 
+interfaces to transmit machine -readable consent signals. Controllers would be required to 
+recognize and interpret such signals, with certain media service providers benefiting  from 
+specific exemptions. In addition, the proposal would establish a new “trusted flagging 
+infrastructure” to complement existing consent mechanisms. The lack of legal and technical 
+workability of Art.88b introduces profound uncertainty that risks underm ining existing ads -
+ 
+ 
+ 
+ 
+30 
+funded business models and the open internet. As such, we urge co-legislators to remove it 
+from the Commission’s proposal.       
+ 
+Efforts in establishing centralized, EU -wide consent tools (e.g., the ePrivacy  Regulation and 
+Cookie Pledge initiative) have repeatedly failed due to technical and political challenges. The 
+reality is that no interoperable technical standard exists for universal, machine -readable 
+consent signals across browsers, operating systems, a pps, and devices. In light of this, a 
+mandatory, infrastructure-level consent signal rule appears unrealistic and misaligned with 
+the Omnibus Proposal’s core objectives and should be deleted from the Omnibus proposal. 
+ 
+Such tools fail to satisfy the core requirements of the GDPR and are unlikely to resolve the 
+issue of "banner fatigue." Since signals are inherently broad, they cannot provide the 
+"specific" and "informed" consent required by the GDPR. A single setting renewed every few 
+months cannot possibly account for the unique data practices of millions of different 
+websites. As a result, consumers cannot express a service-by-service consent and the law will 
+continue to require publishers to obtain and record valid consent by prompting users to make 
+choices, meaning the total number of banners will remain largely unchanged. Furthermore, 
+browsers lack the oversight capabilities and legal responsibility to monitor how individual 
+sites actually handle data, which creates a significant risk of transparency gaps and fraud.    
+ 
+This centralized approach also threatens the financial stability of the digital ecosystem. By 
+limiting personalization and lowering consent rates, these mechanisms drastically reduce the 
+value of advertising , making it harder for European businesses to fund their operations or 
+reach new customers. Even contextual advertising is at risk; essential backend functions like 
+frequency capping and fraud detection rely on the very cookies that would be blocked. 
+Ultimately, this loss of revenue will force publishers  to adopt paywalls, creating a "two -tier" 
+internet where quality information is no longer free to everyone.     
+ 
+The proposed exemption for media service providers would additionally and significantly 
+complicate implementation of this system. The exemption would create a two -tiered 
+approach to consents, distinguishing between “media service providers” and non -“media 
+service providers”.  This would be unworkable to implement. Such an arrangement would 
+require companies to  identify GDPR-exempt “media service providers” that may override 
+central consent choices, as opposed to others that must adhere to them. This complexi ty 
+would likely increase  consumer confusion, as users would continue to  encounter cookie 
+banners when visiting media sites. The potential appointment of one or 
+more standardization bodies to develop standards for interpreting machine -readable 
+indications o f data subjects’ choices does not provide a satisfactory solution to these 
+technological challenges. 
+ 
+As mentioned above, the most effective solution to resolve the “cookie fatigue” problem 
+would be to expand Article 88a by exempting contextual advertising and basic ad 
+functionalities (e.g. frequency capping, ad fraud and brand safety and or third-party analytics) 
+from consent. Since these technical processes are low risk and do not involve personal 
+profiling, exempting them offers a practical path to decluttering the web of consent banners 
+while incentivizing the adoption of privacy-preserving practices.  
+ 
+ 
+ 
+ 
+31 
+7.Support enhanced safeguards against abusive or excessive data subject requests – Article 
+12(5) GDPR 
+ 
+The Digital Omnibus strengthens the ability of controllers under Article 12(5) GDPR to address 
+data subject access requests (Article 15) that are manifestly unfounded or excessive, including 
+where requests are being used for purposes unrelated to data prot ection, such as tactical 
+leverage in litigation or automated mass submissions. 
+In practice, some access requests are submitted primarily as alternative discovery 
+mechanisms in legal disputes or compliance investigations, rather than as genuine exercises 
+of data protection rights. These requests can impose a disproportionate operation al burden 
+and divert compliance resources away from responding to legitimate data subject concerns. 
+We therefore support the Omnibus’ proposed mechanisms under Article 12(5) GDPR, which 
+provide clearer grounds to refuse or appropriately manage abusive or excessive requests and 
+help ensure that data subject access rights remain effective, proportionate, and aligned with 
+their intended purpose. 
+8. Support and clarify the harmonization of Data Protection Impact Assessments (DPIAs) – 
+Art. 35 GDPR    
+        
+We welcome the Commission’s proposal to harmonize the list of processing operations 
+requiring a DPIA through a centralized EU-level mechanism.     
+However, to ensure this harmonization truly achieves its simplification goals, further 
+refinements are needed:    
+a) Avoid the creation of an expansive “super-list:” There is a risk that the new European 
+Data Protection Board (EDPB) list could become a cumulative amalgamation of all 
+existing national requirements, resulting in a more onerous obligation than currently 
+exists in any single Member State. The Omnibus should mandate that the harmonized 
+list reflects the established consensus of national authorities rather than introducing 
+new, expansive categories of processing.    
+b) Clarify non -retroactivity through a “grandfathering clause:”  The Omnibus should 
+explicitly state that new DPIA requirements apply only to new processing operations, 
+ensuring that established services compliant under previous guidance are not subject 
+to retroactive assessments.    
+Data Governance 
+ 
+1. Consider the Data Act’s complexity and implementation timelines 
+ 
+The Data Act creates several challenges  due to unclear definitions – including for the 
+products, services and data in scope – complex requirements, overlaps, and uncertainty over 
+expected deliverables in support of its application (such as guidance and relevant standards). 
+The Data Act’s comple x requirements are creating significant implementation costs and 
+ 
+ 
+ 
+ 
+32 
+compliance burdens for companies. This uncertain landscape will disincentivize investments 
+in data innovation and run counter to the EU’s innovation objectives. 
+ 
+Despite it being among the most complex EU digital regulations, the Omnibus simplification 
+package does not meaningfully address the most pressing challenges created by the Data 
+Act. More ambition will thus be essential under the current Omnibus proposal as well as the 
+upcoming Digital Fitness Check to resolve these issues and deliver much needed simplification 
+of the Data Act. It is important to ensure that the Data Act’s B2B data-sharing obligations are 
+applied proportionately, respect commercial realitie s, and do not undermine data driven 
+innovation. While we welcome data sharing where it delivers clear public or economic value, 
+a horizontal, compulsory approach does not always reflect how software, cloud, and AI 
+services generate value. 
+ 
+Industry has also consistently recommended postponing the implementation of the Data Act 
+by at least 24 months, to ensure transition periods are sufficient and relevant guidelines and 
+legal clarity are in place for businesses. Timing pressures are aggravated by challenges arising 
+from the lack of clarity around key Data Act definitions, including “data,” “products,” and 
+“related services,” as well as unclear interplay between the Data Act and other regulatory 
+frameworks, such as  the GDPR complicating compli ance efforts further. Moreover,  the 
+implementation timelines should also take into account the readiness of EU Member States 
+to designate competent authorities and adopt the rules required under Article 40 of the Data 
+Act. These rules, relating to penalties and enforcement, are essential to legal certainty, yet 
+they have not been published to date. Without clarity on which authorities will oversee 
+compliance, especially in non-personal data contexts, businesses face additional uncertainty. 
+Revised transitio n periods are therefore necessary not only to allow companies to 
+operationalize their obligations, but also to give Member States the time to establish 
+oversight structures and issue guidance to support consistent application across the EU. 
+ 
+We are particularly concerned about timelines for the implementation of Article 3(1) of the 
+Data Act , which mandates designing in -scope products and services so as to make data 
+‘directly accessible’ for users ‘where relevant and technically feasible.’ This requirement is 
+poised to enter into application in September 2026. Currently, there is work underway in CEN 
+and CENELEC on the development of standards (for instance prEN 18235 -3 ‘Trusted Data 
+Transactions – Part 3: Interoperability Requirements) that will determine which investments 
+are necessary to re -design products to comply with the direct access requirement in Article 
+3(1). Unfortunately, the timeline for completion of majority of these standards is in late 2026 
+and early 2027, thus placing it beyond  the compliance deadline of September 2026.  
+Moreover, for already highly regulated products such as medical devices, it will still need to 
+be assessed if these horizontal standards are aligned with and can be useful within the vertical 
+regulatory framework. Longer compliance timelines for  the Data Act are therefore urgent 
+particularly for direct access to data under the Data Act Article 3(1).  
+ 
+While it is not clear whether such postponement of the Data Act’s application can be 
+realistically negotiated under the current simplification package, we urge EU policymakers to 
+take into account the challenges described above either in the current simplification 
+package or under the upcoming Digital Fitness Check. 
+ 
+ 
+ 
+ 
+33 
+2. Further increase protections for trade secrets and other sensitive data under Article 4 
+of the Data Act  
+ 
+The Data Act introduces provisions on compulsory sharing of trade secrets (Article 4). Data 
+holders can refuse sharing their trade secrets in certain cases, but are required to 
+demonstrate the high likelihood of serious economic damages stemming from the disclosure 
+before they are allowed to exercise all of their protective rights. The Commission’s Omnibus 
+proposal introduces additional protections for trade secrets by allowing data holders to refuse 
+disclosing trade secrets if that disclosure ‘poses a high  risk of unlawful acquisition, use, or 
+disclosure to third country entities […] subject to jurisdictions offering weaker or non -
+equivalent protection compared to that under Union law.’  
+ 
+While this amendment is positive, it still falls short from addressing the substantial concerns 
+created by the Data Act. The Data Act’s obligation to disclose trade secrets eviscerates the 
+value of trade secrets, which indeed resides in their non -disclosure, and places a higher 
+threshold to enforcement than other IP rights. It is imperative in a trade secret regime that 
+trade secret owners have the final say as to whether or not to share information because 
+sharing always bears a risk, and the trade secret owner is never made completely whole when 
+a trade secret is misappropriated. 
+ 
+We urge co -legislators to strengthen the protection of trade secrets and sensitive 
+information under the Data Act . Our preference would be to do so by repealing the 
+mandatory sharing of trade secrets and inserting provisions in Article 4(2) of the Data Act 
+allowing users and data holders to contractually restrict access and sharing data where this 
+undermines the confidentiality of the data holder’s trade secrets. 
+ 
+This approach would replace this burdensome model with clear contractual safeguards, 
+allowing users and data holders to agree upfront on restrictions where disclosure would 
+undermine the confidentiality of trade secrets. This approach ensures legal certainty, reduces 
+compliance costs, and provides proportionate protection for sensitive information while 
+preserving the Data Act’s objectives of data portability and interoperability. 
+ 
+As a fallback position, the trade secret owner should be able to impose minimum protection 
+measures on the recipient , and the recipient should be liable for any damages the trade 
+secret owner suffers from non -compliance. Moreover, Article 4 currently requires the trade 
+secret holder to demonstrate that the sharing of trade secrets would lead to high likelihood 
+of suffering economic damage. As mentioned, this creates an extremely high threshold for 
+the enforcement of trade secrets, more than other IP rights.  To ensure a proportionate 
+approach, the burden should be on the entity requesting access to trade secrets to 
+demonstrate that it will take sufficient protective measures for the sensitive data it seeks to 
+access.  
+ 
+In addition, the “Security handbrake” in Article 4.2 of the Data Act should be reinforced by 
+clarifying that it also includes situations where data sharing would foreseeably introduce or 
+exacerbate cyber vulnerabilities, security risks, or cyber incidents. 
+Proposed amendment:  
+ 
+ 
+ 
+ 
+34 
+ 
+Amendments to Regulation (EU) 2023/2854 (Data Act) 
+ 
+Repeal: 
+a. Article 4, paragraphs 6 through 8; 
+b. Article 5, paragraphs 9 through 11; 
+c. Article 6, paragraph 2, subparagraph g; and 
+d. Article 49, paragraph 1, subparagraph f. 
+ 
+Amend Article 4, paragraph 2, as follows: 
+ 
+2. Users and data holders may contractually restrict or prohibit accessing, using or further 
+sharing data, if such processing could undermine security requirements of the connected 
+product, as laid down by Union or national law, or foreseeably introduce or exacerbate 
+cyber vulnerabilities, security risks, or cyber incidents, that, if exploited, could compromise 
+the connected hardware or related services provided by companies, in particular where 
+such compromise would materially endanger or affect resulting in a serious adverse effect 
+on the health, safety or security of natural persons, or the confidentiality of the data holder’s 
+trade secrets.  Sectoral authorities may provide users and data holders with technical 
+expertise in that context. Where the data holder refuses to share data pursuant to this Article, 
+it shall notify the competent authority designated pursuant to Article 37.’ 
+ 
+Add the following paragraph 14 to Article 5: 
+ 
+‘14. Users and data holders may contractually restrict or prohibit sharing data with third 
+parties under paragraph 1, if such sharing could undermine the confidentiality of the data 
+holder’s trade secrets.’ 
+ 
+3. Preserve the possibility to use fixed-term-contracts for all data processing services – 
+Art. 31 Data Act 
+ 
+The Digital Omnibus proposal introduces a (new) art 31b in the Data Act, which excludes 
+certain core cloud services (IaaS) from the list of services for which providers can charge 
+proportionate early termination fees for fixed-term contracts. There is no justification for this 
+exemption in the text of the proposal. In addition, this measure does not represent a 
+simplification of the Data Act – it actually does the opposite: it introduces a significant policy 
+shift and an additional layer of new, unjustified complexity that is not part of the original text, 
+since the current Data Act allows this practice across all type of cloud services, i.e. IaaS, PaaS 
+and SaaS. This proposal arbitrarily singles out IaaS for differential treatment without 
+explanation, introducing precisely the kind of regulatory complexity that a "simplification" 
+package should eliminate. 
+ 
+Under fixed term contracts, customers commit to a minimum level of spend on or usage of 
+cloud services over a chosen contract duration and usually receive a percentage discount on 
+their cloud spend in return. Typically, when a customer does not live up to contract duration, 
+a proportionate fee can be imposed to mitigate costs arising from such termination, e.g. 
+discounts already provided in exchange for the (intended) contract duration. Discounts are 
+generally pro -competitive and beneficial to customers. Th ese practices are particularly 
+ 
+ 
+ 
+ 
+35 
+valuable when customers initially face high costs of capital, as is the case, e.g., for start -ups. 
+Banning such fees would also stifle provider investments because of less certainty on demand 
+to make informed investment decisions. Therefore, the proposed m easure would not make 
+the sector more competitive, but it will only result in making some players less competitive, 
+at the expense of end customers.  
+ 
+The Digital Omnibus proposal should be clarified and/or revised to continue the current ability 
+for cloud providers across all services to charge proportionate early termination fees in case 
+of fixed-term contracts, in line with the Data Act.  
+ 
+Proposed amendment to article 31 (1b):  
+ 
+1b. A provider of a data processing service may include provisions on proportionate early 
+termination penalties in a contract of fixed duration on the provision of data processing services 
+other than those referred to in Article 30(1). 
+ 
+ 
+4. Remove the proposed article 32r on access to public sector data for very large 
+companies 
+ 
+We are concerned about proposed provisions enabling differentiated conditions for “very 
+large companies” - a vague and undefined category in itself - in the context of public sector 
+data reuse (Article 32 r).  
+ 
+Such measures run counter to the regulation’s goal of simplification, as they risk narrowing 
+choices -potentially through higher fees - and adding complexity to the data -sharing 
+ecosystem. The likely consequence is reduced access for EU businesses to advan ced data 
+analytics, particularly in areas critical to AI development and deployment. Moreover, allowing 
+public sector bodies to impose varied licensing terms on large enterprises instead of applying 
+standard open licenses could create incompatibilities between licenses, limiting the ability of 
+all stakeholders - including SMEs and civil society - to combine public sector data with other 
+sources for building comprehensive datasets. This fragmentation would undermine the EU’s 
+ambition to foster data exchange and reuse and in turn hinder rather than contribute to the 
+EU’s AI Continent ambitions. We would therefore encourage policymakers to remove ability 
+to allow differentiated conditions for “very large companies” in the public sector data reuse 
+context (Article 32.r). 
+ 
+*** 

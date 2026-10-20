@@ -1,0 +1,60 @@
+Software design and Free Software licensing are key to enable repairability and extend usage 
+lifetimes of electronic devices. 
+"Software obsolescence" is a major problem regarding the usage lifetime of many devices. Software
+obsolescence comes into effect when hardware manufacturers stop supporting the software of their 
+devices. Instead of updating the software on their previously sold devices, the same manufacturer 
+often publishes a new device with a successive version of the software. In addition, the ability to 
+install the new version on a previous device is artificially restricted.  
+This practice often leaves users with the dilemma of having to buy a new device although the 
+previous hardware would be technically perfectly fine and also technically sufficient to run the new 
+software version. The problem thus is artificially created by manufacturers to raise sales of new 
+devices instead of letting consumers keep using the old one. 
+The practice of software obsolescence also often comes with interoperability problems. If 
+manufacturers do not mind backwards compatibility of electronic devices, newer software versions 
+are not able to communicate with previous ones. Meaning that even if users decide to keep their old 
+device running instead of buying new ones they very soon become incompatible with newer devices
+- although their devices work technically pretty well. 
+An obligation of devices having to use Open Standards would be key to solve the problem of non-
+interoperability of devices. It would further allow to let devices from different manufacturers 
+communicate with each other. To enable interoperability, manufacturers must ensure that any data 
+necessary to run a device's primary function is compatible with and possible to import/export in 
+open standards.
+In order to extend usage lifetime of devices, two factors are key: the universal right to install 
+any software on any device and the publication of source code of drivers, tools and interfaces. 
+Nowadays many manufacturers prevent users from installing third party software or operating 
+systems by artificially locking down devices. Although the right to install any third party software 
+on any device would enable users to choose software that helps them to keep running their devices 
+even if the initial manufacturer has decided to stop their support. It would furthermore enable 
+volatile aftermarkets and enhanced competition regarding re-use of devices.
+For the ability to reuse and repurpose our resources in a creative and sustainable way we need the 
+universal right to install and develop any operating system and software we want on any of our 
+devices. Any legal, technical or other obstacles to reuse these devices for any purpose must not be 
+allowed.
+The publication of source code of drivers, tools and interfaces of any device is key for the 
+universal right to repair. 
+More and more often repairability of devices is not possible because repair shops and services do 
+not have access to the software tools necessary to analyse and repair a device. Same goes for the 
+drivers that are necessary to run certain parts or modules of a device or replacing them with spare 
+Ref. Ares(2022)2637807 - 06/04/2022
+parts from another manufacturer. The situation worsens with the introduction of serialisation of 
+spare parts by manufacturers. 
+Smaller components of a device often require specific drivers, tools, and interfaces to operate. Users
+need full access and free reusability of the source code of those drivers, tools, and interfaces to 
+analyse and integrate a device within a set of interconnected devices from different manufacturers. 
+Source code reusability is also key to exercise the full right to repair for any third-parties from 
+professional repair shops to repair cafés to end users.
+A free license is any license that gives everyone the four freedoms to use, study, share and improve 
+the software, including Free Software and Open Source Software licenses. The obligation to publish
+drivers, tools, and interfaces under such a free license after market entry are key for full access to 
+our devices and exercising the universal right to repair: It enables repair services and users to have 
+full access to the device and to replace spare parts and install third-party software. In addition, Free 
+Software interfaces will additionally support the interoperability of devices.
+Policy recommendations
+Based on exposed so far we urge the EU legislators to include the following principles in the 
+upcoming Directive:
+• End-users should have the right to freely choose operating systems and software running on 
+their devices; 
+• End-users should have the right to freely choose between service providers to connect their 
+devices with; 
+• Devices must be interoperable and compatible with open standards; 
+• Source code of drivers, tools and interfaces are published under a free license. 

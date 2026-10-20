@@ -1,0 +1,70 @@
+﻿table,variable,description,source,source_field,transformation
+lobbyists,lobbyist_id,Primary key = EU Transparency Register identification code. A lobbyist is an organisation registered in the Transparency Register.,[TR] / [MEET] / [HYS] / [OWN],identificationCode / lobbyist_id / trNumber,"ID from the register exports, or official ID given in meetings (lobbyist_id) / consultations (trNumber)"
+lobbyists,source,Where the row comes from,[OWN],,register = in a register export; register_id_not_in_exports = official ID seen in meetings/consultations but absent from both exports (no register variables available)
+lobbyists,in_latest_register,1 if present in the October 2026 export,[TR],,Computed by comparing the two exports
+lobbyists,snapshot,Register export that supplies the row (2026-10 or 2024-01),[TR],,Latest export wins when an organisation is in both
+lobbyists,name,Name of the organisation,[TR] / [MEET] / [HYS],name/originalName / attendees / organization,"Register name; for IDs not in the exports, first spelling seen in meetings or consultations"
+lobbyists,name_latin,Name in Latin alphabet,[TR],name/nameInLatinAlphabet,
+lobbyists,acronym,Acronym,[TR],acronym,
+lobbyists,lobby_type,"Grouped type: business, ngo, union_prof, research, consultancy, public, public_institution, unclassified",[OWN] from [TR],registrationCategory,Mapping of registrationCategory in lobby_types.py (TYPE_OF); unclassified for IDs not in the exports
+lobbyists,registration_category,Official register category (14 categories),[TR],registrationCategory,
+lobbyists,entity_form,Legal form declared by the organisation,[TR],entityForm,
+lobbyists,interest_represented,Whose interests are represented (own / clients / ...),[TR],interestRepresented,
+lobbyists,registration_date,Date of registration,[TR],registrationDate,Date part only
+lobbyists,last_update_date,Date of last update of the entry,[TR],lastUpdateDate,Date part only
+lobbyists,website,Website,[TR],webSiteURL,
+lobbyists,hq_address,Head office address,[TR],headOffice/address,
+lobbyists,hq_postcode,Head office post code,[TR],headOffice/postCode,
+lobbyists,hq_city,Head office city,[TR],headOffice/city,
+lobbyists,hq_country,Head office country,[TR],headOffice/country,
+lobbyists,eu_office_city,EU office city,[TR],EUOffice/city,
+lobbyists,eu_office_country,EU office country,[TR],EUOffice/country,
+lobbyists,members_n,Persons involved in EU lobbying,[TR],members/members,
+lobbyists,members_fte,Full-time equivalent persons,[TR],members/membersFTE,
+lobbyists,members_10pct … members_100pct,Persons by share of time dedicated (10/25/50/75/100%),[TR],members/members10Percent … members100Percent,
+lobbyists,ep_accredited_n,Persons accredited to the European Parliament,[TR],EPAccreditedNumber,
+lobbyists,new_organisation,Declared as new organisation (no closed financial year),[TR],financialData/newOrganisation,
+lobbyists,fin_year_start / fin_year_end,Last closed financial year,[TR],financialData/closedYear/startDate / endDate,
+lobbyists,eu_cost_min / eu_cost_max,Range of costs of EU representation (EUR),[TR],financialData/closedYear/costs/range/min / max,
+lobbyists,eu_cost_absolute,Exact cost of EU representation when declared (EUR),[TR],financialData/closedYear/costs/absoluteCost,
+lobbyists,total_budget,Total budget (EUR),[TR],financialData/closedYear/totalBudget/absoluteCost,
+lobbyists,revenue_min / revenue_max,Range of total annual revenue (mainly consultancies),[TR],financialData/closedYear/totalAnnualRevenue/range/min / max,
+lobbyists,n_meeting_mentions,Number of times the organisation attends an MEP meeting,[OWN] from [MEET],attendees,Count after resolving each attendee to a lobbyist_id (build_lobbyist_tables.py)
+lobbyists,n_meps_met,Distinct MEPs met,[OWN] from [MEET],member_id,Count of distinct MEPs
+lobbyists,first_meeting / last_meeting,Date of first / last meeting,[OWN] from [MEET],meeting_date,Min / max
+lobbyists,n_consultation_responses,Responses to Commission consultations,[OWN] from [HYS],organization / trNumber,Only responses carrying the organisation's register ID (trNumber) or matched to a registered name
+lobbyists,hys_user_type,Respondent type declared in consultations,[HYS],userType,Most frequent value
+lobbyists,hys_company_size,Company size declared in consultations (micro/small/medium/large),[HYS],companySize,Most frequent value
+lobbyists,hys_country,Country declared in consultations,[HYS],country,Most frequent value
+lobbyist_texts,goals,Goals / remit,[TR],goals,
+lobbyist_texts,eu_legislative_proposals,Main EU legislative proposals / policies followed,[TR],EULegislativeProposals,
+lobbyist_texts,communication_activities,Communication activities,[TR],communicationActivities,
+lobbyist_texts,intergroups_and_unofficial_groupings,EP intergroups and unofficial groupings,[TR],interOrUnofficalGroupings,
+lobbyist_texts,eu_forums_and_platforms,EU-supported forums and platforms,[TR],EUSupportedForumsAndPlatforms,
+lobbyist_texts,is_member_of,Organisations it belongs to,[TR],structure/isMemberOf,
+lobbyist_texts,organisation_members,Its own members,[TR],structure/organisationMembers,
+lobbyist_texts,info_members,Information on persons involved,[TR],members/infoMembers,
+lobbyist_texts,financial_complementary_info,Complementary financial information,[TR],financialData/complementaryInformation,
+lobbyist_texts,funding_other_info,Other information on funding,[TR],financialData/closedYear/otherSourceInfo,
+lobbyist_names,source / name_raw,Name exactly as written in a meeting or consultation response,[MEET] / [HYS],attendees / organization,
+lobbyist_names,name_norm,Normalised name used to group unregistered spellings,[OWN],,"Lower case, accents and punctuation removed, legal-form words removed"
+lobbyist_names,lobbyist_id,Resolved lobbyist (empty if the participant is not registered),[OWN],,See participant_id for non-registered participants
+lobbyist_names,match_method,How the name was resolved,[OWN],,register_id = ID given in the source; id_in_name = ID written inside the name; name = exact normalised match to a register name or acronym (unambiguous only); reviewed_duplicate = participant written with another name and matched to its register entry in the duplicate-name review (review/duplicate_names_review.csv: automatic when names almost identical; manual for participants with >=10 mentions); unregistered = no match
+lobbyist_names,n_occurrences,Times this spelling appears,[OWN],,
+lobbyist_interests,interest,Policy area of interest,[TR],interests/interest/name,One row per area
+lobbyist_levels,level,Level of interest (european / national / global / sub-national),[TR],levelsOfInterest/levelOfInterest/levelOfInterest,One row per level
+lobbyist_grants,"financial_year, source, amount",Grants received (EU funds and others),[TR],financialData/{closedYear|currentYear}/grants/grant,One row per grant
+lobbyist_funding,"financial_year, kind, name, amount",Funding sources and contributions,[TR],financialData/{closedYear|currentYear}/fundingSources | contributions,kind = funding_source or contribution
+lobbyist_clients,"financial_year, client_name, revenue_min, revenue_max, proposals",Clients of consultancies / law firms and revenue from each,[TR],financialData/{closedYear|currentYear}/clients/client,
+lobbyist_intermediaries,"financial_year, intermediary_name, cost_min, cost_max",Consultancies hired to lobby on its behalf,[TR],financialData/{closedYear|currentYear}/intermediaries/intermediary,
+lobbyist_names,participant_id,Resolved non-registered participant (empty if registered),[OWN],,
+non_registered_participants,participant_id,Primary key of participants WITHOUT register ID (not lobbyists),[OWN],,"NR000001... assigned to the normalised name (lower case, no accents, punctuation or legal-form words)"
+non_registered_participants,name,First spelling seen,[MEET] / [HYS],attendees / organization,
+non_registered_participants,participant_type,public_institution / business / ngo ... / unclassified,[OWN],,Manual aliases (org_type_aliases.csv) or rule for public institutions (lobby_types.py); otherwise unclassified
+non_registered_participants,type_source,How participant_type was set,[OWN],,alias / rule
+non_registered_participants,n_meeting_mentions / n_meps_met / n_consultation_responses / hys_user_type,"Activity counts, as in lobbyists",[OWN] from [MEET] / [HYS],,
+,,,,,
+SOURCES,[TR],EU Transparency Register – official open-data exports,Latest export (2026-10-13): https://transparency-register.europa.eu/odplastorganisationxml_en ; January 2024 snapshot (export 2024-01-21): https://data.europa.eu/euodp/en/data/storage/f/2024-05-14T111116/Organisations%20in%20Transparency%20Register-2024-JAN.xml (dataset: https://data.europa.eu/data/datasets/transparency-register),,Downloaded 2026-10-14; files in eu_parliament_scraper/output/transparency_register/
+SOURCES,[MEET],European Parliament – MEP meetings with interest representatives,https://www.europarl.europa.eu/meps/en/search-meetings (CSV export),"attendees, lobbyist_id, member_id, meeting_date","Scraped with scrape_meetings.py, meetings 2019-06 to 2026-10-14; file eu_parliament_scraper/output/all_meetings.csv"
+SOURCES,[HYS],European Commission – Have your say (Better Regulation portal),https://ec.europa.eu/info/law/better-regulation/api/allFeedback (JSON used by the portal),"organization, userType, companySize, country, trNumber",Downloaded with consultations_pipeline.py for consultations linked to COD procedures; files eu_parliament_scraper/output/hys_raw/
+SOURCES,[OWN],Own processing,"build_lobbyist_tables.py, lobby_types.py, org_type_aliases.csv",,"Name matching, grouping of categories, counts; manual aliases written during the project"

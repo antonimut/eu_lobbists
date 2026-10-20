@@ -1,0 +1,2514 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Market design for 
+negative emissions 
+in the UK ETS 
+ 
+Prepared for Drax Group 
+9 February 2022 
+ 
+Final 
+ 
+www.oxera.com 
+ 
+Ref. Ares(2022)3351296 - 30/04/2022
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+ 
+Contents 
+ 
+Glossary of terms 1 
+Executive summary 2 
+1 Introduction 6 
+2 The need for incentivising negative emissions 
+technologies 7 
+2.1 The need for Negative Emissions Technologies (NETs) 8 
+2.2 Different types of negative emissions technologies (NETs) 10 
+2.3 Incentivising sufficient investment in NETs 15 
+3 Core principles and evaluation criteria 19 
+3.1 Long-term effectiveness in reducing overall emissions 20 
+3.2 Efficiency of market(s) 21 
+3.3 Fairness of cost allocation 21 
+3.4 Practicality/ease of implementation 21 
+3.5 Integrability with EU ETS 22 
+4 Market design options 23 
+4.1 Accounting for differences across NETs in supplying 
+effective units of GGRs 24 
+4.2 Economic representation of integration 26 
+4.3 Market design options with varying degrees of integration 30 
+4.4 Carbon removal obligation 38 
+4.5 Summary of evaluation of options 40 
+5 Conclusion 43 
+ 
+Figures and tables 
+Figure 2.1 UK carbon price projections (£/tonne CO2) 7 
+Figure 2.2 Removals required in Balanced Net Zero Pathway 
+Scenario and hypothetical overshoot 9 
+Figure 2.3 Necessary engineering-based GGRs to achieve net zero 
+in the UK according to the Sixth Carbon Budget Balanced 
+Net Zero Pathway (MtCO2e per year) 10 
+Figure 2.4 Distinction between emission reductions and removals 11 
+Table 2.1 Summary of NETs features 13 
+Figure 2.5 Current costs of NETS (£/tCO2e) 14 
+Figure 2.6 Examples of schemes to incentivise investment in NETs 16 
+Table 3.1 Evaluation criteria 19 
+Figure 4.1 Potential approaches to including different types of NETs 
+in the ETS 25 
+Figure 4.2 Range of market integration 27 
+Figure 4.3  Marginal abatement cost curve 27 
+Figure 4.4  Introducing NETs into the ETS (illustrative example) 28 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+ 
+Figure 4.5  Low-cost NETs provide additional removals (illustrative 
+example) 29 
+Figure 4.6  Separate markets for EAs and GGR units 30 
+Figure 4.7 Two ways of reducing the supply of EAs in the ETS 32 
+Box 4.1 Summary of option 1: separate markets with government 
+as a broker 32 
+Box 4.2 Summary of option 2: separate markets with price cap 35 
+Box 4.3 Summary of option 3: integrated markets 37 
+Box 4.4 Option 4: carbon removal obligation 39 
+Table 4.1  Evaluation of design options 42 
+ 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+1 
+Glossary of terms 
+Term Description 
+Negative emissions 
+technologies (NETs) 
+Technologies that lead to a reduction in greenhouse gases (GHG) in the 
+atmosphere. To be classed as a NET, the technology must cause a 
+removal of GHGs from the atmosphere, not merely a reduction in the 
+amount emitted, and must result in an overall reduction in atmospheric 
+greenhouse gasses (GHGs). Examples are afforestation, Bioenergy 
+with Carbon Capture and Storage (BECCS), and Direct Air Carbon 
+Capture and Storage (DACCS). 
+Greenhouse gas 
+removals (GGRs) 
+The removal of GHGs from the atmosphere. GGRs can be done by 
+NETs. We also refer to a ‘unit of GGRs’, which is a certified amount of 
+GGRs analogue to an emission allowance (see below). 
+Carbon offsets A reduction in, or removal of, emissions of carbon dioxide or other 
+greenhouse gases that is undertaken in order to compensate for 
+emissions generated elsewhere. 
+Emissions 
+reductions/ 
+abatement 
+A reduction in emissions of CO2 or GHGs that does not remove carbon 
+from the atmosphere but slows down the increase of GHG levels in the 
+atmosphere.  
+Negative emissions Deliberate removal of greenhouse gases (GHGs) from the atmosphere 
+by human activities—i.e. in addition to the removal that would occur via 
+natural carbon cycle processes. 
+Net zero emissions Where the flows of emissions of greenhouse gases (GHGs) to the 
+atmosphere are balanced by GHG removals over a specified period. 
+Net zero target The year in which net zero emissions are aimed to be achieved. 
+Emissions Trading 
+Scheme (ETS) 
+Also known as a ‘Carbon Cap and Trade’ scheme or system. A cap-
+and-trade system that caps the total level of greenhouse gas emissions 
+that companies covered under the scheme are allowed to emit. 
+Companies are required to buy Emissions Allowances to emit GHGs, 
+creating a carbon market with a carbon price signal to incentivise 
+decarbonisation. The EU Emissions Trading System (EU ETS) has 
+been in operation since 2005, and the UK ETS has been separate since 
+January 2021. In this report ‘ETS’ refers to the UK ETS unless 
+otherwise specified. 
+Emission allowances 
+(EAs) 
+Certificates that companies currently buy in the ETS. 
+Carbon capture and 
+storage (CCS) 
+Process in which CO2 emissions (e.g. from industrial and/or power 
+generation) is separated (captured), conditioned, compressed and 
+transported to a storage location for long-term isolation from the 
+atmosphere. 
+Bioenergy with 
+carbon capture and 
+storage (BECCS) 
+Process that combines energy production (e.g. electricity, heat or 
+hydrogen) from biomass with carbon capture and storage (CCS) of the 
+CO2 emitted, resulting in a net removal of GHGs from the atmosphere if 
+the source of the biomass is sustainable. 
+Direct air carbon 
+capture and storage 
+(DACCS) 
+Process that involves separating CO2 from the air through chemical 
+processes and storing it. A key advantage is that the approach can be 
+significantly scaled up, but it requires a large amount of zero-carbon 
+energy and is currently a high-cost NET option. 
+Carbon capture, 
+utilisation and 
+storage (CCUS) 
+Process in which CO2 is captured and used as an input to the 
+production of another product, or is stored. CCUS may or may not lead 
+to negative emissions, depending on how the CO2 is used and for how 
+long it is stored. CCUS results in emissions reductions of the CO2 so 
+long as the CO2 is not subsequently released to the atmosphere. CCUS 
+may result in negative emissions if the CO2 is from BECCS or DACCS.1 
+Carbon contracts for 
+differences (CCfD) 
+A contract in which the government pays the organisation that is 
+reducing emissions the difference between the market price for carbon 
+(see ETS) and an agreed price (the strike price) that is necessary to 
+make the project being supported financially viable. 
+                                                
+1 International Carbon Action Partnership (2021), ‘Emissions Trading Systems and Net Zero: Trading 
+Removals’, May. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+2 
+Executive summary 
+Oxera has been commissioned by Drax to advise on market design options to 
+include greenhouse gas removals (GGRs) in the UK’s emissions trading 
+scheme (UK ETS).2 The scope of this report is specifically to propose 
+mechanisms that link GGRs to the ETS, although we note that other voluntary 
+or mandatory international markets are likely to develop following recent 
+agreement on the rulebook for Article 6 of the Paris Agreement.3 Accordingly, 
+this report develops a number of potential market design mechanisms that can 
+enable the uptake of GGRs within the UK ETS framework while ensuring that 
+polluters retain incentives to decarbonise. 
+Reaching the UK’s net zero ambitions and meeting its obligations under the 
+Paris Agreement requires all sectors to reduce or offset their emissions.4 As 
+some sectors, such as heavy industry, agriculture and aviation, are inherently 
+difficult to decarbonise completely, the delivery of net zero will only be possible 
+with GGRs that take emissions out of the atmosphere.5 Importantly, these 
+removals are to be used in addition to a significant abatement of emissions 
+across all sectors, with most sectors needing to reduce emissions close to zero 
+without offsetting by 2050.6  
+Negative emission technologies (NETs) that produce GGRs include nature-
+based solutions—such as afforestation, reforestation and soil carbon 
+sequestration—as well as technologies such as bioenergy with carbon dioxide 
+capture and storage (BECCS), and direct air carbon capture and storage 
+(DACCS).7 Engineering-based GGRs have not yet been commercially 
+deployed at scale and are currently more expensive than most abatement 
+technologies. However, it is projected that such technologies will need to be 
+deployed at scale in the coming years, removing 5–10MtCO2 per year by 2030; 
+correspondingly, it is projected that the costs will decline considerably as the 
+technologies mature.8 By 2050 more than 70MtCO2 per year of engineering-
+based GGRs will be needed.9 This requires policies to be in place to incentivise 
+investment in NETs now, as the National Infrastructure Committee has also 
+emphasised:10 
+Engineered greenhouse gas removals will become a major new infrastructure 
+sector for the UK over the coming decades. The UK needs engineered 
+removals to offset its hardest to abate emissions and achieve net zero. And it 
+needs to act now. 
+We note at the outset that to incentivise the deployment of GGRs, different 
+support options are possible, including innovation funding, carbon contracts for 
+difference and access to carbon markets—including the ETS. As long as there 
+is no double-counting of emissions between funding mechanisms, each 
+funding option does not need to be used on a mutually exclusive basis. In fact, 
+                                                
+2 The ETS is a cap-and-trade scheme where the government sets a cap on the total amount of greenhouse 
+gases that can be emitted by sectors cov ered by the ETS. Participants need to obtain emission allowances 
+to cover their emissions. 
+3 United Nations (2015), ‘Paris Agreement’, Article 6.  
+4 National Infrastructure Commission (2021), ‘Engineered greenhouse gas removals’, July.  
+5 Committee on Climate Change (2020), ‘The Sixth Carbon Budget - The UK’s path to Net Zero’, December, 
+chapter 11. 
+6 Committee on Climate Change (2020), ‘The Sixth Carbon Budget - The UK’s path to Net Zero’, December, 
+chapter 11. 
+7 International Carbon Action Partnership (2021 ), ‘Emissions Trading Systems and Net Zero: Trading 
+Removals’, May, p. 31. 
+8 National Infrastructure Commission (2021), ‘Engineered greenhouse gas removals’, July.  
+9 Department for Business, Energy and Industrial Strategy (2021), ‘Net Zero Strategy: Build Back Greener’, 
+October. 
+10 National Infrastructure Commission (2021), ‘Engineered greenhouse gas removals’, July.  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+3 
+having several options can help to spread the costs and/or allow for voluntary 
+uptake of NETs among different market participants (polluters, taxpayers, 
+consumers and other parties who may want to go further in decarbonisation 
+than just meeting their compliance needs), thereby accelerating the 
+commercialisation of NETs. 
+To assess the market design options, we have evaluated from a public policy 
+perspective the relevance of: 
+• long-term effectiveness in reducing overall emissions by ensuring that 
+incentives for polluters to reduce their emissions are maintained and that 
+the deployment of NETs is incentivised early on so that sufficient GGRs are 
+available at reasonable cost by the time most abatement options have been 
+exhausted. It should also be ensured that removals are of high quality by 
+establishing robust monitoring, reporting and verification (MRV) processes; 
+• efficiency of markets by ensuring that markets are sufficiently liquid for 
+efficient price discovery and investment signals; 
+• fairness of cost allocation by considering the impact on taxpayers, as well 
+as industry; 
+• practicality by considering the ease of implementation of the scheme; 
+• integrability with EU ETS to allow for future integration of the UK scheme 
+with its EU counterpart. 
+The market design schemes for integrating NETs within the ETS11 that have 
+been developed as part of this study can, in principle, accommodate all types 
+of GGRs that meet robust MRV criteria to validate the credibility of the 
+removal.12 However, as NETs differ not only in terms of cost but also in terms 
+of permanence and security of storage, relevant adjustments should be 
+undertaken to ensure comparability across different types of GGRs.13  
+This report develops the following market design options. Options 1–3 are all 
+based around the principle that GGR units can be purchased as an alternative 
+to emission allowances—while tightening overall emission caps to ensure that 
+removals are additional to existing abatement incentives.  
+• Option 1: separate markets with government as a broker—this creates a 
+separate market for GGRs where the government diverts some of the 
+demand for emission allowances in the ETS to GGRs. In this case, the 
+government would have full control over the amount of GGR units 
+purchased in the market and could align this with its net zero scenarios. 
+• Option 2: separate markets with price cap—this creates a separate 
+market for GGRs and relies on market mechanisms (e.g. setting a price 
+cap) to allow for uptake of GGRs. The market for GGRs can be accessed by 
+the industries covered by the ETS and potentially more widely (i.e. 
+participation can extend to industries that are not presently covered by the 
+UK ETS). In order to create a link to the ETS, GGR units would count 
+towards EAs so companies could either purchase allowances, for which the 
+supply is progressively reduced, or GGR units. To ensure sufficient uptake 
+of GGRs, the price in the market is capped at the prevailing ETS price. The 
+                                                
+11 In this report ETS refers to the UK ETS unless otherwise specified.  
+12 Department for Business, Energy and Industrial Strategy (2021), ‘Net Zero Strategy: Build Back Greener’, 
+October, section 3vii. 
+13 Department for Business, Energy and Industrial Strategy (2021), ‘Monitoring, Reporting and Verification of 
+Greenhouse Gas Removals – Task and Finish Group report’, 19 October.  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+4 
+outcome is thereby similar to option 1 but allows the government to play a 
+less active role, which may become practical as the market matures. 
+• Option 3: integrated markets—this involves allowing GGRs to directly 
+participate in the ETS by being auctioned together with allowances. In the 
+run up to 2050, the supply of EAs would be revised to ensure that GGRs are 
+additional to emission reductions. That is, the total amount of emission 
+allowances in the ETS could decrease by the amount of GGR units in the 
+market to ensure that the net level of emission allowances is declining over 
+time, in line with the UK’s net zero targets.14 
+It is also possible that these options could be introduced sequentially, starting 
+with a separate market in which the government directly acts as a broker to 
+‘kick-start’ the uptake of GGRs, eventually moving towards full integration of 
+GGRs within the ETS as NETs mature. 
+Alternatively, a fourth option directly requires polluters to obtain a future GGR 
+for their emissions. 
+• Option 4: carbon removal obligation when emitting—this introduces an 
+obligation for emitters to purchase not only an emission allowance but also 
+to ensure that the emissions will be taken out of the atmosphere in the 
+future. Under this option GGRs and emission allowances become 
+complements. That is, whenever an emission allowance is purchased, there 
+is a concurrent obligation for a future GGR to be purchased. This option 
+therefore sharpens the incentive for polluters to directly abate their current 
+emissions. 
+Under option 4, industries would no longer purchase an effective permanent 
+right to pollute as they do in the ETS but rather they would be responsible for 
+the whole lifecycle of their emissions, including removing these from the 
+atmosphere. Accordingly, this option also has the highest marginal incentive 
+for companies to invest in decarbonisation and direct abatement, since the cost 
+of polluting would increase, due to the obligation to buy future removals. 
+However, given the cost on industry in meeting the obligation, additional 
+mechanisms would need to be put in place to avoid companies moving 
+production to other countries with less stringent policies in order to circumvent 
+these rules. The carbon border adjustment mechanism (CBAM) is one 
+example of such an additional measure. Also, the scale and speed with which 
+the financial impact is borne by polluters can be moderated by other policies—
+for instance, through subsidies, or by increasing the level of obligation over 
+time. 
+These market design options—in combination with other funding routes—
+would incentivise the deployment of NETs alongside decarbonisation, which 
+will be essential for reaching net zero goals. Which of the market design 
+options is most suitable depends on the government’s priorities.  
+• Option 1 grants the government the most direct control and could be 
+implemented immediately by only changing the supply of allowances in the 
+ETS. As technologies mature, the policy could then evolve towards greater 
+integration with the ETS (i.e. move from option 1 towards option 3).  
+• Alternatively, option 4 directly and immediately increases the uptake of 
+GGRs through market mechanisms but requires additional instruments to 
+                                                
+14 In the long run, however, there would be no more emission allowances being made available by the ETS, 
+such that a fully integrated market could function without this additional intervention.  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+5 
+avoid carbon leakage. It also relies on sufficient supply of GGR units and 
+the development of a competitive market over time. 
+In any case, for any option to be implemented, an immediate policy 
+requirement is to establish the processes for MRV, as well as a methodology to 
+create a unit of GGRs that is equivalent to a unit of emission reduction. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+6 
+1 Introduction 
+Negative emissions technologies (NETs), which can permanently reduce the 
+amount of greenhouse gases (GHGs) in the atmosphere, will become 
+increasingly important to compensate for any residual emissions from 
+industries that cannot be completely decarbonised. According to the UK’s net 
+zero projections, greenhouse gas removals (GGRs) are crucial to reach the 
+delivery of the country’s climate targets by 2050.15 In order to reach the scale 
+of GGRs required, funding mechanisms and routes to markets need to be 
+established.16 
+At the recent COP26 summit, an agreement was reached on the rules under 
+Article 6 of the Paris Agreement.17 This rulebook set the framework for 
+cooperative approaches between countries to meet their Nationally Determined 
+Contributions (NDCs)—for example, by the linking of ETSs or the bilateral 
+trade of emissions reduction credits between countries (Article 6.2).18 The rules 
+also create a framework for the certification of tradable credits from emissions 
+reductions generated by specific projects. By enabling trade between countries 
+and the use of credits generated by a project in one country to offset emissions 
+in another country (Article 6.4),19 the Article 6 rulebook is expected to help 
+expand the market for NETs and make it simpler for projects to benefit from a 
+wider global market. 
+The purpose of this study is to analyse one particular route to market—
+integrating NETs within the ETS. In particular, the scope of the report is to 
+develop a number of potential options in which NETs could be integrated within 
+the UK ETS without preventing future integration of the UK and EU ETSs.  
+The remainder of this report is structured as follows. 
+• Section 2 sets out the context around why GGRs are needed, what the 
+different types are, and how their deployment at scale can be incentivised. 
+• Section 3 sets out the core principles and evaluation criteria against which 
+the design options for ETS integration are assessed. 
+• Section 4 describes and discusses four different market design options for 
+ETS integration. 
+• Section 5 concludes. 
+ 
+ 
+                                                
+15 Committee on Climate Change (2020), ‘The Sixth Carbon Budget - The UK’s path to Net Zero’, December.  
+16 Department for Business, Energy and Industrial Strategy (2021), ‘Net Zero Strategy: Build Back Greener’, 
+October. 
+17 United Nations (2015), ‘Paris Agreement’, https://unfccc.int/sites/default/files/english_paris_agreement.pdf  
+(last accessed 14 December 2021).  
+18 United Nations, ‘Guidance on cooperative approaches referred to in Article 6, para . 2, of the Paris 
+Agreement‘, https://unfccc.int/sites/default/files/resource/cma3_auv_12a_PA_6.2.pdf  (last accessed 14 
+December 2021). 
+19 United Nations, ‘Rules, modalities and procedures for the mechanism establi shed by Article 6, paragraph 
+4, of the Paris Agreement’, https://unfccc.int/sites/default/files/resource/cma3_auv_12b_PA_6.4.pdf  (last 
+accessed 7 January 2022).  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+7 
+2 The need for incentivising negative emissions 
+technologies 
+Reaching the UK’s net zero ambitions and meeting the UK government’s 
+obligations under the Paris Agreement requires all sectors to reduce, prevent 
+or offset their emissions by 2050.20 In fact, to adhere to the 1.5°C target set by 
+the Paris Agreement, the world needs to be net zero by 2050 and net negative 
+thereafter.21 The Paris Agreement was finalised this year at COP26 in 
+Glasgow, at which nearly 200 countries reaffirmed their commitment to the 
+Agreement and outstanding elements were agreed upon.22 However, even 
+though more and more emissions are being abated, some emissions—such as 
+those from aviation or hard-to-decarbonise industrial and agricultural 
+processes—are likely to remain too costly or impractical to eliminate fully.23 As 
+the easy-to-abate emissions are reduced in the coming years and decades, 
+these more expensive emissions will be left, implying that the cost of reducing 
+the remaining CO2 emissions will increase significantly over time. To 
+contextualise this trajectory, National Grid estimated that, in its base case, 
+carbon prices in the UK will more than double by 2050 compared with today, 
+with the possibility of much steeper increases also modelled in its forecasts up 
+to 2050 (see ‘High case’ in Figure 2.1 below).24 Given that the average UK 
+out-turn carbon price in 2021 has already exceeded National Grid’s 
+projections, the UK seems likely to be on a steep carbon price trajectory.  
+Figure 2.1 UK carbon price projections (£/tonne CO2) 
+ 
+Source: National Grid (2021), ‘Future Energy Scenarios 2021 – Data Workbook’, CP2; Oxera 
+analysis based on ICE Report Center, ‘UK Emissions Auctions’, 
+https://www.theice.com/marketdata/reports/278 (last accessed 13 December 2021). 
+                                                
+20 National Infrastructure Commission (2021), ‘Engineered greenhouse gas removals’, July.  
+21 International Carbon Action Partnership (2021), ‘Emissions Trading Systems and Net Zero: Trading 
+Removals’, May. 
+22 See COP26 (2021), ‘COP26 keeps 1.5C alive and finalises Paris Agreement’, November, 
+https://ukcop26.org/cop26-keeps-1-5c-alive-and-finalises-paris-agreement/ (last accessed 2 December 
+2021). 
+23 Fuss, S., Lamb, W.F., Callagh an, M.W., Hilaire, J., Creutzig, F., Amann, T. and Minx, J.C. (2018), 
+‘Negative emissions - Part 2: Costs, potentials and side effects’, March, Environmental Research Letters. 
+24 National Grid (2021), ‘Future Energy Scenarios 2021 – Data Workbook’, CP2.  
+ 
+0
+50
+100
+150
+200
+250
+2015 2020 2025 2030 2035 2040 2045 2050
+History High case Base case Low case Average price for 2021 (as at 1 December)
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+8 
+Other measures of the cost of carbon ascribe a much higher valuation than the 
+above figures. For example, the Department for Business, Energy and 
+Industrial Strategy’s (BEIS’s) carbon values for 2021—which represent a 
+monetary value that a social planner should place on one tonne of CO2 
+equivalent (tCO2e)—are in the range of £122–£361/tCO2e, increasing to £189–
+£568/tCO2e by 2050.25  
+2.1 The need for Negative Emissions Technologies (NETs) 
+In light of this, NETs, which can permanently remove GHGs from the 
+atmosphere, will become increasingly important to compensate for any residual 
+emissions from industries that cannot be completely decarbonised. NETs 
+include nature-based solutions, such as planting trees, and engineering-based 
+technologies that capture and store GHGs. According to the UK’s net zero 
+projections, GGRs are crucial to reach the country’s climate targets.26 
+Importantly, GGRs are to be used in addition to a significant abatement of 
+emissions across all sectors, with most sectors needing to reduce emissions 
+close to zero without offsetting by 2050.27 The sixth carbon budget requires 
+gross emissions in the UK to be less than 100MtCO2e by 2050;28 this is a 
+reduction of more than three quarters compared to the UK’s current emissions 
+in 2020 of 414MtCO2e—and the latter may even be depressed due to the 
+COVID-19 pandemic.29 That is, GGRs are not an alternative to abatement, 
+which companies can pay for to avoid having to cut emissions. Instead, GGRs 
+will become necessary to compensate for the last unavoidable emissions with 
+significant reductions still needing to be achieved. 
+In addition to balancing residual emissions that cannot be abated by the 
+mid-century, carbon removals might also be necessary to compensate for 
+GHGs that are already in the atmosphere, including historic emissions. While 
+anthropogenic activity can control the ‘flow’ of carbon into the atmosphere, 
+warming in fact depends upon the concentration of carbon in the atmosphere, 
+or the ‘stock’.30 Reducing the stock of residual emissions is likely to be 
+necessary in two respects.31 
+• NETs can be useful in removing historic emissions that have led to a higher 
+concentration of CO2 in the atmosphere, and which therefore are still 
+contributing to warming today.  
+• NETs can also compensate for the emissions resulting from the warming of 
+the biosphere itself, which occurs indirectly as a result of past emissions. 
+Additionally NETs may be necessary to reduce the stock of carbon in the 
+atmosphere in the likely scenario that the world overshoots its carbon 
+                                                
+25 Department for Business, Energy and Industrial Strategy (2021), ‘Valuation of greenhouse gas emissions: 
+for policy appraisal and evaluation’, 2 September, Annex 1,  
+https://www.gov.uk/government/publications/valuing -greenhouse-gas-emissions-in-policy-
+appraisal/valuation-of-greenhouse-gas-emissions-for-policy-appraisal-and-evaluation#annex-1-carbon-
+values-in-2020-prices-per-tonne-of-co2 (last accessed 15 December 2021).  
+26 Committee on Climate Change (2020), ‘The Sixth Carbon Budget - The UK’s path to Net Zero’, Decembe r. 
+27 Committee on Climate Change (2019), ‘Net Zero - The UK's contribution to stopping global warming’, May.  
+28 Department for Business, Energy and Industrial Strategy (2021), ‘Net Zero Strategy: Build Back Greener’, 
+October, Chapter 2. 
+29 Committee on Climate Change (2019), ‘Net Zero - The UK's contribution to stopping global warming’, May, 
+Figure 5.3; Department for Business, Energy and Industrial Strategy (2021), ‘2020 UK greenhouse gas 
+emissions, provisional figures’, 25 March.  
+30 See London School of Economics Grantham Institute (2018), ‘Why does climate change get described as 
+a stock-flow problem?’, 1 May, https://www.lse.ac.uk/granthaminstitute/explainers/why -does-climate-change-
+get-described-as-a-stock-flow-problem/ (last accessed 29 November 2021).  
+31 See World Economic Forum (2021), ‘Net -Zero to Net-Negative: A Guide for Leaders on Carbon Removal’, 
+November. 
+ 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+9 
+trajectories by not reducing future emissions fast enough. A slower transition to 
+net zero will leave us with a higher stock of GHGs in the atmosphere, which 
+will increase warming even after we have reached net zero. The more 
+significant the overshoot of emissions becomes, the larger the scale of GGRs 
+that is required to counteract the overshoot and the faster the GGRs need to 
+be available, as shown in Figure 2.2 below. This might make the scale of 
+GGRs that would be required to counteract such an overshoot scenario 
+infeasible.32 
+ Figure 2.2 Removals required in Balanced Net Zero Pathway Scenario 
+and hypothetical overshoot 
+ 
+Note: Balanced Net Zero Pathway figures from Climate Change Committee (2021), ‘The sixth 
+carbon budget – charts and data in the report’. Overshoot figures are for illustrative purposes 
+only. 
+Source: Oxera. 
+Given the need for significant emission reductions, any viable market design 
+option for integration within the ETS needs to ensure that incentives to abate 
+remain sufficiently high. Otherwise—if GGRs were to substitute for emission 
+reductions at a large scale—this could be counterproductive, if it disincentives 
+businesses from making the necessary investments to reduce their own 
+emissions. This could permanently lock countries into a higher emission 
+pathway, whereby businesses reduce more slowly than would otherwise be the 
+case.33  
+To ensure sufficient GGRs are available at scale in the future, it is necessary to 
+send the appropriate market entry signals for the required technologies today. 
+This is also emphasised by the National Infrastructure Commission’s report on 
+GGRs, which states:34 
+                                                
+32 Committee on Climate Change (2020), ‘The Sixth Carbon Budget - The UK’s path to Net Zero’, December, 
+p. 369. 
+33 International Carbon Action Partnership (2021), ‘Emissions Trading Systems and Net Zero: Trading 
+Removals’, May. 
+34 National Infrastructure Commissions (2021 ), ’Engineered Greenhouse Gas Removals’, July.  
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+2025 2030 2035 2040 2045 2050
+Gross emissions - BNZP Net emissions—BNZP
+Removals—BNZP Gross emissions—overshoot
+Removals—overshoot
+Overshoot of
+emissions…
+…requires increasing
+deployment of removals…
+…to achieve
+net zero.
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+10 
+Engineered greenhouse gas removals will become a major new infrastructure 
+sector for the UK over the coming decades. The UK needs engineered 
+removals to offset its hardest to abate emissions and achieve net zero. And it 
+needs to act now. 
+Incentivising timely uptake is a relevant consideration because these 
+technologies will be needed in the coming years, and there is a significant lead 
+time for development and commercial deployment. Even in 2035, around 15–
+25MtCO2e of engineering-based GGRs are required but deployment at scale 
+can take decades—for instance, Drax has started developing its BECCS 
+technology but it will take until 2027 to complete the first installation.35,36 
+Scaling up is necessary to reduce costs, which tend to decline with commercial 
+deployment, while performance also tends to improve as technologies 
+mature.37 Figure 2.3 shows the extent to which GGRs will need to be scaled up 
+according to the CCC’s Balanced Net Zero Pathway. The sixth carbon budget 
+even shows a scenario where up to 115MtCO2e of engineering-based GGRs 
+are required by 2050.38 
+Figure 2.3 Necessary engineering-based GGRs to achieve net zero in 
+the UK according to the Sixth Carbon Budget Balanced Net 
+Zero Pathway (MtCO2e per year) 
+ 
+Source: Committee on Climate Change (2020), ‘The Sixth Carbon Budget Greenhouse gas 
+removals’, December, Figure A3.11.a. 
+2.2 Different types of negative emissions technologies (NETs) 
+A distinction can be drawn between emission reductions and carbon removals, 
+as well as in how carbon is subsequently stored.39 Emission reduction 
+measures are more common and reduce emissions compared to a baseline. 
+                                                
+35 Drax, ‘BECCS timeline’, https://www.drax.com/about-us/our-projects/bioenergy-carbon-capture-use-and-
+storage-beccs/ (last accessed 13 December 2021).  
+36 According to Drax the development of BECCS takes at least seven years, see Drax, ‘BECCS timeline’, 
+https://www.drax.com/about-us/our-projects/bioenergy-carbon-capture-use-and-storage-beccs/ (last 
+accessed 13 December 2021).  
+37 National Infrastructure Commissions (2021), ’Engineered Greenhouse Gas Removals’, July.  
+38 Committee on Climate Change (2020), ‘The Sixth Carbon Budget Greenhouse gas removals’, December, 
+Table P11.1. 
+39 University of Oxford (2020), ‘The Oxford Principles for Net Zero Aligned Carbon Offsetting’, September.  
+5
+23
+37
+47
+58
+0
+10
+20
+30
+40
+50
+60
+70
+2025 2030 2035 2040 2045 2050
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+11 
+This can include switching from a diesel to a gas generator, reducing 
+emissions as gas emits less than diesel; or having carbon capture and storage 
+(CCS) on an industrial facility, which reduces the volume of CO2 released into 
+the atmosphere from that facility. Figure 2.4 illustrates carbon reductions and 
+removals, and long- and short-term storage. 
+Figure 2.4 Distinction between emission reductions and removals 
+ 
+ 
+Source: University of Oxford (2020), ‘The Oxford Principles for Net Zero Aligned Carbon 
+Offsetting’, September. 
+NETs include:40 
+• afforestation and reforestation, which involves planting trees that take in 
+carbon as they grow and naturally store it in the biosphere; 
+• soil carbon sequestration where the soil carbon content is enhanced 
+through changes to agricultural practices, storing carbon in the soil; 
+• bioenergy with carbon dioxide capture and storage (BECCS), which 
+extracts energy—as electricity, heat or biofuels—from sustainable biomass 
+and stores the emitted carbon through capture and geological storage; 
+• direct air carbon capture and storage (DACCS), which involves 
+extracting CO2 from the air and storing it. 
+The first two NETs here are nature-based technologies where carbon is 
+captured and stored in the biosphere, such as in in trees or soil. BECCS and 
+DACCS are often referred to as engineering-based GGRs. Engineering-based 
+technologies capture and store carbon in the geosphere from which fossil fuels 
+originate, in secure geological storage. We note that BECCS also relies on 
+natural processes but as the CO2 is stored in geological storage (rather than in 
+the biosphere), it is referred to here as an engineering-based technology. 
+While both nature-based and engineering-based storage options have 
+advantages and are both widely thought to be needed to reach net zero, 
+engineering-based solutions tend to provide higher permanence of storage and 
+                                                
+40 International Carbon Action Partnership (2021), ‘Emissions Trading Systems and Net Zero: Trading 
+Removals’, May, p. 31. 
+How is the offset generated?
+Emission reduction Carbon removal
+Avoided emissions/ 
+emission reduction without 
+storage
+Emissions 
+reduction with 
+short-lived
+storage
+Emissions 
+reduction 
+with long-
+lived 
+storage
+Carbon 
+removal with 
+short-lived 
+storage
+Carbon 
+removal with 
+long-lived 
+storage
+Forward-looking, counterfactual 
+baseline:
+• renewable energy
+• cleaner cookstoves
+Clear retrospective emissions data
+• N2O abatement
+• methane abatement
+• avoided damage 
+to ecosystems
+• changes to 
+agricultural 
+practices that 
+retain already-
+stored carbon
+• CCS on an 
+industrial 
+facility
+• CCS on 
+fossil-fuel 
+power plants
+• afforestation 
+and 
+reforestation
+• soil carbon 
+enhancement
+• ecosystem 
+restoration
+• DACCS
+• BECCS
+• mineralisation
+• enhanced 
+weathering
+No Yes
+Short Long Short Long
+Yes
+How long is carbon stored for: long or short term?
+Is the carbon stored?                
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+12 
+lower leakage risk. At the same time, nature-based solutions are likely to 
+provide additional benefits, such as enhancing biodiversity. 
+Specifically, GGRs vary significantly across a number of dimensions, which 
+can broadly be classified into the effectiveness and permanence of CO2 
+removal. Relevant considerations include additionality, net negativity, and 
+permanence of storage and associated risk of reversal, as well as the ability to 
+monitor.41 
+• The effectiveness of removal includes factors that need to be 
+demonstrated for any genuine NET. Any scheme for developing a market 
+for negative emissions will need to provide policymakers and other 
+stakeholders with confidence that it legitimately leads to a reduction in 
+GHGs in the atmosphere. This means that negative emissions need to be 
+monitored, reported and verified, which might be achieved following similar 
+guidelines to those for ETS monitoring, reporting and verification (MRV). 42,43 
+Under the ETS MRV rules, industrial installations and aircraft operators 
+covered by the ETS are required to have approved monitoring plans for their 
+emissions. They need to submit annual emissions reports, with data being 
+verified by an accredited verifier. The MRV process for removals will need to 
+be established in a robust way. NETs are likely to differ in the accuracy, with 
+which monitoring can be undertaken—as well as the cost and frequency of 
+the monitoring that is required—to verify the quantity of CO2 stored.44 
+BECCS and DACCS are relatively easy to monitor, as they generate a 
+stream of CO2 that can be measured, whereas other technologies are likely 
+to require the use of proxies. Other factors that need to be considered to 
+demonstrate a genuine removal in GHGs include the following. 
+• ‘Additionality’ refers to whether removals are taking place in addition to 
+what would have happened anyway. For instance, it can be difficult to prove 
+that afforestation or soil carbon sequestration leads to negative emissions 
+compared to normal practices in forests or agriculture that would have 
+happened anyway.  
+• It is important to ensure NETs are genuinely net negative. For instance, the 
+net negativity of NETs relies on demonstrating the net neutrality of the entire 
+supply chain,45 including the source of the required electricity.46  
+• The ‘permanence of storage’ refers to how long the carbon can be stored 
+once sequestered, including the risk of re-emission.47 Generally, 
+engineering-based NETs tend to have more security and permanence of 
+                                                
+41 Department for Business, Energy and Industrial Strategy (2021), ‘Monitoring, Reporting and Verification of 
+Greenhouse Gas Removals – Task and Finish Group report’, 19 October.  
+42 Department for Business, Energy and Industrial Strategy (2021), ‘Net Zero Strategy: Build Back Greener’, 
+October, section 3vii. 
+43 European Commission, ‘Monitoring, reporting and verification of EU ETS emissions’, 
+https://ec.europa.eu/clima/eu-action/eu-emissions-trading-system-eu-ets/monitoring-reporting-and-
+verification-eu-ets-emissions_en (last accessed 7 January 2022). 
+44 Department for Business, Energy and Industrial Strategy (2021), ‘Monitoring, Reporting and Verification of 
+Greenhouse Gas Removals – Task and Finish Group report’, 19 October, p. 8. 
+45 For instance, by using sustainably sourced biomass feedstock s from forests which are growing at the 
+same rate (or faster), alongside CCS, BECCS technology can be net  negative. 
+46 For instance, DACCS requires electricity, which needs to be renewable for the technology to be net  
+negative. 
+47 For completeness, it should also be noted that carbon captured through CCS is sometimes reused rather 
+than being permanently stored. In this case, the carbon can be re -emitted, for instance, by burning synthetic 
+fuels, which can therefore at best be carbon neutral (see: Department for Business, Energy and Industrial 
+Strategy (2021), ‘Monitoring, Reporting and Verification of Greenhouse Gas Removals – Task and Finish 
+Group report’, 19 October, p. 15). If the carbon was not taken out of the atmosphere in the first place then 
+capturing and burning the carbon as fuel simply delays the initial emission.  
+ 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+13 
+storage than nature-based NETs due to differences in the processes used. 
+BECCS and DACCS rely on CCS to capture carbon before storing it in 
+geological formations—a form of storage that has been shown to be secure 
+and at very low risk of leakage.48 Nature-based methods are also capable of 
+storing carbon for the long term, as long as changing conditions do not lead 
+to a reversal in the storage. They may be more vulnerable than engineering-
+based methods to physical events such as fires, natural disasters and 
+droughts, as well as political and economic pressures (e.g. to reverse 
+decisions to protect woodlands), which may lead to higher risk of 
+re-emission in the medium term. However, we note that apart from creating 
+GGRs, these natural measures are likely to be valuable in their own right—
+for instance, in enhancing biodiversity.49  
+Table 2.1 summarises relevant features of different NETs. 
+Table 2.1 Summary of NETs features 
+ 
+Note: *According to the CCC’s Balanced Net Zero Pathway. Includes all types of BECCS. 
+Source: Minx, J.C., Lamb, W.F., Callaghan, M.W., Fuss, S., Hilaire, J., Creutzig, F. and Del Mar 
+Zamora Dominguez, M. (2018), ‘Negative emissions - Part 1: Research landscape and 
+synthesis’, May; International Carbon Action Partnership (2021), ‘Emissions Trading Systems 
+and Net Zero: Trading Removals’, May; Coalition for Negative Emissions (2021), ‘The case for 
+Negative Emissions’, June; Committee on Climate Change (2021), ‘The Sixth Carbon Budget 
+Greenhouse gas removals’, March. 
+As highlighted in the table above, different types of GGRs have varying cost 
+implications, with engineering-based solutions being generally more costly at 
+the moment. Figure 2.5 shows current ranges of cost estimates for different 
+NETs. Afforestation and soil carbon sequestration can be inexpensive, with soil 
+carbon sequestration having a minimum of zero costs if it just requires changes 
+to farming practices. BECCS and in particular DACCS have a larger range, 
+depending on the specifics of the technology. The CCC estimates current costs 
+                                                
+48 Department for Business, Energy and Industrial Strategy (2021),  ‘Monitoring, Reporting and Verification of 
+Greenhouse Gas Removals – Task and Finish Group report’, 19 October. 
+49 See University of Oxford (2020), ‘The Oxford Principles for Net Zero Aligned Carbon Offsetting’, 
+September, p. 12. 
+ 
+CO2
+CO2
+In use In use Demonstration Demonstration/ 
+commercial
+Afforestation and 
+reforestation
+Soil carbon
+sequestration
+BECCS DACCS
+Permanence
+Status
+Cost (£/tCO2 )
+Higher risk of reversal leading to low
+permanence
+Lower risk of reversal and higher
+permanence
+Deployment in 
+2050* 
+(MtCO2/year)
+1–100 0–100 90–225 180–900
+53 5N.A. N.A.
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+14 
+of DACCs to be around £400/tCO2,50 while other sources show a range of 
+£180–255/tCO2 for liquid solvent economics and £450–900/tCO2 for solid 
+solvent economics.51 BECCS is significantly cheaper than DACCS, currently 
+expecting to cost between £90/tCO2 and £225/tCO2.52  
+Figure 2.5 Current costs of NETS (£/tCO2e) 
+  
+Source: Minx, J.C., Lamb, W.F., Callaghan, M.W., Fuss, S., Hilaire, J., Creutzig, F. and Del Mar 
+Zamora Dominguez, M. (2018), ‘Negative emissions - Part 1: Research landscape and 
+synthesis’, May; International Carbon Action Partnership (2021), ‘Emissions Trading Systems 
+and Net Zero: Trading Removals’, May; Coalition for Negative Emissions (2021), ‘The case for 
+Negative Emissions’, June; Committee on Climate Change (2021), ‘The Sixth Carbon Budget 
+Greenhouse gas removals’, March. 
+We note that these costs are likely to decrease significantly as the 
+technologies mature. For instance, the CCC expects the cost of DACCS to 
+decrease from £400/tCO2 to £180/tCO2 by 2050 and BECCS costs to also fall 
+(albeit with a wide range to £40–190/tCO2).53 Similarly, the Coalition for 
+Negative Emissions (CNE) expects the cost of BECCS to fall by 45–50% as its 
+global negative emissions capacity climbs from 0.1GtCO2 to 8GtCO2, while the 
+cost of DACCS is expected to reduce by 50–80% with the same growth in 
+capacity.54 This would take the cost of BECCS on power from £90–£225/tCO2 
+today to £45–£145/tCO2 once deployed at scale. It would take DACCS from 
+£180– £265/tCO2 today to around £75–£125/tCO2 for liquid solvent technology 
+and from around £450–£900/tCO2 to around £80–£175/tCO2 for solid sorbent 
+technology.55 This is because these technologies can reap the benefits of 
+efficiency improvements, as well as a lower cost of financing as they move 
+away from being first-of-a-kind technologies, and achieve greater economies of 
+scale. However, the degree and speed with which the costs of these 
+                                                
+50 Committee on Climate Change (2021), ‘The Sixth Carbon Budget Greenhouse gas removals’, March, 
+p. 24. 
+51 Coalition for Negative Emissions (2021), ‘The  case for Negative Emissions’, June, p. 75.  
+52 Ibid., p. 66. 
+53 Committee on Climate Change (2021), ‘The Sixth Carbon Budget Greenhouse gas removals’, March.  
+54 Coalition for Negative Emissions (2021), ‘The Case for Negative Emissions’, June, Figure 6.  
+55 Ibid., p. 54. 
+ 
+1–100 0–100
+90–225
+180–900
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Afforestation
+and reforestation
+Soil Carbon
+sequestration
+(SCS)
+Bioenergy with
+Carbon Capture
+and Storage
+(BECCS)
+Direct Air
+Carbon Capture
+and Storage
+(DACCS)
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+15 
+technologies will reduce is uncertain, and depends on the level of investment, 
+and the extent to which they are taken up, to deliver economies of scale. 
+At the same time, the natural limit—scarcity of land— and rising land costs 
+might mean that nature-based solutions are likely to become more expensive 
+in the long term. As such, the prices of nature-based and engineering-based 
+solutions are likely to converge in the long run.56 However, BECCS and 
+DACCS, which rely on geological storage, may also be constrained in the very 
+long term, both by availability of and proximity to geological storage, and, in the 
+case of DACCS, large volumes of electricity needed.57 BECCS may also be 
+constrained in the long run due to limited availability of sustainable biomass, 
+and the potential for competition for land use with food production and water 
+security. However, the CNE estimates that these technologies can sustainably 
+be deployed capturing several billion tonnes of emissions a year at a global 
+level. With different supply constraints at play, it thereby appears possible that 
+the cost of nature-based NETs might increase with resource scarcity in the 
+long term. For engineering-based solutions, while significant technological cost 
+efficiencies (that come with commercial deployment) are likely to lead to price 
+reductions in the near term, it is also possible that prices may eventually rise in 
+the very long run. 
+All of these price and availability dynamics will affect the development of the 
+market for future abatement and negative emissions. The expected changes in 
+costs over time should ideally feed into market prices to allow for efficient price 
+signals; this has implications for market design. Also, we note that due to 
+increasing costs of abatement and decreasing costs of NETs, we can 
+reasonably expect price dynamics of convergence between abatement and 
+negative emissions in the lead up to delivery of net zero targets by 2050. We 
+can also expect some cost convergence of nature-based and engineering-
+based NETs as technologies become more mature. 
+2.3 Incentivising sufficient investment in NETs 
+Given the required scale of NETs in meeting the UK’s carbon budget 
+requirements, there is a need to encourage the development and deployment 
+of NETs today by sending the right market entry signals. The UK government, 
+acknowledging that carbon removals will play a ‘critical role’ in decarbonising 
+the economy, has committed to developing markets and incentives for GGRs 
+to enable early investment and support early commercial deployment.58 It also 
+mentions different funding routes, including £100m in innovation funding for 
+DACCS and the UK ETS as a potential market for GGRs—noting the need to 
+establish ‘a single, integrated compliance market for carbon, with negative 
+emissions supporting liquidity as the ETS allowance cap falls over time’. 
+NETs can be incentivised through various mechanisms, some of which are 
+illustrated in Figure 2.6. 
+                                                
+56 Coalition for Negative Emissions (2021), ‘The Case for Negative Emissions’, June, p. 55.  
+57 For example, using DACCS to sequester the upper bound estimate of 30GtCO 2/year would require 
+50EJ/year electricity and 50EJ heat . See Vivid Economics (2020), ‘An investor Guide to negative emissions 
+technologies and the importance of land use’, October.  
+58 Department for Business, Energy and Industrial Strategy (2021),’Net Zero Strategy’, 18 October, Executive 
+Summary and section 3vii. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+16 
+Figure 2.6 Examples of schemes to incentivise investment in NETs 
+  
+ 
+Source: Oxera.  
+Each funding option does not need to be used on a mutually exclusive basis, 
+and in fact having several options can help to spread the costs and/or allow for 
+voluntary uptake of NETs among different market participants.  
+As part of their climate strategies, many businesses, regions and institutions 
+already rely on voluntary carbon offsetting—defined as a payment to receive 
+credit for a unit of emission reduction or removal carried out by another actor.59 
+This can occur through several mechanisms. 
+• In the past, countries have been able to purchase offsets certified under the 
+Clean Development Mechanism (CDM) of the Kyoto Protocol. This allows 
+countries to implement an emission reduction, or removal, project in 
+developing countries, earning a Certified Emission Reduction (CER) 
+certificate, each equivalent to one tonne of CO2.60 Under the recently agreed 
+Paris Agreement rulebook for Article 6 some of the CERs will now be 
+carried forward into the new framework. Article 6 creates a new framework 
+for countries to use emissions reductions in other countries to meet their 
+Paris targets.  
+• There may be privately certified offsets that might not be CDM compliant: a 
+variety of these exist, including both reductions and removals, with varying 
+prices. 
+As the market for offsets develops, mechanisms for quality assurance and 
+verification are also likely to grow. Previously the offset market has 
+experienced issues, with both a lack of external certification schemes and less 
+                                                
+59 University of Oxford (2020), ‘The Oxford Principles for Net Zero Aligned Carbon Offsetting’, September.  
+60 See UNFCCC, ‘The Clean Development mechanism’, https://unfccc.int/process-and-meetings/the-kyoto-
+protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism (last accessed 3 
+November 2021). 
+ 
+CCfD
+Incentivising
+investment in 
+NET s
+Carbon CfDs
+Direct subsidies
+Voluntary markets Integration with ETS
+Mandatory markets
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+17 
+rigorous historic offset certification schemes leading to low-quality offsets being 
+purchased that fail to robustly and verifiably deliver emission reductions.61 
+Robust MRV processes are necessary to ensure the quality of offsets, 
+including whether they permanently remove carbon from the atmosphere while 
+also taking account of additionality and the potential for double-counting.62 
+Currently new players in the carbon reduction market are developing tools and 
+frameworks to assess and verify the quality of offsets.63 This development 
+might extend to carbon removals, establishing voluntary markets for GGRs. 
+Similarly, once credible voluntary markets for GGRs have been established, 
+participation in these may become mandatory for some industries (e.g. for 
+those where abatement is particularly difficult). 
+Integration with the ETS would provide GGRs access to a market covering a 
+number of sectors, such as aviation, industry and power generation. This 
+would have a number of advantages. 
+• Including NETs in the ETS would require accurate MRV processes, in order 
+for GGRs to be traded. While this is likely to be required for any government 
+support, integration with the ETS might accelerate the MRV process for 
+removals, making it similar to the one taking place in the market for ETS at 
+the moment. This would significantly improve credibility and the confidence 
+of market participants about high-quality emission removals, compared to 
+the current offset market. 
+• Including NETs in the ETS is likely to allow for relatively efficient price 
+formation. Specifically, within the system, carbon prices are determined by 
+market demand and supply, using a well-designed secondary trading 
+market. 
+• Under the ETS, the polluter bears the current carbon cost of emissions (if it 
+has to buy allowances, rather than receiving free allowances or reducing 
+emissions directly). This differs from direct government funding and 
+contracts for differences, which impose costs on the taxpayer or energy 
+consumers’ bills, depending on the funding mechanism. It also differs from 
+voluntary markets, where companies choose to offset emissions, but where 
+the prices paid may not reflect the ETS price of carbon, and companies can 
+withdraw at any time. We note that it is also possible to design the ETS 
+market for NETs such that participation extends beyond just meeting 
+compliance requirements, by allowing voluntary participants to also trade.  
+• Furthermore, we note that voluntary carbon markets are organised presently 
+on an ‘opt-in’ basis, with each firm that buys offsets contributing to a public 
+good, which all participants in the economy benefit from.64 This is a textbook 
+economics ‘free-rider’ problem whereby goods and services that generate 
+positive externalities tend to have under-production and/or under-
+consumption. Accordingly, there will tend to be underfunding of GGRs if left 
+to the voluntary market—whereas the inclusion of NETs in an ETS market, 
+                                                
+61 See, for example, Turner, G. and Grocott, H. (2021), ‘The Global Voluntary Carbon Market: Dealing with 
+the problem of historic credits’, January.  
+62 The Department for Business, Energy and Industrial Strategy (2021), ‘Monitoring, Reporting and 
+Verification of Greenhouse Gas Removals: Task and Finish Group Rep ort’, p. 9. 
+63 See, for instance, Sylvera’s website, https://www.sylvera.com/ (last accessed 3 November 2021). 
+64 A public good is a good which is non -rivalrous—meaning that there is no limit to the number of players 
+who can benefit from it simultaneously —and non-exclusionary—meaning that one cannot stop someone 
+from benefiting from it. The environment can be seen as a public good.  
+ 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+18 
+can be designed with caps or targets to induce higher NET uptake than 
+would otherwise be achieved.65 
+Besides constructing a revenue stream within the ETS market, we note that 
+NETs can also be remunerated and incentivised through government 
+subsidies. This includes direct funding, such as the UK government’s 
+commitment of £100m of investment in GGR innovation over the coming 
+years.66 
+Governments can also offer carbon contracts for difference (CCfDs), in which 
+the government provides revenue support for negative emissions, potentially 
+as a top-up to revenue received from the ETS and/or the voluntary carbon 
+market.67,68 Contracts for differences currently exist for low-carbon electricity 
+generation but not GGRs.69,70 For CCfDs to operate as a top-up mechanism to 
+a market carbon price, GGRs need to be able to access a market where they 
+can be paid the prevailing market price, which is currently not possible.71 
+Some commentators suggest that a CCfD and/or including NETs in the ETS 
+would preclude BECCS from participating in the voluntary market as the 
+emissions would already be accounted for in the ETS or carbon removal 
+market.72 However, it should be possible to have both a CCfD and/or ETS 
+mechanism for negative emissions, and also trade GGRs on the voluntary 
+market, as long as the carbon removed from the atmosphere is not double-
+counted in any of the schemes, thereby complying with Article 6 of the Paris 
+Agreement. When setting strike prices for the CCfDs, additional revenue 
+streams, such as sales through the voluntary market, would need to be 
+accounted for.73  
+In fact, multiple revenue streams for monetising NETs would be practical 
+provided that the same emissions reductions are not sold (and credited) more 
+than once. This could help spread the cost of emissions reductions between 
+the taxpayer or consumers (through CCfDs), polluters (through the ETS if they 
+do not receive free allowances or other markets), and actors who want to go 
+further (through the voluntary market). 
+                                                
+65 Note: some, but not all, of this effect will be counteracted by brand and reputational  advantages to 
+offsetting, which will affect some companies more than others.  
+66 See HM Government (2021), ‘Net Zero Strategy: Build Back Greener’, October, p . 28. 
+67 HM Government, ‘Contracts for Difference’, https://www.gov.uk/government/publications/contracts -for-
+difference/contract-for-difference (last accessed 15 December 2021).  
+68 In theory, a CCfD has the effect of correcting the externality in th e carbon offset market, which comes from 
+the fact that the social good of removing the carbon from the atmosphere outweighs the private good to the 
+company of purchasing the removal. A positive externality occurs when there is social benefit from a product  
+or service that outweighs the private benefit derived from that product. Since the buyer is only prepared to 
+pay for the private good rather than the social good, the good will be undersold and therefore underprovided 
+in the market. See Mas-Colell (1995), Microeconomic Theory, September, published by Oxford University 
+Press. 
+69 HM Government (2020), ‘Contracts for Difference (CfD): Allocation Round 4’, 2 March, 
+https://www.gov.uk/government/collections/contracts -for-difference-cfd-allocation-round-4 (last accessed 
+14 December 2021). 
+70 The government already offers a similar scheme for afforestation through the Woodland Carbon 
+Guarantee. This involves verification checks to assess how much CO2 was captured by a forest and paying a 
+guaranteed price up to 2055. Alternatively, woodland owne rs can sell the credits in the voluntary market. See  
+HM Government (2019), ‘Woodland Carbon Guarantee’, 4 November, 
+https://www.gov.uk/guidance/woodland -carbon-guarantee (last accessed 14 December 2021).  
+71 While most CfDs place the cost on governments, other models are also possible; current energy CfDs 
+place the cost of decarbonising on electricity consumers.  
+72 Element Energy and Vivid Economics (2021), ‘Investable commercial frameworks  for Power BECCS’, 
+May, p. 60. 
+73 This does imply that revenue recovery via participation in ETS or in voluntary carbon markets would 
+displace the extent of revenue that needs to be recovered via governmental support in CCfD payments. This 
+is analogous to renewable generators being allowed revenues from Guarantees of Origin (GOs), as well as 
+government support. This assumes that the GO revenues are taken into account when the renewable 
+generators bid in competitive tenders for additional support.  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+19 
+3 Core principles and evaluation criteria 
+Having discussed the important role of NETs in achieving net zero targets, as 
+well as differences in NETs that need to be factored into efficient market 
+design, we now turn to the principles for market design. In this section, we set 
+out core principles for market design options for NETs, which can also act as 
+evaluation criteria in weighing up the pros and cons of different options. We 
+discuss these criteria before turning to the market design options in the 
+following section.  
+From a public policy perspective, we consider that the criteria summarised in 
+Table 3.1 are of particular relevance for market design in integrating NETs 
+within the ETS. We note that these are also largely aligned with the criteria 
+developed in the report BEIS commissioned on commercial frameworks for 
+BECCs (i.e. effectiveness, efficiency, feasibility, replicability).74 
+Table 3.1 Evaluation criteria 
+Criteria Entails 
+Long-term effectiveness in 
+reducing overall emissions 
+ 
+• Maintaining incentives to reduce emissions while also 
+allowing deployment and uptake of GGRs in line with net 
+zero scenarios  
+• Emissions not shifted to other countries (‘carbon leakage’) 
+• Establishing and maintaining a robust MRV process to 
+ensure high quality of removals 
+• Incentive to invest in the most effective technologies over 
+time 
+Efficiency of market(s) 
+ 
+• Brings together sufficient buyers and sellers making the 
+market sufficiently liquid for efficient price discovery 
+• Lowest overall costs per tonne of CO2 removed 
+• Level of government control and flexibility to make changes 
+Fairness of cost allocation 
+ 
+• Avoid placing disproportionate amount of costs on industry, 
+which could force certain industries out of business or 
+encourage carbon leakage 
+• Avoid placing too high costs on taxpayers and billpayers  
+Practicality/ease of 
+implementation 
+ 
+• Low administrative effort required 
+• Can involve consideration of ‘one-off’, as well as ongoing 
+efforts  
+• Political acceptability 
+Integrability with EU ETS 
+ 
+• Changes which would not affect future integrability of the UK 
+ETS with the EU ETS 
+Source: Oxera. 
+                                                
+74 Element Energy and Vivid Economics (2021), ‘Investable Commercial Frameworks for Power BECCS’, 
+June. 
+
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+20 
+We note that there are likely to be trade-offs involved between some of these 
+criteria. For instance, options that are better suited to reduce emissions in the 
+long term may also come with a higher administrative effort. The remainder of 
+this section discusses the criteria in more detail.  
+3.1 Long-term effectiveness in reducing overall emissions  
+Several factors affect the long-term effectiveness of a market design option in 
+reducing overall emissions, which are discussed in turn.  
+Market design options should ensure that there are ongoing incentives to 
+reduce emissions while also allowing for the development and deployment of 
+NETs. On the one hand, the mechanism should ensure that NETs are 
+sufficiently incentivised now given their increasing importance to meet net zero 
+targets (set out in detail in section 2.1).75 On the other hand, it is essential for 
+businesses to continue to have incentives to reduce their own emissions. If 
+GGRs were to substitute emission reductions at a large scale, this could be 
+counterproductive if it disincentives businesses from making the necessary 
+investments to reduce their own emissions.76 As the academic literature77 and 
+policy papers stress,78 using NETs should work alongside, and not 
+disincentivise, efforts to rapidly and drastically abate emissions.  
+Another design principle is that the mechanism should reward high-quality 
+removals, ensuring that standards in terms of MRV are met. In addition, the 
+mechanism should take into account the differing impact of NETs—for 
+instance, in terms of permanence. Allowing inexpensive and less permanent 
+GGRs into the market at a large scale can have unintended consequences—
+for instance, reducing prices in the ETS—thereby giving the wrong price 
+signals. This happened in New Zealand after forestry was allowed to enter the 
+ETS market in 2008. Subsequent movement in the pricing of ETS led to 
+unintended consequences in relation to forestation projects.79 
+Another risk that the mechanism should seek to address is that emissions 
+could be shifted overseas—this is known as ‘carbon leakage’. Without a 
+mechanism to address this, companies may attempt to avoid the cost of 
+carbon that is placed on them by high environmental standards domestically by 
+shifting their carbon-intensive production abroad. Likewise, consumers could 
+replace UK-produced products with cheaper, more carbon-intensive imports. 
+Elsewhere this has been addressed by mechanisms such as the EU’s carbon 
+border adjustment mechanism, which adjusts prices of imports to account for 
+the cost of carbon. When other jurisdictions reach equivalent environmental 
+standards, their products are no longer subject to the adjustments, meaning it 
+also incentivises other countries to improve their environmental standards.80 
+The UK is considering similar policy options to address carbon leakage.81 
+                                                
+75 University of Oxford (2020), ‘The Oxford Principles for Net Zero Aligned Carbon Offsetting’, September.  
+76 International Carbon Action Partnership (2021), ‘Emissio ns Trading Systems and Net Zero: Trading 
+Removals’, May. 
+77 For instance, International Carbon Action Partnership (2021), ‘Emissions Trading Systems and Net Zero: 
+Trading Removals’, May. 
+78 See, for instance, Department for Business, Energy and Industrial St rategy (2021), ‘Net Zero Strategy: 
+Build Back Greener’, October, section 3vii.  
+79 Reductions in pricing of ETS provided an incentive to change land use away from forestry. See Evison, D. 
+(2016), ‘The New Zealand forestry sector ’s experience in providing car bon sequestration services under the 
+New Zealand Emissions Trading Scheme, 2008 to 2012’, Forest Policy and Economics , 75, October. 
+80 See European Commission (2021), ‘Carbon Border Adjustment Mechanism: Questions and Answers’, 
+May, https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_3661  (last accessed 29 November 
+2021). 
+81 HM Treasury (2021), ‘Net Zero Review: Analysis exploring the key issues’, October.  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+21 
+Additionally the mechanism should allow sufficient government control and 
+flexibility to make changes. For instance, a fully integrated market between 
+reductions and removals certificates, with no intervention, allows the price to 
+be solely determined by the market and removes government control. This has 
+potentially positive implications for cost-efficiency via efficient price formation 
+and market entry signals, but may reduce the market’s effectiveness in 
+reducing carbon emissions if the government loses the ability to oversee and 
+influence the trajectory of overall emission reductions. Having some degree of 
+government control over NETs volumes and prices could also ensure that 
+there is a balance in the use of emission removal and abatement technologies. 
+It is important to note, however, that the flexibility to make changes (e.g. in 
+allowing new NETs to enter the market) should not come at the expense of 
+ensuring a stable environment for existing investments. This generally means 
+that changes to the market should be introduced over time in a transparent 
+manner, and on a forward-looking basis. 
+3.2 Efficiency of market(s) 
+The market design mechanism should ensure efficient functioning of markets. 
+This means there should be enough buyers and sellers in the market to ensure 
+sufficient liquidity, meaning that a unit of GGR can be bought and sold at a 
+price reflecting its intrinsic value. This would promote competition and allow for 
+an effective price formation mechanism. Efficient markets would also tend to 
+lead to the lowest overall cost option being chosen—among the NETs that 
+were allowed to participate in accordance with the first principle. 
+3.3 Fairness of cost allocation  
+The mechanism should ensure a fair cost allocation, split appropriately 
+between emitters, taxpayers and energy billpayers. There is a general textbook 
+principle that the polluter should pay for the problem it causes (‘negative 
+externality’) and being exposed to the cost of emitting incentivises companies 
+to take actions to reduce emissions.82 At the same time, however, there is also 
+a case for socialising the cost of supporting new technologies that will become 
+necessary in the future. The government may also be concerned about 
+industries becoming internationally uncompetitive if the costs they are faced 
+with are too high.  
+Also, we note that it is important to consider the cost implications of all support 
+schemes for NETs, not just market-based mechanisms in isolation. For 
+instance, if direct government funding was available for NETs, the cost of 
+providing this funding could still be allocated to polluters via a market-based 
+mechanism or policy (e.g. a separate tax) in order to expose them to the right 
+incentives to abate their emissions.  
+3.4 Practicality/ease of implementation  
+The preferred market design option should avoid overly complicated 
+administrative processes. It should also be practical in that new buyers and 
+sellers should be able to gain access to the market—e.g. if new NETs are 
+developed over time. Practicality also entails that the operation for market 
+participants should be relatively easy. 
+                                                
+82 Also referred to as Pigouvian taxes based on Pigou, A.C. (1932), The Economics of Welfare, fourth 
+edition, Macmillan, London, chapter IX. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+22 
+Ease of implementation requires political acceptability, which is also linked to 
+fairness of cost allocation. Wide political acceptability helps ensure a more 
+stable policy and investment environment for GGR projects.  
+3.5 Integrability with EU ETS  
+It is relevant to note that following the UK’s exit from the EU, the country 
+launched its own scheme, the UK ETS, in May 2021. This system is very 
+similar to the EU scheme, covering the same industries and setting a cap that 
+is 5% lower than it would have been under the EU ETS. The scheme is 
+currently not linked to the EU ETS, but this may happen in the future. In 
+particular, the EU has identified the following criteria for linking its ETS with 
+other markets:83 
+• system compatibility (the systems have the same basic environmental 
+integrity, and a tonne of CO2 in one system is a tonne in the other 
+system)  
+• the mandatory nature of the system, and 
+• the existence of an absolute cap on emissions. 
+We consider that the market design options identified as part of this report 
+should make a future integration of the UK ETS and the EU ETS possible—
+although this will, of course, depend on developments in the EU as well.84 In 
+this context, it is important to note that the European Commission published its 
+‘Fit for 55’ proposals in 2021, setting out how it should reach its legally binding 
+target to cut emissions to 55% below 1990 levels by 2030.85 Related to this, 
+the Commission will publish a proposal on carbon removal certification in 
+2022.86 The ETS Directive87 currently does not contain a legal basis for 
+generating GGR units, although the ‘Fit for 55’ package provides a new 
+opportunity to make amendments to the Directive. 
+ 
+                                                
+83 European Commission, ‘International carbon market’, https://ec.europa.eu/clima/eu-action/eu-emissions-
+trading-system-eu-ets/international-carbon-market_en (last accessed 15 October 2021).  
+84 Also, there may well be scope for using GGRs beyond the ETS —for instance, to decarbonise sectors not 
+currently covered by the ETS. In this case, integrability with the EU ETS would be less relevant.  
+85 European Commission (2021), ‘'Fit for 55': delivering the EU's 2030 Climate Target on the way to climate 
+neutrality’, 14 July. 
+86 European Commission (2021), ‘State of the Union 2021 – Letter of intent’, 15 September.  
+87 European Commission (2003), ‘DIRECTIVE  2003/87/EC OF THE EUROPEAN PARLIAMENT AND OF 
+THE COUNCIL’, 13 October. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+23 
+4 Market design options 
+There is a growing economics literature on negative emissions, with different 
+design methods being put forward on how to include negative emissions within 
+the ETS.88 This section assesses four options for how this could be achieved. 
+In order to arrive at these options, various design parameters need to be set—
+these are summarised upfront, before the options are described in more detail. 
+Supply of GGRs 
+In order for any such mechanism to work, rules need to be in place to 
+guarantee that the accounting of negative emissions is done in a credible way, 
+including in terms of MRV standards and taking into account differences in 
+permanence. This is necessary to allow a unit of GGRs to be counted towards 
+emission reduction targets (i.e. allowing for market participants to be confident 
+that GGRs provide a one-for-one conversion option, relative to emission 
+reductions, where feasible). Rules around the supply of GGRs in a negative 
+emissions market are discussed in section 4.1 prior to setting out the full 
+options, because such rules are necessary across all proposed options. 
+Demand for GGRs 
+The demand for GGRs is an important factor that can vary across options—
+either industries covered by the ETS, a broader set of buyers, or only the 
+government could participate in the market. This is relevant because it 
+determines the scale of demand for the market. 
+Level of integration with the ETS 
+Models in the literature range from options where NETs are simply included in 
+the ETS (full integration), to options where there are separate markets for 
+NETs. The level of integration is a key design feature, and one that must be 
+considered in order to achieve a market outcome that produces the right 
+portfolio of abatement and removal of emissions in an economy.  
+Role of the government 
+The level of government participation can also vary across options, with the 
+government either simply setting up the rules of the market or having a more 
+involved role that includes actively buying and selling. This is a relevant 
+consideration affecting the administrative effort for the government, as well as 
+the level of control it has over outcomes compared to letting the market 
+determine outcomes (e.g. on pricing, the split between GGRs and EAs, etc). 
+Cost allocation 
+Depending on the set-up of the market, the costs of funding NETs might fall on 
+different players, such as the government, industries or energy billpayers. It is 
+important to consider this design feature alongside other funding mechanisms 
+to determine whether the overall cost is divided fairly across the market 
+participants. The more market participants are exposed to the costs of their 
+                                                
+88 For instance, Rickels, W., Proelß, A., Geden, O., Burhenne, J. and Fridahl, M. (2021), ‘Integrating Carbon 
+Dioxide Removal Into European Emissions Trading’, Frontiers in Climate, June, 3:690023; International 
+Carbon Action Partnership (2021), ‘Emissions Trading Systems and Net Zero: Trading Removals’, May; 
+Bednar, J., Obersteiner, M., Baklanov, A. , Thomson, M., Wagner, F., Geden, O., Allen, M., Hall, J.W.  (2021), 
+‘Operationalizing the net-negative carbon economy’, Nature, 596, March, pp. 377–83; Coffman, D. and 
+Lockley, A. (2017), ‘Carbon dioxide removal and the futures market’, Environmental Research Letters, 
+January, 12:015003. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+24 
+emissions, the stronger the incentives that they face will be, to take actions to 
+reduce emissions. 
+4.1 Accounting for differences across NETs in supplying effective 
+units of GGRs  
+As a prerequisite, it is essential that MRV standards are introduced and 
+followed to demonstrate that GGRs genuinely remove emissions. GGRs that 
+do not meet the MRV standards cannot be allowed to participate in the market. 
+In addition, as described in section 2.2, there are differences across NETs in 
+terms of how permanent the CO2 removal is likely to be. After ensuring the 
+MRV standards of a NET are met, the next step is to determine how these 
+differences in permanence are captured and accounted for within a design 
+framework.  
+The difference in storage means that technologies also differ in their 
+contribution to long-term climate goals,89 and there are different ways of 
+addressing this issue in accounting for the quantity and/or pricing of GGR units 
+within the market. Relevant approaches to integrating different types of NET in 
+the ETS market include the following. 
+1. Discounting less permanent NETs. For instance, while a tonne of CO2 
+that is removed permanently could be awarded one unit of GGR, a tonne of 
+CO2 that is more prone to leakage or reversal would be worth less than one 
+unit of GGR. We note that BEIS’ paper on MRV for GGRs suggests that a 
+NET that results in CO2 leakage after 100 years could be awarded at most 
+39% of a full unit of GGR.90 
+2. Threshold. Alternatively, a permanence threshold could be introduced, 
+such that only NETs with a minimum level of permanence can participate in 
+the market. 
+3. Separate markets. A third option is to create separate markets for different 
+classes of NETs. This would involve grouping NETs according to their 
+permanence, and would result in different prices depending on how long 
+CO2 is removed for. 
+These options are represented in Figure 4.1. 
+                                                
+89 Department for Business, Energy and Industrial Strategy (2021), ‘Monitoring, Reporting and Verification of 
+Greenhouse Gas Removals – Task and Finish Group report’, 19 October, p. 11.  
+90 Ibid., p. 12. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+25 
+Figure 4.1 Potential approaches to including different types of NETs in 
+the ETS 
+ 
+ 
+Source: Oxera. 
+There are advantages and disadvantages to all three approaches to including 
+NETs in the market for ETS.  
+• Approach i: discounting less permanent NETs. This is the most precise 
+approach, as it quantifies the relative contribution of different NETs to 
+climate targets and reflects these in the discount rate. At the same time, it 
+increases the supply of GGR units in the market relative to the other 
+options, which has efficiency benefits. However, it relies on a transparent 
+and scientifically approved process for determining discount rates. If this—
+potentially complex—process is not accurate—or if the efficacy of different 
+technologies in terms of permanence changes over time—then this option 
+risks over-remunerating GGRs that are not actually very helpful in reducing 
+atmospheric CO2 in the long term. Similarly, it may create a risk of under-
+remuneration for technologies that turn out to be more effective than 
+expected by the discounting process. A practical approach may be for the 
+government to set default discounting values per technology group, which 
+could then be reviewed periodically. 
+• Approach ii: threshold. This option has the advantage of being fairly 
+simple, as it involves determining only whether a NET satisfies a minimum 
+permanence threshold. However, there is a spectrum of permanence 
+associated with NETs, while a threshold offers only binary options (to 
+include or exclude certain NETs from the market). The use of a threshold is 
+therefore a blunt instrument to distinguish between more and less 
+NET s
+Verification
+Not allowed to participate
+Permanence
+Allowed to participate
+Permanent Non-permanent
+Not discounted Discounted according to level of permanencei
+ii Allowed to participate Not allowed to participate
+iii Separate markets for different classes of NET
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+26 
+permanent NETs. In addition, it decreases the size of the market, which 
+would reasonably be expected to affect the functioning of the market in 
+terms of (in particular) efficiency of price formation and liquidity. 
+• Approach iii: Separate market for different classes of NET. Finally, this 
+approach allows different types of NET to participate, but divides them into 
+separate markets, which allows for different prices to be formed depending 
+on permanence. In a way, this allows the price of less permanent GGRs to 
+be discounted (relative to the volume being discounted in option 1). 
+However, it requires different classes of NETs to be established—which is a 
+potentially complex process. Such structural market separation may also 
+inhibit market growth, if there are barriers or timing lags in approving and 
+creating markets for new NETs over time. Moreover, creating separate 
+markets decreases the size of each market, leading to less competition and 
+liquidity—and thereby reduced efficiency of price formation and price entry 
+signals—within each market. Most importantly, this option creates different 
+types of GGR units and it may not be clear to market participants how these 
+should be compared from a carbon removal perspective (for example, one 
+GGR unit now does not necessarily mean that one tonne of GHGs is 
+permanently removed from the atmosphere). This makes it impossible to 
+directly treat units of GGRs as homogenous, and as substitutable for EAs 
+within the ETS (unless a discounting process such as that in option 1 is 
+established). We therefore consider approach 1 and/or 2 to be superior 
+compared to approach 3. 
+With any selected option, a periodic re-evaluation mechanism could be 
+included, to allow the government to make changes to the proposed treatment 
+of certain NETs if objectives change over time, or new information becomes 
+available. 
+4.2 Economic representation of integration  
+Having established the comparability of different NETs, this allows for the 
+creation of a unit of GGR, which is equivalent to a tonne of GHGs, similar to an 
+EA. Such a unit of GGRs is necessary for the integration of GGRs in the ETS 
+as discussed in the remainder of this section. 
+Different levels of integration between the market for NETs and the ETS are 
+possible, ranging from fully disconnected to fully integrated markets, as 
+demonstrated in Figure 4.2. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+27 
+Figure 4.2 Range of market integration 
+  
+Source: Oxera. 
+Before turning to the specific market design options, it is worth discussing the 
+representation of an emissions market from an economics perspective. One 
+way of representing this market is with an upward-sloping marginal abatement 
+cost (MAC) curve, as in Figure 4.3 below.91 The width of each box shows the 
+quantity of emissions abated, and the height represents the marginal cost of 
+abatement, which increases as more abatement is achieved. The clearing 
+price is set by the marginal abatement unit that is required to reach the cap. 
+Figure 4.3  Marginal abatement cost curve 
+  
+Source: Oxera. 
+The introduction of negative emissions can also be represented along the 
+x-axis. To illustrate this, in the figure below, negative emissions are shown as 
+dark green bars. Importantly, this assumes that GGRs are fully verified and 
+                                                
+91 Another representation uses demand and supply for emis sions, see, for instance, Rickels, W., Proelß, A., 
+Geden, O., Burhenne, J. and Fridahl, M. (2021), ‘Integrating Carbon Dioxide Removal Into European 
+Emissions Trading’, Frontiers in Climate, June, 3:690023. 
+The market for 
+removals is separate 
+from the market for 
+emission allowances.
+Fully disconnected 
+markets
+Fully integrated 
+markets
+Emission and removal 
+certificates are part of the 
+same market and both 
+count towards the cap.
+Partially integrated markets—
+e.g. with government as an 
+intermediary or separate 
+caps.
+Emission reductions
+Price
+Marginal 
+cost
+Volume of abatement = 50
+p
+MAC
+15 5 20 5 5
+Cap
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+28 
+sufficiently comparable to abatement such that one unit of GGRs counts 
+towards the same volume of emission reductions. The use of NETs to meet the 
+emissions cap of 50 will depend on the cost of NETs relative to abatement. In 
+the left-hand chart of Figure 4.4 the marginal cost of NETs is higher than the 
+marginal cost of abatement so NETs do not contribute to meeting the cap. In 
+the right-hand chart the lowest marginal cost of NETs is lower than some of the 
+abatement costs so the cap is met by 45 units of abatement and 5 units of 
+NETs.  
+Figure 4.4  Introducing NETs into the ETS (illustrative example) 
+  
+ 
+Source: Oxera.  
+This demonstrates that full integration without additional rules may not be 
+feasible in the short run because the more permanent NETs are likely to be too 
+costly at early stages of deployment, while policymakers may also want to 
+avoid large-scale substitution of abatement with GGRs in order to retain 
+incentives to abate. In the example above both result in net emission 
+reductions of 50 in line with the cap. However, in the left-hand chart, gross 
+emissions are lower than in the right-hand chart as 5 of the net emission 
+reductions are fulfilled by GGRs. One option to address this could be to 
+introduce a separate cap for NETs. This could be done in either of the following 
+two ways: 
+• specifying a proportion of the overall cap that needs to be fulfilled by NETs 
+(in which case there would be some substitution of abatement by GGRs as 
+a specified amount of GGRs would always be used);92 
+• tightening the overall emissions cap by an amount less than or equal to the 
+level of GGRs to maintain incentives to reduce emissions. 
+An example of the latter with a more ambitious target is shown in Figure 4.5 
+below. A tighter cap on emissions would shift the line in this representation to 
+the right as more abatement or negative emissions are needed (red line). This 
+would ensure that the volume of abatement remains as high as before (in this 
+                                                
+92 A cap was also used to limit the expansion of b iomass under the Renewables Obligations (ROs). See: 
+https://www.gov.uk/government/publications/the -400-mw-cap-on-new-build-dedicated-biomass-projects-
+renewables-obligation (last accessed 7 January 2022).  
+Emission reductions
+Price
+Marginal 
+cost
+Cap
+p
+MAC
+Marginal cost
+of NET s
+Emission reductions
+Volume of abatement = 45
+Volume of GGRs = 5
+T otal = 50
+p
+MAC
+p
+Marginal cost
+of NET s
+Cost of NET s too
+high to affect
+market clearing
+Low-cost NET replaces some
+abatement and decreases
+the clearing price
+15 5 20 5 5
+Volume of abatement = 50
+5 5 5 15 5 20 5 5 5 5 5
+Cap
+Abatement NET s
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+29 
+example, at 50), with negative emissions as an additional factor (in this 
+example, an additional volume of NETs of 5 is successful in the market). In 
+both cases, the government would have some control over the mix of 
+abatement and GGRs and could align this with its scenario modelling for what 
+is required to reach net zero. 
+Figure 4.5  Low-cost NETs provide additional removals (illustrative 
+example) 
+  
+Source: Oxera.  
+It should be noted that, while some NETs may appear to be costly and not 
+competitive (at the outset of the deployment lifecycle) in an integrated market, 
+there are several scenarios under which this could change. 
+• In the future, the cost of engineering-based NETs may well decrease as 
+technologies become more mature. At the same time, abatement is likely to 
+become more expensive as harder-to-decarbonise areas need to reduce 
+emissions. This will tend to lead to cost convergence and increased 
+competitiveness of NETs (see section 2.2). 
+• NETs are likely to be subsidised until sufficient maturity levels are reached. 
+The government has acknowledged the need for NETs and has already 
+committed to funding.93 This shows a parallel to the adoption of renewable 
+generation technologies, such as solar and wind, for which costs (and 
+                                                
+93 Department for Business, Energy and Industrial Strategy (2021), ‘Net Zero Strategy’, 18 October, 
+Executive Summary and section 3vii.  
+ 
+Emission reductions
+Volume of abatement = 50
+Volume of GGRs = 5
+T otal = 55
+p
+MAC
+Marginal cost
+of NET s
+The volume of
+abatement is the same 
+as it is without NET s so 
+negative emissions are
+additional
+15 5 20 5 5 5 5 5
+Cap
+Cap shifts
+further
+p
+Price
+Marginal 
+cost
+Abatement NET s
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+30 
+thereby subsidy levels) have reduced dramatically over time.94 If NETs are 
+sufficiently subsidised at the outset of their deployment lifecycle then they 
+will tend to become competitive even in an integrated market. 
+• Demand for NETs may well increase as companies need to achieve (either 
+voluntary or mandated) net zero targets. 
+To illustrate these points, consider how they would affect the figures shown 
+above. The first two points would decrease the cost of NETs—i.e. lower the 
+height of the dark green bars in the figures above. This would shift NETs to the 
+left and make them more competitive. The third point would increase 
+demand—i.e. shift the vertical cap line to the right. Again, this would mean that 
+more GGRs are demanded. 
+4.3 Market design options with varying degrees of integration 
+The basic workings of the ETS (market for EAs) and a separate market for 
+GGRs are shown in Figure 4.6. 
+Figure 4.6  Separate markets for EAs and GGR units 
+ 
+Source: Oxera. 
+In this study, we focus on a separate NETs market that has a link back to the 
+ETS or models that integrate both markets. However, the scope for a separate 
+market could theoretically be broader, and involve other sectors that are 
+decarbonising—voluntarily or because they are mandated to do so—by 
+participating in the market. Article 6 of the Paris Agreement facilitates wider 
+market participation as it enables more opportunities for trading genuine 
+carbon reductions or removals.95 For instance, the government could mandate 
+emissions targets for other sectors that are not currently covered by the ETS, 
+such as heating of buildings or road transport. These targets could then also 
+be met using GGR units from this separate market.96 
+A separate market for NETs can help to deal with the current cost divergence 
+between NETs and emission reductions, and would allow for a broader role of 
+NETs beyond the ETS. While, in theory, there could even be a separate 
+market for each NET, this would be problematic if it leaves the number of 
+competitors within each market too small for effective price formation and for 
+efficient price entry signals to be conveyed. It would also come with additional 
+                                                
+94 See, for instance, Oxera (2020), ‘ Making a difference: supporting investment in low -carbon electricity 
+generation’, 29 October, Figure 1.  
+95 Although this is not the focus of this study, the link would therefore not necessarily need to be via the ETS, 
+and GGRs could also be accepted more widely.  
+96 In theory, individuals could also participate in the market. However, given the minimum volumes that are 
+usually required, this would probably need to be via an aggregator.  
+ 
+ETS Market for GGRs
+Supply of EAs
+Demand for
+EAs
+Government Industries covered
+under ETS
+Free allocations
+Auction
+CO2
+NET s
+Supply of GGR 
+units
+Demand for
+GGR units
+Government
+Firms and 
+individuals
+Mandatory/ 
+voluntary
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+31 
+administrative responsibilities, as new markets would need to be formed when 
+new technologies become available. It therefore seems preferable to create a 
+single market for NETs, which would then need to use discounting to take into 
+account differences in permanence.97,98  
+The following options show how a link can be established between the left box 
+(market for EAs) and right box (market for GGRs).99 Options 1–3 therefore all 
+allow for effective substitutability between EAs and GGR units, while achieving: 
+• an uptake of GGRs within the ETS market, to facilitate the growth of NETs;  
+• an overall reduction in the level of emissions. 
+The following three options could also be implemented sequentially (i.e. 
+moving from separation to integration), with later options being introduced as 
+the market matures.100  
+We note at the outset that for any of the options where we speak of reduced 
+supply in EAs as GGR units are introduced, this could be effected in a number 
+of ways, which would potentially affect the allocation of costs. One way of 
+reducing EAs is by decreasing the number of free allocations; this would tend 
+to increase costs for the industry that would then need to achieve a higher level 
+of abatement or purchase EAs that it previously obtained for free. Another way 
+of reducing EAs would be to decrease the number of EAs that are auctioned; 
+this lowers the government’s revenues from the ETS and directs the forgone 
+revenues towards the funding of NETs, thereby reducing additional funding 
+requirements. That is, if the government wanted to support GGRs up to a 
+certain cost, then this option would be cost neutral for the government if it re-
+routes the same level of combined funding through the ETS and direct support. 
+The two options are depicted in Figure 4.7.101  
+                                                
+97 Section 4.1 sets out how differences in permanence across NETs can be taken into accou nt—for example, 
+using discounting. 
+98 Note that in a single market, subsidies for different technologies can be calibrated to be cost -reflective 
+such that a variety of NETs is encouraged to enter the market.  
+99 Importantly, it should be stressed that all options presented here rely on robust MRV processes to be in 
+place, ensuring the credibility of removals, and on discounting of different types of NETs to make them 
+comparable. This allows creating a unit of GGR  that is equivalent to a tonne of CO2 and can be traded 
+alongside EAs. 
+100 Instead of implementing options 1 -3 in sequence it is possible to move to later options 2 and 3 directly. 
+However, more policy interventions would be required in line with the relativ e immaturity of the market.  
+101 We note also that the higher costs for industry in the former option and the lower revenues for 
+government in the latter option, are immediate distributional implications, but they can be affected by policy 
+choices. For example, even in the case of higher costs being borne by industry in the former option, a 
+subsidy could be given to mitigate this effect.  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+32 
+Figure 4.7 Two ways of reducing the supply of EAs in the ETS 
+ 
+Note: When the supply of EAs is reduced, GGR units are instead introduced into the market so 
+the figure does not take into account a price effect from reduced overall supply.  
+Source: Oxera. 
+We now set out the market design options, in turn. 
+4.3.1 Option 1: separate markets with government as a broker  
+Box 4.1 Summary of option 1: separate markets with government as 
+a broker  
+ 
+Reduction in supply of EAs when GGR units introduced 
+Government Industries covered 
+under ETS
+Reduction in 
+free allocations
+Auction
+Higher 
+cost for 
+industry
+Government Industries covered 
+under ETS
+Free allocations
+Reduction in 
+auctioned supply
+Lower 
+revenues for 
+government
+ETS (proposed change) Market for GGRs
+Supply of EAs
+Demand for
+EAs
+Government Industries covered
+under ETS
+Free allocations (20)
+Auction (50)
+CO2
+NET s
+Supply of GGR 
+units
+Supply of EAs reduced by 10 
+and these are given to NET s
+These 10 EAs can be sold back 
+in the secondary market
+ETS (current)
+Supply of EAs
+Demand for
+EAs
+Government Industries covered
+under ETS
+Free allocations (20)
+Auction (60)
+(10)
+(10)
+Note: Numbers are for
+illustrative purposes only. 
+Additional demand for GGRs 
+can come from
+firms/individuals on voluntary
+or mandatory markets outside 
+of the ETS (not shown here).
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+33 
+Note: The above figure shows the supply of auctioned EAs being reduced but the 
+government could also choose to reduce the number of free allowances (see Figure 
+4.7).  
+• Description: separate markets where the government reduces the supply of 
+allowances in the ETS and gives these EAs to NET operators in return for an 
+equivalent amount of GGR units (which the government could then use to offset 
+its own emissions or sell e.g. in the voluntary market). The NET operators can 
+sell the EAs in the secondary market. The overall number of EAs available to the 
+industry therefore remains the same (in the illustrative example above it stays at 
+80). Demand for GGRs is therefore intermediated or brokered by the 
+government, which would ‘kick-start’ the participation of NETs in the ETS. 
+However, other buyers (in a voluntary or mandatory market) could also purchase 
+GGRs units, especially as the market matures. In this market design option, the 
+government can directly determine the amount of GGR units in circulation within 
+the ETS.  
+• Efficiency of markets: government determines the number of GGR units that 
+enter the ETS, which may not be as efficient as letting market forces determine 
+the role of NETs. 
+• Who pays: In the first instance, the government pays for GGRs by using EAs it 
+removed in the ETS; however, note that this role is of intermediation or brokerage 
+(which does not lead to additional costs of purchasing GGRs per se) because the 
+government is effectively substituting EAs by GGRs.I In the case of the number 
+of auctioned EAs being reduced there would be foregone government revenues 
+from the ETS, but this would reduce any separate NET funding requirements. 
+And in the case of free EAs being removed, the cost to industry would increase, 
+but the cost could be offset by subsidies. Therefore, in either case, the cost 
+allocation could be calibrated through additional measures to distribute costs 
+between taxpayers and industry in line with policy objectives. The total number of 
+EAs available for purchase would remain the same (60) with 50 via auction by 
+the government and 10 sold on the secondary market by the NET operators. 
+Ceteris paribus, the carbon price level would remain the same so incentives on 
+companies to reduce their emissions would remain the same. 
+It should be noted, however, that additional funding for engineering-based NETs 
+is likely to be required initially to make up the difference between the prevalent 
+carbon price and the current cost of removal technologies; this difference is 
+expected to diminish as the engineering-based removal technologies mature. 
+This funding could take the form of a taxpayer subsidy, a CCfD or a levy on 
+industries that participate in ETS. 
+• Practicality: active role for the government as an intermediary but no significant 
+re-working of markets required. Note that both the UK and EU ETS already have 
+mechanisms to alter the amount of allowances made available for auction (their 
+respective market stability mechanisms) and these could be adapted. 
+• Integrability with EU ETS: no changes to the ETS apart from reducing the supply 
+of EAs.  
+Note: Illustrative numbers.  
+Source: Oxera. 
+Under option 1 (as summarised in Box 4.1), a separate market for GGRs is 
+created. The government acts as a broker connecting the two markets. In 
+practice, this option would therefore result in a certain amount of EAs being 
+fulfilled using GGRs—i.e. redirecting some of the ETS market towards NETs. 
+Supply in the primary market is reduced—but as NETs operators can sell their 
+EAs on the secondary market, the overall supply of EAs is actually unchanged. 
+Overall, this might therefore not lead to an additional financial commitment for 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+34 
+firms in so far as the level of EAs in the market—and therefore prices—could 
+remain unchanged. The cost allocation depends on whether free or auctioned 
+EAs are being removed from the supply in the primary market (see Figure 4.7). 
+Either case relies on NETs being willing to operate at the prevailing carbon 
+price, which is likely to require additional sources of funding for engineering-
+based GGRs. Under this option the government would be actively involved and 
+could decide how many GGR units to purchase, thus directly controlling the 
+GGR units in circulation and adjusting the supply of EAs accordingly. 
+Additionally, no changes to the existing ETS are required—the government 
+would only adjust the supply of EAs.  
+Notwithstanding the direct role for the government in brokering a substitution of 
+EAs by GGRs (which implies an administrative responsibility) this option is 
+practical at an early stage of market operations for including NETs in the ETS. 
+Other options, discussed next, would need a number of additional policies and 
+interventions to achieve uptake of NETs while reducing overall emissions. 
+4.3.2 Option 2: separate markets with price cap  
+Rather than acting as a broker, once the market matures, the government 
+could create a separate market for GGRs where industries covered by the ETS 
+buy GGR units directly. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+35 
+Box 4.2 Summary of option 2: separate markets with price cap  
+ 
+ 
+• Description: GGR units are sold in a separate market but accepted as 
+alternatives for EAs. The industries covered by the ETS can buy units of GGRs 
+directly but additional demand might come from other firms or individuals outside 
+of the ETS. In contrast to option 1, if the Government is not directly brokering the 
+substitution of EAs by GGRs, then it will need to rely on additional policies to 
+ensure the uptake of GGRs. First, to ensure price competitiveness up to the point 
+that NETs mature (towards price parity with EAs), the government could cap the 
+GGR unit prices at the prevailing carbon price to route some market demand 
+from EAs to GGR units instead. Second, the government would still need to use 
+other policy mechanisms to ensure that overall emissions are declining (e.g. by 
+reducing the number of EAs in the market, rather than simply allowing for the 
+purchase of more GGRs alongside the same number of EAs). In effect, therefore, 
+while this option differs from option 1 by reducing the direct role of the 
+government as an intermediary in the ETS market, if introduced today this 
+mechanism would need additional policy interventions.  
+• Efficiency of markets: as in option 1, there are no effective price signals for NETs 
+given the cap at the carbon price. 
+• Who pays: Firms directly buy GGR units instead of EAs. In the case of the 
+number of auctioned EAs being reduced there would be foregone government 
+revenues from the ETS, but this would reduce any separate NET funding 
+requirements. And in the case of free EAs being removed, the cost to industry 
+would increase, but the cost could be offset by subsidies. Therefore, in either 
+case, the cost allocation could be calibrated through additional measures to 
+distribute costs between taxpayers and industry in line with policy objectives.. To 
+achieve a cap of the price of GGR units at the ETS price, the shortfall in cost 
+recovery by NETs (to make up the difference between the prevalent carbon price 
+and the current cost of engineering-based removal technologies) would then 
+have to be compensated. This additional funding could take the form of a 
+taxpayer subsidy, a CCfD or a levy on industries that participate in ETS with the 
+latter option placing a higher cost and abatement incentive on industries. 
+Nonetheless, integration of NETs with the ETS in the way described considerably 
+reduces the additional funding requirement by enabling NET operators to earn 
+revenue from the direct sale of GGRs.  
+• Practicality: less direct role for government as a participant in the ETS market 
+compared to option 1 but active intervention still required to ensure the emissions 
+cap is not in effect increased by the use of GGRs. 
+• Integrability with EU ETS: larger changes compared to option 1 as GGR units 
+now need to be accepted in the ETS directly, rather than the government 
+intermediating the substitution of EAs with GGR units.  
+Source: Oxera. 
+ETS Market for GGRs
+Supply of EAs Demand for
+EAs/GGR units
+Government Industries covered
+under ETS
+Free allocations
+Auction CO2
+NET s
+Supply of GGR 
+units
+Demand for
+GGR units
+Firms and 
+individuals
+outside of ETS
+Mandatory/ voluntary
+Capped at carbon priceSupply of EAs reduced
+in line with GGRs
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+36 
+As discussed under option 1, the NETs market could extend to other industries 
+as well but the focus here in on the industries covered by the ETS as potential 
+buyers. With this market design option, in order for GGRs to achieve initial 
+uptake, prices could be capped at prevailing clearing prices in the ETS (with 
+additional funding required at least initially to make up the difference between 
+the carbon price cap and the current cost of engineering-based NETs). This 
+design feature could be revisited over time and potentially changed once the 
+NETs market becomes more mature. To avoid large-scale substitution of 
+abatement with removals (i.e. firms buying GGR units in addition to the existing 
+EAs, which would allow them to emit more than before, removing the additional 
+amounts via GGRs), the government could reduce the supply of EAs in the 
+ETS.  
+The advantage of this option is that it reduces the direct role for the 
+government in the operation of the ETS market. However, leaving the trading 
+of GGRs to free market operations would tend to lead to initially limited uptake 
+of engineering-based NETs, and could also lead to a loss of control in reducing 
+the overall level of emissions. These issues would then need to be corrected 
+with other policies (i.e. the price cap, and control on supply of EAs). In contrast 
+to option 1, option 2 therefore can be seen as a more viable market design 
+option as and when the market for NETs matures—i.e. at the point in time 
+where greater cost and price parity between GGRs and EAs has been 
+achieved, and the supply of new EAs has become increasingly limited. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+37 
+4.3.3 Option 3: integrated markets  
+Box 4.3 Summary of option 3: integrated markets  
+ 
+*  This illustration assumes that the government is still auctioning EAs. At the point 
+where EAs are no longer available, the distinction in the auction of EAs and GGR 
+units will no longer be relevant. We note this because if implemented sequentially, 
+option 3 may be in place towards 2050, when the number of EAs available for 
+auction would be limited and firms would mainly purchase GGR units. 
+Note: The above figure shows the supply of auctioned EAs being reduced but the 
+government could also choose to reduce the number of free allowances (see Figure 
+4.7). 
+• Description: fully integrated markets where units of GGRs are auctioned together 
+with EAs. The government may determine the amount of GGRs that is auctioned 
+and reduce the number of EAs accordingly. This ensures that emission 
+reductions incentives are retained as GGRs are introduced into the market. As in 
+the current ETS, the price for EAs (and now GGRs) is determined by the demand 
+of covered industries. This clearing price is valid across EAs and GGRs. Other 
+firms or individuals not covered by the ETS may still purchase GGRs on a 
+voluntary/mandatory basis.  
+• Efficiency of markets: price determined by demand curve for EAs/GGRs. 
+Auctioning them together allows for greater liquidity. 
+• Who pays: as before, the cost impact of industry vs. government depends on 
+whether the supply of free or auctioned EAs is reduced. The price is set by the 
+demand for EAs/GGR units. This means that NETs only submit their volume to 
+the auctioneer, with prices being determined by the market. This option is viable 
+once greater convergence between costs for GGRs and prices in the ETS has 
+been reached. 
+• Practicality: less active role for government compared to option 1. 
+• Integrability with EU ETS: larger changes compared to options 1 and 2 as units of 
+GGRs are now auctioned within the ETS. 
+Note: Illustrative numbers.  
+Source: Oxera. 
+Effectively, option 3 represents how the integration of NETs in ETS can be 
+operationalised when the market has become mature. As NETs mature and 
+the number of EAs in circulation is reduced, greater convergence between the 
+Current ETS
+Supply of EAs Demand for
+EAs
+Government Industries covered
+under ETS receive
+80 allowances
+Free allocations (20)
+Auction (60)
+Previous emissions = 100
+EAs = 80
+Emission 
+reductions = 
+100 - 80 = 20
+Proposed integrated market for EAs and GGRs
+Supply of EAs/ 
+GGR units
+Demand for EAs/ 
+GGR units
+Government
+Industries covered
+under ETS receive
+60 EAs plus 20 
+units of GGRs
+CO2
+NET s
+Free allocations (20)
+Auction (40 EAs + 
+20 units of GGRs)*
+Previous emissions = 100
+EAs = 60
+GGR units = 20
+Emission 
+reductions =
+100 – 60 – 20 = 20
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+38 
+two markets is achieved and the price cap in option 2 could be lifted. At this 
+point, the markets could be integrated further by selling units of GGRs and EAs 
+together.  
+Again, under this option, some demand from the ETS is re-routed to GGRs 
+while the number of EAs is reduced to maintain high incentives for industries to 
+reduce their emissions. The advantage compared to the previous options is 
+that units of GGRs are directly auctioned within the ETS, thereby leading to a 
+more liquid market compared to a situation in which the markets are separated.  
+4.4 Carbon removal obligation 
+In options 1–3, the government is actively involved by directly or indirectly 
+inducing demand for GGRs and adjusting the supply of EAs to ensure 
+emissions are reduced. An alternative more market-based model requires the 
+polluter to pay for the removal of its emissions directly.102 The motivation for 
+this is as follows: an EA currently allows industries to emit one tonne of 
+carbon—i.e. it is a licence to pollute. As we reach net zero, these emissions 
+need to be taken out of the atmosphere again. The idea of the market design 
+option considered here is to create a carbon removal obligation. That is, 
+companies are required not only to pay for their emissions (by purchasing EAs) 
+but also ensure their emissions are removed in the future (by obtaining future 
+carbon removals). Another motivation for this model is the intertemporal 
+challenge arising from achieving net zero: emissions that need to be abated 
+are being released into the atmosphere because of decisions that were made 
+in the past and today. However, as abatement costs are set to increase 
+significantly in the future, this introduces an intergenerational conflict whereby 
+future generations pay for the removals that are necessary because of past 
+decisions.  
+                                                
+102 Bednar, J., Obersteiner, M., Baklanov, A. , Thomson, M., Wagner, F., Geden, O., Allen, M., Hall, J.W.  
+(2021), ‘Operationalizing the net-negative carbon economy’. Nature, March, 596, pp. 377–83. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+39 
+4.4.1 Option 4: carbon removal obligation 
+Box 4.4 Option 4: carbon removal obligation  
+ 
+• Description: with every EA bought in the ETS, there is an obligation for the future 
+removal of the associated emissions. This means firms buying EAs also need to 
+obtain an equivalent amount of GGRs (or as a transitional measure, an amount 
+of GGRs less than the number of EAs). That is, an increase in demand for EAs 
+would automatically increase the demand for GGRs, while additional demand 
+might also come from other firms or individuals outside of the ETS. 
+• Efficiency of markets: could lead to differentiated pricing of EAs in the secondary 
+market, based on whether the EA carries a responsibility to remove emissions or 
+not. Apart from this, the efficiency depends on whether the GGR market is 
+sufficiently competitive. 
+• Who pays: polluter pays and is required to purchase GGRs (even if prices are 
+high). 
+• Practicality: the government needs to set up the rules but otherwise does not play 
+an active role. To avoid firms being unable to fund unavoidable emissions or 
+relocating to avoid these rules, additional measures may need to be in place. 
+• Integrability with EU ETS: the obligation could be imposed nationally even if the 
+UK was participating in the EU ETS. This would mean that a UK and an EU EA 
+would be the same (i.e. an emission allowance for a tonne of carbon dioxide 
+equivalent) but UK firms would face an additional cost to remove emissions in the 
+form of a mandatory GGR purchase.  
+Source: Oxera. 
+Under this option, polluters who purchase EAs (i.e. allowances to emit now), 
+have an obligation to pay for the removal of these emissions (i.e. to buy a 
+GGR). The authors call this a ‘carbon removal obligation’. This model would 
+link removals with EAs in the ETS, as complements.103 That is, an increase in 
+demand for EAs would automatically increase the demand for GGRs, 
+potentially with a time lag. This mechanism would address the intertemporal 
+challenge described above, as emitters are always responsible for removing 
+the GHGs they have put into the atmosphere. Rather than paying for current 
+emissions and leaving the additional stock of GHGs to be removed (and paid 
+for) by future generations, polluters would need to take on the responsibility of 
+removing their own emissions. This implies that an EA no longer represents a 
+                                                
+103 In the models above EAs and units of GGRs are substitutes. However, GGRs are still additional to 
+existing emission reductions because the supply of EAs is reduced as GGRs are introduc ed. 
+
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+40 
+permanent right to pollute. Instead, industries are responsible for the whole 
+lifecycle of their emissions up to the point of their removal. Similar approaches 
+have been taken in other sectors. For instance, in the EU manufacturers of 
+electrical and electronic equipment bear a degree of responsibility in recycling 
+the products they sold in the future.104 
+Under this option, emissions removals would be financed by polluters—
+although of course additional public funding may be made available to reduce 
+the cost. Polluters would face sharper marginal incentives to decarbonise. This 
+is because their choice changes from: 
+• reducing emissions now vs paying for an EA; 
+• to reducing emissions now vs paying for an EA and paying for a GGR. 
+They are therefore more likely to choose reducing their emissions now, rather 
+than paying for EAs as well as future removals. 
+There are several ways to moderate the financial impact of this option on 
+polluters and phase in the carbon removal obligation over time. 
+• The obligation could be made more stringent over time. For instance, rather 
+than having to purchase one unit of GGRs with one unit of EAs, the 
+obligation might initially just be to purchase some proportion (e.g. half a unit) 
+of GGRs with every unit of EAs.105 Over time, this could converge to a one-
+to-one relationship. 
+• The timing could converge over time. Initially, the obligation could be to buy 
+a GGR at some defined future period. This should make the GGR less 
+expensive as costs are expected to fall over time. As the market matures, 
+the carbon removal could be brought forward so that by 2050 any EA would 
+need to come with an immediate removal of the associated emission. 
+This means that over time, the rules for polluters could become progressively 
+more stringent. In any case, we note that by 2050, the UK cannot produce new 
+emissions without removing them—which would have the same effect as 
+option 4.  
+A carbon removal obligation is therefore a necessary instrument in the long 
+term that could work as a market-based alternative to the options presented so 
+far. However, it is important to note that as industries are directly exposed to 
+the full cost of removals, additional policy measures are likely to be required to 
+avoid relocation of industries to other countries with less stringent rules. 
+Additionally, there need to be sufficient NET operators to allow for enough 
+GGR units to come to market and for a competitive market to develop. For 
+instance, if the roll-out of NETs is delayed then this would have more wide-
+ranging consequences compared to the other options.  
+4.5 Summary of evaluation of options 
+The market design options presented in this section all rely on robust MRV 
+processes and a discounting procedure in order to create units of GGRs that 
+are equivalent to a tonne of emission reduction. The options work by 
+                                                
+104 See, for instance, European Commission (2007), ‘The Producer Responsibility Principle of  
+the WEEE Directive’, https://ec.europa.eu/environment/topics/waste -and-recycling/waste-electrical-and-
+electronic-equipment-weee_en (last accessed 14 December 2021). 
+105 In theory, this could lead to differentiated pricing of EAs within the secondary markets, if future EAs are 
+traded with an obligation to purchase (some proportion of) a unit of GGR. This could be avoided if the trading 
+of EAs is undertaken after the responsibility to purchase (some proportion of) a unit of GGR has been 
+exercised. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+41 
+(i) inducing an uptake of GGRs and (ii) ensuring a reduction in emissions. In 
+options 1–3, this is achieved by government intervention to re-route some 
+demand for EAs towards GGRs and reducing the supply of EAs to ensure that 
+removals are additional to the emission reductions that are already being 
+achieved. In option 4, this is done by creating an obligation for polluters to 
+remove their emissions at some stage, which automatically creates both 
+demand for GGRs and ensures a reduction in emissions. 
+Table 4.1 summarises the evaluation of the different options. 
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+42 
+Table 4.1  Evaluation of design options 
+Criteria Option 1: 
+separate 
+markets with 
+government as 
+broker 
+Option 2: 
+separate 
+markets with 
+price cap 
+Option 3: 
+integrated 
+markets 
+Option 4: carbon 
+removal obligation 
+Long-term 
+effectiveness in 
+reducing overall 
+emissions 
+ 
+Government can 
+directly control 
+the mix of 
+removals and 
+EAs and ensures 
+that EAs in 
+circulation 
+decrease 
+Government 
+can indirectly 
+control the mix 
+of removals and 
+EAs, and 
+ensure that EAs 
+in circulation 
+decrease 
+Number of EAs 
+decreases as 
+more GGRs are 
+introduced to 
+ensure 
+reduction in 
+emissions 
+Automatically ensures 
+that any emissions 
+(covered by the 
+scheme) will be 
+removed in the future. 
+Carbon leakage 
+would need to be 
+avoided through 
+additional 
+mechanisms 
+Efficiency of 
+market(s) 
+ 
+Government 
+determines the 
+number of GGR 
+units that enter 
+the market, which 
+may not be as 
+efficient as letting 
+market forces 
+determine the 
+role of NETs 
+As in option 1 
+there are no 
+effective price 
+signals for 
+NETs given the 
+cap at the 
+carbon price 
+Price 
+determined by 
+demand curve 
+for EAs/GGRs. 
+Combined 
+market 
+becomes more 
+liquid 
+Requires competitive 
+GGR market with 
+sufficient supply 
+Fairness of cost 
+allocation 
+ 
+In the case of the number of auctioned EAs being 
+reduced there would be foregone government 
+revenues from the ETS, but this would reduce any 
+separate NET funding requirements. And in the case 
+of free EAs being removed, the cost to industry would 
+increase, but the cost could be offset by subsidies. 
+Therefore, in either case, the cost allocation could be 
+calibrated through additional measures to distribute 
+costs between taxpayers and industry in line with 
+policy objectives.. Additional funding to subsidise 
+NETs while the market is immature may come from 
+taxpayers or levies on industry 
+ 
+ 
+Places cost on 
+polluter, thereby 
+creating strong 
+incentives to reduce 
+emissions 
+Practicality/ease 
+of implementation 
+ 
+Active role for the 
+government as an 
+intermediary but 
+no significant 
+re-working of 
+markets required 
+(supply can be 
+altered via market 
+stability reserve) 
+Less direct role 
+for government 
+compared to 
+option 1 
+Less direct role 
+for government 
+compared to 
+option 1 
+No active role for 
+government. 
+Additional measures 
+may need to be in 
+place to avoid carbon 
+leakage 
+Integrability with 
+EU ETS 
+ 
+No changes to 
+the ETS apart 
+from reducing the 
+supply of EAs 
+Larger changes 
+compared to 
+option 1 as 
+GGR units now 
+need to be 
+accepted in the 
+ETS directly 
+Larger changes 
+as GGR units 
+are now 
+auctioned within 
+the ETS 
+Could be imposed 
+nationally even if the 
+UK was participating 
+in the EU ETS. UK 
+emitters would face 
+an additional 
+obligation  
+Source: Oxera. 
+ 
+ 
+
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+43 
+5 Conclusion 
+This report sets out several market design mechanisms through which GGRs 
+could be integrated within the ETS. We first discuss the need for GGRs in 
+achieving net zero, which has already been highlighted by BEIS,106 the CCC107 
+and the NIC108. We note that different funding routes and incentives are 
+possible to facilitate the deployment of GGRs including government funding, 
+CCfDs and access to carbon markets, which can help spread the cost of 
+removals across different market participants. While voluntary and potential 
+future mandatory markets are all feasible, the focus of this study has been on 
+the inclusion of GGR units within the ETS market. 
+The analysis in this report has shown that there are a number of feasible 
+market design options that integrate GGRs into the ETS.  
+Options 1–3 presented in this report show how the diversion of some of the 
+demand in the existing ETS market towards GGRs can be achieved. To ensure 
+a continuous incentive for emission reductions is maintained, this involves 
+reducing the number of available EAs in the ETS in line with the units of GGRs 
+introduced. The options could be introduced sequentially, moving from 
+separate markets with a direct intermediation role played by the government 
+towards integrated markets for EAs and GGRs as NETs mature. Specifically, 
+option 1 grants the government most control and could be implemented 
+initially. As NETs mature and the number of allowances in the ETS reduces, 
+raising carbon prices, the government could step back and take a more indirect 
+role (option 2). Finally, with price parity being established, the ETS could be 
+made more liquid by fully integrating GGRs into the market (option 3). 
+Alternatively, the carbon removal obligation presented in option 4 directly 
+ensures sufficient uptake of GGRs. Under this option, any demand for 
+allowances in the ETS automatically leads to additional demand for GGRs. 
+This also provides a sharper incentive for polluters to reduce their emission as 
+they are faced with the direct cost of GGRs. A carbon removal obligation is 
+therefore a more direct market-based approach of linking GGRs to the ETS. 
+However, it requires sufficient availability of GGRs and a competitive market, 
+as well as additional policy measures to address the cost implications for 
+affected industries and mitigate the risks of carbon leakage to other countries 
+with less stringent rules. The government needs to balance these 
+considerations of degree of control, administrative requirements and political 
+acceptability including the impact on industry when choosing between options 
+1–3 and option 4 
+There are two key and immediate practical steps for the government to take in 
+order to implement any market design option for including NETs in the UK 
+ETS. 
+• Establishing an MRV and discounting process—the government needs 
+to put robust and credible MRV processes in place that ensure that the 
+GGRs are genuine removals. GGRs need to be verifiable, and meet criteria 
+of additionality and net neutrality. Only removals that fulfil the MRV criteria 
+can be allowed to participate in the GGRs market or ETS. In addition, GGRs 
+that vary in terms of permanence of storage need to be made comparable 
+so that they can participate in the same market. This could include the use 
+                                                
+106 Department for Business, Energy and Industrial Strategy (2021), ‘Net Zero Strategy: Build Back Greener’, 
+October. 
+107 Committee on Climate Change (2020), ‘The Sixth Carbon Budget Greenhouse gas removals’, December.  
+108 National Infrastructure Commission (2021), ‘Engineered greenhouse gas removals’, July.  
+ 
+ 
+Final Market design for negative emissions in the UK ETS 
+Oxera 
+44 
+of thresholds such that only GGRs with a minimum level of permanence are 
+allowed to access the market, and/or the use of discounting to make 
+different types of GGRs comparable. This allows the creation of a GGR unit, 
+which can be traded in the ETS. 
+• Deciding how to ensure uptake of GGRs in the ETS—once GGR units 
+have been created, these can be introduced into the ETS. However, if they 
+are more expensive than existing allowances for emissions—as is currently 
+the case with engineering-based GGRs—then additional measures are 
+necessary to ensure the uptake of GGRs, which helps to bring down the 
+cost to market participants. There are two broad ways in which the 
+government can induce demand for GGRs in the ETS: either by creating 
+additional funding schemes to ensure the competitiveness of GGRs in this 
+market, or by mandating the use of GGRs. The government needs to decide 
+whether to follow the first approach (corresponding to options 1–3), which 
+would initially be more straightforward to implement, or the second 
+approach (corresponding to option 4), which puts in place stronger 
+incentives for the sectors covered by the ETS to decarbonise. 
+ 
+ 
+ 
+ 
+ 
+www.oxera.com 
+ 

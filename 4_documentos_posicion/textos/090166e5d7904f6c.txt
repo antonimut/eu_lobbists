@@ -1,0 +1,727 @@
+sustainability
+Article
+Combining Eco-Design and LCA as Decision-Making
+Process to Prevent Plastics in Packaging Application
+Eleonora Foschi 1,*
+ , Sara Zanni 1
+ and Alessandra Bonoli 2
+1 Department of Management, University of Bologna, 40126 Bologna, Italy; sara.zanni7@unibo.it
+2 Department of Civil, Chemical, Environmental and Materials Engineering, University of Bologna,
+40131 Bologna, Italy; alessandra.bonoli@unibo.it
+* Correspondence: eleonora.foschi3@unibo.it
+Received: 31 October 2020; Accepted: 19 November 2020; Published: 22 November 2020
+/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001
+/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046
+Abstract: The diﬀusion of the culture of sustainability and circular economy increasingly pushes
+companies to adopt green strategies and integrate circular business models in the corporate agenda.
+It assumes higher relevance in the packaging industry because of the growing plastics demand,
+the increasing awareness of consumers on single-use-products, the low recyclability performance and
+last but not least, the challenge of urban littering and microplastics dispersion in marine ecosystem.
+This paper presents the case of a small-medium enterprise that implemented a decision-making
+process to rethink the design of frozen food packaging in accordance with systemic and life cycle
+thinking. Eco-design and Life Cycle Assessment (LCA) have been simultaneously used to test
+and validate the redesign process, thus fostering the substitution of the plastic “open and close”
+cap with a closing method entirely made of cardboard. Results shows how using an integrated
+decision-making system at the design stage have allowed to get up many beneﬁts at multiple levels,
+including sustainable and safe supply chain, eﬃcient logistic operations, better recyclability, and lower
+energy consumption. Moreover, even if it cannot be assessed by the existing tools, the solution
+provides a strong contribution to the reduction in the consumption of plastics and the prevention of
+marine pollution.
+Keywords: eco-design; plastic prevention; packaging; sustainability; LCA
+1. Introduction
+Among all the materials, plastics have shown the fastest growing demand in the last decades,
+moving from 1.7 million metric tons (Mt) in 1950 to 359 Mt in 2018 [1–5]. Its negligent use, especially
+in the packaging sector, has caused multiple externalities over the years at such a point to become
+one of the most urgent environmental issues to deal with nowadays. Despite signiﬁcant worldwide
+advances in management, treatment and recycling of plastics in the last three decades, the largest
+amount of post-consumer waste properly collected is incinerated and /or landﬁlled [ 5,6]. In some
+countries, a residual part is openly burned, emitting carbon monoxide (CO) and carbon dioxide
+(CO2) [7]. Illegal export and uncontrolled disposal are also frequent because of the underperforming
+recycling infrastructure [8,9]. Finally, an unknown portion of plastics is littered, thus contributing to
+massively worsen the status quo of the marine ecosystem [ 10,11]. The literature on marine plastic
+pollution (MPP) leaves no doubt that plastics make-up most of the marine litter worldwide. As reported
+by Derraik and Thevenon et al., 60–80% of global marine debris is made of plastic materials [12,13].
+Even if standardized methods to measure and model the presence of plastics and microplastics in seas
+and beaches doesn’t exist yet, the key publications on the topic estimates that about 10% of the total
+plastics produced every year is released in the oceans, accounting for 10 Mt [ 14–16]. Owing to the
+low degradability, conventional plastics remain in aquatic habits for decades [17]. Recent sampling
+Sustainability 2020, 12, 9738; doi:10.3390/su12229738 www.mdpi.com /journal/sustainability
+Ref. Ares(2020)7993891 - 29/12/2020
+Sustainability 2020, 12, 9738 2 of 13
+activities reveals that many commercial packets and wrappers, put into the market more than 50 years
+ago, are recovered in the whole world shores, seas and seabed [ 5]. Due to its short lifespan and
+improperly management at end-of-life (EoL), packaging are those applications that most contribute to
+the MPP [6]. In particular, the results ﬁgured out by six of the beach clean-ups around the world show
+that out of almost 14 million items collected, ﬁve of the ten most found items are plastic packaging [ 6].
+Among them, the single-use plastic packaging accounts for 50% of the marine litter [18,19]. It digs up
+correlation with the market trend of the last decades which sees a fourfold increase in the demand of
+conventional plastics from 1960 to date, accounting for 130 Mt in 2015 [11]. In Europe, the packaging
+sector registered a plastic demand of 20.1 Mt in 2018. About 40% is nowadays used to package food [2].
+Looking at the waste management performance, only 42% of 17.8 Mt of plastic packaging waste (PPW)
+collected was sent for recycling while the remaining was landﬁlled (18.5%) and incinerated for energy
+recovery (39.5%) [2]. Many challenges aﬀect the recyclability of packaging. Among them, the design
+largely contributes to underperform the material valorization of packaging in further cycles.
+This paper presents the case of a small-medium enterprise that implemented an integrated
+decision-making process to rethink the packaging design, thus contributing to maximize eﬃciency at
+the EoL as well as in logistics and distribution operations. In this context, the work aims at highlighting
+that the development of a systemic and life cycle approach is crucial to reduce the environmental
+impacts of the packaging sector, especially when correlated to the urgency to prevent the use of
+plastic materials.
+2. European Policy on Plastics Prevention and Packaging Reduction
+Packaging manufacturers and users are under pressure because of the urgency to systemically rethink
+production, consumption, and disposal patterns. Many legislative measures have been introduced in the
+fields of plastics and plastic packaging to prevent problems in recycling infrastructure as well as natural
+environment. The Circular Economy Action Plan (CEAP)represents the starting point of a transitioning
+process towards more sustainable packaging system. In this framework, plastic materials have been
+considered as one of the five prioritizing materials [20,21]. The Strategy for plastics in a Circular Economy
+introduces the ambitious goal about having 100% reusable and/or recyclable packaging by 2030 [22].
+The most strikingDirective on Singe-use Plastics (SUPs)contains a multitude of actions aimed to ban and
+restrict the use of some plastic applications [23]. The Packaging and Packaging Waste Directiveincludes
+additional aspiring targets on plastic packaging waste collection and recycling [24,25]. While the first cycle
+of measures on circular economy invested on optimizing the recycling as option to add and maintain the
+intrinsic value of materials as long and better as possible in the value chain, thenew CEAP, published by
+the Commission in 2020, prioritizes actions on reducing and reusing materials before recycling them [26].
+Prevention covers a pivotal role in theGreen New Dealas well [27]. Measures to reduce over-packaging are
+also highlighted in the new policy on sustainable products [26]. It follows that reduce and reuse strategies
+are the priorities of the current political agenda.
+This commitment on the circularity and sustainability of packaging has stimulated the reaction of
+the converting industry that is putting eﬀort in redesigning their products to prevent the use of plastic
+materials on one side and maximize the recyclability of products on another. Packaging issues emerge
+as the key elements of the sustainability agenda of manufacturing companies. A multitude of strategies,
+including sustainable resources supply, materials selection, recyclability and reusability systems are
+under exploration in Europe [28]. According to Bocken et al. [29], the following fundamental strategies
+towards the cycling of resources can be identiﬁed:
+• Slowing resource loops through the design of long-life goods and product-life extension;
+• Closing resource loops through the recycling.
+In all the strategies, eco-design covers a fundamental role to speed up the plastic circularity.
+It takes more importance in one-way plastic packaging where the durability of the materials doesn’t
+ﬁt with the short life span of the applications [30]. The Eco-design Working Plan 2016–2019’published
+Sustainability 2020, 12, 9738 3 of 13
+by the European Commission in 2019 moves towards this direction by highlighting the necessity to
+further establish the scientiﬁc basis for developing corresponding quantitative and qualitative criteria
+related to material eﬃciency aspects [21].
+3. Eco-Design in Packaging Applications
+Eco-design, which consists in integrating environmental aspects at the preliminary stage of
+the design phase, represents the crucial phase to maximize the value of materials along the value
+chain [31]. By approaching designing systemically, considerations on the life-span, the functions
+and the externalities are managed not as a problem to be dealt with at the end of the production
+process or after the product has completed its useful life, but must be kept in mind from the
+beginning [32,33]. Through this anticipatory approach, many solutions come into light. According to
+Le Blevennec et al. [34], ﬁve main eco-design principles inﬂuence the various stages of the lifecycle
+of product:
+• Design for sustainable sourcing;
+• Design for optimized resource use;
+• Design for environmentally sound and safe product use;
+• Design for prolonged product use;
+• Design for recycling.
+In the field of recycling, many eco-design guidelines and tools as well as recyclability certifications
+have been established. Among them, PlasticsRecyclersEurope created the RecyClass tool based on
+three-steps process: Test for technology/product approval; eco-design guidelines as results of the lab
+protocols; recyclability self-assessment and expert-checked to get out the certification. Similar approach
+has been used byCyclos in Germany andRecoup in UK. European Commission is also working on the
+Eco-design toolboxthat look at all the products and materials, from the qualitative and quantitative point of
+view by integrating technical and technological aspects with environmental emission. Major investments
+have been done by KIDV that introduced metrics to simultaneously assess reusability , circularity ,
+and environmental impacts of packaging over than the qualitative recyclability check. It follows that,
+even if reusability or recyclability principles are integrated in the eco-design phase, Life Cycle Assessment
+(LCA) studies are vitally important to compare different alternatives and validate any decision on the
+product sustainability [35]. It follows that, LCA demonstrates the potential sustainability of the supply
+and the consumption stages from the quantitative point of view, by estimating the effective reduction in
+the greenhouse gas (GHG) emission.
+4. Packaging Sustainability in Food Applications
+The diﬀusion of the culture of sustainability and circular economy increasingly pushes companies
+to adopt green strategies and integrate circular business models in the corporate agenda [ 36].
+Considering social aspects, the corporate social responsibility is becoming a priority for companies
+at all levels, as well as traceability and communication. They oﬀer the opportunity to build a strong
+relationship with the consumer, creating loyalty and new business opportunities, also maximizing the
+creation of sustainable value and the prevention in the generation of surpluses at the system level.
+It assumes higher relevance in the packaging industry since 3.970 billion units of packaging were
+consumed in Europe in 2018 [37]. The increasing awareness of consumers on environmental issues as
+well as the urgent need to deal with the challenge of the urban littering and the microplastics pollution
+on the marine ecosystem, have led the food industry to face many challenges. The most urgent are
+related to those elements hampering the recycling process. These elements are mainly identiﬁed in
+the bad design of packaging [38]. Multilayer packaging are commonly used in the food sector [ 39].
+If multiple components with numerous materials protect sensitive food products, the concurrent
+presence of plastics with metals (like aluminum) or ﬁbrous materials (like cardboard) cannot be easily
+detected by the near-infrared (NIR) technology and so, sorted and recycled. Moreover, the lack of
+Sustainability 2020, 12, 9738 4 of 13
+harmonization in the Green-dot system as well as the improper behavior of consumers in packaging
+collection strongly contributes to emphasize the problem [ 7]. To continue, challenges are not only
+technical/technological and social but also cultural: The change in lifestyle, especially in developed
+countries, has contributed to an increase in the demand for ‘Ready to eat’ packages thus increasing the
+possibility to litter them [40]. The work published by Ellen Mac Arthur Foundation demonstrated as
+fast-moving consumer goods (FMCGs) are getting more and more attention, accounting for 35% of
+material inputs and 75% of municipal solid waste [41]. In 2019 31.1% of the total amount of packaging
+sold are used for grocery, followed by beverage (26.1%), perishable food (17.3%), fruit and vegetable
+(5.8%), frozen food (3.6%) and meat (0.9%). The remains are used to package household and personal
+care (12.5%), and PET care (2.7%). A study published by McKinsey on the European packaging market
+reveals that the material composition is characterized by the presence of plastics (62%) and paper and
+board (14%), followed by glass (12%), metals (11%) and a minimum part of ﬂexible foils (0.002%).
+5. Case Study: Sustainable Packaging in the Frozen Food Industry
+The packaging of the food products is functional to the containment, protection, preservation,
+and promotion of the product. Labels support the access to information for the costumers by capturing
+their attention. For these reasons it is important that the proposed message is homogeneous and
+coherent: the product of a supply chain that presents itself as sustainable should be contained and
+proposed within a packaging that is sustainable itself. It receives a quite big applications in organic
+foods and assumes greater relevance in the ﬁeld of frozen foods where packaging must ensure good
+quality over the time. The increasing market for these products results in a global value of USD
+291.3 billion in 2019, with a Compound Annual Growth Rate (CAGR) of around 5 billion in the period
+2016–2020 [42]. However, the confectionary of frozen foods has received little attention in last years.
+The design of existing frozen food package is generally limited to ensure shelf life, to the detriment of
+recyclability. Frozen food packaging are largely made of multi-materials that are not recyclable [36,39].
+According to Gutierrez et al., packaging can be considered sustainable when enables food safety,
+by preserving and improving the health and hygiene safety of food, but also theconservation, by limiting
+environmental impacts and promoting positive changes in the communities [43]. So, many eﬀorts have
+been done by the key players of the sector to make more sustainable packaging, by integrating food
+safety and material valorization.
+The present work summarizes the activities performed by “Cartotecnica Reggiani”, a small Italian
+enterprise active in the design of innovative food packaging. The object of the eco-design application
+is a cardboard-based box, aimed at containing frozen food, typically herbs or ingredients for seasoning,
+which can be extracted from the refrigerator, dispensed from the box, sealed, and refrigerated again.
+The cycle can be repeated several times and, for this reason, the boxes of this kind of food includes a
+plastic sealing. A new patented product has been created starting from the idea to avoid both plastic
+utilization and multi-material packaging, by considering just the possibility to use recyclable paper
+and cardboard.
+In particular, as shown in Figure 1, the common plastic cap (see Figure 1a), that is usually present
+in the traditional box used for packing frozen herbs, has been removed, with the main aim to remove
+single-use plastic components, guaranteeing opening and closing operations by introducing 100%
+paper cover that is perfectly integrated in the whole paper box (see Figure 1b).
+Sustainability 2020, 12, 9738 5 of 13
+Sustainability 2020, 12, x FOR PEER REVIEW 5 of 13 
+ 
+(a) ( b) 
+Figure 1. Frozen food packaging design: Standard and innovative items. 
+The shift from multi to mono-material and re cyclable packaging has been supported by the 
+implementation of an integrated decision-maki ng process. Eco-design and LCA have been 
+simultaneously used to test and validate the redesign process. Numerous studies, published in recent 
+years, have applied the LCA me thodology to food packaging [40,43–48]. An early example of 
+scientific LCA work was presented by Kooijman in 1993, who studied the energy contribution of the 
+packaging in the food chain [49]. More recent studies are instead focused on assessing the weight of 
+the packaging to the total carbon footprint of the food-packaging combination [50]. However, as 
+highlighted by Moberg et al., the packaging enviro nmental issue should not be generalized, and it 
+would be more appreciate to investigate the entire “packaging-product system” instead of the food-
+packaging alone [51]. In fact, if the existing research confirmed that recycling is more beneficial than 
+incineration or landfilling, standardized eco-profile for different food packaging materials doesn’t 
+exist yet [46]. In fact, the implications of the functional unit, the system boundaries, the geographical 
+collocation, the local waste governance, the tran sportation system, the data quality, and the 
+allocation, can significantly vary the results [52]. It follows that each experimentation in redesign 
+process should be massively followed by a validation test, represented by a comparative LCA study. 
+The study demonstrates how packaging redesign cont ributes not only to make a more sustainable 
+supply chain but also to maximize the logistic operations efficiency and energy savings, thus 
+contributing to optimize the sustainability of the overall packaging system. 
+5.1. Materials and Methods 
+Due to the early stage of development of th e product and in the perspective of future 
+developments in terms of material s and possible application, eco-design requirements have been 
+explored and a simplified LCA study has been performed in the R&D stage, with the aim of assessing 
+the recyclability status and evaluating the environmental consequences of the innovative product in 
+the system. For this reason, a comparative LCA ha s been outlined, and reiterated, to compare the 
+sustainability status of the innovative food packaging designed and patented by the company, with 
+the equivalent product already on the market. The overall impact has been assessed considering: 
+First, the reduction of plastics within food product packaging; second, the reduction of the complexity 
+of packaging to promote its recyclab ility; third, the optimization of the transport yield per unit of 
+product, reducing the impact of transport; finally, the opportunity for costs containment. 
+Considering the existing eco-design guidelines, the elements hampering the recycling of general 
+food packaging have been identified and replaced . Once the packaging has been defined as fully 
+recyclable, the LCA study is performed. Following the international guidelines for LCA (ISO 14040 
+and followings) and the ILCD Handbook (REF), the procedure is carried out in different stages [53]. 
+First, we have proceeded with the collection of all information related to types and quantities of raw 
+materials, energy, and emissions into water, air, and soil (evaluation of materials and quantification 
+of flows). Second, the identification of the key elements has been accomplished, such as the traditional 
+Figure 1. Frozen food packaging design: Standard and innovative items.
+The shift from multi to mono-material and recyclable packaging has been supported by the
+implementation of an integrated decision-making process. Eco-design and LCA have been simultaneously
+used to test and validate the redesign process. Numerous studies, published in recent years, have applied
+the LCA methodology to food packaging [40,43–48]. An early example of scientific LCA work was
+presented by Kooijman in 1993, who studied the energy contribution of the packaging in the food chain [49].
+More recent studies are instead focused on assessing the weight of the packaging to the total carbon
+footprint of the food-packaging combination [50]. However, as highlighted by Moberg et al., the packaging
+environmental issue should not be generalized, and it would be more appreciate to investigate the entire
+“packaging-product system” instead of the food-packaging alone [51]. In fact, if the existing research
+confirmed that recycling is more beneficial than incineration or landfilling, standardized eco-profile
+for different food packaging materials doesn’t exist yet [46]. In fact, the implications of the functional
+unit, the system boundaries, the geographical collocation, the local waste governance, the transportation
+system, the data quality , and the allocation, can significantly vary the results [52]. It follows that each
+experimentation in redesign process should be massively followed by a validation test, represented by a
+comparative LCA study . The study demonstrates how packaging redesign contributes not only to make a
+more sustainable supply chain but also to maximize the logistic operations efficiency and energy savings,
+thus contributing to optimize the sustainability of the overall packaging system.
+5.1. Materials and Methods
+Due to the early stage of development of the product and in the perspective of future developments
+in terms of materials and possible application, eco-design requirements have been explored and a
+simpliﬁed LCA study has been performed in the R&D stage, with the aim of assessing the recyclability
+status and evaluating the environmental consequences of the innovative product in the system. For this
+reason, a comparative LCA has been outlined, and reiterated, to compare the sustainability status of
+the innovative food packaging designed and patented by the company, with the equivalent product
+already on the market. The overall impact has been assessed considering: First, the reduction of plastics
+within food product packaging; second, the reduction of the complexity of packaging to promote its
+recyclability; third, the optimization of the transport yield per unit of product, reducing the impact of
+transport; ﬁnally, the opportunity for costs containment.
+Considering the existing eco-design guidelines, the elements hampering the recycling of general
+food packaging have been identiﬁed and replaced. Once the packaging has been deﬁned as fully
+recyclable, the LCA study is performed. Following the international guidelines for LCA (ISO 14040
+and followings) and the ILCD Handbook (REF), the procedure is carried out in diﬀerent stages [53].
+First, we have proceeded with the collection of all information related to types and quantities of raw
+materials, energy, and emissions into water, air, and soil (evaluation of materials and quantiﬁcation of
+ﬂows). Second, the identiﬁcation of the key elements has been accomplished, such as the traditional
+Sustainability 2020, 12, 9738 6 of 13
+plastic “open and close” cap and the new closing method entirely made of cardboard. Third, direct
+and indirect impacts have been identiﬁed and calculated through software modeling, performed
+with the application of Simapro 8 software. Finally, we performed an interpretation of the results
+obtained, with particular attention to the comparison between the solutions and identiﬁcation of the
+environmental beneﬁts.
+In order to quantify the impact of the proposed solution, a reference stock corresponding to the
+average annual production of boxes for frozen food for a major costumer has been selected. In particular,
+boxes containing 100 g of frozen food product has been modeled, and 15,000,000 boxes was considered
+as the reference ﬂow.
+Details on the formulation of the conceptual model are reported in the following tables. Table 1
+depicts the overall conceptual model, based on the comparison of the traditional solution with the
+innovative solution, Table 2 reports on the Ecoinvent database processes used within the Simapro
+calculation module and, ﬁnally, Table 3 completes considerations on logistics and the quantity of
+transportable product per unit of volume.
+Table 1. Conceptual model.
+Item Standard Packaging Innovative Packaging Modeling
+FOOD-GRADE
+CARDBOARD
+Use of functional materials for
+speciﬁc uses (e.g., for dry or frozen
+foods, powders, etc.)
+Use of functional
+materials for speciﬁc
+uses (e.g., for dry or
+frozen foods,
+powders, etc.)
+At present, the same
+food-grade cardboard is
+assumed. The next research
+steps may involve speciﬁc
+products, in order to obtain
+maximum Recyclability
+or compostability
+FOOD-GRADE
+CARDBOARD—
+“PRESS-AND-TEAR”
+TAB
+Present originally, it is cut and
+disposed of on ﬁrst use.
+MATERIAL: It is made of the same
+material as the box.
+WEIGHT: the typical case for small
+frozen foods (e.g., garlic, onion,
+shallot, chopped parsley) was used
+as a model. A sample of objects
+available on the market placed the
+weight of the tabs between 0.17 and
+0.22 g/100 g of product
+Originally present, it is
+cut on ﬁrst use and
+remains attached to the
+resealable Table It is
+made of the same
+material as the box.
+As it does not constitute a
+distinctive element between
+the two solutions, it is not
+taken into consideration,
+except in terms of waste
+stream, which is
+considered negligible.
+PLASTIC CAP
+MATERIAL: typically made of
+PP (polypropylene)
+WEIGHT: the typical case for small
+frozen foods (e.g., garlic, onion,
+shallot, chopped parsley) was used
+as a model. A sample of objects
+available on the market placed the
+weight of the corks between 2.79
+and 4.02 g/100 g of product
+Absent
+The environmental beneﬁt of
+not disposing of plastic
+waste is considered.
+In particular, the target
+recycling percentages of 65%
+were applied (for the
+remaining 35% the
+incineration option
+was considered)
+TRANSPORT
+The standard product used for the
+construction of the conceptual
+model allows to stack 22 layers of
+bundles, for a total of 3080 cartons
+per pallet
+The use of the Eco-Logic
+box allows for the
+optimization of
+palletization, adding
+1 layer of boxes per
+pallet, with the same
+volume, for a total of
+3220 boxes per pallet
+The optimization of
+transport results in an
+increase of 4.5% of cartons
+transported, and, therefore,
+of product, per unit
+of volume
+Sustainability 2020, 12, 9738 7 of 13
+Table 2. Simapro processes.
+Item SimaproProcess Modeling
+PLASTIC CAP—PRODUCTION Polypropylene, granulate {RER}|
+production|APOS, U
+The polypropylene production process, in
+the absence of speciﬁc information, was
+modelled using a process based on average
+European data.
+PLASTIC
+CAP—THERMOFORMING
+Thermoforming, with calendering
+{RER}| production|APOS, U
+For the thermoforming process, designed to
+give the desired shape to the polypropylene,
+the process yield recommended by the
+Ecoinventdatabase was considered, i.e., 98%.
+TRASPORT
+Transport, freight, lorry,
+unspeciﬁed {RER}|transport,
+freight, lorry, all sizes, EURO5 to
+generic market for|APOS, U
+In the absence of speciﬁc data, the European
+average distance of 200 km is considered,
+as per ILCD Handbook.
+PLASTIC CAP—FINAL
+DISPOSAL SCENARIO:
+INCINERATION
+Waste plastic, mixture {Europe
+without Switzerland}|treatment of
+waste plastic, mixture, municipal
+incineration|APOS, U
+For the modelling of the end of life of the
+plastic cap, a given target of recycling of the
+same at 65% was considered (considering
+that PP belongs to packaging plastics for
+which a recycling chain is available).
+The residue (35%) was modelled as sent for
+incineration in a nearby plant. This plant
+was modelled using theEcoinventprocess
+based on average data from the European
+area (excluding Switzerland).
+PLASTIC CAP—FINAL
+DISPOSAL SCENARIO:
+RECYCLING
+PP (waste treatment)
+{GLO}|recycling of PP|APOS, U
+Il processoè stato completato da:
+– Electricity, medium voltage
+{RoW}| market for|APOS, U
+– Polypropylene, granulate
+{RER}| production|APOS, U
+For the modelling of the end of life of the
+plastic cap, a given target of recycling of the
+same at 65% was considered (considering
+that PP belongs to packaging plastics for
+which a recycling chain is available).
+The residue (35%) was modelled as sent for
+incineration in a nearby plant.
+The recycling process was built on the basis
+of literature data, in terms of electricity
+consumption and material recovered.
+Table 3. Transportation process, details.
+Item Quantity Modeled
+Stock production (average year) 15,000.000
+Cases per bundles 10
+Bundles per layer 14
+Layer height 11.5
+Layers per pallet—standard packaging 22
+Layers per pallet—innovative packaging 23
+Cases per pallet—standard packaging 3080
+Cases per pallet—innovative packaging 3220
+SimaPro is product system modeling and assessment software for LCA released for the ﬁrst time
+in 1990, distributed worldwide by the developers, i.e., Pr é Consultants, based in the Netherlands.
+The calculation method selected is “ILCD 2011 Midpoint + V1.10/EC-JRC Global, equal weighting”.
+ILCD is the acronym for International Reference Life Cycle Data System and is the result of a project
+conducted by the Joint Research Center (JRC) of the European Commission which analyzed diﬀerent
+life cycle impact assessment methodologies to reach consensus on the recommended method for each
+environmental issue, both at the midpoint (impact assessment) and the ﬁnal one (damage assessment).
+On the basis of the information provided by the company, the die-cutter, or the machine which,
+by means of blades arranged in the desired shape, engraves or cuts the chosen material, remains the
+Sustainability 2020, 12, 9738 8 of 13
+same in both cases. It is therefore reasonably possible to assume the same useful life expectancy for the
+cutting tool since no substantial changes have been made to the process or to the materials. In terms of
+LCA, it can therefore be said that the product function remains completely unchanged.
+5.2. Results
+As well-known, multi-material packaging are not recyclable because of the diﬃculties in detecting
+and then, separating materials that are part of the same item. It follows that the most critical component
+of the box has been recognized in the plastic cap. Encouraged by the corporate sustainability strategy
+based on the reduction of plastic materials supply, designers and engineers identiﬁed in paper and
+cardboard the alternative materials to use. Recyclability has been then checked by exploring the key
+elements promoting the sorting process in the material recovery facilities [54,55]. In particular, material
+composition, colors, sleeves, labels, and closures have been investigated (see Table 4).
+Table 4. Key Eco-design requirements for recyclable packaging.
+REYCLABLE PACKAGING - 5 Key Requirements Changes Done
+1. MONO-MATERIAL PACKAGING
+Avoid mixed materials or materials of the same type.
+If diﬀerent materials have to be used, diﬀerent
+densities are necessary.
+✓ Plastic cap has been removed and substituted to
+paper cap, thus having 100% paper-based box.
+2. LITTLE COLORFUL PACKAGING
+Minimise colour. If colour is necessary, avoid strong
+colours as much as possible.
+✓ The box is basically white.
+3. MONO-COMPONENT PACKAGING (SLEVEES)
+Avoid full sleeves. If a sleeve must be used, it should
+be easily removable and there should be clear
+instructions explaining how to detach it.
+✓ Sleeves are not used since information are
+directly printed in the packaging surface.
+4. MONO-COMPONENT PACKAGING
+(CLOSURES)
+Use easily separable closures and ideally recyclable.
+✓ Plastic closure has been removed and substituted
+with paper cap that is an integral part of the
+main body.
+5. MONO-COMPONENT PACKAGING (LABELS)
+Use small, easily removable labels that should cover
+no more than 60% of the product’s surface area,
+as well as being easy to remove by using
+water-based glue.
+✓ No labels have been used since information are
+directly printed in the packaging surface
+Considering the early stage of product development in which the LCA has been applied, the results
+are limited to the comparative scenario presented, based on the average annual production of boxes
+for a major retailer. In particular, results presented in the following Table (see Table 5) are related to the
+positive impacts triggered with the elimination of the plastic sealing, thus considered an environmental
+beneﬁt, as it is completely substituted by a diﬀerent methodology of processing the cardboard material
+composing the box itself. The second emerging environmental beneﬁt is derived from the optimization
+of the transport process, with an increased number of boxes transported per unit volume.
+Sustainability 2020, 12, 9738 9 of 13
+Table 5. Calculated impacts, by process and impact category (ILCD 2011+).
+Impact Category Unit Transport Plastic Sealing Overall Environmental
+Beneﬁt
+Climate change kg CO 2 eq 5364.3354 144361.16 149725.49
+Ozone depletion kg CFC-11 eq 0.0009 0.0046 0.0055
+Human toxicity,
+non-cancer eﬀects CTUh 0.0011 0.0241 0.0251
+Human toxicity, cancer
+eﬀects CTUh 0.0002 0.0063 0.0066
+Particulate matter kg PM2.5 eq 2.2520 53.3628 55.6149
+Ionizing radiation HH kBq U235 eq 366.7918 20752.87 21119.66
+Ionizing radiation E
+(interim) CTUe 0.0023 0.0698 0.0722
+Photochemical ozone
+formation kg NMVOC eq 18.3464 316.0784 334.4249
+Acidiﬁcation molc H + eq 21.3207 513.5841 534.9048
+Terrestrial
+eutrophication molc N eq 61.9180 894.9881 956.9061
+Freshwater
+eutrophication kg P eq 0.5450 41.8917 42.4367
+Marine eutrophication kg N eq 5.6968 88.9898 94.6866
+Freshwater ecotoxicity CTUe 60709.85 1516473.03 1577182.88
+Land use kg C deﬁcit 16218.03 83615.29 99833.32
+Water resource
+depletion m3 water eq 0.0353 698.7861 698.8214
+Mineral, fossil & ren
+resource depletion kg Sb eq 0.5642 9.1386 9.7028
+In order to capture the entity of the overall environmental beneﬁt triggered by the innovative
+solution proposed and to support the company in the dissemination toward the value chain, the results
+obtained in terms of global warming potential reduction has been compared to the emission of a city car,
+travelling yearly for the reference distance of 20,000 km. Considering data available, the implementation
+of the innovative solution proposed on the average production for a major retailer would spare CO2
+emissions equivalent to 56 cars. Accounting, then, the solution proposed would not require any
+modiﬁcation in the production process of the boxes, both in terms of materials and expected lifespan
+of the machinery, this can be considered a net environmental beneﬁt, which, in perspective, could be
+extended with further applications of the same solution to other products.
+6. Discussion
+The study carried out made it possible to:
+a. remove plastics by doing an alignment between the value proposition and the mission of
+the company;
+b. make a fully recyclable packaging;
+c. reduce the environmental impact at product and process as well as system level.
+The study demonstrated the main direct and/or indirect environmental benefits deriving from the
+solution, which can be summarized in quantitative reduction of raw materials, elimination of disposable
+plastics, reduction of plastic waste quantities, better recyclability , storability and consequently optimization
+of transport, and more in general, promotion of the sustainability culture as highlighted within the
+European Circular Economy Strategy.
+Sustainability 2020, 12, 9738 10 of 13
+Even if such positive impacts cannot be detected by the existing tools, the innovative packaging
+also facilitates the proper waste collection and the reduction of the possibilities to contribute to MPP .
+Based on the data collected, the information shared, the modeling carried out and the results
+obtained, it is clear that the proposed solution reduce the environmental impact at a systemic level,
+make it advisable for large-scale application.
+7. Conclusions
+The sustainability corporate agenda of a small-medium frozen food industry has led to rethinking
+the design of the packaging. An integrated decision-making process has been applied to simultaneously
+investigate, test, assess and validate the recyclability and sustainability of the item. In particular,
+eco-design and LCA have been applied to support the design of 100% paper-based box that is patented
+by the company. The new designed solution provides positive eﬀects in each step of the value chain.
+As checked trough the Eco-design toolbox, the packaging can be considered fully recyclable. The LCA
+results demonstrate the higher environmental beneﬁts in terms of raw material supply, manufacturing,
+and transportation. Moreover, additional key ﬁndings can be considered in the collection stage and in
+the after-use cycle. Speciﬁcally, the adopted solution sounds also eﬀective in promoting the product
+sustainability. From the marketing perspective, the redesign has also the purpose to convey information
+to the consumer by capturing their attention. The message is homogeneous and coherent: The product,
+that is assumed to be related to a sustainable food chain, is contained within a packaging, which in
+turn is sustainable. Then, the new packaging is safe from the point of view of hygiene, health, and food
+safety. Finally, it has a limited environmental impact promoting an after-use economy and contributing
+to create added social value.
+The proposed environmental life cycle assessment study can represent the indispensable starting
+point on which to base a subsequentEnvironmental Product Declaration(EPD). Developed in application of
+the UNI EN ISO 14025: 2010 standard (Environmental labels and declarations—Type III environmental
+declarations), the EPD is an excellent tool for communicating objective, comparable and credible
+information relating to the environmental performance of products. The EPD represents an important
+internationally recognized ecological certiﬁcation and labeling, that will be reached by the analyzed
+product. In addition to the EPD, Life Cycle Costing (LCC) and Social Life Cycle Assessment (SLCA)
+can be applied to assess the triple bottom line of sustainability.
+Author Contributions: Conceptualization, E.F.; methodology, E.F. and S.Z.; software, S.Z.; validation, S.Z.; formal
+analysis, A.B.; investigation, A.B. and S.Z.; resources, E.F.; data curation, S.Z.; writing—original draft preparation,
+E.F.; writing—review and editing, E.F. and A.B.; visualization, E.F.; supervision, A.B.; project administration, A.B.;
+funding acquisition, A.B. and S.Z. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Acknowledgments: Authors acknowledge “Arti Graﬁche Reggiani” for their fruitful and successful cooperation
+and for having provided all the data and information necessary for the development of the study.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1. Kwon, B.G.; Chung, S.-Y.; Park, S.-S.; Saido, K. Qualitative assessment to determine internal and external
+factors inﬂuencing the origin of styrene oligomers pollution by polystyrene plastic in coastal marine
+environments. Environ. Pollut. 2018, 234, 167–173. [CrossRef] [PubMed]
+2. PlasticsEurope. Plastics—The Facts 2019. Available online: https: //www.plasticseurope.org/it/resources/
+publications/1804-plastics-facts-2019 (accessed on 31 October 2020).
+3. Karlsson, T.M.; Arneborg, L.; Broström, G.; Almroth, B.C.; Gipperth, L.; Hassellöv, M. The unaccountability
+case of plastic pellet pollution. Mar. Pollut. Bull. 2018, 129, 52–60. [CrossRef] [PubMed]
+4. Napper, I.E.; Bakir, A.; Rowland, S.J.; Thompson, R.C. Characterisation, quantity and sorptive properties of
+microplastics extracted from cosmetics. Mar. Pollut. Bull. 2015, 99, 178–185. [CrossRef] [PubMed]
+Sustainability 2020, 12, 9738 11 of 13
+5. Jambeck, J.R.; Geyer, R.; Wilcox, C.; Siegler, T.R.; Perryman, M.; Andrady, A.; Narayan, R.; Law, K.L.
+Plastic waste inputs from land into the ocean. Science 2015, 347, 768–771. [CrossRef]
+6. Heinrich Böll Foundation. Plastic Fantastic—Solving the Problem W e Created for Ourselves. A vailable online: https:
+//th.boell.org/en/2019/10/31/plastic-fantastic-solving-problem-we-created-ourselves (accessed on31 October 2020).
+7. Foschi, E.; D’Addato, F.; Bonoli, A. Plastic waste management: A comprehensive analysis of the current
+status to set up an after-use plastic strategy in Emilia-Romagna Region (Italy). Environ. Sci. Pollut. Res. 2020,
+1–14. [CrossRef]
+8. Brooks, A.L.; Wang, S.; Jambeck, J.R. The Chinese import ban and its impact on global plastic waste trade.
+Sci. Adv. 2018, 4, eaat0131. [CrossRef]
+9. Chen, S.-J.; Ma, Y.-J.; Wang, J.; Tian, M.; Luo, X.-J.; Chen, D.; Mai, B.-X. Measurement and human exposure
+assessment of brominated ﬂame retardants in household products from South China. J. Hazard. Mater. 2010,
+176, 979–984. [CrossRef]
+10. Haward, M. Plastic pollution of the world’s seas and oceans as a contemporary challenge in ocean governance.
+Nat. Commun. 2018, 9, 667. [CrossRef]
+11. Geyer, R.; Jambeck, J.R.; Law, K.L. Production, use, and fate of all plastics ever made. Sci. Adv. 2017,
+3, e1700782. [CrossRef]
+12. Derraik, J. The Pollution of the Marine Environment by Plastic Debris: A Review. Mar. Pollut. Bull. 2002, 44,
+842–852. [CrossRef]
+13. Thevenon, F.; Carroll, C.; Sousa, J. Plastic Debris in the Ocean. The Characterization of Marine Plastics and Their
+Environmental Impacts, Situation Analysis Report ; IUCN: Gland, Switzerland, 2014. [CrossRef]
+14. Cole, M.; Lindeque, P .; Halsband, C.; Galloway, T. Microplastics as contaminants in the marine environment:
+A review. Mar. Pollut. Bull. 2011, 62, 2588–2597. [CrossRef] [PubMed]
+15. Avio, C.G.; Gorbi, S.; Regoli, F. Plastics and microplastics in the oceans: From emerging pollutants to emerged
+threat. Mar. Environ. Res. 2016, 128. [CrossRef] [PubMed]
+16. Boucher, J.; Billard, G. The challenges of measuring plastic pollution. Field Actions Sci. Rep. J. Field Actions
+2019, 19, 68–75.
+17. Browne, M.A.; Galloway, T.; Thompson, R. Microplastic—An emerging contaminant of potential concern?
+Integr. Environ. Assess. Manag. 2009. [CrossRef]
+18. European Commission; Joint Research Centre; Institute for Prospective Technological Studies. End-of-Waste
+Criteria for Waste Plastic for Conversion: Technical Proposals: Final Report. 2014. Available online: https://
+publications.jrc.ec.europa.eu/repository/bitstream/JRC91637/2014-jrc91637%20.pdf (accessed on31 October 2020).
+19. Addamo, A.M.; Hanke, G.; Laroche, P .; MSFD Technical Group on Marine Litter; European Commission;
+Joint Research Centre. Top Marine Beach Litter Items in Europe a Review and Synthesis Based on Beach
+Litter Data. 2017. Available online: https: //publications.jrc.ec.europa.eu/repository/bitstream/JRC108181/
+technical_report_top_marine_litter_items_eur_29249_en_pdf.pdf (accessed on 31 October 2020).
+20. European Commission. Closing the Loop of the Circular Economy Action Plan. 2015. Available online:
+https://eur-lex.europa.eu /resource.html?uri=cellar:8a8ef5e8-99a0-11e5-b3b7-01aa75ed71a1.0012.02 /
+DOC_1&format=PDF (accessed on 31 October 2020).
+21. European Commission. A European Strategy for Plastics in a Circular Economy. 2018. Available online:
+https://eur-lex.europa.eu /resource.html?uri=cellar:2df5d1d2-fac7-11e7-b8f5-01aa75ed71a1.0001.02 /
+DOC_1&format=PDF (accessed on 31 October 2020).
+22. European Commission. A Circular Economy for Plastics: Insights from Research and Innovation to
+Inform Policy and Funding Decisions. 2019. Available online: http: //op.europa.eu/en/publication-detail/-/
+publication/33251cf9-3b0b-11e9-8d04-01aa75ed71a1 /language-en/format-PDF (accessed on 31 October 2020).
+23. European Parliament and the Council of the European Union. Directive (EU) 2019/ of the European Parliament
+and of the Council of 5 June 2019 on the Reduction of the Impact of Certain Plastic Products on the Environment.
+2019. Available online: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L0904&from=
+EN (accessed on 31 October 2020).
+24. European Parliament and the Council of the European Union. Directive (EU) 2018/ of the European Parliament
+and of the Council of 30 May 2018 Amending Directive 94/62/EC on Packaging and Packaging Waste. 2018.
+Available online: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018L0852&from=EN
+(accessed on 31 October 2020).
+Sustainability 2020, 12, 9738 12 of 13
+25. Foschi, E.; Bonoli, A. The Commitment of Packaging Industry in the Framework of the European Strategy
+for Plastics in a Circular Economy. Adm. Sci. 2019, 9, 18. [CrossRef]
+26. European Commission. A New Circular Economy Action Plan. For a Cleaner and More Competitive
+Europe. 2020. Available online: https: //eur-lex.europa.eu/resource.html?uri=cellar:9903b325-6388-11ea-
+b735-01aa75ed71a1.0017.02/DOC_1&format=PDF (accessed on 31 October 2020).
+27. European Commission. The European Green Deal. 2019. Available online: https: //eur-lex.europa.eu/
+resource.html?uri=cellar:b828d165-1c22-11ea-8c1f-01aa75ed71a1.0002.02 /DOC_1&format=PDF (accessed on
+31 October 2020).
+28. Paletta, A.; Leal Filho, W.; Balogun, A.-L.; Foschi, E.; Bonoli, A. Barriers and challenges to plastics valorisation
+in the context of a circular economy: Case studies from Italy. J. Clean. Prod. 2019, 241, 118149. [CrossRef]
+29. Bocken, N.M.P .; de Pauw, I.; Bakker, C.; van der Grinten, B. Product design and business model strategies for
+a circular economy. J. Ind. Prod. Eng. 2016, 33, 308–320. [CrossRef]
+30. Hahladakis, J.N.; Iacovidou, E. Closing the loop on plastic packaging materials: What is quality and how
+does it aﬀect their circularity? Sci. T otal Environ. 2018, 630, 1394–1400. [CrossRef]
+31. Ouattara, A.; Pibouleau, L.; Azzaro-Pantel, C.; Domenech, S.; Baudet, P .; Yao, B. Economic and environmental
+strategies for process design. Comput. Chem. Eng. 2012, 36, 174–188. [CrossRef]
+32. Lieder, M.; Rashid, A. Towards Circular Economy implementation: A comprehensive review in context of
+manufacturing industry. J. Clean. Prod. 2015, 115. [CrossRef]
+33. Ghisellini, P .; Cialani, C.; Ulgiati, S. A review on circular economy: The expected transition to a balanced
+interplay of environmental and economic systems. J. Clean. Prod. 2016, 114, 11–32. [CrossRef]
+34. Le Blevennec, K.; Jepsen, D.; Rödig, L.; Wirth, O. For Better not Worse: Applying Ecodesign Principles to
+Plasticsin the Circular Economy. 2018. Available online: https://ecostandard.org/wp-content/uploads/2019/
+06/APPLYING-ECODESIGN-PRINCIPLES-TO-PLASTICS.pdf (accessed on 31 October 2020).
+35. Morbidoni, A.; Favi, C.; Germani, M. CAD-Integrated LCA Tool: Comparison with dedicated LCA Software
+and Guidelines for the Improvement. In Glocalized Solutions for Sustainability in Manufacturing ; Hesselbach, J.,
+Herrmann, C., Eds.; Springer: Berlin/Heidelberg, Gemany, 2011; pp. 569–574.
+36. Angellier-Coussy, H.; Guillard, V .; Guillaume, C.; Gontard, N. Role of packaging in the smorgasbord of
+action for sustainable food consumption. Agro Food Ind. Hi T ech 2013, 24, 15.
+37. Euromonitor. Market Research on the Packaging Industry. Available online: https://www.euromonitor.com/
+packaging (accessed on 17 November 2020).
+38. Wells, L.E.; Farley, H.; Armstrong, G.A. The importance of packaging design for own-label food brands.
+Int. J. Retail Distrib. Manag. 2007, 35. [CrossRef]
+39. Kaiser, K.; Schmid, M.; Schlummer, M. Recycling of Polymer-Based Multilayer Packaging: A Review.
+Recycling 2018, 3, 1. [CrossRef]
+40. Bindu, J.; Srinivasa Gopal, T.K.; Unnikrishnan Nair, T.S. Ready-to-eat mussel meat processed in retort
+pouches for the retail and export market. Packag. T echnol. Sci. 2004, 17, 113–117. [CrossRef]
+41. Ellen-MacArthur-Foundation. Towards-the-Circular-Economy. 2013. Available online:
+https://www.ellenmacarthurfoundation.org/assets/downloads/publications/Ellen-MacArthur-Foundation-
+Towards-the-Circular-Economy-vol.1.pdf (accessed on 31 October 2020).
+42. Grandviewresearch. Frozen Food Market Size, Share & Trends Report, 2020–2027. Available online: https:
+//www.grandviewresearch.com/industry-analysis/frozen-food-market (accessed on 17 November 2020).
+43. Gutierrez, M.M.; Meleddu, M.; Piga, A. Food losses, shelf life extension and environmental impact of a
+packaged cheesecake: A life cycle assessment. Food Res. Int. 2017, 91, 124–132. [CrossRef]
+44. Williams, H.; Wikström, F.; Otterbring, T.; Löfgren, M.; Gustafsson, A. Reasons for household food waste
+with special attention to packaging. J. Clean. Prod. 2012, 24, 141–148. [CrossRef]
+45. Wikström, F.; Williams, H.; Verghese, K.; Clune, S. The inﬂuence of packaging attributes on consumer
+behaviour in food-packaging life cycle assessment studies—A neglected topic. J. Clean. Prod. 2014, 73,
+100–108. [CrossRef]
+46. Toniolo, S.; Mazzi, A.; Niero, M.; Zuliani, F.; Scipioni, A. Comparative LCA to evaluate how much recycling
+is environmentally favourable for food packaging. Resour. Conserv. Recycl. 2013, 77, 61–68. [CrossRef]
+47. Roy, P .; Nei, D.; Orikasa, T.; Xu, Q.; Okadome, H.; Nakamura, N.; Shiina, T. A review of life cycle assessment
+(LCA) on some food products. J. Food Eng. 2009, 90, 1–10. [CrossRef]
+Sustainability 2020, 12, 9738 13 of 13
+48. Ingrao, C.; Tricase, C.; Cholewa-W ójcik, A.; Kawecka, A.; Rana, R.; Siracusa, V . Polylactic acid trays for
+fresh-food packaging: A Carbon Footprint assessment. Sci. T otal Environ. 2015, 537, 385–398. [CrossRef]
+[PubMed]
+49. Kooijman, J.M. Environmental assessment of packaging: Sense and sensibility. Environ. Manag. 1993, 17,
+575–586. [CrossRef]
+50. Ucherek, M. Problems associated with ecological assessment of packaging. Int. J. Sustain. Dev. World Ecol.
+2003, 10, 63–67. [CrossRef]
+51. Moberg, Å.; Finnveden, G.; Johansson, J.; Lind, P . Life cycle assessment of energy from solid waste—Part 2:
+Landﬁlling compared to other treatment methods. J. Clean. Prod. 2005, 13, 231–240. [CrossRef]
+52. Pauer, E.; Wohner, B.; Heinrich, V .; Tacker, M. Assessing the Environmental Sustainability of Food Packaging:
+An Extended Life Cycle Assessment including Packaging-Related Food Losses and Waste and Circularity
+Assessment. Sustainability 2019, 11, 925. [CrossRef]
+53. European Commission; Joint Research Centre; Institute for Environment and Sustainability. International
+Reference Life Cycle Data System (ILCD) Handbook: General Guide for Life Cycle Assessment: Detailed
+Guidance. 2010. Available online: https: //eplca.jrc.ec.europa.eu/uploads/ILCD-Handbook-General-guide-
+for-LCA-DETAILED-GUIDANCE-12March2010-ISBN-ﬁn-v1.0-EN.pdf (accessed on 31 October 2020).
+54. CONAI. Linee-Guida_Per la Facilitazione Delle Attività di Riciclo Degli Imballaggi in Materiale Plastico. 2017.
+Available online: http://www.conai.org/wp-content/uploads/dlm_uploads/2017/07/Linee-Guida_Riciclo_
+Plastica.pdf (accessed on 31 October 2020).
+55. Holdway, R.; Walker, D.; Hilton, M. Eco-design and successful packaging. Des. Manag. J. 2002, 13, 45–53.
+[CrossRef]
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional
+aﬃliations.
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).

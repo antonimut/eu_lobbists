@@ -1,0 +1,138 @@
+ 
+1 
+ 
+INTERNAL 
+  
+  
+ 
+ 
+The Enel Group answer to the European Commission proposal 
+for an EU Cyber Resilience Act 
+ 
+ 
+The Enel Group  is a multinational company and a leading operator in the power and renewables markets of 
+Europe and worldwide. As a cornerstone to state the principle of data sovereignty – people and organisations 
+to have self -determination with regards to data they generate - the European Commission published on 23 
+February 2022, its draft for regulation to ensure fair access and  distribution to data, the Data Act. Data 
+protection and competition law requirements are interwoven in the proposal, with the Act drawing heavily on 
+common themes in recent European legislation and enforcement actions in the digital field. 
+The Enel Group welcomes the Act as a positive step towards a Europe fit for the digital age, and see some 
+possibilities to improve the holistic, practical, executive side of the Data Act, summarised below. 
+  
+I.  INTERPLAY WITH OTHER EU LEGISLATION 
+Enel welcomes the clarification on cybersecurity requirements for high-risk AI systems and, the possibility that 
+notified bodies under the AI Act are entitled to control the conformity with this Regulation, supporting the 
+development of a simpler as well as homogeneous cybersecurity legal framework.  
+It is paramount that cybersecurity requirements applied to the scope of the Cyber Resilience Act should be 
+aligned to standards and international laws in progress (e.g., Network Code for cybersecurity aspects of cross-
+border electricity flows , NIS 2, EU Cloud Rulebook, EU Cloud Security Certification Scheme ), to further foster 
+cybersecurity of the entire Ecosystem. 
+ 
+Enel shares the vision that the Cybersecurity Act serve s as a centerpiece for EU legislation on products with 
+digital elements, specifically Article 51 on security objectives of European Cybersecurity Certification Schemes 
+which are: 
+1. first designing connected devices or non-embedded software without known vulnerabilities, and  
+2. provide them with mechanisms for secure updates for its whole lifecycle.  
+ 
+II. CLASSIFICATION OF DIGITAL PRODUCTS 
+Bringing these security objectives to the list of products with digital elements considered critical in Annex III 
+(classes I and II) of the EC proposal for a Cyber Resilience Act, some first considerations arise: 
+1. this ‘list-based’ approach will require periodic verification/update on its consistency  
+2. since the inclusion of a specific product in Class I or in Class II is based on the risk assessment, the class 
+of a product must be periodically checked as the risk level can change 
+As far as IoT devices are concerned, their categorization in Class I or Class II will be linked to their use for 
+‘essential entities’ defined by the NIS2 Directive (at national level, as the NIS2 Directive must be transposed); 
+therefore, it will be necessary to ensure constant alignment between the CRA and the NIS2. In the light of the 
+foregoing, the previous process for updating the critical products lists is of outmost relevance considering the 
+impacts on the digital market in terms of the related security level, and on the activities needed to guarantee 
+them. Hence, it is therefore extremely important to define how this process will be implemented , defining 
+factors such as: frequency, impact, alignment, etc.  And time is a k ey cybersecurity factor that should be 
+  
+Ref. Ares(2023)76973 - 05/01/2023
+ 
+2 
+ 
+INTERNAL 
+addressed by implementing a continuous improvement approach for the update processe s, avoiding 
+discontinuity (that by example could be introduced in case of having to call for  dedicated temporary expert 
+groups). A suggestion could be to have permanent ENISA support on this process to keep the pass with tech 
+evolution of digital products). 
+ 
+III.  SCOPE 
+To avoid having a Cybersecurity gap jeopardizing the security of the value Chain for essential services, it would 
+be paramount that all devices connected to the Electrical Grid will be cybersecure . Hence, it is relevant that 
+connected devices such as smart meters, solar inverters, small windmills, small batteries for residential and SME 
+use and other IoT devices connected to electricity distribution network should be included in the scope of the 
+regulation as Class I, maintaining Class II for core critical infrastructure components (e.g. SCADA).  
+ 
+IV. VULNERABILITY MANAGEMENT  
+According to Article 10.6, manufacturers shall ensure that vulnerabilities of that product are handled effectively 
+and in accordance with requirements set out in vulnerability handling requirements (Section 2 of Annex I), for 
+the shortest period among the expected product lifetime or for five years  from the placing of the product on 
+the market.  
+In this regard the product vulnerabilities management is not in any case ensured after 5 years, however in the 
+case of Energy operators, a failure to manage vulnerabilities can have devastating impacts on the critical 
+infrastructures 'attack surface'. For this reason, in case of lack of vulnerability management after 5 years: 
+a. a new higher risk level should be assessed by a mandatory cyber risk assessment procedure, and 
+b. it should also be assessed in which cases vulnerability management should be extended and, the ‘end 
+of support’ communication process should be defined especially defining the actors involved. A proposal is that 
+'Notifying authorities' should inform periodically on which digital products are starting the 'end of support' 
+phase. 
+However, the whole high-level process of communication (also defining channels) of vulnerabilities and patches 
+should be defined, to allow effective and quick communication between the Manufacturers and the other Actors 
+(especially the Users).  
+Moreover, the vulnerability management period shall be aligned with the investments made ; in a way that 
+the period is enlarged accordingly with the investments made. 
+In addition, the vulnerabilities reporting, shall be linked to the associated risk, dedicating the appropriate time 
+to fix the vulnerabilities, and avoiding unnecessary reporting. 
+Related to vulnerability handling requirements (Annex I section 2), it shall be publicly disclosed information 
+about fixed vulnerabilities to allow users to ide ntify the product with digital elements affected. When such 
+vulnerabilities can be fixed in a short time (such as 3-5 hours), manufacturers shall delay the public disclosure 
+to avoid creating a social alarm. 
+ 
+As to the Vulnerability Database we would suggest a central ENISA Database and the definition of a protocol 
+to standardize communications and vulnerabilities’ format, thus avoiding heterogeneous autonomous 
+Manufacturers’ Databases that could lead to ineffective and uncontrolled disclosure of information. 
+In fact, vulnerabilities’ information (Art.11) should not be publicly disclosed but restricted by profiled access to 
+the Database  to reduce the risk of double -edge sword , thus allowing information sharing only between 
+stakeholders. Moreover, the D atabase should not contain direct correlation of information between 
+vulnerability and users.  
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+INTERNAL 
+ 
+V. RESPONSABILITIES OF THE DIFFERENT ECONOMIC OPERATORS 
+In Articles 13 and 14  (paragraphs 1 and 2) of the proposal for a CRA, importers and distributors  are asked to 
+verify, prior setting a product in the EU market, if the manufacturer complied with the Annex I requirements. In 
+other words, importers and distributors are asked to perform a 'watch-dog' function towards manufacturers. 
+Nevertheless, the Act should clarify whether an importer or a distributor fulfils its obligations by: 
+a. choosing manufacturers compliant with the requirements of Annex I or whether,  
+b. making its own resources available to monitor the compliance levels of the manufacturer and 
+possibly implement corrective measures. 
+It should also be noted that importers are asked to keep a copy of the declaration of conformity of a product 
+for 10 years; considering that, after a maximum of 5 years, there are no more updates on product vulnerabilities, 
+the retention times of copies of declarations of conformity could be reduced. 
+When a product is not compliant, a clarification of the responsibilities of manufacturers, importers, and 
+distributors, should be included in the CRA  as the possibilities of solving the non-compliance are different for 
+each economic operator. In fact, a manufacturer will normally have more possibilities to detect and solve a non-
+compliance than importers and distributors (which are often SMEs). 
+The responsibility and quantitative number of fines should be differentiated and proportioned, based on the 
+role of economic operators in the supply chain (e.g. Importer, Distributor, Manufacturer). 
+ 
+VI. TERMINOLOGY 
+ We suggest a further harmonization of the terminology in order to better clarify the scope of application (e.g., 
+digital product, connected devices, network management systems), aligning it to other Cyber Security regulation 
+definitions (e.g. NIS 2, Cyber Security Act).   
+In detail: 
+• as for ‘Network management systems’  are included as Class I product. Nevertheless, the term is not 
+defined under the Regulation or there is no reference to a legal definition that would enhance clarity on 
+which systems and networks it is applicable.  
+• Security updates or Patching  are often used to apparently refer to the same concept, but a unique label 
+could be clearer.  
+ 
+ 

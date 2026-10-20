@@ -1,0 +1,227 @@
+Digital Simplification Package – E.ON Consultation Response 
+E.ON appreciates the opportunity to provide  feedback to the European Commission ’s 
+consultation process in view of the upcoming Digital Simplification Package. 
+In general, E.ON  welcomes the Commission's  ambition for  simplification and has repeatedly 
+advocated for the reduction of bureaucracy and the streamlining and simplification of legislation 
+at both national and European levels. 
+Reducing bureaucracy is a key prerequisite for effectively advancing the energy transition and 
+leveraging the great potential of digital isation in the EU. There exist  opportunities for 
+simplification, improvements and/or clarification s inter alia within the following legislative 
+frameworks, outlined in greater detail below: AI Act, Data Act, GDPR, NIS2 and CER Directive. 
+The ambiguity of precedence of the Data Act regarding sectorial law, different definitions used in 
+different legal acts, divergent enforcement regimes, overlapping of certain legal acts with others 
+all clearly points to an existing need for coherence. 
+ 
+AI Act 
+E.ON advocates for a workable legislative framework that keeps a practicable balance between 
+protecting the safety and fundamental rights of people and fostering European innovation and 
+competitiveness. 
+Regulatory sufficiency 
+E.ON strongly advises against additional regulation and bureaucratic obligations. E.ON advocates 
+for not adding more sector specific regulations to the general (horizontal) law but rather clarifying 
+the AI Act and reducing bureaucratic burdens. 
+More and more timely clarity from the European Commission is needed related to the 
+implementation of the AI Act obligations and the measures to be taken by developers  and 
+deployers; such as practical guidance on high -risk AI systems and safety components . While 
+keeping the bureaucratic burden on companies at an appropriate and reasonable level, measures 
+should be provided in a timewise coordinated fashion to ensure sufficient time is left for 
+businesses to implement specific statutory obligations before they enter into effect at reasonable 
+cost and use of company resources. 
+Safety Components 
+AI systems used as safety components in the management and operation of critical infrastructure 
+could be classified as high -risk AI. Hence, the definition of safety components must be clear, 
+unambiguous, and restrictive. 
+• Legally secure clarification of the term ‘safety component’ in accordance with Art. 6 (2) in 
+conjunction with Annex III of the AI Act. 
+• The AI Regulation itself does not contain any provisions defining the magnitude or the 
+conditions under which the materiality threshold (“at large scale”/ “appreciable disruptions”/ 
+“significant”) is deemed to be reached or exceeded in the event of a disru ption. However, it 
+can be assumed that this means a disruption or system failure that has a significant impact 
+on the provision of an essential service by a critical entity within the meaning of the Resilience 
+of Critical Entity (CER) Directive, of which the AI system in question is a component. 
+Ref. Ares(2025)8736924 - 14/10/2025
+
+➔ E.ON proposes to introduce material threshold levels in the application of the AI Act with 
+regard to the consequences of a disruption of AI safety components. E.ON therefore 
+suggests that the thresholds of the CER Directive, Art. 7, shall also be applied in the area 
+of AI to determine the extent of a disruption or failure of critical infrastructure and its 
+duration, i.e. a failure should be deemed to lead to an appreciable disruption only if it 
+affects a minimum number of x individuals for a minimum duration of x hours. An AI  
+system would therefore only qualify as a safety component if its failure or malfunction 
+may affect such number of people for such period of time. 
+• Clarification is needed: 
+- regarding “large scale” and "appreciable disruptions” , which E.ON interprets as a 
+“materiality threshold” , which includes the elements of “dimension/ extent” and also a 
+“temporal/ duration” aspect, 
+- regarding the nature of the (direct) connection between the system failure or malfunction 
+and the risk for the physical integrity of critical infrastructure, 
+- regarding whether or not it is possible to refer to other risk-mitigating measures (switching 
+measures, system redundancy, multiple layers of safety systems etc. in critical 
+infrastructure), which may be used in parallel when assessing the “safety componen t” 
+characteristic and actual risk or is it always to be looked at in isolation, 
+- regarding whether or not AI systems that enable optimization compared to the status quo 
+are generally excluded. 
+High-risk AI systems 
+In conjunction with that, E.ON argues for more timely clarity from the Commission especially 
+about the definition and interpretation of high-risk AI, at the same time taking a sensible approach 
+on high-risk AI that is mindful of the risk that is being caused. An AI managing a single substation 
+poses a very different risk compared to an AI potentially overseeing a large high -voltage grid or 
+even a broader power market. 
+• A restrictive understanding of the concept of high -risk AI systems in the area of critical 
+infrastructure. The rules for high -risk AI systems used in the operation and management of 
+critical infrastructure (i.e., the energy grid ) must make the most use of the possible 
+exemptions that were formulated in Article 6 (3) and also considers the individual real -life 
+circumstances of the AI’s deployment (i.e., if the risk is limited to the functioning of a 
+subsystem (e.g., one substation and its feeders)); in such case, harm to the health, safety and 
+fundamental rights of persons still must to be avoided, but it is clearly different from a case 
+where the AI system malfunctioning or even just its normal functioning would create a more 
+systemic or even system-wide risk).  
+ 
+Data Act 
+E.ON appreciates further clarifications by the European Commission regarding the Data Act. The 
+foremost priority is to ensure legal clarity.  The lack of harmonised definitions creates legal 
+uncertainty as does a lack of coherence between various legal acts (see below “terminology 
+inconsistencies”).  
+With regard to specific provisions of the legislation, E.ON proposes the following: 
+Clarification and coherence of sector-specific data access and use rights and their interplay 
+with the Data Act 
+• Applicability of the Data Act to Smart Meters: 
+- Ownership ambiguity: Consumers typically do not own smart meters , nor lease  / rent 
+them, depending on Member States‘  approach, complicating the definition of “user” 
+under the Data Act. (Art. 2.12). It is thus unlikely that Smart Meters do fall under the Data 
+Act, still this is subject to ongoing discussions and unclarity remains at this point. 
+- Even if Smart Meters were considered or will be considered a "connected product" under 
+the Data Act, there must be limitations to user rights as the usage of metering data that is 
+required for various purposes, including, but not limited to, billing, observability, system 
+stability, and flexibility cannot be dependent on consent by the user. 
+- The question of limitations of user rights under the Data Act is generally an important one. 
+The right cannot be unlimited as the rights of the data subjects under GDPR, too, do face 
+a number of specific limitations e.g. in social security systems etc. Do flexibility services 
+qualify as “related services” under the Data Act, especially for Smart Meters? 
+• Divergent Treatment of Smart Meters and Dedicated Measurement Devices (DMD): DMDs are 
+more likely to meet Data Act criteria in terms of ownership, contractual use, or integration in 
+appliances. This could lead to unequal consumer rights depending on the device used. 
+• Terminology inconsistencies: “Eligible parties” (Electricity Directive) vs. “third parties” (Data 
+Act) vs. “relevant market participants” (Electricity Regulation).  It seems, “eligible parties” 
+implies some sort of limitation regarding to which 3 rd party the data can be made available 
+under IR 2023/1162; and the IR takes precedence over the Data Act.  Lack of harmoni sed 
+definitions create legal uncertainty as does a lack of coherence between various legal acts. 
+• Coherence: It seems that Art. 44 (2) of the Data Act leaves room for its applicability even in 
+cases where sector-specific data access and use rights exist. Again, if the Smart Meter was a 
+“connected product” in the sense of the Data Act, the user would primarily have the rights 
+under IR 2023/1162. Still, outside the scope of IR 2023/1162, the Data Act might be applicable 
+to Smart Meter data and it remains unclear what this would entail exactly. 
+Targeted recalibration of use rights under the Data Act 
+• The ability of the data holder to gain value from data generated by the use of a product and/or 
+related services it provides to the user is too limited and entails the risk of lack of incentives 
+for the data holder to innovate. 
+• Usage of data for defined purposes of the data holder without prior consent by the user shall 
+therefore remain possible . A representative example : the usage of  metering and energy 
+consumption data e.g. for billing purposes cannot be dependent on consent by the User (see 
+above). 
+• Regarding trade secrets, the limitation of data holders’ rights is too far-reaching, at minimum 
+regarding data holders’ right to define technical means of protection of data holders’ trade 
+secrets to be applied by the user/data recipient. Otherwise, this might jeopardize trade 
+secrets of the data holder. This would also be more in line with the principles set forth in 
+Directive (EU) 2016/943. In the current  legislation, the safeguards for intellectual property 
+rights of the data holder, including trade secrets, seem far too limited still. 
+• The Data Act contains too limited financial incentives and protection of data holders’ 
+investments in data-driven products and services. After all, it remains true that the making of 
+such products and related services requires the investment of considerable human, technical 
+as well as financial resources. This continues to justify the recognition of certain rights of use 
+of the data holder to the data as well as an overall better recognition of the legitimate interests 
+of the data holder. 
+Simplification potential 
+• With regard to personal data in product or related service data and where the user is not the 
+data subject, the data holder shall be in a position to rely on authorisation from the data holder 
+(who must be responsible for any breach of data protection law), unless the d ata holder is 
+itself a controller of such personal data. 
+• Statutory permission should be introduced to the Data Act for any transfer of personal data 
+from the data holder to the data user and/or any third party. 
+ 
+General Data Protection Regulation (GDPR) 
+E.ON proposes the following recommendations in order to further improve GDPR.  
+• Processing of pseudonymised personal data shall be permitted whenever a strong 
+pseudonymisation method is applied, not only for predefined purposes (Art. 6, section 1) but 
+also for other purposes such as developing new products. Consequently, binding 
+recommendations of strong pseudonymisation concepts shall be provided by competent 
+bodies. Alternatively, it would be beneficial to receive binding recommendations when 
+personal data is considered anonymised.  
+In the energy sector, there is a need to process personal data, which is already available to 
+grid operators, to observe and analyse network usage to develop “smart” grid operations. The 
+restrictions of Art. 6 place a burden, since developing new products may not be based on one 
+of the legal bases. Alternatively, recommendations for anonymisation of personal data are of 
+practical relevance, since this would offer the opportunity to process personal data already 
+available to grid operators. 
+• A more practical approach is needed as to when processing of personal data can be based 
+on legitimate interest / statutory permission. 
+Hands-on guidance for specific sectors - like the energy sector - could eliminate legal 
+uncertainty when legitimate interest for a controller exists. Examples in the energy sector 
+include grid operation and congestion management, flexibility, grid expansio n and other 
+processes that have demonstrable direct climate benefits. 
+• It is needed to extend the time period to notify data breaches up to five working days. 
+The existing 72 -hours window is challenging due to complex infrastructures of involved 
+applications, providers and entities, since facts of alleged data breaches often take time to 
+investigate. 
+• Establishing clear rules is needed, whenever the transfer of personal data is based on SCC; 
+conducting a TIA should follow a risk-based approach. 
+A TIA should be conducted whenever there is a real risk to the rights and freedoms of a natural 
+person. There is often the mere possibility of access to a very limited data set from a third 
+country for a second -level support. Such possibility of access to a limited data set alone 
+stands in no proportion to conduct a burdensome TIA. Processing of personal data with minor 
+risks should thus not require a TIA. 
+• Ensure a more consistent approach to the application of the GDPR. 
+Even in a single Member State there are often conflicting opinions from numerous data 
+protection authorities. As a multi -national company, it is challenging and expensive to 
+implement standardised processes across the group, when there are differing regulatory 
+opinions across the EU. It also creates considerable uncertainties that entail a potentially 
+high financial risk. 
+• Assess the intricacies between GDPR and Data Act for data generated by connected products 
+in energy critical infrastructures. 
+The Data Act is "without prejudice" to the GDPR. The  Data Act goes yet beyond some GDPR 
+requirements, like for users’ rights to share data directly with third parties comprising also 
+non-personal generated data. The possibility and impacts of inextricably linked datasets from 
+connected devices in critical infrastructures should also be thoroughly assessed. In the 
+interest of legal certainty and, more importantly, of security of energy supply, the relationship 
+(e.g. between Data Act, GDPR, Implementing Acts on Data Access and Interoperability) and 
+attached risks should be carefully assessed by the relevant expert groups in that area. 
+ 
+NIS2 Directive 
+E.ON puts forward a number of recommendations to enhance and simplify the NIS2 Directive. 
+Usage of components (Articles 18, 21): 
+• “State of the art” is defined by technical standards rather than by political wishes. It must be 
+clarified that expert communities can quickly and specifically define appropriate standards, 
+and detailed technical specifications should not be lost in bureaucratic processes of 
+authorities. Otherwise overlapping and contradictions might occur. This is also why there 
+should be no obligation for certification of any ICT products. This would narrow down markets 
+and lead itself to additional risks.  
+ICT product and service supply chain (Articles 5, 18): 
+• “Security and Privacy by Design” includes the accountability for OEMs and solution providers 
+of ICT/OT products for security standards. These parties have full overview of data processing 
+and storage, have all capabilities including direct access and should be obliged to provide 
+also full security services for all operators.  
+Information sharing and cybersecurity reporting obligations (Article 20): 
+• E.ON supports the obligation to report significant IT security incidents.  However, reporting 
+obligations should remain limited to previously defined, significant IT security incidents . A 
+warning within 24 hours cannot provide value due to missing essential information. Same, if a 
+threat cannot be specified. 
+• Multiple and competing reporting obligations and responsibilities must be avoided (especially 
+regarding the CER Directive). It must be ensured that reports from entities to national CSIRTs 
+are shared with Member States and then spread again to all potentially affected entities. Also, 
+the handling of 0-day vulnerabilities should be explicitly covered in the Directive. 
+ 
+Resilience of Critical Entity Directive 
+E.ON proposes some suggestions to further improve and simplify the CER Directive.  
+• Overlapping regulations must be avoided, and regulation must be consistent on both 
+European and national level. There should be a uniform scheme to identify critical operators: 
+Only companies with cross -sectoral or cross -border impact should be covered by the CER 
+Directive. Otherwise, the threshold for critical operators of national regulation should apply. 
+• The task of maintaining the resilience of critical IT- infrastructures should also consider cross-
+sectoral aspects in the Directive. National authorities only have the task to define risk 
+scenarios and the potential impact of individual operators on society. 
+• Compliance with resilience requirements based on international standards should be 
+sufficient, additional inspections should be avoided. There must be no additional legal 
+requirements or bureaucracy for support services offered by the EU. This should be th e 
+accountability of Member States. 
+• Information reported to the national authority should be forwarded to all other national 
+authorities within the EU and from there back again to all operators of critical infrastructures. 

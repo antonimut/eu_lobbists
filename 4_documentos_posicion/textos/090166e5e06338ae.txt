@@ -1,0 +1,550 @@
+ 
+ 
+www.medtecheurope.org Cover page 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 June 2021 
+ 
+ 
+ 
+Unlocking the full benefits of 
+health data 
+ 
+Recommendations from MedTech Europe 
+POSITION PAPER POSITION PAPER POSITION PAPER 
+Ref. Ares(2021)4878918 - 30/07/2021
+ 
+ 
+www.medtecheurope.org  Page 1 of 11 
+Table of Contents 
+ 
+Executive Summary 2 
+1. Introduction 3 
+2. The medical technology industry and health data 3 
+Patient self-management and empowerment 4 
+Remote patient monitoring 4 
+Monitoring device performance 5 
+Data analytics 5 
+Towards data-driven healthcare 7 
+Summary 7 
+3. Addressing legal barriers to effective data-driven healthcare 8 
+4. Conclusion 10 
+List of acronyms 11 
+ 
+  
+ 
+ 
+www.medtecheurope.org  Page 2 of 11 
+Executive Summary  
+Digital health makes healthcare better, safer, and more efficient, and advance s the delivery of high -quality 
+care. For digital health to reach its full potential, we need to unlock the benefits of health data.  
+Health data enables new ways of personal management of one 's health and lifestyle. It can be integrated 
+across a variety of platforms to enable better clinical care practice and decision making. Combining health 
+data from different sources in an appropriate manner can empower people with information and deliver more 
+robust evidence for the efficacy of treatments. Intelligent automation and artificial intelligence can improve 
+access to care and assist healthcare professionals with routine or repetitive tasks. Data-driven research and 
+innovation can deliver benefits across the care spectrum, from diagnosis to cure. In short, health data brings 
+enormous benefits for people, healthcare professionals, and healthcare systems.  
+Medical technology companies need to process health data, both when developing new technologies and as 
+part of their roll-out to healthcare systems. However, regulatory and legal challenges continue to limit access 
+to health data by medical technology companies to develop new solutions for treating patients and advance 
+personalised medicine and treatments . There is a need for clear rules under which the medical technology 
+industry can collect, process, and share  health data. The varied implementation and in terpretation of the 
+General Data Protection Regulation (GDPR) by national and local authori ties create considerable legal 
+uncertainties for industry, resulting in barriers to health data use.  
+ 
+MedTech Europe calls on European and national policymakers to make rules regarding health data 
+use more consistent, with a specific focus on: 
+• rules for processing health data by medical technology companies for healthcare delivery and 
+research and innovation; 
+• the legal basis for processing health data under the GDPR, and the interplay between the GDPR 
+and the Medical Devices and In-Vitro Diagnostics Regulations;  
+• harmonised guidelines on anonymisation and pseudonymisation; 
+• exceptions for public interest and preventive medicine , in particular with regards to research 
+conducted by medical technology companies; 
+• transfers of health data within and outside the European Economic Area. 
+The EU should take on a coordinating role to realise the full potential of health data. Aligning 
+inconsistent national strategies through an EU -wide governance framework will enable the 
+harnessing of health data in a resource- and cost-effective way.  
+ 
+The European Health Data Space has the potential to provide such a framework and  be a major driver 
+towards better access to, sharing, and use of health data. It should address the legal and regulatory barriers 
+discussed in this paper , establish a robust and stable data gov ernance framework based on European 
+values, and appropriately balance the need for protection of personal data with innovation. In doing so, it will 
+boost the competitiveness of the European medical technology industry and establish Europe as the premier 
+location for healthcare research and development for the benefit of European citizens.  
+ 
+ 
+www.medtecheurope.org  Page 3 of 11 
+1. Introduction  
+Health data enables new ways of personal health and lifestyl e management. It can be integrated across 
+various platforms to allow for better clinical care practice and decision making. Intelligent automation and 
+artificial intelligence powered by health data can improve access to care and assist healthcare professionals 
+(HCPs) with routine or repetitive tasks, thus helping to relieve the burden on our healthcare systems.  Data-
+driven research and innovation (R&I) can improve diagnostics and treatments, help with detection and 
+understanding of diseases, and develop new treatments. In short, health data brings enormous benefits for 
+people, HCPs, and health systems.1 
+The medical technology industry is at the heart of the health data ecosystem , providing data that meet the 
+highest standards of validity, accuracy, and veracity, all by complying with strict regulatory requirements. This 
+trust in the quality and accuracy of health data is a critical enabler for the digital transformation of healthcare. 
+The pace of the digital transformation and innovation in the development of new treatme nts is highly 
+dependent on the medical technology industry's ability to successfully access, aggregate and appropriately 
+use health data. To fully unlock health data's potential, regulatory and legal challenges need to be addressed. 
+The European Health Data Space (EHDS), a European Commission initiative  to harness the potential of 
+health data to promote health  care delivery and support research , should address these challenges and 
+advance investment, infrastructures, interoperability and the building of trust and skills . MedTech Europe 
+supports the EHDS and the building of a European health data ecosystem. 
+By processing and managing health data, the medical technology industry delivers benefits for people, HCPs, 
+and healthcare systems, as the examples in section 2 show. Section 3 discusses the barriers that prevent 
+data access and sharing  for the medical technology  industry and presents key recommendations for a 
+governance framework that can unlock the benefits of health data. The conclusion considers the potential of 
+the EHDS to address these barriers. MedTech Europe encourages the consideration of these points as we 
+build the foundations of a European health data ecosystem. 
+ 
+2. The medical technology industry and health data  
+Health data allows access to meaningful insights. Physiological or diagnostic information can be made 
+available to HCPs, patients , and their care rs. Data can be collected, aggregated, and analysed for public 
+health purposes or to power advanced analytics, as the following examples show. 
+ 
+1 For this paper we follow the provisions of the General Data Protection Regulation (GDPR), Art. 4 (15): ‘data concerning health’ means 
+personal data related to the physical or mental health of a natural person, including the provision of health care services, which reveal 
+information about his or her health status”. 
+ 
+ 
+www.medtecheurope.org  Page 4 of 11 
+Patient self-management and 
+empowerment 
+Connected medical devices are increasingly used 
+in the treatment of a variety of ch ronic diseases 
+such as sleep apnoea, asthma, and chronic 
+obstructive pulmonary disease. Access to accurate 
+and timely health data allows individuals to manage 
+chronic conditions like congestive heart failure or 
+diabetes and enables them to connect factors such 
+as weather, food intake , or physical activity to 
+effects on their health . This empowers people to 
+become agents of their own health, for example, by 
+monitoring and benchmarking their outcomes or  
+adapting their habits and lifestyle. Connected 
+medical devices can also improve patients' 
+adherence, reduce deteriorations, and decrease 
+the overall burden on healthcare system s as 
+doctors and hospitals only need to intervene in 
+times of crisis. Access to data thus improves 
+healthcare and adds to patients' knowledge, 
+independence, control, and quality of life. 
+ 
+Remote patient monitoring  
+Data from medical devices, if shared with 
+designated family members, care rs, or healthcare 
+providers through appropriate Information 
+Technology Systems (with safeguards for 
+cybersecurity and data protection), can also be used to enable remote patient monitoring (sometimes also 
+called telemonitoring) , which facilitate monitoring and treatment delivery to patients outside the hospital 
+settings. They rely on  connected devices that collect data on physiological parameters, treatment delivery 
+and patient use . Employed for example for monitoring chronic conditions such as diabetes, rheumatic, 
+respiratory and autoimmune diseases, as post-surgery care or in remote settings, they transmit data to a 
+digital platform where it is aggregated, processed, and synthesised.  
+ 
+Using remote pati ent monitoring, c linicians and providers can monitor and modify the therapy without the 
+need for in -person consultations. Healthcare teams can quickly identify those individuals who are 
+experiencing problems and require further intervention. Follow -up is then focused on patients in need while 
+reducing unnecessary out -patient appointments. This frees up room for new patient set -ups.2 Additionally, 
+ 
+2 PwC report ‘Effects of telemonitoring on treatment of sleep -disordered breathing’: Wrightington, Wigan and Leigh NHS Foundation 
+Trust Hospital, p 30-31; October 2015, access here. 
+Enhanced self-management of diabetes 
+Advancements in medical technologies have simplified 
+the way in which we monitor and control the condition 
+for people with Type 1 and Type 2 Diabetes, replacing 
+routine blood sampling with an electronic sensor. 
+Inserted under the skin, either on the abdome n or arm, 
+the sensor continuously monitors the patient’s 
+glucose level. 
+With the help of medical technologies such as 
+Continuous Glucose Monitoring (CGM) systems, people 
+with diabetes can monitor their data, discover patterns 
+and trends, and understand bet ter the relation between 
+their behaviour and their condition. Continuous data 
+access is critical to management of the condition, 
+promoting positive behaviour changes and improving 
+outcomes. 
+People with diabetes who depend on insulin to regulate 
+their blood  glucose levels must constantly make 
+calculations when to inject insulin and how much. Smart 
+pens can assist with these calculations, while 
+completely automated insulin delivery systems connect 
+a CGM/glucose monitor with an insulin pump via an 
+advanced algorithm to deliver appropriate insulin doses 
+at the appropriate time, reducing the potential for error 
+and improving quality of life. 
+ 
+ 
+www.medtecheurope.org  Page 5 of 11 
+remote monitoring helps patients understand how a 
+treatment protocol works and support s 
+customisation and personalisation. It has shown to 
+increase patient satisfaction while boosting the 
+quality of care, allowing patients to feel constantly 
+supported. Studies have shown that remote 
+monitoring also improves adherence to treatment 
+protocols.3 
+ 
+Monitoring device performance 
+Performance monitoring of medical and in -vitro 
+diagnostic devices by near real -time transfers of 
+data is required under the new Medical Device 
+Regulation (MDR) 4 and the In-Vitro Diagnostic 
+Medical Device Regulation  (IVDR)5. During their 
+entire life cycle, d evices need to be checked 
+whether they remain safe and effective. They can 
+also signal when they require maintenance or 
+replacement. Thus , risks are evaluated and 
+contained in an efficient and timely manner.  
+ 
+Aggregated data produced during the monitoring of a device 's performance can also be used to evaluate 
+outcomes, detect means to improve the medical device, identify new opportunities for innovation stemming 
+from its use in non-clinical conditions, as well as assess its efficacy and cost-effectiveness to assess its real 
+value. The ability to provide unambiguous evidence of value is essential for governments to determine the 
+real value of devices to make efficient budget decisions. An improved and simplified access process for data 
+sharing is required to enable the use of datasets for the abovementioned purposes. 
+ 
+Data analytics 
+Digital health technologies not only allow for the monitoring of vital parameters and diseases but can also be 
+integrated with broader datasets to deliver more insights into how environments, behaviours and diseases 
+are connected. Patient generated data outs ide of the clinical setting or data from trusted sources such as 
+public environmental agencies can be combined with health data to alert patients of circumstances which 
+ 
+3 Sohn A, Speier W, Lan E, Aoki K, Fonarow GC, Ong MK, et al. (2020) “Integrating remote monitoring into heart failure patients’ care 
+regimen: A pilot study”. PLoS ONE 15(11): e0242210, access here. 
+4 Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 
+2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 
+93/42/EEC, access here. 
+5 Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices  and 
+repealing Directive 98/79/EC and Commission Decision 2010/227/EU, access here. 
+Cardiac Implantable Devices 
+Cardiac Implantable Electronic Devices (CIEDs) are 
+used to monitor and manage ca rdiac arrhythmias. 
+These devices are surgically implanted into patients 
+and only require replacement after a few years. They 
+improve patients’ health and quality of life.  
+The CIED delivers a patient’s cardiac signals 
+wirelessly; data can be downloaded to smart devices 
+such as the patient’s smartphone. Novel algorithms 
+applied to the data allow to identify a patient’s 
+conditions that previously went undetected  or 
+could only be identified by specific tests. Data also 
+helps analyse the stability of the patient’s 
+condition, identify potential issues and to support 
+customisation of care pathways . This has greatly 
+expanded diagnostic capabilities and reduced the 
+costs of diagnosis, thanks to data analytics. 
+ 
+ 
+www.medtecheurope.org  Page 6 of 11 
+may negatively affect their well -being.6 This could 
+include, for example,  activity lev els, nutrition, or 
+weather conditions . The integration of individual 
+health data points with contextual information also 
+enables better insights into a patient's health history 
+and predicts future issues or co-morbidities.  
+ 
+Applying data analytics or artificial 
+intelligence/machine learning  (AI/ML) technologies 
+can identify clusters of patients with similar 
+characteristics, which can lead to new insights, 
+changes in treatment or adapted patient behaviours. 
+Comparable opportun ities are available at a 
+population level: the COVID -19 pandemic has 
+illustrated how large -scale datasets enable HCPs to 
+recognise patterns within populations and determine 
+better treatment much faster.  
+ 
+Data analytics , computing modelling & simulation , 
+and AI/ML will play a pivotal role to realise better 
+outcomes and healthcare systems .7 To grasp the 
+diversity of physiology, genetics, biochemistry, etc. 
+within populations, access to large scale datasets are 
+a critical requirement. Fusing relevant datasets 
+together and analysing them with state -of-the-art 
+Information and Communications Technology  
+solutions will help  increase HCPs ' understanding of 
+patients' conditions and likely trajectory. It helps to 
+paint a fuller picture of the persons' overall health 
+status, and to potentially identify other factors that 
+influence their condition. 
+ 
+6 The EU introduced the concept of high value datasets from public agencies and their easier availability in the proposed Open Data  
+Directive (2019), access here.  
+7 The substantial benefits of AI in healthcare, in terms of saved lives and efficiencies gained were detailed in the Deloitte/MedTech 
+Europe report The socio-economic impact of AI in healthcare (October 2020), available at the MedTech Europe website.  
+Medical technology and prediction/prevention 
+Modern hospital beds feature embedded 
+technologies that continuously monitor patients’ 
+vital signs . While monitoring improves care of the 
+patient, combining the data with other data sources  
+and AI -enabled technology  within the hospital 
+environment enables new predictive care 
+capabilities, such as identifying patients at risk 
+of developing life-threatening conditions or warn 
+anaesthesiologists during surgery if a drop in blood 
+pressure is imminent. They can then trigger timely 
+intervention by hospital staff to prevent progression 
+or deterioration. Access to data is key to improving 
+these technologies. 
+For patients with advanced chronic respiratory 
+conditions, data can even be analysed to detect 
+early deterioration of the patient condition , 
+enabling HCPs to drive appropriate intervention that 
+could prevent more severe progression. Data can 
+also help patients understand how their condition 
+is changing and recognise how their behaviours are 
+influencing their condition. 
+Medical alert systems with integrated activity 
+monitors help elderly people stay independent while 
+ensuring fast attention in case of need. Recording 
+and analysing patterns of movement allows AI/ML 
+systems to detect and predict falls or other 
+deteriorations with high levels of accuracy, and th us 
+help to prevent them, maintain quality of life, and 
+avoid cost for emergency interventions and 
+treatments. 
+ 
+ 
+www.medtecheurope.org  Page 7 of 11 
+Towards data-driven healthcare 
+Digitalisation is critical to realising compelling and 
+actionable insights from health data.  It helps to 
+standardise procedures, improve consistency,  and 
+reduce error. It also enables the monitoring and 
+comparing of p erformance and makes the practice 
+of healthcare more evidence-based and transparent. 
+It helps reduce operational costs by optimising 
+clinical pathways. In the future, diagnosis timelines 
+will be improved through faster data analysis and 
+improved data access.  
+Device connectivity and real -time data access 
+contribute to accelerated medical interventions. This 
+can be particularly important for certain situations , 
+such as cardiac monitoring or post -operative care 
+scenarios where a time-critical response from HCPs 
+may be necessary. Data fusion also has more 
+routine applications, such as in managing respiratory 
+conditions when prevailing environmental factors 
+such as particulate levels in the air may negatively 
+influence a patient's condition8. 
+ 
+Summary 
+In sum, digitalisation and the generation and processing of health data combined with other data sources 
+(e.g., data from the patient journey , including nutrition, environment , or genomics ) offer substantial 
+opportunities to advance healthcare and make it better, safer, more efficient and, thus, more sustainable. 
+Every day, data from medical devices enables better care for patients by supporting effective treatments, 
+enhancing diagnostics, facilitating remote patient monitoring, and enabling personalised care, which in turn 
+leads to a better quality of life. It also makes healthcare greener, by avoiding routine doctor visits, by 
+preventing hospitalisations, and by moving data instead of people.  The secondary use of health data for 
+Research & Innovation (R&I) may lead to yet unthinkable insights and solutions in medical science and 
+benefits for humankind.  
+ 
+8 Anderson, J.O., Thundiyil, J.G. & Stolbach, A. Clearing the Air: A Review of the Effects of Particula te Matter Air Pollution on Human 
+Health. J. Med. Toxicol. 8, 166–175 (2012), access here. 
+Digital surgery 
+Digital surgery represents the convergence of surgical 
+procedures with information and communications 
+technologies, robotics, intelligence , and data to improve 
+surgical precision, performance, and patient outcomes.  
+Digitalising procedures enables the generation of data at 
+each step of the surgical procedure . The physician still 
+executes the procedure, but there is a digital overlay which 
+provides input to the physician during the process. The data 
+can be used to document how surgeons make decisions, to 
+benchmark team performance in hospitals, to flag 
+procedural innovations, and to develop best practices that 
+can train other surgeons.  
+Data-driven insights and learnings provide an objective 
+and quantifiable approach  that replaces a more 
+subjective, opinion -driven interpretation  of performance. 
+Ultimately, b y reducing variability in the operating room , 
+patients will benefit from consistent care. 
+ 
+ 
+www.medtecheurope.org  Page 8 of 11 
+3. Addressing legal barriers to effective data-driven healthcare  
+Many opportunities that can be derived from sharing and using health data are constrained by legal barriers. 
+Aggregating health data from different sources and across regional or national borders is often difficult in 
+practice. Making the digital health transformation a European reality requires addressing these barriers. 
+ 
+There is a  need for legal certainty  regarding the r ules under which the medical technology industry can 
+collect, process, and share health data. The GDPR plays a critical role in protecting the interests of individuals 
+over their data and establishing rules for the processing of personal data (including health data).9 However, 
+the implementation and interpretation of the Regulation, including its inconsistent application across the EU 
+Member States, create considerable uncertainties which result in barriers to health data use and additional 
+compliance costs.10 
+ 
+Medical technology companies face d ifficulties in accessing and sharing data for secondary use purposes. 
+For example, when they provide services to HCPs or hospitals, they may act as processors of personal data. 
+In this scenario, the companies may not be able to use the personal data for R&I purposes, as it is unclear 
+to what extent the GDPR allows access for such use. Similarly, medical technology companies are required 
+to engage in pre - and post -market clinical investigations and studies, which require the coll ection and 
+processing of sensitive data, access to which is not ensured.  
+ 
+Additionally, medical technology companies have specific obligations regarding vigilance and safety 
+reporting. The MDR and the IVDR impose post-market surveillance obligations on medical technology  
+companies. Both regulations demand better data collection and more use of data analytics (i.e., descriptive, 
+diagnostics, predictive and prescriptive analytics) and data science ( e.g., AI/ML with data processing 
+capabilities). GDPR requirements are not always in tune with the se MDR and IVDR expectations, and it is 
+unclear to what extent MDR  and IVDR can serve as a stand -alone legal basis under art. 9, 2, i) and j) of 
+GDPR, for the processing of health data by medical technology  manufacturers.11 There is a need for 
+consistency and further clarification of, on the one hand, the interplay of the GDPR with the MDR and IVDR, 
+and on the other, how medical technology companies can use the regulations as a legal basis to process 
+personal data under the GDPR, to the advantage of citizens, patients, and the healthcare system.  
+ 
+Due to this, MedTech Europe is calling on European and national policymakers to act. Clarification and more 
+consistent application of the GDPR across Europe is urgently needed, especially on the following issues: 
+• The rules on processing health data  for healthcare delivery (primary use) and for research and 
+innovation purposes (secondary use) for the medical technology industry; not only with a focus on 
+ 
+9 Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with 
+regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Da ta 
+Protection Regulation), access here. 
+10 The February 2021 report Assessment of the EU Member States’ rules on health data in the light of GDPR  showed how unevenly 
+Member States apply the GDPR, access here.  
+11 The GDPR prohibits processing of personal data unless certain conditions apply, for example “processing is necessary for reas ons 
+of public interest in the area of public health” (GDPR article 9,2,i) or “processing is necessary for archiving purposes in the public interest, 
+scientific or historical research purposes or statistical purposes” (GDPR article 9,2,j). 
+ 
+ 
+www.medtecheurope.org  Page 9 of 11 
+existing medical technologies but also for the development of new ones based on existing data that 
+currently cannot be used. 
+• The legal basis for processing health data under the GDPR, both regarding the extent the MDR 
+and IVDR can serve as a stand -alone legal basis (see art. 9 (2) (j)) potentially complemented by 
+appropriate harmonised guidelines, and regarding the misapprehension of many stakeholders of the 
+difference between informed consent to participate in a clinical study and consent as one of (multiple) 
+legal bases available under the GDPR.  
+• Anonymisation and pseudonymisation , where clear guidance  in the form of harmonised 
+guidelines, standards, or technical specifications is needed, for example, regarding the requirements 
+for the appropriate level of data minimi sation or obfuscation that preserves privacy while also 
+retaining the usefulness of the data for analytic purposes. 
+• The exceptions for public interest and preventive medicine , in particular, with regards to 
+research conducted by medical technology companies; 
+• Transfers of health data , in particular for research purposes within and outside the European 
+Economic Area.12 
+ 
+The European Health Data Space  presents an opportunity to bui ld a clear legal framework for medical 
+technology industry data use . Data access for industry should be carefully aligned to a clearly defined 
+description of permissible and non -permissible data uses. Clear rules and guidelines  would define the 
+responsibilities and obligations of all stakeholders. There should be a common understanding of the interplay 
+between the MDR and IVDR and the GDPR, as well as a common approach on how the medical technology 
+industry is allowed to access and use health data for specific purposes (e.g. R&I) for the joint benefit of 
+patients, HCPs and healthcare systems. In paving the way for data sharing, the legal framework should 
+respect intellectual property and competition  law: companies accessing health data should not be required 
+to disclose the purposes of their research project in a way that would reveal business -sensitive or IP -
+protected information to their competitors. 
+Ideally, this legal framework would involve a co llaboration of the medical technology industry, national and 
+European authorities, and all relevant stakeholders, including healthcare providers, with the objective of a 
+fair and consistent application of laws and regulations, including business suitable a nd secure cross-border 
+data access flows and sharing.  With appropriate mechanisms for compliance and data security, this legal 
+framework should inspire public confidence and trust by reassuring citizens, patients, and HCPs that personal 
+health data is only used for appropriate and legitimate purposes.  
+MedTech Europe calls on the EU to take on a coordinating role to realise the full potential of health 
+data. Aligning inconsistent national strategies through an EU -wide governance framework will enable the 
+harnessing of health data in a resource- and cost-effective way.  
+ 
+12 Consider Innovation Without Borders: The Importance of Transatlantic Data Flows to Healthcare Innovation and Delivery, Discussion 
+paper by MedTech Europe, IPMPC, EFPIA and Advamed, December 2020), access here. 
+ 
+ 
+www.medtecheurope.org  Page 10 of 11 
+4. Conclusion 
+The European Health Data Space (EHDS), has the potential to be a major driver towards better access to, 
+sharing and use of health data.13 It has generated renewed interest in the potential of health data and there 
+is a growing consensus that health data requires special consideration. While personal health data requires 
+strict protection and security and should be subject to individual control, aggregated and anonymised health 
+data is a powerful resource with enormous potential, and should in fact be considered a public social good. 
+Recent European multistakeholder initiatives have resulted in calls for appropriate data governance that 
+strikes a new balance between the needs of the individual and the benefits of health data use for society.  
+There is a significant cost of not sharing health data.14 
+The EHDS offers  a considerable opportunity to build a health data ecosystem. The EU is pursuing a 
+comprehensive strategy that addresses several issues, including investment in infrastructure and security, 
+momentum towards standards and interoperability, and initiatives towards building digital literacy, trust, and 
+skills. At the heart of this strategy is legislation that will need to build a robust and consistent legal basis for 
+the exchange of health data  among the EU Member States and compliant Third Countries, includin g better 
+alignment of the Member States' implementation of the GDPR. 
+The EHDS will give new impetus to health data use  and could be a gamechanger for Europe's healthcare 
+systems. If it addresses the barriers discussed in this paper  and establishes a stable data governance 
+framework based on European values that appropriately balance data protection with innovation, it will boost 
+the competitiveness of the European medical technology  industry and establish Europe as the premier 
+location for healthcare research and development. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About MedTech Europe 
+MedTech Europe is the European trade association for the medical technology industry including 
+diagnostics, medical devices and digital health. Our members are national, European and multinational 
+companies as well as a network of national medical technology associations who research, develop, 
+manufacture, distribute and supply health-related technologies, services and solutions. 
+ 
+Contact: Michael Strübin, Director Digital Health, m.strubin@medtecheurope.org   
+ 
+13 MedTech Europe Response to the Inception Impact Assessment on the European Health Data Space  (3 February 2021) , access 
+here. 
+14 See for example the Calls to Action On Health Data Ecosystems – Recommendations From Multi -Stakeholder Round Tables 
+(February 2021) from the Digital Health Society and the European Institute for Innovation Through Health Data (I~HD), available online, 
+or the forthcoming recommendations from the Digital Health Europe project ( https://digitalhealtheurope.eu/). More information about 
+Data Saves Lives is available at https://datasaveslives.eu/.  
+ 
+ 
+www.medtecheurope.org  Page 11 of 11 
+ 
+List of acronyms 
+ 
+AI Artificial Intelligence 
+CIED Cardiac Implantable Electronic Device 
+CGM Continuous Glucose Monitoring 
+EHDS European Health Data Space 
+GDPR General Data Protection Regulation 
+HCPs Healthcare Professionals 
+IP Intellectual Property 
+IVDR In-vitro Diagnostic Device Regulation 
+MDR Medical Device Regulation 
+ML Machine Learning 
+R&I Research and Innovation 
+ 

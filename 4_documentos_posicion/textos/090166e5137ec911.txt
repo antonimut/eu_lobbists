@@ -1,0 +1,131 @@
+ 
+ 
+ 
+Hager group statement to call for evidence on MID targeted amendment 
+ 
+Hager group welcomes a targeted revision of the measuring instrument directive to adapt them to current 
+markets and technologic needs and consequently to avoid national regulations which acts against a well 
+functioning single market. 
+Considering electricity energy metering we welcome the explicit definition of direct current meters as part 
+of the directive and the definition of essential requirements for E-Mobility charging. 
+As the MID revision shall help the energy transition by empowering consumers to make full use of 
+decentralized production from small-scale renewables and of new energy services/schemes such as 
+demand response and energy communities, an overlap of requirements should be avoided. This is 
+particularly true for EVSE used in private location and seen as a major flexibility potential and according 
+EU Network Code Demand Response to be measured with a dedicated measurement device. For this 
+application neither the EVSE nor the dedicated measurement device should be in the scope of the new 
+created annex Va but remain in annex V. To avoid any confusion we propose to limit the scope of annex 
+Va to EVSE used in the context of the AFIR. 
+ 
+In details: 
+ 
+New annex to cover measuring systems for electric vehicle supply equipment (EVSE) 
+We welcome the addition of a new annex to cover the new use cases of charging an electrical vehicle. The scope of 
+this new annex should nevertheless be as clear as possible as: 
+- there will be EVSE without any metering (charging@home behind the utility meter) 
+- there will be EVSE using annex V meters for informative or energy management applications 
+- there will be EVSE using annex V meters as a Dedicated Measurement Device as define in the EU Network 
+Codes Demand Response to be able to provide flexibilities 
+- … 
+To avoid confusion with the above listed application we propose to limit the scope to EVSE used in the context of the 
+charging infrastructure according to Alternative Fuels Infrastructure Regulation (AFIR, Regulation (EU) 2023/1804) 
+Transposition and entry into force 
+We are in favor of a transposition time for the member states of 12 month after publication in the OJEU and an entry 
+into force 24 month after publication considering that the modification are limited and the market is moving rapidly. 
+Nevertheless we are also asking for a transition period for national type approval certificates published before the 
+entry into force until their expiry with a maximum of 10 years. 
+Annex I: amendment of the definition of Direct Sales 
+If the deletion of “the place of transaction” is done to reflect the technical evolution that the second party involved in 
+the transaction is not at the place of the transaction e.g. CPO backend validating the direct payment it may make 
+sense. 
+Nevertheless is the modification is made to enable that the measurement is interruptible or the display enabled to 
+be resetted to zero or to include the requirement of presentation of the measurement result to both parties in the 
+transaction, it may not be the best approach. 
+ 
+It should be considered that in the EVSE use case there will be direct sales and non direct sales using the same 
+EVSE and the same measuring system. See also our comment on annex I point 10.4. 
+Annex I: amendment of the definition of Utility 
+We support the fact to consider that the index of meters used for other use case than Utility metering may be re-
+settable. Nevertheless hybrid meters with one non-resettable index (e.g. total index) and one resettable index should 
+be considered and allowed to be used as Utility meters. 
+Annex I: adjustment of point 8.4. on measurement data and software protection 
+To be in line with the aim of this revision and remained focused the proposed modification to ensure availability and 
+authenticity should be integrated into annex Va. 
+Annex I: adjustment of point 10.2. on the indication of results 
+The inclusion of protection against accidental deletion should be limited to meters with a resettable index. 
+Annex I: adjustment of point 10.4. on the presentation of results for direct sales trading transactions 
+The adjustment of this point is directly linked with the modification of the definition of direct sales. It should be 
+considered that for one and the same EVSE we may have the possibility to pay directly after the transaction and in 
+this case to be considered as “direct sales” or to be charged by a service provider for example at the end of the 
+month (e.g. toll collection in France may be made directly at the tollgate or by an electronic toll collection billed once 
+a month). When using a service provider the data is presented on the bill but not immediately. 
+More flexible rules on display requirements for electricity meters and for measuring systems for EVSE 
+We welcome the possibility to adapt the way of displaying to the technical evolution. The more flexible rules should 
+Ref. Ares(2024)7431168 - 18/10/2024
+
+ 
+ 
+consider two possibilities: 
+1- The meter has no display at all: in this case the remote display shall be metrologically controlled 
+2- The meter has a display (which can be read out in case of doubt) and this display is reported to a remote 
+display or software application for more convenience in a daily use: in this case the remote display/software 
+app is not metrologically controlled 
+In both cases it should be possible to use and additional interface (for transmission purposes) between the 
+measuring instrument and the display 
+Annex V: clarification of the requirements and the definitions to ensure that it is clear that both AC/DC, and 
+bidirectional are included in the scope of the Annex 
+We welcome the clarification or the explicit inclusion of DC energy meters in annex V 
+Annex V: in Table 2 extension of operating temperature to all, below -25 and above +55 Celsius 
+Our interpretation of the foreseen modification is that you want to limit the table to two columns one with “-25 °C to 
++55°C” and the second on with “-40 °C to +70 °C” 
+Annex V: deletion of points 5.1, 5.2 and 5.3 as they are redundant requirements within the Annex or with 
+other annexes 
+We are thinking that this points shouldn’t be deleted as we didn’t find any redundancy 
+Annex V: adjustment of point 4.3 on short duration disturbances: rewording of the title and correction of the 
+critical change calculation for future-proofing 
+This point is too generic so that we are missing details to be able to take position 
+Annex Va: definition of EVSE Measuring systems 
+In regard to the “specific transfer point” the proposed definition is confusing. We proposed to fine tune the definition 
+considering the two existing possibilities:  
+1- EVSE with a fixed socket outlet: in this case the transfer point is the socket outlet 
+2- EVSE with an attached cable: in this case the transfer point is the plug at the end of the attached cable 
+Annex Va: other definitions such as I, Ist, Imin, Itr, Imax, U, Un, f, fn, PF, ripple, harmonic, d, MMQ, transfer 
+point 
+There is, from a metrological point of view no need to change even adapt the already defined parameters. 
+A modification may lead to a confusion in particular when the metrology for the measuring system is provided by a 
+separately approved meter according annex V. 
+The proposed reduced range between Ist and Imax may have been made on the assumption that the EV lowest  
+charging current is 6 A as specified in the EVSE standard. Having analyzed a wide range of EV charging behavior 
+the charging current is even often going down to 1 A which means for an 32 A Imax  a factor 32. 
+In addition the use case of bidirectional charging will tend to have a bigger range than the proposed factor 10. 
+It should also be considered that in some member states EVSE have to provide a possibility to charge electrically 
+powered transport devices for use on public roads or in public spaces which de facto have a low charging current 
+which would need a bigger factor between Ist and Imax.  
+ 
+In conclusion our statement is that the parameters already defined and use in annex V should remain unchanged  
+Annex Va: regarding operating requirements, alternatives are presented for measuring systems to 
+compensate for energy loss from the cable and connector mounted between the energy measuring point 
+and the transfer point: 
+Considering the losses in the cable above a specific EVSE power makes sense. We propose to consider cable 
+losses above 50 kW charging power as follow: 
+1- Using a 4-wire measurement at the transfer point 
+2- Compensating the power losses of the cables in the measurement system 
+For the second case: 
+- If the cables are not replaced they are sealed by a metrological seal during the calibration of the measuring 
+system 
+- If the cable are replaceable, the cable characteristics are clearly identified in the type approval and  the type 
+is defined in the manufacturer documentation or labelled on the measuring system. In this case a installer 
+seal is sufficient 
+Annex Va: when exposed to disturbances, the measuring system shall 
+This point is not clear enough to be able to take position but the essential requirements should be coherent with 
+annex V 
+Annex Va: regarding putting into use 
+As the use case considered in annex Va is EV charging, there is no reason to differentiate according to the location 
+of the EVSE between the residential and commercial. We propose to set the requirement to class A without 
+considering the location as it is state of the art in the national requirements in Germany. 
+Annex Va: the manufacturer can choose between B+F, B+D or H1 procedures to perform the conformity 
+assessment 
+We welcome the proposed modules for the conformity assessment which is in line with Annex V 
+ 
+ 
+ 

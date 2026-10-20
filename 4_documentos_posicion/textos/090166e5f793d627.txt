@@ -1,0 +1,792 @@
+ 
+ 
+No. B 2400 
+November 2020 
+ 
+ 
+LCA analysis of different WWTP processes 
+  
+Magnus Rahmberg, Sofia Lovisa Andersson, Erik U Lindblom and Kristin Johansson 
+ In cooperation with INCOPA 
+  
+Ref. Ares(2023)979523 - 10/02/2023
+Author: Magnus Rahmberg, Sofia Lovisa Andersson, Erik U Lindblom and Kristin Johansson, IVL 
+Funded by: INCOPA 
+Photographer: IVL 
+Report number B 2400  
+ISBN 978-91-7883-231-6 
+Edition Only available as PDF for individual printing 
+ 
+© IVL Swedish Environmental Research Institute 2020 
+IVL Swedish Environmental Research Institute Ltd.  
+P.O Box 210 60, S-100 31 Stockholm, Sweden 
+Phone +46-(0)10-7886500  //  www.ivl.se 
+ 
+This report has been reviewed and approved in accordance with IVL's audited and approved 
+management system. 
+ 
+ 
+ 
+Preface 
+This work has been made possible thanks to support from INCOPA, the European inorganic 
+coagulants producers association, and the foundation SIVL.  
+We would like to thank for the collaboration we had with INCOPA and in particular Bengt 
+Hansen, KEMIRA and Caroline Andersson, INCOPA. 
+  
+ 
+ 
+Table of contents 
+Summary ................................................................................................................................ 5 
+Sammanfattning..................................................................................................................... 6 
+1 Introduction .................................................................................................................... 7 
+2 Objective ......................................................................................................................... 7 
+3 Method ........................................................................................................................... 8 
+3.1 Process modelling.............................................................................................................................. 8 
+3.1.1 Effluent discharge criteria ......................................................................................................... 8 
+3.1.2 Process configuration ............................................................................................................... 9 
+3.1.3 Volume calculations ................................................................................................................ 10 
+3.1.4 Models used ............................................................................................................................ 11 
+3.1.5 Load ........................................................................................................................................ 11 
+3.1.6 Control strategies .................................................................................................................... 14 
+3.1.7 Modelling different coagulants ............................................................................................... 14 
+3.2 Life Cycle Assessment - LCA ............................................................................................................. 15 
+4 Results ........................................................................................................................... 17 
+5 Conclusions ................................................................................................................... 20 
+6 References .................................................................................................................... 21 
+Appendix 1 ........................................................................................................................... 22 
+ 
+ 
+ 
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+5 
+Summary 
+Wastewater treatment plants have the main objective to treat the incoming wastewater to meet 
+specified discharge criteria. Different process configurations requiring different amount of 
+resources such as energy and chemicals can be used. The selection of process configuration can also 
+impact the amount of energy produced from digestion of the sludge to biogas.  
+In this study, Life Cycle Assessment (LCA) has been used to calculate the environmental impact of 
+operation of three different process configurations for phosphorus removal from wastewater; pre-
+precipitation, simultaneous precipitation and enhanced biological phosphorus removal (Bio-P) to 
+two different effluent standards regarding total phosphorus: 1 mg P/L and 0.3 mg P/L. Pre -
+precipitation and simultaneous precipitation are based on phosphorous removal by addition of 
+chemicals in different locations along the treatment process, Bio-P is based on removal by 
+additional uptake of phosphorus by specialized bacteria. Both iron and aluminium based 
+precipitation chemicals were studied.      
+Operational data in the form of direct emissions to water and air, energy consumption, chemical 
+consumption, production of sludge and biogas were generated by dynamic process simulations. 
+The operational data were used in the LCA to calculate the environmental impact in five different 
+impact categories, where global warming potential (GWP) also known as carbon footprint, was 
+one.  
+The results show that pre-precipitation gives the lowest GWP per m
+3 of treated water for both 
+effluent standards. Bio-P gives the highest GWP. Pre-precipitation results in a higher removal of 
+pollutants in the primary sedimentation which is positive from two perspectives: lower load on the 
+biological treatments resulting in lower energy consumption in this treatment step and a higher 
+methane production in the digestion process. Pre-precipitation had the lowest energy consumption 
+and the highest methane production of the three configurations.  
+The lower effluent standard resulted in higher GWP for all three configurations with still lowest 
+values for pre-precipitation and highest for Bio-P.  
+The choice of energy source is an important factor for several impact categories. A change of the 
+source of electricity from European average electricity mix to 100% hydropower, decreases the total 
+GWP of operating the process configuration with 50%.  
+ 
+ 
+  
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+6 
+Sammanfattning 
+Avloppsreningsverk har som huvudsyfte att rena avloppsvatten för att uppfylla kraven på 
+utgående vattenkvalitet. För att uppnå detta kan olika processer tillämpas. Olika processlösningar 
+ger olika miljöpåverkan i form av bland annat energiförbrukning och kemikalieförbrukning. I 
+tillägg kan olika mycket energi produceras från avloppsslam genom rötning till biogas, beroende 
+på val av processlösning. 
+I denna studie har livscykelanalys (LCA) använts för att beräkna miljöpåverkan från tre olika 
+processkonfigurationer för rening av fosfor från avloppsvatten; förfällning, simultanfällning och 
+biologisk fosforrening (s.k. Bio-P) till två olika halter utgående totalfosfor; 1 mg P/L och 0,3 mg P/L. 
+De två första konfigurationerna använder fällningskemikalier för avskiljning av fosfor, medan den 
+tredje inte använder någon kemikalietillsats utan utnyttjar särskilda bakterier fö r extra upptag av 
+fosfor. Både järnbaserad och aluminiumbaserad fällningskemikalie har studerats.  
+Driftdata i form av emissioner till vatten och luft, energiförbrukning, kemikalieförbrukning, 
+produktion av slam och biogas har genererats genom dynamisk processimulering. Driftdata har 
+sedan använts som indata till LCA:n för beräkning av miljöpåverkan i fem olika kategorier där 
+klimatpåverkan varit en kategori.   
+Resultaten visar att processkonfigurationen med förfällning gav lägst klimatpåverkan per m3 renat 
+avloppsvatten medan biologisk fosforrening gav högst klimatpåverkan. Anledningen till att 
+förfällning gav lägst miljöpåverkan beror på att mer föroreningar avskiljs i försedimenteringen 
+vilket är positivt ut två aspekter: minskad belastning till biologin och således mindre 
+energiförbrukning i det biologiska reningssteget och ökad biogasproduktion. Förfällning hade 
+både lägst energiförbrukning och högst metanproduktion av de tre studerade konfigurationerna. 
+Skillnaden mellan simultanfällning och biologisk fosforreduktion var mindre än mellan dessa och 
+förfällning. 
+Den inbördes ordningen mellan konfigurationen var densamma vid båd a utsläppskraven, men 
+klimatpåverkan ökade för scenariot med hårdare utsläppskrav.  
+Val av energikälla är en viktig faktor för flera miljöpåverkanskategorier. En ändring i elmix från 
+europeisk medel-el till 100 % vattenkraft gav en minskning i klimatpåverkan med 50 %.  
+ 
+ 
+  
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+7 
+1 Introduction 
+It is well known that municipal wastewater treatment plants (WWTPs) consume energy in their 
+processes, but also has a potential to produce energy in the form of biogas. There are a number of 
+“standard” process solutions when treating wastewater depending on wastewater quality, 
+treatment requirements, available space and perception on what is a good solution or not.  
+With chemical treatment it is possible to remove more phosphorus, produce more biogas, reduce 
+energy consumption in biological treatment and make a more compact plant. Still , chemical 
+treatment is perceived as a less preferred solution in many cases as chemicals comes to a cost and 
+an environmental footprint. Therefore, a process without chemical addition is therefore usually 
+more attractive.  
+Professor Halvard Ødegaard and Ingemar Karlsson raised this question more than 20 years ago 
+(Ødegaard & Karlsson, 1994; Ødegaard, 1995) and their conclusion was that a combined 
+chemical/biological treatment process is more environmentally friendly than a biological process 
+only. Since then, the Life Cycle Assessments (LCA) tools have been improved, new learnings on 
+how to operate WWTPs are known and technologies have improved. The requirements of treated 
+water have also become stricter in some areas. It is therefore of value to, from an LCA perspective, 
+re-evaluate different WWTP processes with the new information available today. 
+Dynamic process models are advantageous for this type of evaluation as different process 
+configurations can be simulated using the same incoming flow and pollutant load  and the yearly 
+variations can be traced. The models can give estimations of resource consumption, effluent 
+concentrations, sludge production and quality and biogas production.  
+2 Objective 
+The objective of this study is to compare the environmental impact of treating wastewater to two 
+different levels of effluent quality (total phosphorus concentration 1 mg P/L and 0.3 mg P/L) in 
+three different process configurations using dynamic process modelling and life cycle assessment.  
+The three different processes studied are: 
+1. Pre-precipitation (PrePrec) 
+2. Simultaneous precipitation (SimPrec) 
+3. Biological Phosphorous Removal (Bio-P) 
+The incoming water quality is the same in all scenarios and automatic process control in the 
+models was used to achieve similar treatment results for the different processes. 
+Pre-precipitation gives less load in the biological treatment step and increased biogas production, 
+while simultaneous precipitation has the advantage that incoming carbon source can be used for 
+pre-denitrification and it is possible to build up a buffer of precipitation metal in the sludge, but 
+the disadvantage that larger biological volume is needed (to compensate for higher load and that 
+metal in the sludge takes up part of the volume). Bio-P has the advantage that no chemicals are 
+used while the configuration requires larger volumes and more pumping. The aim of the pro ject 
+was to quantify the differences between the configurations in the form of environmental impact in 
+five categories. 
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+8 
+3 Method 
+To calculate the environmental impact the process layout in combination with process modelling 
+and LCA needs to be in place. This combination is illustrated in Figure 1.  
+ 
+Figure 1. Schematic of the combinations of the different methods. 
+A detailed description of the different methods is given in the sections below.  
+3.1 Process modelling 
+The starting point for the process modelling was a full-scale Swedish wastewater treatment plant 
+with a simultaneous precipitation configuration (Henriksdal WWTP, 780 000 P.E. (Personal 
+Equivalent), Inflow 250 MLD (Megaliters per Day)). Data on influent wastewater characteristics, 
+coagulant dosage, sludge production, sludge concentrations, effluent quality, energy data and 
+biogas production were collected and used in calibrating the model. Some adjustments to volumes 
+and operating conditions were done to more resemble standard European conditions.  
+3.1.1 Effluent discharge criteria 
+The baseline scenario for the discharge criteria is compliant with the Urban Waste Wat er Treatment 
+Directive for plants larger than 100 000 P.E. releasing effluent to sensitive areas, (UWWTD, 1991). 
+Limits for Biological Oxygen Demand (BOD), total Nitrogen (TN) and total Phosphorus (TP) are 
+studied. All three processes are also operated to reach a lower effluent phosphorus concentration. 
+Discharge criteria are based on yearly average concentrations. The effluent concentrations used as 
+criteria for the simulations are presented in Table 1. 
+Table 1. Effluent discharge criteria as yearly average concentrations.  
+Scenario BOD5 TN TP 
+Baseline 25 g/m3 10 g/m3 1 g/m3 
+Stricter P 25 g/m3 10 g/m3 0.3 g/m3 
+ 
+
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+9 
+It should be noted that a Phosphorus removal without chemical addition, so called Biological 
+Phosphorus Removal (Bio-P), is difficult to control to reach a certain effluent standard regarding 
+phosphorous concentration, without a tertiary polishing step. Chemical dosing enables a higher 
+level of control of effluent phosphorous concentration.  
+3.1.2 Process configuration  
+In this project three different processes are studied: 
+1. Pre-precipitation. Precipitation chemical is added prior to primary sedimentation.   
+2. Simultaneous precipitation. Precipitation chemical is added in the biological 
+treatment.   
+3. Biological Phosphorous Removal . No precipitation chemical added.  
+The modelling of the three processes all include primary sedimentation, activated sludge process, 
+secondary sedimentation and anaerobic digestion. Reject water from thickening and dewatering of 
+sludge is added to the inlet (prior to pre-sedimentation). Polymers are added in both the thickening 
+and dewatering of sludge processes. The activated sludge process is a pre -denitrification process 
+without addition of external carbon source. Pre-treatment steps (screens, grit and grease removal) 
+are not included in the dynamic process models. 
+The configurations of each alternative are presented for the Baseline scenario in Figure 2. 
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+10 
+A.  
+B.  
+C.  
+Figure 2. A. Process configuration for Pre-precipitation. B. Changes in configuration to simultaneous 
+precipitation. C. Changes in configuration to Biological phosphorus removal.  
+For the Stricter phosphorus scenario, the process configuration is complemented with sand 
+filtration as a final polishing step after secondary sedimentation. An additional floccu lant dosage 
+point is also added just before the sand filters.  
+3.1.3 Volume calculations 
+The volumes from Henriksdal WWTP in Sweden has been used as reference. The reference plant is 
+operated at a sludge concentration in the biology of about 2 500 g SS/m3. This is low compared to 
+standard European situations where 4000 g SS/m3 is considered normal. Thus, the volumes for 
+ANOX and NIT/OX has been adjusted with a factor 2500/4000 = 0.625 in order  to resemble normal 
+volumes required when operating at a sludge concentration of 4000 g SS/m3. In addition, the size of 
+the secondary sedimentation tank has been designed based on surface loading rate 0.6 m/h and 
+depth 4 m.   
+
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+11 
+With pre-precipitation, the load to the biology will be lower compared to a plant with 
+simultaneous precipitation. Therefore, this alternative has smaller volumes compared to the other 
+two alternatives. The criteria for the new volume was to maintain the aerated sludge age. With Bio -
+P removal an additional anaerobic compartment has been added, resulting i n a larger total volume 
+for the Activates Sludge Process (ASP). 
+In the models, the anoxic volume (ANOX) is divided into two compartments and the aerated 
+volume (NIT/OX) is divided into three compartments. The added anerobic volume in the Bio- P 
+alternative is modelled as one separate compartment prior to the first anoxic compartment.   
+Table 2. Total volumes used in modelling of the three processes.  
+Total volumes, m3 Pre-
+precipitation 
+Simultaneous 
+precipitation Bio-P 
+Primary Sedimentation 30 000 30 000 30 000 
+AN N/A N/A 47 000 
+ANOX 56 000 56 000 60 000 
+NIT/OX 30 240 54 000 54 000 
+Secondary Sedimentation 75 000 75 000 75 000 
+Anaerobic digester 32 000 28 500 31 000 
+ 
+The volume of the anaerobic digester was adjusted to maintain on average a  hydraulic retention 
+time (HRT) of 20 days.  
+3.1.4 Models used 
+The process modelling has been carried out in the software SIMBA#water.  
+For the biokinetics an extended version of ASM1 (Activated sludge model no 1, Henze et al, 2000) 
+called ASM_inCTRL (Schraa et. al., 2016) was used. This is a mature engineering model 
+continuously updated and it includes biological phosphorus removal and the possibility to add 
+both iron and aluminum-based precipitation chemicals.  
+Anaerobic digestion was modelled using a simple model calculating the biogas production based 
+on biodegradable Chemical Oxygen Demand (COD), temperature, retention time and pH. 
+Sand filtration was modelled with a separate dosage of coagulant on the effluent followed by a 
+small storage tank to provide a hydraulic retention time followed by a fixed separation of solid s 
+(setting 80% removal of solids). The reject water including the solids were set to have a 
+concentration of 200 g TSS/m
+3 resulting in a reject/wash water flowrate corresponding to 5.6% of 
+effluent flow, which is similar as the reference plant (5.6%).  
+3.1.5 Load 
+Flow and load are based on data from the reference plant, see Table 3. As it is situated in Sweden, 
+the flow is typical for Nordic conditions, with high infiltration of stormwater runoff and ground 
+water, cold temperatures during winter and a snow-melting period in the spring. It is a combined 
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+12 
+sewer system for wastewater and stormwater. In Sweden phosphorus load to treatment plants are 
+relatively low as a result of upstream work (e.g. removal of phosphorus in detergents). 
+Table 3. Flow and load to the treatment processes as yearly average. 
+Parameter Unit Load, constant  Load, average of 
+dynamic data 
+Q m3/d 270 000  250 665  
+TSS g/m3 310  313  
+COD g/m3 500*  516  
+TN g/m3 40  45  
+TP g/m3 6  6.7  
+*TOC measurements x 3.3. 
+The dynamic inflow for one year is presented in Figure 3. 
+ 
+Figure 3. Inflow used to model the scenarios (15 min resolution).  
+ 
+  
+0
+100000
+200000
+300000
+400000
+500000
+600000
+700000
+800000
+900000
+1000000
+0 50 100 150 200 250 300 350
+m3/d
+days
+Inflow
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+13 
+Influent concentrations are based on a fixed load per day for COD, TN and TP and a specific lo ad 
+profile for daily variation. The loads were divided by inflow to get concentrations ( Figure 4). 
+ 
+ 
+ 
+Figure 4. Influent concentrations of COD (top), TN (middle) and TP (bottom). Resolution 15 minutes.  
+Average temperature was 17.2 degrees C, yearly variation is shown in Figure 5. 
+ 
+Figure 5. Temperature variations for one year. Resolution 15 minutes.  
+  
+0
+200
+400
+600
+800
+1000
+0 50 100 150 200 250 300 350
+mg/L
+days
+COD
+0
+20
+40
+60
+80
+100
+0 50 100 150 200 250 300 350
+mg/L
+days
+TN
+0
+5
+10
+15
+0 50 100 150 200 250 300 350
+mg/L
+days
+TP
+0
+5
+10
+15
+20
+25
+0 50 100 150 200 250 300 350
+°C
+days
+Temp
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+14 
+3.1.6 Control strategies 
+In order to compare the results from the different alternatives priority was set on achieving similar 
+effluent concentrations for each modelled alternative. In order to control the effluent 
+concentrations, the following control strategies have been implemented in the model: 
+1. Ammonium based aeration control . Effluent ammonium concentration is used to 
+adjust the aeration in the NIT/OX compartments. Setpoint 1 g NH 4-N/m3. Maximum 
+dissolved oxygen (DO) setpoint was set to 3.5 g O2/m3. 
+2. Nitrate control. Effluent nitrate concentration is used to adjust the nitrate 
+recirculation flowrate. Setpoint was 7 g NO3-N/m3. Nitrate recirculation maximum 
+flowrate was set to 4xQin. 
+3. Phosphate control. Effluent phosphate measurements are used to control dosage of 
+precipitation chemicals. The setpoint was 0.35 g PO4-P/m3 for dosage control. The 
+effluent phosphate concentration is difficult to control when using biological 
+phosphorous removal. For this configuration, the volumes of the different 
+compartments and the recirculation flow rates were manually adjusted to reach close 
+to the target effluent concentration.  
+4. Sludge concentration control. Suspended solids concentration in the biology is used 
+to control the waste activated sludge flowrate in order to have similar solids loading 
+rate to the secondary clarifier. In the modelling it was assumed that the sedimentation 
+properties are similar for the diff erent processes, i.e. that the secondary sedimentation 
+can handle 4 000 g/m3 regardless of the biological process.   
+In Table 4 the setpoints are summarized. 
+Table 4. Different setpoints used in the control of the WWTP.   
+Scenario Setpoint  
+TSS Bio (WAS 
+control) 
+Setpoint Eff 
+NO3 (Q rec 
+control) 
+Setpoint Eff PO4 
+(Precipitation 
+dosage control) 
+Setpoint Eff 
+NH4 (aeration 
+control) 
+Baseline < 4000 g/m3 7 g/m3 0.35 g/m3 1 g/m3 
+Stricter P < 4000 g/m3 7 g/m3 Addition of sand filter 1 g/m3 
+3.1.7 Modelling different coagulants  
+Two types of coagulants are considered; iron source and aluminum source. In the models, the 
+products will contribute to different sludge productions. This is considered in the model (g 
+product and g Fe or Al are included). If nothing else is mentioned ferric salts are used in the 
+chemical treatment as a coagulant. 
+  
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+15 
+For the thickening and dewatering different polymer dosages are used for sludge from different 
+processes. A summary of polymer dosages used can be found in Table 5. 
+Table 5. TS concentrations of sludge and dosage of polymer used for thickening and dewatering.  
+ TS in sludge 
+entering (%) 
+Dosage 
+(g/kg TS) 
+TS and separation degree in 
+treated sludge (%) 
+PS without pre-precipitation 1.5%  5%, 95% removal 
+PS with pre-precipitation 1.5%  5%, 95% removal 
+WAS, ANOX+NIT 0.8%  5%, 95% removal 
+WAS, Bio-P 0.8%  5%, 95% removal 
+Digested sludge (ANOX+NIT)  11.5* 24%* 98% removal 
+Digested sludge (Bio-P)  16.2* 24%* 98% removal 
+*STOWA 2012  
+3.2 Life Cycle Assessment - LCA 
+In this study, Life Cycle Assessment (LCA) has been used to calculate the environmental impact of 
+operation of the WWTP for one year. An LCA includes resource consumption, waste production, 
+energy use and transport for all intermediaries. Construction and demolition of the treatment plant 
+are thus not included. 
+The GaBi Professional 8.6 software tool has been used to perform the LCA modelling. GaBi 
+Professional is one of the world's most widely used software tools for LCA. It has been developed 
+for more than 20 years and contains a robust internal database with more than 7,000 ready -to-use 
+life cycle inventory (LCI) profiles. 
+The LCA in this study includes activities that are directly related to, or a result of, wastewater 
+treatment. Production and transport of chemicals for the purification process, as well as production 
+of the electricity used, are also included. In this study we do not study the use phase of by-
+products from the process such as use of biogas and sludge. 
+The life cycle analysis was performed according to ISO 14044 standards. 
+The functional unit used in this project is 1 m
+3 of treated wastewater fulfilling the yearly average 
+discharge criteria specified in Table 1. 
+To quantify the potential environmental impact from processes, a number of environmental impact 
+categories were selected, see Table 6 . These are developed by CML (Centrum voor Milieukunde –
+Universiteit Leiden, 2002) and within LCA general and common use (Guinée et al., 2002). The 
+methods are scientifically based on chemical and biological reactions in air, water and soil, as well 
+as estimated resources on earth. The categories analyse potential environmental effects. 
+The units are reference units where all emissions have been normalized to the reference unit using 
+characterization factors. Nitrous oxide is, for example, normalized to carbon dioxide equivalents by 
+multiplying the amount of nitrous oxide emissions by a factor of 298, as nitrous oxide has a 298 
+times stronger impact on global warming compared with carbon dioxide, per kg of emissions of 
+each gas (in a 100-year perspective), (CML 2002).  
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+16 
+Table 6. List of environmental impact categories analysed in the study. By Abiotic Depletion (ADP Fossil) 
+is meant energy-containing fossil resources such as coal, oil and natural gas, extracted from the geosphere. 
+Uranium is not included. ADP Elements are non-energy-containing natural resources such as metals and 
+phosphorus, extracted from the geosphere. Uranium is included here. 
+Environmental impact categories (CML2002) 
+Short name Name Unit 
+Global Warming 
+Potential (GWP) 
+CML2001 - Jan. 2016, Global Warming Potential, excl 
+biogenic carbon (GWP 100 years) 
+kg CO2-
+Equiv. 
+Eutrophication 
+Potential (EP) 
+CML2001 - Jan. 2016, Eutrophication Potential (EP) kg PO4-Equiv. 
+Acidification Potential 
+(AP) 
+CML2001 - Jan. 2016, Acidification Potential (AP) kg SO2-Equiv. 
+Abiotic Depletion 
+(ADP Fossil) 
+CML2001 - Jan. 2016, Abiotic Depletion Potential (ADP 
+fossil) 
+MJ 
+Abiotic Depletion 
+(ADP Elements) 
+CML2001 - Jan. 2016, Abiotic Depletion Potential (ADP 
+elements) 
+kg Sb-Equiv. 
+ 
+Input data to the LCA related to the operation of the WWTP was retrieved from the process model 
+and includes direct emissions, energy and chemical consumption, see Figure 6. Production data on 
+coagulants and polymers used in the process were given from INCOPA. The sludge handling after 
+the digester is not considered in this study, only amounts produced is tracked.  
+ 
+Figure 6. Illustration of inputs and outputs from the WWTP that drives the LCA. Note that sludge amounts 
+only are considered and not any further handling of this output.  
+Energy production were set to be European average electricity mix and data taken from the data 
+bases in the LCA software.  
+To study the effect of how different choices in the LCA impacts the result, a sensitivity analysis can 
+be performed. In this study following sensitivity analysis were chosen: 
+• Change of energy source for electricity production.  What will happen if European 
+average electricity mix is replaced by 100 % hydro power? 
+• Usage of biogas. What is the impact if biogas replaces natural gas in the energy 
+system?  
+
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+17 
+4 Results 
+Simulation of the three different process configurations were performed and data utilized in the 
+LCA for the following scenarios: 
+• Baseline: Effluent standards that fulfils the criteria given.  
+• Stricter: More stringent limits on phosphorus.  
+In Figure 7 the environmental impact category global warming potential (GWP) is presented for 
+the different process configurations and effluent criteria.  
+ 
+Figure 7. Global warming potential for the different process configurations. Results coloured according too 
+effluent criteria. Note that the usage of biogas is included in these results. 
+When comparing the configurations, pre-precipitation gives the lowest GWP for both effluent 
+scenarios. This is because the pre-precipitation configuration has the lowest load on the biological 
+treatment and hence less energy is needed in this treatment step. Biological phosphorus removal 
+has the highest GWP of the three configurations. 
+A more stringent effluent limit on phosphorus cause an increase of the GWP for all three process 
+configurations. To fulfil the stricter limits on phosphorus there is a need for more coagulant. But 
+that does not explain all the difference. A post precipitation step is needed in all process 
+configurations to achieve the stricter effluent criteria. This extra step results in a higher energy 
+usage and therefore contributes to the global warming potential. 
+To see what affects to the GWP the figures are broken down into different resources needed and 
+direct emissions from contributing process steps. As an example, the different contributions to 
+GWP for the pre-precipitation step is shown in Figure 8.  
+
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+18 
+ 
+Figure 8. Contribution to the GWP for the pre-precipitation configuration. Results coloured according too 
+effluent criteria.  Note that the usage of biogas is not included. El = electricity usage, ASP=Activated 
+Sludge Process (biological treatment). 
+The two main contributors to GWP are the electricity usage and the direct emissions of nitrous 
+oxide (laughing gas) from the biological treatment. From the digester, slip of methane contributes 
+to the GWP. Direct emissions of methane and nitrous oxide from sludge storage are the third 
+largest contributor to GWP. The increased dosage of chemicals in the stricter effluent criteria does 
+not affect the GWP in any significant way. The difference is mainly from the increased energy 
+demand by introduction of a sand filter as a final polishing treatment step. Transportation of 
+chemicals has the least contribution to the GWP.  
+The energy demand and biogas produced is compared for the different process configurations and 
+effluent criteria, see Figure 9. 
+ 
+Figure 9.  Comparison of energy demand (MWh/d) and biogas production (kg CH4/d) for the different 
+process configurations.  PrePrec Al = aluminium based precipitation chemical, PrePrec = iron based 
+precipitation chemical. 
+The pre-precipitation produces more biogas than the other configurations since more primary 
+sludge is produced with this configuration. Digestion of primary sludge will generate more biogas 
+compared to digestion of waste activated sludge and more primary sludge will lead to more biogas 
+production.  
+
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+19 
+In the scenarios presented above the biogas were not utilized in any way, only the amount of 
+produced methane was tracked. In many WWTP the biogas is used in some way, it could be as an  
+energy source locally at the plant or it could be upgraded to vehicle fuel. In both the given 
+examples biogas could replace fossil fuels as energy carrier. In Figure 10 the result of this credit of 
+biogas is shown for the GWP of the process configurations. This credit decreases the total 
+contribution to the GWP between 30% and 20% for all the different scenarios and effluent criteria. 
+ 
+Figure 10. Contribution to the GWP after the biogas has replaced natural gas in energy production for the 
+different process configurations.  Results coloured according too effluent criteria. 
+As seen in Figure 8 the electricity usage has a very large impact on the results of the GWP. A 
+sensitivity analysis was performed replacing the original European average electricity mix with 
+100% hydropower (Figure 11). This change of electricity production decreases the total GWP of 
+operating the process configuration with 50%. 
+ 
+Figure 11. Sensitivity analysis of electricity production. Replacing a European average electricity mix with 
+100% hydropower. 
+The main focus has been on the global warming potential, but to give a more detailed picture of the 
+total environmental impact, the other impact categories is presented, together with the GWP, in 
+Figure 12.  
+In Appendix 1 data for the different scenarios studied and for all impact categories are presented. 
+
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+20 
+ 
+ 
+Figure 12. Comparing all the calculated impact categories. Normalized around the pre-precipitation 
+configuration. GWP = global warming potential, EP = Eutrophication potential, AP = Acidification 
+potential, ADP = Abiotic Depletion Potential. 
+Regarding the eutrophication potential (EP), the main contribution is the nitrogen in the effluent. 
+The effluent criteria were reached for all the scenarios but not the same levels on the decimal and 
+therefore the EP differ somewhat for the different configurations. Consumption of fossil resources 
+(ADP fossil) is higher for the Bio-P due to higher energy consumption as this configuration 
+requires more pumping. The main contribution to the acidification potential (AP), is also linked to 
+energy consumption. 
+5 Conclusions 
+Three process configurations for phosphorus removal from wastewater; pre- precipitation, 
+simultaneous precipitation and biological phosphorus removal, was evaluated using dynamic 
+process models and LCA.  
+Combining dynamic process models with life cycle assessment could give insight to what is large 
+and not in the contribution to the global warming potential from different configurations of 
+wastewater treatment plants. The use of models is a good method when real or test data are hard 
+to retrieve from the process. 
+To conclude this study the main points are summarized below: 
+• Pre-precipitation clearly gives a lower GWP than the other configurations. 
+• Pre-precipitation produces the highest amounts of biogas while biological phosphorus 
+removal produces the lowest amount of biogas. 
+• A more stringent effluent limit leads to a higher carbon footprint. 
+• Choice of energy source is an important factor for several impact categories. 
+
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+21 
+6 References 
+Guinée, J.B., Gorrée, M., Heijungs, R., Huppes, G., Kleijn, R., Koning, A. de, Oers, L. van, Wegener 
+Sleeswijk, A., Suh, S., Udo de Haes, H.A., Bruijn, H. de, Duin, R. van & Huijbregts, M.A.J. (2002). 
+Handbook on life cycle assessment. Operational guide to the ISO standards. I: L CA in perspective. IIa: 
+Guide. IIb: Operational annex. III: Scientific background. Kluwer Academic Publishers, ISBN 1-4020-
+0228-9, Dordrecht, 692. 
+Henze, M., Gujer, W., Mino, T. & Loosdrecht, M. C. M. van. (2000). Activated sludge models ASM1, ASM2, 
+ASM2d and ASM3. IWA Publishing, London, UK. 
+Schraa, O., Rieger, L. and Alex, J. (2016). Development of a model for activated sludge aeration systems: 
+Linking air supply, distribution, and demand. Water Sci. Technol., 75(3), 507-517.  
+Urban Waste Water Treatment Directive (UWWTD). (1991): Council Directive 91/271/EEC of 21 May 
+1991 concerning urban waste-water treatment, OJ L 135, 30/05/1991 
+STOWA (2012). Trends in slibontwatering. 2012-46. ISBN 978.90.5773.577.6 
+Ødegaard H., Karlsson I. (1994). Chemical Wastewater Treatment — Value for Money. In: Klute R., 
+Hahn H.H. (eds) Chemical Water and Wastewater Treatment III. Springer, Berlin, Heidelberg. 
+https://doi.org/10.1007/978-3-642-79110-9_14 
+Ødegaard H. (1995). Optimization of flocculation/flotation in chemical wastewater treatment Water Sci. 
+Technol., 31 (3–4), pp. 73-82. 
+  
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+22 
+Appendix 1 
+In the following tables the results from the LCA is presented for the different scenarios and the 
+studied environmental impact categories. All values are for the functional unit 1m3 treated 
+wastewater fulfilling the yearly average discharge criteria.  
+Environmental impact categories for different process configurations and effluent criteria. Note that the 
+usage of biogas is not included.  
+PrePrec SimPrec Bio-P 
+ 
+Baseline Stricter Baseline Stricter Baseline Stricter 
+Abiotic Depletion (ADP elements) 
+[kg Sb eq.] 
+6.71E-08 7.89E-08 7.16E-08 8.36E-08 7.31E-08 8.52E-08 
+Abiotic Depletion (ADP fossil) 
+[MJ] 
+1.78E+00 2.14E+00 1.93E+00 2.30E+00 2.06E+00 2.41E+00 
+Acidification Potential (AP) 
+[kg SO2 eq.] 
+4.41E-04 5.32E-04 4.81E-04 5.74E-04 5.19E-04 6.09E-04 
+Eutrophication Potential (EP)  
+[kg Phosphate eq.] 
+8.59E-03 5.65E-03 8.12E-03 5.68E-03 8.38E-03 6.09E-03 
+Global Warming Potential (GWP 
+100 years), excl biogenic carbon 
+[kg CO2 eq.] 
+3.00E-01 3.34E-01 3.13E-01 3.47E-01 3.21E-01 3.54E-01 
+ 
+Contribution to the different environmental impact categories for the pre-precipitation configuration. 
+Divided into different process steps. Note that the usage of biogas is not included. El = electricity usage, 
+ASP=Activated Sludge Process (biological treatment). 
+PrePrec -
+Baseline 
+Abiotic 
+Depletion (ADP 
+elements) [kg 
+Sb eq.] 
+Abiotic 
+Depletion 
+(ADP 
+fossil) [MJ] 
+Acidification 
+Potential 
+(AP) [kg SO2 
+eq.] 
+Eutrophication 
+Potential (EP) 
+[kg Phosphate 
+eq.] 
+Global Warming 
+Potential (GWP 100 
+years), excl biogenic 
+carbon [kg CO2 eq.] 
+Total 6.71E-08 1.78E+00 4.41E-04 8.59E-03 3.00E-01 
+El 4.54E-08 1.53E+00 3.99E-04 3.77E-05 1.43E-01 
+Coagulants 7.54E-09 8.28E-02 1.42E-05 2.74E-06 4.21E-03 
+Polymer 1.40E-08 1.52E-01 2.36E-05 2.47E-05 6.60E-03 
+Transport 1.34E-10 2.35E-02 3.94E-06 9.76E-07 1.74E-03 
+ ASP 0 0 0 1.14E-04 1.12E-01 
+ Digester 0 0 0 0.00E+00 1.25E-02 
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+23 
+Sludge storage 0 0 0 9.48E-06 1.95E-02 
+Emissions 0 0 0 8.40E-03 0 
+PrePrec -Stricter 
+     
+Total 7.89E-08 2.14E+00 5.32E-04 5.65E-03 3.34E-01 
+El 5.55E-08 1.86E+00 4.87E-04 4.60E-05 1.74E-01 
+Coagulants 8.17E-09 8.97E-02 1.53E-05 2.97E-06 4.56E-03 
+Polymer 1.52E-08 1.64E-01 2.56E-05 2.67E-05 7.13E-03 
+Transport 1.46E-10 2.55E-02 4.26E-06 1.06E-06 1.89E-03 
+ ASP 0 0 0 1.14E-04 1.12E-01 
+ Digester 0 0 0 0 1.18E-02 
+Sludge storage 0 0 0 1.05E-05 2.17E-02 
+Emissions 0 0 0 5.45E-03 0 
+ 
+Environmental impact categories for different process configurations and effluent criteria. Credit for the 
+usage of biogas is included. 
+Credit for biogas included 
+- replacing natural gas 
+Baseline Stricter 
+ 
+PrePrec SimPrec Bio-P PrePrec SimPrec Bio-P 
+Abiotic Depletion (ADP 
+elements) [kg Sb eq.] 
+6.43E-08 6.93E-08 7.06E-08 7.60E-08 8.11E-08 8.26E-08 
+Abiotic Depletion (ADP fossil) 
+[MJ] 
+1.33E-01 5.00E-01 7.76E-01 4.67E-01 8.53E-01 1.12E+00 
+Acidification Potential (AP) 
+[kg SO2 eq.] 
+4.26E-04 4.68E-04 5.04E-04 5.16E-04 5.60E-04 5.93E-04 
+Eutrophication Potential (EP) 
+[kg Phosphate eq.] 
+8.59E-03 8.12E-03 8.38E-03 5.65E-03 5.68E-03 6.09E-03 
+Global Warming Potential 
+(GWP 100 years), excl biogenic 
+carbon [kg CO2 eq.] 
+2.06E-01 2.31E-01 2.48E-01 2.39E-01 2.65E-01 2.80E-01 
+ 
+ 
+ 
+ Report B 2400 ­ LCA analysis of different WWTP processes   
+ 
+24 
+Sensitivity analysis of electricity production. European average electricity contra electricity produced by 
+100% hydropower. 
+EU average El 
+mix 
+Abiotic 
+Depletion (ADP 
+fossil) [MJ] 
+Acidification 
+Potential (AP) 
+[kg SO2 eq.] 
+Eutrophication 
+Potential (EP) [kg 
+Phosphate eq.] 
+Global Warming Potential 
+(GWP 100 years), excl 
+biogenic carbon [kg CO2 eq.] 
+Total 1.78E+00 4.41E-04 8.59E-03 3.00E-01 
+El 1.53E+00 3.99E-04 3.77E-05 1.43E-01 
+Coagulants 8.28E-02 1.42E-05 2.74E-06 4.21E-03 
+Polymer 1.52E-01 2.36E-05 2.47E-05 6.60E-03 
+Transport 2.35E-02 3.94E-06 9.76E-07 1.74E-03 
+ ASP 0 0 1.14E-04 1.12E-01 
+ Digester 0 0 0.00E+00 1.25E-02 
+Sludge storage 0 0 9.48E-06 1.95E-02 
+Emissions 0 0 8.40E-03 0 
+100% 
+hydropower 
+    
+Total 4.02E-01 5.82E-05 8.09E-03 1.64E-01 
+El 8.76E-03 3.05E-06 3.99E-07 2.41E-03 
+Coagulants 2.15E-01 2.70E-05 5.73E-06 1.00E-02 
+Polymer 1.57E-01 2.44E-05 2.55E-05 6.81E-03 
+Transport 2.20E-02 3.68E-06 9.14E-07 1.63E-03 
+ ASP 0 0 1.14E-04 1.12E-01 
+ Digester 0 0 0.00E+00 1.12E-02 
+Sludge storage 0 0 9.53E-06 1.95E-02 
+Emissions 0 0 7.93E-03 0 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IVL Swedish Environmental Research Institute Ltd.   
+P.O. Box 210 60  //  S-100 31 Stockholm // Sweden 
+Phone +46-(0)10-7886500  //  www.ivl.se 
+ 

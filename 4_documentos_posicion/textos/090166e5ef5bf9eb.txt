@@ -1,0 +1,237 @@
+ 
+ 
+27 July 2022  Page 1 of 5 
+ 
+COCIR Feedback 
+Proposal for a European Health Data Space 
+ 
+Introduction 
+COCIR is the European Trade Association representing the medical imaging, radiotherapy, 
+health ICT and electromedical industries. Founded in 1959, COCIR is a non-profit association 
+headquartered in Brussels (Belgium) with a China Desk based in Beijing since 2007. COCIR 
+is unique as it brings together the healthcare, IT and telecommunications industries. Our 
+industry provides safe and high-quality products and services, which contribute to reducing 
+health inequalities and enhance cost efficiency in healthcare systems. COCIR aims to 
+contribute to sustainability of healthcare systems through integrated care approach and to 
+promote Research and Innovation as a key enabler for economic growth We provide a wide 
+range of services on regulatory, technical, market intelligence, environmental, 
+standardization, international and legal affairs. COCIR is also a founding member of DITTA, 
+the Global Diagnostic Imaging, Healthcare IT and Radiation Therapy Trade Association. 
+Feedback 
+Access to data and data systems’ interoperability are the cornerstone of the digital 
+transformation of healthcare in EU member states. A robust regulatory sectorial framework 
+is needed to provide certainty to all actors for the digital technologies use for electronic 
+health records, as well as exchange of health data within and among Member States for 
+primary and secondary use. 
+COCIR has always been very supportive of the Commission’s goals and intentions for the 
+European Health Data Space (EHDS) regulation. We advocate for a patient centric pursuit 
+of clinical excellence and safety, clear governance mechanisms and secure processing 
+environment allowing researchers and innovators to access relevant health data to develop 
+products and services for better diagnosis, treatment, and well-being of individuals. 
+The released proposal for the EHDS regulation aims to address the barriers in a systemic 
+manner and will play a critical role in delivering modern, innovative, and patient-centric 
+healthcare. The EHDS regulation will make a significant contribution to the European 
+innovation capacity in healthcare and support the Commission’s pursue of “modern, 
+responsive and sustainable health systems”1 in the EU. 
+The proposed process of the single health data space creation on the EU level should lead 
+to a fair, balanced, and efficient framework to support the ambitious goals of the goals of 
+the EU Data Strategy in the healthcare, which is one of the top priorities areas to establish 
+vertical data space regulations.  
+To achieve this goal, EHDS regulation should be fully aligned with relevant horizontal and 
+sectoral legislation, namely General Data Protection Regulation (GDPR), the proposed Data 
+Act, Medical Device Regulation, and In-vitro Device Regulation (MDR/IVDR), as well as the 
+proposed Artificial Intelligence (AI) Act in order to establish clear, transparent, and fair 
+obligations to all parties under the EHDS regulation. 
+ 
+Detailed comments 
+You find here some detailed recommendations to further improve the framework of 
+electronic health records (EHR) under the EHDS regulation. 
+ 
+Ref. Ares(2022)5419882 - 27/07/2022
+ 
+ 
+27 July 2022  Page 2 of 5 
+ 
+ 
+GENERAL PROVISIONS 
+1. Misalignment between the EHDS regulation and the GDPR, as well as the 
+proposed Data Act will create significant legal uncertainty and may lead to reduced 
+security and privacy of the patients’ personal data. Therefore, the interplay between 
+the GDPR and the EHDS will have to be clarified when it comes to controlling and 
+processing of personal data. For this reason, clarity should be introduced regarding 
+how data holder under the EHDS relates to the concepts of data controller and data 
+processor under the GDPR for personal and non-personal electronic health data.  
+Recommendations: 
+o Align the definition of non-personal health data with the GDPR; 
+o Introduce the definition of critical infrastructure under the EHDS and align its 
+interpretation with the European critical infrastructures (ECI) directive 
+2008/114/EC; 
+o Introduce the definitions of data controller and data processor and align the 
+interpretation of stakeholders in relevant articles in harmonised way to improve 
+legal clarity of GDPR application in the context of the EHDS; 
+o Align the definition of ‘data holder’ between the EHDS and the Data Act. 
+o Align the wording for serious incident definition with MDR/IVDR and New 
+Legislative Framework (NLF); 
+o The document uses the term “healthcare provider” or “healthcare providers” 
+54 times and “health professional” or “health professionals” 58 times. While both 
+definitions follow the referenced Directive 2011/24/EU on the application of 
+patients’ rights in cross-border healthcare, the context of their use is different 
+and should be aligned with the context and purpose of the EHDS to avoid legal 
+confusion, especially where legal responsibilities for data processing or storage 
+arise for healthcare professionals and healthcare institutions as health providers. 
+ 
+PRIMARY USE OF ELECTRONIC HEALTH DATA 
+2. Scope of data to be provided should be aligned with the requirements under 
+the MDR/IVDR and limited to the primary purpose of the device or service to 
+minimise potential breach of personal data privacy under the GDPR, ensure data 
+interoperability not only within the EU, but also internationally for fully 
+comprehensive state of the art secondary use of health data to secure patients’ 
+interests, to access medical innovations in the shortest possible timelines and to 
+ensure prevention of cybersecurity risks, which are likely to increase under current 
+formulations. 
+Recommendations: 
+o Elaborate Articles 3 and 5 to enhance clarity on alignment with GDPR as well 
+as to ensure compliance with international interoperability standards to ensure 
+that patients’ rights to use their health data for treatment purposes are not 
+limited to the EU context only, especially for health emergencies where health 
+record history may be vital. This is also important to foster and support clinical 
+excellence in R&D under the secondary health data use scenario. 
+o Review Annex I Clauses 1 and 3, as well as Annex III to ensure that only 
+information that is relevant to the intended purpose of the device or system is 
+obliged to be collected, stored and upon request provided under Annex II, as well 
+as included into technical specifications under Annex III. 
+ 
+ 
+ 
+ 
+27 July 2022  Page 3 of 5 
+ 
+EHR SYSTEMS AND WELLNESS APPLICATIONS 
+3. Legal clarity of the responsibilities under the EHDS between healthcare 
+professionals and healthcare providers, as well as third parties if any are present 
+should be established to avoid confusion between responsibilities attributable to 
+each of them, especially for personal data safety and quality. 
+Recommendations: 
+o Article 16 should be elaborated to cover different scenarios of EHR system 
+deployment and corresponding allocation of responsibilities between the 
+manufacturer, the user and third-party deployer in case of its presence. 
+o Also, the difference between healthcare professionals and patients as users 
+should be established. Patient safety in many cases requires that health data is 
+explained to them by the health professional to avoid misconceptions that may 
+lead to harmful effects to the patient. Therefore, it should be clearly established 
+that the information sheet should be developed with the intended medical 
+device user in mind, clearly establishing limits of data provision obligations to 
+healthcare providers and patients. 
+ 
+4. The proposed requirements for conformity of EHR systems and products 
+claiming interoperability with EHR systems should align with MDR/IVDR to avoid 
+additional unnecessary costs for national healthcare systems and patients. Also, new 
+obligations, imposed by the Data Act on the medical device manufacturers should 
+be considered, to harmonise all the applicable legislations and avoid differences in 
+requirements for conformity. The interoperability of electronic health records, in line 
+with the existing European Electronic Health Record Exchange Format and 
+internationally recognized standards (e.g. HL7 FHIR, DICOM, DICOM Web, and IHE 
+profiles), as well as semantic and technical interoperability should be strengthened. 
+Recommendations: 
+o The definition of EHR system should be adapted, as the proposed, very broad, 
+definition will potentially encompass all medical devices which store, 
+intermediate, import, export, convert, edit or view electronic health records and 
+thus make the delineation between EHR systems, medical devices and high-risk 
+AI systems very challenging. 
+o Article 23 should have a reference to the international state of the art 
+standards. 
+o Article 29 should be aligned to MDR/IVDR 
+o Article 31 should be adjusted to reflect the fact that wellness application may 
+be downloaded by the user online. Therefore, it would be more appropriate to 
+oblige the label to be shown in the application itself. 
+o Article 68 under Chapter VII should also be elaborated with a reference to 
+international state of the art standards. 
+ 
+SECONDARY USE OF ELECTRONIC HEALTH DATA 
+ 
+5. The protection of IP rights and trade secrets and fair cost coverage should be 
+secured to preserve incentives for companies to invest into quality data collection. 
+Also, when the public interest requires to limit the fees for the data provision below 
+the full costs for the data holder to provide it, a more simple and more standardized 
+principle should be applied to minimize subjectivity and ensure better comparability 
+and transparency. 
+Recommendations: 
+ 
+ 
+27 July 2022  Page 4 of 5 
+ 
+o Article 33 should be elaborated to align data sharing for the secondary use 
+purposes with GDPR and avoid confusion of which stakeholders are data holders 
+under the EHDS to sustain consistency of the interpretation of the definition. 
+o More clarity on provision of electronic health data entailing protected 
+intellectual property and trade secrets under the Article 34 should be provided 
+to sustain and foster investments into high value adding activities, protected by 
+the IP rights and trade secrets. 
+ 
+6. Health-related private legal entities, including the developers of wellness 
+applications should be ensured access to health data for secondary use when the 
+request comply with the requirements under this Regulation. 
+Recommendation: 
+o Adjust Articles 34 and 52 accordingly. 
+ 
+7. Industry provides valuable expertise for the efficient development of a 
+European health data space. Industry representatives should thus be included in 
+stakeholder consultations to ensure full coverage of competencies and experience 
+to comment on practical implications and feasible, as well as economically rational 
+and sustainable solutions. 
+Recommendation: 
+o Adjust Articles 37, as well as Article 65 under the Chapter VI and Article 68 
+under Chapter VII accordingly. 
+ 
+8. Ensure proper cost coverage for data provision for secondary use and 
+consider a different mechanism for deductions in fees for providing data under 
+Article 42. 
+Recommendation: 
+o Adjust Articles 42 and 49 to reflect all the costs related to making data 
+available for secondary use. 
+ 
+9. There may be cases when secondary use of health data cannot be processed 
+in the secure environment provided by the data access bodies for R&D activities. 
+Recommendation: 
+o Article 50 should reflect on specific situations. If due to the research or 
+product development specifics it is technically not possible to complete health 
+data processing in the secure environment, provided by the health data access 
+bodies, other secure processing safeguards should be introduced and used to 
+ensure safeguard of personal information, as well as compliance with the GDPR. 
+ 
+10. Restrictions on non-personal data movement to third countries for secondary 
+use purposes should be proportionate to the objective risks and shall rely on clear 
+criteria, which are definable and objectively assessable. 
+Recommendation: 
+o Article 61 should be revised and more clarity on restriction criteria introduced. 
+ 
+11. National frameworks for implementing EHDS and safeguarding its 
+performance compliance should be well aligned  to ensure harmonised conditions 
+for developers and deployers of EHR systems to conduct activities under the EHDS, 
+and  to ensure patients’ rights across the European Union are respected. Therefore, 
+to prevent differences in the deployment of the legislation across the Member 
+States, it may be beneficial to consider centralised principle for sanctions following 
+ 
+ 
+27 July 2022  Page 5 of 5 
+ 
+the example set in the GDPR or the proposed AI Act for penalties upon the 
+misconduct of stakeholders under the EHDS. 
+Recommendation: 
+o Article 69 should be reviewed and elaborated to provide explicit principles 
+and guidelines for penalties. 
+ 
+Conclusions 
+We look forward to working with the EU institutions to ensure that the EHDS regulation 
+achieves its goals, i. e. 
+- Citizens in the EU are provided with increased control over their electronic health 
+data and  
+- trusted EU and Member State governance mechanisms foster cross-border health 
+data accessibility and interoperability for primary and secondary use governed by a 
+clear legal framework. 
+The EHDS regulation can play a very important role in promoting better diagnosis, 
+treatment, and well-being of natural persons, and assist national and EU level legislators for 
+better informed policies. 
+It is also of critical importance to achieve a genuine single market for digital health products 
+and services, sustaining and enhancing the capacity to attract and retain high value 
+creating investments into healthcare innovations. 

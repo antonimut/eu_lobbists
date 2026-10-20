@@ -1,0 +1,149 @@
+Response to EC roadmap:  Artificial intelligence – ethical and legal requirements 
+1 
+Philips welcomes the opportunity to provide feedback on the roadmap for AI ethical and legal 
+requirements.  
+As rightly pointed in the roadmap and the AI White Paper, AI is developing fast and has the potential to 
+improve and reshape healthcare. Applying AI in healthcare can improve people’s lives across the health 
+continuum from personalized lifestyle support through targeted prevention of disease, earlier precision 
+diagnosis and personalized therapy to monitoring patients proactively from the hospital to  the home. At 
+Philips, we embrace AI as a combination of data science technology with knowledge of the clinical, 
+operational and personal context of a patient. As a result, AI adapts to patient-specific contexts and can 
+be embedded into workflows or people’s daily environment. It augments healthcare professionals, rather 
+than replacing them. 
+- Baseline (Option 0): no policy change 
+As indicated in the roadmap, ‘EU legislation on the protection of fundamental rights and consumer 
+protection as well as on product safety and liability remains relevant and applicable to a large number of 
+emerging AI applications’. For instance, the EU Medical Devices Regulation (EU MDR) in combination with 
+the General Data Protection Regulation (GDPR) already contain requirements for AI in healthcare to be 
+safe and performant. These requirements, both ex -ante and ex-post, ensure that medical devices based 
+on AI are safe and performant throughout their entire lifecycle, including the management of changes in 
+software. We therefore see no need for new regulatory frameworks for AI-based devices in healthcare. In 
+order t o facilitate the practical implementation of the existing legal requ irements, we support the  
+adoption of practical guidance, preferably accompanied by the development of international standards.   
+For a detailed analysis of AI in the EU Medical Device legislation, we refer to a recent paper developed by 
+COCIR1. 
+Proposed alternative policy options 
+- Option 1: EU soft law 
+Philips supports an ‘ethics by design’ approach to the development and use of AI systems. It is important 
+for EU citizens to be able to trust AI, and that recommendations or decision -making support by AI is  
+transparent to those relying on it for healthcare decisions. Technology should be inclusive and respectful 
+of everyone. Ethics and principles should not come up after a crisis or breach of trust: they should be part 
+of an organization’s DNA.  
+We therefore support the EU Ethical Guidelines and sectoral recommendations developed by the AI High 
+Level Expert Group (AI HLEG)  and their voluntary adoption per industry sector. We also support the 
+development of self-regulating codes of conduct for responsible application of AI. An EU ethical approach 
+to AI is key to enabling responsible competitiveness, as it will generate societal and user trust, and facilitate 
+broader uptake of AI.  
+ 
+                                                           
+1 https://www.cocir.org/media-centre/publications/article/cocir-analysis-on-ai-in-medical-device-legislation-
+september-2020.html  
+Ref. Ares(2020)4700626 - 09/09/2020
+Response to EC roadmap:  Artificial intelligence – ethical and legal requirements 
+2 
+- Option 2: EU legislative instrument setting up a voluntary labelling scheme 
+An EU legislative instrument establishing a voluntary labelling sch eme could enable consumers  and 
+patients to identify AI applications that comply with certain requirements for trustworthy AI and serve as 
+an indication to the market that the labelled AI application is trustworthy. However, when creating labeling 
+schemes, care shall be taken that the rules and requirements for such scheme s do not overlap with  or 
+duplicate already existing mandatory requirements, and such labels are clearly used as an additional sign 
+indicating compliance with additional requirements. It should be clear whom would such schemes apply 
+to. Furthermore, such legislative instrument shall also arrange for appropriate, fair and efficient standard 
+setting process and enforcement infrastructure.  However, in case the enforcement infrastructure is 
+missing or insufficient, there is a risk of unfair use of labelling schemes.  
+- Option 3: EU legislative instrument establishing mandatory requirements for all or certain types 
+of AI applications 
+AI applications will need to comply with various regulations  as explained above in the Baseline scenario . 
+This is particularly true for AI applications that qualify as a medical device, and which are regulated by and 
+need to comply with the [strict] Medical Devices Regulation and CE marking framework. If AI applications 
+process personal data, they also need to comply with the GDPR.  
+In the context of this proposed option, we would like to reiterate the points made above, as well as, in our 
+feedback to the Commission’s public consultation on the White Paper on Artificial Intelligence: 
+ Healthcare is a well -regulated industry. AI solutions may be separate products  (e.g. stand-alone 
+software) or be built in medical devices. When they constitute a medical device, Medical Device 
+Regulation will apply.   
+ 
+ Regulatory approach in healthcare is already risk-based, particularly when it comes to the medical 
+devices framework. Risk classification and ex-ante conformity assessment (also during the entire 
+lifecycle of the device) are the fundamental principles and are even reinforced under the upcoming 
+Medical Devices Regulation . These rules will  apply to software (with embedded AI) as medical 
+device. GDPR may also apply to AI (i.e. any processing of data through algorithms) and requires to 
+ensure compliance with its principles. 
+ 
+ MDR is fully adequate for ‘locked AI’ applications that do not learn in the field and those AI 
+applications which change within pre-defined boundaries, and for which a conformity assessment 
+was carried out. However, the MDR does not allow manufacturers to place devices on the market 
+comprising AI that changes ou tside of pre-defined boundaries, i.e. AI -based devices intended to 
+change outside of the change envelope or to suggest claims, intended uses or use conditions to 
+the device for which no conformity assessment was carried out2. 
+ 
+                                                           
+2 For a detailed analysis and examples please consult the paper developed by COCIR  : 
+https://www.cocir.org/media-centre/publications/article/cocir-analysis-on-ai-in-medical-device-legislation-
+september-2020.html  
+Response to EC roadmap:  Artificial intelligence – ethical and legal requirements 
+3 
+ With regard to sub-option 2 in option 3: when considering the use of categories like ’high-risk AI’, 
+there shall be clarity on the correlation (or lack of it) between the MDR risk classes and the 
+definition of ‘high-risk AI’. Under the MDR, the approach to software as medical device is risk-
+based according to the intended use of the device i.e. it already requires a risk assessment and 
+identification of the device’s risk level. When determining the risk level, it should therefore be 
+taken into account if an assessment has already taken place as part of a conformity assessment 
+under the MDR. For instance, a medical device, classified as an AI application as proposed in the 
+Commission’s AI White Paper, currently may possibly fall into the MDR class 1, 2a, 2b or 3. None 
+of these classes shall render the medical device to be considered as a ‘high-risk AI application’, but 
+the manufacturer should have the possibility to clarify as to whether such system is to be regarded 
+as high-risk AI system or not. It is important to acknowledge that not every use of AI in healthcare 
+necessarily involves significant risks. 
+ 
+ Principles of the Product Liability Directive have been proven in last decades and fit for use  in 
+diverse situations. Product liability is reinforced under the MDR (Article 10.16). There is therefore 
+no need for specific AI-based product liability regime. 
+ 
+ Under the GDPR, the principle of accountability requires to ensur e compliance and ability to 
+demonstrate it. Already now, under current legislation, all potential risks that the use or creation 
+of algorithms can pose to the rights and freedoms of persons must be considered and properly 
+addressed. 
+In light of the above, the existing regulations generally cover AI in healthcare in an appropriate manner. In 
+any event, in case of still introducing AI specific legislation, it should be done very carefully not to create 
+conflicts or duplications between the v arious regulations and new barriers for the development of AI -
+supported medical devices.  Therefore, any potential gaps should be clearly identified, assessed and,  if 
+needed, addressed, always taking into account the existing regulations to ensure legal consistency and 
+certainty. Instead of a one -size-fits all, generic AI legislation with high level principles, sector-specific 
+legislation would be preferred, ensuring that knowledgeable experts identify real gaps in their own field 
+and address them in a way that corresponds to the specific industry’s needs, way of working and base of 
+standards. In this regard, it is welcome to combine this option with the conformity assessment process as 
+opposed to a completely new set of standards and enforcement bodies . However, in such approach care 
+shall be taken that all relevant sectors are addressed (e.g. software/applications, which are not medical 
+devices, and not even subject to CE marking) and not unfairly only those being in the focus of attention. 
+- Option 4: combination of any of the options above 
+The preferre d combination would include the  existing legislative framework, i.e. EU MDR and GDPR 
+accompanied with practical guidance, international standards and soft law, including self -regulating 
+sectoral codes. 
+Definition of AI 
+We embrace the definition of AI as proposed by the AI HLEG3:  
+                                                           
+3 file:///C:/Users/320076840/Downloads/AIDefinitionpdf%20(4).pdf  
+Response to EC roadmap:  Artificial intelligence – ethical and legal requirements 
+4 
+‘Artificial intelligence (AI) systems are software (and possibly also hardware) systems designed by humans  
+that, given a complex goal, act in the physical or digital dimension by perceiving their environment through 
+data acquisition, interpreting the collected structured or unstructured data, reasoning on the knowledge, 
+or processing the information, derived from this data and deciding the best action(s) to take to achieve 
+the given goal. AI systems can either use symbolic rules or learn a numeric model, and they can also adapt 
+their behaviour by analysing how the environment is affected by their previous actions. As a scientific 
+discipline, AI includes several approaches and techniques, such as machine le arning (of which deep 
+learning and reinforcement learning are specific examples), machine reasoning (which includes planning, 
+scheduling, knowledge representation and reasoning, search, and optimization), and robotics (which 
+includes control, perception, sensors and actuators, as well as the integration of all other techniques into 
+cyber-physical systems).’ 
+Philips offers its support to the European Commission in further refining of the AI policy options and 
+achieving the EU’s ambition to become a globally significant player in AI.  
+*** 
+Royal Philips (NYSE: PHG, AEX: PHIA) is a leading health technology company focused on improving people's 
+health and enabling better outcomes across the health continuum from healthy living and prevention, to 
+diagnosis, treatment and home care. Philips lev erages advanced technology and deep clinical and 
+consumer insights to deliver integrated solutions. Headquartered in the Netherlands, the company is a 
+leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as 
+in consumer health and home care. Philips generated 2019 sales of EUR 19.5 billion and employs 
+approximately 80,000 employees with sales and services in more than 100 countries. 

@@ -1,0 +1,75 @@
+REQUEST FOR COMMENT RESPONSE
+Regulation of the European Parliament and of the Council on harmonised ruleson fair access to and use of data (Data Act)
+May 13, 2022
+I. INTRODUCTION
+In response to the European Commission’s proposal on the Data Act, CrowdStrikeoffers the following views.
+We approach these questions from the standpoint of a leading international,US-headquartered, cloud-native cybersecurity provider that defends globallydistributed enterprises from globally distributed threats. CrowdStrike offersinsights informed by multiple practice areas: cyber threat intelligence; proactivehunting, incident response and managed security services; and an AI-poweredsoftware-as-a-service cybersecurity platform and marketplace. Accordingly, thisperspective is informed by CrowdStrike’s role in protecting organizations from databreaches and a variety of other cyber threats.
+II. COMMENTS
+We welcome the European Comission’s (EC) data strategy aiming to protect theEuropean Union’s (EU) data sovereignty, facilitating the free ﬂow of data within theEU and across sectors to the beneﬁt of businesses, researchers and publicadministrations, and the controlled and non-discriminatory use of ArtiﬁcialIntelligence (AI).
+A. Principles-Based Frameworks are Future Flexible
+One of the main objectives of the Data Act is to help facilitate the free ﬂow of datawithin the EU. We believe today’s economy depends more than ever before oncross-border data ﬂows and data portability. This trend will continue, especially inlight of the digital transformation accelerated by Covid-19 and the “work fromanywhere” movement. The importance of cross-border data ﬂows is far-reaching,and affects individuals, entities, and society more broadly. Restrictions oncross-border data ﬂows or overly-burdensome requirements to generate portable
+1
+Ref. Ares(2022)3667391 - 14/05/2022
+versions of derivative data could have adverse implications for EU innovation, jobs,access to services, and effective cybersecurity. This means that it is critical toprovide EU businesses, researchers and public administrations with deference tomake their own context-informed—and critically, risk-informed—decisions aboutcross-border data by adhering to core data protection principles related to thecircumstances of speciﬁc transfers.
+Further, cross-border data ﬂows and unrestricted data portability are necessaryelements of some of today’s most sophisticated cybersecurity solutions. Many ofthe most innovative technologies for protecting personal data against databreaches leverage global endpoint telemetry data, cloud-nativeSoftware-as-a-Service (SaaS) delivery, 24/7 global threat hunting, and crosscorrelation of indicators of attack. Moreover, modern IT infrastructure in generaloperates at cloud-scale and invariably involves cross-border data transfers, ofteninvolving real-time machine generated event data, derivative analytics, andsystem-to-system communications.
+B. Artiﬁcial Intelligence (AI)/ Machine Learning (ML)
+The Data Act promotes the non-discriminatory and controlled use of AI. Thewidening adoption of AI/ML periodically raises fears about automateddecision-making, surveillance, algorithmic bias, and other negative externalities. Inspeciﬁc instances, these concerns may warrant suspicion and intense scrutiny.However, it is critical for policy makers and the EC to understand that AI/ML alsohas the opportunity to drive positive social outcomes; is already widely deployed inimportant instances driving such outcomes; and creates the opportunity forinnovation in a variety of important spheres, including industries such as medicineand education.
+Our comments will focus on the use of AI/ML within cybersecurity solutions.Legacy cybersecurity solutions used to rely on scanning ﬁles against signatures ofpreviously identiﬁed malicious ﬁles. This process was onerous, resource-intensive,and could be easily circumvented through the use of novel or slightly modiﬁedapproaches. Next-generation solutions, which leverage AI/ML, can detectpreviously unknown threats based on their characteristics or behaviors. This offersmuch more robust protection against threat activity.
+2
+
+Leveraging AI/ML can achieve success against unknown unknowns. For example, amachine learning model, shipped to CrowdStrike’s Falcon Platform customers inSeptember 2019, detected with high conﬁdence the SUNSPOT malware, which wascentral to a sophisticated campaign that targeted high-value governmentorganizations in late 2020-early 2021.
+1 
+This is oneof many instances of AI/MLtypifying the best ways to defeat threat actors using new or tailored tools, tactics,techniques, or procedures.
+In cybersecurity, AI is an advantage, especially when added to enterprise securitysolutions.
+2
+Cybersecurity threats are exceptionallybroad, and for too long industryplayers have focused on narrow solutions. No box on a network or a single-purposesoftware agent will address the full scope of the problem. Security teams demandcontextual awareness and visibility from across their entire environments,including within cloud and ephemeral environments. Indeed, with the help of AI,CrowdStrike can stop an attack in its tracks because such technology works fasterthan conventional signature-based or indicator of compromise (IOC)-basedprevention.
+As the EC ﬁnalizes the Data Act, it is important to keep ﬂexibility in mind. By this,we mean to emphasize the ﬂexibility of AI as a positive tool in various situations,and not simply an automated-decision making system that could harm the citizensof the EU. We further recommend protecting the rights of EU citizens through atechnology-neutral approach. When creating regulations on the controlled andnon-discriminatory use of AI, the EC should consider adopting language similar tothe GDPR’s requirement that organizations implement safeguards “appropriate” tothe risk to protect personal information. This approach incentivizes organizationsto take into account modern, rapidly-evolving data breach risks posed bycybersecurity threats from e-crime, ‘hacktivist’, and nation state actors usingtactics such as ransomware, supply chain attacks, or malware-less intrusions.
+2
+Michael Sentonas, How Artiﬁcial Intelligence isBecoming a Key Weapon in the Cybersecurity War, CrowdStrikeBlog, Oct. 24, 2017,https://www.crowdstrike.com/blog/how-artiﬁcial-intelligence-is-becoming-a-key-weapon-in-the-cybersecurity-war/.
+1 
+Sven Krasser, “Stellar Performances: How CrowdStrike Machine Learning Handles the SUNSPOT Malware,”CrowdStrike Blog (Jan. 21, 2021)https://www.crowdstrike.com/blog/stellar-performances-how-crowdstrike-machine-learning-handles-the-sunspot-malware/.
+3
+
+C. Data Re-Use and Access
+Adversaries innovate at a record-pace, and it’s important to empower defenders toleverage global data ﬂows, big data analytics, and machine learning to protectagainst ever-evolving threats. Today, big data analytics provide many beneﬁts,including cybersecurity beneﬁts, due to the ability to re-use data in order to trainmachine learning models, derive insights over time, and prevent repeatcybersecurity attacks. Embracing this reality is especially important for fulﬁlling thegoals of the Proposal for a Directive of the European Parliament and of the Councilon measures for a high common level of cybersecurity across the Union, repealingDirective 2016/1148. Accordingly, it is imperative that the EU’s overall Data Strategyand the proposed Data Act align on such outcomes, much in the same way as therecent GDPR guidance issued by the Commission nationale de l'informatique et deslibertés (CNIL)issuedon the reuse of personal databy processors for their ownpurposes (adopted January 12, 2022).
+In an era of real-time machine generated events, the broad deﬁnition of “data” inthe proposed Data Act risks making the seemingly-ambiguous obligation to providedata access range from prohibitively expensive and technically burdensome totechnically infeasible. GDPR, for example, rightfully draws distinctions betweenpersonal data and anonymous data due in part to the potential impact of each datatype on an individual. By analogy, and especially in the B2B context, it is importantto draw regulatory distinctions between material data provided by or generatedabout an organization versus derivative data that may be immaterial to the DataUser organization but material for a Data Recipient solving a broader problem. Indrawing this distinction, the obligation to provide data access becomes one that istechnically feasible. Consequently, the aims of the Data Act would be morepractically achieved with a narrower deﬁnition of  “data” and deference providedfor B2B relationships to deﬁne their own context-speciﬁc terms.
+D. Cybersecurity Best Practices
+The Data Act is but one part of the EC’s larger Data Strategy program.Cybersecurity is a key element in achieving the EC’s goals of “economic growth,competitiveness, innovation, job creation, and societal progress in general.”
+3
+Below,we offer our views on effective cybersecurity practices.
+i. Active Monitoring
+3
+A European Strategy for data, European Commission (Feb. 23, 2022),https://digital-strategy.ec.europa.eu/en/policies/strategy-data.
+4
+
+Cybersecurity threats are exceptionally broad, and active monitoring ﬁlls anessential role. From our experience, defenders’ key responsibility isthreat hunting.Whether through supply chain attacks or otherwise, we know that adversariesperiodically breach even very-well defended enterprises. Properly trained andresourced defenders can ﬁnd them and thwart their goals. In our experience,whether organisations accept this premise -- that cybersecurity involves not just apassive alarm, but a sentry actively looking for trouble --  is the leading indicator ofthe strength of their cybersecurity program.
+Central to hunting is properly instrumenting enterprises to support bothautomated and hypothesis-driven adversary detection. And thebetter-instrumented the environment, the more chances defenders givethemselves to intervene as a breach attempt progresses through phases, commonlyreferred to as the kill chain. Multiple opportunities for detection help avert “silentfailures” -- where a failure of security technology results in security events goingcompletely unnoticed.
+ii. Remediation & Recovery
+Some of the keys to a strong cybersecurity posture today include:
+● Speed. We advise users that when responding to a securityincident or event,every second counts. The more we can do to detect and stop adversaries atthe outset of an attack, the better chance we have to prevent them fromachieving their objectives. The reason for this is that adversaries move fast,especially when engaging in lateral movement through an enterprise. Thismeans that measuring response time and severity, essentially a DEFCON forsecurity, is critical to ultimately stopping a malicious chain of events andimproving performance.
+● Machine Learning-Based Prevention. The core of next-generationcybersecurity solutions is the ability to defeat novel threats. Machinelearning and artiﬁcial intelligence are essential to this end, and leveragingthese technologies is the best way to gain the initiative against adversaries.
+5
+
+● Identity Protection and Authentication: As organisations embark on a digitaltransformation to work from anywhere models, Bring-Your-Own-Devicepolicies become commonplace, and cloud services multiply, enterpriseboundaries continue to erode. This trend increases the risk of relying upontraditional authentication methods and further weakens obsolescent legacysecurity technologies. Identity-centric approaches to security use acombination of real-time authentication trafﬁc analysis and machine learninganalytics to quickly determine and respond to identity-based attacks.
+● Zero Trust. Due to fundamental problems with today’swidely-usedauthentication architectures, organisations must incorporate new securityprotections focused on authentication. Zero Trust design concepts radicallyreduce or prevent lateral movement and privilege escalation during acompromise.
+● Extended Detection & Response (XDR). Cybersecuritythreats areexceptionally broad, and for too long industry players have focused onnarrow solutions. No box on a network or a single-purpose software agentwill address the full scope of the problem. Security teams demand contextualawareness and visibility from across their entire environments, includingwithin cloud and ephemeral environments. The XDR concept seeks to applyorder to a sometimes chaotic array of security tools by deriving actionableinsights wherever they exist within the enterprise, and generate intelligencefrom what otherwise may be an information overload.
+III. CONCLUSION
+The Data Act is cited as being the “pillar for European strategy for data” with theobjectives of “harnessing the potential of the ever-increasing amount of industrialdata, in order to beneﬁt the European economy and society.”
+4
+To achieve this, werecommend the EC consider the implications of unintended incentive structuresthat may be created by overly-broad and ambiguous deﬁnitions. Ultimately, it iscritical to prioritize  future-ﬂexible data ﬂows, as well as the ﬂexibility to solve not
+4 
+A European Strategy for data, European Commission(Feb. 23, 2022),https://digital-strategy.ec.europa.eu/en/policies/strategy-data.
+6
+
+only the problems of today, but to realize the innovative potential of tomorrow.Finally, we emphasize the importance of cybersecurity best practices.
+IV. ABOUT CROWDSTRIKE
+CrowdStrike® Inc. (Nasdaq: CRWD), a global cybersecurity leader, is redeﬁningsecurity for the cloud era with an endpoint protection platform built from theground up to stop breaches. The CrowdStrike Falcon® platform’s singlelightweight-agent architecture leverages cloud-scale AI and offers real-timeprotection and visibility across the enterprise, preventing attacks on endpoints onor off the network. Powered by the proprietary CrowdStrike Threat Graph®,CrowdStrike Falcon correlates over 3 trillion endpoint-related events  per week inreal time from across the globe, fueling one of the world’s most advanced dataplatforms for security.
+With CrowdStrike, customers beneﬁt from better protection, better performanceand immediate time-to-value delivered by the cloud-native Falcon platform.
+There’s only one thing to remember about CrowdStrike: We stop breaches. Learnmore: https://www.crowdstrike.com/.
+V. CONTACT
+We would welcome the opportunity to discuss these matters in more detail. Publicpolicy inquiries should be made to:
+Drew Bagley CIPP/E Dr. Christoph Bausewein CIPP/E, CIPTVP & Counsel, Privacy and Cyber Policy Director & Counsel, Data Protection & Policy
+Email: policy@crowdstrike.com
+©2022 CrowdStrike, Inc. All rights reserved. CrowdStrike, the falcon logo,CrowdStrike Falcon and CrowdStrike Threat Graph are trademarks owned byCrowdStrike, Inc. and registered with the United States Patent and TrademarkOfﬁce, and in other countries. CrowdStrike owns other trademarks and servicemarks, and may use the brands of third parties to identify their products andservices.
+***
+7

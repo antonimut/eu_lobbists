@@ -1,0 +1,564 @@
+ 
+ 
+Data Act 
+ 
+Automotive Supplier comments on Data Act 
+ 
+FIEV in a nutshell : 
+French Federation of Vehicle Equipment Industries  (FIEV - Fédération des 
+Industries des Équipements pour Véhicules)  is the French trade association of 
+automotive suppliers, garage equipment manufacturers and all other providers 
+of automotive solutions.  It represents 130 groups of companies and their 300 
+FIEV member firms , l arge, medium-size and small companies . It promo tes the 
+interests of an industry whose members contribute 85% of the cost price of a 
+vehicle, generate almost €13 billion in turnover in France, including 54% in export, 
+and provide 62,000 direct and around 270,000 indirect jobs in 2020. 
+ 
+ 
+Context 
+The European Commission published a proposal for a Regulation “on harmonised 
+rules on fair access to use of data (Data Act)”1 on February 23rd, 2022. 
+This horizontal text aims “to maximize the value of data in the economy by ensuring 
+that a wider range of stakeholders gain control over their data and that more data 
+is available for innovative use, while preserving incentives to invest in data 
+generation”. Its goal it therefore to ensure fairness in the allocation of value form 
+data among actors in the data economy and to foster access to and use of the 
+data by placing the user in control of the data he produces. 
+This regulatory block is part of the European strategy for data 2, adopted in 
+February 2020. 
+ 
+1 COM(2022)68 final  
+2 COM(2020)66 final 
+Ref. Ares(2022)3663564 - 13/05/2022
+ 
+ 
+Synthesis and general remarks 
+FIEV welcomes the initiative of the European Commission to propose a regulation 
+helping automotive suppliers to have a fair, reasonable and non-discriminatory 
+access to the data pr oduced by mobility systems  and their environment, 
+fostering innovation and providing customers with added value services.  
+Over the last decade, data has indeed been considered as the new “oil of the 
+industry”. In 2020 we must admit that this potential has hardly delivered its 
+promises within the automotive world. 
+It is our belief that besides technical aspects which need to be addressed in a 
+sector specific regulation (non-harmonized technical solution s, data access 
+interfaces, etc.), the lack  of a forward-looking economic model, a kind of “next 
+gen Business Model ”, is likely to hinder the emergence of this new market in 
+Europe (cf. Annex). 
+Automotive suppliers underline the need for clarification of some of the Data Act 
+definitions and concepts that could, according to our understanding jeopardize 
+the overall goals of the proposals: 
+• Smartphone or tablets or similar devices  can be part of the system  to 
+interact with vehicle occupant and therefore be covered. 
+• The ‘Data’ definition is very wide and covers as it stands each piece of raw 
+data produced by every sensor of a vehicle, making it difficult to be made 
+accessible to the user . Furthermore, it is not clear in the obligations how 
+anonymized data should be handle. 
+• The ‘User’ can be a competitor if it buys, rents or loans a product, making 
+the produced data accessible to him, with all the obligations set -up in 
+chapter 2. 
+• ‘Data Holder’ bears a critical role in the Data Act. Its definition should not 
+lead to uncertainties of interpretation and should clarify the duty of each 
+actor. We understand that in the connected vehicle  case and for non -
+personal data , vehicle manufacturers collecting data should be seen as  
+data holders, even if the design of their product and their digital services 
+are grouped in two different legal entities. We indeed believe that the 
+current drafting  could lead to a possibility of circumvention of the goal s 
+of this regulation.  
+However, we commend that component or system suppliers would not be 
+seen as  data holders, even if the products they provide to vehicle 
+manufactures generate usage data , as they are not in control of the 
+possible related services.  
+• “Intellectual Property” is key to protect the software suppliers integrate 
+in their product. But IP or trade secrets should not be used to hinder the 
+ 
+ 
+sharing of data, eg. by processing them with a single layer of additional 
+software. 
+• The new Data Act regulation calls for compliance with a number of other 
+existing measures , like the GDPR or ePrivacy. For vehicular data other 
+requirements apply such as EPBM guidelines, ITS, RTTI regulations. We are 
+concerned about the compatibility of all these measures when applied to 
+the automotive sector . We therefore recommend to develop sector 
+specific guidelines to help stakeholders to comply with all these measures 
+(e.g. on the obligation on conservation duration) 
+  
+ 
+ 
+Data Act Key concepts and related remarks 
+The Data Act goal is to: 
+• Facilitate access to and the use of data by consumers (B2C) and 
+businesses (B2G), while preserving incentives to invest in ways of 
+generating value through data. 
+• Provide for the use by public sector  (B2G) bodies and Union institutions, 
+agencies or bodies of data held by enterprises in certain situations where 
+there is an exceptional data need.  
+• Facilitate switching between cloud and edge services 
+• Put in place safeguards against unlawful data transfer  without 
+notification by cloud service providers. 
+• Provide for the development of interoperability standards for data  to be 
+reused between sectors. 
+This principles are described and defined in the different chapters of the 
+proposed regulation . Following paragraphs describes the concerns of 
+automotive suppliers 
+A. Notices and Definition 
+• Recital (15) excludes form the scope of the regulation tablets and 
+smartphones or sound recording systems. Such device s are used in 
+vehicles as interfaces with the occupants to interact with them,  
+exchanging with the vehicle,  for example in consent management . 
+Therefore, such devices are a functional part of a larger range of products 
+and services and should be covered as such. 
+• Article 2.(1). defines ‘Data’ in a broad manner. It is our understanding that 
+such definition would cover any data produced by any sensor or Electronic 
+Control Unit of a vehicle (raw data). Such interpretation could be a risk to 
+the intellectual property of automotive suppliers producing the sensors or 
+ECU of the component or the systems integrated into the vehicle. Besides, 
+we doubt that the amount of raw data produced by a vehicule could be 
+collected and exchanged in a socio-economical efficient way. 
+• According to Article 2.(5)., a ‘User’ can both be a natural or legal person. 
+We are concerned that such definition , in combination to the obligations 
+lay down in chapter II, especially in article 3, could lead to give away data 
+to a competitor simply renting or leasing a vehicle operating one of our 
+product. 
+• Article 2.(6) defines ‘Data Holder’ as “a legal or natural person who has the right 
+or obligation, in accordance with this Regulation, applicable Union law or national 
+legislation implementing Union law, or in the ca se of non -personal data and 
+through control of the technical design of the product and related services, the 
+ 
+ 
+ability, to make available certain data”. This key definition is interpreted by our 
+members as described below: 
+o We understand with such a definition that a vehicle manufacturer will 
+be the data holder in our sector, as it will put on the market the product 
+(vehicle) and gather either within the product or on a server the data 
+produced by the vehicle.  
+o If the activities of product design and their related services are split in 
+2 different legal entities, we believe that the mother entity should be 
+considered as the data holder. 
+o We welcome that Suppliers of components or systems  integrated in 
+the vehicles will not be regarded as data holders are they do not have 
+any direct means of data collection  (e.g. getting the data from the 
+vehicle CAN network). 
+B. Business to Customer (B2C) and Business to Business data (B2B) 
+Chapter II (articles 3 to 7) describes the obligation for B2C  and B2B data 
+sharing: 
+• Article 3.1 specifies that the “Products shall be designed and manufactured, 
+and related services shall be provided, in such a manner that data generated 
+by their use are, by default,  easily, securely and, where relevant and 
+appropriate, directly accessible to the user .” This article raises a lot of 
+questions: 
+o Who is deciding that it is “relevant and appropriate”? On which basis? 
+o We believe that the sub -components of a  product (e.g. the 
+components of a  vehicle) under  art 3.1.  should not be considered 
+themselves as products, since the supplier of these sub -components 
+are simply not in control of  the accessibility to the u ser of the data 
+they produce in the vehicular system. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Upon request by the User, the Data Holder shall make the data available: 
+ 
+ 
+• According to Article 6, a 3rd party receiving data cannot use it for profiling 
+purposes, make it available to other 3 rd parties without prior consent of 
+the ‘user’, use it to develop a competing product. 
+Suppliers welcome the intention to protect the component or systems 
+integrated in vehicles from unlawful competition, but underline that only 
+the products are protected, not the related services and believe that they 
+should be in the scope of this provision too. 
+• Article 5: ‘Right to share data with third parties’ is based ‘upon request by 
+a user, or by a party acting on behalf of a user ’. We understand that such a 
+request is triggered by contractual agreements between the user and the 
+3rd Party, the user making the request to the vehicle manufacturer in the 
+automotive sector. We are of the view that data for R&D purposes should 
+be excluded from this provision.. 
+We believe that it should be clarified that a GDPR consent by the ‘user’ 
+should be interpreted as a request under Data Act , at the origin of any 
+transmission of data under articles 4 and 5. We expect the Data Act to 
+clarify this point. 
+  
+Data Holder 
+Without undue delay and, 
+where applicable, 
+continuously and in real-
+time (art.4 & 5) 
+ 
+Free of 
+Charge 
+(art 4.) 
+  
+FRAND 
+(art 8.) 
+Cost 
+recovery 
+(art 9.) 
+User 
+3rd Party 
+Micro & 
+SMEs 
+ 
+ 
+Based on the obligati ons describe d in chapter II of the proposal and the 
+definitions contained in article 2  and our understanding, we have tried to 
+interpret the role of each actor in the value chain  in an example where an 
+automotive supplier  SUPP is acting as a service provider , developing an 
+application for a car rental company RENTCOMP. Mr SMITH is a customer of 
+RENTCOMP renting a brand new MODEL made by  CAR. We assume that 
+RENTCOMP got Mr. SMITH ’s consent to collect and process its data with a 
+view to providing him a specific SERVICE (GDPR), eg. Eco-driving. 
+ 
+Who Role Explanation 
+CAR Data Holder CAR company sells the MODEL vehicle, 
+producing data based on its usage 
+and collects them. 
+RENTCOMP User Purchased some MODEL vehicles 
+from the CAR company 
+SUPP - Developed a SERVICE application for 
+RENTCOMP, based on Mr. SMITH ’s 
+usage data. 
+Based on these roles, we understand that 
+• CAR as a Data Holder has the obligation (art. 4 and 5) to share the collected 
+data from the MODEL vehicles with their users, upon their request. 
+We could consider that a request is sent to a CAR server when Mr SMITH 
+accepts the condition of usage (including GDPR)  of the SERVICE 
+application. 
+• As a User, RENTCOMP could request the data  to CAR company, free of 
+charge, contracting with SUPP, to develop or operate the SERVICE. SUPP 
+is not consider ed a 3 rd Party as defined in the Data Act , but as a sub -
+contractor as defined in the GDPR. 
+In conclusion, we underline that RENTCOMP as a User would get the vehicle 
+data free of charge in this example, and is likely to provide access to SUP free 
+of charge to process the data  for the provision of the SERVICE. B ut if SUPP 
+was designated a 3rd Party to CAR in the sense of the Data Act, SUPP would 
+have to purchase the data from CAR under a FRAND principle  for the same 
+SERVICE provision to RENTCOMP. We can see that the 2 business models are 
+unbalanced. A global share of the added value of data through the economic 
+model presented in FIEV position (see annex) would probably help solve this 
+situation. 
+ 
+ 
+ 
+C. Intellectual Property and Trade Secrets 
+We welcome the intention that, through different articles the text proposal 
+aims to protect trade secrets  and intellectual property (art.4, art.5, art.6, 
+art.8, art. 17.2(c), as innovations by suppliers (hardware and software) must be 
+protected to preserve their competitivity. 
+But, if a piece of data is protected by IP , we wonder , regarding the broad 
+definition of data set-up in article 2.1 , . if any modified data could fall under 
+this IP and trade secret provision s and therefore be not shared by the data 
+holder anymore. Here also, we believe that the FIEV economic model could help 
+solve this issue as IP would be valued for each actor of the value chain in this 
+proposed model (“data right owner”). 
+D. Business to Government (B2G) data  
+Chapter V (articles 14 to 22) describes the obligations for sharing data to 
+public sector bodies and Union institutions, agencies, or bodies upon request 
+if they demonstrate an exceptional need (art 14 (1)). Only micro, small and 
+medium enterprises are excluded (art 14(2)) 
+ 
+ 
+ 
+ 
+ 
+Data Holder 
+• Data necessary to respond (15(a)), to 
+prevent  or recover from public 
+emergency  
+OR 
+• To fulfil public interest mission explicitly 
+provided by law AND data is not 
+available 
+Exceptional 
+need 
+(art 15) 
+  
+Free of Charge to 
+respond to public 
+emergency  
+(art 20.) 
+Public sector 
+Public sector 
+specification 
+for data 
+(art 17) 
+ 
+ 
+Article 15 defines the different circumstances of the ‘exceptional need’ where 
+public sector can request data from data holder, free of charges: 
+(a) To respond to a public emergency.  
+(b) To prevent or to assist the recovery from a public emergency. 
+(c) Lack of available data  preventing the public sector from fulfilling a 
+specific task in the public interest  that has been specified by law ; 
+AND,  
+• public sector was not able to purchase the data on the market  
+• OR obtaining the data would reduce administrative burden for 
+stakeholders. 
+Article 2(10) defines ‘public emergency’  as ‘an exceptional situation negatively 
+affecting the population of the Union, a Member State or part of it, with a risk of 
+serious and lasting repercussions on living conditions or economic stability, or the 
+substantial degradation of economic assets in the Union or the relevant Member 
+State(s)’. 
+• We believe that t he ’public emergency’ definition may be too vague to 
+ensure a legal certainty for the industry. How will the public sector argue 
+upon the exceptionality of a situation? 
+• The lack of available data is the 3rd reason for public authorities to request 
+data from data holder. A data is defined by many characteristics (format, 
+frequency, latency, units, etc.). Therefore, how can the public sector check 
+if the data they request is available or can be derived from the data they 
+may already have access to? 
+  
+ 
+ 
+ANNEX : Economic Model for Vehicular Data Access 
+ 
+Subject : Access to Data 
+ 
+Introduction 
+With multiple ECU onboard, modern vehicles are already producing a large 
+quantity of data. This data, combined with environmental information, can 
+produce added value services to the customers. Equipment and system suppliers, 
+vehicle manufacturers, infrastructure operators, service providers  and other 
+stakeholders are  willing to create innovative solutions that are safe r, more 
+secure, more reliable and to offer added-value services to the end user. The value 
+chain of the automotive data is therefore critical to guarantee a fair, reasonable 
+and non-discriminatory access to the data by each and every stakeholder.  
+ 
+Over the last decade, data has indeed been considered as the new oil of the 
+industry. In 2020 we must admit that this potential has hardly delivered its 
+promises within the automotive world. 
+Beside technical aspects which need to be addressed (non-harmonized technical 
+solutions, data access interfaces under discussion), the lack of a forward-looking 
+economic model, a kind  of “next gen Business Model ”, is likely to hinder the 
+emergence of this new market in Europe . Today, Public3 and Private initiatives 
+emerge to redefine the relationship among each embedded party from the data 
+creation to the service provision. Yet , none of the se initiatives have 
+demonstrated their ability to scale-up the perspectives at European level. 
+After presenting the current situation on vehicular data access, t his note 
+proposes one wide scale economic model, inspired by the “fair remuneration 
+model” which currently exists in the music Industry  and presents the expected 
+benefits to the stakeholders in the value chain. 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Loi Pacte 22 mai 2019, Loi d’Orientation des Mobilités 24 décembre 2019 
+
+ 
+ 
+Current Situation 
+Over the past years, most of the discussions related to vehicular data access 
+have been focusing on the technical aspects and corresponding interfaces to 
+access the data. These discussions  have basically addressed a number of well -
+known – yet limited number of – use-cases, such as predictive maintenance 
+(brake pad ware, revision, etc.), over the air d iagnostic, quality information from 
+the systems or components.  
+ 
+However, these discussions have not yet resulted in a comprehensive solution for 
+data access, which actually remains relatively limited (limited list of data made 
+available, or set of data to be negotiated with vehicle manufacturers  on a case 
+by case basis). 
+ 
+Major pain points continue to exist: 
+• Monitoring of the data to be used in the service and therefore a risk to 
+see a potential competitor developing a similar service. 
+• Having to expose the model of the service, including its business model to 
+a potential competitor. 
+• Fear of being left out of the value chain  due to a lack or restricted data 
+access. 
+• Fear from upstream actors to be left out of the value creation by 
+downstream actors, in case of business success 
+• Negotiation time between parties leading to miss the time to market 
+solution. 
+• As data content and access is fully controlled by the vehicle 
+manufacturers, potential and disruptive innovation may be stopped or 
+slowed down. 
+• Limited set of data available through current interfaces. 
+ 
+These points could be lifted with an appropriate business model. As a matter of 
+fact, beside technical aspects (such as security), the lack of a shared business 
+model to access vehicle data is a bottleneck for any progress on the subject. 
+ 
+The lack of a shared business model, acting as an obstacle to economic growth, 
+has already been witnessed in other industr ies, such as the one related to 
+streaming services in the US.  The vi deo streaming companies  are currently 
+battling against digital platforms that aggregate services, due to the control of 
+the data and the sharing of the value between the different actors . Platforms 
+ 
+ 
+are seeking to force the end-user to subscribe to their platform (and therefore 
+sharing their data) before having access to the services4. 
+ 
+The automotive model is already at risk if the price to be paid by a service 
+provider to access the data is controlled by a limited number of actors in the 
+value chain. In addition, suppliers or service providers could face large differences 
+in data prices from one OEM to another, potentially jeopardizing any opportunity 
+to develop large-scale, innovative services.  
+ 
+Therefore, independently of the technical access to the data, we advocate to 
+find a new, fair, reasonable, non-discriminatory and balanced business model for 
+each stakeholder in the vehicular data value chain, guaranteeing a proportionate 
+return on investment to each actor. 
+ 
+Proposed Model 
+FIEV is of the view that a simple model enabling access to the data to whoever is 
+willing to create value out of it  is key to create the conditions for a thriving 
+market of the vehicular data, while offering an opportunity to mitigate the 
+above-mentioned barriers . To be successful, this model should enable any 
+downstream use case on an ex ante basis, facilitate initiatives and innovation, 
+while ensuring a fair and equitable remuneration of the upstream value chain for 
+making this data available.  
+ 
+A revenue sharing model would fulfill these requirements, like the economic model 
+which has successfully governed the fair remuneration of music content -right 
+owners by commercial broadcast radios in a lot of European countries, including 
+France5. In this model, any commercial radio is entitled to use the music 
+repertoires of collecting societies against the payment of a fair remuneration, 
+which usually takes the form of a percentage of the revenues generated by this 
+station, whatever these future revenues may be. These shares of revenues, as 
+collected, are then re-distributed on a fair basis to all the content right owners 
+(artists, writers, publishers, etc.) who participated to the creation and publishing 
+of the music phonograms used in the programming of affiliated radio stations. 
+ 
+ 
+4 Les Echos - Streaming : aux Etats-Unis, la bataille fait rage entre les plateformes vidéo et les boîtiers de télévision 
+connectée 
+5 In France, this model has been implemented through the Law 85-660 of the 3rd of July, 1985 (“Lang Law”) which 
+transposes the 1961 Rome Convention. At European level, it has also been implemented through Directive 92/100/EEC 
+ 
+ 
+ 
+ 
+ 
+FIEV is of the view that a similar approach could be implemented as an economic 
+model governing the ac cess to vehicular data, to remunerate on an equitable 
+manner all the upstream actors which participated in the creation of the data 
+used to generate revenues by downstream actors, whatever the ir use case / 
+business case.  
+ 
+In the music Industry, the rates defining the shares of revenue to be paid by the 
+collecting society to each content-right owner, are fixed. These rates are indeed 
+negotiated upfront among stakeholders and then fixed through regulatory 
+measures and subject to timely revisions. A sim ilar model could be applied in the 
+vehicular Industry. Other schemes, e.g. leaving each Data operator to fix its own 
+rates for specific investment-intensive, added -value data  could also be 
+contemplated. Mixed models could also be envisaged, defining fixed rates for 
+“standard” data -processing, while allowing for  flexible rates to apply to more 
+complex added-value data, on a case by case basis. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+• Embedded HW: onboard embedded hardware generating raw data on the 
+car network 
+• Embedded SW : onboard embedded software, processing raw data to 
+generate more complex added-value data on the car network 
+• OEM: car manufacturer having control on the ir E/E architecture design, 
+and connectivity  devices ensuring its overall functionality, safe and 
+secured usage, notably through the consistency of data flows between 
+components, modules and systems through the car networks 
+• Data publisher: operator collecting and/or aggregating vehicular data and 
+guaranteeing its quality and format consistency, for their consumption by 
+third party service providers and data operators 
+• 3rd party cloud: remote clouds providing non-vehicular external data (e.g.  
+weather, infrastructure, traffic, etc.) 
+• Data operator : remote third-party operator processing vehicular and 
+non-vehicular data to produce and publish more complex added value data 
+in the cloud. 
+• Service provider: produces a service to end users,  based on processed 
+data and generates revenues 
+• Collecting society : European, neutral entity tasked with collecting a 
+percentage of the revenues generated by Service providers and ensuring 
+the redistribution of these collected revenues among upstream “data -
+right owners” 
+ 
+The costs to process the data , or make this data available  to service providers 
+through communication and storage,  substantially vary from  one type of data 
+to another, in terms of: 
+• R&D investments required to produce specific added-value data, 
+
+ 
+ 
+• CPU processing power (edge and/or cloud computing) required to produce 
+the data, 
+• Communication costs to stream real -time/low-latency or high -volume 
+data flows through mobile networks (e.g. 5G low latency networks)  along 
+the value-chain, 
+• storage costs of the data, 
+• cybersecurity costs (e.g. monitoring of data flows), 
+• etc. 
+For this reason, the above model should be adapted to reflect such variations in 
+cost intensities . The creation of specific “cost -intensive classes of data”  is 
+proposed, to enable a  weighted remuneration by the collecting society , to 
+account for this variability: 
+ 
+ 
+ 
+Finally, the above shared-revenue business model is independent from the 
+technical access to the data and is fully compatible with GDPR regulation. And 
+as a matter of fact, any piece of vehicular data is already expected to carry 
+along some GDPR6-related information tracing its origin, collection, 
+consents/pseudonimization/anonymization, processing, to a final usage , when it 
+is considered personal data . Applying this revenue sharing model would add to 
+this GDPR-related information the various “processing-right owners” which each 
+added value through the processing they successively applied to the original 
+data, up to its final usage. In exchange, a fair and equitable share of possible 
+generated revenue could easily be re-distributed among these processing-right 
+owners, who contributed to the final value of the data, without requiring for the 
+need to understand, beforehand, the final use case / business case being pursued 
+by the downstream operators.  
+ 
+6 Regulation (EU) 2016/679 on General Data Protection Regulation 
+
+ 
+ 
+Benefits to the Value Chain 
+The Business Model described in the previous chapter, hosted at EU level7, provides a 
+concrete framework and gives answer to the major challenge r elated to value 
+measurement criteria definition that reveal the contribution of all stakeholders which is 
+evolving temporally with opposing interest to the value creation and consumption 
+process or reveal the value created by the Automotive industry, and other stakeholders. 
+Such a fair remuneration model is key to facilitate the emergence of a vehicular data-
+driven market, fostering innovation and initiatives. It would provide the necessary 
+comfort to attempt and invest in the development of new services, reducing time to 
+markets in the deployment of services by alleviating from a prerequisite, lengthy and 
+uncertain clearance to use the data. It would reduce the uncertainties both for the 
+provider of a new service by setting a clear , ex ante revenue share model, without 
+putting potential unbearable flat fees on its business plan, while guaranteeing the 
+upstream actors that they will actually benefit from any value creation to be generated 
+by any downstream business, in case of success.  
+Overall, this model provides a level playing field with a new competitive market of 
+vehicular data, providing a fair, reasonable and non-discriminatory access to each and 
+every stakeholder. 
+ 
+ 
+7 e.g. GAIA-X-like platform 
+Take Aways 
+• Most of the discussion on access to vehicle data focuses today on technical 
+aspects, and are based on a limited number of specific use cases  
+• To create the conditions for innovation, a new comprehensive business model, 
+applicable to any existing or future use-case, is needed  
+• This business model must guarantee a fair, reasonable and non-discriminatory 
+access to data to each and every stakeholder  
+• The existing business model in the music industry can be replicated: to remunerate 
+on an equitable manner all the upstream actors which participated in the creation 
+of the data used to generate revenues by downstream actors, whatever their 
+use case / business case 
+• The remuneration can be based on pre-established, regulated percentages for 
+“standard” data, and/or left to market decisions for the publication of more 
+investment-intensive data 
+• The costs to process the data or make this data available to service providers 
+can vary from one type of data to another. Creation of “cost-intensive classes of 
+data” is proposed, to enable a weighted remuneration by the collecting society. 

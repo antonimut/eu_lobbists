@@ -1,0 +1,400 @@
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Implementation of the eIDAS nodes: 
+State of play 
+ 
+Since the adoption of the eIDAS Regulation 1 in 2014, 15 Member States have notified at least one 
+electronic identification (eID) scheme. Such a notification entails an obligation of mutual recognition 
+by other Member States within one year. This means that the notified eID scheme can be used in 
+Member States where an eID means is required to access a public service.  
+The concrete implementation of mutual recognition is done through the eIDAS nodes. Each Member 
+State sets up a node, i.e. an interface which communicates with other nodes to request or provide 
+cross-border identification and authentication. A software (eIDAS-Node software) has been developed 
+under the Connecting Europe Facility (CEF) programme and is being re-used by most of the Member 
+States for the roll-out of their nodes.  
+The objective of this short study is to give an overview of the current state of play of interconnection 
+of the eIDAS nodes across Europe. More precisely, the study aims to provide an answer to the following 
+question: as a citizen from Member State A, in which Member States can I use my eID? It also provides 
+additional comments on the roll-out of both national eID schemes and eIDAS nodes.  
+The information compiled in this study was gathered through exchanges with national contact points. 
+It is based on  the answers that could be collected , hence explaining missing information for some 
+Member States. 
+ 
+Acknowledgment:  Eurosmart would like to give a special thanks the national contact points who 
+provided the information.  
+ 
+Disclaimer: The study was realised from May to August 2020, the situation might have evolved during 
+this period of time. If you notice an obsolete or inaccurate data, please do not hesitate to report it to 
+us (camille.dornier@eurosmart.com). 
+ 
+ 
+1 Regulation (EU) no 910/2014 of the European Parliament and of the Council on electronic identification and 
+trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC , OJ 28 
+August 2014. 
+ 
+Ref. Ares(2020)5015253 - 24/09/2020
+ 
+ 
+2 
+ 
+ 
+ 
+eIDAS interconnection: state of play (May-August 2020) 
+Country Status 
+of the 
+node 
+Receiving eIDs from Sending eIDs to Additional comments 
+Austria In Prod. 
+Estonia, Germany, Italy, Spain.  
+ 
+In progress: Belgium, Croatia, 
+Luxembourg, Portugal. 
+No notification so far. 
+ 
+Belgium In Prod. 
+Croatia, Estonia, Germany, Italy, 
+Luxembourg, Lithuania, Slovakia, 
+Spain. 
+No view on what the other 
+countries have implemented. 
+ 
+Bulgaria In Prod. None  No notification so far.   
+Croatia In Prod. 
+Belgium, Germany, Malta, 
+Netherlands, Slovenia, Sweden, 
+Luxembourg.  
+In progress: Austria, Cyprus, the 
+Czech Republic, Estonia, Spain, 
+Lithuania, Latvia, Poland, Portugal, 
+the UK, Bulgaria, Denmark, 
+Ireland, Italy and Slovakia. 
+Belgium, Germany, Malta, 
+Netherlands, Slovenia, 
+Sweden, Luxembourg and 
+Norway. 
+ 
+Country 
+Status 
+of the 
+node 
+Receiving eIDs from Sending eIDs to  Additional comments 
+ 
+3 
+ 
+ 
+ 
+Cyprus Under 
+develop. 
+Testing mode with 6 other 
+Member States. No notification so far. 
+Production of the node expected for the summer.  
+Cyprus has an eID scheme with LoA low. Cyprus is in the process of 
+developing a national scheme with LoA high. The eID scheme would be 
+put in place in Q1 -Q2 2021. Cyprus will subsequently start the 
+notification process. 
+Czech 
+Republic In Prod. 
+Germany. 
+In the process of integrating other 
+countries according to notified 
+eID schemes. 
+None.   
+The Czech eIDAS node is running, but -with regard to the notified eID 
+cards, Czech Republic was doing some adjustments o f their eID system 
+at the time of the study. The time needed to adjust this eID system was 
+estimated to several weeks. 
+Denmark In Prod.  -  -  
+Estonia In Prod. 
+Belgium, Croatia, Italy, Germany, 
+Latvia, Luxembourg, Portugal, 
+Spain. 
+Austria, Belgium, Croatia, 
+Denmark, Finland, Greece, 
+Italy, Lithuania, Luxembourg, 
+Malta, Netherlands, Norway, 
+Poland, Portugal, Slovakia, 
+Slovenia, Sweden, UK 
+ 
+Finland Under 
+develop. Estonia, Italy, Germany. No notification so far.  
+France N/A  None  None. France will pre-notify its eID schemes by the end of 2020 or early 2021.  
+Country 
+Status 
+of the 
+node 
+Receiving eIDs from Sending eIDs to  Additional comments 
+ 
+4 
+ 
+ 
+ 
+The French eIDAS node is being audited until October 2020. A testing 
+phase will follow but remains to be planned.  
+Germany In Prod. No overview because of the 
+decentralised approach.  
+Austria, Belgium, Czech 
+Republic, Denmark, Estonia, 
+Finland, Greece, Italy, Latvia, 
+Lithuania, Luxembourg, 
+Malta, the Netherlands, 
+Slovakia, Slovenia, Spain, 
+Sweden, the UK.  
+The German eIDAS Connectors (receiving nodes) are operated by other 
+parties that are not under German federal administration’s direct 
+control. The German team does not know the exact number of eIDAS 
+Connectors in Germany, and, hence could not provide further details on 
+received eIDs. Services that are connected to the eIDAS network, via 
+their eIDAS Connector,  are to be accessible by all notified eID means 
+that fall under  the mutual recognition obligation. However, t he 
+implementation status is not always satisfactory. 
+Greece Under 
+develop. -  -  
+Hungary Under 
+develop.  -  -  
+Ireland Under 
+develop.  -  - 
+ 
+ 
+Italy In Prod. 
+Belgium, Croatia, Estonia, 
+Germany, Luxembourg, Portugal, 
+Slovakia, Spain, the UK.  
+In progress: Czech Republic, 
+Latvia, Netherlands. 
+Austria, Belgium, Croatia, 
+Denmark, Estonia, Finland, 
+Greece, Latvia, Lithuania, 
+Luxembourg, Malta, the 
+Netherlands, Portu gal, 
+ 
+Country 
+Status 
+of the 
+node 
+Receiving eIDs from Sending eIDs to  Additional comments 
+ 
+5 
+ 
+ 
+ 
+Slovakia, Slovenia, Spain, 
+Sweden, UK  
+Latvia Under 
+develop. 
+Germany, Italy, Estonia,   Spain, 
+Croatia, Luxembourg, Belgium, 
+Portugal.  
+In the process of integrating other 
+countries according to the notified 
+eID schemes.  
+Croatia, Spain, Portugal, Italy, 
+Lithuania, Estonia, 
+Luxembourg.  
+ 
+Lithuania In Prod. 
+Germany, Greece, Italy, Latvia, 
+Luxembourg, Portugal, Spain, 
+Sweden.  
+Test with over 18 countries. 
+None. 
+eID notified on 21 August 2020. Discussions started with Baltic countries 
+for these countries to accept the Lithuanian eID as soon as possible. 
+Not all Lithuanian service providers accept data of foreign people. This 
+problem is currently being fixed.  
+Luxembourg In Prod. Belgium, Croatia, Estonia, 
+Germany, Italy, Spain. 
+Austria, Belgium, Croatia, 
+Denmark, Estonia, Italy, 
+Latvia, Malta, the 
+Netherlands, Slovakia, 
+Slovenia, Spain, Sweden, the 
+UK.  
+ 
+Malta In Prod. 
+Belgium, Croatia, Estonia, 
+Germany, Italy, Luxembourg, 
+Portugal, Spain, the UK. 
+No notification so far. 
+A date for notification remains to be determined. 
+Country 
+Status 
+of the 
+node 
+Receiving eIDs from Sending eIDs to  Additional comments 
+ 
+6 
+ 
+ 
+ 
+Netherlands In Prod. 
+Belgium, Croatia, Estonia, 
+Germany, Italy, Luxembourg, 
+Spain. 
+None so far. 
+DigiD was notified on 21 August 2020 . Using DigiD in other Member 
+States should be possible from August 2021. 
+Poland In Prod.  -  -  
+Portugal In Prod. Belgium, Estonia, Italy, Latvia, 
+Lithuania, Luxembourg, Slovakia, 
+Slovenia, Spain. 
+Belgium, Estonia, Italy, Latvia, 
+Lithuania, Luxembourg, 
+Slovakia, Slovenia, Spain. 
+ 
+Romania Under 
+develop. None  None 
+ 
+Slovakia In Prod. 
+Belgium, Croatia, Estonia, 
+Germany, Italy, Luxembourg, 
+Portugal, Spain, t 
+In progress: Czech Republic, 
+Denmark, the Netherlands, 
+Poland, the UK.  
+ Belgium, Czech Republic, 
+Italy, Spain. 
+ 
+Slovenia In Prod. -  -  
+Country 
+Status 
+of the 
+node 
+Receiving eIDs from Sending eIDs to  Additional comments 
+ 
+7 
+ 
+ 
+ 
+Spain In Prod. 
+ 
+Belgium, Croatia, Estonia, 
+Germany, Italy, Latvia, 
+Luxembourg, Portugal, Slovakia. 
+Austria, Belgium, Croatia, 
+Denmark, Estonia, Greece, 
+Italy, Latvia, Lithuania, 
+Luxembourg, Malta, the 
+Netherlands, Portugal, 
+Slovakia, Sweden, United 
+Kingdom. 
+ 
+Sweden In Prod. 
+Belgium, Croatia, Estonia, 
+Germany, Italy, Luxembourg, 
+Spain. 
+No notification so far.  
+ 
+United 
+Kingdom In Prod. -  -  
+ 
+ 
+8 
+ 
+ 
+ 
+Obstacles to smooth implementation of eIDAS: a national perspective 
+A few issues were identified by the national contact points as obstacles to a smooth implementation 
+of eIDAS. Such obstacles are both legislative, e.g. missing elements in the legislation, and technical.  
+• Identity matching 
+Identity matching was mentioned a  few times as a challenge faced by national administrations. It 
+seems to be the biggest problem when it comes to the implementation of eIDAS. Some Member States 
+do not have persistent identifiers – or such persistent identifiers are provided as an optional attribute, 
+which makes it difficult to match the identity data stored in a particular public sector body with the 
+information on the identified/authenticated person received through the process of electronic 
+identification. This renders recognition of foreign identities harder. 
+Implementing Regulation 2015/1501  establishes that  the minimum data set for a natural or legal 
+person shall contain a unique identifier (beside name, surname and birthdate for a natural person, and 
+beside the legal name for a legal person). According to the current technical specifications, the unique 
+identifier is composed as follows: 
+1. The first part is the Nationality Code of the identifier 
+o This is one of the ISO 3166-1 alpha-2 codes, followed by a slash (“/“)) 
+2. The second part is the Nationality Code of the destination country or international organization 
+o This is one of the ISO 3166-1 alpha-2 codes, followed by a slash (“/“) 
+3. The third part a combination of readable characters 
+o This uniquely identifies the identity asserted in the country of origin but does not 
+necessarily reveal an y discernible correspondence with the subject's actual identifier (for 
+example, username, fiscal number etc) 
+Example: ES/AT/02635542Y (Spanish eIDNumber for an Austrian SP) 
+Some national contact points underline that the current legislation is not enough to provide a reliable 
+matching between the physical and digital identity of a person. Clearer technical specifications and 
+more stable identifiers were mentioned as possible solutions to this problem.  
+National contact points also raised the issue of the lack of relevant attributes for several services. The 
+list of mandatory attributes laid down by Implementing Regulation 2015/1501 is limited, e.g. it does 
+not include the fiscal residence, which hampers the use of eIDAS for some purposes (e.g. Know -Your 
+Customer).   
+ 
+• Technical problems  
+First, different types of implementations (middleware vs proxy) of eIDAS nodes render interoperability 
+and governance more difficult.  
+ 
+9 
+ 
+ 
+ 
+Secondly, the trust establishment model was cited as a problematic issue. The configuration of the 
+trust information, metadata and certificates, between the eIDAS nodes must be done manually. This 
+can result in technical problems when interconnecting the eIDAS nodes. At least one national contact 
+point advocated for an automated trust establishment mechanism, such as trust lists for qualified 
+certificates. 
+Finally, another point raised was the need to upgrade the version of the eIDAS  node at much faster 
+pace than expected. New versions of the eIDAS node are frequently released, and there is no 
+information on the release of a future finalised version which could be used for a longer period of time.  
+• Difficult cross-border communication  
+Cross-border communication was another issue mentioned as an obstacle to smooth implementation. 
+Contact with other Member States to make an eID accepted is not always seamless.  
+In addition, there is no list of public sector services that can be used through eIDAS authentication for 
+each Member State.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rue de la Science 14b | B-1040 Brussels | Belgium 
+Tel +32 2 880 36 00 | mail eurosmart@eurosmart.com 
+www.eurosmart.com 
+ @Eurosmart_EU 
+ @Eurosmart 
+ 
+ 
+ 
+About us 
+Eurosmart, the Voice of the Digital Security Industry, is an international non-profit association located 
+in Brussels, representing the Digital Security Industry for multisector applications. Founded in 1995, 
+the association is committed to expanding the world’s Digital secure devices market, developing smart 
+security standards and continuously improving the quality of security applications.  
+Our members 
+Members are designers or manufacturers of secure elements, semiconductors, smart cards, systems 
+on chip, High Security Hardware and terminals, biometric technology providers, system integrators, 
+secure software and applic ation developers and issuers. Members are also involved in security 
+evaluation as laboratories, consulting companies, research organisations, and associations. 
+Eurosmart members are companies ( BCA, Bureau Veritas,  CYSEC, Fingerprint Cards , G+D Mobile 
+Security, GS TAG , Huawei, IDEMIA, IN GROUPE , Infineon Technologies , Inside Secure , Linxens, 
+Nedcard, NXP Semiconductors, +ID, PayCert, Prove & Run , Qualcomm, Real Casa de la Moneda , 
+Samsung, Sanoïa, Sarapis, SGS, STMicroelectronics, Thales, Tiempo Secure, Toshiba, Trusted Objects, 
+WISekey, Winbond, Xilinx), laboratories (Brightsight, Cabinet Louis Reynaud, CCLab, CEA-Leti, Jtsec, 
+Keolabs, Red Alert Labs , Serma,), consulting companies ( Internet of Trust, Trust CB ),  research 
+organisations ( Fraunhofer AISEC, Institut Mines -Telecom - IMT, ISEN - Institut Supérieur de 
+l’Électronique et du Numérique Toulon ), associations ( SCS Innovation cluster , Smart Payment 
+Association, SPAC, Mobismart, Danish Biometrics). 
+Eurosmart is member of several European Commission’s groups of experts: Radio Equipment Directive, 
+eCall, Multistakeholder platform for ICT standardisation, and Product Liability.  
+Eurosmart and its members are also active in many other security initiatives and umbrella 
+organisations at EU-level, like CEN-CENELEC, ECIL, ETSI, ECSO, ESIA, ETSI, GP, ISO, SIA, TCG and others. 
+ 
+ 

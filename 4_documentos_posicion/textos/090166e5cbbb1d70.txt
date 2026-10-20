@@ -1,0 +1,89 @@
+ 
+ 
+ 
+ 
+Stand: 23. Oktober 2019 
+ 
+1 von 3 
+ 
+Anhang 1: Technische Details zur verwendeten Datenbasis  
+Den Regelungen des Baseler Ausschusses zur Finalisierung von Basel III  zufolge dürfen die 
+zusammengefassten Kredite an einzelne Schuldner 0,2% des gesamten für aufsichtliche 
+Zwecke gebildeten Retail -Portfolios (Mengengeschäft) nicht übersteigen.  Konkret verstehen 
+die Baseler Aufseher unter „zusammengefasste Kredite“ alle Arten von Retail-Krediten (mit 
+Ausnahme von Immobilienkredite n, Derivaten und Wertpapieren)  ohne Berücksichtigung 
+kreditrisikomindernder Methoden (CRM). Außerbilanzielle Forderungen sollen nach 
+Anwendung der Konversionsfaktoren (CCF) angesetzt werden.  
+In der Praxis ist es sehr aufwe ndig, die einzelnen Kredite der B anken vor CRM, aber nach 
+Anwendung der CCF zu berechnen. Der entsprechende COREP -Meldebogen weist die 
+Kredite lediglich entweder vor CRM und vor CCF , nach CRM und vor CCF  oder nach CRM 
+und nach CCF aus. Da die CRM den Ausgangsbetrag1 bei den bayerischen Volksbanken und 
+Raiffeisenbanken lediglich um 2,6% reduzieren, die CCF hingegen um 26%, wurde in den 
+Berechnungen eine Ungenauigkeit bei den CRM zugunsten der CCF in Kauf genommen.2 Den 
+folgenden Berechnungen liegen daher die Kredite nach CRM und nach CCF3 zugrunde.  
+Unter „einzelnen Schuldnern“  sind laut Baseler Dokument nicht nur einzelne Kunden zu 
+verstehen. Auch mehrere Einheiten, wie z.B. miteinander verbundene Kleinunternehmen, 
+müssen u.U. als einzelne Schuldner betrachtet werden. In den Berechnungen wurden die 
+Kredite lediglich auf Einzelkundenebene aggregiert. Eine weitere Aggregation z.B. auf Ebene 
+„Gruppen verbundener Kunden“ hätte den Banken einen hohen man uellen Aufwand 
+verursacht. D ie Effekte auf die Eigenkapitalquoten der Banken  werden somit  tendenziell 
+unterschätzt. 
+ 
+  
+                                                 
+1 Z010S010 des Meldebogens CRSA_0700_Adressrisiko Retail 
+2 Berechnungen anhand zweier Beispielbanken zeigen, dass sich die Ungenauigkeit nur in geringem Maße im 
+Ergebnis niederschlägt. 
+3 Z010S200 des Meldebogens CRSA_0700_Adressrisiko Retail 
+Ref. Ares(2020)678664 - 04/02/2020
+2 von 3 
+ 
+Anhang 2: Technische Details zur Auswahl der 12 GVB-Mitgliedsbanken 
+Um für die Gesamtheit aller GVB -Mitgliedsbanken aussagekräftige  Ergebnisse zu erhalten, 
+wurden die zwölf Banken nach folgendem Verfahren ausgewählt:  
+Zunächst wurden Charakteristika der Banken identifiziert, die nach der Berechnungslogik 
+einen großen Einfluss auf die Ergebnisse haben. Hier können zwei Haupttreiber identifiziert 
+werden:  
+1. Volumen Mengengeschäft: Je höher das Mengengeschäftsvolumen der Bank, 
+desto höher die kritische Grenze des Kreditvolumens und desto weniger Kredite 
+sind von der Ausgliederung aus dem Mengengeschäft betroffen. Folglich muss 
+für weniger Kredite ein unvorteilhafteres Risikogewicht gewählt werden und der 
+Effekt auf die Eigenkapitalquote der Bank ist geringer. 
+2. Gesamtrisikobetrag: Je größer der Gesamtrisikobetrag, desto geringer der Effekt 
+einer Erhöhung desselben (um einen gegebenen Betrag) auf die Kernkapitalquote. 
+Für die Bankenauswahl wurden daraufhin zwei Kennzahlen definiert, deren Variation eine 
+möglichst hohe Variation der beiden Ergebnistreiber sicherstellen kann:  
+1. Bilanzsumme: Die Bilanzsumme ist hochkorreliert mit dem Gesamtrisikobetrag.4 Um 
+eine hohe Variation des Gesamtrisikobetrags herzustellen, wurden die 236 Banken 
+nach Bilanzsummengröße sortiert und in vier gleich große Gruppen aufgeteilt. Aus 
+jeder Gruppe wurden jeweils drei Banken ausgewählt:  
+ 
+Quantil Gruppe Bilanzsumme 
+(BS), Mio. EUR 
+Anzahl GVB-
+Mitgliedsbanken 
+Anzahl 
+Auswahl 
+Banken 
+75%-100% 1 BS > 1.026 59 3 
+50% - 75% 2 400 < BS ≤ 1.026 59 3 
+25% - 50% 3 189 < BS ≤ 400 59 3 
+0% -25% 4 BS ≤ 189 59 3 
+Gesamt   236 12 
+ 
+2. Mengengeschäft / Bilanzsumme: Um die Variation des Mengengeschäftsvolumens 
+innerhalb jeder Gruppe abzubilden, wurden die Banken zusätzlich nach dem Anteil 
+                                                 
+4 Korrelationskoeffizient: 0,97 
+3 von 3 
+ 
+des Mengengeschäfts an ihrer Bilanzsumme ausgewählt. Innerhalb jeder Gruppe 
+wurde jeweils eine Bank ausgewählt, deren Kennzahl in etwa dem Median innerhalb 
+der Gruppe entspricht; eine, die dem 25%-Quantil und eine, die dem 75%-Quantil 
+entspricht. 
+ 
+ 
+Literatur 
+Baseler Ausschuss (2004): Internationale Konvergenz der Eigenkapitalmessung und der 
+Eigenkapitalanforderungen  
+Baseler Ausschuss (2017): Basel III - Finalising post-crisis reforms 

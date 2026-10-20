@@ -1,0 +1,249 @@
+Mette Peetz-Schou (meps@di.dk)
+Leading Senior Advisor
+January 23rd 2023
+Slidet bruger mørkt baggrundsbillede. Indsæt et nyt: Klik på Baggrundsbilleder ikonet i Templafy vinduet, vælg ved at klikke én gang. Vent og vælg knappen Select Image as Background under DI fanen. 
+DI POSITION ON THE 
+CYBER RECILIENCE ACT
+Ref. Ares(2023)490497 - 23/01/2023
+Regulation: 
+Aspect
+Horizontal approach based on 
+NLF-principles
+Positive, will ease compliance. 
+Challenges when it comes to software. 
+Relationship to other 
+regulations
+Good the regulation aims at cleaning up the patchwork of legislations that is 
+underway on cybersecurity. Would like to have included in the legal text that the 
+RED DA will be repealed or amended when the CRA comes into application and how 
+the transition is foreseen. 
+Need for alignment and no overlapping requirements with NIS 2  and clarifications 
+when it comes to the GPSR and the AIR when it comes to conformity for non-high 
+risk AI systems.
+Minimum requirements for all 
+products
+Yes, in combination with lex.specialis where needed for instance medical devices. 
+In the future lex.specialis should always built on same principles as the CRA.
+Risk based approach to 
+conformity assessment
+Agree. Need to ensure the right criteria for criticality 1 and 2 so the assurance level 
+is proportionate to the risk. At the same time, we reserve 3rd party capacity for those 
+who don’t have the needed skills for conformity assessment themselves. 
+Insufficient impact 
+assessment
+The business case for the proposal is weak. Thus, the need to ensure proportionality 
+in the requirements and to secure sufficient time before application.
+The Scope of Digital Products
+Aspect
+Tangible digital products with 
+or without embedded 
+software
+OK, however, not all direct or indirect logical or physical data connection to a device or 
+network need protection and are susceptible to cyber attack. Only those that are 
+susceptible to attacks need to be protected – Implications for definition of scope.
+It also needs to be clarified, the definition includes the remote data processing(if any). 
+See also below regarding overlap with NIS2.
+Stand alone software
+i.e. Software as a Product and 
+Software as a Service
+OK, but difficult as a completely new domain. Need guidance from the Commission.
+Software as a service – included when needed for the functionality and provided by the 
+manufacturer. Need for further clarification for instance the software that forms the cloud 
+or the software running on the cloud – or both. NIS2 takes care of most critical software 
+as a service including cloud.
+Components Should be taken out. When placed on the market they are a finished product. The 
+definition of digital products should be revised accordingly. The concept of party 
+completed products with digital elements could be introduced, an NLF concept known 
+from the Machinery Regúlation (cannot function in itself - intended for incorporation)
+Spare parts Should be exempt. Otherwise, a lot of machinery will be impossible to maintain.
+Scope, concluding statement Important with clarification, simplification and to limit overlap with NIS2 and product 
+regulations. Alignment of definitions with other legislation is needed
+Software specific issues
+• Substantial modification of software – continuous updating of DOC
+• Recovery of DOC’s for10 years vs. 5 year or life cycle 
+• Placing on the market
+• To be further explored
+• Challenge
+• Software developers have no knowledge of NLF
+Characterisation of Criticality of Products
+Aspect
+Criteria to determine if 
+conformity assessment 
+involving 3rd. party is needed.
+Agree on risk-based principle. But criteria are too wage also when it comes to what is 
+required for critical 1 and critical 2, respectively.
+Differentiation of requirements are needed for critical 1 and 2
+Basis for inclusion Evidence based evaluation is needed to determine if criteria apply. Only if they apply, the 
+product category should be included.
+Should be based on manufacturers intended use. Therefore, the lists most likely would 
+have to be shortened. General purpose microprocessors should me moved to critical 1.
+Industrial application It is assumed industrial application is always sensitive.
+That is not the case. Issue that robots always have to undergo 3rd. party. Change to “Safety 
+related parts of control systems for industrial machinery”. Robots as such are not critical 2.
+Definition of product 
+categories
+The Commission allow itself one year to finalize the definitions of the products included as 
+critical 1 and 2. In that case the manufacturers will need more time to become compliant 
+(See also transition period)
+Highly critical products The Commission allow itself to define categories of highly critical products which needs to 
+undergo mandatory certification. We question the need which is already possible under 
+NIS 2. According to the CRA only Member States can opt for mandatory certification.
+Criticality of products 
+conclusion
+Risk based approach is good, but a lot of work is needed to substantiate the categorization 
+of products and their definition
+Product Requirements
+Aspect
+Link to RED DA It is positive the requirements are built on the standardisation request for RED DA.
+However, two mayor differences between RED DA and CRA exit.
+a) Scope: internet connected products vs products with digital elements
+b) Time of placing on the market vs whole life cycle
+Experiences from the standardisation work needs to be taken into account when finalizing the wording 
+of the requirements. Furthermore, the requirements should take into account current applied state-of-
+the-art in the form of international standards. Implications for application date (see later). To the 
+widest possible extent existing international standards needs to be taken on board to built on already 
+implemented work to make products cybersecure, ease compliance and ease global trade.
+The requirement only to 
+process data of relevance 
+to intended use
+“minimization of data” limits the development of new business models (and work against the purpose 
+of the data act). Relevance of this requirement is questioned.
+Requirement only to 
+deliver  products without 
+any known exploitable 
+vulnerabilities
+Requirement is not possible to fulfill, as it will disrupt  continuous market access of a launched product. 
+Challenges also as to what grant “known” vulnerabilities. ENISA could made responsible for updating 
+a registry.
+Special requirements for 
+SMVs
+DI does not believe the product requirements for SMVs  should differentiate from larger companies. 
+Burden reduction could be possible at the level of reporting obligations, if any.
+Applicability of 
+requirements
+Positive with NLF alignment ie. only requirements that the manufacturer believes are relevant based 
+on the risk assessment applies. Flexibility needed given the very broad scope of the CRA.
+Vulnerability Handling Requirements
+Aspect
+Process requirements to 
+handle vulnerabilities
+DI supports the use of process requirements to address vulnerabilities through out 
+the life cycle
+SBOM – software build of 
+materials
+SBOM should be part of the technical file and only be required to be provided at the 
+request of the market surveillance authority. 
+It contains confidential information that needs protection.
+To make it public available (together with vulnerabilities) is also counterproductive, 
+as it will make it easier for hackers to find and exploit the vulnerabilities.
+The concept of SBOM is still very new. Guidance rather than a binding implementing 
+act is needed regarding the design,
+Information without delay Vulnerability management increases the competitive advantage of companies.
+In due time/ without unnecessary delay might seem more reasonable.
+Necessary to stress confidentiality when it comes to reporting to ENISA
+Information Obligations
+Aspect
+Both e-mail and postal 
+address
+DI believes the need for a postal address is redundant. An e-mail address should be 
+sufficient.
+SBOM availability DI believes manufacturers should only be obliged to share the SBOM at the request 
+of the market surveillance authorities (see vulnerability handling requirements)
+Freedom to choose format of 
+information obligations
+DI appreciates the possibility of manufacturers to choose to provide the information 
+required in either electronic or physical form (Article 10.1)
+Mandatory delivery of DOC DI question the need as the DOC is only a tool for market surveillance authorities
+Information obligations Looks OK for most parts.
+T echnical specifications
+Aspect
+Use of harmonized standards
+hEN
+DI appreciates the application of hEN as a means to obtain presumption of 
+conformity (in line with other NLF legislation). The hEN should build on the ones 
+developed under RED DA with a view to the standards that are already applied 
+internationally to ease compliance (international state-of-the-art)
+Common specifications DI believes common specifications should only be used as the last resort and when 
+certain requirements are fulfilled(see position papers from BE and Orgalim).
+Certification schemes DI is concerned about the process in which certification schemes under the CSA is 
+developed (not open, non-transparent, non-inclusive processes). At the same time, 
+we do believe it should be possible for companies that have be certified to a scheme 
+that fulfills the requirements of the CRA to use this as a mean to obtain presumption 
+of conformity  to ensure they don’t have to engage with yet another 3rd. party ie
+notified body under the CRA to comply (critical 2 products).
+Technical specifications in 
+general
+hEN should be the preferred option when it comes to granting presumption of 
+conformity 
+Notification/Reporting Obligations
+Aspect
+Alignment with NIS 2 
+(and GDPR)
+The same manufacturers/entities have reporting obligations under both the GDPR, NIS and CRA for 
+the same event. Attempts were made to align obligations under the former two, but not successful. 
+It is of outmost importance efforts are made to lessen unnecessary burden under CRA.
+Timeframe and target for 
+notifications
+Obligations were heavily debated under NIS 2. Advisable to use the outcome of the negotiations to 
+align. In the CRA manufacturers report to ENISA within 24 hours when actively exploitable 
+vulnerabilities or incidents have taken place. In NIS 2 reporting is done to national CSIRTS for any 
+incident that has a significant impact on the provision of their services. An early warning within 24 
+hours and more information within 72 hours.  DI believes  CRA should apply 72 hours and only 
+require notification of incidents which have significant impact (are severe). If needed reporting on 
+actively exploitable vulnerabilities could be added after an evaluation for instance 5 years after the 
+legislation is coming into application. Double notification should be avoided. 
+ENISA’s role DI questions ENISAs ability to take on board the task of coordinating vulnerability reporting for 
+millions of products across the EU. There is a need  to evaluate thoroughly the link between ENISA, 
+CSIRTS, MSA etc. and the value added by the information exchange. ENISA could be charged with 
+maintaining a database of actively exploitable vulnerabilities.
+Proportionality for SMV’s Reporting within 24 hours require 24/7 surveillance. That may create major challenges especially to 
+smaller companies. Furthermore, the lifecycle perspective makes it very burdensome.
+Application Date
+Aspect
+hEN to provide for presumption of 
+conformity 
+The transition period for the regulation is 24 month. Even though the hENs are to be built 
+on the hENs under the RED DA that is very short time, since
+-standardisation under CRA cannot start before the regulation is published
+-the RED DA standards are likely to be delayed
+-it takes 2 year to develop the needed standards
+-it takes  1- 2 years for companies to implement the standards
+48 months transition would be more realistic.
+Reporting obligation applies 12 
+month before the regulation
+The reporting obligations apply one year after the regulation comes into force. 
+DI questions the ability to provide the framework for such reporting both when it comes to 
+ENISA, then national competent authorities and the companies.
+Furthermore it is unclear which products need reporting about. All digital products 
+regardless when they were placed on the market ?
+Definition of critical 1 and critical 
+2
+The Commission has one year after the regulation comes into force to develop definitions 
+for critical 1 and critical 2 products. This allow only one year to engage with notified 
+bodies, if needed. That is too short. Also time to build capacity is needed.
+Role of notified body and capacity 
+of notified bodies
+If the hENs are not available, then 3rd party need to be involved for critical 1 and critical 2 
+products. This require even more capacity building of notified bodies under the CRA. At 
+present only 72 notified bodies exist under RED, few of which has competences within 
+cybersecurity. This also calls for longer transition time.  
+Market Surveiliance, sanctions etc.
+Aspect
+(EU)1020/2019 Positive the CRA falls under the market surveillance regulation
+Sanctions Compared to non-compliance with other product regulation the fines are extremely high. 
+Even for formal non-compliance they are disproportionate and not aligned with the 
+(EU)1020/2019. The implication is that cybersecurity is more important than safety.
+It needs to be ensured fines can only be issued under one legislation for the same offence
+Competence and 
+capacity of market 
+surveillance 
+authorities
+As the cost of being compliant is significant it is of outmost importance to ensure sufficient 
+capacity to perform market surveillance. IT cybersecurity is a know domain, CRA requires 
+knowhow in product security which is different. On the other hand the role of processes is 
+new in product regulation and goes beyond the knowledge of current MSA.  
+Furthermore, it is needed to stress guidance before sanctioning.
+It may be an idea to suggest article 9 activities from (EU)1020/2019 in the recitals ie
+collaboration with businesses and other stakeholders on market surveillance. 
+Sandboxing In order to ensure innovation and development of secure solutions a sandboxing concept 
+similar to that of the AI regulation could be developed..

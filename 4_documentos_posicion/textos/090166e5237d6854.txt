@@ -1,0 +1,750 @@
+ 
+ 
+1 
+ 
+Topics Digital Omnibus 
+ 
+Table of contents 
+1. Cybersecurity .............................................................................................................................. 2 
+1.1. Simplification of the Cyber Resilience Act (CRA) .................................................................. 2 
+1.2. Harmonization of Reporting Obligations for CRA/NIS 2/DORA ............................................. 3 
+1.3. Harmonization of Radio Equipment Directive (RED) and UNECE R155 ............................... 4 
+1.4. DORA ..................................................................................................................................... 5 
+1.5. Harmonization of entry into force for CRA and UN R155 for Typ L-Vehicles ........................ 5 
+1.6. NIS 2 ...................................................................................................................................... 6 
+2. AI ................................................................................................................................................ 9 
+2.1. Delay of Implementation Deadline for High-Risk AI Systems ................................................ 9 
+2.2. Harmonized definition of biometric data between the AI Act and the GDPR  ......................... 9 
+2.3. Relevance of the AI Act for Type Approved Vehicles .......................................................... 10 
+2.4. AI Act: No blanket classification of emotion recognition systems as high-risk .................... 10 
+2.5. AI Act: Clarification of No. 1 lit. b) Annex III: Exhaustive and reliable list of sensitive or 
+protected categories .......................................................................................................................... 11 
+3. Data .......................................................................................................................................... 12 
+3.1. RED III .................................................................................................................................. 12 
+3.2. Data Act................................................................................................................................ 12 
+3.3. GDPR – Research Data ....................................................................................................... 14 
+3.4. GDPR – Register of processing activities ............................................................................ 14 
+3.5. GDPR – Group Privilege ...................................................................................................... 15 
+3.6. Harmonized compensation for data provision ...................................................................... 15 
+3.7. GDPR – Information Obligation............................................................................................ 16 
+ 
+  
+Ref. Ares(2025)8690026 - 13/10/2025
+
+ 
+ 
+2 
+ 
+1. Cybersecurity  
+ 
+1.1. Simplification of the Cyber Resilience Act (CRA) 
+ 
+Explanation: 
+• The CRA does not cover products with digital elements made exclusively for the own 
+use of the manufacturer. However, it does not include an explicit exception for prod-
+ucts with digital elements that are provided exclusively within a corporate group. It 
+therefore may be possible that not only products with digital elements made available 
+to third parties but also products provided solely to other entities within a group of 
+companies may fall within the scope of the CRA. This would mean a large number of 
+group-internal products (in particular software) would need to be assessed, and rele-
+vant products would need to fully comply with the requirements of the CRA (e.g., 
+(third-party) conformity assessments, CE marking, information provision to users, re-
+porting of relevant incidents).  
+• The CRA requires that relevant products with digital elements comply with a variety of 
+cybersecurity requirements starting end of December 2027. However, corresponding 
+standards are not expected until at least end of 2026, which results in a very short im-
+plementation period of about one year. 
+• According to Art. 13(2), Annex I, Part I (2)(a) CRA products with digital elements shall 
+be made available on the market without known exploitable vulnerabilities. However, 
+manufacturers regularly learn of new vulnerabilities and make risk-based assess-
+ments on the need to prioritize fixes. Also, in many cases, vulnerabilities may be iden-
+tified that do not affect the security of a software product in practice because, e.g., 
+they may only be exploitable in environments where the product is not intended for 
+use.  
+Proposal: 
+• The Cyber Resilience Act (CRA) should not apply to products (including software) 
+that are exclusively provided for internal use within a corporate group (Group Privi-
+lege). This would acknowledge the lower risk of a purely group internal provision 
+(e.g., due to a limited group of users and general cyber security standards and 
+measures within corporate groups) and avoids unnecessary regulatory burden for 
+such solutions. Alternatively, the applicability of the CRA for such products should be 
+limited to compliance with the essential cybersecurity requirements set out in Annex I. 
+This would already achieve a sufficiently high level of cybersecurity. Compliance with 
+additional requirements (e.g., CE marking, provision of certain information for the 
+user) make no sense due to the specifics of internal use (similar to own use) and 
+would be a mere formality that would require significant effort. 
+• The proposed 24-month implementation period should commence only once all rele-
+vant standardization processes have been completed—currently expected by the end 
+of 2026. This approach would ensure a more efficient and realistic implementation 
+timeline, allowing organizations to align with finalized technical specification. Further 
+development of existing laws should only proceed once the initial framework is com-
+plete and its effectiveness demonstrated. If regulations include reporting require-
+ments, these should also be harmonized across the board. In order to reduce the bur-
+ 
+ 
+3 
+ 
+den on companies, accelerate the implementation of respective requirements and en-
+sure legal certainty, we advocate the early publication of respecting reporting guide-
+lines 
+• The requirement to make products available without known exploitable vulnerabilities 
+should be limited to vulnerabilities with a certain criticality. To avoid unreasonable 
+burdens only high and critical vulnerability, based on the Common Vulnerability Scor-
+ing System (“CVSS”), should be relevant.  
+ 
+1.2. Harmonization of Reporting Obligations for CRA/NIS 2/DORA 
+ 
+Explanation: 
+• The cyber security related regulations CRA, NIS 2 and DORA as well as the poten-
+tially relevant GDPR contain different procedures and provide for different competent 
+authorities regarding the reporting of relevant incidents. Harmonizing these would 
+create significant efficiency gains and simplifications. Thus, more resources could be 
+allocated to address vulnerabilites. 
+• NIS 2 and CRA provide particularly short deadlines of 24 hours for reporting relevant 
+incidents upon becoming aware of such incident. While this may be justified in certain 
+cases due to the criticality of the incidents, it poses significant challenges for compa-
+nies. Especially for larger companies or groups of companies with complex internal 
+structures and longer reporting lines, ensuring reporting within 24 hours requires con-
+siderable effort. 
+ DORA NIS 2 CRA GDPR 
+Reporting-
+obligations 
+Frist reporting of 
+major ICT inci-
+dents within 4 
+hours to the na-
+tional financial 
+supervisory au-
+thority (e.g., 
+BaFin). 
+Reporting of 
+significant inci-
+dents within 
+24 hours to 
+the respective 
+CSIRT or the 
+competent na-
+tional NIS2 au-
+thority. Provi-
+sion of further 
+details within 
+an additional 
+48 hours.   
+Reporting of actively 
+exploited vulnerabili-
+ties and severe inci-
+dents having an im-
+pact on the security 
+of a product with digi-
+tal elements to the 
+designated CSIRT 
+and ENISA via a sin-
+gle reporting platform 
+within 24 hours. 
+Provision of further 
+details within an addi-
+tional 48 hours. 
+Reporting of 
+relevant per-
+sonal data 
+breaches within 
+72 hours to the 
+competent data 
+protection au-
+thority. 
+ 
+Proposal: 
+• The processes for reporting relevant incidents under different laws need to be stand-
+ardized. In particular, it should be possible to complete all reports in one step. For 
+this, a single European platform and digital procedure for reporting relevant incidents 
+should be developed. This procedure should allow for all relevant reports (i.e., where 
+a security incident triggers several reporting obligations) to be made in one step. This 
+means the reporting entity is only required to submit a single unified report of an inci-
+dent, which would serve as a notification to all relevant authorities (on national and 
+ 
+ 
+4 
+ 
+European level). In the future, the EUDI-Wallet could be used for authorization on 
+such a reporting platform.  
+• Such a platform should at least be established for notifications under NIS 2 and CRA 
+(e.g., under the responsibility of ENISA). Later it could be extended to also include 
+the reporting of relevant incidents under DORA in coordination and cooperation with 
+the respective competent authorities.  
+• Until this has been implemented, the first step should be to at least establish a single 
+European reporting platform for reports under each law. While, for example, the CRA 
+provides for the establishment of a single European reporting platform (through which 
+reports can also be forwarded to other affected designated CSIRT), the NIS 2 Di-
+rective requires reporting directly to national authorities. In the case of corporate 
+groups including international companies, this leads to practical difficulties in the re-
+porting process itself (e.g., language barriers) and results in significant additional ef-
+fort due to potentially required multiple reporting to different authorities. Therefore, a 
+single reporting platform for NIS 2-relevant incidents would be welcomed, especially 
+as it would also ensure simplified coordination and collaboration between the relevant 
+authorities of the member states when dealing with a (cross-border) security incident. 
+• Early warning notifications within 24 hours should only be required for incidents in 
+particularly critical areas. This means that under NIS 2, only essential entities should 
+need to submit an early warning notification within 24 hours and under CRA, an early 
+warning within 24 hours should only be required if an important or critical product with 
+digital elements is affected. This approach allows to use existing resources appropri-
+ately and ensure reliable reporting within 24 hours for particularly critical incidents. 
+Other relevant incidents should be reported within 72 hours in alignment with the 
+deadlines under the GDPR. 
+ 
+1.3. Harmonization of Radio Equipment Directive (RED) and UNECE R155  
+ 
+Explanation: 
+• UN R155 makes cybersecurity and a CSMS a precondition for type approval in the 
+EU (new types since July 2022; all new vehicles since July 2024). OEMs bear lifecy-
+cle responsibility for monitoring and secure updates. 
+• The Radio Equipment Directive (RED) 2014/53/EU empowers additional essential re-
+quirements in Article 3(3)(d/e/f). Commission Delegated Regulation (EU) 2022/30 ac-
+tivates these obligations for internet‑connected radio equipment from 1 August 2025, 
+with incomplete sectoral carve‑outs. 
+• Head units and TCUs in vehicles fall under RED/2022/30 due to internet connectivity 
+although the vehicle is already regulated by UN R155 — creating double regulation 
+with overlaps on network protection and integrity. 
+• Critical gap: Article 2(2) of 2022/30 carves out motor vehicles for (e)/(f) but not for (d), 
+so Article 3(3)(d) RED (network protection) still applies to vehicle radio equipment. 
+ 
+Proposal:  
+• Amend RED/2022/30 article 2 (1) so that Article 3(3)(d/e/f) do not apply to radio 
+equipment that is integral to vehicles subject to UN R155, provided type‑approval 
+conformity is demonstrated. 
+ 
+ 
+5 
+ 
+1.4. DORA 
+ 
+Explanation: 
+• The Digital Operational Resilience Act (DORA) is a regulation ensuring that financial 
+entities can withstand, respond to, and recover from all types of ICT-related disrup-
+tions and threats. It establishes a comprehensive framework for digital operational re-
+silience, including requirements for ICT risk management, incident reporting, and test-
+ing. 
+• Why DORA was established? 
+o Ongoing digital transformation of financial services. 
+o Increasing number of cyberattacks. 
+o Increasing interconnection of critical infrastructures and networks. 
+• Objective: 
+o Ensure financial industry can withstand and recover from cyber threat, IT disrup-
+tions and other operational risks. 
+o Ensure better transparency on interconnections and market concentration of 3rd 
+party ICT providers. 
+• The vehicle manufacturer are affected by DORA not only if they have an associated 
+bank but also in some cases as an ancillary insurance intermediaries (Versicher-
+ungsvermittler mit Nebentätigkeit). This results in significant additional administrative 
+efforts for the manufacturers. At this point, it is questionable whether the activity as an 
+insurance intermediary with ancillary activities is actually relevant to the stability of the 
+financial market. Exemptions for insurance intermediaries with only a low insurance 
+sales value often do not apply to the manufacturer, as the total turnover including the 
+vehicle business and not just the turnover from insurance is taken into account. 
+Proposal: 
+• To determine whether simplified DORA rules can be applied, only the revenues from 
+insurance intermediary business activities should be considered for insurance inter-
+mediaries with ancillary activities. 
+ 
+1.5. Harmonization of entry into force for CRA and UN R155 for Typ L-Vehicles 
+ 
+Explanation: 
+• The Cyber Resilience Act (CRA) provides an exemption for products to which Regu-
+lation (EU) 2019/2144 applies due to the applicability of UN Regulation No 155. 
+• There is also a proposal to exclude L-category vehicles under Regulation (EU) 
+168/2013 from the scope of the CRA, as these will also be subject to cybersecurity 
+requirements under the UN Regulation No 155. The application of UN Regulation No 
+155 will be mandatory for the type approval of new L-category vehicles as of 11 De-
+cember 2027, the date of application of (most of) the Cyber Resilience Act. Existing 
+vehicle types will be subject to such requirements as of 11 June 2029. 
+• However, reporting obligations according to Art. 14 of the CRA will apply from 11 
+September 2026. 
+ 
+ 
+6 
+ 
+• This could lead to relevant L-category vehicles falling under the reporting obligations 
+of the CRA from 11 September 2026 until entry-into-force/applicability of the excep-
+tion. Reporting processes according to CRA would need to be implemented, only to 
+be replaced or adjusted to align with requirements under UN Regulation No 155.  
+• Also, since the background of the exception is the applicability of UN Regulation No 
+155, there is a risk that the exception could be interpreted in such way that vehicles 
+which are not (yet) subject to the requirements of UN Regulation No 155 still fall un-
+der the CRA. This could lead to overlapping requirements for existing vehicle types, 
+which the exception is intended to avoid. 
+ 
+Proposal: 
+• The exception for L-category vehicles from the CRA should be aligned with the ap-
+plicability of the reporting obligations under the CRA (i.e., apply from 11 September 
+2026), in order to avoid the need to implement CRA-compliant reporting processes 
+for just a short transition period and therefore reduce unnecessary administrative and 
+compliance burden and costs. 
+• Further, it should be clarified that all L-category vehicles are exempt from the scope 
+of the CRA upon the entry into force of the exception, regardless of when they were 
+placed on the market and whether or when they fall under UN Regulation No 155 to 
+avoid possible double regulation of existing vehicle types.  
+ 
+1.6. NIS 2  
+ 
+Explanation: 
+• Reporting of incidents to the responsible supervisory authorities (“Reporting-to-Au-
+thorities”): 
+o A very short reporting period (early warning within 24 hours, follow-up reporting af-
+ter a further 48 hours and sequentially) requires new reporting channels to supervi-
+sory authorities and corresponding internal processes.  
+o For providers of specific services (e.g., online marketplaces and social networking 
+services platforms), Implementing Regulation (EU) 2024/2690 sets out harmonized 
+provisions, such as criteria for when an incident is considered to be significant. The 
+background of this is that these services typically have a cross-border nature and a 
+coherent framework for the same service should be ensured across different mem-
+ber states. According to the recitals and the chosen threshold in the Implementing 
+Regulation, it seems that the model for regulating these services was primarily 
+based on the classic large providers with particular criticality, such as multinational 
+social media companies. However, the wording of the definitions of the regulated 
+services is broadly defined, allowing even less significant and critical services to 
+meet the requirements. This leads to situations where companies that meet the 
+thresholds for essential/important entities and whose core business falls under a 
+different sector can additionally be subject to the Implementing Regulation with 
+other, less critical or essential services. E.g., an automotive manufacturer may also 
+provide online marketplaces as a way to sell its products or offers apps, where e.g. 
+customers can communicate with each other. In the case of such classification 
+across multiple sectors, this leads to great uncertainty regarding which criteria the 
+ 
+ 
+7 
+ 
+entity must consider for which business activities and potentially resulting in in-
+creased effort due to the application of different criteria within one company.  
+o For entities other than digital providers, there is no EU-wide definition of when an 
+incident is considered significant. Although the NIS2 directive includes the possibil-
+ity for the Commission to adopt implementing acts for other entities, there is no ob-
+ligation to do so. This leads to great uncertainties for entities and an inconsistent 
+EU-wide reporting system, as individual member states may interpret the term "sig-
+nificant incident" differently. At the same time, there are concerns that member 
+states will adopt the criteria of the implementing regulation without reflection, which 
+may not adequately apply to all important and critical entities, resulting in thresh-
+olds too low/improperly and unnecessary reports. 
+o Each EU member state defines its own locally responsible CSIRT or supervisory 
+authority. Where appropriate, and in particular where a significant incident con-
+cerns two or more Member States, the CSIRT or the competent authority shall in-
+form the other affected Member States and ENISA of the significant incident. How-
+ever, due to the large number of authorities and the lack of uniform processes on 
+EU level a reliable exchange of information and coordination may not be guaran-
+teed in such cases. Additionally, in cases involving a group of companies, it may 
+happen that the same incident needs to be reported by multiple group companies 
+to different authorities.  
+• NIS 2 training for management bodies: The regulation includes no specific require-
+ments (e.g. formats, scope,(mandatory) content, (mandatory) participants) regarding 
+the required NIS 2 training for management bodies (cf. 20(2)). It is unclear what the 
+legislative expectations are in this regard leading to uncertainties for the companies 
+affected. 
+• In case of international companies the necessary registrations with the relevant local 
+supervisory authorities are difficult to implement due to different registration platforms 
+and language barriers. 
+ 
+Proposal: 
+• Early warning notifications within 24 hours should only be required for incidents in 
+particularly critical areas. This means only essential entities should need to submit an 
+early warning notification within 24 hours. This approach allows to use existing re-
+sources appropriately and ensure reliable reporting within 24 hours for particularly 
+critical incidents. Other relevant incidents should be reported within 72 hours. 
+• The definitions for certain types of digital providers should be adjusted so that entities 
+that qualify as such only due to negligible business activities (in relation to their over-
+all business operations) are excluded from the scope of application. 
+• EU-wide definition of reporting criteria with differentiation according to the different 
+NIS 2 sectors (or at least groups of sectors). The criteria should be coordinated with 
+major associations in the respective sector. Further, it should be clarified how entities 
+should handle situations where they fall into multiple sectors, particularly regarding 
+when they need to apply which criteria regarding significant incidents. Since the crite-
+ria of one sector may not necessarily fit activities in another sector, criteria for a spe-
+cific sector should only be applied to incidents related to the business activities that 
+fall within that sector.  
+• Establishing a single EU-wide reporting platform for NIS 2-relevant incidents with 
+clear guidelines on required information to facilitate the reporting process for entities 
+ 
+ 
+8 
+ 
+and ensure simplified coordination and collaboration between the relevant authorities 
+of the member states when dealing with a (cross-border) security incident. At a mini-
+mum, member states should be required to implement the reporting processes as ef-
+ficiently and digitally as possible. Therefore at least, a fully digitized reporting portal 
+should be established, equipped with efficient interfaces for automation, avoiding mul-
+tiple reports, and providing a central point of contact. At the very least, the type of in-
+formation, the format and the procedure of a notification should be further specified, 
+and companies should have the option to submit reports in English to meet interna-
+tional requirements. 
+• EU-wide definition of criteria regarding format, scope, content, and participants of the 
+NIS 2 trainings by the Commission via an implementing act. 
+• Establishing a single EU-wide registration platform where entities can centrally, eas-
+ily, and uniformly carry out the required registration.  
+  
+ 
+ 
+9 
+ 
+2. AI  
+ 
+2.1. Delay of Implementation Deadline for High-Risk AI Systems 
+ 
+Explanation: 
+• The AI Act constitutes a complex regulatory framework aimed at governing highly in-
+tricate technology. A major risk is that regulation could hinder the use of technology. It 
+is therefore crucial that both the legal interpretation be clearly defined, and the stand-
+ards and guidelines precisely outline the measures for ensuring AI Act compliance. 
+• After the AI Act has entered into force over a year ago and the rules for High-Risk AI 
+systems will come into force in August 2026, EU Commission guidelines are still 
+missing (e.g., on the Definition of High Risk, Transparency, etc.).  
+• The development of the standards (through JTC 21) to permit High-Risk AI systems 
+to conform to the AI Act is unlikely to be completed in time for companies to prepare.  
+ 
+Proposal: 
+• Therefore, the implementation deadline for High-Risk AI systems should be urgently 
+delayed by 24 months. 
+• In general, the implementation period should commence only once all relevant stand-
+ardization processes have been completed and all guidelines have been released—
+currently expected for the AI Act not earlier than Q4 2026. This approach would en-
+sure a more efficient and realistic implementation timeline, allowing organizations to 
+align with finalized technical specifications. Further development of existing laws 
+should only proceed once the initial framework is complete and its effectiveness 
+demonstrated. 
+ 
+2.2. Harmonized definition of biometric data between the AI Act and the GDPR 
+ 
+Explanation: 
+• In comparison to the AI Act, the GDPR defines biometric data more narrowly by re-
+quiring it to enable or confirm the unique identification of a natural person.  
+• The AI Act lacks this specific identification criterion, leading to a potentially broader 
+interpretation. 
+• This discrepancy creates legal uncertainty and increases compliance efforts for AI 
+system providers as a new data category needs to be evaluated. 
+ 
+Proposal: 
+• The AI Act definition of biometric data should be aligned with the definition used in the 
+GDPR. 
+ 
+ 
+ 
+ 
+10 
+ 
+2.3. Relevance of the AI Act for Type Approved Vehicles 
+ 
+Explanation: 
+• One of the primary objectives of vehicle type approval is to mitigate risks e.g., to life 
+and health of vehicle occupants and road users on a broad scale. Therefore, vehicles 
+(including relevant systems) must meet extensive requirements und have to undergo 
+corresponding conformity assessments. The UN regulations, which form the basis for 
+system approvals, are technology-neutral and therefore encompass AI systems. 
+• Additionally, the AI Act may also apply to AI components in the vehicle. An exception 
+to the scope of application is only provided for safety components of type-approved 
+vehicles, where the term 'safety component' is defined independently in the EU AI Act 
+and is therefore not subject to the understanding under the relevant Regulations (EU) 
+2018/858 and 2019/2144.  
+• Consequently, the AI Act poses the risk of over regulation for vehicles or certain parts 
+thereof that are relevant for type approval under Regulation (EU) 2018/858 and Reg-
+ulation (EU) 2019/2144, in particular as UN regulations for needed system approvals 
+reference standards such as ISO 26262 and ISO 21448.  
+• Additionally, guidelines for the assessment of AI systems are currently under discus-
+sion at the UNECE level (IWG AI). 
+ 
+Proposal: 
+• Delete the amendment to Regulation 2018/858 including the requirement for relevant 
+delegated acts under Regulation 2018/858 to take into account the requirements of 
+Chapter III, Section 2 of the AI Act. The AI Act should not apply to AI systems or mod-
+els that fall within the scope of Regulation (EU) 2018/858 or Regulation (EU) 
+2019/2144 - neither directly nor indirectly. Requirements for such AI systems or mod-
+els should be regulated exclusively through type approval regulations to ensure sec-
+tor-specific and appropriate provisions for the product.  
+ 
+2.4. AI Act: No blanket classification of emotion recognition systems as high-risk 
+ 
+Explanation: 
+• Currently, all emotion recognition systems are classified as high-risk unless explicitly 
+prohibited under Article 5(1)(f) AI Act. 
+• Recital 44 justifies this based on concerns about scientific validity and risks of dis-
+crimination or rights violations. 
+• However, some use cases—such as lighting or sound based on mood—pose minimal 
+risk. 
+• A blanket classification discourages innovation and may drive development of such 
+technologies outside the EU. 
+ 
+Proposal: 
+• Amend Annex III No. 1 lit. c) to limit high-risk classification to systems that may result 
+in discriminatory outcomes or rights infringements. 
+ 
+ 
+11 
+ 
+• Alternatively, restrict high-risk classification to systems whose outputs are used to 
+make decisions affecting individuals. 
+ 
+2.5. AI Act: Clarification of No. 1 lit. b) Annex III: Exhaustive and reliable list of sen-
+sitive or protected categories 
+ 
+Explanation: 
+• Annex III No. 1 lit. b) classifies AI systems used for biometric categorization based on 
+sensitive or protected attributes as high-risk. 
+• However, the AI Act itself does not define what constitutes "sensitive or protected" at-
+tributes. Only Recital 54 of the AI Act refers to Article 9(1) GDPR, which includes a 
+list of special categories of personal data. 
+• This indirect reference creates ambiguity and legal uncertainty for AI providers, as it 
+is unclear which attributes are covered. Also, there is a risk that authorities may later 
+interpret the list under Article 9(1) GDPR as non-exhaustive under the AI Act, increas-
+ing compliance complexity. 
+ 
+Proposal: 
+• Replace the vague term "sensitive or protected attributes" in Annex III No. 1 lit. b) with 
+a clear and exhaustive list. 
+• This exhaustive list should include but is not limited to: health data, genetic data, bio-
+metric data for unique identification, and potentially ethnic origin. 
+• This approach mirrors the clarity provided in Article 5(1)(g) AI Act and Article 9(1) 
+GDPR.  
+ 
+ 
+12 
+ 
+3. Data  
+ 
+3.1. RED III  
+ 
+Explanation: 
+• The Renewable Energy Directive primarily focuses on renewable energy systems 
+also contains within Article 20a requirements in regard to vehicle data.  
+• The Article 20a of the RED III brings significant requirements which are already laid 
+down by earlier Regulation (EU Battery Regulation – EUBR, Euro 7, Data Act etc.) 
+and is therefore causing double regulation. This introduces unclear scope of require-
+ments for manufacturers and subsequently economic operators. 
+• In addition, it is unfeasible to implement technical and data requirements in a energy 
+directive, with overlaps with other regulations. Additionally, the potential variance in 
+the national implementation poses a risk for the Single Market and causes massive 
+compliance burdens for vehicle manufacturers.  
+ 
+Proposal: 
+• Deletion of Article 20a, paragraph 3 sentence 2 to avoid double regulation mainly with 
+the EU Battery Regulation – EUBR, Euro 7 and the Data Act. 
+ 
+3.2. Data Act 
+ 
+Explanation: 
+• Data holders as defined in the Data Act, i.e. usually manufacturers of IoT devices, 
+face a significant burden under such new regulation by being obliged to provide mani-
+fold information to authorities and data recipients in several respects. First, a compre-
+hensive set of pre-contractual information per connected product and related service 
+is required pursuant to Art. 3, para. 2, 3 Data Act . Whilst added value for the ad-
+dressees of such information can be acknowledged at least to some extent, this does 
+not apply to the other information provision duties.  
+• Even in the absence of anyone’s dissatisfaction, complaint or other specific reason, 
+the entirety of data holders is supposed to overwhelm the competent authorities with 
+transparency concerning circumstances around (prima facie justified) withholding of 
+data, see Art. 4 (2), (7), (8), 5 (10), (11) Data Act. This could be the case, e.g., when-
+ever data holder and data recipient were not able to align on sufficient measures to 
+protect trade secrets and consequently data was not shared. Even without a com-
+plaint by the data recipient, the data holder still has to file a comprehensive report to 
+the competent authorities about this process. This creates a veritable additional “re-
+porting regime” and hence bureaucracy on the part of the data holder as well as a 
+need for additional resources at the competent authorities in order to digest all such 
+unsolicited input. It should also be borne in mind that any additional transparency re-
+quirement entails the risk of jeopardizing legitimate interests of data holders. For in-
+stance, the mere fact that certain (non-standard) product data exists and is available 
+to the product manufacturer may constitute a trade secret whose disclosure becomes 
+more probable whenever the underlying data leaves the sphere of the data holder. 
+ 
+ 
+13 
+ 
+• Similarly, Art. 8 (3), 9 (7), 20 (2) Data Act require the data holder to demonstrate that 
+the conditions of the data provision fulfil the Act’s requirements in terms of non-dis-
+crimination or compensation. In Art. 9 (7), not even a concern or request of the data 
+recipient is a prerequisite for the information requirement to the detriment of the data 
+holder. 
+• In addition, Article 9 (7) of the Data Act requires data holders to disclose their cost 
+structures (including cost calculations) – without any handbrakes or thresholds. A re-
+quirement that is not only frequently difficult or impossible to fulfill due to contractual 
+confidentiality obligations, but is, in many cases, outright prohibited under EU compe-
+tition law. It is a well-established principle of antitrust law that the disclosure of pur-
+chase prices between competitors is problematic. However, this is precisely what Arti-
+cle 9 (7) of the Data Act appears to mandate. It must be taken into account that data 
+holders and data recipients are often direct competitors with respect to key cost com-
+ponents—for instance, when procuring data storage capacity from providers such as 
+large cloud providers. Moreover, beyond the demand-side markets, data holders and 
+recipients frequently compete in downstream markets as well (e.g., OEM and OES in 
+the market for data-driven products for automotive repair services). As a result, data 
+holders are placed in a legal dilemma created by two conflicting EU legal instruments. 
+If they comply with the transparency obligation under the Data Act, they risk violating 
+competition law. Conversely, if they refrain from disclosing their cost calculations, 
+they face the risk that, in the event of a dispute, a court may consider their fees to be 
+excessive. 
+• In addition to provisions for data holders, the Data Act also includes regulations for 
+providers of data processing activities. In that context Article 32 restricts the transfer 
+of non-personal data to third countries. With this, the Data Act establishes, in effect, a 
+parallel framework for international data transfers alongside the General Data Protec-
+tion Regulation (GDPR) creating extra legal uncertainty for companies operating in-
+ternationally. Creating such additional and often overlapping regime for data transfers 
+is unnecessary and results in even more complex and burdensome compliance re-
+quirements for companies.  
+Besides that, it leads to uncertainty that there is no clear definition of who is qualified 
+as a provider of data processing services whether in the recitals nor in the FAQs to 
+the data act published by the EU Commission. Additionally, it is not clear what are the 
+exact requirements to be fullfilled by a provider of data processing services. 
+ 
+Proposal: 
+• Even without extensive bureaucratic reporting obligations, if there is a potential initial 
+suspicion the data recipient can use all usual legal instruments to claim their rights. In 
+addition, Art. 37 (14) Data Act already mandates the relevant supervisory authorities 
+to gather information about the compliance with the Data Act from the data holders. 
+Therefore, in case of a substantiated complaint to the relevant supervisory authority 
+(Art. 37 (5)(b), 38 Data Act) comprehensive information from the data holder to vali-
+date the complaint can already be requested. In the aftermath, the reporting obliga-
+tions foreseen in the respective articles of the Data Act (Art. 4 (2), (7), (8), 5 (10), 
+(11), 8 (3), 9 (7), 20 (2)) should be deleted accordingly. This approach prevents the 
+unnecessary generation of extensive documentation and the initiation of overly bu-
+reaucratic processes and at the same time still securing the rights of any data recipi-
+ent. 
+ 
+ 
+14 
+ 
+• The extensive disclosure obligations of data holders under Article 9(7) should be re-
+moved accordingly. In the event of disputes regarding this matter, the ordinary legal 
+process remains fully accessible. 
+• Should an unexpectedly high number of lawsuits and substantiated complaints arise, 
+further adjustments may be considered as part of the Data Act review scheduled for 
+September 2027. 
+• The international transfer provisions contained in Chapter VII of the Data Act should 
+be fully deleted.  
+At the very least, reliance on valid GDPR mechanisms like Standard Contractual 
+Clauses and technical and organizational measures should be clearly deemed as suf-
+ficient under the Data Act.  
+ 
+3.3. GDPR – Research Data  
+ 
+Explanation: 
+• Ensure high privacy standards that enable innovation: Data is essential for driving in-
+novation and maintaining global competitiveness. However, the current approach re-
+garding scientific research in the GDPR does not include research done by compa-
+nies.  
+• This leads to disproportionate restrictions that unduly limit the competitiveness of Eu-
+ropean companies. 
+• As example in developing autonomous driving functions the recording and processing 
+of video data is crucial but currently requiring enormous efforts to provide for example 
+a data protection impact assessment, a balancing of interests and showcase the legit-
+imate interest. If a scientific research institute would perform the same research, they 
+would not be obliged to.  
+ 
+Proposal: 
+• The GDPR already provides exemptions for the processing of personal data for sci-
+entific or historical research or statistical purposes (Article 89 (2)). These exemptions 
+should also be extended to commercial research purposes. 
+ 
+3.4. GDPR – Register of processing activities  
+ 
+Explanation: 
+• Article 30 GDPR requires documentation of all processing activities which include 
+personal data, which in practice leads to an overarching number of entries—many of 
+which are low-risk and offer little added value. 
+• This results in a disproportionate administrative burden, especially for processing op-
+erations with minimal impact on the rights of data subjects. 
+• The risk-based approach of the GDPR should be applied to these documentation re-
+quirements as well. This would allow organizations to focus documentation efforts on 
+medium and high-risk processing activities. 
+ 
+ 
+15 
+ 
+• Low-risk processing operations, as processing that include limited personal data, 
+(e.g. processing only names, user-IDs or/and email-addresses for the purposes of ac-
+cess control or for contacting peoples for work-related activities), should be exempt 
+from detailed documentation. 
+• Streamlining documentation in this way would reduce compliance overhead and allow 
+for more efficient resource allocation within the companies. 
+ 
+Proposal: 
+• Introduce a risk-based exemption in Article 30(5) for processing activities classified as 
+low risk. 
+ 
+3.5. GDPR – Group Privilege 
+ 
+Explanation: 
+• Within a company group the exchange of personal data needs to meet the same strict 
+requirements as the exchange of personal data outside the company group. 
+• Without complex legal intercompany frameworks, it is not possible to exchange data 
+between subsidiaries. As many processings are centralized in such a group, the data 
+exchange is crucial and data protection requirements may cause a huge bureaucratic 
+effort.  
+ 
+Proposal: 
+• The data exchange between subsidiaries of a company group should be treated in 
+the same way as the data exchange within one company to reduce regulatory bur-
+den, and enable companies to reduce compliance costs.  
+ 
+3.6. Harmonized compensation for data provision 
+ 
+Explanation: 
+• The provision of data is invariably associated with costs—even when data is already 
+available to the manufacturer of a connected device. These costs may include trans-
+mission fees (e.g., mobile network usage) as well as expenses related to cloud and 
+compute infrastructure. 
+• The EU Data Act acknowledges this and includes compensation for data provision in 
+its cross-sectoral framework, including data requested by public sector bodies (B2G), 
+as outlined in Article 20(2). 
+• However, existing sector-specific regulations often prescribe inconsistent or no com-
+pensation mechanisms for data sharing with public authorities (B2G). This creates le-
+gal uncertainty and operational complexity. 
+• To ensure consistency and legal clarity, the cost calculation model introduced by the 
+Data Act should be adopted as the baseline for all B2G data provision. 
+ 
+ 
+16 
+ 
+• This approach discourages unnecessary data requests while ensuring fair compensa-
+tion for the infrastructure and effort required to make data available as well as reduc-
+ing administrative burdens. 
+• Examples of regulations in the automotive sector that currently do not provide com-
+pensation regimes for data provision:  
+o Real-World Emissions Implementing Regulation (OBM Reporting related to 
+Euro 7)  
+(EU) 2024/1257  
+o Battery State of Health submission mandated in Euro 7 (EU) 2024/1257) 
+o Automated Driving Systems Implementing Regulation (EU) 2022/1426 
+o Driver Control Assistance Systems (DCAS) OJ L 2024/2689  
+o Intelligent Speed Assistant (ISA) Delegated Regulation (EU) 2021/1958 
+o Automated Lane keeping Systems (ALKS) 
+o On Board Fuel Consumption Monitoring (OBFCM) Commission Regulation 
+(EU) 2021/392 
+o Software update UN Regulation 156- Software update identifier 
+ 
+Proposal: 
+• For B2G data provision, the same compensation principles as laid down in Article 
+20(2) of the Data Act should apply across all public sector data requests (B2G), 
+where the data from connected devices is transmitted from the manufacturer directly 
+to the authority. 
+• All future regulations concerning B2G data provision shall refer to the compensation 
+framework for data sharing as stipulated in Article 20(2) of the Data Act. This applies 
+only to data obtained from connected devices and transmitted over-the-air. Existing 
+regulations should be revised accordingly to align with this standard. 
+ 
+3.7. GDPR – Information Obligation 
+ 
+Explanation: 
+• Article 14 (5) of the GDPR currently acknowledges exemptions in some given cases 
+of information obligations for the controller (for example when the personal data is ob-
+tained due to legal obligations). Nevertheless, these exemptions for the controller 
+only apply in case that the personal data has not been obtained directly from the data 
+subject.  
+• When data is obtained directly from the data subject this lack of exceptions causes 
+enormous documentation and bureaucratic efforts as data protection authorities and 
+courts tend to expect increasing detail in the information about data processing pro-
+vided to the data subject. 
+• For example, when data was obtained bevor the entry into force of the GDPR but 
+needs to be processed due to a legal obligation afterward, the information obligations 
+are causing enormous efforts as for example the data subject cannot be reached eas-
+ily. In case the data would not have been obtained directly the exemptions in Article 
+14 (5) would help to reduce bureaucratic efforts.  
+ 
+ 
+ 
+17 
+ 
+Proposal: 
+• The exceptions set forth in Article 14 (5) GDPR should also apply to Article 13 GDPR. 
+ 

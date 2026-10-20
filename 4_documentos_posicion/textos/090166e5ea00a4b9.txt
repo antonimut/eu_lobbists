@@ -1,0 +1,389 @@
+ 
+1 
+ 
+         
+                 
+European Commission proposed amendments – ICMA Feedback Response 
+22 March 2022 
+ 
+1. Pre-trade transparency 
+a. Context 
+ICMA would like to highlight that market participants all agree MiFIR pre-trade transparency is not 
+desired or used in bond market trading. ICMA considers the European Commission and ESMA should 
+focus instead on pre-trade pricing distribution definitions1 and best practice, as illustrated in ICMA’s 
+published industry guide to definitions and best practice bond pricing distribution, and also on post-
+trade transparency. ICMA notes, transparency is not a goal in and of itself. The goal is a well-
+functioning, competitive bond market. 
+ 
+In addition, ICMA would also like to highlight that to date the European Commission has not carried 
+out an in-depth cost/benefit analysis for MiFIR pre-trade transparency. ICMA considers if the 
+European Commission had carried out this analysis, the European Commission would have observed 
+there are no “benefits” to bond markets for MiFIR pre-trade transparency costs and industry effort. 
+ 
+ 
+1 Bond pricing distribution standardised definitions: Cash bonds – corporates & sovereigns  
+ 
+ Run Market-run Axe Streaming  
+ 
+Executable  
+Direction Bid or offer/ 
+Optional to 
+publish/ 
+Indicative (but 
+should not 
+change) 
+Bid and offer Bid or offer Bid or offer 
+ 
+Bid or offer 
+Price/Quote Optional to 
+publish/Indicativ
+e state 
+Optional to 
+publish/Indicative 
+state (but should 
+show price) 
+Optional to publish/ 
+Indicative state 
+Mandatory to 
+publish/Indicative 
+state 
+Mandatory 
+to 
+publish/Firm 
+state 
+Size Optional to 
+publish/Indicativ
+e state 
+Optional to 
+publish/Asymmet
+ric or 
+Identical/Indicativ
+e state 
+ 
+Mandatory to 
+publish/Indicative 
+state (but ideally 
+firm) 
+Mandatory to 
+publish/Firm state 
+Mandatory 
+to 
+publish/Firm 
+state 
+Trade 
+interest 
+Non-committal Non-committal Committed Committed Committed 
+Good until N/A N/A Cancelled Cancelled Cancelled 
+ 
+ 
+Ref. Ares(2022)2101995 - 22/03/2022
+ 
+2 
+ 
+Recently, it was noted in the UK HMT ‘Wholesale Market Review’: “In 2018 the MiFID pre- and post-
+trade transparency regime was extended to cover bonds, ETCs, ETNs, structured finance products, 
+emission allowances and derivatives. It was also expanded to cover trading conducted on newly 
+defined OTFs, which previously took place OTC.”  
+ 
+They further observed: “Although the MiFID II transparency regime intended to accommodate the 
+specific characteristics of equity and non-equity markets, it does not go far enough in accounting for 
+the fundamental differences between and within the two categories of markets. For example, it 
+does not acknowledge that the nature and depth of liquidity is fundamentally different for fixed 
+income [and derivative] instruments compared with equities. This has resulted in a number of 
+bespoke illiquid instruments falling within scope of the regime, while some liquid and standardised 
+contracts are not subject to any transparency requirements. 
+The current [MiFIR] framework is also based on an inaccurate assumption that transparency, 
+especially pre-trade, plays the same role in fixed income [and derivatives] markets as it does in 
+equities. Unlike equity markets where transactions are typically executed on electronic order books, 
+most fixed income [and derivatives] transactions occur through voice, request-for-quote (RFQ) 
+systems, or bilateral negotiation [with the notable exceptions of some exchange-traded and OTC 
+derivatives].” 
+Looking at pre-trade transparency in more detail, HMT stated: “MiFID II established a very broad 
+pre-trade regime for fixed income [and derivatives] markets. It requires any bid and offer prices that 
+are broadcast through a venue’s systems to be disclosed to the public. However, a complex system 
+of waivers – which are supported by transparency calculations – offer exemptions from pre-trade 
+transparency requirements if: there is no liquid market for the instrument in question; if an order is 
+large in size (with extra conditions on the trading protocol and partial transparency requirements for 
+smaller sizes specific to the instrument); if the instrument is held in an order management facility; or 
+if it is part of a package order or an exchange for physical (EFP) transaction.”  
+However, HMT further observed: “The available evidence from the operation of the MiFID II 
+transparency regime for bonds [and derivatives] is that the application of pre-trade transparency to 
+such markets has not worked effectively. This is because, order books (which list bids and offers for 
+all instruments), are not widely used by fixed income [and derivatives] traders. Instead, liquidity is 
+usually provided on a request for quote basis, or instruments are traded of bilaterally. The reason for 
+this is because a lot of fixed income [and derivative] instruments are bespoke, illiquid, and complex. 
+To ensure that the pre-trade transparency regime is correctly calibrated, HMT is proposing to “limit 
+the scope of the regime to systems such as electronic order books and periodic auctions, that 
+currently operate under full transparency. This would mean that bespoke trades that are traded 
+bilaterally, where pre-transparency does not play an important role, are exempt from the regime. 
+However, more liquid instruments that tend to be traded on an order book would remain in scope. 
+More broadly, this approach would give investors some degree of optionality as to whether they opt 
+for pre-trade transparency and thus execute on an order book or prefer to utilise an RFQ method 
+and limit pre-trade transparency. This would sit alongside improvements to post trade transparency 
+that would allow for price formation and competition.” 
+This UK view is not a pre-trade transparency ‘silo’ view. It is in keeping with other jurisdictions such 
+as the US. ICMA’s Transparency Taskforce agrees with HMT UK view of MiFIR pre-trade 
+transparency. 
+ 
+ 
+3 
+ 
+ 
+ 
+ICMA Amended text 
+(5)  MiFIR Article 8 is amended as follows: 
+Paragraphs 1 – 4 are deleted  
+a) MiFIR Article 9 is amended as follows: 
+Paragraphs 1 – 6 are deleted 
+b) MiFIR Article 18 is amended as follows: 
+Paragraphs 1 – 11 are deleted 
+ 
+2. Post-trade transparency  
+a. Context 
+ 
+Getting a post-trade transparency regime right is crucial to well-functioning markets. However, 
+many ICMA members have observed how strongly MiFIR is equity-biased in language, workflow 
+understanding and terminology. Therefore, in financial markets, if the EU is going to propose 
+deferral frameworks, it supports the EU if policymakers understand the asset class they are 
+‘framing’. Specifically, there is no asset class referred to as ‘non-equities’. It is also not defined in 
+Article 2, definitions, under MiFIR. It seems that ‘non-equities’ refers to the individual asset 
+classes of bonds, structured finance products, emission allowances and derivatives. These asset 
+classes are radically different to each other in how they trade. In Article 11, these individual asset 
+classes are co-mingled. This makes it difficult to set out how an individual asset class deferral 
+regime should be framed. ICMA recommends that level 1 sets out post-trade transparency 
+regime frameworks based on individual asset classes and their respective needs, even if the 
+more detailed deferral/threshold work is carried out in level 2. The result will be level 1 
+subsections (bonds, derivatives, structured finance products, emission allowances) under Article 
+11 that will cover the European Commission proposed deferral framework per individual asset 
+class. This way, for Council and Parliament members, it will be easier to understand Commission 
+deferral proposals and to address any changes that may be required. The following post-trade 
+transparency amendment suggestions are solely related to cash bonds. 
+ 
+Post-trade transparency promotes price competition and facilitates accurate assessment of 
+current market and liquidity dynamics, increasing overall investor confidence, particularly during 
+time of market volatility.  
+ 
+Balancing simplicity and complexity in a post-trade transparency regime is key to a workable 
+transparency regime. Overcomplicating the transparency regime is unproductive while the same 
+is true for oversimplifying the transparency regime. It is important to keep in mind bond markets 
+are not black and white they are more nuanced, when determining any future post-trade 
+transparency regime. 
+ICMA believes for debt instruments, there should be three buckets of transparency: small, medium 
+and large. The small bucket should provide real-time, which is considered to be as soon as 
+technically possible and within 15 minutes (to allow for bond market participants who may not 
+ 
+4 
+ 
+have access to institutional toolkits to report), data and be based on one variable of ‘size’. Whereas 
+the medium and large credit buckets should incorporate two extra variables of amount 
+outstanding and HY/IG instrument classification.  
+The medium and large variables, which are additional to size, are required in order to have a 
+granular enough credit regime to support both the orderly functioning of liquid secondary bond 
+markets and increased transparency. The principle underlying ICMA’s position is to try to provide 
+as much transparency into the credit market as possible, in order to aid price formation for 
+participants and potential participants who do not currently have sufficient information. This pro-
+transparency position is tempered by the trade-off between transparency and liquidity provision 
+where liquidity is provided by risk taking intermediaries, as opposed to information-only 
+intermediaries. The reason for ICMA’s multi-dimensional (rating/amount outstanding/trade size) 
+approach versus the single dimension (trade size) approach, is to try to isolate the activities 
+(instruments and trades) that are most at risk of diminished liquidity and limit transparency only in 
+relation to those trades, while providing as much transparency as possible to activity that is most 
+likely to benefit from transparency and least likely for liquidity to be compromised. 
+The ‘small, medium, and large transparency buckets with three variables’ proposed amendments 
+refer mostly to corporate bond instruments. However, ICMA considers that since corporate bonds 
+represent some of the least liquid sub-classes of bonds, ICMA believes that the corporate bond 
+proposed framework, minus credit HY/IG instrument classification, could be applied to sovereigns. 
+Although further analysis is required before any final calibrations could be suggested for sovereign 
+bonds.  
+Lastly, market participants strongly believe a bond consolidated tape should have both corporate 
+bonds and sovereign bonds in the bond consolidated tape and not just corporate bonds, which 
+appears to be the case in looking at the European Commission’s proposed amendments. For 
+sovereign bonds to populate a bond consolidated tape, competent authorities should not allow 
+market operators and investment firms the ability to publish several sovereign bond transactions 
+in aggregated form. Instead, sovereign bond transactions can defer the price and volume for 
+individual transactions for an extended period of deferral, but not an indefinite period of time. 
+Aggregation of sovereign bond trades does not facilitate a bond consolidated tape that can provide 
+market insight and improved transparency for end-investors, institutional or retail, who want to 
+trade sovereign bonds. A consolidated tape cannot ‘consolidate’ already ‘consolidated’ data. 
+ 
+ 
+Amended text 
+(6) EU Commission amended Article 11 is further amended as follows: 
+(a) Paragraph 1 is amended to the following: 
+Bonds 
+i) Paragraph 1 is replaced by the following 
+Market operators and investment firms operating a trading venue shall defer the publication of 
+details of bond transactions based on the liquidity and size of the transaction, based on the deferral 
+regime as set out in paragraph 4, for the following categories:  
+ 
+5 
+ 
+a) Category 1 – liquid and illiquid instruments with small (retail level) trade size threshold  
+b) Category 2 – liquid instruments with a medium trade size threshold 
+c) Category 3 – illiquid instruments with a medium trade size threshold 
+d) Category 4 - liquid instruments with a large trade size threshold 
+e) Category 5 - illiquid instruments with a large trade size threshold 
+f) Category 6 – liquid and illiquid instruments with very large trade size threshold 
+ 
+(b) Paragraph 3 is replaced by the following: 
+Competent authorities may, when authorising a deferred publication as referred to in paragraph 1 
+with regard to transactions in sovereign debt, allow market operators and investment firms 
+operating a trading venue: 
+(a) for a defined period of time, to allow the omission of the publication of the price and 
+volume for an individual transaction for an extended period of deferral. When the 
+omission extended time period lapses, all details of the transactions on an individual 
+basis shall be published.  
+(b) For a defined period of time, to publish in an aggregated form several transactions. 
+When the aggregated time period lapses, all details of the transactions on an individual 
+basis shall be published. 
+(c) Paragraph 3 b is deleted 
+ 
+(c) Paragraph 4 is amended as follows: 
+i) The first subparagraph is amended as follows: 
+Point (d) is replaced by the following 
+(d) Market operators and investment firms operating a trading venue shall defer the 
+publication, as referred to in paragraph 1, of the price and volume of the transactions for 
+any combination of the following durations 
+1. 15 minutes 
+2. End of day 
+3. 2 weeks 
+4. 4 weeks 
+The duration of deferral will be based on the liquidity and size of the transaction and will be defined 
+by ESMA as per paragraph 4. 
+(ii) the following subparagraph is inserted after the first subparagraph: 
+For the purposes of the first subparagraph, point (d), ESMA shall specify the categories’ thresholds 
+and which deferral period for price and volume shall apply across the Union by using the following 
+criteria: 
+(a) Liquidity determination based on amount outstanding 
+(b) The size of the transaction, in particular transactions in illiquid markets or transactions 
+that are large in scale; 
+(c) For corporate bonds, the classification of the bond as investment grade or high yield. 
+ESMA shall review the regulatory technical standards [implementing technical standards] in 
+conjunction with the expert stakeholder group under article 22(b) and amend the standards to take 
+into account substantial changes in calibration of categories under the first subparagraph point (d) 
+and second subparagraph of this paragraph.   
+ 
+6 
+ 
+3.  Consolidated tape  
+a. Context 
+Greater transparency in OTC bond markets and other “non-equity” asset classes is one of the key 
+objectives of MiFID II and MiFIR. However, in bond markets, MiFID II/R did not fully achieve its 
+objective of creating greater transparency. A key reason for this is held to be the lack of a central 
+database, which aggregates the various post-trade data sources into a single “golden source” view, 
+also referred to as a “consolidated tape”. Instead, post-trade data is fragmented across the different 
+APAs with inconsistent presentation formats and differing modes of machine readability. Insufficient 
+data quality poses yet a further challenge. 
+The goal of the bond CT, as perceived by ICMA members, is to improve transparency, assist decision-
+making and provide market insights to end-investors, large or small, retail or institutional. Adoption 
+of the appropriate structure will benefit the whole market, by providing a centralised, high quality, 
+affordable, trustworthy data source, offering a comprehensive market view. This will bring 
+immediate benefits to the professional bond market and the retail sector more widely. The resulting 
+consolidated tape will become the ‘vehicle’ for all bond market transparency.  
+In order to determine the appropriate thresholds and deferrals for transparency in bond markets, it 
+will be necessary to analyse the operational effectiveness of bond markets. This is particularly 
+nuanced in the case of bond markets, as they are primarily a risk-based market.  
+Therefore, to properly analyse bond market functioning on an ongoing basis, one must analyse both 
+market data quality and the efficiency of balance sheet provision in the bond market. Together, 
+these two elements will determine what thresholds and deferrals should be regulated in order to 
+accurately reflect current bond market functioning as well as the information useful for market 
+participants.  
+Well rounded analysis of bond markets should be quantitative and data-led and qualitative and 
+expert-based. As such ICMA supports the creation of a Commission expert industry stakeholder 
+group which will comprise senior market data experts as well as senior trading specialist experts. 
+These experts will rotate, as required, but both will contribute to a semi-annual report that will aim 
+to recommend any necessary modifications to the current standards, transmission formats and 
+reporting requirements, as well as recommend any increases, decreases or holds to bond market 
+post-trade transparency thresholds. These expert stakeholder recommendations will be published 
+ongoing and on a 6-month basis, based on real market experiences and backed up with quantitative 
+and qualitative evidence. Moreover, these stakeholder recommendations should be considered 
+‘actionable’.  
+The senior trading expert specialists could also in times of crisis (e.g., Covid) recommend necessary 
+changes to post-trade transparency thresholds. Any emergency recommendation must be published 
+as well. 
+ICMA considers the European Commission should investigate legal measures to establish 6-month 
+repetitive delegated acts to allow the European Commission to set up an expert industry stakeholder 
+group as described below, amending Articles 22a and Article 22b and also associated RTS and 
+Articles as follows: 
+1. Provision of market data to the CTP 
+ 
+7 
+ 
+Market data contributors shall, with regard to bonds that are traded on a trading venue, 
+provide the CTP with all the market data, amending Article 22 (a) and related RTS as 
+required, for the CTP to be operational.  
+a. Market data shall be provided in a harmonised format, through a high-quality 
+transmission protocol, and as close to real-time as is technically possible. 
+2. The Commission shall set up an expert industry stakeholder group [3 months as of entry into 
+force, amending Article 22 (b), Article 11 and related RTS as required]: 
+a. consisting of buy-side and sell-side senior trading specialists to meet on a six-month 
+basis to review and look back at the transparency situation from the previous six-
+months and make recommendations for the next six-months. If the market is 
+working well with current thresholds and deferrals and the trading specialists agree, 
+on a majority basis, that there would not be any undue risk to increasing 
+transparency, then thresholds and deferrals could be changed to increase 
+transparency. However, if there are found to be negative market liquidity impacts, 
+perhaps from reduced sell-sides’ balance sheet risk provision, then thresholds could 
+be modified to provide less transparency. This trading specialist senior expert sector 
+of the stakeholder group shall provide advice in the form of ‘increase’, ‘decrease’ or 
+‘hold’ recommendations on a six-month basis. That advice shall be made public.  
+i. The buy-side and sell-side senior trading specialists should include a balance 
+of natural transparency preferences, some wanting more and some wanting 
+less. 
+ 
+b. consisting of trading venue, data provider, buy-side and sell-side senior market data 
+specialists to look back at the last six-months to provide advice on the quality and 
+the substance of market data, the common interpretation of market data and the 
+quality of transmission protocol referred to in Article 22a (1). This market data 
+expert sector of the stakeholder group shall provide advice on a six-month basis. 
+That advice shall be made public.  
+3. The Commission shall be empowered to adopt delegated acts in accordance with Article 50 
+to specify  
+a. every six-months, the necessary changes to the current transparency thresholds and 
+deferrals based on recommendations from the trading based expert stakeholder 
+group. 
+b. every six-months, the quality and the substance of the market data and the quality 
+of the transmission protocol. 
+ 
+Those delegated acts shall specify all of the following:  
+a. ‘Increase’, ‘decrease’, or ‘hold’ recommendations regarding bond transparency 
+regime thresholds and deferrals. 
+b. The market data, contributors need to provide to the CTP in order to produce the 
+core market data needed for the CTP to be operational, including the substance and 
+the format of those market data; 
+c. What constitutes core market data referred to in Article 2 (1) (36bb) and the 
+regulatory data referred to in Article 2 (1) (36c). 
+For the purposes of the first subparagraph, the Commission shall take into account the advice from 
+ESMA and from the (technical) expert stakeholder group established in accordance with paragraph 
+ 
+8 
+ 
+2, international developments and standards agreed at Union or international level. The Commission 
+shall ensure that the delegated acts adopted also take into account the reporting requirements laid 
+down in Articles 3, 6, 8, 10, 14, 18, 20, 21, and 27g. 
+ 
+Article 2 – Definitions 
+1 (36b) – Core Market Data 
+a. Context 
+ICMA agrees that a ‘market data contributor’ will contribute post-trade data to the consolidated 
+tape and that as noted in (34a) that the market data contributor can mean a trading venue, an APA, 
+a systematic internaliser or an investment firm who is self-reporting to the consolidated tape 
+provider.  
+However, ICMA notes that while trading venues are identified via their MIC code in post-trade 
+transparency, investment firms and SIs are not identified for the purposes of bond post-trade 
+reporting. Therefore, the core market data consolidated tape requirements must be amended to 
+exclude investment firms and SIs’ market identifier codes (MIC) from being reported by the CTP, 
+which would result in publicly identifying individual counterparties.  
+ 
+ICMA Amended Text – Article 2 - Definitions  
+1.36 bb (ii) – Non-equity Core Market Data 
+ 
+1. For the purposes of this Regulation, the following definitions apply: 
+(36b) core market data means: 
+(b) all of the following data on non-equities: 
+(ii) the market identifier code identifying the regulated market, MTF or OTF 
+ 
+  
+ 
+ 
+ 

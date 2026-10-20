@@ -1,0 +1,99 @@
+ 
+1 
+ 
+INTERNAL 
+Enel responses to European Commission “Have your say” on the 
+Proposal for a Directive amending Directive 2014/32/EU as regards 
+electric vehicle supply equipment, compressed gas dispensers, 
+and electricity, gas and thermal energy meters 
+ 
+The Enel Group welcomes the proposal to amend the current Measuring Instrument Directive-
+MID to cover the evolving needs of the energy sector in line with the objectives of the European 
+Green Deal. Our company would like to share  some improvements to the current text  to 
+increase regulatory certainty and avoid possible discrepancies in the interpretation of the text 
+between Member States.  
+For smart meters: 
+• Article 2 of the proposed MID revision should be  amended to ensure that measuring 
+instruments that comply with Directive 2014/32/EU will continue to be managed in the 
+same way after the entry into of force of the new Directive without any time limit. For 
+this reason, we proposed to delete some part of the Article, as indicated below:  
+ 
+“By way of derogation…covering measuring instruments that fall in the scope of…and that have 
+been placed on the [ADD market before the date of entry into force of this Directive ] [DELETE 
+before [OP please insert the date = 24 months after the date of entry into force of this Directive], 
+shall remain valid until the expiry of their validity…” 
+ 
+• In Annex I, points 10.6, the following sentence must be removed:  
+“The data may be made available, in addition, by means of metrologically controlled remote 
+channel.” 
+since it is considered not sufficiently detailed and structured, it may cause interpretative 
+difficulties that are hard to resolve. Additionally, due to its specificity, it is included in a 
+document expressly concerning measuring instruments, for which metrolog ical 
+validation rules are already present. 
+• In Annex III (1), the proposal to add “transferred between circuits” to the definition of 
+electrical energy meter is unclear. The final amendment should better clarify the 
+meaning and whether the new definition extends the scope of the MID. 
+ 
+“An active electrical energy meter is an instrument which measures the active electrical energy 
+consumed in a circuit or [CLARIFY transferred between circuits]” 
+ 
+• It might be relevant for the MID revision to consider the provisions on smart meters of 
+the IR (EU) 2023/1162 on interoperability and access to metering data  and the 
+Data Act (EU) 2023/2854, together with the secondary laws and the guidance 
+stemming from such acts. If possible, it would be relevant also to consider the 
+provisions on data sharing from the upcoming implementing regulations on 
+interoperability and data ac cess to promote demand response, customer 
+Ref. Ares(2025)1584268 - 27/02/2025
+
+ 
+2 
+ 
+INTERNAL 
+switching and other services (mandated by the Electricity Directive (EU) 
+2019/944). The following points would be key: 
+According to the IR (EU) 2023/1162 (from now on IR), smart meters placed in the 
+EU market or put into service after July 2019, shall follow the minimum 
+requirements for providing access to historical and near -real time data (the so-
+called reference model, applicable since January 5th 2025), consisting of: 
+• a process model, that describes the procedures (e.g., how to authenticate users),  
+• a role model, with a set of roles/responsibilities and their interactions. For MID it 
+is especially relevant to consider that: 
+o metered data administrators, will store and make validated data available 
+online and show complementary data, and shall keep updated a data 
+access log 
+o metering point administrator, provides and administrates the metering point 
+characteristics, and parties registered to it 
+o meter operator,  will install, maintain, test, certify and decommission 
+physical meters.  They will offer access to near real-time data and send the 
+information necessary to use and/or decrypt meter data. 
+o Data access provider, responsible for facilitating access, including in 
+cooperation with other parties, to validated historical metering and 
+consumption data by the final customer or eligible parties 
+• an information model that contains information objects, their attributes, and the 
+relationships between these objects  
+In addition, the IR states smart metering data should be available by means of European 
+standards, where possible (recitals 8 and 9) 
+The Commission proposal f or a Data Act  (EU) 2023/2854 , provides certain 
+obligations for connected products and related services , to provide access for 
+consumers to generated data. The provisions on data access are covered by the 
+previous IR, however some provisions non-existent in the IR impact smart meters:  
+• Gatekeepers (e.g. Apple) shall not be eligible third parties, receiving SM data  
+(Article 5).  
+• Any compensation for making data available shall be non -discriminatory, 
+reasonable, and may include a margin.  
+• Infringements for not sharing the data will be subject to penalties laid down by 
+Member States under the Data Act. 
+For electric vehicle supply equipment  is fundamental that the new requirements 
+introduced by the MID do not interfere with the provisions included in the Alternative Fuel 
+Infrastructure Regulation (AFIR)  regarding public charging and there is full consiste ncy 
+between the two piece s of legislation. On  the specific requirements in Annex IV,  we 
+propose the following amendments: 
+o The table only refers to the AC parameter . Important to add the relevant 
+parameters for the DC meter. 
+ 
+3 
+ 
+INTERNAL 
+o Table 1 reports AC charging with a current greater than 80 A, this is not 
+allowed. The maximum is equal to 80 A single phase for US market, and 
+for EU market the current is 63 A three phase. 

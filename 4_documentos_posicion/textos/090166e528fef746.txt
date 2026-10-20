@@ -1,0 +1,748 @@
+ 
+Verband der Elektro- und Digitalindustrie 
+ZVEI recommendations on the  
+„EU Digital Omnibus on Data, Privacy 
+and Cybersecurity“ 
+ 
+Summary 
+ 
+ZVEI welcomes the European Commission’s initiative to streamline and adjust the EU’s data, cyber security 
+and data protection framework through the Omnibus VII. The Commission’s recognition of the need to en-
+hance Europe’s competitiveness and to strengthen the conditions for data-driven innovation is both timely 
+and necessary. 
+At the same time, despite the broadly supported objectives underlying the proposed amendments, the cur-
+rent proposal falls short of addressing the practical realities and needs of industrial data ecosystems  and 
+even create more legal uncertainties.  
+ 
+To avoid undermining the competitiveness of data-driven industries, mandatory B2B data-sharing obliga-
+tions should be repealed wherever no demonstrable market failure exists, and at the very least, effective 
+protection of trade secrets must be ensured for both B2B and B2C relationships. However, instead of 
+tackling these structural shortcomings of the Data Act in a comprehensive and forward-looking manner or 
+consolidating data-related legislation into a coherent regulatory framework, the proposal largely con fines it-
+self to incremental adjustments.  
+It is also regrettable that the Omnibus package does not meaningfully engage with the Cyber Resilience 
+Act. In its current form, certain provisions of the CRA risk imposing disproportionate burdens on Euro-
+pean companies and undermining their competitiveness in global markets. Addressing these issues should 
+have been an integral part of a horizontal initiative aimed at improving the overall digital and data regulatory 
+framework. 
+ 
+By contrast, the proposed amendments in the area of data protection and the GDPR demonstrate a more 
+constructive and targeted approach and point in the right direction. However, isolated improvements in indi-
+vidual instruments are not sufficient to achieve the broader objective of a competitive, innovation-friendly reg-
+ulatory environment. 
+It is now incumbent upon the European Parliament and the Council to decisively address these shortcomings 
+and establish a coherent, competitive legal framework aligned with Europe’s digital and industrial ambitions. 
+The following recommendations set out concrete measures to better support industry and innovation. 
+ 
+ 
+ 
+1 Data Act  
+ 
+1.1 Exclusion of data sharing obligations in business-to-business relations 
+ 
+ZVEI supports the objectives of the Data Act to strengthen the data economy and digitalization. However, the 
+uniform application of Chapters II and III to both B2B and B2C contexts, combined with an overly simplified 
+view of industrial data sharing, creates significant legal and technical uncertainty. The trade secret hand-
+brake mechanism fails to provide effective protection, while the high threshold for refusing data access 
+based on serious economic harm is impractical and risks incentivising data minimisation . The proposed ex-
+ception for entities from third countries addressed in the Commission’s proposal is, in principle, welcome; 
+however, it is incomplete and does not constitute a substantive novelty and fails to adequately address the 
+insufficient protection of trade-secret-relevant data. The severe risk of sharing sensitive information or re-
+verse engineering is not exclusive to third countries but equally applies to malicious actors within Europe.  
+Consequently, companies may be incentivized to design their products in a more data-efficient manner, 
+thereby undermining the very objectives the Data Act aims to achieve. In light of these concerns, if Europe 
+does not repeal the Data Act entirely, we strongly recommend the repeal of any data sharing obligations 
+Ref. Ares(2026)1499451 - 10/02/2026
+
+2 
+in business to business context, where no clear market failure can be demonstrated, and the promo-
+tion of the voluntary nature of data sharing to serve as the default standard.  
+ 
+ 
+We propose the following wording:  
+ 
+Amendment 1  
+Regulation (EU) 2023/2854 – Data Act 
+Art 1(2) (aa) (NEW)  
+ZVEI recommendation  
+Text: additions in bold, deletions with 
+strikethroughs 
+2. This Regulation covers personal and non-
+personal data, including the following types 
+of data, in the following contexts: 
+[…] 
+2. This Regulation covers personal and nonper-
+sonal data, including the following types of 
+data, in the following contexts: 
+[…] 
+(aa) Chapter II does not apply in business-to-
+business relations; 
+(ea) Chapter VI does not apply in business-to-
+business relations; 
+ 
+Any Recitals and further parts of the Data Act shall be adapted as necessary to reflect the newly pro-
+posed Art. 1 (aa) and (ea).  
+ 
+ 
+1.2 Trade Secret Protection  
+ 
+Trade secrets are one of the most valuable strategic assets of companies and a key factor in sustaining 
+European competitiveness. Mandatory data-sharing obligations that compel companies to disclose business-
+critical information without ensuring robust and enforceable protection of trade secrets are fundamentally at 
+odds with the EU Trade Secrets Directive. By normalising the forced sharing of commercially sensitive 
+data even in the absence of demonstrable market failure, the current approach risks hollowing out a core pil-
+lar of Europe’s innovation and competitiveness framework. A regulatory regime that weakens trade secret 
+protection through broad and insufficiently safeguarded disclosure obligations undermines legal certainty, 
+discourages investment, and contradicts the EU’s own commitment to effective intellectual property protec-
+tion. Moreover, effective safeguards for trade secrets protection are particularly important in a B2C context 
+where the trade secrets holder usually deals with largely unknown private actors with limited enfor cement 
+potential. Proving serious economic damage and irreparable loss, even ex -ante, is almost impossible as the 
+risk of disclosure is not apparent before sharing sensitive data. It should be made clear that mandatory data 
+sharing under the Data Act must not be construed as conferring trade secret ownership on any other 
+party than the trade secret holder. Even where such data access is made subject to the agreement of ap-
+propriate technical and organisational measures pursuant to Article 4(6) and Article 5(9), the user’s entitle-
+ment to data access does not create any status as a holder or co-holder of trade secrets within the meaning 
+of Directive (EU) 2016/943, nor should it be treated as doing so. It must therefore be expressly stated that 
+the data holder is and remains the sole holder of the trade secrets concerned, and that the user’s access to 
+data neither establishes nor alters this legal position. 
+ 
+We propose the following wording: 
+ 
+Amendment 2  
+Regulation (EU) 2023/2854 – Data Act 
+Recital 31 
+ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs  
+[…]In this context, data holders should be 
+able to require users, or third parties of a 
+user’s choice, to preserve the confidentiality 
+of data considered to be trade secrets.  
+In this context, data holders should be able to 
+require users, or third parties of a user’s 
+choice, to preserve the confidentiality of data 
+considered to be trade secrets. Neither the 
+user nor the data holder, nor any third 
+party, shall be considered a co-holder of 
+3 
+the relevant trade secrets, unless they are 
+the trade secret holder. 
+ 
+Amendment 3  
+Regulation (EU) 2023/2854 – Data Act 
+Art. 4(8) 
+ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs  
+In exceptional circumstances, where the 
+data holder who is a trade secret holder is 
+able to demonstrate that it is highly likely to 
+suffer serious economic damage from the 
+disclosure of trade secrets, despite the tech-
+nical and organisational measures taken by 
+the user pursuant to paragraph 6 of this Arti-
+cle, that data holder may refuse on a case-
+by-case basis a request for access to the 
+specific data in question. That demonstra-
+tion shall be duly substantiated on the basis 
+of objective elements, in particular the en-
+forceability of trade secrets protection in 
+third countries, the nature and level of confi-
+dentiality of the data requested, and the 
+uniqueness and novelty of the connected 
+product, and shall be provided in writing to 
+the user without undue delay. Where the 
+data holder refuses to share data pursuant 
+to this paragraph, it shall notify the compe-
+tent authority designated pursuant to Article 
+37. 
+A data holder who is a trade secret holder 
+may refuse, on a case-by-case basis, a 
+user’s request for access to data identified 
+as trade secrets where the disclosure of 
+such data would reasonably be expected 
+to result in the loss of confidentiality, loss 
+of control, loss of its commercial value, or 
+any risk of inference or other forms of indi-
+rect acquisition of trade secrets. 
+ 
+The data holder's assessment shall be 
+deemed sufficient where it is based on ele-
+ments, including, but not limited to: 
+- the sensitivity, structure, granular-
+ity and level of confidentiality of 
+the data requested; 
+- the extent to which the data, alone 
+or combined with other information 
+accessible to the user, would allow 
+inference of trade secrets, busi-
+ness logic, algorithms or pro-
+cesses; 
+- the foreseeable risk of misappro-
+priation in aftermarket or competi-
+tive contexts.  
+ 
+The refusal shall be communicated in writ-
+ing to the user without undue delay. The 
+competent authority pursuant to Article 37 
+shall be notified accordingly. 
+ 
+Amendment 4  
+Regulation (EU) 2023/2854 – Data Act 
+Art 4 (8a) (NEW) 
+ZVEI recommendation  
+Text: additions in bold, deletions with 
+strikethroughs 
+ Additional Safeguards for Data Disclosure 
+to Third Country Entities  
+ 
+Where the data recipient is established in 
+a third country, or is under the direct or in-
+direct control of an entity established in a 
+third country, the data holder may refuse 
+access where there exist reasonable con-
+cerns that the applicable legal or enforce-
+ment framework does not provide effec-
+tive, reliable and enforceable protection 
+against the misappropriation or loss of 
+confidentiality of trade secrets compared 
+to the protection provided under Union 
+law. 
+ 
+4 
+Such concerns shall be deemed reasona-
+ble where the data holder demonstrates 
+objective elements such as: 
+- the lack of effective judicial or ad-
+ministrative remedies against mis-
+appropriation; 
+- structural weakness in enforce-
+ment, oversight, or compliance ob-
+ligations; 
+- the legal, political, or practical en-
+vironment which may facilitate 
+compelled disclosure, interception, 
+or state access; 
+- the absence of binding agreements 
+ensuring equal or higher levels of 
+protection compared to those und 
+Union law. 
+ 
+Any refusal pursuant to this paragraph 
+shall be communicated to the user in writ-
+ing without undue delay. The competent 
+authority pursuant to Article 37 shall be 
+notified accordingly. 
+ 
+ 
+Amendment 5  
+Regulation (EU) 2023/2854 – Data Act 
+Art 5 (11) 
+ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs  
+ A data holder who is a trade secret holder 
+may refuse, on a case-by-case basis, a 
+third party’s request for access to data 
+identified as trade secrets where the dis-
+closure of such data would reasonably be 
+expected to result in the loss of confidenti-
+ality, loss of its commercial value, loss of 
+control, or any risk of inference or other 
+forms of indirect acquisition of trade se-
+crets. 
+ 
+The data holder's assessment shall be 
+deemed sufficient where it is based on ele-
+ments, including, but not limited to: 
+- the sensitivity, structure, granular-
+ity and level of confidentiality of 
+the data requested; 
+- the extent to which the data, alone 
+or combined with other information 
+accessible to the user, would allow 
+inference of trade secrets, busi-
+ness logic, algorithms or pro-
+cesses; 
+- the foreseeable risk of misappro-
+priation in aftermarket or competi-
+tive contexts.  
+ 
+The refusal shall be communicated in writ-
+ing to the user without undue delay. The 
+competent authority pursuant to Article 37 
+shall be notified accordingly. 
+5 
+ 
+ 
+Amendment 6  
+Regulation (EU) 2023/2854 – Data Act 
+Art 5 (11a) (NEW) 
+ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs  
+ Where the data recipient is established in 
+a third country, or is under the direct or in-
+direct control of an entity established in a 
+third country, the data holder may refuse 
+access where there exist reasonable con-
+cerns that the applicable legal or enforce-
+ment framework does not provide effec-
+tive, reliable and enforceable protection 
+against the misappropriation or loss of 
+confidentiality of trade secrets compared 
+to the protection provided under Union 
+law. 
+Such concerns shall be deemed reasona-
+ble where the data holder demonstrates 
+objective elements such as: 
+- the lack of effective judicial or ad-
+ministrative remedies against mis-
+appropriation; 
+- structural weakness in enforce-
+ment, oversight, or compliance ob-
+ligations; 
+- the legal, political, or practical en-
+vironment which may facilitate 
+compelled disclosure, interception, 
+or state access; 
+- the absence of binding agreements 
+ensuring equal or higher levels of 
+protection compared to those und 
+Union law. 
+ 
+Any refusal pursuant to this paragraph 
+shall be communicated to the user in writ-
+ing without undue delay. The competent 
+authority pursuant to Article 37 shall be 
+notified accordingly. 
+ 
+ 
+1.3 Limit cloud switching rules to Infrastructure as a Service (IaaS) Provider 
+ 
+Under a potential interpretation of the Data Act’s definition of “data processing services,” the regulation might 
+be seen as applying indiscriminately to all cloud service models, despite substantial differences between 
+them. ZVEI generally welcomes the EU Commission’s proposal to exempt “custom-made” services and “data 
+processing services that are not off-the-shelf” from the switching rules for contracts signed before 12 Sept. 
+2025 (“Legacy Contracts”). Interoperability and switching might be technically and economically feasible for 
+Infrastructure as a Service (IaaS). However, this is not the case for Platform as a Service (PaaS) and Soft-
+ware as a Service (SaaS) in business to business context, since those services are highly customised, 
+deeply integrated into business processes and development lifecycles, and rely on tightly coupled architec-
+tures that are not easily portable or interoperable and lack rapid-provisioning capabilities. The EU Commis-
+sion rightly reconfirms that Chapter VI applies only to data processing services, where the digital ser-
+vice itself, incl. SaaS, can be rapidly provisioned or released with minimal management effort/service 
+provider interaction (see FAQ 58a). However, in contrary to the Commission’s proposal, a genuine advance 
+in legal certainty and innovation-friendly regulation would require exempting PaaS and SaaS from the 
+scope of Chapter VI for all companies, regardless of their size and to extend the exemptions in Arti-
+cles 31 (1a and 1b) for contracts signed on or after 12 September 2025. 
+6 
+To avoid uncertainties, we propose the following wording:  
+ 
+Amendment 7  
+Regulation (EU) 2023/2854 – Data Act 
+Article 2 (8) 
+ ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs 
+“data processing service” means a digital 
+service that is provided to a customer and 
+that enables ubiquitous and on-demand net-
+work access to a shared pool of configura-
+ble, scalable and elastic computing re-
+sources of a centralized, distributed or 
+highly distributed nature can be rapidly pro-
+visioned and released with minimal man-
+agement effort or service provider interac-
+tion. 
+“data processing service” means a digital 
+service that is provided to a customer and that 
+enables ubiquitous and on-demand network 
+access to a shared pool of configurable, scal-
+able and elastic computing resources of a 
+centralized, distributed or highly distributed 
+nature that if and insofar the digital service 
+itself is elastic, can be rapidly provisioned 
+and released with minimal management effort 
+or service provider interaction. Digital ser-
+vices provided in a SaaS delivery model 
+shall only be considered as Data Pro-
+cessing Services if the main purpose of 
+such service is the provision of access to 
+computing resources other than those 
+used to enable access to and use of the 
+application. 
+ 
+Amendment 8  
+SWD(2025) 836 final – Data Act 
+Article 31 (1a) 
+ 
+ 
+ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs 
+in Article 31, the following paragraphs 1a 
+and 1b are inserted:  
+‘1a. The obligations laid down in Chapter VI, 
+with the exception of Article 29, and in Arti-
+cle 34 shall not apply to data processing 
+services other than those referred to in Arti-
+cle 30(1), where the majority of features and 
+functionalities of the data processing service 
+has been adapted by the provider to the 
+specific needs of the customer, if the provi-
+sion of such services is based on a contract 
+concluded before or on 12 September 2025.  
+The provider of such data processing ser-
+vices shall not be required to renegotiate or 
+amend a contract for the provision of those 
+services before its expiry if that contract was 
+concluded before or on 12 September 2025. 
+Anycontractual provision contained in that 
+contract that is contrary to Article 29(1), (2), 
+or (3) shall be considered null and void. 
+Without prejudice to Article 2 (8) specify-
+ing all other characteristics of a data pro-
+cessing service,  Tthe obligations laid down 
+in Chapter VI , with the exception of Article 
+29, and in Article 34 shall not apply to data 
+processing services other than those referred 
+to in Article 30(1), where the majority of fea-
+tures and functionalities of the data pro-
+cessing service has been adapted by the pro-
+vider to the specific needs of the customer, if 
+the provision of such services is based on a 
+contract concluded before or on 12 Septem-
+ber 2025. 
+The provider of such data processing ser-
+vices shall not be required to renegotiate or 
+amend a contract for the provision of those 
+services before its expiry, if that contract was 
+concluded before or on 12 September 2025. 
+Any contractual provision contained in that 
+contract that is contrary to Article 29(1), (2), or 
+(3) shall be considered null and void. 
+1b. A provider of a data processing service 
+may include provisions on proportionate early 
+7 
+termination penalties in a contract of fixed du-
+ration on the provision of data processing ser-
+vices other than those referred to in Article 
+30(1). 
+Where the provider of data processing ser-
+vice is a small and medium-sized enterprise 
+or a small mid-cap, tThe obligations laid down 
+in Chapter VI, with the exception of Article 29, 
+and in Article 34 shall not apply to data pro-
+cessing services other than those referred to 
+in Article 30(1), if the provision of such ser-
+vices is based on a contract concluded before 
+or on 12 September 2025. 
+Where the provider of a data processing ser-
+vice is a small and medium-sized enterprise 
+or a small mid-cap, t The provider shall not be 
+required to renegotiate or amend a contract 
+for the provision of a data processing service 
+other than those referred to in Article 30(1) 
+before its expiry if that contract was con-
+cluded before or on 12 September 2025. Any 
+contractual provision contained in that con-
+tract that is contrary to Article 29(1), (2), or (3) 
+shall be considered null and void.” 
+ 
+Amendment 9  
+SWD(2025) 836 final – Data Act 
+Article 31 (1b)  
+ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs 
+in Article 31, the following paragraphs 1a 
+and 1b are inserted:  
+1b. A provider of a data processing service 
+may include provisions on proportionate 
+early termination penalties in a contract of 
+fixed duration on the provision of data pro-
+cessing services other than those referred 
+to in Article 30(1). 
+Where the provider of data processing ser-
+vice is a small and medium-sized enterprise 
+or a small mid-cap, the obligations laid 
+down in Chapter VI, with the exception of 
+Article 29, and in Article 34 shall not apply 
+to data processing services other than those 
+referred to in Article 30(1), if the provision of 
+such services is based on a contract con-
+cluded before or on 12 September 2025.   
+Where the provider of a data processing 
+service is a small and medium-sized enter-
+prise or a small mid-cap, the provider shall 
+not be required to renegotiate or amend a 
+1b. A provider of a data processing service 
+may include provisions on proportionate early 
+termination penalties in a contract of fixed du-
+ration on the provision of data processing ser-
+vices other than those referred to in Article 
+30(1). 
+Where the provider of data processing service 
+is a small and medium-sized enterprise or a 
+small mid-cap, tThe obligations laid down in 
+Chapter VI, with the exception of Article 29, 
+and in Article 34 shall not apply to data pro-
+cessing services other than those referred to 
+in Article 30(1), if the provision of such ser-
+vices is based on a contract concluded before 
+or on 12 September 2025. 
+Where the provider of a data processing ser-
+vice is a small and medium-sized enterprise 
+or a small mid-cap, t The provider shall not be 
+required to renegotiate or amend a contract 
+for the provision of a data processing service 
+other than those referred to in Article 30(1) 
+8 
+contract for the provision of a data pro-
+cessing service other than those referred to 
+in Article 30(1) before its expiry 1 if that con-
+tract was concluded before or on 12 Sep-
+tember 2025. Any contractual provision con-
+tained in that contract that is contrary to Arti-
+cle 29(1), (2), or (3) shall be considered null 
+and void.’;   
+before its expiry if that contract was con-
+cluded before or on 12 September 2025. Any 
+contractual provision contained in that con-
+tract that is contrary to Article 29(1), (2), or (3) 
+shall be considered null and void.” 
+ 
+Amendment 10  
+Regulation (EU) 2023/2854 – Data Act 
+Article 31 (1c) (NEW)  
+ZVEI recommendation 
+Text: additions in bold, deletions with 
+strikethroughs 
+ Chapter VI shall not apply in cases where 
+the contract is not provided by the data 
+processing service provider, but (i) by the 
+customer, e.g. in the context of a public 
+tender, or (ii) is negotiated by the parties. 
+ 
+ 
+ 
+2 GDPR 
+ 
+The European Commission’s Digital Omnibus proposal also proposes targeted amendments to the GDPR 
+with the aim to update and fine-tune the GDPR with necessary adjustments. The most relevant topics are as 
+follows:  
+ 
+ 
+2.1 Definition of "Personal Data"  
+ 
+The Digital Omnibus refines what constitutes "personal data" through the concept of "relative identifiability," 
+with clear criteria to be established under the new Article 41a empowerment. Specifically, data is only consid-
+ered personal if the company processing it can reasonably identify the individual.  
+We ask for upholding the "relative identifiability" concept, update and maintaining the proposed em-
+powerment to establish clear criteria for "relative identifiability," enabling clearer guidelines on when industrial 
+data qualifies as anonymous versus personal data. This approach would provide clearer guidelines for when 
+such industrial data qualifies as anonymous versus personal data, enabling more confident data utilization 
+for analytics, AI development, and operational optimization while maintaining robust privacy protection where 
+identification is actually possible.  
+ 
+ 
+2.2 New cookie rules with complications  
+ 
+The Digital Omnibus aims to streamline cookie consent processes by integrating the rules into GDPR 
+through Article 88a. The objective is to reduce consent banner fatigue and create clearer consent mecha-
+nisms.  
+However, the challenge is that the new rules establish two separate regulatory frameworks - Article 88a 
+GDPR for personal data and Article 5(3) ePrivacy Directive for non-personal data. This means companies 
+must categorize each type of data processed, which is often complex to determine. This dual approach in-
+creases operational complexity rather than achieving the intended simplification.  
+We ask for adjustment for planned cookie framework and simplifying the proposed dual regulatory 
+approach under Article 88a GDPR and Article 5(3) ePrivacy Directive to create a unified framework that 
+genuinely reduces operational complexity rather than increasing it.  
+ 
+ 
+ 
+9 
+ 
+2.3 Protection against misused personal data requests  
+ 
+The Digital Omnibus provides companies with enhanced mechanisms under Article 12(5) GDPR to address 
+data access requests (Article 15) that are manifestly unfounded, excessive, or being used for purposes unre-
+lated to data protection - such as tactical leverage in legal disputes or automated mass submissions. 
+15.01.2026 | V.1.1 9  
+ 
+Companies face data access requests that are not made for genuine data privacy compliance purposes, but 
+rather as discovery tactics in court proceedings or compliance investigations to obtain evidence that compa-
+nies possess. These requests consume significant compliance resources while serving purposes unrelated 
+to data protection rights. The enhanced provisions would provide clearer grounds to refuse requests that are 
+clearly being used as alternative discovery mechanisms rather than legitimate exercises of data subject 
+rights, allowing companies to focus compliance resources on genuine privacy concerns.  
+ 
+We ask for upholding the new measures to reduce abusive or excessive data subject requests and pre-
+serving the enhanced mechanisms under Article 12(5) GDPR to address data access requests that 
+are manifestly unfounded, excessive, or used for purposes unrelated to data protection ri ghts.  
+ 
+ 
+ 
+3 Cyber Resilience Act  
+ 
+It is very unfortunate that the European Commission did not use the Digital Omnibus as an oppor-
+tunity to undertake the necessary revisions of the Cyber Resilience Act (CRA). If the legal framework 
+remains unchanged, there is a risk of serious supply chain disruptions, particularly in the field of mi-
+croelectronics. This would result in production interruptions, product discontinuations and a potential reloca-
+tion of production facilities. To decrease the chances for such scenarios and to ease the burden on European 
+manufacturers, we propose the following measures. 
+ 
+ 
+3.1 Exemption of "non-critical products" without cybersecurity risk from the CRA  
+ 
+Many connected products – such as DAB radios, bike computers, radio clocks, barcode scanners, analog -to-
+digital converters or integrated microchips – do not pose a relevant cybersecurity risk. Although they transmit 
+data and are therefore covered by the CRA, this data is exclusively trivial and often processed within a single 
+device. If, for example, only audio data and simple operating and status information are transmitted without 
+access to other IT systems or security-relevant functions, this does not create a relevant attack surface in 
+cyberspace. The same applies to most microelectronic components. Many integrated microchips only trans-
+mit control and status information within a device (e.g. on/off, speed, temperature, fill level), usually via sim-
+ple internal interfaces. Due to their installation situation and limited capabilities, they simply do not pose a 
+cybersecurity risk.  
+ 
+Manufacturers have developed these non-critical products and components without taking CRA into account 
+and would now have to adapt their entire portfolio. A complete redesign by 2027 is practically impossible 
+for many companies. This would result in product discontinuations, particularly in the semiconductor indus-
+try, with serious consequences for supply chains.  
+ 
+Practical example: A large international semiconductor manufacturer states that its product portfolio con-
+sists of around 80,000 models; a complete redesign is not realistic. Exceptions for "non -critical" products with 
+digital elements would significantly ease the burden here: according to estimates, around 60,000 models in 
+this portfolio – i.e. 75 percent – could fall under this category.  
+Removing these non-critical products from the scope of the CRA would significantly reduce the risk of bottle-
+necks for important components such as microchips while maintaining a high level of security. At the same 
+time, it would also make it significantly easier to place end products such as simple DAB radios or radio 
+clocks on the market.  
+ 
+A blueprint for such an approach can be found in the Electromagnetic Compatibility (EMC) Directive (Recital 
+12), which stipulates that it “…should not regulate equipment which is inherently benign in terms of electro-
+magnetic compatibility". A similar reference to products with digital elements that "are inherently benign in 
+terms of cybersecurity risks" would be appropriate and sensible in the context of the CRA.  
+10 
+ 
+3.2 Simplified technical documentation for products in the "basic category" (without in-
+creased cybersecurity risk)  
+ 
+Under the CRA, manufacturers must, regardless of the CRA-category of the product, comprehensively de-
+scribe in their technical documentation what function the product fulfils, how it is technically constructed, 
+what cybersecurity risks may exist and what measures they use to control these risks. Article 33(5) of the 
+CRA allows micro and small enterprises to submit this technical documentation in a simplified format. This 
+simplification should be extended to all manufacturers for basic category products (not listed in An-
+nexes III & IV). This category covers the majority of the CRA's scope. Especially digital consumer prod-
+ucts (connected coffee machines, smart light bulbs, etc.) would benefit from this. According to a recent ZVEI 
+survey, this would significantly facilitate the placing on the market of around 65% of the connected products 
+of our member companies. 
+ 
+ 
+3.3 Clarification that CRA compliance is possible for fully developed product models  
+ 
+The CRA requires manufacturers to design and manufacture products with digital elements in such a way 
+that they ensure an appropriate level of cybersecurity in view of the risks (Annex I, Part I, Number 1). This 
+requirement must be interpreted in such a way that it is possible to re-qualify previously developed product 
+models. Models of products with digital elements that are already available on the market must continue to 
+be allowed to be placed on the market if it can be shown that they meet the essentia l technical cybersecurity 
+requirements, even if no process taking into account the CRA legal text was applied during their original de-
+velopment. There are product models on the market, for example in the semiconductor and railway indus-
+tries, that have been developed over decades. They are needed by society and cannot be redesigned by De-
+cember 2027 for purely technical reasons. It must therefore be clarified and stated that CRA compliance 
+is possible for fully developed product models as long as they guarantee an appropriate level of cy-
+bersecurity. This clarification can be provided, for example, in guidelines. 
+ 
+ 
+3.4 Realistic, technically feasible timelines for the development of harmonised European 
+standards  
+ 
+Manufacturers must have sufficient time to incorporate the legal requirements specified in the standards into 
+their development and production processes. There should be at least 36 months between the publica-
+tion of the relevant harmonised standards in the Official Journal of the EU and the end of the CRA 
+transition period – especially in the case of vertical, product-specific standards that trigger a pre-
+sumption of conformity. If these standards are not available in time, so-called "important" class I products 
+– such as routers, operating systems or microprocessors with security-related functionalities – would have to 
+be certified by an external conformity assessment body. This affects around 21% of digital products in the 
+electrical and digital industry. If an extension of the deadlines is not feasible, manufacturers of this product 
+category should, in the interim, be able to demonstrate the conformity of their products with the CRA on their 
+own responsibility (NLF Module A of internal production control), until the vertical standards are available. 
+Once a vertical standard is available, an adequate transition period should be specified before it is applied. 
+Otherwise, there is a risk of massive bottlenecks in placing products on the market, as was previously the 
+case with the Medical Devices Regulation. 
+ 
+ 
+3.5 Separation between physical and digital lifetimes when determining the support pe-
+riod in the B2B sector  
+ 
+During the support period for their products with digital elements, manufacturers are required to provide se-
+curity updates free of charge. The length of this period is generally determined by the manufacturer itself, 
+although it must take other relevant EU legislation into account. This leads to considerable challenges. Regu-
+lations such as the Ecodesign Regulation require manufacturers to define the expected lifetime of products. 
+Many industrial products have a physical lifespan of more than ten years, while their digital components are 
+subject to much shorter innovation and support cycles. The CRA requirement could mean that the support 
+period must not deviate significantly from the lifespan predicted under other regulations and that manufactur-
+ers must provide free security updates until the end of a product's physical usability. This is a massive inter-
+vention in common practice in the B2B sector. In order to enable risk-based and economically viable support 
+11 
+obligations, we therefore propose a clear regulatory distinction between the physical and digital life-
+times of products with digital elements within the framework of the CRA . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact 
+Dominic Doll• Senior Manager• Digitalisierung und Recht  
+Tel.: + 49 30 306960-19 • Mobil: + 49 151 2644 1132 • E-Mail: dominic.doll@zvei.org 
+ 
+ZVEI e. V. • Verband der Elektro- und Digitalindustrie • Charlottenstr. 35/36 • 10117 Berlin 
+Lobbyregisternr.: R002101 • EU Transparenzregister ID: 94770746469-09 • www.zvei.org 
+ 
+Datum: 29.01.2026 
+ 

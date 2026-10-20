@@ -1,0 +1,204 @@
+ 
+Property of Schneider Electric 
+Document Date “January 16, 2023” 
+Internal 
+ 
+ 
+Overall, Schneider Electric welcomes the proposed Cyber Resilience 
+Act. However, Schneider Electric wishes to suggest modifications 
+allowing more alignment with the specificities of the industry. 
+ 
+ 
+“Cybersecurity is an essential 
+business imperative for us, our 
+ecosystem and the industry at large ” 
+(Schneider Electric Trust Charter, 2022 ) 
+ 
+ 
+Schneider Electric’s strategy encompasses 
+people, processes, and technology  across 
+the operational lifecycle.  
+ 
+We align with the NIST Cybersecurity 
+Framework , follow globally recognized 
+standards such as ISA/IEC 62443, ISO 
+2700x and comply with certified ‘secure by 
+design’ development processes , to 
+safeguard our digital ecosyste m and deliver 
+secure offers, systems, solutions and 
+services.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schneider Electric is a Founding member of 
+the ISA Global Cybersecurity Alliance  and 
+a member of the Cybersecurity Coalition  
+and the Cybersecurity Tech Accord . 
+ 
+Our overall feedback 
+ 
+Schneider Electric supports the European Commission’s objective to create a 
+uniform legal framework of essential cybersecurity requirements for products 
+with digital elements. This initiative will help reduce regulation fragmentation, 
+increase product security and trust for the European market.  
+ 
+Schneider Electric has been deploying secure development processes and 
+implementing cyber security in its products and systems, based on EN IEC 
+62443 over the years. Schneider Electric is confident that the Cyber Resilience 
+Act high level objectives are aligned with its corporate cyber security policy . 
+ 
+However, Schneider Electric highlights that the industrial sector has 
+particularities that must be observed:  
+• its legacy base where replacement products and spare parts are 
+needed for industry maintenance.  
+• industrial setup needs to evolve and follow market needs : industrial 
+products must therefore ensure long-term interoperability to secure 
+industry investments.  
+ 
+To take those specificities into account in the context of the Cyber Resilience 
+Act, Schneider Electric wish to highlight the following issues and solutions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cyber Resilience Act 
+Schneider Electric’s position 
+ 
+Ref. Ares(2023)427716 - 19/01/2023
+ 
+Property of Schneider Electric 
+Document Date “January 16, 2023” 
+Internal 
+Conformity assessment (article 24)  
+ 
+The need to build trust of users, as well as to establish legal certainty in the 
+market, are objectives which have been identified by the industry a few 
+decades ago. Schneider Electric therefore wishes to emphasize the long-term 
+continuous investment done by the whole industry on deploying secure 
+development processes and implementing security in the existing portfolio of 
+products based on European -recognized standards such as the EN IEC 
+62443 (recognized by CEN-CENELEC).  
+ 
+Under the current wording of the Cyber Resilience Act, the long-term industry 
+investment is penalized by the creation of a new referential and the doubling 
+up of third-party certification efforts.  
+ 
+Our recommendation: 
+ 
+Schneider Electric would therefore encourage the European institutions to 
+take the long-term industry investment into account and to value it by creating 
+a compatibility mechanism.  
+ 
+This compatibility mechanism  could take several shapes such as the 
+referencing by harmonized standards or CSA certification scheme of  already 
+recognized industrial security standards frameworks (such as EN IEC 62443) 
+including associated available IACS certification schemes operated by 
+accredited European Conformity Assessment Bodies (CAB) actors . T he 
+referred cybersecurity ecosystem also allows European industry to have an 
+international reach and market recognition inside and outside Europe for their 
+products with digital elements.  
+Implementation p eriod (article 57).  
+ 
+The proposed timeline of 24 months would not allow the industry nor the 
+conformity and certification assessment ecosystem to transition in a reasoned 
+and efficient manner. Reflecting on the specificities of the industry referred to 
+above, customers running legacy offers will need to ensure,  in cooperation with 
+manufacturers, that their products can be replaced, updated and assured for 
+interoperability in time. To do so, more time is required. 
+ 
+Our recommendation: 
+ 
+We believe that an overall implementation period of 48 months, or four years, 
+would be more realistic for the industry. 
+ 
+ 
+ 
+ 
+Property of Schneider Electric 
+Document Date “January 16, 2023” 
+Internal 
+Reporting obligation (article 11)  
+ 
+While reporting of incidents and vulnerabilities has becom e an integral part of 
+the cybersecurity collaborative effort to reduce threat, this should not hinder the 
+market by imposing burdensome as well as differing requirements depending on 
+which legislation one entity would have to follow or not.  
+ 
+Our recommendations: 
+ 
+Schneider Electric encourages a revision of notification obligations by: 
+• Notifying only significant incidents. 
+• Implementing a v oluntary notification of vulnerability following ENISA 
+vulnerability disclosure process. 
+• Revising the timeframe to be consistent with the NIS2 framework (24h 
+early warning followed by a 72h notification and a one-month final report). 
+Known exploitable vulnerabilities (Annexe I (1.2))  
+ 
+The definition of “known exploitable vulnerabilities”  is not precise enough to 
+provide the legal certainty needed  to the market , risking a supply chain 
+shortage.  
+ 
+Our recommendation: 
+ 
+There is a need to have a clear reference to a European or worldwide public 
+vulnerability list  or database, re cognized by the Cyber Resilience Act . The 
+ENISA vulnerability database mandated under NIS 2 directive 1 could be a 
+good reference to this essential cybersecurity requirement. 
+Free patching (Annexe I (8))  
+In the industrial sector, while many patching are ma de available free of 
+charge, the criticality and complexity of industrial systems and installations 
+have led industrial manufacturers  to provide personalized services to 
+clients to push , or install,  the patching  on the product or system. While the 
+patching itself is free of charge, the personalized service to push and 
+install the patch is commercialized under contractual agreement.  
+Our recommendation : 
+We encourage the co -legislators to clarify the text on the definition of 
+‘disseminated’ stating its limit to making available of the patch and not its 
+installation on the product, that is subject to industry process related 
+specifics ( automation, control and safety).  
+ 
+ 
+ 
+1 As requested by NIS2, ENISA is responsible to deliver and maintain an European database which has to be consistent to worldwide vulnerability databases. 
+ 
+Property of Schneider Electric 
+Document Date “January 16, 2023” 
+Internal 
+Clarification of the methodologies used  
+Overall, the industry would benefit from the clarification of the 
+methodologies used in the Cyber Resilience Act for:  
+• Product classification methodology: The industry needs to have a 
+guide and criteria for product classification selection (including 
+highly critical product), considering the product intended use and 
+associated risks.  
+• Risk assessment methodology: The indus try needs to have risk 
+assessment methodology selection and guidance to manage in a 
+consistent way the risk assessment requested by the Cyber 
+Resilience Act . It will also allow to streamline the process with the 
+different actors including 3rd party notified bo dy.  
+• Conformity assessment methodologies: The conformity 
+assessment methodologies used in the different NLF modules 
+requested by the Cyber Resilience Act  must be standardized and 
+public. 
+Red Delegated Act: interplay with the CRA  
+The parallel existence of the RED Delegated Act and the Cyber Resilience 
+Act creates legal uncertainty in the market. We encourage European 
+institutions to clarify the interplay between those two texts in terms . 
+Our recommendation s: 
+Schneider Electric encourages the institut ions to clarify the situation by 
+repealing the RED Delegated Act and keeping the Cyber Resilience Act 
+as the legislation on the cybersecurity of digital products.  
+However, we strongly encourage to leverage the standardization and 
+certification process work done by CEN -CENELEC up until now , under the 
+mandate of the RED Delegated Act , in the upcoming standardization and 
+certification work for the Cyber Resilience Act.  
+ 
+ 

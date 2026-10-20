@@ -1,0 +1,167 @@
+ 
+1 
+ 
+Transparency Register identification number: 067223231522-58 
+Twilio response to the European Commission consultation  
+on digital identity and trust: the eIDAS regulation 
+ 
+Twilio welcomes the opportunity to provide comments on the Commission’s review of the 
+eIDAS Regulation and on the drivers and barriers to the development and adoption of eID 
+and trust services in Europe. 
+ 
+Introduction to Twilio 
+ 
+Twilio is a leading global cloud communications services provider. Twilio's products and 
+services allow all types of organizations – including businesses, governments and non-profit 
+organizations - to embed communications capabilities in their web, desktop, and mobile 
+applications, enabling them to communicate more efficiently and effectively, and reinvent 
+how they engage with their customers. Organizations have used Twilio to allow their end-
+users to contact their teacher or students, alert the public about an emergency, video chat 
+with their doctor, speak with their rideshare driver, make a bank transaction, shop online, 
+authenticate an account, and interact with elected officials, among many other activities.  
+ 
+As a business to business (B2B) company, Twilio currently handles more than 800 billion 
+interactions every year for more than 200,000 customers globally. Twilio customers range 
+from small and medium-sized enterprises (SMEs) to the world's largest corporations and 
+come from a broad range of industries including education, healthcare, logistics, retail and 
+financial services. Twilio is paid by organizations for the services it provides and does not 
+monetize consumer data. 
+ 
+Founded in 2008 and headquartered in the United States, Twilio now has 26 offices in 16 
+countries with the infrastructure to support communications worldwide. Trust and privacy 
+have been core principles for Twilio since the company’s founding. The relationships 
+between brands and consumers constantly evolve, but trust and privacy remain critical to 
+successful customer engagement. 
+ 
+Twilio’s interest in the eIDAS regulation as a user AND a provider 
+ 
+Twilio views the eIDAS Regulation from two distinct perspectives:  
+● as a multinational cloud communications company active across the EU, Twilio uses 
+electronic identification tools of the public sector in various member states, for 
+instance to fulfill certain regulatory requirements as an electronic communications 
+service provider (ECS).  
+● as a trusted service provider offering authentication services. While Twilio is not 
+formally qualified under the eIDAS regulation because its authentication products rely 
+on two-factor verification rather than the trust services covered by the current eIDAS 
+regulation, it supports high global standards for electronic authentication and is 
+contributing with its products to that end.  
+ 
+ 
+ 
+Ref. Ares(2020)5207952 - 04/10/2020
+ 
+2 
+ 
+Transparency Register identification number: 067223231522-58 
+Twilio’s experience as a user of eID and trust services 
+ 
+Twilio offers services that require secured interactions with public authorities, such as to provide 
+legally required information on its operations in various member states. Twilio has registered as 
+an ECS in the majority of EU member states and, as such, needs to meet various obligations, 
+including those on regulatory reporting and verification of customer identity. Additionally, when 
+entering into contracts with public authorities, some authorities offer the use of electronic 
+identities and of trusted services for the execution of those contracts and other contractual 
+requirements. Twilio’s regulatory and contracting teams therefore make regular use of electronic 
+ID and electronic signatures. 
+ 
+In Twilio’s experience, the eIDAS framework is an excellent concept in theory, but has not been 
+implemented in a way that provides the anticipated benefits. Cross-border interoperability does 
+not exist in a number of member states, and some member states still do not allow the use of an 
+eID for certain activities. For instance, a member of Twilio’s team had to be present in person in 
+Luxembourg and at a Hungarian consulate in order to obtain the tools necessary to enable Twilio 
+to fulfill various reporting obligations in those countries. In order to be able to acquire telephone 
+numbers in Estonia, an Estonian eID had to be obtained - no other European eID was 
+acceptable. The process for obtaining the eID is cumbersome, with a process that originates with 
+a face-to-face meeting at an Estonian consulate and can then take up to 8 weeks. Sweden, on 
+the other hand, is a positive example because it accepts other European eIDs. 
+ 
+From a user perspective, Twilio welcomes the European Commission’s idea of developing a 
+single and universally accepted digital identity scheme valid across Europe. Twilio believes that 
+an obligation for the public sector across Europe to recognize and accept eIDs and other trust 
+services, no matter from which member state such services originate, is necessary to advance 
+the value of the framework. 
+ 
+Twilio believes that such a program would help private and business users to conveniently 
+interact with public authorities, augment trust for citizens in digital interactions, and bring down 
+the costs associated with these interactions, which can be significant, especially in the case of 
+multinational companies such as Twilio.  
+ 
+Twilio’s perspective as a provider of identification services 
+ 
+Twilio provides authentication and verification services that build on top of an initial identification. 
+While Twilio is not formally recognized as a trust service provider under the eIDAS framework, as 
+it does not currently fall into any of the existing eIDAS categories of trust services, the European 
+Union Agency for Cybersecurity (ENISA) has listed Twilio in its overview of the technological 
+landscape of eID solutions as part of its report on eIDAS-compliant EID solutions (March 2020).  
+ 
+Twilio’s Authy/Verify product is a two-factor Authentication/Verification API solution that allows 
+customers to elevate their security and enhance user experience via multiple authentication 
+channels, such as SMS/voice/email one-time passcode. The Authy App uses soft tokens and 
+Push Authentication, Google Authenticator or push authentication via an SDK. Authy is 
+configured globally out of the box, optimized and translated for 200+ regions, with built-in 
+ 
+3 
+ 
+Transparency Register identification number: 067223231522-58 
+translations and first-level user support. Customers can rely on flexible client software, including 
+a pre-built Authy app, multi device, synced authentication, and a thorough back-up.  
+Verify serves to authenticate the use per phone number. When the user is validating their phone 
+number, Verify sends the user a 4-to-10 digit verification code via SMS, voice, or email and waits 
+for their response. Verify checks whether the user’s input matches the code. If they match, Verify 
+registers the phone number as approved. 
+ 
+For Twilio, an optimal user experience is key. Twilio believes in security by default, e.g. with 
+offline time-based one-time password (TOTP) support, detailed device data for contextual 
+authentication, or end-to-end encryption with non-repudiation. Twilio Verify/Authy helps many 
+financial companies address PSD2 SCA requirements, and Twilio is SOC2 compliant and 
+certified under ISO27001. 
+ 
+Twilio believes that the broadening of the eIDAS framework to recognise a broader range of trust 
+services, including those relating to two-factor authentication, would help to drive overall 
+consumer confidence in the digital ecosystem, as well as further uptake of the eIDAS framework 
+by service providers and consumers alike. 
+ 
+Extension of the eIDAS framework to the private sector 
+ 
+Twilio answers this question from the perspective of a service provider. As mentioned above, the 
+eIDAS framework is an excellent concept in theory, but its implementation has major flaws, 
+especially when it comes to cross-border interoperability. While an eventual extension of the 
+framework to the private sector could be desirable, a number of issues need to be addressed and 
+resolved first: 
+ 
+Voluntary participation 
+● The use of trusted services under the eIDAS framework must remain voluntary. 
+Businesses must be able to select which type of authentication is most appropriate for 
+their purpose. To mandate specific services would create a disproportionate burden on 
+businesses to redesign systems to accept eID solutions in use across all member 
+states, potentially before they reach ‘critical mass’ in public sector adoption and achieve 
+sufficient uptake and familiarity among EU citizens. 
+ 
+Alignment with global standards 
+● Twilio recommends that any EU program, including the potential development of a 
+common EU eID system, should build on and contribute to global or multiregional eID 
+solutions to avoid barriers to cross-border trade from emerging, especially at a time 
+when interacting in person for certain transactions runs counter to medical advice 
+relating to COVID-19. 
+ 
+Interoperability is key 
+● Interoperability of services should be mandated and facilitated where adoption occurs. 
+A major intended benefit of the eIDAS framework was the facilitation of cross-border 
+electronic identification. This would be highly beneficial especially for multinational 
+ 
+4 
+ 
+Transparency Register identification number: 067223231522-58 
+companies. The current experience with the poor implementation of the framework, 
+however, demonstrates that interoperability may need to be prescribed. 
+ 
+Openness to technological innovation 
+● An important consideration for the use of the eIDAS framework is the need to create a 
+balance between the benefits of unified cross-border trust services and the openness 
+for technical innovation. Security tools for electronic interaction are becoming 
+increasingly sophisticated and user-friendly. The rapid digitization in response to the 
+COVID-19 pandemic has created an even greater momentum for developing new and 
+improved solutions for electronic authentication. While such services should adhere to 
+the highest standards, the eIDAS framework should remain open for such innovation. 
+ 
+Twilio looks forward to continued discussions regarding  the Commission’s suggestions. 

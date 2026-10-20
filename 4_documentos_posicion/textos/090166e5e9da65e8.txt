@@ -1,0 +1,320 @@
+5G Automotive Association
+Position Paper
+Revision of the Intelligent  
+Transport Systems Directive
+Ref. Ares(2022)2006488 - 18/03/2022
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper 2
+MAILING ADDRESS:
+5GAA c/o MCI Munich
+Neumarkter Str. 21
+81673 München, Germany
+www.5gaa.org
+Copyright © March 2022 5GAA. All Rights Reserved.
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+3
+1.  Executive summary
+5GAA considers the proposed revision of the Intelligent Transport Systems (ITS) 
+Directive (2010/40/EU) as a step in the right direction of establishing a future-proof 
+framework to deliver cooperative, connected, and automated mobility in Europe. We 
+welcome the consideration given to the transition towards new technologies for ITS 
+services.
+In this paper, 5GAA proposes constructive suggestions to help improve the proposal, 
+namely:
+1. Strengthen the legislation by including technology neutrality as one of the 
+guiding principles for deployment of ITS in Annex II 
+2. Recognise the evolutionary path of technologies by removing the counter-
+productive principle of backward compatibility in Annex II
+3. Ensure that the introduction of any future technology mandate for ITS services 
+deployment is subject to appropriate democratic control via ordinary legislative 
+procedure
+4. Clarify the interoperability definition to achieve safety and traffic efficiency 
+at service-level and guarantee continuity of services without discriminating 
+between the various technologies
+5. Establish an inclusive C-ITS definition, including both mobile network  
+communications and direct communications
+6. Develop a holistic EU C-ITS security and trust model including but not limited 
+to PKI
+By design, no regulatory instrument can keep up with the rapid pace of technology 
+evolution. 5GAA therefore calls for a flexible and holistic system approach, combining 
+network-based and direct communication technologies, and allowing the seamless 
+integration of their respective evolution into the ITS system.
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+4
+I.  Technology neutrality must be a key 
+principle for deployment of ITS services
+The ITS regulatory framework should offer market certainty by enshrining the principle 
+of technology neutrality in Annex II. 
+5GAA supports a regulatory approach where services and their related benefits are 
+benchmarked according to their end-user and ecosystem value (regardless of the 
+underlying technology). The focus should be on service delivery, and the regulatory 
+framework should remain technology- neutral to foster market-led innovation.
+The principle of technology neutrality has been an important guiding principle in 
+Union telecommunications law since at least 2002 and was reinforced in 2009, with 
+particular regard to spectrum licences. In recital (25) of the Directive (EU) 2018/1972 
+on the Electronic Communications Code, the legislator set out a definition of that 
+principle: "The principle that Member States should apply Union law in a technologically 
+neutral fashion, that is to say that a national regulatory or other competent authority should 
+neither impose nor discriminate in favour of the use of a particular type of technology, does 
+not preclude the taking of proportionate steps to promote certain specific services where 
+justified in order to attain the objectives of the regulatory framework, […]"
+Member States also reaffirmed their attachment to technology neutrality when 
+rejecting the C-ITS Delegated Regulation in 2019.
+The current Recital 8 already recognises ‘’that requirements for ITS systems neither impose 
+nor discriminate in favour of the use of a particular type of technology ’’. To strengthen 
+this commitment, 5GAA propose to list it explicitly among the guiding principles in 
+Annex II. This will ensure that technology neutrality is appropriately reflected in future 
+EU (secondary) legislation related to ITS.
+Text proposal for Annex II Principles for specifications and deployment of ITS
+(n) Be technology neutral – specifications should describe the result to be 
+achieved, but neither impose nor discriminate in favour of the use of a particular 
+type of technology to achieve the result’
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+5
+II.  “Backward compatibility”  
+is incompatible with 5G-V2X  
+technology evolution
+The future ITS Directive provisions should pave the way for 5G-V2X, the new-generation 
+technology that enables more advanced ITS services. 5G-V2X will reach mass market 
+deployment worldwide by 2025-2027. It will constitute a key element of Europe’s 
+competitiveness on the way to connected and automated driving as the first 5G car 
+models are now commercialised e.g. BMW iNext.
+The principle of backward compatibility in Annex II will hamper 5G-V2X adoption in the 
+EU. Unlike interoperability, which focuses on service delivery, backward compatibility 
+requires radio-level compatibility i.e. to tweak the wireless air interface of 5G technology 
+(its core design) to understand and communicate with an older technology like Wi-Fi.
+However, if newer technology offers higher performance and enables new ITS services, 
+it is precisely because its core design offers a break-through compared to previous 
+ones. 
+In addition, this principle creates legal uncertainty and is self-contradicting: the full 
+detriment would be incurred by 5G-V2X, yet this must be done “without hindering the 
+development of new technologies”.
+5GAA fully supports the principles of interoperability and continuity of (legacy) services 
+to ensure that different ITS technologies exchange seamlessly to deliver ITS services 
+across the EU. Backward compatibility, however, only jeopardises the EU’s capacity to 
+fully embrace 5G-V2X and will hurt our automotive industry’s ability to compete with 
+China and the USA, that are currently accelerating their 5G deployment plans.
+Therefore, 5GAA suggests removing the principle from Annex II to focus on achieving 
+ITS service interoperability, regardless of the communication technologies powering 
+them.
+Text proposal for Annex II Principles for specifications and deployment of ITS
+Annex II
+(f) support backward compatibility – ensure, where appropriate, the capability for 
+ITS systems to work with existing systems that share a common purpose, without 
+hindering the development of new technologies and while supporting, where relevant, 
+the complementarity with or transition to new technologies;
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+6
+III.  Only the EU co-legislators  
+should decide on technology  
+or service mandate  
+5GAA reiterates its position that the revised ITS rules should focus on achieving safety 
+and traffic efficiency at the system level and not overregulate by requiring a specific 
+technology implementation for the delivery of services. 
+The ITS Directive Impact Assessment Report suggests mandating the deployment of 
+C-ITS services by 2028-2030. The proposed revision of the ITS Directive foresees that 
+such a mandate could be adopted simply by means of delegated act amending Annex 
+IV.
+We believe that imposing a technology and/or the mandate for the delivery of ITS 
+services is a critical political decision that can only be made by the EU co-legislators 
+via the ordinary legislative procedure. Such a decision cannot be considered as 
+“non-essential elements” of the legislative act, as per Art. 290 TFEU. Granting such 
+discretionary power to the Commission would limit legislators’ scrutiny to a right of 
+objection without power to review or amend the regulatory provisions.
+5GAA suggests removing the delegation of power granted under Article 7(1b) to the 
+Commission to amend Annex IV and the list of C-ITS services by means of delegated 
+acts.
+We observe that technology always evolves faster than legislation: 4G-LTE is now 
+widespread and triggers a wide range of non-safety critical C-ITS services whilst in 
+parallel, 5G network deployment, a key objective for Europe, progresses rapidly.
+As the automotive industry gears up towards 5G-V2X, the pending threat of a 
+technology and/or service mandate, adopted without the appropriate democratic 
+scrutiny, and possibly based on older technology, risk stalling or delaying all on-going 
+5G-V2X investments in Europe.
+In addition, a mandate would mean reopening the debate over the C-ITS Delegated 
+Act in 2019, to which the Council of the EU objected, to preserve technology neutrality.
+Text proposal for Article 6b Deployment of ITS services
+(6) The following Articles 6a and 6b are inserted: 
+[…]
+Article 6b 
+Deployment of ITS services 
+Member States shall ensure that the ITS services specified in Annex IV are deployed 
+for the geographical coverage set out in that Annex by the date specified therein.
+In accordance with the working programme adopted as per Article 17(5), 
+the Commission shall consider, where appropriate, presenting a legislative 
+proposal to amend Annex IV.
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+7
+Text proposal for Article 7 (Delegated acts)
+(7) Article 7 is amended as follows: 
+(a) the following paragraphs 1a and 1b are is inserted: 
+1.a Following a cost-benefit analysis and an impact assessment including appropriate 
+consultations, the Commission is empowered to adopt delegated acts in accordance 
+with Article 12 to amend the list of data types in Annex III, including the date of 
+implementation and the geographical coverage for each data type. Those amendments 
+shall be consistent with the data categories set out in the latest working programme 
+adopted in accordance with Article 17(5).
+1b. Following a cost-benefit analysis taking due account of market developments and 
+technology evolution and an impact assessment including appropriate consultations, 
+the Commission is empowered to adopt delegated acts in accordance with Article 12 
+to amend the list of ITS services in Annex IV, including the date of implementation and 
+the geographical coverage for each ITS service. Those amendments shall be consistent 
+with the list of ITS services set out in the latest working programme adopted in 
+accordance with Article 17(5).’;
+Text proposal for Article 17 Reporting and working programme
+(14) Article 17 is replaced by the following: 
+‘Article 17 
+Reporting and working programme
+[…]
+5. By [Date of entry into force + 12 months], the Commission shall, after consulting 
+relevant stakeholders and by means of an implementing act, adopt a working 
+programme. That implementing act shall be adopted in accordance with the 
+examination procedure referred to in Article 15(4). The working programme shall 
+include objectives and dates for its implementation every year, as well as the list of 
+data categories and ITS services for which the Commission may adopt delegated acts 
+pursuant to Article 7(1a) and (1b) or any appropriate legislative proposals.
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+8
+IV.  Ensuring continuity of services by 
+securing interoperability at service-level
+The proposed ITS Directive interoperability definition could be improved by stressing 
+the importance of service-level interoperability to guarantee continuity of services 
+without discriminating between the various alternatives. 
+To be future-proof, the overall ITS framework must remain focused on requiring 
+"open interfaces" between the various implementation alternatives for a given service 
+to achieve service-level interoperability, when and if appropriate (some services may 
+not require interoperability). However, the regulation should not prescribe how these 
+"APIs" are designed or implemented. This should be left to Standards Developing 
+Organisations (SDOs) as per Article 8 of the Directive. 
+Regardless of the underlying technology, continuity of (legacy) services should be 
+privileged over backward compatibility. In contrast, service-level interoperability could 
+still be achieved despite being powered by different generations of communication 
+technologies.
+It should be noted, that it is perfectly possible to achieve a certain level of interoperability 
+in the short term, in a cost-beneficial way by using a common language, i.e. mobile 
+network communications. This is already the preferred language and the most widely 
+spoken by the existing connected car fleet.
+Text proposal for Article 4(2) Definitions
+(2) ‘’interoperability ’’ means the capacity of systems and the underlying business 
+processes to  exchange data and share information and knowledge at service-level 
+to guarantee the continuity of ITS services
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+9
+V.  Inclusive definition of C-ITS
+Today, there are already many C-ITS services deployed over different technological 
+means: e.g., Bosch's wrong way driving, or BMW's Rescue Lane Assistant (safety-
+related use cases) are both powered by mobile network communications.
+To improve, we recommend the proposed C-ITS definition, which is currently vague, 
+to be explicitly inclusive of all technologies, otherwise this will lead to parallel yet split 
+streams of C-ITS deployments whilst the services aim at the same objective (e.g. direct 
+short-range communications vs network-based communications). This would cause 
+further fragmentation of the ITS ecosystem resulting in lower market penetration and 
+reduced societal benefits. 
+Text proposal for Article 4 (19) Definitions
+(19) “cooperative intelligent transport systems” or “C-ITS” means intelligent transport 
+systems that enable ITS users to cooperate interact by exchanging secured and 
+trusted messages; data or information between vehicles and other elements of 
+the transport ecosystem (including but not limited to vehicles, infrastructure 
+and vulnerable road users) via wireless communication technologies.
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+10
+VI.  Developing a holistic C-ITS security 
+and trust model
+To realise the societal and economic benefits that ITS offers, it is paramount that 
+the system architecture ensures not only the principles of security and privacy but 
+also those of deployability and practical operation. Security plays an essential role in 
+building trust in C-ITS, protecting users' privacy, and enabling safety, efficiency, and 
+comfort.
+The current text implies that a single means of authentication, i.e. Public Key 
+Infrastructure (PKI), should be used system-wide. However, this means of authentication 
+is best suited to situations where the sender and the receiver do not have an existing 
+trust relationship. There is not sufficient clarity about the meaning of "single trust 
+model", as there are clear instances of activities that could affect the trustworthiness 
+of received C-ITS messages but for which it is not appropriate to protect with the C-ITS 
+PKI.
+The current content of Recital 11 establishes a narrow focus on the messages that are 
+authenticated by PKI, which implies that the other issues of trustworthiness inside the 
+system are not important. In fact, for a receiver to trust the C-ITS messages, all data 
+sources and management activities that affect those messages must be trustworthy.
+Furthermore, the language of the current text could imply that even in scenarios 
+where a non-PKI based approach is the natural way of implementing trust, the PKI-
+based approach has to be used. In practice, the PKI approach is appropriate for many 
+applications, including key day 1 C-ITS applications, but it is not a one-size-fits-all 
+solution. 
+Therefore, the ITS Directive should allow for the use of non-PKI solutions where this 
+is appropriate. The existing language could be read as implying that once a PKI is in 
+place, that's all that needs to be done to guarantee trustworthiness. A better solution 
+is to refer to PKI as a key technology but explicitly acknowledges that it is not the 
+only way to establish trust. In practice, this is valid for cases such as cloud or network 
+service vehicles’ upload of data, downloading high-resolution maps, OEM-originating 
+software updates, and others. 
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+11
+Text proposal Recital 11
+11) C-ITS use technologies that enable road vehicles to communicate with each other 
+and with roadside infrastructure including traffic signals. C-ITS services are a category 
+of ITS services based on an open architecture that enables a many-to-many or peer-to-
+peer relationship between C-ITS stations. This means all C-ITS stations should securely 
+exchange messages with each other, as  and should not be limited to exchanging 
+messages with pre-defined stations.
+Most services require ensuring the authenticity and integrity of C-ITS messages 
+containing information such as position, velocity and heading . Therefore, one 
+common European C-ITS trust model should be created to establish a relation of trust 
+between all C-ITS stations, regardless of communication technologies used.  That 
+trust model should be implemented by the adoption of a policy on the use of a Public 
+Key Infrastructure (PKI). The highest level of that PKI should be the European certificate 
+trust list, consisting of entries of all trusted root certification authorities in Europe. 
+To ensure the smooth functioning of that C-ITS trust model, certain tasks should be 
+carried out at a central level. The Commission should ensure that those essential 
+tasks are carried out, in particular as concerns the roles of the C-ITS certificate policy 
+authority, the trust list manager, and the C-ITS point of contact.
+It is well established that for many C-ITS services, the use of a Public Key 
+Infrastructure (PKI)  is the natural way to authenticate C-ITS messages, providing 
+assurance to the receiver as to the trustworthiness of these messages. For 
+this PKI to be used successfully there must be a policy adopted for its use, to 
+ensure consistency across trust statements. An important tool to provide this 
+consistency is the use of central components, identified in standards as the 
+C-ITS certificate policy authority, the trust list manager, and the C-ITS point 
+of contact. The Commission should ensure that these central components are 
+established and can operate successfully. This does not rule out the use of other 
+trust mechanisms for types of C-ITS data exchange which must be trusted but 
+for which the use of the C-ITS PKI is not suited.
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+12
+Additionally, the text should imply that it is expected that operators closer to the 
+ground have the responsibility, and are expected, to plan for emergencies, with the 
+European Commission more clearly positioned as a remediator of last resort, instead 
+of having  time-critical technical responsibility for remediating system issues.
+Text proposal for Recital 14
+(14) Compromising the integrity of ITS services could thus have a severe impact on 
+road safety, for example when the wrong speed limit is communicated, or a vehicle 
+makes an emergency stop due to a non-existing danger. In order to ensure uniform 
+conditions for the implementation of this Directive, implementing powers should 
+be conferred on the Commission in emergency situations where the integrity of ITS 
+services is compromised, to adopt countermeasures to address the causes and the 
+consequences of that situation. Those measures should be taken as quickly as possible 
+and be immediately applicable. The powers should only be used in emergency 
+situations when other forms of remediation by other authorities have not been 
+successful. It is expected that appropriate local and system-wide authorities 
+will have emergency management plans in place to address a range of possible 
+failure modes of the system and can act on those plans if necessary.
+The current proposal focuses only on authentication; however, authentication only 
+partially addresses threats to GNSS and, although its use should be encouraged, from 
+the perspective of overall robustness of the system, it is appropriate for the language 
+to address robustness mechanisms more broadly.
+Text proposal Recital 21
+(21) The provision of secured and reliable timing and positioning services is an essential 
+element of the effective operation of ITS applications and services. Therefore, it is 
+appropriate to ensure their compatibility with the authentication mechanism provided 
+by the Galileo programme, in order to mitigate Global Navigation Satellite Systems 
+(‘GNSS’) signal spoofing attacks, and also use other mechanisms to ensure the 
+reliability of position and time information, which mechanisms may include 
+plausibility checking and use of GNSS services from multiple providers.
+Revision of the Intelligent Transport Systems Directive - 5GAA Position Paper
+13
+5GAA is a multi-industry association to develop, 
+test and promote communications solutions, initiate 
+their standardisation and accelerate their commercial 
+availability and global market penetration to address 
+societal need. For more information such as a complete 
+mission statement and a list of members please
+see https:/ /5gaa.org

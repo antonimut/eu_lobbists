@@ -1,0 +1,568 @@
+ 
+ 
+Page 1 / 7 
+ 
+Life Cycle Assessment (LCA) of Light- and Heavy-duty Vehicles - 
+Focus on GHG Emissions and Primary Energy 
+J. Demuynck1, G. Jungmeier2, D. Bosteels1 
+1: Association for Emissions Control and Climate, AECC aisbl, Rue Belliard 40 b24, 1040 Brussels, Belgium 
+2: JOANNEUM RESEARCH, LIFE, Waagner-Biro-Straße 100, 8020 Graz, Austria 
+ 
+Abstract: EU legislation is reducing the fleet average 
+tailpipe CO 2 emissions targets for passenger cars , 
+vans and trucks to mitigate climate change, focusing 
+on increasing the sales of zero tailpipe emission 
+vehicles. Vehicles with a combustion engine on 
+sustainable renewable fuels are not included within 
+the target s, but EU legislators are currently 
+considering widening the scope including a special 
+vehicle category running exclusively on CO 2-neutral 
+fuels (CNFs). The European Commission and 
+UNECE is also developing a methodology for life  
+cycle emissions of light-duty vehicles within 2025, and 
+heavy-duty vehicles will follow.  
+The study presented here conducts a life cycle 
+assessment (LCA) of different powertrain 
+technologies for light - and heavy -duty vehicles, 
+looking at the Global Warming Potential (GWP, 
+expressed in g CO2eq/km or g CO2eq/t-km) and 
+Primary Energy Demand (PED, expressed in kWh/km 
+or kWh/t-km).  
+Basis for the analysis are the AECC LDV and HDV 
+demonstrator vehicles for zero- impact pollutant 
+emissions, which have been tested on different CNFs 
+like e-gasoline, e-diesel and HVO. 
+Objective is to check impact of potential LCA 
+methodology decisions on initial  baseline results, 
+including energy consumption, vehicle mileage, 
+allocation, end-of life, among other items.  
+Results show the vehicles using a high share of 
+renewable energy have similarly low GHG emissions 
+for all powertrains, whether it is ICE on e- gasoline/e-
+diesel/HVO/renewable H2, FCEV on renewable H2 or 
+BEV on renewable electricity. BEV on renewable 
+electricity and ICE with HVO100_UCO (Used 
+Cooking Oil) have the lowest PED of the renewable 
+sources. Regarding methodologies, the main impact 
+is coming from the base technical data of the vehicle 
+and energy carrier. 
+Keywords: LCA, CO2-neutral fuels, LDV, HDV 
+1. Introduction 
+EU legislation is reducing the fleet average tailpipe 
+CO2 emissions targets for passenger cars , vans and 
+trucks to mitigate climate change. Targets led to 
+innovation in engine efficiency and hybridisation in 
+addition to development of zero tailpipe emission 
+vehicles. Recent focus of the legislator is on the 
+introduction of zero tailpipe emission vehicles. For 
+passenger cars and vans for example a target has 
+been set for 100% share of new vehicle sales as zero 
+tailpipe emissions by 2035.  
+Regulations in the EU have also encouraged the 
+development and incorporation of renewable fuels for 
+transport with a view to reduce its carbon footprint 
+through the Renewable Energy Directive (RED). 
+Although it opens the door to development of new 
+type of fuels, the target levels within the recently 
+revised Renewable Energy Directive are not in line 
+with the overall ambition to reduce EU’s GHG 
+emissions by 55% compared to a 1990 reference.  
+And there is no roadmap beyond 2030. 
+EU legislators are currently considering widening the 
+scope of the CO2 legislation in two aspects. First it is 
+being considered to include a special vehicle category 
+running exclusively on CO 2-neutral fuels (CNFs)  
+outside of the targets . Second, t he European 
+Commission is developing a methodology for  life 
+cycle emissions determination, going beyond current 
+tailpipe considerations. For light -duty vehicles , a 
+method is expected within 2025  and heavy -duty 
+vehicles will follow . Also, in an internat ional context, 
+life cycle methodology is being considered, at the 
+United Nations Economic Commission for Europe 
+(UNECE).  
+2. LCA methodology 
+2.1 Goal and Scope 
+The goal of this study is to extend the existing Well -
+to-Wheel (WtW) analysis of CO 2 emissions of the 
+AECC-IPA demonstrator  vehicles [1, 2, 3] to Life 
+Cycle Assessment (LCA). The 3 AECC LDV and HDV 
+demonstrator vehicles for zero- impact pollutant 
+emissions were tested on different CO 2-neutral fuels 
+like e-gasoline, e-diesel and HVO. 
+Based on the ongoing discussions by UNECE and EU 
+towards a harmonised methodology of LCA 
+application to vehicles , the influence of different 
+methodological options on the environmental impacts 
+are analysed.  
+From all potential environmental impact categories, 
+two specific impacts are investigated in this study.  
+  
+Ref. Ares(2025)7867349 - 19/09/2025
+
+   
+ 
+Page 2 / 7 
+ 
+• GHG emissions in CO 2-eq covering CO 2, 
+CH4, N2O and H2  
+• Primary E nergy Demand (PED) with its  
+shares on fossil and renewable energy.  
+There was no specific data available for the actual 
+AECC-IPA demonstrator  vehicles. Therefore 
+following data sources have been used as 
+representative vehicles  
+• LDVs from GreenNCAP database [5]   
+• HDV from IEA EV Task 46 vehicles [4] 
+ 
+2.2 Initial Methodology 
+Joanneum Research is developing and applying LCA 
+methodology since 1993 in the automotive sector, 
+e.g. vehicles with different fuels, (bio)fuel supply, e-
+fuel production, vehicle and its component 
+manufacturing, infrastructure. This LCA methodology 
+is applied taking the different methodology options 
+into account. The most prominent current applications 
+of this LCA methodology are in activities for IEA (since 
+2011: Task 19, 30, 33, 40, 46 and 52) , FIA and 
+GreenNCAP (since 2018) . More details on t he initial 
+methodology used have been published by 
+GreenNCAP [5].  
+The Figure 1 and Figure 2 show the system 
+boundaries of the LCA for a diesel B7 and a FAME 
+vehicle using different feedstocks. The functional unit 
+for passenger cars is 1 km and for trucks due to the 
+different payload 1 t-km.  
+ 
+ 
+Figure 1: System boundary for diesel B7 vehicle 
+ 
+ 
+Figure 2: System boundary for FAME vehicle 
+ 
+The Table 1 shows the sel ected veh icle and fuel 
+combinations modelled. A total of  11 cases are 
+investigated for passenger cars and 8 for trucks. For 
+each energy vector (electricity and fuel) two different 
+cases are investigated for the use phase of the 
+vehicles. One case is representative for the current 
+situation (e.g. EU27 electricity or E10 market 
+gasoline) and the other case is modelling a net -zero 
+situation (e.g. wind electricity or e-gasoline).  
+Table 1: Selected vehicle/fuel combinations 
+ 
+ 
+The Tables 2, 3 and 4 show the most relevant 
+foreground data for the vehicles and the emissions 
+control systems. All other data are taken from the 
+GreenNCAP methodology [5]. 
+The footprint of PGM (Platinum Group Metal ) 
+materials are taken from the 2 nd IPA LCA study (not 
+yet updated to the recently published 3rd study [6]).  
+A summary of the main key assumptions are the use 
+of 2024 global average value for the production of 
+energy and vehicles. Energy pathway variation  has 
+only been applied in the use phase . 240k km is used 
+as vehicle lifetime in the case of cars.  For the truck 
+cases this was 1.2m km or 12 years. E-gasoline and 
+e-diesel are from wind & D irect Air Capture. HVO is 
+from Used Cooking Oil  (and 1 rapeseed case for the 
+truck). CO2eq includes CO2, CH4 and N2O. 
+Catalyst Catalyst
+Propulsion ICE PHEV BEV ICE ICE BEV HFC ICE
+Fuel*)
+gasoline E10 + +
+e-gasoline E10**) + +
+diesel B7 + + +
+HVO 100***) + +
+e-diesel*) + +
+electricity****) + + +
+renewable gaseous hydrogen + +
+*) fuel/energy only varied in use phase, production & EoL generic for all vehicles
+**) made from wind electricity and CO2 from air
+***) used cooking oil and rapeseed
+****) EU27 grid mix and wind electricity
+Total Vehicle Total vehicle
+Passenger car Truck
+   
+ 
+Page 3 / 7 
+ 
+Table 2: Foreground data for passenger car cases [5] 
+ 
+ 
+Table 3: Foreground data for truck cases [4] 
+ 
+ 
+Table 4: Foreground data for the emission control 
+system (own data) 
+ 
+ 
+2.3 Methodological options 
+The impact of f ollowing methodological options was 
+analysed on top of the initial methodology 
+• Energy consumption 
+• Lifetime mileage 
+• Direct H 2 emissions as greenhouse gas for 
+H2 trucks with FC and ICE 
+• Allocation for biofuels ; comparing RED 
+methodology vs. system expansion  used in 
+the GreenNCAP methodology;  
+• End-of-Life (E oL): comparison of different 
+methodological options at the end of life e.g. 
+CFF (Circular Footprint Formula) 
+• Levelling concept 1 – 4 
+• Other greenhouse gases and 
+• Relevance of infrastructure 
+This paper only documents the impact of the energy 
+consumption and the direct H 2 emissions with its 
+possible contribution to GHG emissions. 
+3. Results 
+3.1 Passenger cars 
+The Figure 3 shows the GHG emissions of the 
+passenger car cases investigated.   
+ICE and BEV have similar emissions for production of 
+vehicle body  in light blue. B attery production is 
+additionally significant for PHEV and BEV, in red.  
+Remaining ICE emissions are mainly from fuel 
+supply, in yellow,  and combustion, in black. The 
+combustion part goes to net-zero in case of e- fuel or 
+HVO (UCO being used cooking oil). Remaining BEV 
+emissions are from electricity supply, in dark yellow. 
+It can be seen in Figure 3 that a ll LDV powertrains 
+have similarly low GHG emissions when operated on 
+renewable electricity/fuel.  This is indicated by the 
+transparent horizontal green area. Differences are 
+within general LCA modelling uncertainties. 
+   
+Propulsion ICE ICE ICE ICE ICE PHEV PHEV BEV
+Fuel/energy
+gasoline 
+E10_mix
+e-gasoline 
+E10 wind
+diesel 
+B7_mix HVO100_UCO
+e-diesel 
+wind
+gasoline 
+E10& 
+electricity
+e-gasoline 
+E10& 
+electricity
+ren. 
+electricity
+Weight [kg] 1,415 1,415 1,485 1,485 1,485 1,583 1,583 1,763
+Annual kilometres [km/a] 15,000 15,000 15,000 15,000 15,000 15,000 15,000 15,000
+Lifetime [a] 16 16 16 16 16 16 16 16
+Lifetime mileage [km] 240,000 240,000 240,000 240,000 240,000 240,000 240,000 240,000
+Battery
+capacity [kWh] 1.3 1.3 1.3 1.3 1.3 13 13 62
+lifetime [a] 16 16 16 16 16 16 16 16
+weight [kg] 9 9 9 9 9 153 153 413
+Energy consumption
+average
+grid electricity [kWh/km] 0.05 0.05 0.20
+fuel [kWh/km] 0.54 0.54 0.44 0.44 0.44 0.44 0.44
+best
+grid electricity [kWh/km] 0.13 0.13 0.17
+fuel [kWh/km] 0.50 0.50 0.33 0.33 0.33 0.09 0.09
+worst
+grid electricity [kWh/km] 0.00 0.00 0.38
+fuel [kWh/km] 0.62 0.62 0.54 0.54 0.54 0.78 0.78
+Emissions
+CO2 *) [g/km] 134 0 109 0 0 110 0 0
+CH4 [mg/km] 3 3.0 2.8 2.8 2.8 2.4 2.4 0
+N2O [mg/km] 1 1.1 6.9 6.9 6.9 0.7 0.7 0
+CO2-eq [g/km] 134 0.43 111 2.15 2.15 110 0.29 0
+Vehicle operation
+tires [kg/VH a] 19.2 19.2 19.2 19.2 19.2 19.2 19.2 19.2
+engine oil[kg/1000 km] 0.46 0.46 0.47 0.47 0.47 0.50 0.50 0
+spare parts [kg/VH a] 7.1 7.1 7.4 7.4 7.4 7.9 7.9 8.8
+urea [kg/1000 km] 0 0 1.5 1.5 1.5 0 0 0
+*) without CO2 from urea combustion
+Passenger car 2024
+Propulsion ICE ICE ICE ICE BEV FC ICE
+Fuel/energy diesel B7 HVO100_UCO HVO100_rape e-diesel wind electricity GH2@700 GH2@700
+Weight [kg] 13,160          13,160           13,160           13,160                 18,370          14,210        14,370        
+Payload [t] 26,840          26,840           26,840           26,840                 21,630          25,790        25,630        
+Annual kilometres [km/a] 100,000        100,000         100,000         100,000               100,000        100,000      100,000      
+Lifetime [a] 12 12                  12                  12                        12                 12               12               
+Lifetime mileage [km] 1,200,000     1,200,000      1,200,000      1,200,000            1,200,000     1,200,000   1,200,000   
+Battery -                 
+capacity [kWh] 10 10                  10                  10                        1,100            54               10               
+lifetime [a] 12 12                  12                  12                        12                 12               12               
+weight [kg] 120 120                120                120                      7,216            500             120             
+Energy consumption *)[kWh/km] 2.88 2.88 2.88               2.88 1.89 2.83 3.51
+Emissions
+CO2 **) [g/km] 697 0 0 0 0 0 0
+CH4 [g/km] 0.0008 0.0008           0.0008           0.0008                 0 0 0
+N2O [g/km] 0.05 0.05               0.05               0.05                     0 0 0.008
+CO2-eq [g/km] 712 15 15                  15 0 0 2.38
+estimated H2 losses [g/km] 0 0 0 0 0 0.6 0.6
+Vehicle operation
+tires [kg/VH a] 247 247 247                247 247 247 247
+engine oil[kg/100 km] 0.016 0.016 0.016             0.016 0 0 0.016
+spare parts [kg/VH a] 33                 33 33                  33 46 36 36
+urea [kg/100 km] 1.20 1.20 1.20               1.20 0 0 1.20
+*) best/worst: -5%/+15%
+**) without CO2 from urea combustion
+N3 Truck 2024
+Weight Main material
+kg % kg %
+Catalyst system
+housing steel, aluminum 5.75 82% 145.8 83%
+substrate 1.25 18% 29.2 17%
+total 7.00 100% 175.0 100%
+Substrate
+bare ceramic 1.20 96.4% 21 72.6%
+washcoat Aluminiumoxid, Zirkoniumdioxid, Cerdioxid 0.041 3.3% 8.0 27.4%
+catalyst 0.0036 0.3% 0.011 0.04%
+sub-total 1.25 100% 29 100%
+Catalyst
+Platinum 0 0.0% 0.0064 56.7%
+Rhodium 0.00036 10.1% 0 0.0%
+Palladium 0.0032 89.9% 0.0049 43.3%
+sub-total 0.0036 100% 0.011 100%
+Diesel truck N3Gasoline passenger car
+   
+ 
+Page 4 / 7 
+ 
+ 
+Figure 3: GHG emissions passenger car cases
+The Figure 4 shows the Primary Energy Demand  
+(PED) results of the different passenger car  cases 
+from Figure 3. Energy demand from fossil resources 
+are plotted in black, those of renewable resources in 
+green. All cases have a black portion due to the 
+assumption of today’s global average input data for 
+example the energy and vehicle construction.  
+BEV on wind and ICE on HVO (UCO) have the lowest 
+PED from those powertrain options that are relying on 
+renewables sources.  
+ICE on e-gasoline has higher PED, requiring a higher 
+amount of renewable energy  due to the conversion 
+from electricity via H 2 to e-fuel. But the e-fuel can be 
+an energy carrier of renewable energy sources 
+elsewhere in the world. 
+ 
+ 
+Figure 4: Primary Energy Demand passenger car 
+cases 
+  
+
+   
+ 
+Page 5 / 7 
+ 
+3.2 Trucks 
+The Figure 5 shows the GHG emissions of the truck 
+cases in a similar way as Figure 3 for cars. Here the 
+unit is in t.km.  
+ICE, FCEV and BEV have similar emissions for 
+production of vehicle body, in light blue. Battery 
+production (red) or H2 tank (light grey) are additionally 
+significant for ICE, FCEV and BEV. 
+Additional ICE emissions are mainly from fuel supply  
+(yellow) and combustion (black). This combustion 
+part goes towards  net-zero in case of e- fuel, H 2 or 
+HVO (UCO and rape). The UCO and rapeseed HVO 
+case differ in the fuel supply contribution.  
+Additional FCEV and BEV emissions are from H 2 or 
+electricity supply in dark yellow. 
+It can be seen that all HDV powertrains have similarly 
+low GHG emissions when operated on renewable 
+electricity/fuel. This is illustrated by the transparent 
+horizontal green bar. All differences are within general 
+LCA modelling uncertainties. 
+  
+ 
+Figure 5: GHG emissions truck cases 
+ 
+ 
+Figure 6 shows the Primary Energy Demand of  the 
+truck cases as before for cars.   
+BEV on wind and ICE on HVO (UCO) have the lowest 
+PED from those powertrain options that are relying on 
+renewables sources. 
+H2 ICE and FCEV have higher PED, requiring higher 
+amount of renewable sources.  ICE on e- diesel has 
+highest PED, requiring highest amount of renewable 
+energy. However, H2 and e-diesel can be an energy 
+carrier of renewable energy sources elsewhere in the 
+world. 
+ 
+ 
+Figure 6: Primary Energy Demand truck cases 
+  
+
+   
+ 
+Page 6 / 7 
+ 
+3.3 Emission control system 
+Figure 7 shows the shares of GHG emissions and 
+primary energy for the emission control systems.  
+It is first noteworthy that the overall contribution of the 
+emission control system within the LCA of vehicles is 
+small. For cars it is calculated to be 0.04 g CO2-eq/km 
+(compared to the total range between 66 and 224 g 
+CO2-eq/km). For the truck it is  0.08 g CO 2-eq/t-km 
+(compared to the total range between 7.9 and 36.1 
+CO2-eq/t-km). 
+On a relative scale, GHG emissions and Primary 
+Energy Demand of the catalyst are strongly 
+determined by the PGMs (Platinum Group Metals). 
+ 
+Figure 7: Share of GHG emissions and Primary 
+Energy Demand for the emission control system 
+3.4 Other methodological options 
+After the application of the initial methodology 
+described above, selected methodological options 
+are applied to analyse its influence on the results. This 
+paper describes the effect of two of these 
+methodologies investigated. First, the influences of 
+the energy consumption of the vehicles are 
+described. Second, potential effect of  including H 2 
+emissions as a species with  Global Warming 
+Potential is shown.  
+To investigate the effect of the energy consumption, 
+the “Best – average – worst” variations of vehicle´s 
+energy consumption are taken from the measurement 
+of GreenNCAP in its testing procedure [7]. Previous 
+results shown above were taking into account the 
+average value of this range.  
+The Figure 8 shows the impact of the energy 
+consumption in the use phase of passenger cars on 
+GHG emissions. It shows that the energy demand is 
+one of the most relevant parameter s for all systems. 
+The effect becomes smaller when the share of 
+renewable energy/fuel increases , because extra 
+amount of energy is not resulting in extra GHG 
+emissions in this case . The effect is the largest for 
+PHEVs, because depending on the share of fuel and 
+electricity consumption, the results can be that of an 
+ICE (worst case) or that of a BEV (best case). For this 
+powertrain technology, it is essential that the vehicle 
+is charged frequently and operated with sufficient 
+share of electric driving to reduce its GHG emissions 
+footprint. Similar to other systems, the effect reduces 
+significantly in the case of renewable fuel and 
+electricity.     
+ 
+Figure 8: Impact of energy consumption 
+ 
+To investigate the effect of including direct H 2 
+emissions, preliminary literature values are taken. A 
+first value is that of direct H 2 losses in the energy 
+supply from nature to the H2 filling station. A range of 
+2.6 – 5.9% of hydrogen use is considered for this. A 
+second value is the Global Warming Potential of H2, 
+for which a range of 6.5 –  15 kg _CO2-eq/kg_H2 is 
+used.   
+Figure 9 shows the GHG emissions including direct 
+H2 emissions for different fuel supply cases . 
+Especially for renewably produced hydrogen the 
+contribution from direct H 2 emissions can be up to 
+40% of the total GHG emissions. For liquid hydrogen, 
+not analysed here, it might be even higher . Further 
+research on this topic is required, but it seems direct 
+H2 emissions are relevant for the GHG emissions and 
+should be considered in the future. The LCA 
+methodology developed in the EU Horizon Europe 
+project TranSensus [8] for example includes it. 
+ 
+
+   
+ 
+Page 7 / 7 
+ 
+ 
+Figure 9: GHG emissions of H2 supply incl. direct H2 
+emissions from possible losses 
+4. Conclusion 
+This work investigated the LCA emissions of the 
+AECC-IPA demonstrator vehicles  and some 
+additional powertrains. For the use case, it was 
+investigated what the emissions of a today’s 
+energy/fuel mix are, as well as a future fully renewable 
+case.  
+It was shown that all powertrains have similarly low 
+GHG emissions when using renewables for electricity 
+and fuel. ICE on ‘HVO from UCO’ and BEV on ‘wind’ 
+have lowest Primary Energy Demand. ICE on H 2/e-
+fuels and FCEV have higher Primary Energy 
+Demand, but can tap into abundant renewable energy 
+available in other regions of the world  (solar, wind). 
+Direct H 2-losses might have substantial contribution 
+to Global Warming, but further research is needed.  
+In general, f or the harmonised LCA methodology 
+under development at EU and UNECE, a transparent 
+reporting is needed for base characteristics of vehicle, 
+powertrain and energy/fuels. 
+5. Acknowledgement 
+The authors would kindly like to thank members of the 
+Association for Emissions Control and Climate 
+(AECC aisbl) and the International Platinum Group 
+Metals Association (IPA) for the financial support. 
+7. References 
+[1] J. Demuync k, et al.; “Advanced Emission 
+Controls and Sustainable Renewable Fuels for 
+Low Pollutant and CO 2 Emissions on a Diesel 
+Passenger Car”, Sustainability, Vol. 13, 12711, 
+2021 
+[2] J. Demuynck, et al.; ”Advanced Emission 
+Controls and E -fuels on a Gasoline Car for 
+Zero-Impact Emissions”, SAE paper 2022- 01-
+1014, 2022 
+[3] D. Bosteels, et al.; “Combination of advanced 
+emission control technologies and sustainable 
+renewable fuels on a long -haul demonstrator 
+truck”, SIA Powertrain & Energy conference, 
+2022 
+[4] G. Jungmeier, et al.; “Dynamic LCA to Assess 
+Climate Neutrality and Circularity - Case Study 
+e-Trucks of IEA HEV Task 46”, EVS37 paper 
+2024 
+[5] GreenNCAP: www.greenncap.com/wp-
+content/uploads/Green-NCAP-Life-Cycle-
+Assessment-Methodology-and-Data_2nd-
+edition.pdf 
+[6] IPA LCA study on 2022 production year, 
+https://ipa-
+news.de/index/sustainability/environment/life-
+cycle-assessment/ 
+[7] GreenNCAP: https://www.greenncap.com/test-
+procedures/ 
+[8] EU Project TranSensus LCA: 
+https://lca4transport.eu/ 
+8. Glossary 
+B7:  Diesel with 7 vol -% biofuel (FAME) 
+blending 
+BEV: Battery Electric Vehicle 
+CNFs:  CO2-neutral fuels 
+E10:  Gasoline with 10 vol-% biofuel (EtOH) 
+blending 
+EtOH: Ethanol 
+e-diesel:   Synthetic diesel (in this paper made 
+from renewable electricity and CO 2 
+from direct air capture) 
+e-gasoline:  Synthetic diesel (in this paper made 
+from renewable electricity and CO 2 
+from direct air capture) 
+EoL: End-of-Life 
+EU27:   Average electricity mix in 27 EU 
+countries (year 2024) 
+FC: Fuel Cell 
+GHG: Greenhouse gas 
+H2:  Hydrogen 
+HVO:  Hydrotreated Vegetable Oil 
+ICE: Internal Combustion Engine  
+LDV:  Light Duty Vehicle 
+HDV: Heavy Duty Vehicle 
+PED: Primary Energy Demand 
+PHEV: Plug-In Hybrid Vehicle 
+RED: Renewable Energy Directive 
+UCO:  Used Cooking Oil  

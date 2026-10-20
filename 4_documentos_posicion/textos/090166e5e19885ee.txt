@@ -1,0 +1,660 @@
+Subject: ESD position on the EC Proposal for a Regulation of the European Parliament and of the Council, 
+amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity. 
+Dear European Commission, 
+We, the undersigned organizations, represent the leading European trust service providers
+(TSPs): European Signature Dialog (ESD) enables secure digital interactions all across
+Europe - between public entities, businesses and individuals. We all experience every day
+the crucial challenges of trustworthiness, security and cross-border interoperability of digital
+services and hence the challenges of acceptance by business and consumers alike. The
+effective work in ESD shows that TSPs work very well together in the interest of
+harmonization, even though we are in competition with each other. The large number of
+active users of trust services shows that we are constantly getting closer to achieving our
+goal of helping Europe into the new digital age.
+A view at the current crises around the COVID-19 outbreak proofs that digital technologies
+like e-Trust infrastructures are essential to keep businesses operative and to mitigate the far-
+reaching negative effects on the wider economy. Therefore, we highly welcome the
+European Comission’s Proposal for the revised eIDAS regulation. It is very ambitious and it
+is an important step forward to harmonize the European Digital Single Market. 
+European Transparency Registernumber: 994150833943-81 
+Ref. Ares(2021)5422974 - 02/09/2021
+We would like to highlight the fve most important advances: 
+1. European Digital Identity Wallet : It will facilitate access to value added Trust Services
+such as qualified signature services, e-Delivery with real technical interoperability.
+2. Supervision of qualifed trust service providers:  It will create comparable Qualified
+Trust Services. Here the Commission shall, by means of implementing acts, establish
+reference number for the following standards (…): auditing rules, auditing requirements. 
+3. New Qualifed Trust Services: It will offer new value-added concepts, new
+offers and new markets (Qualified electronic attestation of attributes, e-Archiving,
+distributed ledgers...).
+4. Provision of QWAC recognition for browsers : It essentially strengthens consumer
+protection.
+5. Obligation for implementing acts that reference regulatory standards : It facilitates
+true interoperability.
+But although the current version has already cleared up many ambiguities regarding the
+original regulation, we also want to stress the three most critical amendments to be made:
+1. Replace Art 19 (Security requirements applicable to trust service providers) and
+replace by a link to «NIS2»:  It could lead to differences in implementation levels,
+unfair market…as NIS2 is a Directive, and it will probably be transposed differently in
+each Member States.
+2. Clarify the use of QES for the EDIW:  It contains an identification
+credential that can be used to obtain a QCert. Clarify that the wallet
+is not a QSCD as it doesn't contain any certifica te, but it can act as an identification
+and authorization mean.
+European Transparency Registernumber: 994150833943-81 
+3. Change the legal status for Qualifed electronic archiving services:  A legal effect
+shall be defined associated with Qualified electronic archiving services, to give
+concrete incentives to the market to offer it.
+To highlight our detailed recommendations for a successful implementation, we refer to our
+proposed Improvement Program we already submitted during the impact assessment out
+of July 2020. We have updated it and expanded the presentation in the appendix with
+suggested amendments, comments and questions, to outline the aspects that, in our view,
+have not yet been sufficiently implemented in the actual Proposal. 
+THREE eIDAS IMPROVEMENT PROGRAMS
+1. OPERATIVE PROGRAM : Increase safety, effciency and trustworthiness of cross-
+border interactions 
+This entails the following measures:
+• Standardize the certification process and requirements for QSCD / HSM
+through an implementing decision referring to the newer ETSI standards
+• Publish baseline rules for the assessment of trustworthy systems and the
+reliability of processes supporting them
+• Extend the EU Trusted List with new qualified service type (“pure player”
+signature service)
+• Create legal effects for each Qualified Trust Services including archiving
+services, to encourage its deployment with full confidence
+European Transparency Registernumber: 994150833943-81 
+• Harmonize the evaluation of alternative methods and certification processes,
+especially for innovation such as remote face to face and new authentication
+solutions
+2. HARMONIZATION PROGRAM: Enforce harmonization and standardization across 
+member states
+This entails the following measures:
+• Specify individual articles in the areas of trustworthiness of systems and 
+products, functionality and security of qualified signature services, equality of 
+national qualification procedures and requirements as well as interoperability 
+and cross-border deployment of trust services
+• Standardize the security requirements for remote qualified signature process 
+and officially reference existing CEN and ETSI standards
+• Standardize the accreditation process for Conformity assessment Bodies 
+(CAB), using, for instance, ETSI EN 319 403 standards
+• Create a set of baselines for auditing rules and a baseline for audit plan for 
+each trust service
+3. SUPPORT PROGRAMM: Establish an advisory/administrative body to support the 
+industry by implementing eIDAS
+This entails the following measures: 
+• Produce and publish implementing acts to create real interoperability
+• Create a way to simply validate an electronic signature without relying on
+private software 
+European Transparency Registernumber: 994150833943-81 
+• Evolve Supervisory Bodies toward the role of eIDAS enforcing authorities,
+with the responsibility to influence and sanction national authorities that are
+blocking or slowing the proper and smooth application of the eIDAS
+Regulation
+We would like to take this opportunity to send you our best regards and would be glad to 
+work further on our Proposals.
+In the name of the European Signature Dialog,
+Michael Butz
+ESD Chairman
+European Transparency Registernumber: 994150833943-81 
+eIDAS Revision 
+ESD Presentation for Public Consultation  
+
+Amendments 
+Section Text
+Benefits(+) / 
+Risks (-) Comments
+Explanatory 
+Memorandum
+In order to avoid fragmentation and barriers due to diverging standards, the Commission will adopt a 
+Recommendation at the same time as this proposal. This Recommendation will set out a process to support a 
+common approach allowing Member States and other relevant stakeholders from the public and private 
+sectors, in close coordination with the Commission, to work towards the development of a Toolbox to avoid 
+divergent approaches and avoid endangering the future implementation of the European Digital Identity 
+framework. (+)
+same approach shall be 
+proposed for the qualified trust 
+services, not only identities
+Preamble
+(2) In its conclusions of 1-2 October 2017, the European Council called on the Commission to propose the 
+development of a Union-wide framework for secure public electronic identification, including interoperable 
+digital signatures, to provide people with control over their online identity and data as well as to enable access 
+to public, private and cross-border digital services. (+)
+The identity wallets may use 
+only qualified signatures.  
+ 
+Advanced electronic signatures 
+are not interoperable, as long 
+as they are not specifically 
+defined. 
+ 
+Advanced electronic signatures 
+do not enable access to public, 
+private and cross-border digital 
+services.
+
+Amendments 
+Section Text
+Benefits(+) / 
+Risks (-) Comments
+Preamble
+(9) […] The European Digital Identity Wallets should also allow users to 
+create and use qualified electronic signatures and seals which are accepted 
+across the EU. […] (+)
+It is important to specify that the wallet has to be 
+intended as an identification and authorization tool to 
+issue and use a Qcert, issued by a QTSP freely chosen by 
+the owner of the wallet or the verifier.  
+We see a potential impact on competition if the wallet 
+provider / MS will even provide the signature certificate 
+(return to monopolies harming free competition 
+between QTSPs)
+Preamble (36) - toolbox (+)
+Tolbox iis defined only in preamble, it shall have an 
+article within the regulation to enforce it 
+ 
+To clarify if the implementation of the toolbox is realized 
+by art 6a (11), 6b (4)?
+art 3i (-)
+If EDIW is planned to be used for QES,  
+We propose to clarify that the wallet is not a QSCD as it 
+doesn’t contain any certificate. It contains an 
+identification credential that can be used to obtain a 
+QCert 
+
+Amendments 
+Section Text Benefits(+) / Risks (-) Comments
+art 3 (23a)
+‘(23a) ‘remote qualified signature creation device’ means a qualified 
+electronic signature creation device where a qualified trust service provider 
+generates, manages or duplicates the electronic signature creation data on 
+behalf of a signatory; (-)
+what are the requirements for ‘remote qualified 
+signature creation device’? For ‘ qualified 
+signature creation device’ the requirements are 
+in annex II, the same applies here?
+art 3 (23b)
+(23b) ‘remote qualified seal creation device’ means a qualified electronic 
+seal creation device where a qualified trust service provider generates, 
+manages or duplicates the electronic signature creation data on behalf of a 
+seal creator;’; (-)
+what are the requirements for ‘remote qualified 
+signature creation device’? For ‘ qualified 
+signature creation device’ the requirements are 
+in annex II, the same applies here?
+
+Amendments 
+Section Text
+Benefits(+) / 
+Risks (-) Comments
+art 3 (47)
+(47) ‘electronic archiving’ means a service ensuring the receipt, storage, deletion and transmission of 
+electronic data or documents in order to guarantee their integrity, the accuracy of their origin and legal 
+features throughout the conservation period; (+)
+what "legal features" mean? 
+We propose to insert “readability” 
+as a requirement.
+art 6a (2)
+2. European Digital Identity Wallets shall be issued: 
+(a) by a Member State; 
+(b) under a mandate from a Member State; 
+(c) independently but recognised by a Member State. (-)
+Only one option, is valid: a, b or c 
+or a combination of them is 
+possible? I.e. in a specific MS, the 
+wallet is issued by the member 
+state (a) and also by a private 
+company and it is recognized by 
+the MS (c )?
+art 6a (3)
+European Digital Identity Wallets shall enable the user to: 
+[…] 
+(b) sign by means of qualified electronic signatures. (+)
+support for the qualified 
+certificates and signatures. 
+ 
+Our understanding is that the 
+qualified certificates will be issued 
+by the QTSP based on the 
+identification provided by the DIW 
+Art 6
+The use of the European Digital Identity Wallets shall be free of charge to natural persons. For relying parties 
+other than public sector bodies the notifying Member State may define terms of access to that 
+authentication. (+)
+Economic model should be 
+clarified for private entities, to 
+avoid disparity between Member 
+States, encourage deployment in 
+private usage and facilitate 
+dissemination.
+
+Amendments 
+Section Text
+Benefits(+) 
+/ Risks (-) Comments
+art 6a (4) 
+Art 6a (6) 
+(c) meet the requirements set out in Article 8 with regards to 
+assurance level “high”, in particular as applied to the requirements for 
+identity proofing and verification, and electronic identification means 
+management and authentication;  
+6. The European Digital Identity Wallets shall be issued under a 
+notified electronic identification scheme of level of assurance ‘high’. 
+The use of the European Digital Identity Wallets shall be free of 
+charge to natural persons  
+(-)
+Such formulation could create a potential confusion between the technical 
+medium, the wallet, and the credentials contained therein. 
+The wallet is just a technical element (parallel with QSCD for signature) that should 
+be able to contain a wide variety of identity and attribute credentials, issued by 
+different providers and with different Levels of Assurance.  
+Citizens should be free to choose any type of credentials, with different LoA 
+according to the digital service he/she is accessing. 
+Art 6a (4) (a).1
+(a) securely request and obtain, store, select, combine and share, in a 
+manner that is transparent to and traceable by the user, the 
+necessary legal person identification data and electronic attestation 
+of attributes to authenticate online and offline in order to use online 
+public and private (-)
+the wallet should be accessible with a standard interface to trust service providers 
+issuing both qualified and non-qualified electronic attestations of attributes, but 
+even to Identity Proofing Service Providers (IPSP , as defined by ETSI in the recently 
+issued ETSI TS 119 461). 
+Art 6a (4) c
+(c) meet the requirements set out in Article 8 with regards to 
+assurance level “high”, in particular as applied to the requirements for 
+identity proofing and verification, and electronic identification means 
+management and authentication;  
+(-)
+Even if the proposal never specifies that the wallet shall be mobile-based, 
+considering the current technology trends it’s most likely that this will be the case: 
+the LoA 'high' requires the presence of a certified cryptographic hardware, 
+consequentially the security of the wallet will be linked to the presence of a 
+cryptographic chip or a secure element embedded into the mobile device. This 
+harms the European strategic autonomy because the continent has a strong 
+dependance on microchips and semiconductors. We suggest investigating 
+alternative technologies and governance frameworks (e.g. cloud based wallets) to 
+reach the desired security and UX level without being necessarily forced into a 
+lock-in with foreigner mobile manufacturers. 
+In addition, in order to mitigate the single-point-of-failure risk, the regulation 
+should push for the development of multiple digital wallets based on different 
+technologies in the same way there are multiple types of QSCD today on the 
+market.
+
+Amendments 
+Section Text
+Benefits(
++) / Risks 
+(-) Comments
+Art 6a 4 (b) (b) ensure that trust service providers of qualified attestations 
+of attributes cannot receive any information about the use of 
+these attributes;  
+(-)
+The Proposal doesn’t have to design and address the possible business model of a 
+QTSP providing qualified attestation of attributes, but this article seriously harms 
+the possibility to remunerate the activity. 
+In the SSI paradigm, the most successful business model to provide credentials is 
+the “verifier-pays-the issuer” monetization model, where the verifier remunerates 
+the issuer of the credentials spent by the owner at the access of the online service. 
+If the issuer of the attribute credentials cannot receive any information on where 
+the credential has been spent, it becomes concretely impossible for it to charge the 
+due fee to the verifier.  
+We see the need to be more specific, permitting that the issuer of attributes can 
+receive some information that are important for the monetization model. 
+Art 6a 4 (c) 
+(+)
+it seems not clear the liability model under the derivation of the primary identity 
+from the official national identity: we believe that a flexible approach, with the 
+cooperation between the Governments and strongly audited players could benefit 
+the entire system. A concrete example is Germany, where the law recognize player 
+like the Identifizierungsdienstanbieter that are strongly monitored and therefore 
+can take the responsibility and related liability of deriving identities from an official 
+eID card. 
+Art 6 b (+)
+Regarding the wallet adoption, even if its technical interfaces will be easy to 
+integrate, the result of the authentication could be difficult to manage on behalf of 
+some relying parties, especially the ones that are less technology savvy. A qualified 
+player acting as a “proxy-verifier” could enable a wider variety of companies, 
+especially SMEs and small public authorities (i.e. local municipalities) to benefit 
+from the availability of Digital Identity Wallets, but this kind of player should 
+operate under a clear liability and auditing framework defined by the Commission. 
+
+Amendments 
+Section Text
+Benefits(
++) / Risks 
+(-) Comments
+art 6a (7)
+7. The user shall be in full control of the European Digital Identity Wallet. The issuer of the European Digital Identity Wallet 
+shall not collect information about the use of the wallet which are not necessary for the provision of the wallet services, 
+nor shall it combine person identification data and any other personal data stored or relating to the use of the European 
+Digital Identity Wallet with personal data from any other services offered by this issuer or from third-party services which 
+are not necessary for the provision of the wallet services, unless the user has expressly requested it. Personal data relating 
+to the provision of European Digital Identity Wallets shall be kept physically and logically separate from any other data 
+held. If the European Digital Identity Wallet is provided by private parties in accordance to paragraph 1 (b) and (c), the 
+provisions of article 45f paragraph 4 shall apply mutatis mutandis.
+wrong numbering? Shall be 2 
+(b) & (c )?
+art 6c (3)
+3. The conformity of European Digital Identity Wallets with the requirements laid down in article 6a paragraphs 3, 4 and 5 
+shall be certified by accredited public or private bodies designated by Member States. (-)
+Which are the requirements for 
+the designated bodies? 
+Heterogenoous certification 
+approach may be in place,  even 
+is common standards are 
+established by art 6c(4). Similar 
+to the issues raised regardin the 
+SB under the current for of 
+eIDAS. 
+ 
+Art 6c(6) shall be similar with 
+6a(11) and 6b(4)
+Amendments 
+Section Text
+Benefits(+) / Risks 
+(-) Comments
+art 11a (2)
+2. Member States shall, for the purposes of this Regulation, include in the minimum set of person 
+identification data referred to in Article 12.4.(d), a unique and persistent identifier in conformity with 
+Union law, to identify the user upon their request in those cases where identification of the user is 
+required by law.2. Member States shall, for the purposes of this Regulation, include in the minimum set 
+of person identification data referred to in Article 12.4.(d), a unique and persistent identifier in 
+conformity with Union law, to identify the user upon their request in those cases where identification 
+of the user is required by law.2. Member States shall, for the purposes of this Regulation, include in the 
+minimum set of person identification data referred to in Article 12.4.(d), a unique and persistent 
+identifier in conformity with Union law, to identify the user upon their request in those cases where 
+identification of the user is required by law. (+)
+Interesting. This means that each person will 
+receive an unique identification number, also in 
+the MS where this  is not currently 
+implemented (i.e. Germany, Portugal - Pour une 
+analyse comparée de certains pays sur cette 
+question, voy. http://www.senat.fr/lc/lc181/
+lc181_mono.html) 
+For legal persons, the unique identifier should 
+be the LEI
+art 12a (1)
+Certification of electronic identification schemes 
+1. Conformity of notified electronic identification schemes with the requirements laid down in Article 
+6a, Article 8 and Article 10 may be certified by public or private bodies designated by Member States.(-)
+Which are the requirements for the designated 
+bodies?  
+ 
+Which are the standards against which the 
+certification is performed? 
+ 
+Similar to the issues raised regarding the SB 
+under the current for of eIDAS.
+Amendments 
+SectionText Benefits(+) / Risks (-)Comments
+art 13 
+...) comply with the obligations under this Regulation. and with the cybersecurity risk 
+management obligations under Article 18 of the Directive XXXX/XXXX [NIS2]  
+(-)
+Warning : NIS2 is a Directive and it will probably 
+be transposed differently in each Member States 
+It could lead to differences in implementation 
+levels, unfair market...  
+Completely agree
+art 15
+The provision of Trust services and end-user products used in the provision of those 
+services shall be made accessible for persons with disabilities in accordance with the 
+accessibility requirements of Annex I of Directive 2019/882 on the accessibility 
+requirements for products and services.’; (-)
+How a TSP can be liable as per an Annex from a 
+Directive that may be implemented differently, by 
+each MS, in the national legislation?
+art 19
+Security requirements applicable to trust service providers) removed and replaced by a link 
+to « NIS2 » (-)
+NIS2 is a Directive and it will probably be 
+transposed differently in each Member States 
+It could lead to differences in implementation 
+levels, unfair market… 
+eIDAS v2 should avoid disparity at local 
+deployment (to improve the situation compared 
+to the current eIDAS framework)
+art 20
+We propose to use wording similar to NIS2 
+security breaches. Only “significant” personal 
+data protection breaches should be handed over 
+to appropriate GDPR authorities. Other cases 
+(non-significant) should be notified by TSP . 
+
+Amendments 
+Section Text Benefits(+) / Risks (-) Comments
+art 22 c (+)
+Removal from TSL should be proceeded by TSP 
+remediation activities and only imply from significant 
+incidents. Timing for remediation should be similar to 
+EDIW cases (e.g. 3 months). 
+art 25 (-)
+1) For electronic identification means the market is 
+going to be constrained only to notified electronic 
+identification means. This excludes currently valid eID 
+providers compliant with security requirements (e.g. 
+1502/2015), but not notified. 
+2) Other identification methods are allowed, but only 
+when “high level of confidence” is achieved. We 
+encourage EC to precise the wording “high level of 
+confidence”, for example refer to substantial or high 
+assurance level in similar with the point (a).
+art 27 (-)
+We ask EC to clarify the QCAs that manage Type1 QSCD 
+(physical QSCD) are allowed to generate the keys on 
+behalf of the subjects.
+
+Amendments 
+Section Text
+Benefits(+) 
+/ Risks (-) Comments
+art 28 (-)
+We see the business risks for establishing qualified service for 
+the management of remote electronic signature creation 
+devices. It may lead the market to splitting the liability 
+between QCA and remote QSCD TSP . This may also open the 
+market for non-EU vendors (identity proofing is rather locally 
+distributed, and EU dependent, while remote QSCD 
+management may be “global” and centralized). 
+art 29.a  
+Generating, managing and duplicating electronic signature creation data on behalf of the 
+signatory may only be done by a qualified trust service provider providing a qualified 
+trust service for the management of a remote electronic qualified signature creation 
+device (-)
+Create a real way to evaluate the security level of the 
+signature Cf. new article 29.a (Requirements for a qualified 
+service for the management of remote electronic signature 
+creation devices)  
+We propose to specify that the management and duplication 
+of keys can be done by the QTSP that issued those keys OR a 
+QTSP providing a qualified trust service for the management 
+of a remote QSCD 
+art 30  (-)  
+The proposed provisions may shorten up QSCD lifecycle to 5 
+years or even 2 years. That may increase the costs of TS 
+relying on them. Even low severity vulnerabilities may even 
+reduce validity period of QSCD. We encourage EC to precise 
+provisions to make the market more stable and investments 
+more predictable. 
+
+Amendments 
+Section Text
+Benefits(
++) / 
+Risks (-)Comments
+art 29.a  
+Generating, managing and duplicating electronic signature creation data on behalf 
+of the signatory may only be done by a qualified trust service provider providing a 
+qualified trust service for the management of a remote electronic qualified 
+signature creation device  
+(-)
+Create a real way to evaluate the security level of the signature 
+Cf. new article 29.a (Requirements for a qualified service for the 
+management of remote electronic signature creation devices)  
+Art 45  
+2. Qualified certificates for website authentication referred to in paragraph 1 shall 
+be recognised by web-browsers. For those purposes web-browsers shall ensure that 
+the identity data provided using any of the methods is displayed in a user friendly 
+manner. Web-browsers shall ensure support and interoperability with qualified 
+certificates for website authentication referred to in paragraph 1, 
+(+) 
+However, the risk is that a non-compliance of the browser 
+providers produces no sanction, so we deem important to 
+introduce some additional enforcement that could add some 
+more protection to users.  
+We propose to introduce an hard responsibility on web-browsers, 
+establishing their co-liability together with websites that don’t 
+adopt QWAC, in case of damages to EU citizens, if the browser 
+doesn’t highlight the user that the identity of the website owner 
+is seriously in doubt. 
+art 45e
+Issuing of electronic attestation of attributes to the European Digital Identity Wallets 
+Providers of qualified electronic attestations of attributes shall provide an interface 
+with the European Digital Identity Wallets issued in accordance in Article 6a. (+)
+EU DIW cannot retrieve information directly from the source/ 
+designated intermediaries
+
+Amendments 
+Section Text
+Benefits(+) / 
+Risks (-) Comments
+art  39, 45f (4)
+4. Providers of qualified electronic attestation of attributes’ services shall provide such 
+services under a separate legal entity. (+)
+We don’t see the reason this particular Trust Service 
+should be provided under separate legal entity. Our 
+understanding is that “separate legal entity” is from the 
+authoritative sources, only. 
+But a QTSP issuing other trust services can be QPEAA. 
+ 
+An operator of EU DIW can be QPEAA.
+art45g Qualified electronic archiving services (+)
+Create legal effects for documents archived in this QEAS 
+could help (as it is for other QTS) 
+Forbid to MS to impose ‘local’ requirements on archiving 
+solutions that could affect cross-countries interoperability
+art 45g Numbers are needed for the 2 paragraphs
+art 45g
+Qualified electronic archiving services 
+A qualified electronic archiving service for electronic documents may only be provided 
+by a qualified trust service provider that uses procedures and technologies capable of 
+extending the trustworthiness of the electronic document beyond the technological 
+validity period. (+) What is "the technological validity period."? 
+
+Amendments 
+Section Text
+Benefits(+) 
+/ Risks (-)Comments
+Art 45 g
+Within 12 months after the entry into force of this Regulation, the Commission 
+shall, by means of implementing acts, establish reference numbers of standards for 
+electronic archiving services. Those implementing acts shall be adopted in 
+accordance with the examination procedure referred to in Article 48(2) (+)
+In the design of the rules for the new service, the experience of 
+the European Project E-Ark will be crucial, and we recommend 
+that international standard such as ISO 14721:2012 – OAIS 
+Reference Model, the METS schema and the PREMIS standard 
+for metadata, the ISO 20614:2017 for data exchange and 
+interoperability, will become the grounds of the future 
+Implementing Act. In addition, for digitally signed documents it 
+will be important to guarantee that an archiving system cannot 
+be qualified if it doesn’t rely on a Qualified Preservation Service 
+for Qualified Signatures (art 33). 
+Given the large and growing volumes of digital transactions that 
+need to be archived and preserved over time, we strongly 
+believe that Member States shall not define their own 
+framework for the long-term archiving of electronic documents, 
+data and transactions, but they should rather refer to the 
+Qualified Electronic Archiving Service and benefit of a universal 
+and interoperable standard. 
+art. 48a Reporting requirements 
+Member States shall ensure the collection of statistics in relation to the 
+functioning of the European Digital Identity Wallets and the qualified trust services  
+(-)
+Detailed statistics for Digital Identity Wallet but nothing for QTS  
+
+Amendments 
+Section Text
+Benefits(+) / 
+Risks (-) Comments
+Art 3 n (53)
+  
+(53) ‘electronic ledger’ means a tamper proof 
+electronic record of data, providing 
+authenticity and integrity of the data it 
+contains, accuracy of their date and time, 
+and of their chronological ordering’;  
+(-)
+The definition provided is widely open and, even with the help of preambles and other 
+references in the proposal, it is not clear what is the aim of the regulation on this topic, neither 
+what an electronic ledger – indeed – is, according to this article. 
+To clarify the approach, it may be useful to give more relevance to three points: 
+• Aim of the regulation: according to preamble 34, qualified electronic ledger shall enable 
+governance framework and SSI. A centralized approach to identity is already into place with 
+the current eIDAS regulation, but if the aim of the new proposal is to move towards a more 
+decentralized solution, it should be made more explicit. 
+• Description of “electronic ledger”: given the broad definition, today a lot of tools can grant – 
+and are used for – immutability and time stamping of data. It may be useful to add more 
+details in order to understand which is the value and the dignity of a new Qualified Trust 
+Services, highlighting which tasks such a ledger can do better than an existing systems. This 
+clarification will also avoid a double-regulation on the topic: a lot of the electronic ledger 
+used today by Governments and Companies are already broadly regulated, internally by 
+each Member State. 
+• Relationship with other European projects on decentralization and ledgers: for example the 
+EU Blockchain Observatory & Forum and the European Blockchain Services Infrastructure. To 
+avoid misinterpretation of the ledger defined by the proposal, it may be useful to clarify the 
+relationship between said projects and eIDAS.   
+Furthermore, asking a ledger to grant “data authenticity” is a hard task: a better description of 
+such requirements is probably needed.
+
+Amendments 
+Section Text
+Benef
+its(+) 
+/ 
+Risks 
+(-) Comments
+Annex V (g) the advanced electronic signature or advanced electronic seal of the issuing qualified trust service provider; (-)
+Why advanced signature and not 
+qualified signature? Same 
+question for Annex I and Annex 
+III
+Annex VI
+Further to Article 45d, Member States shall ensure that measures are taken to allow qualified providers of electronic attestations of 
+attributes to verify by electronic means at the request of the user, the authenticity of the following attributes against the relevant 
+authentic source at national level or via designated intermediaries recognised at national level, in accordance with national or Union 
+law and in cases where these attributes rely on authentic sources within the public sector: 
+1. Address; 
+2. Age; 
+3. Gender; 
+4. Civil status; 
+5. Family composition; 
+6. Nationality; 
+7. Educational qualifications, titles and licenses; 
+8. Professional qualifications, titles and licenses; 
+9. Public permits and licenses; 
+10. Financial and company data. (+)
+1. in the countries where 
+national identification number of 
+a person is available, this shall be 
+included in the list of attributes 
+(unique and persistent identifier 
+in conformity with Union law as 
+per art. 11a(2)) 
+2. VAT number/ registration 
+number of a company are 
+covered by #10? 
+Add LEI for companies
+Section Text
+Benefits(+) / 
+Risks (-) Comments
+General 
+Comment: 
+It may be helpful to introduce new definitions of the types of electronic signature/seal, and types of advanced electronic 
+signature/seal, and by amending the existing definitions of qualified electronic signature/seal as types of signatures, also 
+amending the referenced articles, like 25, 27, 35, 37, we consider the Regulation will become much more clear on the 
+following: 
+• The correct relation between the terms “qualified electronic signature” and “advanced electronic signature” 
+• The fact that the so-called procedural difficulties that come with the use of a qualified signature are given exclusively by 
+the need to meet the requirements of the advanced signature referred to in art. 26. 
+• Any other type of advanced electronic signature different from the qualified electronic signature, involves technical and 
+procedural mechanisms similar to the qualified signature, in order to meet the requirements referred to in art. 26. (+)

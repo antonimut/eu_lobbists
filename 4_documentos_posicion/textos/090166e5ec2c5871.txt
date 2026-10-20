@@ -1,0 +1,249 @@
+ 
+ 
+Response to the European Commission’s  
+Request for Feedback on the Proposed Data Act 
+May 13th, 2022 
+Workday welcomes the opportunity to respond to the European Commission’s request for feedback on its 
+proposed Data Act (‘the Act”). Workday is a leading provider of enterprise cloud applications for finance 
+and human resources, helping customers adapt and thrive in a changing world. Workday applications for 
+financial management, human resources, planning, spend management, and analytics have been 
+adopted by thousands of organizations around the world and across industries—from medium-sized 
+businesses to more than 50% of the Fortune 500. Headquartered in Pleasanton, California, Workday has 
+more than 3,200 employees in our 19 European offices and more than 2,000 customers headquartered in 
+Europe. 
+Workday shares the Commission’s goal of enabling people and organizations to unlock the full potential 
+of their data. Our software provides enterprises the tools they need to gain new insights from their 
+financial, human resources, and other data and to generate new value from it. A fundamental principle 
+underlying our offerings is that our customers should maintain full control over the data they input into 
+Workday applications. 
+Consistent with that principle, we are long-standing proponents of facilitating interoperability and porting 
+between services. One example of this is the Workday Integration Cloud, a set of Workday services that 
+enable customers to synchronize data stored in Workday with other third-party systems. With the 
+increasing expansion of data-driven technologies and services, the importance of enabling enterprises to 
+engage in data sharing and data-driven innovation cannot be overstated. At the same time, Workday 
+believes data protection is a fundamental right, and we have built privacy and data protection into the 
+fabric of our products since our founding. 
+We therefore broadly support efforts to remove barriers to data sharing, analysis, and reuse, while also 
+ensuring that fundamental rights to data protection and privacy are fully respected. As the Act seeks to 
+advance these goals through legally binding obligations, however, it is vital that the Act is clear in scope 
+and application, and that it takes adequate account of the distinct roles of different actors in the data 
+ecosystem, and the realities of current market standards. To this end, this response offers targeted 
+suggestions for clarifying certain key terms in the Act, and refining certain provisions, so that regulated 
+actors are clear on whether and how the Act applies to them, and can take the necessary steps to 
+comply. Part I of this response addresses the Act’s provisions applicable to data processing 
+services, while Part II addresses its provisions applicable to data holders. 
+Workday appreciates the opportunity to share our views with the Commission on the proposed Data Act. 
+Please do not hesitate to contact Jens-Henrik Jeppesen, Senior Director, EMEA Public Policy, at 
+jens.jeppesen@workday.com. 
+Ref. Ares(2022)3666185 - 13/05/2022
+ 
+  2 
+I. Data processing services 
+• Clarify Chapter I (scope) definition of “data processing service” to reflect the diversity 
+of SaaS technology. 
+The Act would impose a number of switching, portability, interoperability, and other obligations on 
+providers of “data processing services” (“DPS”) (see Chapters VI – VIII). Recital 72 states that the goal of 
+these obligations is, among other things, to ensure that customers can port their “digital assets” from one 
+service to another, including both “data” and “applications.” This goal is consistent with Workday’s own 
+practices; we strive to make our applications capable of running on various cloud infrastructures and 
+interoperable with third-party and customer-built integrations, providing customers with meaningful 
+flexibility and choice. 
+Although Recital 72 indicates that cloud applications should be considered digital assets—i.e., among the 
+things that customers should be able to port from one DPS to another—other aspects of the Act make the 
+classification of cloud applications less clear. In particular, Article 2(12) defines a DPS, in the relevant 
+part, as a digital service “which enables on-demand administration and broad remote access to a scalable 
+and elastic pool of shareable computing resources of a centralized, distributed, or highly distributed 
+nature.” If the Commission intends the DPS definition to include cloud-based “software-as-a-service” 
+(“SaaS”) applications, then important clarifications and nuance must be introduced into the definition to 
+accurately reflect the nature of SaaS services and the diversity of provisioning models. 
+Although some SaaS applications may be provisioned through “a scalable and elastic pool of shareable 
+[and centralized] computing resources,”—i.e., in the cloud—they may not themselves “enable on-demand 
+administration” of those resources, when that capability is controlled by the provider of the underlying 
+cloud platform or infrastructure service, a commonplace arrangement for the provision of SaaS 
+applications. If it is the Commission’s intention to include SaaS services within the scope of DPS, 
+legislators should amend the definition such that it does not specifically assign “a scalable and 
+elastic pool of shareable computing resources” as a necessary attribute of SaaS services 
+themselves.  
+• Refine Chapter VI (switching) obligations to account for the unique nature of SaaS 
+services. 
+To the extent that legislators decide that certain of the Act’s DPS obligations should apply to providers of 
+cloud-based SaaS applications, we urge them to refine Chapter VI obligations such that they are 
+workable for the nature of SaaS technology. When applied uniformly to the extremely diverse ecosystem 
+of SaaS offerings, many of the obligations set out in Chapter VI could slow innovation, reduce competition 
+and choice, and inhibit growth in the EU’s SaaS sector. 
+Examples of the Chapter VI provisions that require adjustment to effectively work for SaaS offerings 
+include: 
+ 
+ 
+  3 
+One-size-fits-all requirements. Chapter VI contractual requirements fail to account for the unique nature, 
+complexity, and customer requirements of enterprise software. For instance, while Article 24(1)’s 
+requirement that DPS providers enable customers to terminate or switch services within 30 days may be 
+workable for relatively simple or homogenous services, it is infeasible and unrealistic when applied to 
+more complex SaaS products, in particular for enterprise software, where services are specially deployed 
+to be deeply integrated into, and interoperable with, the customer’s broader IT system, and implemented 
+over long time frames ranging anywhere from 6 to 18 months. In our experience, it is commonplace for 
+contracts in our sector to have a duration of anywhere from 3-5 years, with an option to transition to a 
+new service over 3 months, or longer. Enterprise customers overwhelmingly welcome the stability and 
+certainty of these terms, and few have the technical ability to switch to a new service within 30 days. They 
+are therefore extremely unlikely to request to terminate a contract within this short timeframe, given the 
+tremendous disruption to their internal operations that could result. In our experience, customer requests 
+regarding contractual length during switching are nearly universally for transition period extensions, 
+beyond the standard 3 months. To the extent the Commission seeks to impose contractual terms on 
+providers and customers of SaaS offerings, it must ensure that these terms reflect the practical 
+realities of enterprise SaaS implementations, the longer time frames required at the enterprise 
+scale, and customer needs. In addition, Article 25 should clarify that billing regular service subscription 
+fees during the course of a transition is not considered as a switching charge, when the fees are billed for 
+the continuance of the service, and not for the switching process itself. 
+Enabling vs. doing. Several provisions in Chapter VI require providers of DPS to do various things—e.g., 
+to “assist and, where technically feasible, complete the switching process” and to “ensure full continuity in 
+the provision of the respective functions or services” (Art. 24(1)(a)). However, most importantly, 
+incumbent providers do not have detailed information about the technical requirements of the new 
+provider and how data must be migrated and formatted across a complex array of interrelated systems to 
+make the transition successful. Only the customer or its third party knows what the specific requirements 
+of a transition are. Further, if providers were required to directly manage (“complete”) the switching 
+process, it would necessitate net more granular provider access to potentially sensitive customer data. In 
+general, Workday customers are the controllers of their data, and Workday is the processor, acting on the 
+controller’s instructions; Chapter VI, however, would fundamentally alter this relationship by requiring the 
+processor to, at least jointly, determine the purposes and means of processing. Finally, despite these 
+barriers, if providers were still legislated into this role, they would need to be fully remunerated for 
+undertaking this costly and resource-intensive work—to the extent that today, as explained below, 
+systems integration is its own industry. Instead, the Act should require providers to enable switching 
+by providing customers and customer-engaged third parties the tools and resources they need to 
+switch to ensure a successful transition and continuity of service provision.  
+Customer & 3rd party roles. In our experience, customers expect their provider to enable the switching 
+process, while customers primarily manage the switching process themselves—often with the help of third 
+parties such as system integrators, consultants, and others that specialize in helping customers 
+implement and transition IT systems. Particularly for enterprise software, switching involves deep 
+complexity and requires such a high level of specialized expertise and investment that involvement of 
+ 
+  4 
+third parties dedicated to managing the transition has become industry standard. These systems 
+integrators are experts on not just one but multiple industry providers’ systems, and are therefore best 
+positioned to manage transitions between different providers. Requiring providers to take on certain roles 
+outlined in Chapter VI, including those currently filled by dedicated third parties, would functionally require 
+providers to enter into new lines of business by law, while undermining the business models of third party 
+systems integrators—including many European companies that could be put out of business. Rather, the 
+Act should take the above approach of requiring providers to enable such transitions, and should 
+explicitly account for the role of customer-engaged third parties that support switching as 
+possible recipients of such enablement, in addition to the customer itself. Such enablement could 
+include: ensuring generous standard transition periods (e.g. 3 months), liberally granting transition period 
+extensions, making data available in a format mutually agreed upon between the parties, and packaging 
+and porting data back to the customer or its systems integrator. This would strike the best balance 
+between reducing barriers to switching, while avoiding unnecessary disruption to large shares of the IT 
+market, including the many small- and medium-sized European companies that support IT 
+implementations and switching as their primary revenue source. 
+In general, the market realities described above reflect broadly accepted industry standards. Workday is 
+proud to maintain an industry-leading 97% customer satisfaction rate, demonstrating that our industry-
+standard contractual terms and enablement-focused approach to switching are overwhelmingly in line 
+with our customer’s expectations and needs. 
+• Clarify and refine Chapter VII (international safeguards) obligations for non-personal 
+data.  
+Chapter VII (Article 27) of the Act would place a number of limitations on DPS providers transferring non-
+personal data outside of the EU. Yet the problem that the Commission seeks to solve in proposing these 
+limitations on the transfer of non-personal data is unclear, and several aspects of Article 27 are confusing 
+and could create challenges for regulated DPS providers and their customers, as well as for regulators 
+seeking to enforce these rules. 
+First, Article 27 poses potential problems for enterprise providers who act as a processor of customer 
+(controller) data. Customer data belongs to customers—but to meet the requirements of Article 
+27(1), DPS providers will need to gather much more intrusive information about this data from 
+their customers, including whether it is non-personal and whether it is the type of data likely to be 
+subject to specific protections under EU law. Enterprise customers would strongly object to sharing that 
+information—and many may refuse altogether. In general, such an approach contravenes a key value 
+proposition of enterprise SaaS services: that customer data, whether personal or non-personal, is safe 
+with the provider because of the strong protections that safeguard customer data from unlawful provider 
+access or transfer. Further, for most SaaS providers whose access to customer data is strictly limited 
+(deliberately), all customer data is treated as personal data as there is no way to distinguish between 
+personal and non-personal data. For example, usage, logging, and telemetry data, which are critical to 
+ensure the proper functioning of the service and security, cannot necessarily be distinguished between 
+personal and non-personal data without intrusive provider access. 
+ 
+  5 
+Beyond this challenge, other aspects of Chapter VII require further clarification. Article 27(1) would 
+require DPS providers to take “all reasonable technical, legal and organisational measures, including 
+contractual arrangements'' to prevent “international transfer or governmental access to non-personal data 
+held in the Union'' where such transfer or access “would create a conflict with” EU or Member State law. 
+However, the Act does not define what constitutes a “conflict” with EU or Member State law, leaving DPS 
+providers uncertain as to when the Article applies, and good faith compliance efforts up for interpretation. 
+(While Recital 77 lists a very broad category of interests that Article 27(1) may be intended to protect—
+including fundamental rights, Member State security interests, and commercially sensitive data—the 
+Recital provides no further specificity, nor does it explain how a particular conflict with these rights and 
+interests would arise.) The Act also does not define what constitutes “reasonable technical, legal and 
+organisational measures.” 
+Other challenges arise with respect to obligations imposed by Article 27. For instance, Article 27(3) states 
+that where a DPS provider receives a third-country order to transfer or grant access to non-personal data 
+“in the absence of . . . an international agreement,” such as a mutual legal assistance treaty (MLAT), and 
+complying with that order “would risk putting the addressee in conflict with” EU or Member State law, the 
+DPS provider shall only transfer or provide access to the requested data where the third-country legal 
+system satisfies certain conditions set out in the Act. These obligations appear to apply separately from 
+those in Article 27(1), but again, the Act does not define what constitutes a “conflict”. Further, read 
+literally, Article 27(3) does not apply to any third country with which the EU or a Member State has an 
+MLAT or similar agreement—meaning that providers cannot rely on Article 27(3) to transfer non-personal 
+data to countries with which the EU or a Member State has such an agreement. This is unlikely to be the 
+Commission’s intended outcome, and should be clarified. 
+We encourage EU legislators to consider carefully whether the limits proposed to transfers of non-
+personal data are necessary in the first instance. Ultimately, the responsibility for resolving conflicts 
+of law between countries should fall on governments, and not private organizations. If the 
+conclusion is that such limitations are appropriate nonetheless, we recommend amending Article 27 to 
+be precise about the specific conflicts covered by the Articles 27(1) and (3) and the measures 
+required under Article 27(1) to prevent them. Article 27(3) should also be amended to make clear 
+that it applies in relation to transfers to all third countries, and, as the EDPB-EDPS Joint Opinion 
+notes, the interplay between Article 27(1) and 27(2) and 27(3) should be further clarified. Finally, 
+the Act should specifically define “reasonable technical, legal and organisational measures.” 
+• Ensure Chapter VIII (interoperability) provisions account for the nature of 
+competition in the SaaS market. 
+As is the case for Chapter VI, certain Chapter VIII obligations on interoperability may be sensible for 
+“infrastructure-as-a-service” (“IaaS”) or “platform-as-a-service” (“PaaS”) offerings, but are not workable for 
+SaaS specifically. For example, the Article 29 requirement for data processing service interoperability 
+specifications and standards to guarantee “functional equivalence between different data processing 
+services that cover the same service type” is not practical for the SaaS sector, in which providers primarily 
+compete on differences in service offering. Requiring SaaS providers to offer the same functionality, 
+ 
+  6 
+features, or qualities of service as their competitors would remove their incentives (and even ability) to 
+innovate, and would leave customers with less choice, directly undermining the Act’s objectives. While 
+some level of service variability may also exist among IaaS and PaaS offerings, such variability is 
+relatively more prevalent and core to competition in SaaS markets, in which software is tailored to the 
+varying needs of specific business functions, industries, and geographies. 
+A “functional equivalence” requirement also fails to recognize that many cloud applications are specifically 
+designed to enable customers to configure applications to their own needs—for many customers, a key 
+value proposition of SaaS applications, especially in enterprise software. Beyond the general 
+unworkability of “functional equivalence” for SaaS, it is not clear how this requirement would operate 
+specifically with respect to application configurability chosen by the customer, a core attribute of many 
+SaaS applications. In general, mandating technical specifications or a fixed “common denominator” level 
+of functionality across the entirety of the software market would be detrimental to user choice and 
+meaningful provider competition, risking worsening the problems the Act intends to solve, and threatening 
+the ability of European providers and customer enterprises to innovate and generate value from data. The 
+Article 29 “functional equivalence” provision should be clarified to only apply to IaaS and PaaS 
+services, in line with the Commission’s approach taken in Article 26 in the context of switching. 
+II. Obligations on data holders 
+• Ensure Chapter III (data holders) specifies the EU laws under which a data holder is 
+obligated to make data available.  
+Chapter III of the Act sets out various obligations that apply in cases where a “data holder” must make 
+data available to a “data recipient” (which Article 2(7) defines to mean a third party other than the “user”). 
+Article 12(1) (like Article 8(1)) states that these obligations apply “where a data holder is obliged under 
+Article 5, or under Union law or national legislation implementing Union law, to make data available to a 
+data recipient” (emphasis added). 
+In Workday’s experience, it is extremely rare that Union law would require us—or indeed most other 
+providers of cloud services—to share a customer’s data with a third party, other than on the customer’s 
+instruction. Indeed, to the extent the data in question was personal data, the GDPR might preclude us, 
+acting as a processor of this data, from sharing such data in many instances, absent an instruction from 
+the customer to do so. 
+Without specific guidance on the particular EU laws that the Commission believes to impose such 
+obligations, it could be extremely challenging for data holders to determine whether or how Chapter III 
+applies to them. Given the sensitive and even confidential nature of the data that our customers typically 
+process in Workday applications (e.g., human resources and financial data), we think it is vital that 
+providers in Workday’s position have maximum clarity on the laws that the Commission believes would 
+impose such obligations, the specific third parties to which such data sharing obligations would extend, 
+the precise conditions under which we would be legally obliged to share the data, and the types of data to 
+which these obligations would apply. 
+ 
+  7 
+To this end, legislators should consider the approach adopted in the Commission’s Proposal for an 
+Artificial Intelligence Act. Annex II of that Act lists all of the EU laws applicable to “products” that will be 
+classified as “high risk” under the Act, which has the benefit of giving manufacturers crucial clarity on 
+whether their products will fall within scope of the Act. We urge legislators to adopt a similar annex to 
+the Data Act that lists the specific legislative measures, and the specific articles therein, that 
+impose a legal obligation that would be within the scope of Article 8(1). This approach would ensure 
+legal certainty for data holders, in keeping with the Act’s objectives, and mitigate the significant ambiguity 
+in Article 12(1) as currently drafted. 

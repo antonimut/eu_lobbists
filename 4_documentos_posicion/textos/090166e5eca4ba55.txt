@@ -1,0 +1,378 @@
+ 
+ 
+ 
+ 
+Towards a stronger and more resilient Union  
+Huawei’s response to the Call for Evidence on the EU Cyber Resilience Act 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2022 
+ 
+ 
+Ref. Ares(2022)3933404 - 25/05/2022
+Why cyber resilience is key to digital transformation  
+ 
+Digital transformation is not just a buzzword –there has been significant growth of the Internet of 
+Things (IoT) and other connected devices. As per Huawei’s Global Industry Vision (GIV) by 
+2025, 100 billion digital connections will be achieved globally, covering 77 percent of the 
+population; while 85 percent of enterprise applications will be deployed on the cloud; and smart 
+homes will comprise 12 % of all households, with a billion-dollar plus market. Most of this 
+transformation will happen in Europe, with citizens able to access much faster and more 
+innovative technology at a lower price and carbon footprint. According to ETNO’s State of Digital 
+Communications 2022, active IoT connections are expected to reach 352mn in 2023, up from 
+180mn in 2020 in Europe. It is clear that Europe is well poised to benefit, as per Huawei’s latest 
+Global Connectivity Index, 13 out of the top 20 “front-runner” countries are already in Europe. 
+ 
+With such a wide range of digital products and services about to be put on the European 
+market, cyber resilience becomes an essential priority, both for hardware and software 
+providers, but also for regulators and citizens. A large number of new technologies, systems, 
+and applications will be used in industries such as transportation, energy, finance, 
+manufacturing, digital government, healthcare, and education. As these sectors undergo digital 
+transformation, these new technologies, systems, and applications impose higher requirements 
+on the infrastructure of these industries and bring more challenges. In the telecommunication 
+sector, the shifts to 5G and to a virtualised, software-defined infrastructure means that the 
+networks and end-to-end services of tomorrow will be delivered by an ecosystem of operators, 
+vendors and providers, where important functions and control points will move closer to the end-
+user and will be outsourced from telecom providers to other actors in the value chain. A certain 
+sense of urgency is reflected in the European Union’s focus on developing harmonized 
+cybersecurity standards – first with the Cybersecurity strategy in 2020, then with the review of 
+the NIS directive, and now with the Cyber Resilience Act proposal (henceforth, CRA). 
+ 
+While it is clear why cyber resilience is critical for the digital transformation, it is easy for a sense 
+of urgency to drive regulatory overlap on cybersecurity, with requirements being introduced in a 
+piecemeal fashion, resulting in an ever growing number of existing or proposed legal acts that 
+seek to regulate products, organisations, or simply update requirements in specific sectors. 
+Cybersecurity requirements should not be a labyrinth or puzzle to decode for companies, but 
+rather serve as a compass for industry – it should aim to simplify, direct and guide while raising 
+the horizontal level of harmonized cybersecurity standards across verticals and sectors. 
+ 
+Decoding the EU’s approach to cybersecurity legislation 
+ 
+There have been multiple relevant regulations in the digital domain have been proposed or 
+already adopted, and so rather than leaving it up to industry to decode, the European 
+Commission should ensure an increased coherence between these. To improve legal clarity 
+and business certainty, the CRA should clarify the relationship with the European Cybersecurity 
+Act (CSA), Radio Equipment Directive (RED), General Data Protection Regulation (GDPR), 
+General Product Safety Directive/ proposed regulation (GPSD/R), Machinery Directive/ 
+proposed Regulation, Medical Device Regulation (MDR), eIDAS Regulation (EU Digital ID), 
+Sales of Goods Regulations (Art. 7(3)), proposed Digital Operational Resilience Act (DORA), 
+proposed Network and Information Security 2 (NIS2) directive, as well as the proposed 
+Regulation establishing the European Cybersecurity Industrial, Technology and Research 
+Competence Centre and the Network of National Coordination Centers.  
+ 
+Therefore, in order to achieve the objective of ensuring a consistent high level of security for 
+digital products and ancillary services and given the horizontal scope of the CRA, it will be of 
+key importance to define the context in which the CRA will operate, especially with regard to 
+vertical legislation like the RED, or potentially mandatory certification of IoT or critical 
+infrastructure under NIS2. To resolve the issue of overlapping requirements, it is critical to 
+improve cyber resilience across the common market and to avoid creating redundancies in 
+reporting, and instead to acknowledge sectoral needs. 
+ 
+One example is the delegated act (2022/30) under the Radio Equipment Directive (RED) with 
+requirements relating to the protection of data and network resources, and against fraud for 
+wireless product. Considering that under the RED Delegated Act (henceforth, RED DA), where 
+the scope is limited to certain Radio Equipment, a one-size-fits-all approach was considered 
+difficult to achieve by European Standards Organisations (ESOs). This seems even more 
+ambitious under the CRA.  
+ 
+The CRA aims to cover all ICT products, regardless of whether and how they may be 
+connected. IoT products are only a subset of ICT products, yet though IoT equipment all share 
+certain common characteristics, they include a wide diversity of use cases with very different 
+implications for appropriately estimating their risks. 
+ 
+Beyond covering all tangible ICT products, the CRA aims to cover stand-alone software as well 
+as ancillary services. It is unclear to Huawei that a common legislative tool can properly address 
+these different categories of products, and in any case, they differ sufficiently to deserve being 
+approached independently at least in an initial assessment phase. 
+ 
+Therefore we recommend that the CRA scope be limited to connected products while not 
+addressing software and ancillary services. This is one way to navigate the labyrinth – through a 
+“strategic compass” of complementary, and not overlapping regulation. Moreover, we would 
+recommend to set out general legal requirements that are detailed at technical level through 
+harmonised standards – to leave enough room for the required customization for distinct 
+products and scenarios, while maintaining flexibility on how to ensure cybersecurity. 
+ 
+While the RED DA only addresses early stages of a product lifecycle, the CRA aims to cover all 
+phases. It has to be emphasized that each phase of a product’s lifecycle, corresponds to 
+different expected behavior and is subject to different risks. Each phase therefore deserves a 
+separate and standalone risk assessment, resulting in a specific (and often differing) set of 
+security requirements compared to other phases. In addition, the legislation should not ignore 
+the fact that the proper definition of lifecycle phases is use case dependent, nor assume that 
+product manufacturer bears primary liability for all of them.  
+ 
+For example, most connected scenarios require an initial onboarding, provisioning or 
+configuration phase before an endpoint can connect to a serving infrastructure (which may need 
+to be repeated in case of transfer of ownership or change of economic operators), and most 
+industrial use cases require the possibility to switch back and forth between operational and 
+maintenance phases. This is why we recommend that at least in an initial phase, the CRA 
+approach should limit its ambition to addressing only simple B2C scenarios, where simplifying 
+assumptions can be made, before assessing whether and how it could be generalized to 
+sophisticated B2B ecosystems where many stakeholders are typically involved.   
+ 
+This is also helpful given that harmonised standards need to be developed to support the new 
+legislation, and a realistic estimation of the number of standards needed should drive the 
+issuance of multiple standardization requests, each associated with a realistic time frame.  
+ 
+When considering multiple legislations, it is wise to avoid duplication of efforts in procedure and 
+to reuse documentation and evidence available in the context of related legislations. Therefore, 
+when introducing general cybersecurity requirements within the context of the New Legislative 
+Framework (NLF), it will make sense to acknowledge cybersecurity certification under the CSA 
+as one (but not the only) way to prove conformity. 
+ 
+Policy recommendations on the Cyber Resilience Act 
+ 
+1. Scope of the CRA 
+The aim of the CRA is to define streamlined cybersecurity requirements covering a wide range 
+of digital products and their ancillary services. This would include tangible digital products 
+(wireless and wired) and non-embedded software. 
+ 
+In order to quickly increase the cybersecurity level of the digital products within the European 
+market the CRA has to define a baseline of horizontal technical security requirements broadly 
+applicable to all the digital products and it has to focus mainly on Hardware and the Embedded 
+Software, where the lifecycle is directly controlled. 
+ 
+For standalone software products, it may be difficult to define common security requirements 
+due to a lot of diversity between existing software products. Furthermore, given the B2C focus 
+of standalone software, and considering the relative cost for smaller app developers, it may 
+increase the commercial barriers to entry for SMEs and, thus, it may not seem proportionate to 
+implement cybersecurity requirements for such software products.  
+ 
+Huawei believes ancillary services are not well defined in the CRA Call for Evidence and would 
+like to have more details and examples before providing feedback. For example, in electricity 
+systems, ancillary services are commonly referred to as auxiliary functions from grid operators 
+with regards to maintaining the resilience and reliability of the system, which is contradictory to 
+the holistic and horizontal definition of the initial scope for CRA. 
+In short, on scope, we recommend that the CRA should only:  
+i. focus on connected products and respectively embedded software; and 
+ii. consider standalone software (i.e. non-embedded software) and ancillary services only 
+at a later stage or at least define the scope more narrowly with detailed examples based 
+on relevant concrete risks. 
+ 
+2. Overlap with other cybersecurity related legislation 
+ 
+As written in the CRA call for evidence, the current EU framework applicable to digital products 
+includes several pieces of legislation covering cybersecurity aspects of digital products. For this 
+reason the CRA has to: 
+i. Provide general cybersecurity requirements within the NLF framework to be detailed at 
+technical level by harmonized standards. 
+ii. These technical requirements under the CRA should avoid overlaps or conflicts with the 
+existing legislation that include cybersecurity requirements for the digital products, or 
+data protection regulation (GDPR, specifically for articles 24, 28 and 32). In particular 
+Huawei welcomes the intention to consider CRA a complement of the RED Delegated 
+Act 2022/30 (RED DA) to cover the digital products not in the scope of the RED DA. If 
+other aspects such as lifecycle, design and vulnerability management are to be included 
+for all the digital products, the CRA will need to rely on more robust legislative 
+instruments, and complement the above mentioned RED DA to avoid an overlap of 
+regulations applying to Radio Equipment. 
+iii. Define mechanisms to reuse digital product's documentation such as, for example, 
+assessment results from other legislation such as but not limited to RED and CSA. 
+iv. Generate coherence between legislation addressing only the intended use and 
+legislation addressing the challenge related to cybersecurity also taking non-intended 
+use into account. This is because adversarial attacks are usually not focused on the 
+intended use of digital products alone. 
+ 
+3. Impact of addressing the entire product lifecycle 
+ 
+Cybersecurity is a chain that is never stronger than its weakest link, therefore we welcome the 
+intention of the CRA to address the entire lifecycle of products under scope. Proper definition 
+and management of the phases of a product’s lifecycle is a critical step to enable secure 
+systems, but requires proper communication and governance across all stakeholders in an 
+ecosystem, as it needs to take into account their operating constraints and translate them into 
+appropriate requirements. As such, there is an opportunity for the CRA to assist the industry in 
+better understanding and addressing this foundation of product security. However, the impact of 
+this endeavor on the legislation should be clearly recognized and acknowledged from the start, 
+rather than being implicit or hidden behind the other dimensions of the legislation. 
+ 
+Even in basic B2C scenarios where a product is manufactured and sold directly to a final user, 
+the product lifecycle can be more complex than just “Design / Manufacturing / Distribution / 
+Operation / End of life”. Indeed, as soon as an ICT product requires connection to a serving 
+network to properly operate, an initial phase of onboarding prior to operation is required to 
+establish security credentials and to configure the product to operate safely. This is a critical 
+phase in terms of vulnerability, which in itself requires proper risk assessment, resulting in 
+specific security requirements compared to normal operation. A clear establishment of the 
+respective responsibilities between the manufacturer, the network operator and the end user is 
+needed to address their potential liabilities in case a security credential is leaked or spoofed 
+during this phase. A risk assessment performed in isolation by a manufacturer prior to market 
+placement may fail to capture requirements that depend on the environment and policies 
+specific to the operator or user of the serving network.  
+ 
+Also, transfer of ownership deserves to be considered, which may require switching back from 
+the operating phase to a new onboarding phase. This illustrates that proper management of a 
+device lifecycle requires not only a clear definition of its expected behavior expected at each 
+phase of its life, but also of the triggers that control its transition between different phases. 
+ 
+Industrial scenarios involving additional economic operators such as integrators, installers, 
+multiple tenants in customer premises, and maintenance operators may result in more complex 
+lifecycle management, involving multiple steps of security provisioning to address different 
+levels of stakeholders, as well as different types of maintenance phases. In conclusion, it is of 
+utmost importance that the European Commission recognizes the existence of the following 
+dimensions that the CRA will need to address: 
+i. Definition and management of the lifecycle phases of a product is a fundamental 
+step for security, which needs proper involvement of all economic operators and will 
+depend on specific ecosystems. The legislation should refrain to assume or mandate 
+a “one size fits all” lifecycle. 
+ii. Each step of a product lifecycle corresponds to different operating conditions, hence 
+each deserves their own governance and definition of roles and responsibility. This 
+cannot be predicted independently from considerations on the ecosystem within 
+which a product will be operating. 
+iii. Phases of a product lifecycle after purchase by a consumer may be unknown to 
+manufacturers, hence liability for such phases should not solely rest with them.  
+iv. The CRA should consider compliance with technical requirements at all stages of the 
+product life cycle. In addition, technical conformity assessment methodology of the 
+product life cycle should be considered. 
+ 
+4. Risk based approach 
+ 
+We recommend for the CRA to provide general cybersecurity requirements within the NLF 
+framework to be detailed at technical level by harmonized standards. The scope and technical 
+requirements should then reflect the concrete cybersecurity risks of respective products and 
+embedded software in the specific environment where they are deployed so that the addressees 
+are required to take such measures that are “appropriate to the risk”. In addition, at this 
+legislative stage, the scope and technical requirements of the CRA should also be determined 
+based on the results of such an assessment of risks. 
+ 
+To implement the risk based approach, we recommend that in general, cybersecurity 
+requirements properly reflect the risk profile of the digital products. A clear, transparent, 
+inclusive, and standards-driven process should identify the risk profile of digital products. In the 
+context of the CRA, a restricted approach to assessing this risk is possible assuming simple 
+scenarios where mainly a manufacturer and a user or customer is involved. However, in 
+complex B2B scenarios where entire ecosystems of actors are involved, proper assessment of 
+risk requires involvement of all economic operators and should not rely solely on manufacturer’s 
+assumptions. In addition, the CRA should create a suitable and traceable way to derive security 
+requirements for each operator. 
+ 
+5. Conformity with the New Legislative Framework 
+ 
+The aim of the CRA is to improve the internal market's functioning and would complement the 
+RED DA. This means the CRA has to reflect the objectives of conformity with the NLF, 
+specifically, by being primarily based on NLF legislation (768/2008/EC) that allows the 
+presumption of conformity and the possibility for the vendor to choose the self-assessment 
+procedure. This also means that the CRA should ensure that all the options defined under the 
+NLF as regards to conformity assessment should be available for all digital products, regardless 
+of their risk profile. Finally, the CRA should preserve the voluntary nature of third party 
+conformity assessment for vendors, should they choose to do this. 
+ 
+It is also important is to link the CRA with the European Commission’s Better Regulation 
+Toolbox (November 2021). This solid repository of best practices must be rigorously applied, 
+and assessment criteria and methodologies described here, including “co-regulatory” 
+approaches for higher risk products should be explored. The role of industry to define 
+harmonized standards (typical of NLF regulation) cannot be overstated here. It is our hope that 
+harmonized standards are developed through an inclusive and proportionate process that 
+involves industry stakeholders and through European Standardization Organisations (ESOs). 
+ 
+6. Liability 
+ 
+In most industrial scenarios, good security governance requires the involvement of all suppliers 
+in the value chain (including third parties contracted by the final customer, e.g. integrators or 
+installers) through an overall Risk Assessment specific to the deployment, so that a restrictive 
+legislation putting responsibility only on manufacturers/developers would be counterproductive 
+to the overall ecosystem. Some lifecycle stages are not under the control of manufacturers, so 
+applying very strong constraints to manufacturers/developers may not bring any security 
+improvement in the end if other links in the value chain are left unaddressed by the legislation. 
+ 
+7. Vulnerability Management and Disclosure 
+ 
+Vulnerability management is a cornerstone of security throughout the product lifecycle, and 
+depends both on technical capabilities of products, such as secure updates and security 
+controls, as well as development and operational processes of vendors, their suppliers, and 
+other actors of the value chain. It makes a difference for vulnerability management if products 
+are already deployed in a system context to be operated, or yet on the shelf. Here again, 
+cognizance of deployment scenarios and coherence of the CRA with the existing EU legislation 
+will be paramount. We highlight in particular that, while vendors provide for vulnerability fixes in 
+their products, the responsibilities to distribute fixes, identify vulnerable assets, apply fixes or 
+otherwise mitigate vulnerable states, usually lie with other actors in the value chain and are 
+highly dependent on the deployment scenario. For example, off-the-shelf consumer products 
+cannot be placed under the same regime than products that are deployed by system integrators 
+or operated by service providers. 
+ 
+Vulnerability disclosure is an important component of vulnerability management as it enables 
+vendors to become aware of new vulnerabilities affecting their products. Vendors should remain 
+the primary receivers and handlers of vulnerability reports, and it should be ensured that 
+vendors can receive vulnerability reports in a timely fashion. In this regard, some aspects of 
+coordinated vulnerability disclosure, such as the availability of a disclosure policy along with 
+contact information, could be promoted as part of the product legislation. In addition, an overall 
+legislative approach to cybersecurity should not hamper legitimate vulnerability research, but 
+rather encourage it, as cooperation between vendors and security researchers in the academic 
+and ethical hacking communities is essential. We recognize that there might be cases where 
+vulnerabilities are not directly reported to vendors. For such cases, diligence to follow-up and 
+hand the report over to the vendor should be the focus. 
+ 
+Depending on the position of a vulnerability in the affected technology stack and supply chain, 
+coordinated vulnerability disclosure may involve a large number of vendors and other 
+stakeholders. The responsibility of each stakeholder (vendor, customer, member state, etc.) 
+should be clarified in the process of vulnerability disclosure and vulnerability management as in 
+some particular cases mostly in B2B (where essential and important services associated to 
+critical infrastructures), this process has a different impact than in B2C contexts. Further, this 
+can significantly increase the time necessary to develop a fix, test it, and ensure distribution, as 
+illustrated many times with vulnerabilities affecting hardware or core software libraries. For this 
+reason, we strongly advise against setting hard deadlines for the resolution of vulnerabilities in 
+the product legislation, as these may put market actors in unresolvable situations and be the 
+cause of mistakes with catastrophic consequences on the security of end-users. Rather, an 
+overall legislative approach should facilitate efficient multi-vendor coordination and should not 
+limit innovation on the vulnerability handling methods nor on the techniques used in vulnerability 
+research and vulnerability discovery. 
+ 
+8. Impact on innovation 
+ 
+Cybersecurity requirements should serve as a strategic compass for industry and simplify, direct 
+and guide companies while providing for a higher level of harmonized cybersecurity standards 
+across verticals and sectors. Facilitating interoperability and integration of security in different 
+products can encourage innovation as long as the regulation focuses on the objectives to 
+achieve, the “what” rather than the “how”. 
+ 
+This is important also because increasingly more complex and disruptive technologies (AI, edge 
+computing, etc.) are becoming more essential in the digital transformation. Requirements under 
+CRA should facilitate the use of these technologies, rather than discouraging vendors and 
+smaller developers. Further, requirements should not need lead to delays or encourage 
+discrimination of vendors based on politicized requirements. In sum, the CRA should encourage 
+innovation, not create an unwitting “innovation penalty”.  
+ 
+Harmonised standards should be used as the means to allow manufacturers to prove the 
+conformity of their digital products. They will be key to reduce the cost of conformity and 
+improve legal and business certainty. At the same time, ESOs should define cybersecurity 
+requirements independently of technical implementation in order to avoid the creation of barriers 
+for innovation, especially in the case of software. 
+ 
+9. Non-discrimination 
+ 
+Huawei is encouraged with the European Commission’s commitment to create a level playing 
+field for vendors and providers of digital products, regardless of where they are from. It should 
+be emphasized that the CRA should focus on technical requirements and ensure compliance 
+with WTO agreements and principles of good governance and EU law. 
+ 
+Given the new provisions to be introduced on conformity assessment, on the notification of 
+conformity assessment bodies, and on market surveillance, it should be guaranteed that these 
+assessments and surveillance aspects are done in an independent and transparent way, thus 
+giving the possibility for the vendor to properly assess, refute, respond and acknowledge the 
+final decision from the assessment body. 
+ 
+The CRA should also ensure cybersecurity requirements and the conformity assessment 
+procedure shall be the same for all similar digital products regardless of the size of the vendor. 
+The security level of the digital products placed in the European market shall not be jeopardized 
+by different treatments depending on vendor characteristics not related to cybersecurity, and the 
+“risk based approach” should continue to uphold technology neutrality and non-discrimination.  
+ 
+10. Response to policy options 
+ 
+Regarding the proposed policy options in the Call for Evidence, Huawei believes that: 
+i. Option 4 is the best one to start with. It would be good for the European Commission to 
+first focus on hardware digital products and their embedded software, as this will already 
+improve the security level dramatically in the European market, while also providing 
+room to define achievable milestones in the meantime. 
+ii. Option 5 is more comprehensive but it may be a risk to handle hardware and software 
+digital products at the same time. This is because of myriad differences in types of 
+software, and the complexity and relatively lower risk profile of the bulk of software. 
+CVSS scores are going down, so there is time to do this in the future. 
+iii. Option 3 is not suitable to fulfill the ambitious scope of the CRA. The amendment of 
+existing legislation will introduce fragmentation in the market and also increase the cost 
+and complexity on the vendor side due to the different numbers of legislations to be 
+considered for the product assessment. 
+iv. Option 2 includes voluntary measures that vendors may choose, and our focus on 
+cybersecurity means we support these where possible. Soft-law initiatives should focus 
+on the creation of harmonized standards, and comply with good governance guidelines 
+while avoiding unjustified politicization. 
+ 

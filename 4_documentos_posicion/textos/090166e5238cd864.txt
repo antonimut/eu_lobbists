@@ -1,0 +1,297 @@
+1 
+Committed to Europe 
+Orange Group’s position on the European Commission consultation on the 
+Digital Omnibus 
+ 
+Executive Summary  
+We warmly welcome the EC willingness to simplify the digital rule book. Achieving such a 
+simplification is of paramount importance to ease operators’ compliance. This is one of the key 
+aspects of strengthening EU competitiveness.  
+We call the EC to adopt an ambitious Digital Omnibus proposal and ensure the same approach 
+will apply to the future Digital Network Act. The current European Electronic Communications 
+Code also deserves a substantial simplification exercise notably in terms of consumer protection 
+rules, since some of them have become obsolete or redundant with EU horizontal laws.  
+The main simplifications that should be included in the Digital Omnibus, and further detailed 
+below, are the following:   
+AI Act  
+▪ The implementation of the rules on high-risk AI should be postponed to one year after the 
+standardisation process has been finalised.  
+▪ We call for setting up one single certification for all harmonised standards.  
+▪ The Act should ensure that a single point of contact is available at national level covering the 
+various public authorities in charge of monitoring the AI Act implementation.    
+ePrivacy Directive  
+▪ We call for the repeal of the provisions on metadata (art.6) to ensure operators can innovate 
+and manage data under the same rules (GDPR) as other digital entities, while inserting the 
+principle of confidentiality of communications in another EU law (ex: DNA, GDPR).  
+Data Act  
+▪ The Commission should clarify the scope of the Act as definitions of “Connected Product” 
+and “Connected Service” create legal uncertainty, particularly regarding whether servers, 
+routers, and set-top boxes fall under mandatory data-sharing rules. The Data Act should 
+explicitly exclude some products such as rented or leased devices.  
+▪ Overlaps between the Data Act and the GDPR risk conflicting data rights and hindering lawful 
+innovation – guidance is necessary. 
+Cybersecurity Regulations (NIS2, CER, CRA, DORA)  
+▪ Reporting requirements should be simplified and streamlined across all Regulations, notably in 
+terms of what should be reported, their thresholds, timelines and procedures of reporting.  
+▪ Establishing a single-entry point for reporting in Member States. 
+▪ For cross border incidents or those affecting multiple entities within a group, clarification and 
+consistency between the various texts is paramount regarding the entity responsible for 
+reporting the incidents and the concept of ‘main establishment’.  
+▪ Specifically related to DORA: we call for the EC to publish standard contractual clauses to 
+clarify customer-supplier and supplier-supplier relations. Provisions on the definitions 
+(‘ongoing basis’ and ‘financial performance’) and on audit should be clarified. The EU should 
+establish a presumption of conformity that NIS2 providers are compliant with DORA. 
+Ref. Ares(2025)8736752 - 14/10/2025
+
+2 
+  
+Detailed remarks 
+AI Act  
+1. Standardisation and Implementation date of the high-risk AI provisions 
+The standards on high-risk AI rules are not ready yet, which creates uncertainties for the AI 
+Implementation. We call for a postponement of the entry into force of those provisions, which 
+should apply one year after such standards are available.  
+ 
+We also believe it would help implementation to set up one single certification for all harmonised 
+standards under definition and ensure a total alignment between the various standards under 
+definition.  
+ 
+2. Setting up a single point of contact at national level  
+Member States are currently organising themselves and allocating competences to various 
+national authorities to monitor the implementation of the AI Act. In certain countries it will lead to a 
+patchwork of national entities in charge of some parts of the provisions of the AI Act.  
+ 
+We call for a simplified regime whereby entities providing or deploying AI use cases would have to 
+liaise with one single national point of contact. This single point of contact would then be in 
+charge of contacting/liaising with any other national authority in charge of the topic. For European 
+international companies, dealing with several entities in the various Member State they are 
+operating in would not simplify AI adoption or improve business efficiency. 
+ 
+We also call for improving harmonisation in the implementation of different legislations at national 
+level, for instance between GDPR or ePrivacy and the AI Act.  
+ 
+3. Single Platform gathering all compliance information on GPAI 
+It would help downstream providers to have a single platform at EU level where to find all relevant 
+information on GPAI models and GPAI models with systemic risks, including the list of entities 
+qualified as such, the list of open source GPAI models, and the summary of data used for training.  
+ 
+4. Clarification of biometrics definition  
+The AI Act should be clarified regarding the definition of biometric and emotional AI based tools, 
+especially in the context of GPAI, to better understand the scope of the AI Act rules.  
+ 
+We therefore ask the Commission to: 
+▪ Postpone for one year the implementation of provisions on high-risk AI following the 
+finalization of standardization works.  
+▪ Set up one single certification for all harmonised standards.  
+▪ Ensure that a single point of contact is available at national level covering the various 
+public authorities in charge of monitoring the AI Act implementation.    
+ 
+3 
+ePrivacy Directive  
+While acknowledging the Commission’s efforts to review the ePrivacy Directive with regard to 
+cookies, we believe this review should be extended to the provisions on confidentiality of 
+communications and metadata (articles 5 and 6).  
+The rules on metadata (article 6) adopted more than a decade ago have become obsolete and put 
+the European operators under more stringent rules than big tech notably hindering their capacity 
+to handle those data and innovate under the same rules.  
+We call for the repeal of this article 6, as the metadata can already be addressed under the GDPR 
+while the principle of confidentiality (article 5) could be inserted in an EU horizontal law (ex: DNA, 
+GDPR). 
+We therefore ask the Commission to: 
+▪ Repeal article 6 of the ePrivacy Directive  
+▪ Insert the provisions on confidentiality of communications in an EU horizontal law (ex: 
+DNA, GDPR).  
+ 
+The Data Act 
+1. B2B and B2C data sharing obligations 
+a) Definition of a “Connected Product.” 
+First, it should be remembered that the Data Act was designed in response of the rapid IoT sector 
+growth, to correct the imbalance between manufacturers controlling product data and users 
+generating it, and to ensure data access and re -use to drive downstream innovation. Clearly, 
+telecom devices form part of the essential infrastructure that enables connectivity, not the 
+downstream IoT ecosys tem where data lock -in occurs. Likewise, connectivity services were 
+specifically left outside the scope of the Data Act. 
+Article 2(5) of the Regulation defines a Connected Product as: “ an item that obtains, generates or 
+collects data concerning its use or environment and that is able to communicate product data via 
+an electronic communications service, physical connection or on -device access, and whose 
+primary function is not the storing, processing or transmission of data on behalf of any party other 
+than the user” .  
+The FAQ of the Commission p.9 introduces a precision in relation to Connected Product that is not 
+in the definition of Article 2(5) : Products which primarily fulfil the function of storing, processing, or 
+transmitting data (e.g., servers and routers) are outside the scope of the mandatory data -sharing 
+obligations under Chapter II of the Data Act, unless they are owned, rented, or leased by the user." 
+Applied literally, this addition could undermine the definition in Article 2(5) itself, nullifying the 
+exception it contains . Routers, modems or set -top-boxes belong to equipment which primary 
+function is “ operating for a party other than the User ”. Any device that performs interpersonal 
+communication or internet access function operates on behalf of a party other than the user: it 
+allows communications to be carried one way and the other way round, including at least operating 
+for one party other than the user. As such they should be excluded from the definition of “connected 
+product” in the Regulation.  
+4 
+However, this qualification  seems different under the FAQ, as in the electronic communications 
+sector, it is common for internet service providers (ISPs) to rent to their subscribers ’ gateways or 
+other equipment used for the processing or transmission of data.  
+Clarification is needed to ensure predictable compliance boundaries  and to considerably simplify 
+the potential obligations in terms of access to data and reporting for ISPs.  
+We therefore ask the Commission: 
+▪ To introduce a list of excluded devices directly in the text of the regulation , as was partly the 
+case in the original proposal of the Data Act (Recital 15). This list should explicitly extend to 
+servers, routers and set-top-boxes. 
+▪ To remove the carveout “unless they are owned, rented, or leased by the user” from the FAQ 
+page 9, as it creates legal uncertainty and undermines the regulation’s purpose. 
+ 
+ 
+b) Definition of a “Connected Service” 
+The current Data Act FAQ1 states: “The service must affect the connected product's functions, 
+behaviour, or operation. Determining the ‘functions’ of a connected product is an ongoing and 
+evolving task. Practice and courts’ interpretation will play an essential role in further delineating 
+whether a digital service is a related service.” 
+While this guidance acknowledges the evolving nature of digital services, it does not provide 
+sufficient clarity for businesses. 
+We therefore ask the Commission: 
+▪ To provide clarification on the concept of “functions”. It is for instance unclear whether it refers 
+to hardware operation, software-based usage, or both, and how content delivery impacts 
+device functionality. 
+ 
+c) Overlaps between Data Act and GDPR 
+The relationship between the GDPR and the Data Act raises several questions of overlap and 
+potential conflict. The Data Act imposes significant restrictions on data holders’ ability to use or 
+share data, which may contradict rights recognized under the GDPR. 
+Recognized rights to use personal data 
+Under the GDPR, data controllers may rely on lawful bases for processing personal data, such as 
+the performance of a contract (Article 6(1)(b)) or legitimate interest (Article 6(1)(f)). However, Article 
+8(4) of the Data Act prevents data holders from making data available to third parties except at the 
+explicit request of the user. This provision risks creating “locked datasets,” limiting legitimate data 
+uses otherwise permitted under the GDPR.  
+The resulting uncertainty may hinder European industry’s ability to make lawful and beneficial use 
+of data derived from customers or business systems, particularly for the development of artificial 
+intelligence.  
+ 
+1 See https://digital-strategy.ec.europa.eu/en/library/commission-publishes-frequently-asked-questions-about-data-act 
+5 
+Restrictions of capabilities to use non-personal data 
+Article 4(13) of the Data Act provides that a data holder may only use non-personal data on the 
+basis of a contract with the user. This raises definitional and operational issues. If such data are 
+“non-personal,” they cannot be tied to identifiable users, making the concept of “user’s non-
+personal data” incoherent. Conversely, if the data can be indirectly linked to individuals through 
+additional identifiers, they constitute pseudonymized data and should be treated as personal data 
+under the GDPR, rendering the term “non-personal data” inaccurate. 
+Moreover, the Data Act acknowledges in Recital (34) that personal and non-personal data are 
+often inextricably linked, echoing Article 2(2) of Regulation (EU) 2018/1807 on the free flow of non-
+personal data. In such cases, GDPR rules prevail, since mixed datasets cannot be effectively 
+divided into separate regulatory categories. The terminology of “non-personal data” therefore 
+becomes misleading. 
+Where the user is a legal person rather than a natural person, “non-personal data” largely 
+corresponds to confidential business information, such as trade secrets, intellectual property, or 
+security data. These are already governed by confidentiality agreements and Directive (EU) 
+2016/943 on the protection of trade secrets. Treating such information under the Data Act’s data-
+sharing regime introduces unnecessary constraints and could effectively prohibit normal data 
+uses not explicitly foreseen in contractual terms. 
+We therefore ask the Commission: 
+▪ Revise provisions such as Article 8(4) to remain compatible with GDPR lawful bases (Articles 
+6(1)(b) and 6(1)(f)), to safeguard legitimate, GDPR-compliant data processing for innovation 
+and AI. 
+▪ Ensure that EU trade secrets remain protected under Directive 2016/943 and provide EU-
+level guidance on how explicitly how the GDPR and Data Act interact, specifically how GDPR 
+rules take precedence where datasets overlap. 
+ 
+ 
+Cybersecurity Texts  
+The adoption in the previous mandate of a multitude of cybersecurity legislations (NIS2, Critical 
+Entities Directive (CER) Cyber Resilience Act (CRA), DORA) with non-aligned provisions leads to 
+complexities and overlaps for multi-country Groups such as Orange.  
+ 
+1. Lack of consistency across the various texts 
+There is an urgent need for simplification notably as differences in reporting obligations, timelines, 
+procedures and tools/designated authorities, reporting for Groups of multiple entities, lead to a 
+complexity and substantial additional administrative burden from an organisational perspective 
+when implementing procedures to be compliant with the different texts.  
+ 
+Some examples of what, when and how reporting is required: 
+▪ What is to be reported in terms of incidents:  
+o Under NIS2, Reporting of an incident that has a ‘significant impact’ with a subsequent 
+definition of what is considered significant. 
+o Under CER, Reporting of a ‘critical incident’ that means an event that causes or risks 
+causing a ‘significant disruption’ to the functions of critical entities that is then further 
+detailed. 
+6 
+o Under CRA, Reporting of an ‘actively exploited vulnerability’ and/or ‘severe incident’ 
+affecting ICT products or services 
+▪ Timelines for reporting:  
+o Under NIS2, ‘Without undue delay," and in any case, within 24 hours of becoming 
+aware of the incident.  Follow up within 72 hours with a final report 1 month after.   
+o Under CER, no later than 24 hours after becoming aware of the incident. or as per 
+national procedures followed by a detailed report 1 month after. 
+o Under CRA, within 24 hours an early warning, following by a notification within 72 
+hours, and a final report within 14 days (for actively exploited vulnerabilities) and 1 
+month (for severe incidents unless already provided within 14 days.) 
+▪ Authorities to whom reporting incidents are to be addressed:  
+o Under NIS2, Entities must notify their national CSIRT or competent authority.    
+o Under CER, Notify the designated national competent authority. 
+o Under CRA, Reporting to national authorities designated for market surveillance or 
+cybersecurity oversight and simultaneously to ENISA via a Single Reporting Platform. 
+o Reporting of cross border incidents or those affecting multiple entities within a group: 
+clarification is required as the legislation does not clearly specify the manner in which 
+reporting is required in function of the text, specifically concerning NIS2.  For instance: 
+▪ Under the Cyber Resilience Act, section 7 of article 14 of regulation (EU) 
+2024/2847 the text states that the reporting shall be submitted to the CSIRT of 
+the Member State where the manufacturers have their main establishment in 
+the Union.  
+▪ Under NIS2, Article 26 of Directive 2022/2555 states that the essential and 
+important entities shall be considered to fall under the jurisdiction of the 
+Member State in which they have their main establishment in the Union, where 
+Article 23 does not specify which entity in a Group shall submit the reporting.   
+▪ Clarity on the notion of ‘main establishment’ is also necessary 
+ 
+We therefore ask the Commission: 
+▪ Reporting requirements afore mentioned should be simplified and streamlined across 
+Regulations, notably in terms of what should be reported, their thresholds, timelines and 
+procedures of reporting to a unique national appropriate authority.  
+▪ Establishing a single-entry point for reporting in Member States would allow a one-time 
+submission, automatically distributing the information to all relevant authorities. 
+▪ For cross border incidents or those affecting multiple entities within a group, 
+clarification is paramount. The entity responsible for reporting the incidents should be clearly 
+defined in all texts, in a similar way, specifically in NIS2. Where there are multiple entities 
+within a Group, the entity reporting should be that of a single-entry point of the most relevant 
+jurisdiction, i.e. where the Group of entities has its main establishment in the Union. Finally, 
+enhanced clarity on the notion of ‘main establishment’ is also a prerequisite. 
+ 
+2. Specific issues at stake concerning DORA and proposed solutions 
+ 
+While several aspects of DORA raise uncertainties or complexities and should be simplified, 
+notably on training/awareness programs, the scope of the RTS on subcontracting, the concept of 
+resellers, the scope of the supply chain mapping, we list below the main issues that should be 
+addressed as a priority: 
+7 
+▪ Publication of Standard Clauses 
+o Issue: Lack of standardised contractual clauses that align with regulation, risking 
+inconsistency. 
+o Solution: Publish standard contractual clauses by the European Commission that 
+reflect the regulation, similar to GDPR, to ensure supply chain security for customer-
+supplier and supplier-supplier relations. 
+▪ Audit Rights 
+o Issue: Unlimited audit rights pose risks related to foreign interference, confidentiality, 
+and trade secrets. 
+o Solution: Limit audit rights to what is necessary and proportionate, ensuring they do 
+not exceed the scope mandated by DORA. 
+▪ Definitions of ICT and CTPP 
+o Issue: The term "ongoing basis" may be vague, leading to inconsistent interpretations. 
+The concept of "financial performance" is too broad and misunderstood 
+o Solution: Clarify that ICT services must be delivered on an ‘ongoing basis’, either 
+through explicit regulation language or guidelines from ESAs. Restrict the scope to the 
+"impacts on the client's information system (IS)," focusing on significant effects related 
+to DORA. 
+▪ Legal Presumption of Compliance for NIS2-Subject Providers 
+o Issue: Uncertainty about whether providers under NIS2 are presumed compliant with 
+DORA. 
+o Solution: Establish a legal presumption that NIS2 providers are compliant with DORA 
+for overlapping scopes and obligations, simplifying compliance processes. 
+▪ Complexity in the Implementation of Flow-Down Terms to Subcontractors 
+o Issue: Clients often demand exact replication of contractual provisions, including 
+notification periods and audit conditions, which is impractical given the global and 
+multi-client nature of subcontractors. Only mandatory DORA provisions should be 
+flowed down, avoiding overly restrictive or unnecessary clauses. 
+o Solution: Clarify that only the contractual provisions mandated by DORA need to be 
+flowed down to subcontractors, and that additional or more restrictive terms are not 
+required. This ensures consistency and practicality across multiple engagements. 
+  

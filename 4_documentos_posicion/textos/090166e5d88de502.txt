@@ -1,0 +1,1998 @@
+  
+ 
+ 
+ 
+ 
+Scenarios, 
+Effectiveness and 
+Efficiency of EU 
+Methane Pricing in the 
+Energy Sector  
+A STUDY COMMISSIONED BY 
+ENVIRONMENTAL DEFENSE FUND 
+ 
+ 
+25.01.2021 
+Ref. Ares(2021)624189 - 26/01/2021
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 2    
+ 
+CONTENTS page 
+1 Key Takeaways ................................................................................................................. 4 
+2 Executive Summary .......................................................................................................... 5 
+3 Introduction & Objectives .................................................................................................. 9 
+4 Status Quo and Policy Framework ................................................................................. 11 
+ EU27 Natural Gas Markets (status quo and trends) .................................................... 11 
+4.1.1 Demand by Region .................................................................................................... 11 
+4.1.2 Forecasted Natural Gas Production in Europe .......................................................... 12 
+4.1.3 EU27 Import Structure ............................................................................................... 12 
+ EU Methane Strategy ................................................................................................... 14 
+5 GasTracks Load Flow Model, Scenarios & Core Assumptions ...................................... 16 
+ enervis’ GasTracks Load Flow Model .......................................................................... 16 
+ Scenarios ...................................................................................................................... 16 
+ Core Assumptions ........................................................................................................ 18 
+5.3.1 Abatement Incentive and Potential ............................................................................ 18 
+5.3.2 Assumed Methane Emissions Intensities for Gas Production ................................... 19 
+5.3.3 Methane Price ............................................................................................................ 20 
+5.3.4 Costs of Production and Transport ............................................................................ 21 
+5.3.5 Demand Elasticities ................................................................................................... 22 
+5.3.6 Additional Information ................................................................................................ 23 
+6 Results ............................................................................................................................ 24 
+ Price Mark-Ups ............................................................................................................. 24 
+ Price-Wise Order of Supply Cost ................................................................................. 26 
+ Impacts on the EU Gas Flows ...................................................................................... 27 
+6.3.1 Supply Countries ........................................................................................................ 27 
+6.3.2 Impacts in EU Gas Import Countries ......................................................................... 29 
+ Impacts on Global Production ...................................................................................... 30 
+ Impacts on Methane Emissions ................................................................................... 33 
+6.5.1 Impacts on the EU’s Methane Footprint from Upstream Gas Supply Chain 
+Emissions ................................................................................................................... 33 
+6.5.2 Impacts on Global Oil and Gas Methane Emissions ................................................. 34 
+ Impact on EU Natural Gas Prices ................................................................................ 36 
+7 Sensitivity Analyses ........................................................................................................ 38 
+ Sensitivity of the Price-Wise Order of Gas Supply ....................................................... 38 
+ Sensitivity of Impacts on the EU Supply Mix ................................................................ 39 
+ Sensitivity of Impacts on EU Methane Footprint .......................................................... 41 
+8 Bibliography .................................................................................................................... 43 
+ 
+  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 3    
+ 
+IMPRINT 
+enervis energy advisors GmbH 
+Schlesische Str. 29-30 
+10997 Berlin 
++49 (0)30 695 175 0 
+www.enervis.de 
+kontakt@enervis.de 
+ 
+Authors enervis 
+Constantin Greif 
+Julius Ecke 
+ 
+ 
+A study commissioned by Environmental Defense Fund (henceforth referred to as EDF 
+throughout this report): 
+ 
+ 
+Finalized: 2020 
+ 
+© enervis energy advisors GmbH. All rights reserved (rights of third parties excepted). This includ es all commercial purposes. 
+To the extent permitted by law and if not contractually specified otherwise enervis does not accept or assume any liability, responsibility or duty of care 
+for any consequences of acting, or refraining to act, in reliance on the  information contained in this document or for any decision based on it.  
+The data and information contained in this document have not been collected or reviewed by enervis and are partly publicly av ailable. Therefore, 
+enervis does not assume any liability for the correctness and completeness of the data contained in this document.  
+This document does not take into account events that occurred after this time, nor their effects.  
+The contents presented here are inseparably linked to the specific question and a re only valid under the contractual conditions agreed with the client, 
+which may not be accessible from the document itself.  
+  
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 4    
+ 
+1 Key Takeaways 
+This study analyzes the impacts of a methane emissions price implemented on all natural gas imported 
+or produced in the EU and proportional to the methane emission intensity of gas production. The 
+results show that 
+ 
+• an EU methane price can have a significant impact on global oil and gas methane emissions if 
+it creates sufficient incentives for suppliers of gas to the EU to implement methane abatement 
+measures; 
+ 
+• a price on upstream methane emissions can then significantly reduce the EU’s methane 
+footprint due to emissions from gas production in countries supplying gas to the EU;  
+ 
+• an EU methane price will be most effective if also other key global gas import markets 
+implement methane policies to incentivize gas producers to mitigate their methane emissions;  
+ 
+• the impact of a methane price on EU household gas prices is likely to be small . 
+  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 5    
+ 
+2 Executive Summary 
+Reducing 
+anthropogenic 
+methane emissions 
+by half could lower 
+global temperature 
+rise by 0.2 degrees 
+C by 2050. Current 
+assessments 
+indicate that the 
+most cost-effective 
+methane emission 
+reductions can be 
+achieved in the 
+energy sector. 
+Methane emissions are a significant contributor to climate change and 
+responsible for at least 25% of current man-made-warming (IPCC, 2013). 
+Reducing anthropogenic methane emissions by half could lower global 
+temperature rise by 0.2 degrees C by 2050. Current assessments indicate 
+that the most cost-effective methane emission reductions can be achieved in 
+the energy sector with upstream oil and gas operations in particular 
+considered to offer reduction opportunities at very low cost. Estimates also 
+indicate that the largest share of the European Union’s (EU’s) methane 
+emissions footprint from its gas consumption comes from upstream emissions 
+arising in the countries supplying gas to the EU (EC, 2020b). 
+In October 2020 the European Commission released its Methane Strategy, 
+which for the energy sector includes a proposal to require improved detection 
+and repair of leaks (LDAR) in gas infrastructure and consideration of 
+legislation to prohibit routine flaring and venting practices in the EU. The 
+Commission also committed to exploring possible standards, targets or 
+incentives for energy imports to the EU as well as tools for enforcing them and 
+to engage in a dialogue with its international partners to address methane 
+emissions from energy imports (EC, 2020b).  
+The EU imported roughly a third of all internationally traded gas in 2019 and is 
+projected to represent 9% of global gas demand in 2025 (bp, 2020b). The 
+share of exports to the EU in total gas production in certain countries is 
+substantial and tied to existing pipeline routes. For example, the EU’s share of 
+total gas production in Algeria was 33% in 2019 and in Russia 28% (Eurostat, 
+2020b). For these two major supply countries, the majority of the gas is 
+delivered to the EU through pipelines. This indicates that incentives 
+introduced by the EU to address upstream methane emissions from its gas 
+supply chain could have a significant influence on certain gas suppliers, which 
+– even though they can expand their LNG liquefaction capacities and 
+alternative pipeline routes – are at least partially locked-in to supply gas to the 
+EU through existing gas infrastructure.  
+ 
+In this study, we 
+analyze the impacts 
+of an EU price on 
+upstream methane 
+emissions from 
+natural gas 
+production on all 
+gas imported into or 
+produced in the EU. 
+A price on methane emissions has promising properties among the policy 
+options under discussion for addressing upstream methane emissions from 
+the EU gas supply chain. Such a methane price could take the form of a 
+proportional penalty on natural gas that fails to meet a target upstream 
+methane emission intensity. In this study, we analyze the impacts of an EU 
+price on upstream methane emissions from natural gas production on all gas 
+imported into or produced in the EU. It is beyond the scope of this study to 
+assess legal options and consequences and the study therefore does not 
+explore what specific policy or regulatory mechanism could be used to 
+implement such a methane price.  
+This study analyzes pricing of upstream methane emissions on natural gas in 
+the EU at the levels of 25 and 100 €/tCO2eq in 2025. For both methane price 
+levels – 25 and 100 €/tCO2eq, respectively – we look at two different 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 6    
+ 
+scenarios. In the first – which we call the “CH4 Pricing with Producer 
+Abatement Response” scenario – we assume an abatement response by gas 
+producers to the EU methane price resulting in a 75% reduction in assumed 
+baseline emissions for the gas volumes exported to the EU. This assumption 
+is based on IEA analysis indicating that 70 - 80% of available abatement 
+measures would be cost-effective at methane price levels at or above 
+25 €/tCO2eq (IEA, 2020a). In a second scenario – the “CH4 Pricing without 
+Producer Abatement Response” scenario – we look at a case where no 
+additional abatement is happening in response to an EU methane price. This 
+second scenario represents a “worst-case” to assess the impacts of an EU 
+methane price where the main channels for impacts on methane emissions 
+are changes to EU gas demand and global gas trade flows rather than direct 
+abatement of methane emissions. Additional sensitivity checks were 
+conducted to explore the importance of the uncertainty in the assumed 
+regional emission intensities. 
+ 
+Global oil and gas 
+methane emissions 
+are highly uncertain, 
+both in terms of 
+scale and location of 
+emissions per 
+country/region. 
+Global oil and gas methane emissions are highly uncertain, both in terms of 
+scale and location of emissions per country/region. IEA estimates 82 million 
+tonnes (Mt) of methane per year from the global oil and gas sector, with 
+recent scientific studies pointing to a range of 80 - 140 Mt per year.1 Data on 
+methane emission levels and abatement costs is currently not granular 
+enough to define clear volume trajectories for market-based policy options.  
+ 
+A broad range of 
+scenarios and 
+assumptions is 
+considered to 
+assess potential 
+impacts on methane 
+emissions, the EU 
+gas supply mix and 
+natural gas prices. 
+We look at a broad range of scenarios and assumptions to assess potential 
+impacts on methane emissions, the EU gas supply mix and natural gas 
+prices. All while bearing in mind the context of large uncertainty around actual 
+methane emission intensities for gas imports from different supply regions. 
+We present assumed ranges for methane emission intensities intended to 
+represent the upstream methane footprint of natural gas from gas production 
+fields serving the EU. These methane emission intensities – with the 
+exception of the US – are based on IEA emissions data (IEA, 2020a) and 
+expert judgement. US numbers are based on empirical estimates from 
+Alvarez et al. (2018). Our main scenarios are based on assuming the central 
+baseline emission intensities from these ranges and should therefore be 
+considered illustrative only. 
+ 
+Under the CH4 
+Pricing with 
+Producer Abatement 
+Response scenario, 
+total global oil and 
+gas methane 
+emissions are 
+Under the CH4 Pricing with Producer Abatement Response scenario, 
+upstream methane emissions for the gas volumes exported to the EU 
+decrease by about 2.5 Mt CH4 (equivalent to 71 Mt CO2eq with Global 
+Warming Potential (GWP)100 and 210 Mt CO2eq with GWP20). This is in 
+comparison to a BAU scenario under the central baseline emission intensity 
+assumptions. When varying the methane emission intensity assumptions for 
+the major EU gas supply countries, the results indicate a reduction in total 
+                                                      
+1 See: IEA (2020a); Saunois et al. (2020); Schwietzke et al. (2016) and Hmiel et al. (2020). 
+ 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 7    
+ 
+reduced by up to 
+4%. 
+global oil and gas methane emissions under this abatement scenario of up to 
+4%.2 The extent of the methane emissions reduction at a methane price of 25 
+€/tCO2eq is the same as at a methane price of 100 €/tCO 2eq in the Producer 
+Abatement Response scenario, due to our assumption that 75% of baseline 
+emissions are cost-effective to abate at prices at or above 25 €/tCO2eq. A 2.5 
+Mt reduction in methane emissions corresponds to close to 2% of the EUs 
+total domestic greenhouse gas emissions in 2018 for the EU27 (Eurostat & 
+EEA, 2020) and would thus be substantial.3  
+If abatement could be extended beyond the volumes delivered to the EU from 
+gas supplying countries (i.e., 75% reduction in assumed baseline methane 
+emissions for all gas production in the supply countries) then global oil and 
+gas methane emissions could be reduced by 15 - 25%.4 This would be based 
+on the plausible assumption that if producers were to implement methane 
+mitigation activities at their production facilities these would not only apply to 
+the share of the production delivered to the EU, but also extend beyond those 
+gas volumes. In addition, if oil and gas producers in EU gas supply countries 
+were also to abate 75% of methane emissions from their oil production 
+facilities – e.g., in response to the adoption of comprehensive methane 
+policies and regulations in oil and gas buying countries and/or in the supply 
+countries themselves - the impact on global oil and gas methane emissions 
+could potentially be twice as large. 
+ 
+A methane price of 
+25 €/tCO2eq has a 
+relatively small 
+impact on the EU 
+gas supply mix. A 
+methane price of 
+100 €/tCO2eq has a 
+larger impact on the 
+EU gas flows.  
+A methane price of 25 €/tCO2eq has a relatively small impact on the EU gas 
+supply mix with or without a producer abatement response based on our 
+central baseline emission intensity assumptions. For example, if relatively 
+lower methane emissions intensities are assumed for production in the Middle 
+East, there is an increase in EU imports from that region, while if relatively 
+higher methane emission intensities are assumed for Russia, US and North 
+Africa, then a corresponding reduction in EU imports can be seen from those 
+regions. Sensitivity checks show that the supply mix is susceptible to changes 
+in assumed emission intensities. The overall effect on total gas production 
+volumes in gas supply countries is smaller due to the redirection of liquified 
+natural gas (LNG) volumes to markets other than those of the EU.  
+A methane price of 100 €/tCO2eq has a larger impact on the EU gas supply 
+mix but such impacts would be mitigated with a producer abatement response 
+(because such an abatement response would proportionally reduce the 
+methane price mark-up on EU gas import prices). These supply mix impacts 
+are larger because the modeling assumes fungibility of gas shipped through 
+pipeline and LNG infrastructure, i.e., that the market will redirect gas trade 
+flows via flexible LNG in response to high methane emission prices. 
+According to the modeling, producers with high methane emission intensity 
+                                                      
+2 Using a range for global oil and gas emissions of 80-140 Mt per year based on Saunois et al. (2020); Schwietzke et al. (2016) and 
+Hmiel et al. (2020). 
+3 Based on GWP100 conversion factors to CO2eq for non-CO2 gases. 
+4 Using the central baseline emission intensities and a range for global oil and gas emissions of 80 -140 Mt per year based on IEA 
+(2020a); Saunois et al. (2020); Schwietzke et al. (2016) and Hmiel et al. (2020). Applied to all EU relevant countries, r egardless if they 
+are exporting 50% or 1% of their gas to the EU. 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 8    
+ 
+would therefore deliver their gas elsewhere than to the EU, while producers 
+with low methane emissions would redirect trade flows to the European 
+Union. This modeling however, abstracts away from the details of existing 
+long-term contract and trading structures and political or administrative 
+constraints which may, in reality, constrain the opportunity to export gas to 
+other markets than the EU in the short to medium term.  
+ 
+The impact of a 
+methane price of 
+25 €/tCO2eq on EU 
+natural gas 
+wholesale prices is 
+low.  
+The impact of a methane price on EU natural gas wholesale prices is minimal 
+except for the case of a methane price of 100 €/tCO2eq without a producer 
+abatement response. At the end-use level, the impact of an EU methane price 
+on gas prices is smaller due to the large share of national taxes, levies, 
+distribution and other price components in end-use prices. The methane price 
+mark-up on the average EU residential gas price under the central baseline 
+emission assumptions, is between 1% at 25 €/tCO2eq and 5% at 
+100 €/tCO2eq. Both numbers are significantly lower if producers are assumed 
+to abate their methane emissions. Due to lower average end use prices for 
+the industrial sector, the methane price mark-up has a greater influence on 
+industry gas prices, resulting in potential price increases of less than 10%. 
+These numbers would similarly be significantly lower if gas producers are 
+assumed to abate their methane emissions in response to the EU methane 
+price. 
+ 
+Given emissions 
+data uncertainty our 
+main scenario 
+results should be 
+viewed as illustrative 
+examples of 
+potential impacts of 
+an EU methane 
+price on the EU 
+supply mix, gas 
+prices and methane 
+emissions. 
+Given emissions data uncertainty, our main scenario results should be viewed 
+as illustrative examples of potential impacts of an EU methane price on the 
+EU supply mix, gas prices and methane emissions. This is since they are 
+based on assumed methane emission intensities for the gas fields serving the 
+EU. We therefore performed additional sensitivity checks to explore the 
+importance of the uncertainty in the assumed regional emission intensities. 
+Our sensitivity checks focus on the uncertainty in the methane emission 
+intensity of gas from the main supply countries of Russia and Algeria and 
+indeed show that the size of the supply mix, gas price and methane emission 
+impacts are highly sensitive to assumptions regarding the level and relative 
+differences in methane emission intensities for different gas supply regions.  
+ 
+An EU price on 
+natural gas 
+proportional to 
+upstream methane 
+emission intensities 
+can have an impact 
+on global oil and gas 
+methane emissions 
+without significantly 
+raising consumer 
+gas prices in the 
+EU. 
+The main conclusion from this study is that an EU methane price on natural 
+gas proportional to upstream methane emission intensities can have an 
+impact on global oil and gas methane emissions if it creates sufficient 
+incentives for gas producers to implement abatement measures and could do 
+so without significantly raising consumer gas prices in the EU. To maximize 
+the global methane emission reduction potential of an EU methane policy, a 
+coalition of oil and gas buying countries built through the Commission’s 
+energy diplomacy will be needed to incentivize individual producers to 
+mitigate methane and motivate oil and gas producing countries to implement 
+their own policies to address their methane emissions. 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 9    
+ 
+3 Introduction & Objectives 
+After carbon dioxide, 
+methane emissions 
+are the second 
+largest contributor to 
+climate change. The 
+EU’s methane 
+emissions ‘footprint’ 
+in gas supply 
+countries could be 
+three and up to eight 
+times the domestic 
+methane emissions 
+from the EU gas 
+supply chain. 
+The EU has the ambition to significantly reduce greenhouse gas emissions 
+(GHG) in order to achieve the goal of climate neutrality by 2050. Various 
+policies and regulations support the achievement of energy-related 
+environmental and efficiency milestones for the years to come. Tightening 
+European and global GHG reduction targets requires continual adaptation of 
+regulations.  
+The public debate on climate change has so far mainly focused on carbon 
+dioxide, with some attention paid also to non-CO2 emissions. In this context, 
+there has been recent increasing focus on methane, a greenhouse gas with 
+an >80 times higher global warming potential than carbon dioxide over the 
+first 20 years after it is released. Anthropogenic methane emissions account 
+for roughly 60% of all global methane emissions, main sources being the 
+energy, agriculture, and waste sectors. The remaining 40% come from natural 
+sources such as wetlands (IEA, 2020a).  
+To acknowledge the importance of also addressing methane emissions for 
+reaching European climate targets, the European Commission (EC) recently 
+adopted its Methane Strategy. In the EU, methane makes up around 10% of 
+domestic EU total greenhouse gas emissions (EC, 2020a).5 While the largest 
+share of domestic EU methane emissions comes from agriculture with 53% 
+followed by 26% from waste,19% comes from the energy (oil, gas, and coal) 
+sector which is considered to offer the most cost-effective methane reduction 
+opportunities (EC, 2020b). Furthermore, these 19% of methane emissions 
+from the energy sector only include domestic emissions (e.g., emissions from 
+the production, processing, transmission and distribution of natural gas inside 
+the EU). Importantly, non-domestic ‘methane footprint’ emissions in producer 
+countries, related to production and transmission of natural gas for the EU 
+market could be three and up to eight times the domestic emissions from the 
+EU gas supply chain (EC, 2020b). Addressing the methane footprint of 
+imported gas is therefore an important element of a successful EU methane 
+strategy and something that the Commission acknowledged as a priority in its 
+Strategy.  
+Supply countries have various options to abate methane emissions. The IEA 
+estimates that around 75% of methane emissions from oil and gas production 
+are technically possible to abate. Around half of the technical abatement 
+potential is estimated to be available at negative or zero net costs and the 
+majority of the potential available at costs of less than 600 €/tCH4 (IEA, 
+2020a). Nevertheless, adoption of these cost-effective mitigation options 
+appears to be limited so far. Part of the explanation may lie in the commercial 
+                                                      
+5 Based on GWP100 conversion factors for non-CO2 gases 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 10    
+ 
+value of lost gas being of secondary importance if the cost of gas 
+transportation is high or if the local selling gas price is too low. It may also be 
+due to still relatively limited knowledge on producers’ part of their own 
+methane emissions, their sources and related cost-effective mitigation 
+opportunities. A policy that introduces a price on methane emissions could be 
+an incentive that spurs adoption of both methane measurement and detection 
+approaches as well as these cost-effective mitigation options. Against this 
+backdrop, Environmental Defense Fund (EDF) asked enervis energy advisors 
+GmbH to conduct a model-based impact assessment of the introduction of an 
+EU methane price on natural gas in proportion to the methane emissions 
+intensity of the gas production. 
+The objectives of 
+this study are to 
+analyze the impacts 
+of methane pricing 
+on gas flows to the 
+EU and on EU 
+natural gas prices 
+as well as on global 
+methane emissions. 
+This study analyzes the effect of methane pricing, not presuming what specific 
+policy or regulatory instrument would be used to implement the methane 
+price. We assume an introduction of a methane price without coordination 
+with other gas importing countries. The required analysis is based on enervis’ 
+GasTracks load flow model. We use this model to examine how methane 
+pricing could affect the gas flows to the EU and to what extent the change in 
+the EU supply mix could cause a reduction in methane emissions in the EU 
+and globally. We assume methane emission intensities for the different supply 
+regions with corresponding uncertainties – as further explained in Section 
+5.3.2. We include sensitivity checks to test the robustness of these results. 
+Furthermore, this study looks at some of the economic impacts of methane 
+pricing such as potential changes to EU natural gas prices in response to a 
+methane price. It is beyond the scope of this study to assess legal questions 
+and consequences. 
+ 
+  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 11    
+ 
+4 Status Quo and Policy Framework 
+ EU27 Natural Gas Markets (status quo and trends) 
+Global gas demand 
+is forecasted to 
+increase from just 
+under 4000 bcm in 
+2019 to almost 
+4300 bcm in 2025.  
+4.1.1 Demand by Region 
+Natural gas has played an important role in the past and will continue to do so 
+for the next decades. The global demand is forecasted to increase from just 
+under 4000 billion cubic meters (bcm) in 2019 to almost 4300 bcm in 2025  (bp, 
+2020a) – see Figure 1 for projected gas demand by region. The EU’s demand 
+is forecasted to decrease by around 3% by 2025, when the EU’s share of 
+global gas demand is predicted at 9% (bp, 2020a).6 The implementation of the 
+European Green Deal, progress in energy efficiency and market growth of low 
+carbon gases is forecasted to decrease natural gas demand in the industrial, 
+residential and buildings sector.  
+ 
+ 
+Figure 1: Gas Demand by Region 
+The main areas of natural gas use in the EU remain the power sector as well 
+as the industrial heating and building sector. In the power sector, gas is 
+expected to compensate for the decline in coal and nuclear capacities. As 
+indicated in Figure 2, the 2019 to 2025 change in EU gas consumption share 
+per sector is almost negligible. 
+ 
+ 
+ 
+                                                      
+6 EU market after Brexit 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 12    
+ 
+ 
+ 
+Figure 2: EU Gas Application (IEA, 2020b) 
+A strong decline in 
+EU gas production 
+is expected and 
+therefore the EU’s 
+import dependency 
+is increasing. 
+4.1.2 Forecasted Natural Gas Production in Europe 
+In 2019 around 15% of the EU’s natural gas consumption was covered by 
+domestic production (Eurostat, 2020a). The remaining 85% had to be imported 
+from supply countries outside EU borders. Furthermore, a strong decline in EU 
+production is expected. The Netherlands’ decision to terminate production at 
+the Groningen gas field by 2022 and reduce small field production by more 
+than 90% by 2040 combined with the UK’s exit from the EU will significantly 
+hamper domestic production and increase the EU’s dependence on imports 
+(MEACP, 2019). France and Spain have a strong regasification capacity 
+position which will lead to an increasing role for LNG imports in Europe. Even 
+considering the projected decreases in future gas consumption, the EU’s 
+dependency on gas imports is set to increase.  
+Net natural gas 
+imports are 
+forecasted to 
+decrease. Russia, 
+Norway, Algeria, 
+and Qatar are 
+currently the EU’s 
+largest natural gas 
+suppliers. 
+4.1.3 EU27 Import Structure 
+The EU is currently the world’s biggest importer of fossil fuels, including natural 
+gas (EC, 2020b). However, absolute natural gas import volumes are 
+forecasted to decrease (bp, 2020a). Russia and Norway are currently the EU’s 
+largest natural gas suppliers (see Figure 3). Together with the EU’s own 
+production they account for around 75% of natural gas used in the EU. In 2019 
+Russia’s exports accounted for 41% of the EU’s total gas volumes while 
+Norway’s accounted for 21%. Algeria and Qatar exported 29 and 26 bcm of 
+natural gas to the EU27 in 2019, respectively, which each accounted for 6% of 
+total EU gas volumes (Eurostat, 2020b).  
+Ensuring gas supply security, flexibility and optionality, and diversification of 
+sources is key. That includes not only the supply by different regions, but also 
+the addition of flexible, traded liquified natural gas (LNG). The EU places a 
+premium on flexible gas supplies that include uncontracted pipeline supply as 
+well as uncontracted and divertible (i.e. option to redirect to more economical 
+locations) LNG. This is secured through a variety of pipeline connections as 
+well as LNG terminals that can be seen in Figure 4.  
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 13    
+ 
+The biggest importers of natural gas in 2019 were Germany (23%), Italy (10%) 
+and the Netherlands (10%) (Eurostat, 2020a). The total share of LNG in EU 
+gas imports in 2019 was 22% (Eurostat, 2020b). Most of it was supplied by 
+Qatar and Nigeria. In this context, Spain and France were the major LNG 
+importers. 
+ 
+ 
+Figure 3: EU Natural Gas Import Structure 2019 (Eurostat, 2020a), (Eurostat, 2020b) 
+ 
+ 
+Figure 4: EU Entry Points – Per Pipeline and LNG (Assumptions for 2025 in GasTracks) 
+The EU share of 
+export volumes is 
+68% in Algeria and 
+74% in Russia. 
+ 
+As can be seen in Figure 5, even though the EU’s share of global gas demand 
+is relatively small, various export countries are heavily dependent on the ir EU 
+partnership. For example, Norway exports 86% of its total gas production to the 
+EU (corresponding to 87% of all gas exports from Norway ). Algeria exported 
+approximately one third of its  production to the EU (68% of Algerian gas 
+exports), while Russia exported roughly one quarter of its total production to the 
+EU (with the EU buying 74% of total gas exports from Russia). For these three 
+major supply countries, the majority of the gas is delivered to the EU through 
+pipelines, physically connecting production to consumption . This goes to show 
+that EU decisions can have a significant influence on certain gas supply 
+countries which – even if they decide to grow their LNG liquefaction capacities - 
+are at least partially loc ked-in to supply gas to the EU through existing gas 
+pipeline routes. 
+ 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 14    
+ 
+ 
+Figure 5: EU Share of Supplier Gas Production and Exports in 2019 (Eurostat, 2020b), (IEA, 2020b), (bp, 2020b) 
+ EU Methane Strategy 
+In its October 2020 
+Methane Strategy, 
+the European 
+Commission 
+committed to 
+engage in a 
+dialogue with its 
+international 
+partners and 
+explore possible 
+standards, targets 
+or incentives for 
+energy imports to 
+the EU.  
+The EU Commission’s October 2020 Methane Strategy recognizes methane 
+emission reductions as essential to reaching European 2030 climate targets 
+and the 2050 climate neutrality goal and relies on a holistic approach that 
+combines sector-specific with cross-sectoral actions and promotes 
+international cooperation. The recent Impact Assessment for the EU 2030 
+climate target plan found that major reductions in non-CO2 emissions are 
+necessary to reach the EU’s climate goals and also highlighted that action in 
+the energy sector is the most cost-effective in terms of methane emissions 
+reduction potential. Estimates also show, that methane emissions from the gas 
+and oil sector make up for more than half of total methane emissions in the 
+energy sector (EC, 2020b). 
+The EU Methane Strategy includes various measures to decrease methane 
+emissions in the EU but also includes responsibilities that are focused on the 
+international market. Improving data quality by ensuring the application of more 
+accurate data collection and reporting methodologies is one of the key cross-
+sectoral objectives. The Strategy states that companies should apply the 
+measurement and reporting framework protocols provided by the voluntary 
+initiative Oil and Gas Methane Partnership (OGMP). The newly developed 
+OGMP 2.0 standard improves methane reporting by requiring companies to 
+incorporate measurement-based emission estimates (instead of using simple 
+emission factors) and also requires companies to report emissions on all their 
+assets, including assets owned by the company but operated by another entity. 
+Additionally, the EU’s Copernicus program and other projects providing 
+satellite-based methane quantification such as MethaneSAT are set to expand 
+capacity to detect methane leaks across the globe and enhance data quality 
+globally. 
+To collect, verify and publish anthropogenic methane emissions on a global 
+scale, UNEP, the EC, and various partners are developing the International 
+Methane Emissions Observatory (IMEO).  
+ 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 15    
+ 
+In this context, this independent observatory would among other things be 
+tasked with the establishment of a methane supply index (MSI) to provide 
+reliable information about the methane footprint of gas supply corridors to 
+buyers or importers. To start, the MSI could be based on existing methane 
+emissions data, provided by national GHG inventories, but with the ambition of 
+continuous improvement in regards to future data quality on domestic and 
+international supply chains.  
+To tackle emissions the focus of the Strategy lies on the prevention of venting 
+and flaring as well as on improving data collection. The Commission will 
+propose corresponding legislation for quantification and reporting standards, 
+based on the OGMP2.0 methodology, in 2021. Additionally, the Commission 
+plans to propose mandatory improvements in leak detection and repair 
+programs for the entire European oil and gas infrastructure in addition to flaring 
+efficiency standards (EC, 2020b). 
+The strategy also includes measures to improve international cooperation. This 
+is an important factor, as estimates show that external methane emissions that 
+are related to the EU’s consumption could be 3 to 8 times higher in comparison 
+to the EU’s domestic gas supply chain emissions (EC, 2020b). Therefore, the 
+EC is eager to improve accurate data collection in partner countries which 
+could be possible through joining the OGMP or provisioning of technical 
+assistance in mitigation, monitoring and reporting. The Commission also 
+committed to engage in a dialogue with its international partners and to explore 
+possible standards, targets or incentives for energy imports to the EU as well 
+as the tools for enforcing them. Even though the proposed methane supply 
+index could act as a potential starting point for methane pricing, so far, the 
+Strategy does not explore options to put a price on methane emissions. 
+Against this backdrop, this study explores the potential impacts of an EU 
+methane price on upstream emissions for natural gas (but does not explore 
+which specific policy or regulatory instruments could be used to implement 
+such a price).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 16    
+ 
+5 GasTracks Load Flow Model, Scenarios & Core Assumptions 
+This chapter establishes the scenario framework as well as core assumptions underlying the modeling. 
+ enervis’ GasTracks Load Flow Model 
+The marginal-cost 
+optimization model 
+of the global gas 
+market derives load 
+flows based on a 
+large set of detailed 
+assumptions and 
+input data and takes 
+gas pipeline 
+capacity constraints 
+into account.  
+The following figure shows a schematic overview of inputs, outputs and the 
+method of enervis’ GasTracks Load Flow Model. 
+The model is a comprehensive load flow model for the analysis of gas 
+markets. It is based on wide-ranging fundamental data. Based on our 
+experience from European markets, we apply our modeling approach to a 
+wider geographic scope. Hence the model incorporates the relevant market 
+drivers and provides a comprehensive view on future developments of load 
+flows. Although GasTracks is capable of considering long-term gas contracts 
+to a certain degree, we assume that production and trading happen according 
+to economic signals. GasTracks’ simulation works by balancing worldwide 
+and European gas flows for the respective scenarios while taking gas 
+transportation capacity (including pipeline capacity) constraints into account. 
+ 
+ 
+Figure 6: enervis' GasTracks Load Flow Model 
+ Scenarios 
+We are looking at a 
+broad range of 
+scenarios and 
+assumptions to 
+assess potential 
+impacts on methane 
+emissions, the EU 
+gas supply mix and 
+natural gas prices. 
+For better interpretation of the results, the following table shows the 
+assumptions for the modeling in the two policy scenarios and the business as 
+usual (BAU) scenario, with the columns representing the scenarios and the 
+rows the central premises. The assumptions where chosen based on 
+discussions with EDF.  
+The scenarios focus only on upstream emissions, i.e. methane emissions that 
+arise at gas production. The emissions caused by transmission or distribution 
+of volumes are not considered in this study and are therefore not charged with 
+a methane price, but would ideally be addressed with domestic EU 
+regulations including LDAR regulations as well as measures to address gas 
+transmission emissions outside EU borders.  
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 17    
+ 
+Furthermore, we do not include methane emissions from coal and petroleum 
+production and focus exclusively on gas production (i.e., gas production fields 
+serving the EU with consideration given to the co-production of oil and gas in 
+the US). The analysis includes the countries of the EU27, i.e. Brexit is 
+considered. 
+ 
+  
+Figure 7: Overview of Core Assumptions 
+“Business as usual” functions as a baseline scenario for the assessment 
+and does not include any sector-specific policy on methane nor sustainability 
+requirements on gas. No price is introduced on methane emissions and there 
+is no abatement response assumed. The upstream methane emissions relate 
+to the central estimate baseline emission intensities assumed for each supply 
+region and are presented in Section 5.3.2. which describes the assumptions 
+regarding methane emission intensities for different gas supply countries.  
+The “CH4 Pricing without Producer Abatement Response” scenario 
+assumes the introduction of a methane price on all gas traded (both in the 
+spot and long-term contract market) in the EU but without any abatement 
+happening in response to an EU methane price. The upstream methane 
+emissions are based on the assumed central estimate baseline emission 
+intensities as in the BAU and presented in Section 5.3.2. To allow a broader 
+range of impacts, we look at two methane price levels - 25 €/tCO2eq and a 
+notional price of 100 €/tCO2eq, respectively.  
+The “CH4 Pricing with Producer Abatement Response” scenario also 
+assumes the introduction of a methane price on all gas traded (both in the 
+spot and long-term contract market) in the EU but here we assume an 
+abatement response of 75% reduction in baseline emissions for the EU share 
+of gas production volumes in the gas producing countries. This assumption is 
+based on IEA analysis and expert judgement indicating that 70 - 80% of 
+methane emissions from gas production would be cost-effective to abate at 
+methane prices of 25 €/tCO2eq (with a GWP100 of 28 for methane) and above. 
+75% abatement below baseline emissions only for gas volumes produced for 
+export to the EU is also a conservative assumption, since if companies adopt 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 18    
+ 
+abatement measures, it would most likely affect a larger share of gas 
+production volumes than just the EU share. The upstream methane emissions 
+are based on the assumed abatement emission intensities as presented in 
+Section 5.3.2. Similar to the previous scenario, we look at two methane price 
+levels - 25 €/tCO2eq and a notional price of 100 €/tCO2eq. We do not assume 
+additional abatement beyond 75% at the higher price level. The methane 
+price is applied to every unit of emission above zero.  
+This scenario setup allows us to infer EU supply mix as well as gas price 
+impacts of a methane price by comparing the CH4 pricing scenarios with the 
+BAU scenario depending on abatement levels and methane price levels.  
+An additional sensitivity analysis allows for a deeper assessment of the 
+uncertainty in methane emission intensities and related supply mix effects 
+through variations in these assumptions for two main supply countries, i.e. 
+Russia and Algeria (see Section 7). 
+ Core Assumptions 
+Up to 75% of 
+upstream gas supply 
+chain methane 
+emissions are 
+considered to be 
+cost-effective to 
+abate at methane 
+prices of 
+25 €/tCO2eq. and 
+above. 
+5.3.1 Abatement Incentive and Potential 
+One key assumption for the CH4 Pricing with Producer Abatement Response 
+scenario is the abatement potential. 
+Based on IEA (2020a), methane emissions from gas production (i.e., 
+upstream methane emissions from the gas supply chain) can with today's 
+technologies be cost-effectively reduced by up to 75% at methane prices of 
+700 €/tCH4 (equivalent to 25 €/tCO2eq assuming a GWP100 for methane of 
+28). There is a high level of uncertainty surrounding the distribution of 
+abatement opportunities across sources, categories and across countries. It 
+may be technologically feasible to reduce more than 75%, but such measures 
+may not necessarily be cost-effective, even at a high methane price.  
+Methane emissions occur along the supply chain of natural gas and oil (i.e. 
+production, processing, transmission & storage, and distribution). To 
+incentivize abatement, a methane price needs to be above abatement cost. 
+Studies show that, to maximize social welfare, the emissions price should in 
+principle be set at the level given by the social damage cost of methane 
+emissions. The German Federal Environment Agency estimates a methane 
+damage cost of around 5460 €/tCH4 (195 €/tCO2) for methane emitted in 2020 
+(UBA, 2020).7 This estimate can be compared to the previously discussed 
+assessment that up to 75% of upstream methane emissions from gas are 
+cost-effective to abate at prices at or above 700 €/tCH4. 
+ Since a large part of abatement measures is estimated to already be possible at 
+negative or zero net cost (e.g. blowdown capture), additional factors likely play a 
+role in the possible abatement decision process, e.g. missing information on the 
+magnitude of methane emissions per source, and which specific sources 
+account for the majority of emissions for a given operator. This indicates that a 
+                                                      
+7 German Federal Environment Agency is assuming a GWP100 = 28  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 19    
+ 
+portfolio approach in regards to policy choice to address methane emissions, 
+including regulation, is useful, since the private value of capturing emitted gas 
+alone does not seem to provide sufficient incentives. 
+The EC’s Impact Assessment illustrates that a carbon pricing scheme for non-
+CO2 emissions provides significant reduction potential, even at moderate price 
+levels (EC, 2020a). Corresponding expectations regarding the low cost of 
+abatement measures were also confirmed by further investigation into the 
+mitigation potential for methane emissions from US gas production (Marks, 
+2019). 
+For our modeling, it can be concluded that there is a high abatement potential 
+for methane emissions at relatively low cost, especially in the energy sector.  
+The uncertainty 
+regarding methane 
+emission intensities for 
+different gas producing 
+regions is high. This 
+study only considers 
+upstream emission 
+intensities, i.e. 
+methane emissions 
+from the production 
+stage of the gas supply 
+chain. 
+5.3.2 Assumed Methane Emissions Intensities for Gas Production 
+One of the most important assumptions for all scenarios is the country specific 
+methane emissions intensity, i.e. methane emissions divided by gross natural 
+gas production. The data quality of methane emission levels is low, causing 
+great uncertainty. The current emission intensities for the EU supply countries 
+are largely based on simple, generic estimates (i.e., not on empirical data), with 
+the exception of the US where recent scientific studies have updated emission 
+estimates across the oil and gas supply chain based on direct measurements 
+(see Alvarez et al. 2018). 
+The assumed methane emissions intensity ranges presented in Table 1 were 
+provided by EDF. The ranges were developed to reflect data quality and 
+uncertainty based on EDF expert judgment. The upper and lower bound 
+emission intensities are intended to represent the uncertainty in emission 
+intensities and form the limits for later sensitivity analysis in Section 7 which is 
+focused on assessing the impact of different emission intensities on the results 
+of our analysis. 
+The central baseline methane emission intensities in Table 1 are based on the 
+IEA Methane Tracker database for upstream methane emissions attributed to 
+gas production in each country, except for the US, where the estimates are 
+based on empirically-based estimates from Alvarez et al. (2018). The US 
+estimates reflect average methane emissions for US oil and gas production (i.e., 
+representing co-production from oil and gas since gas exported to the EU could 
+be coming from different basins across the US). The associated uncertainty for 
+the US is significantly lower compared to other countries because of the recent 
+empirical characterization of emissions (see Alvarez et al. 2018). 
+Upstream here refers to production facilities and does not include processing  
+and gas transportation. The estimates in Table 1 are assumed to represent 
+emission intensities for gas fields serving the EU except for the US where the 
+national average methane emission intensity was used.  
+Table 1 also shows the 75% reduction in the central baseline emissions intensity 
+as a result of cost-effective abatement in response to the methane price. This 
+75% below central baseline emissions represents already existing mitigation 
+opportunities be it through technology upgrades or other mitigation measures 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 20    
+ 
+which are cost effective at a price of 25 €/tCO2eq or above based on IEA 
+assessment (see preceding Section 5.3.1.). 
+ 
+Table 1: Assumed Methane Emission Intensity Ranges for Gas Production by Supply Country (EDF); descending 
+sorted by quantity of gas volumes supplied to the EU (green = below 1% and red = above 2%) 
+ Central Baseline 
+Estimates 
+Lower Bound 
+Baseline 
+Estimates 
+Upper Bound 
+Baseline 
+Estimates 
+75% Abatement 
+Below Central 
+Baseline 
+Estimates 
+Russia 1.3% 0.0% 2.5% 0.3% 
+Norway 0.01% 0.01% 0.01% 0.0% 
+Algeria 1.6% 0.0% 3.2% 0.4% 
+Nigeria 1.2% 0.0% 2.5% 0.3% 
+Netherlands 0.01% 0.01% 0.02% 0.0% 
+US 2.2% 1.8% 2.5% 0.5% 
+Trin. & Tob. 0.3% 0.0% 0.7% 0.1% 
+Libya 5.1% 0.1% 10.2% 1.3% 
+UK 0.2% 0.1% 0.3% 0.0% 
+Romania 0.9% 0.0% 1.8% 0.2% 
+Eq. Guinea. 1.5% 0.0% 2.9% 0.4% 
+Egypt 1.1% 0.0% 2.2% 0.3% 
+Qatar 0.3% 0.0% 0.6% 0.1% 
+Yemen 5.3% 0.1% 10.5% 1.3% 
+Angola 6.7% 0.1% 13.4% 1.7% 
+U. A. E8 0.7% 0.0% 1.5% 0.2% 
+Oman 1.2% 0.0% 2.3% 0.3% 
+ 
+IEA (2020a) estimates 82 Mt CH4/yr, with recent scientific studies pointing to a 
+range of 80 - 140 Mt CH4/yr of global oil and gas methane emissions.9 This 
+range illustrates the uncertainty in methane emissions from the oil and gas 
+sector.  
+The methane price 
+of 25 €/tCO2eq is on 
+the expected level of 
+the EU-ETS price in 
+2025. A notional 
+price of 
+100 €/tCO2eq is also 
+considered to 
+extend the range of 
+impacts. 
+ 
+5.3.3 Methane Price 
+The first examined price is 25 €/tCO2eq which corresponds to 700 €/t of 
+methane emissions.10 This price represents a price level that corresponds to 
+the expected level of the EU ETS price in 2025.  
+A second price of 100 €/tCO2eq is introduced to represent a notional price 
+level which extends the range of scenarios to include larger possible impacts 
+and more forward-looking forecasts. Equivalent to 2800 €/tCH4 when using a 
+GWP for methane of 28, it is still lower than the German Federal Environment 
+Agency’s social cost of methane estimate of 5460 €/tCH4 (UBA, 2020). 
+                                                      
+8 United Arab Emirates 
+9 See: IEA (2020a); Saunois et al. (2020); Schwietzke et al. (2016) and Hmiel et al. (2020). 
+10 Assuming GWP100 = 28 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 21    
+ 
+Comparing historical carbon prices and various estimates for future 
+developments in Figure 8, the initial methane price of 25€/tCO2eq is amongst 
+low average expected 2025 carbon prices. 
+ 
+ 
+Figure 8: Literature Review Future CO2 Price (enervis)11 
+The production 
+costs of different 
+countries vary 
+greatly. 
+ 
+5.3.4 Costs of Production and Transport 
+Upstream gas production costs are determined by two components. Firstly, 
+the extraction of natural gas directly incurs costs per unit lifted. This variable 
+cost component is constituted of operating expenses, which are required to 
+run the extraction facilities. Additionally, the facilities, infrastructure and 
+equipment required to extract natural gas require large upfront and smaller 
+recurring investments. These are allocated to the natural gas unit costs by a 
+fixed component. Hence, we approximate the gas production costs by country 
+based on the direct lifting costs and the investment environment in the 
+country’s natural gas industry (see Figure 9). 
+Data for our estimations is gathered from various sources. enervis collects 
+information about operating expenses and the investment environment from 
+natural gas upstream companies’ annual and financial reports. We then 
+combine this information with higher level industry reports from associations, 
+and national or supranational agencies, then use academic literature to 
+improve and verify our estimates. Where applicable, we moreover consider 
+mineral extraction taxes to accurately represent country-specific production 
+costs. 
+Countries in the Middle East, like Qatar, are located at the lower end of the 
+cost range because of their vast and easily accessible natural gas resources 
+and large-scale production. Similarly, North African countries, like Algeria and 
+Nigeria, can extract natural gas at moderate costs. Average producer prices 
+for developed countries with large natural resource extraction industries and 
+accessible gas depots, such as Russia, the Netherlands and the US, are 
+                                                      
+11 MCC, PIK 2019: Optionen für eine CO2-Preisreform; Sandbag 2019: Sandbag, Halfway There - Existing policies put Europe on track 
+for emission cuts of at least 50%; WEO 2018/2019: IEA, World Energy Outlook; TYNDP 2020: ENTSOG, ENTSO-E, TYNDP 2020 
+Scenario Report; DIW 2020: DIW, Klimaschutz statt Kohleschmutz: Woran es beim Kohleausstieg hakt und was zu tun ist  
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 22    
+ 
+estimated above North African producer price levels. Here, it is important to 
+note that a large share of Russian upstream costs is due to the Mineral 
+Resources Extraction Tax that applies to natural resource extraction on 
+Russian territory. Lastly, states with difficult to access natural gas reservoirs, 
+like Norway and the United Kingdom, are estimated to produce at high cost. 
+EU production costs are rather irrelevant as production capacity is limited.  
+Transport costs to 
+the EU border are 
+estimated based on 
+distances, available 
+routes and load 
+flows.  
+Transport costs are significantly different between LNG shipping and 
+transmission by pipeline. Pipeline transmission is characterised by higher cost 
+efficiency and is cheaper than LNG shipping. However, leaks and the need for 
+propellant gas lead to more substantial losses compared to LNG shipping. 
+These underlying factors are used to calculate supply costs to the European 
+borders. Here, transport routes and their distances are weighted with the load 
+flows simulated in our model to represent actual transport distance and load, 
+rather than theoretical minimum or average costs. Furthermore, pipeline 
+routes account for indirect transport through intermediary countries, while 
+LNG shipping is considered intermediary free. 
+Ultimately, aggregated transport costs from gas field to the EU border range 
+from less than 1 €/MWh for nations in close proximity to the EU that utilise 
+pipelines like the United Kingdom and Norway, to almost 6 €/MWh for the US 
+or countries in Asia that rely on long distance LNG shipping. 
+ 
+ 
+Figure 9: Costs of Production and Transport for Major Gas Suppliers to the EU 
+The effect of 
+methane pricing on 
+EU gas demand is 
+estimated using an 
+aggregate own-price 
+demand elasticity for 
+gas and is estimated 
+to be rather small. 
+5.3.5 Demand Elasticities 
+The price elasticity of natural gas demand describes how variations in the 
+natural gas price affect the demand for natural gas. It is important to 
+distinguish between short term and long-term price elasticities because the 
+demand for natural gas is related to energy infrastructure with long lifespans 
+and high investment costs. Therefore, short term price changes, in general, 
+do not diminish gas demand significantly. Since this study’s time horizon is 
+2025, no major changes in infrastructure and asset base are expected and a 
+short-term demand elasticity is used. By sampling academic literature about 
+commodity and gas demand price elasticity, we find that the gas price 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 23    
+ 
+elasticity is rather low and represented by an average elasticity of -0.2.12 
+Thus, a 10% increase in natural gas price would reduce gas demand by 2%. 
+We apply this on the wholesale gas price. Consequently, only minor 
+reductions in EU gas demand are expected as a result of increased gas 
+prices from applying a methane price. Resulting from these assumptions, the 
+effect on gas demand by the application of a methane price of 25 €/tCO2eq is 
+quantified as a minor 0.8% demand decrease in the “CH4 Pricing without 
+Producer Abatement Response” scenario and a 0.4% decrease in the “CH4 
+Pricing with Producer Abatement Response” scenario.  
+ 5.3.6 Additional Information 
+The results from the modeling are generated for predefined regions. The 
+supply from Russia includes EU imports from Ukraine and Belarus, as these 
+two countries purchase gas from Russia and trade it to the EU. Consequently, 
+the source of production remains Russia. The region ‘North Africa’ includes 
+the countries Algeria, Libya and Egypt while Qatar, Yemen and the United 
+Arab Emirates are combined into ‘Middle East’. The aggregate of all 
+remaining countries, such as Trinidad & Tobago, Angola, Nigeria and 
+Equatorial Guinea are referred to as ‘Other’. 
+Norway already has a carbon tax in place that is applied to methane 
+emissions that occur at the production of oil and gas. For 2021, the tax rate is 
+proposed to be around 52 €/tCO2 for the combustion of natural gas and 
+1376 €/t for methane leaked to the atmosphere (Norwegian Petroleum, 
+2020).13 This methane price translates to 49 €/tCO2eq for methane using a 
+GWP100 of 28. Additionally, Norway is part of the EU Emissions Trading 
+System since 2008. The fact that Norway already has a tax on methane 
+emissions is neglected in the modeling because the used emission intensity 
+for Norway as seen in Section 5.3.2 is very close to zero and by implication, 
+so is the associated methane price mark-up on Norwegian gas. 
+All relevant LNG routes are considered and no extra conditions for future LNG 
+use are in place.  
+This modeling abstracts away from the details of existing long-term contract 
+and trading structures. However, price adjustment clauses could enable 
+adaption to methane pricing and its consequences for gas volumes traded 
+under long-term contracts. Furthermore, the modeling does not consider 
+political or administrative constraints which may constrain the opportunity to 
+export gas to other markets than the EU in the short to medium term.  
+  
+                                                      
+12 Liu (2004). Estimating energy demand elasticities for OECD countries: A dynamic panel data approach. 
+Sønstebø (2012). The impact of natural gasexports from the U.S. to Europe . 
+Asche et al (2008). Natural Gas Demand in the European Household Sector . 
+Andersen et al (2011). How is demand for natural gas determined across Europe an industrial sectors?. 
+Bilgili (2014). Long Run Elasticities of Demand for Natural Gas: OECD Panel Data Evidence . 
+Bernstein & Madlener (2011). Residential Natural Gas Demand Elasticities in OECD Countries An ARDL Bounds Testing Approach. 
+13 With 1 NOK = 0.095 € (Dec 2020) 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 24    
+ 
+6 Results 
+In this chapter we show the core results building on the scenarios and assumptions presented 
+previously and the respective GasTracks model simulations. 
+ Price Mark-Ups 
+Methane emission 
+intensities for the 
+gas supply countries 
+are largely 
+unmeasured (with 
+the exception of US) 
+and therefore very 
+uncertain. 
+Consequently, price 
+mark-ups are 
+characterized by 
+uncertainty, too. 
+Sensitivity checks 
+are presented in 
+Section 7. 
+First, we look at what the methane price levels of 25 €/tCO2eq and 
+100 €/tCO2eq imply in terms of mark-ups above gas production costs. The 
+mark-ups due to the methane price are by construction proportional to the 
+methane emission intensity of gas production. Figure 10 shows the gas price 
+mark-ups as a function of the methane emission intensity for methane price 
+levels of 25 €/tCO2eq (grey line) and 100 €/tCO2eq (blue line) respectively.  
+ 
+ 
+Figure 10: Price Mark-Up Function 
+Figure 11 shows the price mark-ups which result for the gas supply from each 
+country based on the respective assumed central baseline emission 
+intensities presented in Section 5.3.2. Countries with low emission intensities 
+obtain low price mark-ups and vice versa. The error bars correspond to the 
+upper and lower bound baseline emission intensities presented in Table 1.  
+The effect of the emission intensities at a price of 25 €/tCO2eq is relatively 
+low, with mark-ups above 1 €/MWh for production in Angola, Yemen, Libya 
+and the US. Applying the upper bound baseline estimate emission intensities, 
+mark-ups are above 4 €/MWh in Yemen and Libya and above 6 €/MWh in 
+Angola, respectively.  
+In contrast, the price of 100 €/tCO2eq has a much stronger impact, with most 
+mark-ups being around 2 €/MWh and for some production regions at around 
+10 to 12 €/MWh using the central baseline emission intensities.  
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 25    
+ 
+ 
+Figure 11: Price Mark-Ups (above gas production costs) at 25 €/tCO2eq and 100 €/tCO2eq; based on assumed 
+central baseline emission intensity estimates and error bars indicating the range with the lower and upper 
+bound emission intensities from Table 1; countries ranked by quantity of gas volumes supplied to the EU  
+Figure 12 shows the mark-ups which result for the gas supply from each 
+country based on the respective assumed abatement emission intensities 
+presented in Table 1, Section 5.3.2. With a reduced emission intensity, as a 
+result of applied abatement measures, the methane price of 25 €/tCO 2eq has 
+almost no impact with most mark-ups being under 0.4 €/MWh. However, the 
+100 €/tCO2eq methane price leads to higher mark-ups despite lower emission 
+intensities and closely corresponds to the mark-ups at 25 €/tCO2eq with no 
+abatement assumed. 
+As one would expect, a methane price impacts regions with a higher methane 
+emission intensity more strongly than regions with lower intensity. Due to the 
+high uncertainty in methane emission intensities, the relative position of 
+countries in Figures 13 and 14 is highly uncertain and only illustrative. 
+ 
+ 
+Figure 12: Price Mark-Ups (75% abatement below central estimates) at 25 €/tCO2eq and 100 €/tCO2eq; based 
+on assumed abatement emission intensity estimates from Table 1 ; countries ranked by quantity of gas volumes 
+supplied to the EU 
+ 
+ 
+ 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 26    
+ 
+ Price-Wise Order of Supply Cost 
+With a methane 
+price countries/ 
+regions with lower 
+emission intensities 
+become more cost 
+competitive in the 
+EU market. 
+Countries with 
+higher emission 
+intensities 
+experience the 
+opposite effect. 
+Based on the central baseline methane emission intensities we assumed in 
+Section 5.3.2, we analyze the effect of a methane price on the cost 
+competitive positioning of production regions. To do so, we look at an 
+indicative merit order of supply cost. The position of a country represents 
+competitiveness, the “further to the left” the better its competitiveness. 
+Calculations indicate that countries with lower emission intensities and 
+therefore lower mark-ups become more cost competitive. As one would 
+expect, countries with higher emission intensities experience the opposite 
+effect. With abatement, this effect is significantly reduced. 
+The large 
+uncertainty 
+regarding relative 
+emission intensities 
+between supply 
+countries leads to 
+uncertainties 
+regarding presented 
+impacts on EU gas 
+supply costs. 
+Figures 13 and 14 both include production costs, costs of transportation as 
+well as methane price mark-ups. Hence, bundled EU supply costs include 
+several elements: country of origin production costs, transport costs to the 
+EU border, cost of lost gas, liquefaction and regasification costs (when 
+applicable) and the price mark-up based on the assumed central baseline 
+emission intensities presented in Table 1.  
+At 25 €/tCO2eq the mark-up does not significantly influence cost-
+competitiveness and thus does not provide strong incentives for gas buyers 
+to shift their gas supply. Later sensitivity checks confirm this statement to a 
+large extent, except for countries with very high assumed emission 
+intensities, e.g. Libya.  
+The mark-up share in total supply cost is significant at 100 €/tCO2eq and with 
+no abatement response. This high price favors countries with lower emission 
+intensities and therefore impacts relative cost-competitiveness between 
+supply countries. For example, at 100 €/tCO2eq with no producer abatement 
+response, methane pricing favors Norway. 
+The cost of EU production is not a factor in this case, as the production 
+capacities in the modeling for 2025 are quite fixed at around 42 bcm in total. 
+ 
+ 
+Figure 13: Price-Wise Order of Supply Cost (CH 4 Pricing without Producer Abatement Response) 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 27    
+ 
+ 
+Figure 14: Price-Wise Order of Supply Cost (CH4 Pricing with Producer Abatement Response) 
+ Impacts on the EU Gas Flows  
+Methane pricing 
+reduces EU imports 
+from countries with 
+high emission intensity, 
+with effect almost 
+negligible at 
+25 €/tCO2eq and more 
+significant at 
+100 €/tCO2eq. 
+6.3.1 Supply Countries 
+Based on the central baseline methane emission intensities we assumed in 
+Section 5.3.2, we here analyze the effect of a methane price on the import 
+structure of the EU. Please note, that a reduction in imports from a country does 
+not imply that production in that country is reduced accordingly.  
+The following figure shows a comparison of the EU supply mix in 2019 and 2025 
+in the BAU scenario. In contrast to the supply mix in 2019, the EU’s own 
+production, as expected, has decreased (see Section 4.1.2). Around 60% of the 
+EU’s natural gas demand is still provided by Russia and Norway. The LNG 
+share has increased from 22% in 2019 to 28% in 2025, with Russia and Nigeria 
+being the main supply countries for LNG. 
+ 
+ 
+Figure 15: EU Supply Mix 2019 (Eurostat, 2020b) vs BAU Scenario in 2025 (enervis‘ GasTracks model)14  
+                                                      
+14 The figure for 2025 shows results from cost-optimization in the GasTracks model and is therefore only partially comparable with the 
+Eurostat figure for 2019. Furthermore, no long-term contracts were considered. 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 28    
+ 
+Figures 16 shows the EU supply mix under CH4 pricing without producer 
+abatement response. Results indicate that the 25 €/tCO2eq methane price has a 
+rather moderate impact on the import structure based on the assumed central 
+baseline emission intensity estimates in Table 1. The supply regions most 
+affected are Russia, the US and the Middle East. There is an increase in imports 
+from supply countries with relatively lower assumed methane emission 
+intensities and a reduction in imports from countries with relatively higher 
+assumed emission intensities. If we assume emission intensities according to 
+the central baseline estimates in Table 1, imports from Russia decline and 
+imports from the US are completely eliminated, while imports from the Middle 
+East increase. The EU’s two main supplier countries remain Russia and Norway.  
+At 100 €/tCO2eq with the assumed central baseline methane emission 
+intensities, the supply mix effects are significantly amplified. The notional 
+methane price of 100 €/tCO2eq leads to a larger decrease in natural gas from 
+supply countries with relatively higher emission intensities. In contrast, imports 
+from countries with relatively lower methane emission intensities increase further 
+compared to the 25 €/tCO2eq. Supplies from Russia decline further, while 
+imports from North Africa are also sharply reduced. The now missing quantities 
+are largely compensated by the Middle East. Again, results here are dependent 
+on the assumed central baseline emission intensities in Table 1 and are only 
+illustrative given the uncertainties in baseline methane emission intensities. 
+ 
+ 
+Figure 16: EU Supply Mix CH4 Pricing without Producer Abatement Response (based on assumed emission 
+intensities from the central baseline estimates in Table 1) 
+Figure 17 indicates that if gas producers respond to a methane price by abating 
+75% of their methane emissions, the mark-up due to the methane price is 
+proportionally reduced compared to the CH4 pricing scenario without a producer 
+abatement response, and therefore the supply mix impacts illustrated in Figure 
+16 are mitigated as shown in Figure 17. If we assume 75% Abatement Below 
+Central Baseline Estimates in Table 1, the top four supplying countries remain 
+Russia, Norway, Algeria and Nigeria under both the 25 €/tCO2eq and even the 
+100 €/tCO2eq scenarios. 
+ 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 29    
+ 
+ 
+Figure 17: EU Supply Mix CH4 (Pricing with Producer Abatement Respons); based on assumed 75% abatement 
+below central baseline emission intensity estimatesin Table 1 
+The Asian market is modelled to absorb parts of the shifted volumes as a result 
+of growing flexibility in international gas markets. China receives diverted 
+volumes from the US due to EU methane pricing. Furthermore, volumes from 
+the Middle East and Russia, originally intended for the EU, are instead exported 
+to China. 
+Import countries 
+without access to 
+LNG terminals have 
+less flexibility in 
+shifting their gas 
+supply.  
+6.3.2 Impacts in EU Gas Import Countries 
+Figure 18 shows an example of the effect of methane pricing on the share of 
+Russian gas in Germany, France and the Netherlands - three EU member 
+states with a large dependence on gas. Again, based on the central baseline 
+emission intensity estimates from Table 1, Figure 18 indicates that under 
+methane pricing without a producer abatement response, the share of 
+Russian gas in these countries decreases. Germany still stays dependent on 
+Russian imports while in contrast, at 25 €/tCO2eq, France and the 
+Netherlands reduce their shares of Russian gas and at 100 €/tCO2eq cease to 
+import Russian gas at all. Germany remains relatively dependent on Russia 
+since, unlike France and the Netherlands, it is not assumed to have its own 
+LNG terminals nor the associated increased flexibility. Furthermore, at 
+100 €/tCO2eq Germany absorbs to a lesser extent parts of the omitted 
+volumes from France and the Netherlands. 
+ 
+ 
+Figure 18: Russian Share of Gas Supply (CH4 Pricing without Producer Abatement Response); based on 
+assumed central baseline emission intensity estimates in Table 1 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 30    
+ 
+Italy continues to import most of its gas from North Africa, mainly from Algeria, 
+at a methane price of 25 €/tCO2eq. However, LNG volumes from Nigeria are 
+replaced by lower methane emission intensity supply from the Middle East. At 
+100 €/tCO2eq, supply from North Africa is further reduced and replaced by 
+additional volumes from the Middle East and Europe. 
+ 
+Conclusion • The methane price of 25 €/tCO2eq has a rather small impact on the 
+EU supply structure if there is a producer abatement response. If no 
+abatement is assumed, 25 €/tCO2eq causes a moderate effect on the 
+import structure.  
+• In contrast, the notional price of 100 €/tCO2eq causes more changes 
+as countries with high emission intensities make use of possible 
+flexibility to export elsewhere and direct their gas flows to other 
+markets than the EU. With abatement response these effects stay 
+moderate, without abatement response they become more 
+noticeable. 
+ Impacts on Global Production 
+Besides the gas flow analysis, the model assesses the changes in production in between scenarios.  
+Global production 
+volumes are not 
+significantly 
+impacted because 
+production volumes 
+are predicted to be 
+reallocated to other 
+markets. 
+Based on the central baseline methane emission intensities we assumed in 
+Section 5.3.2, we here analyze the effect of a methane price on global natural 
+gas production. Effects on the global production mix are smaller than impacts 
+on import gas flows to the EU. Since a methane price of 25 €/tCO2eq only 
+decreases EU demand by less than 1% (due to the low assumed EU gas 
+demand elasticity), overall global gas production stays largely unimpacted and 
+global gas production volumes are predicted by the model to be reallocated to 
+other markets than the EU instead. On a regional level, production countries 
+that have access to spare LNG liquefaction capacity can redirect their 
+volumes to other markets. This is true so long as they were delivering gas to 
+the EU in 2025 via LNG (US and partially Russia) or they have access to LNG 
+liquefaction and/or regasification facilities.  
+The results at the regional level are only illustrative in the sense that they 
+show that there are effects on countries with high and low methane emission 
+intensities. Impacts on specific countries are highly uncertain due to the 
+aforementioned ambiguity surrounding actual methane emission levels in the 
+different supply countries. Uncertainty in emission intensities leads to 
+uncertainty in methane price mark-ups and thus in corresponding production 
+changes in global production and EU supply countries. 
+The following figure shows production changes relative to the BAU scenario. 
+Partly due to the redirection of LNG volumes, production volumes only 
+decrease by about 1%.  
+A price of 25 €/tCO2eq leads to an increase in production in countries with 
+relatively lower methane emission intensities and a decrease in production in 
+countries with relatively higher methane emission intensities. If we assume 
+the methane emission intensities in the central baseline estimates from 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 31    
+ 
+Table 1, methane pricing without a producer abatement response results in 
+decreased Russian production which is compensated by increases in other 
+regions, e.g. the US. Noticeable reduction can be found in Angola (-8%) due 
+to the relatively high assumed methane emission intensity and the cost of 
+exporting LNG to other markets. 
+ 
+ 
+Figure 19: Global Gas Production in Relation to BAU Scenario (CH4 Pricing without Producer Abatement 
+Response at 25 €/tCO2eq); based on assumed central baseline emission intensity estimates in Table 1 
+Figure 20 indicates that under the assumed central baseline estimates for 
+methane emission intensities in Table 1, a price of 100 €/tCO2eq without a 
+producer abatement response leads to an increase in production in the US as 
+well as in the Middle East. Contrarily, a decrease in production occurs in 
+Algeria (-30%) and Libya (-24%) because of the relatively higher emission 
+intensities assumed for gas production in these countries in the central 
+baseline estimates.  
+ 
+ 
+Figure 20: Global Gas Production in Relation to BAU Scenario (CH4 Pricing without Producer Abatement 
+Response at 100 €/tCO2eq); based on assumed central baseline emission intensity estimates in Table 1 
+In the CH4 Pricing with Producer Abatement Response scenario, and 
+assuming a methane price of 25 €/tCO2eq, the global production remains at a 
+rather constant level (see Figure 21). Noticeable reduction can be found in 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 32    
+ 
+Angola (-8%) due to the still relatively high assumed methane emission 
+intensity and the cost of exporting LNG to other markets. 
+ 
+ 
+Figure 21: Global Gas Production in Relation to BAU Scenario (CH4 Pricing with Producer Abatement 
+Response at 25 €/tCO2eq); based on assumed 75% abatement below central baseline emission intensity 
+estimates in Table 1 
+The changes in production at a methane price of 100 €/tCO2eq with producer 
+abatement response correspond to the methane pricing without producer 
+abatement response at a price level of 25 €/tCO2eq (we therefore also omit a 
+figure illustrating production impacts under CH4 Pricing with Producer 
+Abatement Response at 100 €/tCO2eq). 
+Variation in methane emission intensity assumptions and related methane 
+price mark-ups changes the modeled production impacts as one would 
+expect. There is a direct connection between increases in assumed methane 
+emission intensity and decreases in production and vice versa. This is 
+confirmed by our sensitivity analyses presented in Section 7. Increasing the 
+methane emission intensity for Russia or Algeria leads to a decline in the 
+country’s production. 
+Key-assumptions driving these results are cleaner and cheaper production in 
+the Middle East and in Trinidad & Tobago and therefore lower influence of 
+methane pricing. Furthermore, LNG provides a flexible supply for the EU. 
+Countries in close proximity to the EU such as Norway and the UK, are given 
+an advantage by short and therefore cost-efficient transport, and have just as 
+low methane emissions despite relatively high production cost. 
+ 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 33    
+ 
+ Impacts on Methane Emissions 
+Besides the gas flow analysis, the model assesses the changes in methane emissions. This section 
+analyzes the impacts on upstream methane emissions under the CH4 pricing scenarios compared to 
+the BAU scenario. 
+Assuming a 75% 
+abatement response 
+to an EU methane 
+price leads to a 
+significant reduction 
+in the EU’s methane 
+footprint from 
+upstream gas 
+supply chain 
+emissions. 
+6.5.1 Impacts on the EU’s Methane Footprint from Upstream Gas 
+Supply Chain Emissions 
+Based on the central baseline methane emission intensities we assumed in 
+Section 5.3.2, we analyze the effect of a methane price on methane 
+emissions from gas production attributed to the supply volumes for the EU27 
+(i.e. the EU’s methane footprint from upstream gas supply chain emissions). 
+In the BAU scenario, 3.25 Mt CH4 are emitted during production of EU gas 
+volumes in the gas supply countries according to our central baseline 
+emission intensity estimates in Table 1. Please note, that changes to the EU’s 
+methane footprint don’t necessarily correspond to similar changes in overall 
+methane emissions. 
+Methane emissions are reduced by almost 0.6 Mt at 25 €/tCO2eq and almost 
+1.6 Mt at 100 €/tCO2eq, respectively, in the methane pricing scenarios without 
+producer abatement response. Methane pricing therefore reduces the 
+upstream methane emissions footprint of the EU’s gas consumption by 18% 
+and 48%, respectively.15 This reduction in the EU methane footprint is due to 
+a decrease in supply from countries with relatively higher assumed emission 
+intensities and increases in supply from countries with relatively lower 
+assumed emission intensities.  
+If methane pricing can trigger not only a change in the EU supply mix, but also 
+a producer abatement response of 75% reduction in central baseline 
+upstream emission intensities for the gas volumes exported to the EU, then 
+upstream methane emissions decline by about 2.5 Mt (-78%) at 25 €/tCO2eq 
+and about 2.6 Mt (-79%) at 100 €/tCO2eq. This is close to 2% of the EU’s total 
+domestic greenhouse gas emissions in 2018 (Eurostat & EEA, 2020).16  
+Sensitivity checks indicate, that results are highly dependent on the assumed 
+relative emission intensities. With the application of the upper bound emission 
+intensity in Table 1 on Russian production and all other emission intensities 
+remaining the same, the EU’s upstream methane emission footprint from the 
+gas supply chain in the BAU increases by 0.2 Mt (+5%) and decreases by 
+2.2 Mt (-67%) with lower bound emission intensity. The former includes a 
+decrease in Russian supply to the EU and the latter comprises an increase in 
+Russian supply to the EU.  
+ 
+                                                      
+15 In comparison to BAU scenario 
+16 GHG emissions from EU27 countries (GWP100) 
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 34    
+ 
+ 
+Figure 22: EU Upstream Methane Emissions Footprint (CH4 Pricing without Producer Abatement Response); 
+based on assumed emission intensities from the central baseline estimates in Table 1  
+ 
+Figure 23: EU Upstream Methane Emissions Footprint (CH4 Pricing with Producer Abatement Response); 
+based on assumed 75% abatement below central baseline emission intensity estimates in Table 1 
+The reduction of 
+global methane 
+emissions is much 
+lower than on the 
+EU’s share of 
+upstream methane 
+emissions due to 
+redirecting of global 
+gas trade flows. 
+6.5.2 Impacts on Global Oil and Gas Methane Emissions 
+Now we extend the scope of the analysis beyond the methane emissions 
+directly related to the volumes delivered to the EU. Based on the results of the 
+section on gas production impacts we can already expect the results of a 
+methane price on global methane emissions to be much lower than on the 
+EU’s share of upstream methane emissions due to redirecting of global gas 
+trade flows to other markets than the EU.  
+Here, we choose to relate our impact estimates to total global oil and gas 
+supply chain methane emissions due to the difficulty in consistently separating 
+oil and gas methane emission sources. The range we use for total global oil 
+and gas supply chain methane emissions is 80 - 140 Mt CH4/yr based on 
+recent scientific studies.17 
+On a global level, without a producer abatement response, the decline in total 
+oil and gas methane emissions amounts to less than 1% at 25 €/tCO2eq and 
+1 - 2% at 100 €/tCO2eq due to the previously described reshuffling of global 
+gas trade flows. With producer abatement response, the 75% reduction in 
+central baseline emission intensities only over the EU’s share of the gas 
+production in the supply countries, results in a reduction in global oil and gas 
+methane emissions of around 2 - 3% at both 25 €/tCO2eq and 100 €/tCO2eq 
+(since the level of abatement is assumed to be the same at both price levels). 
+Varying the relative methane emission intensity assumptions for the major EU 
+gas supply countries to account for uncertainty indicates a reduction in total 
+global oil and gas methane emissions under this abatement scenario of up to 
+4%.  
+If abatement could be extended beyond the gas volumes delivered to the EU 
+(i.e., extended to 75% abatement below central baseline emission intensities 
+                                                      
+17 See: IEA, (2020a); Saunois et al. (2020); Schwietzke et al. (2016) and Hmiel et al. (2020).  
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 35    
+ 
+on all gas production in the supply countries) then global oil and gas supply 
+chain methane emissions would be reduced by around 15 - 25%. This would 
+be based on the plausible assumption that if producers were to implement 
+methane mitigation activities at their production facilities, these would not only 
+apply to the share of the production delivered to the EU, but extend beyond 
+those gas volumes. In addition, if oil and gas producers in EU gas supply 
+countries were to abate 75% of methane emissions also from their oil 
+production facilities – e.g., in response to the adoption of comprehensive 
+methane policies and regulations in oil and gas buying countries and/or in the 
+supply countries themselves - the impact on global oil and gas methane 
+emissions could potentially be roughly twice as large. 
+The results are reliant on assumptions about upstream methane emission 
+intensities for different gas supply countries for which there is currently very 
+limited data and therefore significant uncertainty outside the US. We therefore 
+conducted sensitivity analyses in Section 7 to provide information about the 
+robustness of the modeling results. From that analysis, it can be concluded 
+that results are sensitive to changes in assumed emission intensities. 
+ 
+Conclusion • Under the CH4 Pricing with Producer Abatement Response scenario, 
+upstream methane emissions for the gas volumes exported to the EU 
+decrease by about 2.5 Mt CH4. This is equivalent to a near 80% 
+reduction in the upstream methane emissions footprint of the EU’s 
+gas consumption compared to a BAU scenario with assumed central 
+baseline emission intensities. Varying the relative methane emission 
+intensity assumptions for the major EU gas supply countries away 
+from the central baseline emission intensities indicates a reduction in 
+total global oil and gas methane emissions under this abatement 
+scenario of up to 4%.  
+• If abatement could be extended beyond the gas volumes delivered to 
+the EU - i.e., extended to 75% abatement below central baseline 
+emission intensities on all gas production in the supply countries - 
+then global oil and gas supply chain methane emissions would be 
+reduced by around 15 - 25%. 
+  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 36    
+ 
+ Impact on EU Natural Gas Prices 
+The impact on the 
+average EU 
+wholesale gas price 
+is relatively small 
+with a 25 €/tCO2eq 
+methane price.  
+Based on the central baseline methane emission intensities we assumed in 
+Section 5.3.2, we analyze the effect of a methane price on wholesale market 
+prices for gas. Implementing a methane price would imply an increase in the 
+European wholesale gas market prices. The following figure shows the 
+resulting impact of methane pricing on the wholesale market prices for gas. 
+The influence of the methane price on the average EU wholesale gas price is 
+relatively limited at 25 €/tCO2eq and/or with abatement response and remains 
+within the range of historic price fluctuations.18  
+With a producer abatement response, the methane price mark-up impact on 
+wholesale gas prices is significantly lower. 
+ 
+ 
+Figure 24: Average Wholesale Natural Gas Price Impact 
+The impact on 
+residential gas 
+prices is relatively 
+small. This is due to 
+the large share of 
+taxes, levies, 
+distribution and 
+other price 
+components. 
+The increase in the European wholesale gas prices would translate into 
+effects on end-use prices. However, the impact on end user natural gas prices 
+is lower than on wholesale prices, as can be seen in Figure 25.19 This is due 
+to the large share of taxes, levies, distribution and other price components in 
+end-use gas prices. The mark-up on the average residential gas price 
+amounts to between 1% at 25 €/tCO2eq to 5% at 100 €/tCO2eq without a 
+producer abatement response. Due to lower end use prices for industry, the 
+mark-up has a greater influence, between nearly 2% at 25 €/tCO2eq and 8% 
+at 100 €/tCO2eq without a producer abatement response. With a producer 
+abatement response, the methane price mark-up on both residential and 
+industrial end-use gas prices is significantly lower.  
+ 
+                                                      
+18 Example: average hub wholesale day-ahead prices in Europe in Q4 2019 between 12.5 and 15 €/MWh  (EC, 2020c) 
+19 Price effects on consumer level are calculated based on publications of EU2 8 prices based on latest publication for 1st half year of 
+2020 for residential customers (5 – 55 MWh) (Eurostat, 2020c) and medium-sized industry (27 – 277 MWh) (Eurostat, 2020d) 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 37    
+ 
+ 
+Figure 25: Average Consumer Level Impact 
+Variation in methane emission intensity assumptions and related methane 
+price mark-ups away from the central baseline emission intensity 
+assumptions, changes the modeled price impacts as one would expect. This 
+is confirmed by our sensitivity analyses presented in Section 7. 
+ 
+Conclusion • The influence of methane pricing on the EU residential gas prices is 
+limited due to the large share of taxes, levies and other price 
+components in end-use gas prices and stays below 5%. 
+• The impact on industrial end-use gas prices is on the order of up to 
+9% under a methane price of 100 €/tCO2eq, but would be lower with a 
+producer abatement response. 
+ 
+  
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 38    
+ 
+7 Sensitivity Analyses 
+To analyze the sensitivity of our results to the uncertainty in emission intensities, we ran additional 
+model runs varying the assumptions for the scenario with methane pricing at 25 €/tCO2eq without a 
+producer abatement response. Hence, all parameters are kept equal as in the methane pricing without 
+a producer abatement response scenario with central baseline emission intensities from Table 1 except 
+for the emission intensities for Russia and Algeria, which are now taken from the upper and lower 
+bound baseline emissions from Table 1. These countries are two main supply countries for the EU with 
+relatively high emission intensities. This allows us to assess the extent to which the emission intensity 
+has an effect on the results. This is important to know, as there are large uncertainties regarding the 
+methane emission intensities. Emission intensity variations for other countries are only applied for the 
+price-wise order review. We choose to focus on the scenario without abatement response since 
+assuming abatement mitigates the price and supply mix impacts of methane pricing. 
+ Sensitivity of the Price-Wise Order of Gas Supply 
+Changing the 
+assumed methane 
+emission intensities 
+has immediate 
+impact on the 
+relative positions in 
+the EU price-wise 
+order of supply.  
+Methane pricing impacts production costs and ultimately the EU supply costs. 
+Therefore, it is important to examine the robustness of the price-wise order of 
+supply, as the main results are based on the central baseline emission 
+intensity estimates in Table 1.  
+Figure 26 shows the impact of variations in emission intensities for Russia 
+and Algeria in relation to the average supply cost in the given sensitivity 
+scenario.20 Algeria is already in the BAU able to supply more cost-efficiently 
+than the average, while Russia is at the other end of the scale. Variations in 
+emission intensities do not change the overall result. However, they indicate 
+that a change in the emission intensity can eventually lead to repositioning 
+within the price-wise order of supply. In the case that the upper bound 
+emission intensity is applied to Algeria, its relative cost advantage is reduced 
+and its position deteriorates somewhat. A similar influence can also be seen 
+on Russian supply. The impact is weaker on Russian LNG supply compared 
+to Russian pipeline supply as costs of LNG transportation already provide for 
+a worse position.  
+Further variations in emission intensities on other countries show that the 
+application of lower bound emission intensities, at 25 €/tCO 2eq and 
+100 €/tCO2eq, does not change the price-wise order, as impact of methane 
+pricing is low. In contrast, a change to higher bound emission intensities does 
+have an impact. The effect is strongest for countries with already high central 
+baseline estimates and at a price of 100 €/tCO2eq. For example, Libya is 
+under central baseline estimates below the average supply price, but worsens 
+its relative cost position significantly with the application of the upper bound 
+emission intensity. 
+ 
+                                                      
+20 Average LNG and pipeline supply costs for Russia  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 39    
+ 
+ 
+Figure 26: Variations in EU Supply Costs; changing the assumed methane emission intensities for Russia (RU) 
+and Algeria (DZ) while keeping the rest on central baseline estimates (low = lower bound estimates; high = 
+upper bound estimates) under methane pricing at 25 €/tCO2eq without a producer abatement response 
+ Sensitivity of Impacts on the EU Supply Mix 
+The sensitivity 
+analyses indicate a 
+strong dependency 
+of supply mix 
+changes on 
+assumptions for 
+methane emission 
+intensities. 
+Variations in 
+emission intensities 
+show that higher 
+methane emission 
+intensities result in 
+lower import 
+volumes to the EU 
+and vice versa. 
+Results indicate a strong dependency of the supply mix on methane emission 
+intensities. Variations in assumptions affect the results, thus the results based 
+on central baseline methane intensity estimates in regard to regional effects 
+are not very robust. Nonetheless, aggregated results (e.g. increased emission 
+intensities lead to less imports) are robust to our sensitivity checks. 
+As previously discussed in Section 6, a change in central baseline emission 
+intensities to lower or upper bound emission intensities results in 
+corresponding changes for the EU supply mix. The following graphs show the 
+differences in import volumes from Russia (blue bars) and Algeria (orange 
+bars). Emission intensity variations are compared to the BAU scenario (left 
+panel) and the methane pricing at 25 €/tCO2eq without producer abatement 
+response scenario with central baseline emission intensities for all countries 
+including Algeria and Russia (right panel), respectively. We vary the emission 
+intensities for Algeria and Russia to correspond to the upper and lower 
+bounds in Table 1 while the remaining regions correspond to central baseline 
+estimates from Table 1. The variations in emission intensities always show 
+that higher methane emission intensities result in lower import volumes to the 
+EU and vice versa. 
+ 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 40    
+ 
+ 
+Figure 27: Variations in EU Supply Volumes; changing the assumed methane emission intensities for Russia 
+(RU) and Algeria (DZ) while keeping the rest on central baseline estimates (low = lower bound estimates; high 
+= upper bound estimates) under methane pricing at 25 €/tCO2eq without a producer abatement response; left 
+panel shows results compared to the BAU scenario and the right panel results compared to methane pricing at 
+25 €/tCO2eq without producer abatement response scenario with central baseline emission intensities assumed 
+for all countries including Algeria and Russia 
+Figure 28 indicates that the upper bound emission intensity from Table 1 for 
+Russia leads to a strong decline in supply by around 37%, regardless of lower 
+or central baseline estimate emission intensity for Algeria. Imports from the 
+latter stay rather unchanged in this setup. Under these assumptions, the 
+missing volumes from Russian supply are compensated by increased imports 
+from the Middle East and the UK. Increasing the emission intensity of Algeria 
+to the upper bound in Table 1, with simultaneous decrease in Russian 
+emissions intensity to the lower bound results in a strong decrease of supply 
+from Algeria, which is mostly compensated by imports from Russia. Additional 
+changes in emission intensities from other supply countries would have 
+further directionally similar effects. An increase or decrease in the emission 
+intensity can provide the price change needed to take advantage of the 
+existing, but still limited flexibility in the global gas market, where especially 
+countries with LNG liquefaction capacities can divert their supply volumes to 
+other importers than the EU.  
+ 
+ 
+Figure 28: Supply Mix for Concurrent Variations for Russia and Algeria; based on assumed emission intensities 
+from the central baseline estimates as well as lower and upper bound  – no abatement response 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 41    
+ 
+Variation in methane emission intensity assumptions and related methane 
+price mark-ups impact the production in regions considered as one would 
+expect. Increasing the methane emission intensity for Russia or Algeria leads 
+to a decline in the country’s production and vice versa. 
+ Sensitivity of Impacts on EU Methane Footprint 
+Our sensitivity 
+checks show that 
+the size of the 
+supply mix, gas 
+price and methane 
+emission impacts 
+are highly sensitive 
+to assumptions 
+regarding the level 
+and relative 
+differences in 
+methane emission 
+intensities for 
+different gas supply 
+regions. 
+The results for methane emission levels also indicate a strong dependency on 
+assumptions regarding methane emission intensities for different supply 
+regions. Note that here we only focus on methane pricing without a producer 
+abatement response and hence do not, in this section, consider variations in 
+the abatement assumptions or impacts which will by construction yield larger 
+reductions and impacts on methane emissions.  
+Figure 29 shows the different emission intensity variations that are examined 
+in relation to the BAU scenario and the methane pricing at 25 €/tCO2eq 
+without producer abatement response scenario, respectively. Green bars 
+represent stronger declines in methane emissions in comparison to the BAU 
+scenario and red bars represent the opposite. Lower and upper bound 
+emission intensity variation in relation to the BAU results, lead to stronger 
+declines, except in case of a sole change to a higher Russian methane 
+emission intensity. In contrast, variations in comparison to the CH4 Pricing 
+without Producer Abatement Response scenario show more mixed results. A 
+singular lower emission intensity in Russia or Algeria as well as coexisting 
+higher emission intensity for Algeria and lower for Russia, result in less 
+methane emissions compared to the methane pricing without producer 
+abatement response scenario. In this case, central baseline emission 
+intensities are assumed for all countries including for Algeria and Russia.  
+ 
+ 
+Figure 29: Variations in EU Suppy Emissions; changing the assumed methane emission Intensities for Russia 
+(RU) and Algeria (DZ) while keeping the rest on central baseline estimates (low = lower bound estimates; high 
+= upper bound estimates); left panel shows results compared to the BAU scenario and the right panel results 
+compared to methane pricing at 25 €/tCO2eq without producer abatement response scenario with central 
+baseline emission intensities assumed for all countries including Algeria and Russia  
+A sole increase or decrease of emission intensity assumptions for Russia 
+leads to 5% higher and 67% lower methane emissions, respectively 
+compared to the BAU scenario based on central baseline emission intensities 
+
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 42    
+ 
+as seen in the left panel of Figure 29. In relation to methane pricing at central 
+baseline estimates, EU’s methane footprint is 27% higher and 60% lower, 
+respectively, as seen in the right panel of Figure 29. The upper bound 
+methane emission intensity for Russia and lower bound for Algeria result in a 
+12% decline in EU methane footprint emissions under the methane pricing 
+without producer abatement response at 25 €/tCO2eq compared to the BAU. 
+As seen in the right panel, this corresponds to an increase of 6% compared to 
+methane pricing without producer abatement response based on central 
+baseline emission intensity estimates for all countries. If baseline emission 
+assumptions for the two countries are inverted, EU methane footprint 
+emissions decline by 66% compared to the BAU scenario and decline by 59% 
+compared to methane pricing without producer abatement response based on 
+central baseline emission intensity estimates for all countries.  
+ 
+Conclusion • Varying the assumptions regarding methane emission intensities for 
+Russia and Algeria strongly affects the modeling results, thus results 
+based on assuming the central baseline methane emission intensity 
+estimates from Table 1 should be taken as illustrative examples of the 
+directional effects of methane pricing.  
+• This finding is intuitive and does not change the assessment that a 
+unilateral EU methane price, even without a producer abatement 
+response, can have an impact on the EU’s methane footprint but does 
+not impact net export countries significantly because they, according 
+to our modeling, can divert their export volumes to other markets than 
+the EU. 
+  
+                          
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 43    
+ 
+8 Bibliography 
+Alvarez, R. A., Zavala-Araiza, D., Lyon, D. R., Allen, D. T., Barkley, Z. R., Brandt, A. R., … 
+Hamburg, S. P. (2018). Assessment of methane emissions from the US oil and gas 
+supply chain. Science, 361(6398), pp.186-188. 
+bp. (2020a). Energy Outlook 2020.  
+bp. (2020b). Statistical Review of World Energy 2020.  
+EC - European Commission. (2020a). EU 2030 Climate Target Plan Impact Assessment.  
+EC - European Commission. (2020b). EU Strategy to Reduce Methane Emissions.  
+EC - European Commission. (2020c). Quarterly Report on European Gas Markets.  
+Eurostat & EEA - European Environment Agency. (2020). Greenhouse gas emissions by source 
+sector (ENV_AIR_GGE). Retrieved from 
+https://ec.europa.eu/eurostat/databrowser/view/env_air_gge/default/table?lang=en  
+Eurostat. (2020a). Supply of gas - monthly data (NRG_103m). Retrieved from 
+https://ec.europa.eu/eurostat/databrowser/view/nrg_103m/default/table?lang=en  
+Eurostat. (2020b). Imports - gas - monthly data (NRG_124M). Retrieved from 
+https://ec.europa.eu/eurostat/databrowser/view/nrg_124m/default/table?lang=en 
+Eurostat. (2020c). Gas prices for household consumers (NRG_PC_202). Retrieved from 
+https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202/default/table  
+Eurostat. (2020d). Gas prices for non-household consumers (NRG_PC_203). Retrieved from 
+https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_203/default/table  
+Hmiel, B., Petrenko, V. V., Dyonisius, M. N., Buizert, C., Smith, A. M., Place, P. F., … 
+Dlugokencky, E. (2020). Preindustrial 14CH4 indicates greater anthropogenic fossil 
+CH4 emissions. Nature, 578(7795), 409–412. 
+IEA - International Energy Agency. (2020a). Methane Tracker. Retrieved from 
+https://www.iea.org/reports/methane-tracker-2020 
+IEA - International Energy Agency. (2020b). World Energy Outlook 2020.  
+IPCC. (2013). Climate Change 2013: The Physical Science Basis.  
+Marks, L. (2019). The Abatement Cost of Methane Emissions from Natural Gas Production.  
+MEACP - Ministry of Economic Affairs and Climate Policy. (2019). Natural resources and 
+Geothermal energy in the Netherlands 2019. 
+Norwegian Petroleum. (2020). Emissions to Air. Retrieved from 
+https://www.norskpetroleum.no/en/environment-and-technology/emissions-to-air/ 
+Saunois, M., Stavert, A. R., Poulter, B., Bousquet, P., Canadell, J. G., Jackson, R. B., …  
+Zhuang, Q. (2020). The Global Methane Budget 2000–2017. Earth System Science 
+Data, 12(3), 1561–1623.  
+Schwietzke, S., Sherwood, O. A., Bruhwiler, L. M. P., Miller, J. B., Etiope, G., Dlugokencky, E. 
+J., … Tans, P. P. (2016). Upward revision of global fossil fuel methane emissions based 
+on isotope database. Nature, 538(7623), 88–91. 
+UBA - German Federal Environment Agency. (2020). Methodenkonvention 3.1 zur Ermittlung 
+von Umweltkosten - Kostensätze.  
+ 
+ 
+ 
+Scenarios, Effectiveness and Efficiency of EU Methane Pricing in the Energy Sector 25.01.2021 - page 44    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+enervis energy advisors GmbH 
+Schlesische Str.29 - 30 
+10997 Berlin 
+Fon: +49 (0)30 69 51 75 - 0 
+Fax: +49 (0)30 69 51 75 - 20 
+kontakt@enervis.de 
+www.enervis.de 
+ 
+ 
+enervis energy advisors GmbH 
+Schlesische Str.29 - 30 
+10997 Berlin 
+Fon: +49 (0)30 69 51 75 - 0 
+Fax: +49 (0)30 69 51 75 - 20 
+kontakt@enervis.de 
+www.enervis.de 
+ 
+ 

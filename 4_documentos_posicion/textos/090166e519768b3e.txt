@@ -1,0 +1,160 @@
+ 
+ 
+ 
+Hager Group feedback to proposal for a directive – COM(2024)561 
+ 
+Hager Group welcomes the revision proposal of the measuring instrument directive to adapt them to 
+current markets and technologic needs and consequently to avoid national regulations which acts 
+against a well functioning single market. 
+ 
+Considering electricity energy metering we welcome the explicit definition of direct current meters as part 
+of the directive and the definition of essential requirements for measuring systems for electric vehicle 
+supply equipment (EVSE). 
+ 
+The key point is to avoid any confusion regarding the applicability of the requirements of Annex Va. 
+In a number of cases, electric vehicle charging requires a measurement often carried out using an instrument that 
+complies with the requirements of Annex V.  
+Below is a non-exhaustive list of such uses: 
+• Home charging measured separately (individual house or condominium with designated parking) on a 
+specific delivery point or not 
+• Measurement done for energy management 
+• Measurement done in the context of providing flexibility 
+Even if the directive on measuring instruments does not define the use case, it is essential not to create confusion 
+and to clarify the framework for the use of the requirements of Annex Va. 
+ 
+Below we have summarized our comments on the proposed amendment made through the text COM(2024)561 
+and its annexes. 
+Recitals 
+To avoid any confusion, it is necessary to clarify in the recitals that the requirements for electric vehicle charging 
+apply to the measuring instruments used in EVSE. We propose to add "the measuring instruments used in" in 
+recital (2). 
+ 
+(2) The scope and the associated essential requirements covered by Directive 2014/32/EU were already established 
+by Directive 2004/22/EC3, of which Directive 2014/32/EU is a recast. Thus, they have remained unchanged for more 
+than 20 years. In the meantime, new measuring instruments have appeared on the market that are not covered by 
+Directive 2014/32/EU. That is notably the case for the measuring instruments used in electric vehicle supply 
+equipment and compressed gas dispensers, which are important for the successful rollout of clean mobility. 
+Moreover, Directive 2014/32/EU does not cover thermal energy meters for cooling applications. In addition, as far as 
+electricity and gas meters are concerned, Directive 2014/32/EU neither covers the use of hydrogen and other gases 
+that can be used as alternatives to more traditional gases, nor enables to take full advantage of smart metering 
+which plays an important role in achieving the Union climate objectives. Therefore, it is appropriate to amend the 
+scope of Directive 2014/32/EU and the essential requirements set out in the Annexes to that Directive in order to 
+take into account technological progress. 
+ 
+Similarly, the requirements of Annex Va should not apply in the context of the use of measuring instruments for 
+energy management or charging power purposes. We propose to clarify the scope by adding "whose measurement 
+result is used as the basis for a commercial transaction" in recital (7). 
+ 
+(7) A new Annex Va to Directive 2014/32/EU should be inserted in order to address the need for harmonised 
+essential requirements with regard to measuring systems for electric vehicle supply equipment whose 
+measurement result is used as the basis for a commercial transaction. 
+ 
+Article 2: Entry into force and transition period 
+The transitional arrangements as described in article 2 is confusing, in particular for instruments where existing 
+national certificates have already been published and will be covered by the amendments of the directive. 
+We propose to use the text of the former version of the directive. 
+ 
+Proposed Article 2: 
+By way of derogation from Article 7(2) of Directive 2014/32/EU, Member States shall permit for measurement tasks 
+for which they have prescribed the use of a legally controlled measuring instrument the placing on the market and 
+putting into use of measuring instruments that satisfy the rules applicable before [OP please insert the date = 24 
+months after the date of entry into force of this Directive] until the expiry of the validity of the type approval of those 
+measuring instruments or incase of a type approval of indefinite validity, for a period of a maximum of ten year from  
+[OP please insert the date = 24 months after the date of entry into force of this Directive]. 
+Ref. Ares(2025)1679986 - 03/03/2025
+
+ 
+ 
+Annex I: adjustment of point 10.2. on the indication of results 
+The inclusion of protection against accidental deletion should be limited to meters whose index can be reset. We 
+propose to be explicit on this subject by adding "for meters with reset capability." 
+ 
+10.2. The indication of any result shall be clear and unambiguous, for meters with reset capability protected 
+against accidental deletion, and accompanied by such marks and inscriptions necessary to inform the user of the 
+significance of the result. Easy reading of the presented result shall be permitted under normal conditions of use. 
+Additional indications may be shown provided they cannot be confused with the metrologically controlled indications. 
+ 
+Annex I: clause 10.6 display of the result 
+Clause 10.6 derogates from the requirements of clauses 10.1 and 10.5; however, it lacks coherence and needs 
+clarification. 
+• Requirement 10.6 (a) is identical to the requirement of 10.1. 
+• Should it be understood that to comply with 10.6, one must meet requirement (a) AND (b)? To clarify the 
+situation, we propose adding an "or" between (a) and (b). 
+• Requiring traceability makes sense for (b) but not for (a) since the display system is on the measuring 
+instrument. 
+• The requirement introduced by the last sentence is inconsistent with that required in (b). The traceability and 
+lack of manipulation required in (b) allow confirming the origin of the measurement result by a metrologically 
+controlled measuring instrument. This approach avoids metrological control of the communication chain. 
+This requirement is therefore superfluous and counterproductive to achieving the desired objective. We 
+propose deleting the last sentence of 10.6. 
+ 
+ 
+‘10.6. By way of derogation from points 10.1. and 10.5., for gas and electricity meters, measuring systems for electric 
+vehicle supply equipment (‘EVSE’) and measuring systems for compressed gas dispensers the following shall apply:  
+The measuring instruments shall use one or more of the following technical solutions to indicate the measurement 
+results:  
+ (a) be fitted with a metrologically controlled display, readout and/or printer accessible without tools to present 
+      the relevant data or;  
+ (b) present the relevant data on a remote display accessible without tools or on a device of the consumer or     
+      end-user. The presented results shall be traceable to the measuring instrument under       
+      metrological control. Security measures shall provide evidence of tampering.  
+ 
+The measurement result presented by the respective technical solution shall serve as the basis for the price to pay, 
+when applicable.  
+ 
+Annex I: clause 10.7 display of the result 
+Clause 10.7 should only apply to EVSE that allow direct sales (which is the case for publicly accessible EVSE, see 
+AFIR). 
+ 
+10.7. By way of derogation from point 10.4., for measuring systems for EVSE used for direct sales and 
+measuring systems for compressed gas dispensers, the measurement data shall be fully established in a device 
+or a system so that it can be immediately presented to the consumer. 
+ 
+Annex I: clause 10.8 display of the result 
+Clause 10.8 should only apply to EVSE that allow direct sales (which is the case for publicly accessible EVSE, 
+see AFIR). During a direct sale of energy for electric vehicle charging, the measurement result is only presented 
+to the end customer (buyer), as the seller is not physically present at the time of the transaction. The transaction 
+information is transmitted electronically to the latter. We propose to modify clause 10.8 as follows: 
+ 
+Proposed update: 
+10.8. By way of derogation from point 10.4., measuring systems for EVSE used for direct sales shall be 
+designed to present the measurement result to the end customer and transmit it to all other parties in the 
+transaction when installed as intended. 
+ 
+Annex Va: scope 
+As explained for the recitals, it is important to clearly define the use case to which the requirements of this annex 
+apply. To avoid any confusion, it is necessary to specify that the requirements for measuring instruments used in 
+EVSE apply when the measurement result is used as the basis for the commercial transaction. We propose adding 
+"as the basis for the commercial transaction of charging or discharging" in the scope of the annex. 
+ 
+ 
+ANNEX Va 
+MEASURING SYSTEMS FOR ELECTRIC VEHICLE SUPPLY EQUIPMENT (MI-003a)  
+ 
+ 
+ 
+The relevant requirements of Annex I, the specific requirements of this annex, and the conformity assessment 
+procedures listed in this annex apply to measuring systems for EVSE intended to be used as the basis for the 
+commercial transaction of charging or discharging in residential, commercial, or light industrial environments. 
+ 
+Annex Va: definitions 
+As with the scope, it is necessary to clarify the definition to avoid any confusion by adding "intended to be used as 
+the basis for the commercial transaction of charging or discharging" in the definition. 
+ 
+DEFINITIONS 
+A measuring system for EVSE intended to be used as the basis for the commercial transaction of charging or 
+discharging refers to a system that includes all relevant metrological functions related to the transfer (in either 
+direction) at a specified transfer point of electrical energy between EVSE (e.g., electric vehicle charging stations) and 
+electric vehicles. 
+ 
+Annex Va: specific requirements 
+The operating conditions described in Table 1 of this annex are different from those specified in Annex V. Therefore, 
+it is not appropriate to use the same designation for accuracy classes. We propose, for example, to name them 
+"class Aa, class Ba, class Ca."  
+Our preferred alternative to keep the same designation would be to use the same operating conditions as in Annex V 
+and to refer to table 1 of Annex V. 
+ 
+1. Accuracy  
+The manufacturer shall specify the class index of the measuring system for EVSE. The class indices are defined as: 
+Class Aa, Ba and Ca.  
+ 
